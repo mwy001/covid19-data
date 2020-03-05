@@ -525,7 +525,7 @@
 ---- Niigata    6    0    0
 ---- Gifu    2    0    0
 ---- Nagano    2    0    0
----- Tochigi    1    0    0
+---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
 ---- Saitama    3    0    0
 ---- Ishikawa    6    0    0
