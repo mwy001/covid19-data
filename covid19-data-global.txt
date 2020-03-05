@@ -98,16 +98,16 @@
 ---- Guangdong    1350    7    1133
 ------ Shenzhen    418    3    350
 ------ Guangzhou    347    1    292
------- Foshan    84    0    69
------- Dongguan    99    1    86
+------ Foshan    84    0    70
+------ Dongguan    99    1    88
 ------ Zhuhai    98    1    83
 ------ Jiangmen    23    0    20
 ------ Zhongshan    66    0    62
 ------ Meizhou    16    0    15
 ------ Maoming    14    0    14
 ------ Shantou    25    0    23
------- Zhanjiang    22    0    21
------- Zhaoqing    19    1    15
+------ Zhanjiang    22    0    22
+------ Zhaoqing    19    1    18
 ------ Yangjiang    14    0    13
 ------ Huizhou    62    0    62
 ------ Jieyang    8    0    8
@@ -158,7 +158,7 @@
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Hebei    318    6    301
 ------ Tangshan    58    1    54
------- Zhangjiakou    41    0    37
+------ Zhangjiakou    41    0    38
 ------ Handan    32    0    31
 ------ Shijiazhuang    29    0    28
 ------ Cangzhou    48    3    45
@@ -183,16 +183,16 @@
 ------ Daxinganling    2    0    2
 ------ Yichun    1    0    1
 ---- Henan    1272    22    1234
------- Xinyang    274    2    267
+------ Xinyang    274    2    268
 ------ Kaifeng    26    0    26
------- Zhengzhou    157    5    150
------- Zhoukou    76    1    73
+------ Zhengzhou    157    5    152
+------ Zhoukou    76    1    74
 ------ Nanyang    156    3    149
 ------ Anyang    53    0    52
 ------ Luohe    35    0    35
 ------ Puyang    17    0    17
 ------ Shangqiu    91    3    88
------- Xinxiang    57    3    53
+------ Xinxiang    57    3    54
 ------ Hebi    19    0    19
 ------ Jiyuan    5    0    4
 ------ Zhumadian    139    0    139
@@ -202,17 +202,17 @@
 ------ Luoyang    31    1    30
 ------ Sanmenxia    7    1    6
 ---- Hubei    67332    2871    38557
------- Wuhan    49671    2305    26404
+------ Wuhan    49671    2305    26415
 ------ Xiaogan    3518    121    2821
 ------ Huanggang    2907    121    2472
 ------ Ezhou    1394    52    918
 ------ Jingzhou    1580    48    1269
 ------ Suizhou    1307    42    975
------- Yichang    931    33    639
+------ Yichang    931    33    640
 ------ Jingmen    928    39    686
 ------ Xiangyang    1175    35    980
------- Huangshi    1015    36    822
------- Shiyan    672    7    527
+------ Huangshi    1015    36    827
+------ Shiyan    672    7    528
 ------ Xiantao    575    20    481
 ------ Xianning    836    14    776
 ------ Tianmen    496    15    435
@@ -247,7 +247,7 @@
 ------ Wuhai    2    0    2
 ------ Xinganmeng    1    0    1
 ---- Jiangsu    631    0    577
------- Nanjing    93    0    80
+------ Nanjing    93    0    83
 ------ Suzhou    87    0    70
 ------ Huainan    66    0    62
 ------ Xuzhou    79    0    73
@@ -276,7 +276,7 @@
 ---- Jilin    93    1    86
 ------ Changchun    45    0    44
 ------ Tonghua    6    0    3
------- Baicheng    1    0    0
+------ Baicheng    1    0    1
 ------ Siping    15    1    14
 ------ Liaoyuan    7    0    7
 ------ Gongzhuling    6    0    6
@@ -324,7 +324,7 @@
 ---- Shandong    758    6    516
 ------ Jining    260    0    141
 ------ Dezhou    37    2    21
------- Jinan    47    0    37
+------ Jinan    47    0    38
 ------ Weifang    44    0    34
 ------ Yantai    47    0    39
 ------ Zibo    30    1    24
@@ -357,7 +357,7 @@
 ------ Yangpu District    9    0    9
 ---- Shanxi    133    0    124
 ------ Jinzhong    37    0    32
------- Datong    12    0    9
+------ Datong    12    0    11
 ------ Yuncheng    19    0    18
 ------ Jincheng    10    0    10
 ------ Xinzhou    7    0    7
@@ -369,11 +369,11 @@
 ------ Linfen    2    0    2
 ---- Sichuan    538    3    406
 ------ Chengdu    144    3    97
------- Garzê Tibetan Autonomous Prefecture    78    0    57
+------ Garzê Tibetan Autonomous Prefecture    78    0    58
 ------ Dazhou    42    0    35
 ------ Nanchong    39    0    32
 ------ Bazhong    24    0    18
------- Deyang    18    0    13
+------ Deyang    18    0    14
 ------ Mianyang    22    0    18
 ------ Guang'an    30    0    26
 ------ Luzhou    24    0    20
