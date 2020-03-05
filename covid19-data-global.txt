@@ -468,24 +468,24 @@
 ---- Ulsan    23    0    0
 -- Italy    3089    107    276
 ---- Abruzzo    8    0    0
----- Apulia    12    1    1
----- Basilicata    2    0    0
+---- Apulia    14    1    1
+---- Basilicata    1    0    0
 ---- Calabria    2    0    0
 ---- Campania    45    0    0
----- Emilia-Romagna    658    31    6
+---- Emilia-Romagna    698    31    6
 ---- Friuli Venezia Giulia    21    0    0
----- Lazio    41    0    3
----- Lombardy    1777    97    250
----- Marche    120    4    0
+---- Lazio    44    0    3
+---- Lombardy    2251    97    250
+---- Marche    124    4    0
 ---- Molise    7    0    0
----- Piemont    106    2    0
+---- Piemont    108    2    0
 ---- Sardinia    2    0    0
----- Sicily    16    0    2
+---- Sicily    18    0    2
 ---- Trentino-Alto Adige - Südtirol    7    0    0
----- Tuscany    60    0    1
+---- Tuscany    61    0    1
 ---- Umbria    9    0    0
----- Liguria    21    3    4
----- Veneto    360    10    9
+---- Liguria    28    3    4
+---- Veneto    407    10    9
 ---- Bolzano    1    0    0
 ---- Aosta Valley    2    0    0
 -- Iran, Islamic Republic of    2922    92    552
