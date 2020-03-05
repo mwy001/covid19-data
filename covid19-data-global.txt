@@ -75,11 +75,11 @@
 ------ Wansheng District    1    0    1
 ---- Fujian    296    1    270
 ------ Putian    56    0    46
------- Quanzhou    47    0    44
------- Nanping    20    0    18
+------ Quanzhou    47    0    45
+------ Nanping    20    0    20
 ------ Zhangzhou    20    0    16
 ------ Ningde    26    0    24
------- Sanming    14    0    12
+------ Sanming    14    0    14
 ------ Fuzhou    72    1    71
 ------ Xiamen    35    0    35
 ------ Longyan    6    0    6
@@ -97,7 +97,7 @@
 ------ Jinchang    1    0    1
 ---- Guangdong    1350    7    1133
 ------ Shenzhen    418    3    350
------- Guangzhou    346    1    292
+------ Guangzhou    347    1    292
 ------ Foshan    84    0    69
 ------ Dongguan    99    1    86
 ------ Zhuhai    98    1    83
@@ -119,7 +119,7 @@
 ---- Guangxi    252    2    210
 ------ Hechi    28    1    16
 ------ Fangchenggang    19    0    12
------- Liuzhou    24    0    19
+------ Liuzhou    24    0    20
 ------ Laibin    11    0    4
 ------ Beihai    44    1    38
 ------ Guilin    32    0    31
@@ -157,7 +157,7 @@
 ------ Ledong Li Autonomous County    2    0    2
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Hebei    318    6    301
------- Tangshan    58    1    52
+------ Tangshan    58    1    54
 ------ Zhangjiakou    41    0    37
 ------ Handan    32    0    31
 ------ Shijiazhuang    29    0    28
@@ -221,7 +221,7 @@
 ------ Shennongjia    11    0    11
 ---- Hunan    1018    4    916
 ------ Changsha    242    2    201
------- Yueyang    156    1    138
+------ Yueyang    156    1    139
 ------ Zhuzhou    80    0    73
 ------ Loudi    76    0    68
 ------ Changde    82    0    80
@@ -274,7 +274,7 @@
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
 ---- Jilin    93    1    86
------- Changchun    45    0    43
+------ Changchun    45    0    44
 ------ Tonghua    6    0    3
 ------ Baicheng    1    0    0
 ------ Siping    15    1    14
@@ -436,7 +436,7 @@
 ------ Wenshan    2    0    2
 ------ Lincang    1    0    1
 ---- Zhejiang    1213    1    1114
------- Wenzhou    504    1    480
+------ Wenzhou    504    1    482
 ------ Taizhou    146    0    129
 ------ Shilifeng Prison    36    0    15
 ------ Hangzhou    169    0    162
@@ -452,7 +452,7 @@
 ---- Busan    92    0    0
 ---- Chungcheongbuk-do    12    0    0
 ---- Chungcheongnam-do    86    0    0
----- Daegu    4326    28    3
+---- Daegu    4326    29    3
 ---- Daejeon    16    0    1
 ---- Gangwon-do    23    0    0
 ---- Gwangju    14    0    2
@@ -488,35 +488,36 @@
 ---- Veneto    360    6    9
 ---- Bolzano    1    0    0
 -- Iran, Islamic Republic of    2922    92    552
----- Qom    203    2    0
----- Tehran    599    0    0
----- Fars    32    0    0
----- Markazi    74    0    0
----- Mazandaran    51    1    0
----- Ardabil    9    0    0
----- South Khorasan    3    0    0
+---- Qom    354    30    0
+---- Tehran    1296    0    0
+---- Fars    49    2    0
+---- Markazi    149    11    0
+---- Mazandaran    81    13    0
+---- Ardabil    12    3    0
+---- South Khorasan    4    1    0
 ---- Ilam    9    0    0
----- Isfahan    45    0    0
----- Hamadan    5    0    0
----- Razavi Khorasan    27    0    0
----- Hormozgan    3    0    0
----- Kurdistan    15    0    0
----- Qazvin    34    0    0
----- Yazd    5    0    0
----- West Azerbaijan    1    0    0
----- Gilan    136    0    0
----- Golestan    34    0    0
----- Khuzestan    45    0    0
----- Alborz    68    0    0
----- Semnan    20    0    0
----- Lorestan    16    0    0
----- East Azerbaijan    25    0    0
----- Kermanshah    19    0    0
----- Sistan and Baluchestan    10    0    0
----- Kerman    16    0    0
----- Zanjan    6    0    0
+---- Isfahan    100    2    0
+---- Hamadan    10    1    0
+---- Razavi Khorasan    36    8    0
+---- Hormozgan    14    2    0
+---- Kurdistan    14    0    0
+---- Qazvin    80    7    0
+---- Yazd    7    3    0
+---- West Azerbaijan    7    0    0
+---- Gilan    253    0    0
+---- Golestan    33    6    0
+---- Khuzestan    50    12    0
+---- Alborz    112    7    0
+---- Semnan    37    0    0
+---- Lorestan    23    4    0
+---- East Azerbaijan    60    6    0
+---- Kermanshah    17    2    0
+---- Sistan and Baluchestan    15    0    0
+---- Kerman    15    0    0
+---- Zanjan    7    0    0
 ---- Chaharmahal and Bakhtiari    1    0    0
 ---- North Khorasan    1    0    0
+---- Kohgiluyeh and Boyer-Ahmad    2    0    0
 -- Japan    331    6    43
 ---- Hokkaido    83    3    1
 ---- kochi    7    0    0
@@ -526,15 +527,15 @@
 ---- Nagano    2    0    0
 ---- Tochigi    1    0    0
 ---- Kumamoto    6    0    0
----- Saitama    1    0    0
+---- Saitama    3    0    0
 ---- Ishikawa    6    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    44    1    0
----- Wakayama    13    1    2
+---- Tokyo    52    1    0
+---- Wakayama    14    1    2
 ---- Kyoto    6    0    2
----- Osaka    17    0    1
+---- Osaka    18    0    1
 ---- Chiba    15    0    0
----- Kanagawa    31    1    1
+---- Kanagawa    34    1    1
 ---- Shizuoka    1    0    0
 ---- Aichi    49    0    2
 ---- Nara    1    0    1
@@ -542,9 +543,9 @@
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    3    0    0
+---- hyogo    4    0    0
 ---- oita    1    0    0
----- Yamaguchi    1    0    0
+---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
 ---- Shiga    1    0    0
 -- France    285    4    12
