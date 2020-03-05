@@ -1,0 +1,22 @@
+Track the COVID-19 global stats which are collected from various sources. The output format is trivial but human-readable.
+
+Meaning of 3 numbers on each line: confirmed deaths recovered
+
+The county names follow the iso3166 convention (from python3's iso3166 lib). For each country, there're 3 levels at most.
+  Level1: Country, starts with 2 dashes
+  Level2: Province/State, starts with 4 dashes
+  Level3: City/County, starts with 6 dashes
+
+  For example:
+  -- Canada    33    0    6
+  ---- ON    20    0    3
+  ------ Toronto    19    0    2
+
+For USA only, there's 5-digit code following the county name which is the FIPS county code to uniquely identify an US county.
+  For example: 
+  ------ Los Angeles(06037)    7    0    0
+
+Data Sources and thanks to:
+  https://github.com/CSSEGISandData/COVID-19
+  DXY(a website from china)
+  sina.com (a website from china)
