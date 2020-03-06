@@ -535,18 +535,18 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    52    1    0
 ---- Wakayama    14    1    2
----- Kyoto    6    0    2
+---- Kyoto    7    0    2
 ---- Osaka    18    0    1
----- Chiba    15    0    0
+---- Chiba    17    0    0
 ---- Kanagawa    35    1    1
 ---- Shizuoka    1    0    0
 ---- Aichi    57    0    2
----- Nara    1    0    1
+---- Nara    4    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    4    0    0
+---- hyogo    5    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -673,3 +673,36 @@
 -- Georgia    4    0    0
 -- Senegal    4    0    0
 -- Chile    4    0    0
+-- Palestine    4    0    0
+-- Philippines    3    1    1
+-- Egypt    3    0    1
+-- Estonia    3    0    0
+-- New Zealand    3    0    0
+-- Saint Barthélemy    3    0    0
+-- Indonesia    2    0    0
+-- Morocco    2    0    0
+-- Hungary    2    0    0
+-- Bosnia and Herzegovina    2    0    0
+-- Slovenia    2    0    0
+-- Nepal    1    0    1
+-- Cambodia    1    0    1
+-- Sri Lanka    1    0    1
+-- Afghanistan    1    0    0
+-- North Macedonia    1    0    0
+-- Lithuania    1    0    0
+-- Nigeria    1    0    0
+-- Luxembourg    1    0    0
+-- Monaco    1    0    0
+-- Armenia    1    0    0
+-- Dominican Republic    1    0    0
+-- Andorra    1    0    0
+-- Latvia    1    0    0
+-- Argentina    1    0    0
+-- Jordan    1    0    0
+-- Ukraine    1    0    0
+-- Faroe Islands    1    0    0
+-- Gibraltar    1    0    0
+-- Liechtenstein    1    0    0
+-- Poland    1    0    0
+-- Tunisia    1    0    0
+-- South Africa    1    0    0
