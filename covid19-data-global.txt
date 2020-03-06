@@ -554,7 +554,7 @@
 ---- Akita    1    0    0
 ---- Yamanashi    1    0    0
 -- Spain    360    5    2
--- United States of America    234    14    8
+-- United States of America    236    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
