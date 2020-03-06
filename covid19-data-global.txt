@@ -522,12 +522,12 @@
 -- Germany    482    0    16
 -- France    377    6    12
 -- Japan    360    6    43
----- Hokkaido    83    3    1
----- kochi    7    0    0
+---- Hokkaido    90    3    1
+---- kochi    8    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    6    0    0
 ---- Gifu    2    0    0
----- Nagano    2    0    0
+---- Nagano    3    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
 ---- Saitama    3    0    0
@@ -538,7 +538,7 @@
 ---- Kyoto    6    0    2
 ---- Osaka    18    0    1
 ---- Chiba    15    0    0
----- Kanagawa    34    1    1
+---- Kanagawa    35    1    1
 ---- Shizuoka    1    0    0
 ---- Aichi    57    0    2
 ---- Nara    1    0    1
