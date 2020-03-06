@@ -553,8 +553,8 @@
 ---- Shiga    1    0    0
 ---- Akita    1    0    0
 ---- Yamanashi    1    0    0
--- Spain    296    3    2
--- United States of America    233    12    8
+-- Spain    360    5    2
+-- United States of America    233    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
@@ -612,8 +612,8 @@
 ------ Clark(32003)    1    0    0
 ---- TN    1    0    0
 ------ Williamson(47187)    1    0    0
--- Switzerland    119    1    3
--- Singapore    117    0    78
+-- Switzerland    138    1    3
+-- Singapore    130    0    78
 -- United Kingdom of Great Britain and Northern Ireland    116    1    8
 -- Hong Kong    105    2    43
 ---- Hong Kong    105    2    43
