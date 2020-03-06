@@ -535,7 +535,7 @@
 ---- Hesse    15    0    0
 ---- Baden-Württemberg    91    0    2
 ---- Saarland    1    0    0
--- France    577    9    12
+-- France    653    9    12
 ---- Nord-Pas-de-Calais and Picardy    97    6    4
 ---- Ile-de-France    89    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    136    0    0
@@ -552,24 +552,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Spain    386    5    2
----- Andalusia    22    0    0
----- Aragon    1    0    0
----- Balearic Islands    5    0    1
----- Basque Country    45    1    0
----- Canary Islands    8    0    3
----- Cantabria    11    0    0
----- Castile and León    14    0    0
----- Castile-La Mancha    13    0    0
----- Catalonia    32    0    0
----- Community of Madrid    135    2    0
----- Comunidad Foral de Navarra    3    0    0
----- Extremadura    6    0    0
----- Galicia    2    0    0
----- Principality of Asturias    7    0    0
----- Rioja    10    0    0
----- Valencian Community    30    1    0
--- Japan    381    6    43
+-- Japan    420    6    46
 ---- Hokkaido    90    3    1
 ---- kochi    9    0    0
 ---- Miyagi    1    0    0
@@ -601,7 +584,24 @@
 ---- Shiga    1    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    1    0    0
--- United States of America    259    14    8
+-- Spain    400    5    2
+---- Andalusia    22    0    0
+---- Aragon    1    0    0
+---- Balearic Islands    5    0    1
+---- Basque Country    45    1    0
+---- Canary Islands    8    0    3
+---- Cantabria    11    0    0
+---- Castile and León    14    0    0
+---- Castile-La Mancha    13    0    0
+---- Catalonia    32    0    0
+---- Community of Madrid    135    2    0
+---- Comunidad Foral de Navarra    3    0    0
+---- Extremadura    6    0    0
+---- Galicia    2    0    0
+---- Principality of Asturias    7    0    0
+---- Rioja    10    0    0
+---- Valencian Community    30    1    0
+-- United States of America    260    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
