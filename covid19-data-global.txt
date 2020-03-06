@@ -600,7 +600,7 @@
 ---- Shiga    1    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    1    0    0
--- United States of America    245    14    8
+-- United States of America    256    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
