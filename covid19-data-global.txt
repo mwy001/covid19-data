@@ -552,7 +552,7 @@
 ---- Miyazaki    1    0    0
 ---- Shiga    1    0    0
 -- Spain    259    3    2
--- United States of America    221    12    8
+-- United States of America    233    12    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
