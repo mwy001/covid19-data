@@ -600,7 +600,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    10    0    0
 ---- Valencian Community    30    1    0
--- United States of America    238    14    8
+-- United States of America    239    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
@@ -668,7 +668,7 @@
 ---- Central Singapore Community Development Council    110    0    81
 -- Netherlands    128    1    0
 -- Belgium    109    0    1
--- Norway    106    0    0
+-- Norway    108    0    0
 -- Hong Kong    105    2    43
 ---- Hong Kong    105    2    43
 -- Sweden    94    0    0
