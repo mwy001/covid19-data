@@ -519,8 +519,8 @@
 ---- Chaharmahal and Bakhtiari    9    0    0
 ---- North Khorasan    4    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    2    0    0
--- Germany    482    0    16
--- France    377    6    12
+-- Germany    545    0    16
+-- France    423    7    12
 -- Japan    360    6    43
 ---- Hokkaido    90    3    1
 ---- kochi    9    0    0
@@ -553,7 +553,7 @@
 ---- Shiga    1    0    0
 ---- Akita    1    0    0
 ---- Yamanashi    1    0    0
--- Spain    259    3    2
+-- Spain    282    3    2
 -- United States of America    233    12    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
@@ -612,9 +612,9 @@
 ------ Clark(32003)    1    0    0
 ---- TN    1    0    0
 ------ Williamson(47187)    1    0    0
+-- Switzerland    119    1    3
 -- Singapore    117    0    78
--- United Kingdom of Great Britain and Northern Ireland    115    1    8
--- Switzerland    114    1    3
+-- United Kingdom of Great Britain and Northern Ireland    116    1    8
 -- Hong Kong    105    2    43
 ---- Hong Kong    105    2    43
 -- Sweden    94    0    0
