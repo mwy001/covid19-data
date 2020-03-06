@@ -498,27 +498,27 @@
 ---- North Khorasan    15    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    6    0    0
 -- Italy    4636    197    523
----- Abruzzo    8    0    0
----- Apulia    14    1    1
----- Basilicata    1    0    0
----- Calabria    2    0    0
----- Campania    45    0    0
----- Emilia-Romagna    698    38    10
----- Friuli Venezia Giulia    21    0    0
----- Lazio    44    1    3
----- Lombardy    2251    134    376
----- Marche    124    4    0
----- Molise    7    0    0
----- Piemont    108    4    0
----- Sardinia    2    0    0
----- Sicily    18    0    2
----- Trentino-Alto Adige - Südtirol    7    0    0
----- Tuscany    61    0    1
----- Umbria    9    0    0
----- Liguria    28    3    4
----- Veneto    407    12    17
----- Bolzano    1    0    0
----- Aosta Valley    2    0    0
+---- Abruzzo    9    0    0
+---- Apulia    17    1    1
+---- Basilicata    3    0    0
+---- Calabria    4    0    0
+---- Campania    57    0    0
+---- Emilia-Romagna    870    38    10
+---- Friuli Venezia Giulia    31    0    0
+---- Lazio    54    1    3
+---- Lombardy    2612    134    376
+---- Marche    159    4    0
+---- Molise    12    0    0
+---- Piemont    143    4    0
+---- Sardinia    5    0    0
+---- Sicily    24    0    2
+---- Trentino-Alto Adige - Südtirol    10    0    0
+---- Tuscany    79    0    1
+---- Umbria    16    0    0
+---- Liguria    32    3    4
+---- Veneto    488    12    17
+---- Bolzano    4    0    0
+---- Aosta Valley    7    0    0
 -- Germany    670    0    17
 ---- Saxony    1    0    0
 ---- Mecklenburg-Vorpommern    5    0    0
@@ -536,21 +536,22 @@
 ---- Baden-Württemberg    91    0    2
 ---- Saarland    1    0    0
 -- France    577    9    12
----- Nord-Pas-de-Calais and Picardy    74    6    4
----- Ile-de-France    76    2    2
----- Alsace–Champagne-Ardenne–Lorraine    77    0    0
----- Normandy    6    0    0
----- Brittany    29    1    6
----- Pays de la Loire    8    0    0
----- Centre-Val de Loire    2    0    0
----- Bourgogne-Franche-Comté    39    0    0
----- Aquitaine-Limousin-Poitou-Charentes    8    0    0
----- Auvergne-Rhône-Alpes    64    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    11    0    0
----- Provence-Alpes-Côte d'Azur    18    0    0
+---- Nord-Pas-de-Calais and Picardy    97    6    4
+---- Ile-de-France    89    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    136    0    0
+---- Normandy    11    0    0
+---- Brittany    32    1    6
+---- Pays de la Loire    16    0    0
+---- Centre-Val de Loire    11    0    0
+---- Bourgogne-Franche-Comté    78    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    11    0    0
+---- Auvergne-Rhône-Alpes    75    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    18    0    0
+---- Provence-Alpes-Côte d'Azur    26    0    0
 ---- Corsica    3    0    0
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
+---- Martinique    2    0    0
 -- Spain    386    5    2
 ---- Andalusia    22    0    0
 ---- Aragon    1    0    0
