@@ -553,7 +553,7 @@
 ---- Shiga    1    0    0
 ---- Akita    1    0    0
 ---- Yamanashi    1    0    0
--- Spain    282    3    2
+-- Spain    296    3    2
 -- United States of America    233    12    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
