@@ -519,8 +519,8 @@
 ---- Veneto    407    10    17
 ---- Bolzano    1    0    0
 ---- Aosta Valley    2    0    0
--- Germany    577    0    16
--- France    423    7    12
+-- Germany    578    0    16
+-- France    577    9    12
 -- Japan    381    6    43
 ---- Hokkaido    90    3    1
 ---- kochi    9    0    0
@@ -554,7 +554,7 @@
 ---- Akita    1    0    0
 ---- Yamanashi    1    0    0
 -- Spain    360    5    2
--- United States of America    233    14    8
+-- United States of America    234    14    8
 ---- WA    70    11    1
 ------ King(53033)    51    10    1
 ------ Snohomish(53061)    18    1    0
@@ -612,9 +612,9 @@
 ------ Clark(32003)    1    0    0
 ---- TN    1    0    0
 ------ Williamson(47187)    1    0    0
--- Switzerland    138    1    3
+-- Switzerland    214    1    3
+-- United Kingdom of Great Britain and Northern Ireland    163    2    8
 -- Singapore    130    0    78
--- United Kingdom of Great Britain and Northern Ireland    116    1    8
 -- Belgium    109    0    1
 -- Hong Kong    105    2    43
 ---- Hong Kong    105    2    43
@@ -632,17 +632,17 @@
 ---- Northern Territory    1    0    0
 -- Bahrain    55    0    0
 -- Malaysia    50    0    22
--- Thailand    47    1    31
--- Taiwan    44    1    12
----- Taiwan    44    1    12
--- Austria    41    0    0
--- Canada    37    0    6
+-- Canada    48    0    6
 ---- ON    22    0    3
 ------ Toronto    21    0    2
 ------ London    1    0    1
 ---- BC    13    0    3
 ---- QC    2    0    0
 ------  Montreal    2    0    0
+-- Thailand    47    1    31
+-- Taiwan    44    1    12
+---- Taiwan    44    1    12
+-- Austria    41    0    0
 -- Iraq    35    2    0
 -- Iceland    34    0    0
 -- Greece    31    0    0
