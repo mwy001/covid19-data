@@ -684,7 +684,7 @@
 ---- Northern Territory    1    0    0
 -- Bahrain    55    0    0
 -- Malaysia    50    0    22
--- Canada    48    0    6
+-- Canada    50    0    6
 ---- ON    22    0    3
 ------ Toronto    21    0    2
 ------ London    1    0    1
