@@ -36,15 +36,15 @@
 ---- Chongqing    576    6    512
 ------ Wanzhou District    118    4    106
 ------ Qijiang District    23    0    19
------- Changshou District    22    0    15
------- Tongnan District    18    0    11
------- Nan'an District    15    0    10
+------ Changshou District    22    0    16
+------ Tongnan District    18    0    12
+------ Nan'an District    15    0    11
 ------ Jiangbei District    28    0    25
------- Dianjiang County    20    0    17
+------ Dianjiang County    20    0    19
 ------ Fengjie County    22    0    20
 ------ Dazu District    14    0    12
------- Shapingba District    9    0    5
------- Hechuan District    23    0    21
+------ Shapingba District    9    0    7
+------ Hechuan District    23    0    23
 ------ Jiulongpo District    21    1    18
 ------ Zhong County    21    0    20
 ------ Tongliang District    10    0    8
@@ -56,7 +56,7 @@
 ------ Rongchang District    9    0    7
 ------ Banan District    6    0    4
 ------ Fuling District    5    0    4
------- Kaizhou District    21    1    19
+------ Kaizhou District    21    1    20
 ------ Yubei District    17    0    16
 ------ Wuxi County    14    0    14
 ------ Wushan County    10    0    10
@@ -120,7 +120,7 @@
 ------ Hechi    28    1    16
 ------ Fangchenggang    19    0    12
 ------ Liuzhou    24    0    20
------- Laibin    11    0    4
+------ Laibin    11    0    7
 ------ Beihai    44    1    38
 ------ Guilin    32    0    31
 ------ Nanning    55    0    54
@@ -176,7 +176,7 @@
 ------ Qiqihar    43    1    36
 ------ Daqing    26    1    20
 ------ Mudanjiang    15    0    11
------- Qitaihe    17    0    14
+------ Qitaihe    17    0    15
 ------ Heihe    14    0    11
 ------ Hegang    5    0    4
 ------ Jiamusi    15    0    15
@@ -220,10 +220,10 @@
 ------ Enshi Tujia and Miao Autonomous Prefecture    252    5    207
 ------ Shennongjia    11    0    11
 ---- Hunan    1018    4    938
------- Changsha    242    2    201
+------ Changsha    242    2    207
 ------ Yueyang    156    1    139
 ------ Zhuzhou    80    0    73
------- Loudi    76    0    68
+------ Loudi    76    0    70
 ------ Changde    82    0    80
 ------ Chenzhou    39    0    37
 ------ Shaoyang    102    1    100
@@ -237,7 +237,7 @@
 ---- Inner Mongolia    75    1    65
 ------ Linguolexi    9    0    8
 ------ Baotou    11    0    8
------- Hohhot    7    0    5
+------ Hohhot    7    0    6
 ------ Tongliao    7    0    5
 ------ Hulunbuir    7    0    7
 ------ Ordos    11    0    11
@@ -248,7 +248,7 @@
 ------ Xinganmeng    1    0    1
 ---- Jiangsu    631    0    583
 ------ Nanjing    93    0    83
------- Suzhou    87    0    70
+------ Suzhou    87    0    75
 ------ Huainan    66    0    62
 ------ Xuzhou    79    0    73
 ------ Lianyungang    48    0    42
@@ -261,15 +261,15 @@
 ------ Yangzhou    23    0    23
 ------ Suqian    13    0    13
 ---- Jiangxi    935    1    901
------- Jiujiang    118    0    108
------- Nanchang    230    0    219
+------ Jiujiang    118    0    110
+------ Nanchang    230    0    222
 ------ Xinyu    130    0    123
 ------ Pingxiang    33    0    33
 ------ Shangrao    123    0    122
 ------ Yingtan    18    0    18
------- Ganzhou    76    1    74
+------ Ganzhou    76    1    75
 ------ Fuzhou    72    0    71
------- Ji'an    22    0    20
+------ Ji'an    22    0    21
 ------ Yichun    106    0    106
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
@@ -322,13 +322,13 @@
 ------ Hancheng    1    0    1
 ------ Yangling District in Xianyang    1    0    1
 ---- Shandong    758    6    578
------- Jining    260    0    141
------- Dezhou    37    2    21
+------ Jining    260    0    163
+------ Dezhou    37    2    22
 ------ Jinan    47    0    38
 ------ Weifang    44    0    34
 ------ Yantai    47    0    39
 ------ Zibo    30    1    24
------- Weihai    38    0    34
+------ Weihai    38    0    35
 ------ Linyi    49    0    48
 ------ Binzhou    15    0    14
 ------ Qingdao    60    1    58
@@ -368,7 +368,7 @@
 ------ Yangquan    4    0    4
 ------ Linfen    2    0    2
 ---- Sichuan    539    3    425
------- Chengdu    144    3    97
+------ Chengdu    144    3    98
 ------ Garzê Tibetan Autonomous Prefecture    78    0    58
 ------ Dazhou    42    0    35
 ------ Nanchong    39    0    32
@@ -376,7 +376,7 @@
 ------ Deyang    18    0    14
 ------ Mianyang    22    0    18
 ------ Guang'an    30    0    26
------- Luzhou    24    0    20
+------ Luzhou    24    0    22
 ------ Neijiang    22    0    19
 ------ Suining    17    0    15
 ------ Yibin    12    0    11
