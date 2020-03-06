@@ -467,36 +467,36 @@
 ---- Seoul    105    0    25
 ---- Ulsan    23    0    1
 -- Iran, Islamic Republic of    4747    124    913
----- Qom    386    30    0
----- Tehran    1352    0    0
----- Fars    68    2    0
----- Markazi    180    11    0
----- Mazandaran    121    13    0
----- Ardabil    26    3    0
----- South Khorasan    15    1    0
----- Ilam    11    0    0
----- Isfahan    238    2    0
----- Hamadan    16    1    0
+---- Qom    523    30    0
+---- Tehran    1413    0    0
+---- Fars    81    2    0
+---- Markazi    228    11    0
+---- Mazandaran    301    13    0
+---- Ardabil    40    3    0
+---- South Khorasan    18    1    0
+---- Ilam    13    0    0
+---- Isfahan    388    2    0
+---- Hamadan    23    1    0
 ---- Razavi Khorasan    89    8    0
----- Hormozgan    14    2    0
----- Kurdistan    18    0    0
----- Qazvin    111    7    0
----- Yazd    7    3    0
----- West Azerbaijan    10    0    0
----- Gilan    333    0    0
----- Golestan    37    6    0
+---- Hormozgan    19    2    0
+---- Kurdistan    42    0    0
+---- Qazvin    176    7    0
+---- Yazd    57    3    0
+---- West Azerbaijan    11    0    0
+---- Gilan    424    0    0
+---- Golestan    104    6    0
 ---- Khuzestan    63    12    0
----- Alborz    173    7    0
----- Semnan    60    0    0
----- Lorestan    30    4    0
----- East Azerbaijan    65    6    0
----- Kermanshah    22    2    0
----- Sistan and Baluchestan    17    0    0
----- Kerman    18    0    0
----- Zanjan    15    0    0
----- Chaharmahal and Bakhtiari    9    0    0
----- North Khorasan    4    0    0
----- Kohgiluyeh and Boyer-Ahmad    2    0    0
+---- Alborz    302    7    0
+---- Semnan    114    0    0
+---- Lorestan    80    4    0
+---- East Azerbaijan    75    6    0
+---- Kermanshah    27    2    0
+---- Sistan and Baluchestan    21    0    0
+---- Kerman    25    0    0
+---- Zanjan    50    0    0
+---- Chaharmahal and Bakhtiari    14    0    0
+---- North Khorasan    15    0    0
+---- Kohgiluyeh and Boyer-Ahmad    6    0    0
 -- Italy    3858    148    414
 ---- Abruzzo    8    0    0
 ---- Apulia    14    1    1
@@ -536,9 +536,9 @@
 ---- Tokyo    58    1    0
 ---- Wakayama    14    1    2
 ---- Kyoto    7    0    2
----- Osaka    18    0    1
+---- Osaka    31    0    1
 ---- Chiba    17    0    0
----- Kanagawa    35    1    1
+---- Kanagawa    40    1    1
 ---- Shizuoka    1    0    0
 ---- Aichi    62    0    2
 ---- Nara    4    0    1
