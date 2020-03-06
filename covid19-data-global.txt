@@ -489,35 +489,35 @@
 ---- Bolzano    1    0    0
 ---- Aosta Valley    2    0    0
 -- Iran, Islamic Republic of    3513    107    739
----- Qom    354    30    0
----- Tehran    1296    0    0
----- Fars    49    2    0
----- Markazi    149    11    0
----- Mazandaran    81    13    0
----- Ardabil    12    3    0
----- South Khorasan    4    1    0
----- Ilam    9    0    0
----- Isfahan    100    2    0
----- Hamadan    10    1    0
----- Razavi Khorasan    36    8    0
+---- Qom    386    30    0
+---- Tehran    1352    0    0
+---- Fars    68    2    0
+---- Markazi    180    11    0
+---- Mazandaran    121    13    0
+---- Ardabil    26    3    0
+---- South Khorasan    15    1    0
+---- Ilam    11    0    0
+---- Isfahan    238    2    0
+---- Hamadan    16    1    0
+---- Razavi Khorasan    89    8    0
 ---- Hormozgan    14    2    0
----- Kurdistan    14    0    0
----- Qazvin    80    7    0
+---- Kurdistan    18    0    0
+---- Qazvin    111    7    0
 ---- Yazd    7    3    0
----- West Azerbaijan    7    0    0
----- Gilan    253    0    0
----- Golestan    33    6    0
----- Khuzestan    50    12    0
----- Alborz    112    7    0
----- Semnan    37    0    0
----- Lorestan    23    4    0
----- East Azerbaijan    60    6    0
----- Kermanshah    17    2    0
----- Sistan and Baluchestan    15    0    0
----- Kerman    15    0    0
----- Zanjan    7    0    0
----- Chaharmahal and Bakhtiari    1    0    0
----- North Khorasan    1    0    0
+---- West Azerbaijan    10    0    0
+---- Gilan    333    0    0
+---- Golestan    37    6    0
+---- Khuzestan    63    12    0
+---- Alborz    173    7    0
+---- Semnan    60    0    0
+---- Lorestan    30    4    0
+---- East Azerbaijan    65    6    0
+---- Kermanshah    22    2    0
+---- Sistan and Baluchestan    17    0    0
+---- Kerman    18    0    0
+---- Zanjan    15    0    0
+---- Chaharmahal and Bakhtiari    9    0    0
+---- North Khorasan    4    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    2    0    0
 -- Germany    482    0    16
 -- France    377    6    12
