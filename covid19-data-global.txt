@@ -21,8 +21,8 @@
 ------ Haidian District    63    0    0
 ------ Xicheng District    53    0    0
 ------ Fengtai District    43    0    3
------- Daxing District    39    0    2
------- Changping District    29    0    0
+------ Daxing District    39    0    16
+------ Changping District    29    0    10
 ------ People from other cities    25    0    2
 ------ Tongzhou District    19    0    1
 ------ Fangshan District    16    0    3
@@ -61,7 +61,7 @@
 ------ Wuxi County    14    0    14
 ------ Wushan County    10    0    10
 ------ Dadukou District    7    0    7
------- Pengshui Miao and Tujia Autonomous County    2    0    1
+------ Pengshui Miao and Tujia Autonomous County    2    0    2
 ------ Bishan District    9    0    9
 ------ Yongchuan District    5    0    5
 ------ Jiangjin District    4    0    4
@@ -74,8 +74,8 @@
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
 ---- Fujian    296    1    277
------- Putian    56    0    47
------- Quanzhou    47    0    45
+------ Putian    56    0    49
+------ Quanzhou    47    0    47
 ------ Nanping    20    0    20
 ------ Zhangzhou    20    0    16
 ------ Ningde    26    0    26
@@ -99,7 +99,7 @@
 ------ Shenzhen    419    3    358
 ------ Guangzhou    347    1    309
 ------ Foshan    84    0    72
------- Dongguan    99    1    88
+------ Dongguan    99    1    92
 ------ Zhuhai    98    1    90
 ------ Jiangmen    23    0    20
 ------ Zhongshan    66    0    62
@@ -169,8 +169,8 @@
 ------ Hengshui    8    0    8
 ------ Chengde    7    0    7
 ---- Heilongjiang    481    13    379
------- Harbin    198    4    148
------- Jixi    46    0    40
+------ Harbin    198    4    150
+------ Jixi    46    0    41
 ------ Shuangyashan    52    3    40
 ------ Suihua    47    4    37
 ------ Qiqihar    43    1    36
@@ -202,27 +202,27 @@
 ------ Luoyang    31    1    30
 ------ Sanmenxia    7    1    6
 ---- Hubei    67466    2902    40592
------- Wuhan    49671    2305    26415
------- Xiaogan    3518    121    2821
------- Huanggang    2907    121    2472
------- Ezhou    1394    52    918
------- Jingzhou    1580    48    1269
------- Suizhou    1307    42    975
------- Yichang    931    33    640
------- Jingmen    928    39    686
------- Xiangyang    1175    35    980
------- Huangshi    1015    36    827
------- Shiyan    672    7    528
------- Xiantao    575    20    481
------- Xianning    836    14    776
------- Tianmen    496    15    435
------- Qianjiang    198    9    151
------- Enshi Tujia and Miao Autonomous Prefecture    252    5    207
+------ Wuhan    49797    2328    27375
+------ Xiaogan    3518    123    2911
+------ Huanggang    2907    122    2526
+------ Ezhou    1394    53    930
+------ Jingzhou    1580    48    1327
+------ Suizhou    1307    42    1010
+------ Yichang    931    33    684
+------ Jingmen    928    39    702
+------ Xiangyang    1175    35    1011
+------ Huangshi    1015    36    859
+------ Shiyan    672    8    539
+------ Xiantao    575    20    490
+------ Xianning    836    14    786
+------ Tianmen    496    15    442
+------ Qianjiang    198    9    159
+------ Enshi Tujia and Miao Autonomous Prefecture    252    6    226
 ------ Shennongjia    11    0    11
 ---- Hunan    1018    4    938
 ------ Changsha    242    2    207
 ------ Yueyang    156    1    144
------- Zhuzhou    80    0    73
+------ Zhuzhou    80    0    74
 ------ Loudi    76    0    70
 ------ Changde    82    0    82
 ------ Chenzhou    39    0    38
@@ -299,7 +299,7 @@
 ------ Liaoyang    3    0    3
 ------ Yingkou    1    0    1
 ---- Ningxia    75    0    69
------- Yinchuan    36    0    32
+------ Yinchuan    36    0    34
 ------ Wuzhong    28    0    27
 ------ Zhongwei    4    0    3
 ------ Guyuan    5    0    5
@@ -326,7 +326,7 @@
 ------ Dezhou    37    2    22
 ------ Jinan    47    0    40
 ------ Weifang    44    0    36
------- Yantai    47    0    39
+------ Yantai    47    0    40
 ------ Zibo    30    1    24
 ------ Weihai    38    0    35
 ------ Linyi    49    0    48
@@ -369,7 +369,7 @@
 ------ Linfen    2    0    2
 ---- Sichuan    539    3    425
 ------ Chengdu    144    3    98
------- Garzê Tibetan Autonomous Prefecture    78    0    59
+------ Garzê Tibetan Autonomous Prefecture    78    0    66
 ------ Dazhou    42    0    39
 ------ Nanchong    39    0    32
 ------ Bazhong    24    0    18
