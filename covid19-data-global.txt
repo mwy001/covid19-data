@@ -96,11 +96,11 @@
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
 ---- Guangdong    1351    7    1181
------- Shenzhen    418    3    350
------- Guangzhou    347    1    292
+------ Shenzhen    418    3    358
+------ Guangzhou    347    1    309
 ------ Foshan    84    0    70
 ------ Dongguan    99    1    88
------- Zhuhai    98    1    83
+------ Zhuhai    98    1    90
 ------ Jiangmen    23    0    20
 ------ Zhongshan    66    0    62
 ------ Meizhou    16    0    15
@@ -108,7 +108,7 @@
 ------ Shantou    25    0    23
 ------ Zhanjiang    22    0    22
 ------ Zhaoqing    19    1    18
------- Yangjiang    14    0    13
+------ Yangjiang    14    0    14
 ------ Huizhou    62    0    62
 ------ Jieyang    8    0    8
 ------ Shaoguan    10    0    9
@@ -188,7 +188,7 @@
 ------ Zhengzhou    157    5    152
 ------ Zhoukou    76    1    74
 ------ Nanyang    156    3    149
------- Anyang    53    0    52
+------ Anyang    53    0    53
 ------ Luohe    35    0    35
 ------ Puyang    17    0    17
 ------ Shangqiu    91    3    88
@@ -225,7 +225,7 @@
 ------ Zhuzhou    80    0    73
 ------ Loudi    76    0    70
 ------ Changde    82    0    80
------- Chenzhou    39    0    37
+------ Chenzhou    39    0    38
 ------ Shaoyang    102    1    100
 ------ Yiyang    60    0    59
 ------ Yongzhou    44    0    44
@@ -322,10 +322,10 @@
 ------ Hancheng    1    0    1
 ------ Yangling District in Xianyang    1    0    1
 ---- Shandong    758    6    578
------- Jining    260    0    163
+------ Jining    260    0    174
 ------ Dezhou    37    2    22
------- Jinan    47    0    38
------- Weifang    44    0    34
+------ Jinan    47    0    40
+------ Weifang    44    0    36
 ------ Yantai    47    0    39
 ------ Zibo    30    1    24
 ------ Weihai    38    0    35
@@ -381,7 +381,7 @@
 ------ Suining    17    0    15
 ------ Yibin    12    0    11
 ------ Ziyang    4    0    2
------- Liangshan Yi Autonomous Prefecture    13    0    12
+------ Liangshan Yi Autonomous Prefecture    13    0    13
 ------ Meishan    8    0    7
 ------ Ya'an    7    0    6
 ------ Panzhihua    16    0    16
@@ -408,7 +408,7 @@
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
 ---- Xinjiang    76    3    70
------- Urumqi    23    0    22
+------ Urumqi    23    0    23
 ------ Turpan    3    0    2
 ------ Xinjiang Production and Construction Corps 9th Division    4    1    2
 ------ Changji    4    0    4
@@ -437,7 +437,7 @@
 ------ Lincang    1    0    1
 ---- Zhejiang    1215    1    1124
 ------ Wenzhou    504    1    482
------- Taizhou    146    0    129
+------ Taizhou    146    0    130
 ------ Shilifeng Prison    36    0    27
 ------ Hangzhou    169    0    163
 ------ Lishui    25    0    17
