@@ -169,7 +169,7 @@
 ------ Hengshui    8    0    8
 ------ Chengde    7    0    7
 ---- Heilongjiang    481    13    379
------- Harbin    198    4    150
+------ Harbin    198    4    163
 ------ Jixi    46    0    41
 ------ Shuangyashan    52    3    40
 ------ Suihua    47    4    37
@@ -202,7 +202,7 @@
 ------ Luoyang    31    1    30
 ------ Sanmenxia    7    1    6
 ---- Hubei    67466    2902    40592
------- Wuhan    49797    2328    27375
+------ Wuhan    49797    2328    27420
 ------ Xiaogan    3518    123    2911
 ------ Huanggang    2907    122    2526
 ------ Ezhou    1394    53    930
@@ -269,7 +269,7 @@
 ------ Yingtan    18    0    18
 ------ Ganzhou    76    1    75
 ------ Fuzhou    72    0    71
------- Ji'an    22    0    21
+------ Ji'an    22    0    22
 ------ Yichun    106    0    106
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
