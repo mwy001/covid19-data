@@ -519,9 +519,9 @@
 ---- Veneto    407    10    17
 ---- Bolzano    1    0    0
 ---- Aosta Valley    2    0    0
--- Germany    545    0    16
+-- Germany    577    0    16
 -- France    423    7    12
--- Japan    360    6    43
+-- Japan    381    6    43
 ---- Hokkaido    90    3    1
 ---- kochi    9    0    0
 ---- Miyagi    1    0    0
