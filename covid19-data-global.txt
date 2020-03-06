@@ -1,12 +1,12 @@
 -- China    80422    3013    52240
 ---- Anhui    990    6    970
------- Hefei    174    1    165
+------ Hefei    174    1    169
 ------ Fuyang    155    0    155
 ------ Bengbu    160    5    155
 ------ Lu'an    69    0    69
 ------ Suzhou    41    0    41
------- Ma'anshan    38    0    36
------- Huainan    27    0    24
+------ Ma'anshan    38    0    38
+------ Huainan    27    0    27
 ------ Huaibei    27    0    27
 ------ Chuzhou    13    0    13
 ------ Xuancheng    6    0    6
@@ -160,7 +160,7 @@
 ------ Tangshan    58    1    54
 ------ Zhangjiakou    41    0    38
 ------ Handan    32    0    31
------- Shijiazhuang    29    0    28
+------ Shijiazhuang    29    0    29
 ------ Cangzhou    48    3    45
 ------ Baoding    32    0    32
 ------ Langfang    30    0    30
@@ -221,7 +221,7 @@
 ------ Shennongjia    11    0    11
 ---- Hunan    1018    4    938
 ------ Changsha    242    2    207
------- Yueyang    156    1    139
+------ Yueyang    156    1    144
 ------ Zhuzhou    80    0    73
 ------ Loudi    76    0    70
 ------ Changde    82    0    80
@@ -275,7 +275,7 @@
 ------ Ganjiang New District    1    0    1
 ---- Jilin    93    1    88
 ------ Changchun    45    0    44
------- Tonghua    6    0    3
+------ Tonghua    6    0    4
 ------ Baicheng    1    0    1
 ------ Siping    15    1    14
 ------ Liaoyuan    7    0    7
@@ -421,7 +421,7 @@
 ------ Xinjiang Production and Construction Corps 7th Division    1    0    1
 ------ Akesu    1    0    1
 ---- Yunnan    174    2    169
------- Kunming    53    0    52
+------ Kunming    53    0    53
 ------ Qujing    13    0    12
 ------ Baoshan    9    0    9
 ------ Dehong    5    0    4
@@ -438,13 +438,13 @@
 ---- Zhejiang    1215    1    1124
 ------ Wenzhou    504    1    482
 ------ Taizhou    146    0    129
------- Shilifeng Prison    36    0    15
------- Hangzhou    169    0    162
+------ Shilifeng Prison    36    0    27
+------ Hangzhou    169    0    163
 ------ Lishui    25    0    17
------- Ningbo    157    0    154
+------ Ningbo    157    0    155
 ------ Jiaxing    45    0    41
------- Shaoxing    42    0    38
------- Quzhou    14    0    12
+------ Shaoxing    42    0    39
+------ Quzhou    14    0    14
 ------ Jinhua    55    0    54
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
