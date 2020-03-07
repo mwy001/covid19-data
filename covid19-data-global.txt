@@ -449,22 +449,22 @@
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
 -- Korea, Republic of    6593    42    135
----- Busan    95    1    2
----- Chungcheongbuk-do    15    0    1
----- Chungcheongnam-do    90    0    0
----- Daegu    4693    31    15
+---- Busan    96    1    2
+---- Chungcheongbuk-do    20    0    1
+---- Chungcheongnam-do    92    0    0
+---- Daegu    5084    31    18
 ---- Daejeon    18    0    0
----- Gangwon-do    25    0    3
+---- Gangwon-do    26    1    3
 ---- Gwangju    13    0    3
----- Gyeonggi-do    120    1    14
----- Gyeongsangbuk-do    984    10    36
----- Gyeongsangnam-do    77    0    4
+---- Gyeonggi-do    130    1    14
+---- Gyeongsangbuk-do    1049    10    41
+---- Gyeongsangnam-do    82    0    4
 ---- Incheon    9    0    2
 ---- Jeju-do    4    0    0
 ---- Jeollabuk-do    7    0    2
----- Jeollanam-do    5    0    0
----- Sejong    1    0    0
----- Seoul    105    0    25
+---- Jeollanam-do    4    0    0
+---- Sejong    2    0    0
+---- Seoul    108    0    27
 ---- Ulsan    23    0    1
 -- Iran, Islamic Republic of    4747    124    913
 ---- Qom    523    30    0
@@ -520,21 +520,21 @@
 ---- Bolzano    4    0    0
 ---- Aosta Valley    7    0    0
 -- Germany    670    0    17
----- Saxony    1    0    0
+---- Saxony    3    0    0
 ---- Mecklenburg-Vorpommern    5    0    0
----- Free State of Bavaria    79    0    14
----- Berlin    15    0    0
+---- Free State of Bavaria    116    0    14
+---- Berlin    19    0    0
 ---- Brandenburg    1    0    0
 ---- Thuringia    1    0    0
----- Schleswig-Holstein    7    0    0
+---- Schleswig-Holstein    8    0    0
 ---- Lower Saxony    18    0    1
 ---- Bremen    4    0    0
----- Hamburg    8    0    0
----- Rhineland-Palatinate    8    0    1
----- North Rhine-Westphalia    324    0    0
----- Hesse    15    0    0
----- Baden-Württemberg    91    0    2
----- Saarland    1    0    0
+---- Hamburg    12    0    0
+---- Rhineland-Palatinate    10    0    1
+---- North Rhine-Westphalia    358    0    0
+---- Hesse    17    0    0
+---- Baden-Württemberg    96    0    2
+---- Saarland    2    0    0
 -- France    653    9    12
 ---- Nord-Pas-de-Calais and Picardy    97    6    4
 ---- Ile-de-France    89    2    2
