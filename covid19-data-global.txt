@@ -519,23 +519,7 @@
 ---- Chaharmahal and Bakhtiari    16    0    0
 ---- North Khorasan    23    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    6    0    0
--- Germany    799    0    18
----- Saxony    3    0    0
----- Mecklenburg-Vorpommern    5    0    0
----- Free State of Bavaria    117    0    14
----- Berlin    24    0    0
----- Brandenburg    2    0    0
----- Thuringia    1    0    0
----- Schleswig-Holstein    8    0    0
----- Lower Saxony    19    0    1
----- Bremen    4    0    0
----- Hamburg    13    0    0
----- Rhineland-Palatinate    10    0    1
----- North Rhine-Westphalia    377    0    0
----- Hesse    17    0    0
----- Baden-Württemberg    116    0    2
----- Saarland    2    0    0
--- France    716    11    12
+-- France    949    11    12
 ---- Nord-Pas-de-Calais and Picardy    97    7    4
 ---- Ile-de-France    89    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    136    0    0
@@ -552,6 +536,22 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
+-- Germany    799    0    18
+---- Saxony    3    0    0
+---- Mecklenburg-Vorpommern    5    0    0
+---- Free State of Bavaria    117    0    14
+---- Berlin    24    0    0
+---- Brandenburg    2    0    0
+---- Thuringia    1    0    0
+---- Schleswig-Holstein    8    0    0
+---- Lower Saxony    19    0    1
+---- Bremen    4    0    0
+---- Hamburg    13    0    0
+---- Rhineland-Palatinate    10    0    1
+---- North Rhine-Westphalia    377    0    0
+---- Hesse    17    0    0
+---- Baden-Württemberg    116    0    2
+---- Saarland    2    0    0
 -- Spain    500    10    30
 ---- Andalusia    21    0    0
 ---- Aragon    9    1    0
