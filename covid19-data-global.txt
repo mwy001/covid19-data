@@ -34,7 +34,7 @@
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
 ---- Chongqing    576    6    513
------- Wanzhou District    118    4    108
+------ Wanzhou District    118    4    109
 ------ Qijiang District    23    0    19
 ------ Changshou District    22    0    17
 ------ Tongnan District    18    0    14
@@ -77,7 +77,7 @@
 ------ Putian    56    0    56
 ------ Quanzhou    47    0    47
 ------ Nanping    20    0    20
------- Zhangzhou    20    0    16
+------ Zhangzhou    20    0    20
 ------ Ningde    26    0    26
 ------ Sanming    14    0    14
 ------ Fuzhou    72    1    71
@@ -121,7 +121,7 @@
 ------ Fangchenggang    19    0    12
 ------ Liuzhou    24    0    20
 ------ Laibin    11    0    7
------- Beihai    44    1    39
+------ Beihai    44    1    38
 ------ Guilin    32    0    31
 ------ Nanning    55    0    54
 ------ Yulin    11    0    11
@@ -157,9 +157,9 @@
 ------ Ledong Li Autonomous County    2    0    2
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Hebei    318    6    305
------- Tangshan    58    1    54
+------ Tangshan    58    1    55
 ------ Zhangjiakou    41    0    38
------- Handan    32    0    31
+------ Handan    32    0    32
 ------ Shijiazhuang    29    0    29
 ------ Cangzhou    48    3    45
 ------ Baoding    32    0    32
@@ -247,10 +247,10 @@
 ------ Wuhai    2    0    2
 ------ Xinganmeng    1    0    1
 ---- Jiangsu    631    0    594
------- Nanjing    93    0    89
+------ Nanjing    93    0    92
 ------ Suzhou    87    0    78
 ------ Huainan    66    0    63
------- Xuzhou    79    0    75
+------ Xuzhou    79    0    76
 ------ Lianyungang    48    0    43
 ------ Wuxi    55    0    52
 ------ Changzhou    51    0    51
@@ -286,7 +286,7 @@
 ------ Meihekou    1    0    1
 ---- Liaoning    125    1    106
 ------ Dalian    19    0    15
------- Huludao    12    1    8
+------ Huludao    12    1    9
 ------ Dandong    11    0    7
 ------ Shenyang    28    0    25
 ------ Chaoyang    6    0    4
@@ -326,13 +326,13 @@
 ------ Dezhou    37    2    24
 ------ Jinan    47    0    40
 ------ Weifang    44    0    40
------- Yantai    47    0    40
+------ Yantai    47    0    41
 ------ Zibo    30    1    24
 ------ Weihai    38    0    35
 ------ Linyi    49    0    48
 ------ Binzhou    15    0    15
 ------ Qingdao    60    1    58
------- Zaozhuang    24    0    23
+------ Zaozhuang    24    0    24
 ------ Rizhao    16    0    15
 ------ Liaocheng    38    0    38
 ------ Tai'an    35    2    33
@@ -372,12 +372,12 @@
 ------ Garzê Tibetan Autonomous Prefecture    78    0    66
 ------ Dazhou    42    0    39
 ------ Nanchong    39    0    36
------- Bazhong    24    0    18
------- Deyang    18    0    14
+------ Bazhong    24    0    19
+------ Deyang    18    0    18
 ------ Mianyang    22    0    18
 ------ Guang'an    30    0    27
 ------ Luzhou    24    0    22
------- Neijiang    22    0    19
+------ Neijiang    22    0    20
 ------ Suining    17    0    15
 ------ Yibin    12    0    11
 ------ Ziyang    4    0    2
@@ -605,7 +605,7 @@
 ---- Rioja    38    0    0
 ---- Valencian Community    32    1    1
 -- United States of America    340    14    9
----- WA    85    13    1
+---- WA    86    13    1
 ------ King(53033)    59    12    1
 ------ Snohomish(53061)    19    1    0
 ------ Grant(53025)    1    0    0
@@ -645,7 +645,7 @@
 ------ Providence(44007)    2    0    0
 ---- NH    2    0    0
 ------ Grafton(33009)    2    0    0
----- FL    7    0    0
+---- FL    8    0    0
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    0    0
