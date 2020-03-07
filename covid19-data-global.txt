@@ -96,16 +96,16 @@
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
 ---- Guangdong    1352    7    1216
------- Shenzhen    419    3    358
------- Guangzhou    347    1    309
+------ Shenzhen    419    3    361
+------ Guangzhou    347    1    318
 ------ Foshan    84    0    72
 ------ Dongguan    99    1    92
------- Zhuhai    98    1    90
+------ Zhuhai    98    1    95
 ------ Jiangmen    23    0    20
 ------ Zhongshan    66    0    62
 ------ Meizhou    16    0    15
 ------ Maoming    14    0    14
------- Shantou    25    0    23
+------ Shantou    25    0    24
 ------ Zhanjiang    22    0    22
 ------ Zhaoqing    19    1    18
 ------ Yangjiang    14    0    14
@@ -238,7 +238,7 @@
 ------ Linguolexi    9    0    8
 ------ Baotou    11    0    8
 ------ Hohhot    7    0    6
------- Tongliao    7    0    5
+------ Tongliao    7    0    7
 ------ Hulunbuir    7    0    7
 ------ Ordos    11    0    11
 ------ Chifeng    9    0    8
@@ -253,7 +253,7 @@
 ------ Xuzhou    79    0    75
 ------ Lianyungang    48    0    43
 ------ Wuxi    55    0    52
------- Changzhou    51    0    50
+------ Changzhou    51    0    51
 ------ Zhenjiang    12    0    11
 ------ Nantong    40    0    40
 ------ Taizhou    37    0    37
@@ -338,12 +338,12 @@
 ------ Tai'an    35    2    33
 ------ Heze    18    0    18
 ---- Shanghai    342    3    306
------- People from other cities    111    1    98
------- Pudong District    61    0    54
+------ People from other cities    111    1    99
+------ Pudong District    61    0    55
 ------ Baoshan District    21    0    16
 ------ Xuhui District    18    0    17
 ------ Jing'an District    16    0    14
------- Songjiang District    14    0    12
+------ Songjiang District    14    0    13
 ------ Jiading District    9    0    7
 ------ Huangpu District    6    0    5
 ------ Minhang District    19    0    19
@@ -602,7 +602,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    10    0    0
 ---- Valencian Community    30    1    0
--- United States of America    331    14    9
+-- United States of America    336    14    9
 ---- WA    83    13    1
 ------ King(53033)    58    12    1
 ------ Snohomish(53061)    19    1    0
