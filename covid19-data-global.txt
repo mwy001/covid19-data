@@ -467,35 +467,35 @@
 ---- Seoul    108    0    27
 ---- Ulsan    23    0    1
 -- Iran, Islamic Republic of    4747    124    913
----- Qom    523    30    0
----- Tehran    1413    0    0
----- Fars    81    2    0
----- Markazi    228    11    0
----- Mazandaran    301    13    0
----- Ardabil    40    3    0
+---- Qom    668    30    0
+---- Tehran    1539    0    0
+---- Fars    95    2    0
+---- Markazi    265    11    0
+---- Mazandaran    606    13    0
+---- Ardabil    41    3    0
 ---- South Khorasan    18    1    0
----- Ilam    13    0    0
----- Isfahan    388    2    0
----- Hamadan    23    1    0
----- Razavi Khorasan    89    8    0
----- Hormozgan    19    2    0
----- Kurdistan    42    0    0
----- Qazvin    176    7    0
----- Yazd    57    3    0
----- West Azerbaijan    11    0    0
----- Gilan    424    0    0
----- Golestan    104    6    0
----- Khuzestan    63    12    0
----- Alborz    302    7    0
----- Semnan    114    0    0
----- Lorestan    80    4    0
----- East Azerbaijan    75    6    0
----- Kermanshah    27    2    0
----- Sistan and Baluchestan    21    0    0
----- Kerman    25    0    0
----- Zanjan    50    0    0
----- Chaharmahal and Bakhtiari    14    0    0
----- North Khorasan    15    0    0
+---- Ilam    15    0    0
+---- Isfahan    484    2    0
+---- Hamadan    34    1    0
+---- Razavi Khorasan    135    8    0
+---- Hormozgan    30    2    0
+---- Kurdistan    44    0    0
+---- Qazvin    178    7    0
+---- Yazd    81    3    0
+---- West Azerbaijan    33    0    0
+---- Gilan    494    0    0
+---- Golestan    162    6    0
+---- Khuzestan    64    12    0
+---- Alborz    305    7    0
+---- Semnan    138    0    0
+---- Lorestan    107    4    0
+---- East Azerbaijan    77    6    0
+---- Kermanshah    31    2    0
+---- Sistan and Baluchestan    34    0    0
+---- Kerman    40    0    0
+---- Zanjan    52    0    0
+---- Chaharmahal and Bakhtiari    16    0    0
+---- North Khorasan    23    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    6    0    0
 -- Italy    4636    197    523
 ---- Abruzzo    9    0    0
@@ -523,13 +523,13 @@
 ---- Saxony    3    0    0
 ---- Mecklenburg-Vorpommern    5    0    0
 ---- Free State of Bavaria    117    0    14
----- Berlin    19    0    0
+---- Berlin    24    0    0
 ---- Brandenburg    2    0    0
 ---- Thuringia    1    0    0
 ---- Schleswig-Holstein    8    0    0
----- Lower Saxony    18    0    1
+---- Lower Saxony    19    0    1
 ---- Bremen    4    0    0
----- Hamburg    12    0    0
+---- Hamburg    13    0    0
 ---- Rhineland-Palatinate    10    0    1
 ---- North Rhine-Westphalia    377    0    0
 ---- Hesse    17    0    0
@@ -567,11 +567,11 @@
 ---- Tokyo    64    1    0
 ---- Wakayama    14    1    2
 ---- Kyoto    8    0    2
----- Osaka    31    0    1
+---- Osaka    41    0    1
 ---- Chiba    21    0    0
 ---- Kanagawa    41    1    1
 ---- Shizuoka    1    0    0
----- Aichi    62    0    2
+---- Aichi    67    0    2
 ---- Nara    4    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
@@ -583,7 +583,7 @@
 ---- Miyazaki    1    0    0
 ---- Shiga    1    0    0
 ---- Akita    2    0    0
----- Yamanashi    1    0    0
+---- Yamanashi    2    0    0
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
