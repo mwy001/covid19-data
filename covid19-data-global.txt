@@ -452,7 +452,7 @@
 ---- Busan    96    1    2
 ---- Chungcheongbuk-do    20    0    1
 ---- Chungcheongnam-do    92    0    0
----- Daegu    5084    32    18
+---- Daegu    5084    34    18
 ---- Daejeon    18    0    0
 ---- Gangwon-do    26    1    3
 ---- Gwangju    13    0    3
@@ -522,9 +522,9 @@
 -- Germany    670    0    17
 ---- Saxony    3    0    0
 ---- Mecklenburg-Vorpommern    5    0    0
----- Free State of Bavaria    116    0    14
+---- Free State of Bavaria    117    0    14
 ---- Berlin    19    0    0
----- Brandenburg    1    0    0
+---- Brandenburg    2    0    0
 ---- Thuringia    1    0    0
 ---- Schleswig-Holstein    8    0    0
 ---- Lower Saxony    18    0    1
@@ -533,7 +533,7 @@
 ---- Rhineland-Palatinate    10    0    1
 ---- North Rhine-Westphalia    358    0    0
 ---- Hesse    17    0    0
----- Baden-Württemberg    96    0    2
+---- Baden-Württemberg    116    0    2
 ---- Saarland    2    0    0
 -- France    653    9    12
 ---- Nord-Pas-de-Calais and Picardy    97    6    4
@@ -553,7 +553,7 @@
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
 -- Japan    420    6    46
----- Hokkaido    92    3    1
+---- Hokkaido    98    3    34
 ---- kochi    10    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    6    0    0
@@ -566,10 +566,10 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    58    1    0
 ---- Wakayama    14    1    2
----- Kyoto    7    0    2
+---- Kyoto    8    0    2
 ---- Osaka    31    0    1
----- Chiba    17    0    0
----- Kanagawa    40    1    1
+---- Chiba    21    0    0
+---- Kanagawa    41    1    1
 ---- Shizuoka    1    0    0
 ---- Aichi    62    0    2
 ---- Nara    4    0    1
@@ -586,23 +586,24 @@
 ---- Yamanashi    1    0    0
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
+---- Fukushima    1    0    0
 -- Spain    401    5    2
----- Andalusia    22    0    0
----- Aragon    1    0    0
----- Balearic Islands    5    0    1
+---- Andalusia    21    0    0
+---- Aragon    9    1    0
+---- Balearic Islands    7    0    1
 ---- Basque Country    45    1    0
----- Canary Islands    8    0    3
+---- Canary Islands    16    0    3
 ---- Cantabria    11    0    0
 ---- Castile and León    14    0    0
----- Castile-La Mancha    13    0    0
----- Catalonia    32    0    0
----- Community of Madrid    135    2    0
+---- Castile-La Mancha    15    0    0
+---- Catalonia    37    1    0
+---- Community of Madrid    137    4    0
 ---- Comunidad Foral de Navarra    3    0    0
 ---- Extremadura    6    0    0
----- Galicia    2    0    0
+---- Galicia    3    0    0
 ---- Principality of Asturias    7    0    0
----- Rioja    10    0    0
----- Valencian Community    30    1    0
+---- Rioja    38    0    0
+---- Valencian Community    32    1    1
 -- United States of America    338    14    9
 ---- WA    83    13    1
 ------ King(53033)    58    12    1
