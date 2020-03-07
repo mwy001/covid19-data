@@ -604,7 +604,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    38    0    0
 ---- Valencian Community    32    1    1
--- United States of America    339    14    9
+-- United States of America    340    14    9
 ---- WA    85    13    1
 ------ King(53033)    59    12    1
 ------ Snohomish(53061)    19    1    0
@@ -614,7 +614,7 @@
 ------ Cook(17031)    6    0    2
 ---- AZ    3    0    1
 ------ Maricopa(04013)    2    0    1
----- CA    64    1    2
+---- CA    65    1    2
 ------ Los Angeles(06037)    13    0    0
 ------ Santa Clara(06085)    20    0    1
 ------ San Benito(06069)    2    0    0
