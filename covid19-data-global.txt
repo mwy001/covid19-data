@@ -553,8 +553,8 @@
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
 -- Japan    420    6    46
----- Hokkaido    90    3    1
----- kochi    9    0    0
+---- Hokkaido    92    3    1
+---- kochi    10    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    6    0    0
 ---- Gifu    2    0    0
@@ -585,6 +585,7 @@
 ---- Akita    2    0    0
 ---- Yamanashi    1    0    0
 ---- Hiroshima    1    0    0
+---- Gunma    1    0    0
 -- Spain    401    5    2
 ---- Andalusia    22    0    0
 ---- Aragon    1    0    0
