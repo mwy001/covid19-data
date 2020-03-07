@@ -684,7 +684,7 @@
 ---- MN    1    0    0
 ------ Ramsey(27123)    1    0    0
 -- Switzerland    214    1    3
--- United Kingdom of Great Britain and Northern Ireland    163    2    8
+-- United Kingdom of Great Britain and Northern Ireland    164    2    8
 ---- England    147    2    0
 ---- Northern Ireland    3    0    0
 ---- Wales    2    0    0
@@ -708,7 +708,7 @@
 -- Bahrain    60    0    4
 -- Kuwait    58    0    0
 -- Austria    55    0    0
--- Canada    52    0    6
+-- Canada    54    0    6
 ---- ON    25    0    3
 ------ Toronto    24    0    2
 ------ London    1    0    1
