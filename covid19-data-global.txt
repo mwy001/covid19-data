@@ -604,7 +604,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    38    0    0
 ---- Valencian Community    32    1    1
--- United States of America    340    14    9
+-- United States of America    343    14    9
 ---- WA    86    13    1
 ------ King(53033)    59    12    1
 ------ Snohomish(53061)    19    1    0
@@ -657,9 +657,9 @@
 ---- OR    3    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    2    0    0
----- GA    3    0    0
------- Fulton(13121)    2    0    0
------- Floyd(13115)    1    0    0
+---- GA    6    0    0
+------ Fulton(13121)    3    0    0
+------ Floyd(13115)    2    0    0
 ---- NC    2    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
