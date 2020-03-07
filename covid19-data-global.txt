@@ -604,8 +604,8 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    376    14    9
----- WA    86    13    1
+-- United States of America    377    14    9
+---- WA    87    13    1
 ------ King(53033)    59    12    1
 ------ Snohomish(53061)    19    1    0
 ------ Grant(53025)    1    0    0
