@@ -605,16 +605,16 @@
 ---- Rioja    38    0    0
 ---- Valencian Community    32    1    1
 -- United States of America    340    14    9
----- WA    83    13    1
------- King(53033)    58    12    1
+---- WA    85    13    1
+------ King(53033)    59    12    1
 ------ Snohomish(53061)    19    1    0
 ------ Grant(53025)    1    0    0
 ------ Chelan(53007)    5    0    0
----- IL    5    0    2
------- Cook(17031)    5    0    2
+---- IL    6    0    2
+------ Cook(17031)    6    0    2
 ---- AZ    3    0    1
------- Maricopa(04013)    2    0    0
----- CA    59    1    2
+------ Maricopa(04013)    2    0    1
+---- CA    65    1    2
 ------ Los Angeles(06037)    13    0    0
 ------ Santa Clara(06085)    20    0    1
 ------ San Benito(06069)    2    0    0
@@ -627,7 +627,7 @@
 ------ Alameda(06001)    1    0    0
 ------ Orange(06059)    3    0    0
 ------ Contra Costa(06013)    3    0    0
------- San Francisco(06075)    2    0    0
+------ San Francisco(06075)    3    0    0
 ------ Yolo(06113)    1    0    0
 ---- MA    7    0    1
 ------ Suffolk(25025)    3    0    1
@@ -636,24 +636,24 @@
 ------ Plymouth(25023)    1    0    0
 ---- WI    1    0    1
 ------ Dane(55025)    1    0    1
----- TX    5    0    0
+---- TX    10    0    0
 ------ Bexar(48029)    1    0    0
------- Harris(48201)    3    0    0
------- Fort Bend(48157)    1    0    0
+------ Harris(48201)    5    0    0
+------ Fort Bend(48157)    3    0    0
 ---- Unassigned Location (From Diamond Princess)    45    0    0
----- RI    2    0    0
+---- RI    3    0    0
 ------ Providence(44007)    2    0    0
 ---- NH    2    0    0
 ------ Grafton(33009)    2    0    0
----- FL    4    0    0
+---- FL    7    0    0
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    0    0
----- NY    36    0    0
+---- NY    47    0    0
 ------ New York(36061)    16    0    0
------- Westchester(36119)    19    0    0
+------ Westchester(36119)    27    0    0
 ------ Queens(36081)    1    0    0
------- Nassau(36059)    1    0    0
+------ Nassau(36059)    4    0    0
 ---- OR    3    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    2    0    0
@@ -663,8 +663,8 @@
 ---- NC    2    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NJ    2    0    0
------- Bergen(34003)    2    0    0
+---- NJ    4    0    0
+------ Bergen(34003)    4    0    0
 ---- NV    2    0    0
 ------ Clark(32003)    1    0    0
 ------ Washoe(32031)    1    0    0
@@ -672,7 +672,7 @@
 ------ Williamson(47187)    1    0    0
 ---- MD    3    0    0
 ------ Montgomery(24031)    3    0    0
----- CO    4    0    0
+---- CO    8    0    0
 ------ Denver(08031)    2    0    0
 ------ Summit(08117)    2    0    0
 ---- PA    2    0    0
