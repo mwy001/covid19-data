@@ -452,7 +452,7 @@
 ---- Busan    96    1    2
 ---- Chungcheongbuk-do    20    0    1
 ---- Chungcheongnam-do    92    0    0
----- Daegu    5084    34    18
+---- Daegu    5084    35    18
 ---- Daejeon    18    0    0
 ---- Gangwon-do    26    1    3
 ---- Gwangju    13    0    3
@@ -536,10 +536,10 @@
 ---- Baden-Württemberg    116    0    2
 ---- Saarland    2    0    0
 -- France    653    9    12
----- Nord-Pas-de-Calais and Picardy    97    6    4
+---- Nord-Pas-de-Calais and Picardy    97    7    4
 ---- Ile-de-France    89    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    136    0    0
----- Normandy    11    0    0
+---- Normandy    11    1    0
 ---- Brittany    32    1    6
 ---- Pays de la Loire    16    0    0
 ---- Centre-Val de Loire    11    0    0
@@ -571,7 +571,7 @@
 ---- Chiba    21    0    0
 ---- Kanagawa    41    1    1
 ---- Shizuoka    1    0    0
----- Aichi    67    0    2
+---- Aichi    69    0    2
 ---- Nara    4    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
@@ -691,7 +691,7 @@
 ---- England    147    2    0
 ---- Northern Ireland    4    0    0
 ---- Wales    2    0    0
----- Scotland    11    0    0
+---- Scotland    16    0    0
 -- Singapore    130    0    78
 ---- Central Singapore Community Development Council    110    0    81
 -- Netherlands    128    1    0
