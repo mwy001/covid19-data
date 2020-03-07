@@ -602,7 +602,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    10    0    0
 ---- Valencian Community    30    1    0
--- United States of America    336    14    9
+-- United States of America    338    14    9
 ---- WA    83    13    1
 ------ King(53033)    58    12    1
 ------ Snohomish(53061)    19    1    0
