@@ -708,7 +708,7 @@
 -- Bahrain    60    0    4
 -- Kuwait    58    0    0
 -- Austria    55    0    0
--- Canada    50    0    6
+-- Canada    52    0    6
 ---- ON    25    0    3
 ------ Toronto    24    0    2
 ------ London    1    0    1
