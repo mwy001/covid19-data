@@ -536,7 +536,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Germany    1018    0    18
+-- Germany    1040    0    18
 ---- Saxony    4    0    0
 ---- Mecklenburg-Vorpommern    7    0    0
 ---- Free State of Bavaria    148    0    14
@@ -751,7 +751,7 @@
 ---- Scotland    16    0    0
 -- Netherlands    265    3    0
 -- Belgium    200    0    1
--- Norway    167    0    0
+-- Norway    176    0    0
 -- Sweden    161    0    0
 -- Singapore    150    0    78
 ---- Central Singapore Community Development Council    110    0    81
