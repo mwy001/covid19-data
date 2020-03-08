@@ -703,7 +703,7 @@
 ------ District of Columbia(11001)    2    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- VA    2    0    0
------- Fairfax(51059)    1    0    0
+------ Fairfax(51059)    2    0    0
 ---- MO    1    0    0
 ------ Phelps(29161)    1    0    0
 ---- VT    1    0    0
@@ -760,14 +760,7 @@
 -- Malaysia    93    0    23
 -- Bahrain    85    0    4
 -- Austria    79    0    0
--- Australia    63    2    21
----- New South Wales    28    1    4
----- Victoria    11    0    7
----- Queensland    13    0    8
----- South Australia    7    0    2
----- Western Australia    3    1    0
----- Tasmania    1    0    0
--- Canada    63    0    8
+-- Canada    64    0    8
 ---- ON    28    0    4
 ------ Toronto    27    0    3
 ------ London    1    0    1
@@ -777,6 +770,13 @@
 ---- Alberta    2    0    0
 ------ Calgary    1    0    0
 ------ Edmonton    1    0    0
+-- Australia    63    2    21
+---- New South Wales    28    1    4
+---- Victoria    11    0    7
+---- Queensland    13    0    8
+---- South Australia    7    0    2
+---- Western Australia    3    1    0
+---- Tasmania    1    0    0
 -- Kuwait    61    0    0
 -- Iraq    54    4    0
 -- Thailand    50    1    31
