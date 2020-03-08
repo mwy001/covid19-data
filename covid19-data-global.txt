@@ -604,7 +604,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    401    17    9
+-- United States of America    410    17    9
 ---- WA    107    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -614,7 +614,7 @@
 ------ Cook(17031)    6    0    2
 ---- AZ    5    0    1
 ------ Maricopa(04013)    3    0    1
----- CA    66    1    2
+---- CA    75    1    2
 ------ Los Angeles(06037)    13    0    0
 ------ Santa Clara(06085)    20    0    1
 ------ San Benito(06069)    2    0    0
