@@ -755,8 +755,7 @@
 ---- Western Australia    3    1    0
 ---- Tasmania    1    0    0
 -- Kuwait    61    0    0
--- Iraq    54    4    0
--- Canada    54    0    8
+-- Canada    60    0    8
 ---- ON    28    0    4
 ------ Toronto    27    0    3
 ------ London    1    0    1
@@ -766,6 +765,7 @@
 ---- Alberta    2    0    0
 ------ Calgary    1    0    0
 ------ Edmonton    1    0    0
+-- Iraq    54    4    0
 -- Thailand    50    1    31
 -- Iceland    50    0    0
 -- Greece    46    0    0
