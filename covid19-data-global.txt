@@ -588,7 +588,7 @@
 ---- Chiba    21    0    0
 ---- Kanagawa    41    1    1
 ---- Shizuoka    1    0    0
----- Aichi    69    1    2
+---- Aichi    70    1    2
 ---- Nara    4    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
