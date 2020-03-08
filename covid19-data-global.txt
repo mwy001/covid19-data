@@ -605,7 +605,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    483    19    9
+-- United States of America    486    19    9
 ---- WA    110    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -654,7 +654,7 @@
 ---- Unassigned Location (From Diamond Princess)    45    0    0
 ---- RI    3    0    0
 ------ Providence(44007)    3    0    0
----- NH    4    0    0
+---- NH    6    0    0
 ------ Grafton(33009)    3    0    0
 ------ Rockingham(33015)    1    0    0
 ---- FL    12    2    0
@@ -719,7 +719,7 @@
 ------ Kershaw(45055)    1    0    0
 ---- UT    1    0    0
 ------ Davis(49011)    1    0    0
----- CT    2    0    0
+---- CT    3    0    0
 ------ Fairfield(09001)    2    0    0
 ---- HI    1    0    0
 ------ Honolulu(15003)    1    0    0
@@ -738,16 +738,16 @@
 ------ Phelps(29161)    1    0    0
 ---- VT    1    0    0
 ------ Washington(50023)    1    0    0
--- Switzerland    332    2    3
+-- Switzerland    337    2    3
 -- United Kingdom of Great Britain and Northern Ireland    273    2    18
 ---- England    244    2    0
 ---- Northern Ireland    7    0    0
 ---- Wales    2    0    0
 ---- Scotland    16    0    0
 -- Netherlands    265    3    0
--- Belgium    169    0    1
+-- Belgium    200    0    1
+-- Norway    167    0    0
 -- Sweden    161    0    0
--- Norway    157    0    0
 -- Singapore    150    0    78
 ---- Central Singapore Community Development Council    110    0    81
 -- Hong Kong    108    2    51
