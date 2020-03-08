@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    526    22    9
+-- United States of America    534    22    9
 ---- WA    122    18    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    27    1    0
@@ -587,7 +587,7 @@
 ------ Pinal(04021)    2    0    0
 ---- CA    109    1    2
 ------ Los Angeles(06037)    14    0    0
------- Santa Clara(06085)    32    0    1
+------ Santa Clara(06085)    38    0    1
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
 ------ Humboldt(06023)    1    0    0
@@ -604,7 +604,7 @@
 ------ Santa Cruz(06087)    1    0    0
 ------ Fresno(06019)    1    0    0
 ------ Riverside(06065)    1    0    0
----- MA    23    0    1
+---- MA    24    0    1
 ------ Suffolk(25025)    8    0    1
 ------ Norfolk(25021)    6    0    0
 ------ Middlesex(25017)    7    0    0
