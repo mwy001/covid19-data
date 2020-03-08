@@ -536,7 +536,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Germany    799    0    18
+-- Germany    800    0    18
 ---- Saxony    4    0    0
 ---- Mecklenburg-Vorpommern    6    0    0
 ---- Free State of Bavaria    134    0    14
@@ -552,7 +552,7 @@
 ---- Hesse    17    0    0
 ---- Baden-Württemberg    170    0    2
 ---- Saarland    3    0    0
--- Spain    500    10    30
+-- Spain    525    10    30
 ---- Andalusia    21    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -728,7 +728,7 @@
 ---- MO    1    0    0
 ------ Phelps(29161)    1    0    0
 -- Switzerland    268    1    3
--- United Kingdom of Great Britain and Northern Ireland    206    2    18
+-- United Kingdom of Great Britain and Northern Ireland    209    2    18
 ---- England    184    2    0
 ---- Northern Ireland    7    0    0
 ---- Wales    2    0    0
@@ -736,7 +736,7 @@
 -- Netherlands    188    1    0
 -- Belgium    169    0    1
 -- Sweden    161    0    0
--- Norway    147    0    0
+-- Norway    156    0    0
 -- Singapore    138    0    78
 ---- Central Singapore Community Development Council    110    0    81
 -- Hong Kong    108    2    51
