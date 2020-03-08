@@ -540,7 +540,7 @@
 ---- Saxony    4    0    0
 ---- Mecklenburg-Vorpommern    7    0    0
 ---- Free State of Bavaria    148    0    14
----- Berlin    28    0    0
+---- Berlin    40    0    0
 ---- Brandenburg    2    0    0
 ---- Thuringia    2    0    0
 ---- Schleswig-Holstein    8    0    0
@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    462    19    9
+-- United States of America    463    19    9
 ---- WA    110    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -692,9 +692,9 @@
 ---- OK    1    0    0
 ------ Tulsa(40143)    1    0    0
 ---- WDC    2    0    0
------- District of Columbia(11001)    1    0    0
+------ District of Columbia(11001)    2    0    0
 ---- Grand Princess Cruise Ship    21    0    0
----- VA    1    0    0
+---- VA    2    0    0
 ------ Fairfax(51059)    1    0    0
 ---- MO    1    0    0
 ------ Phelps(29161)    1    0    0
@@ -709,17 +709,17 @@
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    6    0    0
+---- Saitama    7    0    0
 ---- Ishikawa    6    0    0
 ---- Fukuoka    3    0    0
 ---- Tokyo    64    1    0
 ---- Wakayama    14    1    2
 ---- Kyoto    8    0    2
----- Osaka    41    0    1
+---- Osaka    55    0    1
 ---- Chiba    21    0    0
 ---- Kanagawa    41    1    1
 ---- Shizuoka    1    0    0
----- Aichi    70    1    2
+---- Aichi    80    1    2
 ---- Nara    4    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
