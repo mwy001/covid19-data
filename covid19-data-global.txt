@@ -668,11 +668,12 @@
 ------ Manatee(12081)    1    0    0
 ---- NY    105    0    0
 ------ New York(36061)    12    0    0
------- Westchester(36119)    57    0    0
+------ Westchester(36119)    82    0    0
 ------ Queens(36081)    1    0    0
------- Nassau(36059)    4    0    0
+------ Nassau(36059)    5    0    0
 ------ Rockland(36087)    2    0    0
 ------ Saratoga(36091)    2    0    0
+------ Suffolk(36103)    1    0    0
 ---- OR    7    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    3    0    0
@@ -760,7 +761,7 @@
 ---- Western Australia    3    1    0
 ---- Tasmania    1    0    0
 -- Kuwait    61    0    0
--- Canada    60    0    8
+-- Canada    61    0    8
 ---- ON    28    0    4
 ------ Toronto    27    0    3
 ------ London    1    0    1
