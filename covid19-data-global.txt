@@ -448,7 +448,7 @@
 ------ Jinhua    55    0    54
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
--- Korea, Republic of    7134    44    135
+-- Korea, Republic of    7134    50    135
 ---- Busan    97    1    9
 ---- Chungcheongbuk-do    25    0    1
 ---- Chungcheongnam-do    98    0    0
@@ -653,12 +653,14 @@
 ------ Providence(44007)    3    0    0
 ---- NH    2    0    0
 ------ Grafton(33009)    2    0    0
----- FL    8    0    0
+---- FL    10    0    0
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    0    0
 ------ Broward(12011)    2    0    0
 ------ Lee(12071)    2    0    0
+------ Okaloosa(12091)    1    0    0
+------ Volusia(12127)    1    0    0
 ---- NY    76    0    0
 ------ New York(36061)    11    0    0
 ------ Westchester(36119)    57    0    0
@@ -721,6 +723,10 @@
 ---- WDC    1    0    0
 ------ District of Columbia(11001)    1    0    0
 ---- Grand Princess Cruise Ship    21    0    0
+---- VA    1    0    0
+------ Fairfax(51059)    1    0    0
+---- MO    1    0    0
+------ Phelps(29161)    1    0    0
 -- Switzerland    268    1    3
 -- United Kingdom of Great Britain and Northern Ireland    206    2    18
 ---- England    184    2    0
