@@ -669,11 +669,11 @@
 ------ Nassau(36059)    4    0    0
 ------ Rockland(36087)    2    0    0
 ------ Saratoga(36091)    2    0    0
----- OR    5    0    0
+---- OR    7    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    3    0    0
 ------ Klamath(41035)    1    0    0
----- GA    6    0    0
+---- GA    7    0    0
 ------ Fulton(13121)    3    0    0
 ------ Floyd(13115)    2    0    0
 ------ Cobb(13067)    1    0    0
@@ -730,6 +730,7 @@
 ---- MO    1    0    0
 ------ Phelps(29161)    1    0    0
 ---- MA     14    0    1
+---- VT    1    0    0
 -- Switzerland    268    1    3
 -- United Kingdom of Great Britain and Northern Ireland    209    2    18
 ---- England    184    2    0
