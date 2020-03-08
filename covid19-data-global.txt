@@ -616,7 +616,7 @@
 ------ Maricopa(04013)    3    0    1
 ---- CA    96    1    2
 ------ Los Angeles(06037)    14    0    0
------- Santa Clara(06085)    20    0    1
+------ Santa Clara(06085)    32    0    1
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
 ------ Humboldt(06023)    1    0    0
@@ -624,7 +624,7 @@
 ------ Placer(06061)    5    1    0
 ------ San Mateo(06081)    2    0    0
 ------ Sonoma(06097)    1    0    0
------- Alameda(06001)    1    0    0
+------ Alameda(06001)    2    0    0
 ------ Orange(06059)    3    0    0
 ------ Contra Costa(06013)    3    0    0
 ------ San Francisco(06075)    9    0    0
@@ -642,7 +642,7 @@
 ------ Fort Bend(48157)    3    0    0
 ---- Unassigned Location (From Diamond Princess)    45    0    0
 ---- RI    3    0    0
------- Providence(44007)    2    0    0
+------ Providence(44007)    3    0    0
 ---- NH    2    0    0
 ------ Grafton(33009)    2    0    0
 ---- FL    8    0    0
