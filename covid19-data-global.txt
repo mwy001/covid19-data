@@ -604,7 +604,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    459    19    9
+-- United States of America    461    19    9
 ---- WA    110    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -652,7 +652,7 @@
 ---- Unassigned Location (From Diamond Princess)    45    0    0
 ---- RI    3    0    0
 ------ Providence(44007)    3    0    0
----- NH    2    0    0
+---- NH    4    0    0
 ------ Grafton(33009)    2    0    0
 ---- FL    12    2    0
 ------ Hillsborough(12057)    2    0    0
