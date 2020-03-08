@@ -745,7 +745,7 @@
 -- Belgium    169    0    1
 -- Sweden    161    0    0
 -- Norway    157    0    0
--- Singapore    138    0    78
+-- Singapore    150    0    78
 ---- Central Singapore Community Development Council    110    0    81
 -- Hong Kong    108    2    51
 ---- Hong Kong    108    2    51
