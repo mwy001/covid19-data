@@ -605,7 +605,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    479    19    9
+-- United States of America    483    19    9
 ---- WA    110    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -647,7 +647,7 @@
 ------ Berkshire(25003)    1    0    0
 ---- WI    1    0    1
 ------ Dane(55025)    1    0    1
----- TX    13    0    0
+---- TX    16    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    5    0    0
 ------ Fort Bend(48157)    3    0    0
@@ -674,6 +674,7 @@
 ------ Rockland(36087)    2    0    0
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
+------ Ulster(36111)    1    0    0
 ---- OR    7    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    3    0    0
@@ -761,8 +762,7 @@
 ---- South Australia    7    0    2
 ---- Western Australia    3    1    0
 ---- Tasmania    1    0    0
--- Kuwait    61    0    0
--- Canada    61    0    8
+-- Canada    63    0    8
 ---- ON    28    0    4
 ------ Toronto    27    0    3
 ------ London    1    0    1
@@ -772,6 +772,7 @@
 ---- Alberta    2    0    0
 ------ Calgary    1    0    0
 ------ Edmonton    1    0    0
+-- Kuwait    61    0    0
 -- Iraq    54    4    0
 -- Thailand    50    1    31
 -- Iceland    50    0    0
