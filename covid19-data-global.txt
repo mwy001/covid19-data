@@ -553,7 +553,7 @@
 ---- Baden-Württemberg    182    0    2
 ---- Saarland    4    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    613    17    30
+-- Spain    643    17    30
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -675,11 +675,12 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
 ------ Ulster(36111)    1    0    0
----- OR    11    0    0
+---- OR    12    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    8    0    0
 ------ Klamath(41035)    1    0    0
 ------ Marion(41047)    1    0    0
+------ Douglas(41019)    1    0    0
 ---- GA    7    0    0
 ------ Fulton(13121)    3    0    0
 ------ Floyd(13115)    2    0    0
