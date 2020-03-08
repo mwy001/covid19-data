@@ -746,7 +746,7 @@
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
 -- Switzerland    337    2    3
--- United Kingdom of Great Britain and Northern Ireland    273    2    18
+-- United Kingdom of Great Britain and Northern Ireland    273    3    18
 ---- England    244    2    0
 ---- Northern Ireland    7    0    0
 ---- Wales    2    0    0
