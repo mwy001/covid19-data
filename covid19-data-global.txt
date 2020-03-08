@@ -466,29 +466,7 @@
 ---- Sejong    3    0    0
 ---- Seoul    120    0    28
 ---- Ulsan    24    0    1
--- Italy    5883    233    589
----- Abruzzo    11    0    0
----- Apulia    26    2    1
----- Basilicata    3    0    0
----- Calabria    4    0    0
----- Campania    61    0    0
----- Emilia-Romagna    1010    49    25
----- Friuli Venezia Giulia    42    0    3
----- Lazio    76    1    3
----- Lombardy    3420    154    524
----- Marche    207    6    0
----- Molise    14    0    0
----- Piemont    207    4    0
----- Sardinia    5    0    0
----- Sicily    35    0    2
----- Trentino-Alto Adige - Südtirol    14    0    0
----- Tuscany    113    0    1
----- Umbria    24    0    0
----- Liguria    51    4    5
----- Veneto    543    13    25
----- Bolzano    9    0    0
----- Aosta Valley    8    0    0
--- Iran, Islamic Republic of    5823    145    1669
+-- Iran, Islamic Republic of    6566    194    2134
 ---- Qom    668    30    0
 ---- Tehran    1539    0    0
 ---- Fars    95    2    0
@@ -519,6 +497,28 @@
 ---- Chaharmahal and Bakhtiari    16    0    0
 ---- North Khorasan    23    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    6    0    0
+-- Italy    5883    233    589
+---- Abruzzo    11    0    0
+---- Apulia    26    2    1
+---- Basilicata    3    0    0
+---- Calabria    4    0    0
+---- Campania    61    0    0
+---- Emilia-Romagna    1010    49    25
+---- Friuli Venezia Giulia    42    0    3
+---- Lazio    76    1    3
+---- Lombardy    3420    154    524
+---- Marche    207    6    0
+---- Molise    14    0    0
+---- Piemont    207    4    0
+---- Sardinia    5    0    0
+---- Sicily    35    0    2
+---- Trentino-Alto Adige - Südtirol    14    0    0
+---- Tuscany    113    0    1
+---- Umbria    24    0    0
+---- Liguria    51    4    5
+---- Veneto    543    13    25
+---- Bolzano    9    0    0
+---- Aosta Valley    8    0    0
 -- France    949    11    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    104    2    2
