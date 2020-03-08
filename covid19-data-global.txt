@@ -519,7 +519,7 @@
 ---- Veneto    543    13    25
 ---- Bolzano    9    0    0
 ---- Aosta Valley    8    0    0
--- Germany    951    0    18
+-- Germany    1018    0    18
 ---- Saxony    4    0    0
 ---- Mecklenburg-Vorpommern    7    0    0
 ---- Free State of Bavaria    148    0    14
