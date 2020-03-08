@@ -553,25 +553,25 @@
 ---- Baden-Württemberg    170    0    2
 ---- Saarland    3    0    0
 -- Spain    525    10    30
----- Andalusia    21    0    0
+---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
----- Basque Country    45    1    0
----- Canary Islands    16    0    3
----- Cantabria    11    0    0
----- Castile and León    14    0    0
+---- Basque Country    70    2    0
+---- Canary Islands    17    0    3
+---- Cantabria    12    0    0
+---- Castile and León    21    0    0
 ---- Castile-La Mancha    15    0    0
----- Catalonia    37    1    0
----- Community of Madrid    137    4    0
+---- Catalonia    50    1    0
+---- Community of Madrid    175    5    0
 ---- Comunidad Foral de Navarra    3    0    0
 ---- Extremadura    6    0    0
----- Galicia    3    0    0
+---- Galicia    4    0    0
 ---- Principality of Asturias    7    0    0
----- Rioja    38    0    0
----- Valencian Community    32    1    1
+---- Rioja    47    0    0
+---- Valencian Community    38    1    1
 -- Japan    461    6    76
----- Hokkaido    98    3    34
----- kochi    10    0    0
+---- Hokkaido    101    3    34
+---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    6    0    0
 ---- Gifu    2    0    0
