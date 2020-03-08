@@ -467,36 +467,36 @@
 ---- Seoul    120    0    28
 ---- Ulsan    24    0    1
 -- Iran, Islamic Republic of    6566    194    2134
----- Qom    668    30    0
----- Tehran    1539    0    0
----- Fars    95    2    0
----- Markazi    265    11    0
----- Mazandaran    606    13    0
----- Ardabil    41    3    0
----- South Khorasan    18    1    0
+---- Qom    685    30    0
+---- Tehran    1805    0    0
+---- Fars    104    2    0
+---- Markazi    335    11    0
+---- Mazandaran    620    13    0
+---- Ardabil    50    3    0
+---- South Khorasan    44    1    0
 ---- Ilam    15    0    0
----- Isfahan    484    2    0
----- Hamadan    34    1    0
----- Razavi Khorasan    135    8    0
----- Hormozgan    30    2    0
----- Kurdistan    44    0    0
----- Qazvin    178    7    0
----- Yazd    81    3    0
----- West Azerbaijan    33    0    0
----- Gilan    494    0    0
----- Golestan    162    6    0
----- Khuzestan    64    12    0
----- Alborz    305    7    0
----- Semnan    138    0    0
----- Lorestan    107    4    0
----- East Azerbaijan    77    6    0
----- Kermanshah    31    2    0
+---- Isfahan    564    2    0
+---- Hamadan    60    1    0
+---- Razavi Khorasan    154    8    0
+---- Hormozgan    35    2    0
+---- Kurdistan    63    0    0
+---- Qazvin    207    7    0
+---- Yazd    87    3    0
+---- West Azerbaijan    40    0    0
+---- Gilan    496    0    0
+---- Golestan    175    6    0
+---- Khuzestan    69    12    0
+---- Alborz    307    7    0
+---- Semnan    175    0    0
+---- Lorestan    144    4    0
+---- East Azerbaijan    107    6    0
+---- Kermanshah    33    2    0
 ---- Sistan and Baluchestan    34    0    0
----- Kerman    40    0    0
----- Zanjan    52    0    0
----- Chaharmahal and Bakhtiari    16    0    0
----- North Khorasan    23    0    0
----- Kohgiluyeh and Boyer-Ahmad    6    0    0
+---- Kerman    41    0    0
+---- Zanjan    53    0    0
+---- Chaharmahal and Bakhtiari    21    0    0
+---- North Khorasan    24    0    0
+---- Kohgiluyeh and Boyer-Ahmad    9    0    0
 -- Italy    5883    233    589
 ---- Abruzzo    11    0    0
 ---- Apulia    26    2    1
@@ -548,7 +548,7 @@
 ---- Bremen    4    0    0
 ---- Hamburg    13    0    0
 ---- Rhineland-Palatinate    15    0    1
----- North Rhine-Westphalia    392    0    0
+---- North Rhine-Westphalia    484    0    0
 ---- Hesse    17    0    0
 ---- Baden-Württemberg    182    0    2
 ---- Saarland    4    0    0
@@ -595,7 +595,7 @@
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    11    0    0
+---- hyogo    12    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -620,7 +620,7 @@
 ---- AZ    5    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- CA    108    1    2
+---- CA    109    1    2
 ------ Los Angeles(06037)    14    0    0
 ------ Santa Clara(06085)    32    0    1
 ------ San Benito(06069)    2    0    0
