@@ -448,7 +448,7 @@
 ------ Jinhua    55    0    54
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
--- Korea, Republic of    7134    50    135
+-- Korea, Republic of    7313    50    135
 ---- Busan    97    1    9
 ---- Chungcheongbuk-do    25    0    1
 ---- Chungcheongnam-do    98    0    0
