@@ -563,7 +563,7 @@
 ---- Castile and León    21    0    0
 ---- Castile-La Mancha    15    0    0
 ---- Catalonia    50    1    0
----- Community of Madrid    175    5    0
+---- Community of Madrid    207    5    0
 ---- Comunidad Foral de Navarra    3    0    0
 ---- Extremadura    6    0    0
 ---- Galicia    4    0    0
@@ -605,7 +605,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- United States of America    463    19    9
+-- United States of America    479    19    9
 ---- WA    110    16    1
 ------ King(53033)    71    15    1
 ------ Snohomish(53061)    27    1    0
@@ -666,7 +666,7 @@
 ------ Okaloosa(12091)    1    0    0
 ------ Volusia(12127)    1    0    0
 ------ Manatee(12081)    1    0    0
----- NY    89    0    0
+---- NY    105    0    0
 ------ New York(36061)    12    0    0
 ------ Westchester(36119)    57    0    0
 ------ Queens(36081)    1    0    0
@@ -737,7 +737,7 @@
 ------ Washington(50023)    1    0    0
 -- Switzerland    332    2    3
 -- United Kingdom of Great Britain and Northern Ireland    273    2    18
----- England    184    2    0
+---- England    244    2    0
 ---- Northern Ireland    7    0    0
 ---- Wales    2    0    0
 ---- Scotland    16    0    0
