@@ -449,27 +449,27 @@
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
 -- Italy    9172    463    724
----- Abruzzo    17    0    0
----- Apulia    40    3    1
----- Basilicata    4    0    0
----- Calabria    9    0    0
----- Campania    101    0    1
----- Emilia-Romagna    1180    56    27
----- Friuli Venezia Giulia    57    1    3
----- Lazio    87    3    3
----- Lombardy    4189    267    550
----- Marche    272    7    0
+---- Abruzzo    30    0    0
+---- Apulia    50    3    1
+---- Basilicata    5    0    0
+---- Calabria    11    0    2
+---- Campania    120    0    1
+---- Emilia-Romagna    1386    70    30
+---- Friuli Venezia Giulia    93    1    3
+---- Lazio    102    5    3
+---- Lombardy    5469    333    646
+---- Marche    323    10    0
 ---- Molise    14    0    0
----- Piemont    360    5    0
----- Sardinia    11    0    0
----- Sicily    53    0    2
----- Trentino-Alto Adige - Südtirol    23    0    0
----- Tuscany    166    0    1
----- Umbria    26    0    0
----- Liguria    78    6    5
----- Veneto    670    18    29
+---- Piemont    350    13    0
+---- Sardinia    19    0    0
+---- Sicily    54    0    2
+---- Trentino-Alto Adige - Südtirol    33    0    0
+---- Tuscany    208    1    1
+---- Umbria    28    0    0
+---- Liguria    109    7    5
+---- Veneto    744    20    30
 ---- Bolzano    9    0    0
----- Aosta Valley    9    0    0
+---- Aosta Valley    15    0    0
 -- Korea, Republic of    7478    53    135
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
@@ -571,8 +571,8 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    643    23    9
----- WA    136    19    1
+-- United States of America    676    26    9
+---- WA    169    22    33
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
 ------ Grant(53025)    1    1    0
