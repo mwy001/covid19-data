@@ -537,7 +537,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Germany    1112    0    18
+-- Germany    1151    0    18
 ---- Saxony    10    0    0
 ---- Mecklenburg-Vorpommern    8    0    0
 ---- Free State of Bavaria    256    0    14
@@ -554,7 +554,7 @@
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    675    17    32
+-- Spain    909    17    32
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -716,6 +716,7 @@
 ------ Fairfax(51059)    2    0    0
 ---- MO    1    0    0
 ------ Phelps(29161)    1    0    0
+------ St Louis(29189)    1    0    0
 ---- VT    1    0    0
 ------ Washington(50023)    1    0    0
 ------ Bennington(50003)    1    0    0
