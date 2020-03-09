@@ -519,7 +519,7 @@
 ---- Chaharmahal and Bakhtiari    21    0    0
 ---- North Khorasan    24    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    9    0    0
--- France    1126    19    12
+-- France    1209    19    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    104    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    250    0    0
