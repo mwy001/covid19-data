@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    619    22    9
+-- United States of America    621    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -636,10 +636,10 @@
 ------ Manatee(12081)    2    0    0
 ------ Charlotte(12015)    1    0    0
 ---- NY    142    0    34
------- New York(36061)    12    0    0
------- Westchester(36119)    83    0    0
+------ New York(36061)    19    0    0
+------ Westchester(36119)    98    0    0
 ------ Queens(36081)    1    0    0
------- Nassau(36059)    5    0    0
+------ Nassau(36059)    17    0    0
 ------ Rockland(36087)    2    0    0
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
@@ -666,7 +666,7 @@
 ---- NV    4    0    0
 ------ Clark(32003)    2    0    0
 ------ Washoe(32031)    2    0    0
----- TN    3    0    0
+---- TN    4    0    1
 ------ Williamson(47187)    1    0    0
 ------ Shelby(47157)    1    0    0
 ------ Davidson(47037)    1    0    0
@@ -679,7 +679,7 @@
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
----- PA    6    0    0
+---- PA    7    0    1
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    4    0    0
@@ -712,7 +712,7 @@
 ---- WDC    2    0    0
 ------ District of Columbia(11001)    2    0    0
 ---- Grand Princess Cruise Ship    21    0    0
----- VA    2    0    0
+---- VA    3    0    0
 ------ Fairfax(51059)    2    0    0
 ---- MO    2    0    1
 ------ Phelps(29161)    1    0    0
