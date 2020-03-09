@@ -722,8 +722,6 @@
 ------ Bennington(50003)    1    0    0
 ---- IA    3    0    0
 ------ Johnson(19103)    3    0    0
----- OR     2    0    0
------- Jackson(41029)    2    0    0
 -- Japan    511    17    76
 ---- Hokkaido    108    3    34
 ---- kochi    12    0    0
@@ -766,8 +764,8 @@
 ---- Wales    4    0    0
 ---- Scotland    18    0    0
 -- Netherlands    265    3    0
+-- Belgium    239    0    1
 -- Sweden    203    0    0
--- Belgium    200    0    1
 -- Norway    176    0    0
 -- Singapore    150    0    78
 ---- Central Singapore Community Development Council    150    0    90
