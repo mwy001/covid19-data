@@ -554,7 +554,7 @@
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    948    25    32
+-- Spain    979    25    32
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -596,7 +596,7 @@
 ------ Sacramento(06067)    2    0    0
 ------ Placer(06061)    7    1    0
 ------ San Mateo(06081)    2    0    0
------- Sonoma(06097)    1    0    0
+------ Sonoma(06097)    3    0    0
 ------ Alameda(06001)    2    0    0
 ------ Orange(06059)    4    0    0
 ------ Contra Costa(06013)    12    0    0
