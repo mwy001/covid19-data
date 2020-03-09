@@ -554,7 +554,7 @@
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    911    25    32
+-- Spain    944    25    32
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
