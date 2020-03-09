@@ -554,7 +554,7 @@
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    673    17    30
+-- Spain    675    17    32
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -617,7 +617,7 @@
 ------ Dane(55025)    1    0    1
 ---- TX    17    0    0
 ------ Bexar(48029)    1    0    0
------- Harris(48201)    5    0    0
+------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
 ---- Unassigned Location (From Diamond Princess)    45    0    0
 ---- RI    3    0    0
@@ -722,7 +722,7 @@
 ------ Bennington(50003)    1    0    0
 ---- IA    3    0    0
 ------ Johnson(19103)    3    0    0
--- Japan    502    6    76
+-- Japan    511    17    76
 ---- Hokkaido    108    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
