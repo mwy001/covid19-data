@@ -619,6 +619,7 @@
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
+------ Collin(48085)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- RI    3    0    0
 ------ Providence(44007)    3    0    0
@@ -652,7 +653,7 @@
 ------ Douglas(41019)    1    0    0
 ------ Jackson(41029)    2    0    0
 ---- GA    12    0    1
------- Fulton(13121)    4    0    0
+------ Fulton(13121)    5    0    0
 ------ Floyd(13115)    2    0    0
 ------ Cobb(13067)    3    0    0
 ------ Polk(13233)    2    0    0
@@ -723,6 +724,8 @@
 ------ Bennington(50003)    1    0    0
 ---- IA    3    0    0
 ------ Johnson(19103)    3    0    0
+---- LA    1    0    0
+------ Jefferson(22051)    1    0    0
 -- Japan    511    17    76
 ---- Hokkaido    108    3    34
 ---- kochi    12    0    0
