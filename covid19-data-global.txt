@@ -522,7 +522,7 @@
 ---- Bushehr    10    0    0
 -- France    1209    19    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
----- Ile-de-France    104    2    2
+---- Ile-de-France    243    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    250    0    0
 ---- Normandy    11    1    0
 ---- Brittany    40    1    6
@@ -757,7 +757,7 @@
 -- Switzerland    337    2    3
 -- United Kingdom of Great Britain and Northern Ireland    273    3    18
 ---- England    244    3    0
----- Northern Ireland    7    0    0
+---- Northern Ireland    12    0    0
 ---- Wales    4    0    0
 ---- Scotland    18    0    0
 -- Netherlands    265    3    0
