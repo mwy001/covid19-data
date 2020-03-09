@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    676    26    9
+-- United States of America    689    26    9
 ---- WA    169    22    33
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -607,7 +607,7 @@
 ------ Fresno(06019)    1    0    0
 ------ Riverside(06065)    1    0    0
 ------ Shasta(06089)    1    0    0
----- MA    28    0    1
+---- MA    41    0    1
 ------ Suffolk(25025)    8    0    1
 ------ Norfolk(25021)    6    0    0
 ------ Middlesex(25017)    7    0    0
