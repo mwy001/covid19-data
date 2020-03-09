@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    697    26    9
+-- United States of America    703    26    9
 ---- WA    169    22    33
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -587,7 +587,7 @@
 ---- AZ    5    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- CA    117    2    12
+---- CA    121    2    16
 ------ Los Angeles(06037)    14    0    0
 ------ Santa Clara(06085)    38    0    1
 ------ San Benito(06069)    2    0    0
@@ -696,11 +696,11 @@
 ---- MN    2    0    0
 ------ Ramsey(27123)    1    0    0
 ------ Jefferson(21111)    1    0    0
----- SC    6    0    0
+---- SC    7    0    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Spartanburg(45083)    1    0    0
----- UT    1    0    0
+---- UT    2    0    1
 ------ Davis(49011)    1    0    0
 ---- CT    3    0    0
 ------ Fairfield(09001)    3    0    0
