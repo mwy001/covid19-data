@@ -564,7 +564,7 @@
 ---- Castile and León    21    0    0
 ---- Castile-La Mancha    15    0    0
 ---- Catalonia    50    1    0
----- Community of Madrid    207    5    0
+---- Community of Madrid    469    16    0
 ---- Comunidad Foral de Navarra    3    0    0
 ---- Extremadura    6    0    0
 ---- Galicia    4    0    0
@@ -741,7 +741,7 @@
 ---- Chiba    22    0    0
 ---- Kanagawa    41    2    1
 ---- Shizuoka    1    0    0
----- Aichi    85    1    2
+---- Aichi    86    1    2
 ---- Nara    7    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
@@ -759,7 +759,7 @@
 ---- Fukushima    1    0    0
 -- Switzerland    374    2    3
 -- United Kingdom of Great Britain and Northern Ireland    280    3    18
----- England    244    3    0
+---- England    280    3    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
