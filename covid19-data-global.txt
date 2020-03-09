@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    689    26    9
+-- United States of America    697    26    9
 ---- WA    169    22    33
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -582,12 +582,12 @@
 ------ Kittitas(53037)    1    0    0
 ------ Pierce(53053)    4    0    0
 ------ Spokane(53063)    1    0    0
----- IL    7    0    2
+---- IL    11    0    4
 ------ Cook(17031)    7    0    2
 ---- AZ    5    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- CA    116    2    11
+---- CA    117    2    12
 ------ Los Angeles(06037)    14    0    0
 ------ Santa Clara(06085)    38    0    1
 ------ San Benito(06069)    2    0    0
@@ -680,7 +680,7 @@
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
----- PA    7    0    1
+---- PA    10    0    4
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    5    0    0
