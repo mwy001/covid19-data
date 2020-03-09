@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    583    22    9
+-- United States of America    591    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -619,7 +619,7 @@
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
----- Unassigned Location (From Diamond Princess)    45    0    0
+---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- RI    3    0    0
 ------ Providence(44007)    3    0    0
 ---- NH    6    0    0
@@ -635,7 +635,7 @@
 ------ Volusia(12127)    1    0    0
 ------ Manatee(12081)    2    0    0
 ------ Charlotte(12015)    1    0    0
----- NY    109    0    3
+---- NY    117    0    9
 ------ New York(36061)    12    0    0
 ------ Westchester(36119)    83    0    0
 ------ Queens(36081)    1    0    0
