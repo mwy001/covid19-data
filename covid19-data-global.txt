@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    630    22    9
+-- United States of America    634    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -660,7 +660,7 @@
 ---- NC    2    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NJ    6    0    0
+---- NJ    11    0    5
 ------ Bergen(34003)    5    0    0
 ------ Hudson(34017)    1    0    0
 ---- NV    4    0    0
@@ -682,7 +682,7 @@
 ---- PA    7    0    1
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    4    0    0
+------ Montgomery(42091)    5    0    0
 ---- NE    3    0    0
 ------ Douglas(31055)    3    0    0
 ---- KY    4    0    0
@@ -759,15 +759,15 @@
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
 -- Switzerland    374    2    3
--- Netherlands    321    3    0
--- United Kingdom of Great Britain and Northern Ireland    280    3    18
+-- United Kingdom of Great Britain and Northern Ireland    321    4    18
 ---- England    280    3    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
+-- Netherlands    321    3    0
 -- Belgium    239    0    1
+-- Norway    205    0    1
 -- Sweden    203    0    0
--- Norway    176    0    0
 -- Singapore    150    0    78
 ---- Central Singapore Community Development Council    150    0    90
 -- Hong Kong    114    3    58
