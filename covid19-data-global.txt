@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    576    22    9
+-- United States of America    582    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -722,7 +722,7 @@
 ---- Hokkaido    101    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    6    0    0
+---- Niigata    8    0    0
 ---- Gifu    2    0    0
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
