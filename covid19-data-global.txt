@@ -537,20 +537,20 @@
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
 -- Germany    1040    0    18
----- Saxony    4    0    0
----- Mecklenburg-Vorpommern    7    0    0
----- Free State of Bavaria    148    0    14
+---- Saxony    10    0    0
+---- Mecklenburg-Vorpommern    8    0    0
+---- Free State of Bavaria    200    0    14
 ---- Berlin    40    0    0
----- Brandenburg    2    0    0
+---- Brandenburg    4    0    0
 ---- Thuringia    2    0    0
----- Schleswig-Holstein    8    0    0
+---- Schleswig-Holstein    9    0    0
 ---- Lower Saxony    21    0    1
 ---- Bremen    4    0    0
----- Hamburg    13    0    0
----- Rhineland-Palatinate    15    0    1
+---- Hamburg    17    0    0
+---- Rhineland-Palatinate    19    0    1
 ---- North Rhine-Westphalia    484    0    0
----- Hesse    17    0    0
----- Baden-Württemberg    182    0    2
+---- Hesse    19    0    0
+---- Baden-Württemberg    199    0    2
 ---- Saarland    4    0    0
 ---- Saxony-Anhalt    4    0    0
 -- Spain    673    17    30
@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    564    22    9
+-- United States of America    567    22    9
 ---- WA    128    18    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -749,14 +749,14 @@
 -- United Kingdom of Great Britain and Northern Ireland    273    3    18
 ---- England    244    2    0
 ---- Northern Ireland    7    0    0
----- Wales    2    0    0
----- Scotland    16    0    0
+---- Wales    4    0    0
+---- Scotland    18    0    0
 -- Netherlands    265    3    0
 -- Belgium    200    0    1
 -- Norway    176    0    0
 -- Sweden    161    0    0
 -- Singapore    150    0    78
----- Central Singapore Community Development Council    110    0    81
+---- Central Singapore Community Development Council    150    0    90
 -- Hong Kong    108    2    51
 ---- Hong Kong    108    2    51
 -- Malaysia    93    0    23
