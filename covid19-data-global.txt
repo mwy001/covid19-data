@@ -738,7 +738,7 @@
 ---- Wakayama    14    1    2
 ---- Kyoto    12    0    2
 ---- Osaka    55    0    1
----- Chiba    21    0    0
+---- Chiba    22    0    0
 ---- Kanagawa    41    2    1
 ---- Shizuoka    1    0    0
 ---- Aichi    85    1    2
@@ -747,7 +747,7 @@
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    14    0    0
+---- hyogo    16    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -762,7 +762,7 @@
 ---- England    244    3    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
----- Scotland    18    0    0
+---- Scotland    23    0    0
 -- Netherlands    265    3    0
 -- Belgium    239    0    1
 -- Sweden    203    0    0
