@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    570    22    9
+-- United States of America    576    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -647,7 +647,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Marion(41047)    1    0    0
 ------ Douglas(41019)    1    0    0
----- GA    7    0    0
+---- GA    11    0    0
 ------ Fulton(13121)    3    0    0
 ------ Floyd(13115)    2    0    0
 ------ Cobb(13067)    1    0    0
@@ -697,7 +697,7 @@
 ------ Davis(49011)    1    0    0
 ---- CT    3    0    0
 ------ Fairfield(09001)    3    0    0
----- HI    1    0    0
+---- HI    2    0    0
 ------ Honolulu(15003)    1    0    0
 ---- OR     2    0    0
 ------ Jackson(41029)    2    0    0
