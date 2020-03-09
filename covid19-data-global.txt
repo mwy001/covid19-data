@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    591    22    9
+-- United States of America    617    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -635,7 +635,7 @@
 ------ Volusia(12127)    1    0    0
 ------ Manatee(12081)    2    0    0
 ------ Charlotte(12015)    1    0    0
----- NY    117    0    9
+---- NY    142    0    34
 ------ New York(36061)    12    0    0
 ------ Westchester(36119)    83    0    0
 ------ Queens(36081)    1    0    0
@@ -689,7 +689,7 @@
 ------ Fayette(21067)    1    0    0
 ------ Harrison(21097)    2    0    0
 ------ Jefferson(21111)    1    0    0
----- IN    3    0    0
+---- IN    4    0    1
 ------ Marion(18097)    1    0    0
 ------ Hendricks(18063)    2    0    0
 ---- MN    2    0    0
