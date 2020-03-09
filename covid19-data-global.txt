@@ -721,6 +721,8 @@
 ------ Bennington(50003)    1    0    0
 ---- IA    3    0    0
 ------ Johnson(19103)    3    0    0
+---- OR     2    0    0
+------ Jackson(41029)    2    0    0
 -- Japan    511    17    76
 ---- Hokkaido    108    3    34
 ---- kochi    12    0    0
@@ -733,12 +735,12 @@
 ---- Saitama    7    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    64    1    0
+---- Tokyo    64    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    12    0    2
 ---- Osaka    55    0    1
 ---- Chiba    21    0    0
----- Kanagawa    41    1    1
+---- Kanagawa    41    2    1
 ---- Shizuoka    1    0    0
 ---- Aichi    80    1    2
 ---- Nara    6    0    1
