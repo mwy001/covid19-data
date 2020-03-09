@@ -449,22 +449,22 @@
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
 -- Korea, Republic of    7382    50    135
----- Busan    97    1    9
----- Chungcheongbuk-do    25    0    1
----- Chungcheongnam-do    98    0    0
----- Daegu    5378    35    18
+---- Busan    96    0    10
+---- Chungcheongbuk-do    25    0    3
+---- Chungcheongnam-do    102    0    1
+---- Daegu    5571    35    21
 ---- Daejeon    19    0    1
----- Gangwon-do    27    1    3
----- Gwangju    13    0    3
----- Gyeonggi-do    142    1    16
----- Gyeongsangbuk-do    1081    12    42
----- Gyeongsangnam-do    83    0    4
+---- Gangwon-do    28    1    3
+---- Gwangju    15    0    3
+---- Gyeonggi-do    152    1    22
+---- Gyeongsangbuk-do    1107    14    57
+---- Gyeongsangnam-do    83    0    9
 ---- Incheon    9    0    2
----- Jeju-do    4    0    0
+---- Jeju-do    4    0    1
 ---- Jeollabuk-do    7    0    2
----- Jeollanam-do    4    0    0
----- Sejong    3    0    0
----- Seoul    120    0    28
+---- Jeollanam-do    4    0    1
+---- Sejong    6    0    0
+---- Seoul    130    0    29
 ---- Ulsan    24    0    1
 -- Italy    7375    366    622
 ---- Abruzzo    17    0    0
@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    568    22    9
+-- United States of America    569    22    9
 ---- WA    128    18    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -751,7 +751,7 @@
 ---- Fukushima    1    0    0
 -- Switzerland    337    2    3
 -- United Kingdom of Great Britain and Northern Ireland    273    3    18
----- England    244    2    0
+---- England    244    3    0
 ---- Northern Ireland    7    0    0
 ---- Wales    4    0    0
 ---- Scotland    18    0    0
