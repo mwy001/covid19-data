@@ -519,6 +519,7 @@
 ---- Chaharmahal and Bakhtiari    21    0    0
 ---- North Khorasan    24    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    9    0    0
+---- Bushehr    10    0    0
 -- France    1209    19    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    104    2    2
@@ -719,7 +720,7 @@
 ------ Washington(50023)    1    0    0
 ---- IA    3    0    0
 -- Japan    502    6    76
----- Hokkaido    101    3    34
+---- Hokkaido    108    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    8    0    0
@@ -732,7 +733,7 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    64    1    0
 ---- Wakayama    14    1    2
----- Kyoto    8    0    2
+---- Kyoto    11    0    2
 ---- Osaka    55    0    1
 ---- Chiba    21    0    0
 ---- Kanagawa    41    1    1
