@@ -541,7 +541,7 @@
 ---- Saxony    10    0    0
 ---- Mecklenburg-Vorpommern    8    0    0
 ---- Free State of Bavaria    256    0    14
----- Berlin    40    0    0
+---- Berlin    48    0    0
 ---- Brandenburg    6    0    0
 ---- Thuringia    2    0    0
 ---- Schleswig-Holstein    9    0    0
@@ -549,7 +549,7 @@
 ---- Bremen    4    0    0
 ---- Hamburg    17    0    0
 ---- Rhineland-Palatinate    19    0    1
----- North Rhine-Westphalia    484    0    0
+---- North Rhine-Westphalia    515    0    0
 ---- Hesse    20    0    0
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
