@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    617    22    9
+-- United States of America    619    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -714,7 +714,7 @@
 ---- Grand Princess Cruise Ship    21    0    0
 ---- VA    2    0    0
 ------ Fairfax(51059)    2    0    0
----- MO    1    0    0
+---- MO    2    0    1
 ------ Phelps(29161)    1    0    0
 ------ St Louis(29189)    1    0    0
 ---- VT    1    0    0
