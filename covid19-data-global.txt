@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    621    22    9
+-- United States of America    622    22    9
 ---- WA    136    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -615,7 +615,7 @@
 ------ Berkshire(25003)    1    0    0
 ---- WI    1    0    1
 ------ Dane(55025)    1    0    1
----- TX    17    0    0
+---- TX    17    0    1
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -640,7 +640,7 @@
 ------ Westchester(36119)    98    0    0
 ------ Queens(36081)    1    0    0
 ------ Nassau(36059)    17    0    0
------- Rockland(36087)    2    0    0
+------ Rockland(36087)    4    0    0
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
 ------ Ulster(36111)    1    0    0
@@ -717,6 +717,7 @@
 ---- MO    2    0    1
 ------ Phelps(29161)    1    0    0
 ------ St Louis(29189)    1    0    0
+------ Wyandotte(20209)    1    0    0
 ---- VT    1    0    0
 ------ Washington(50023)    1    0    0
 ------ Bennington(50003)    1    0    0
