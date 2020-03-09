@@ -1,4 +1,4 @@
--- China    80652    3070    55478
+-- China    80699    3070    55478
 ---- Anhui    990    6    979
 ------ Hefei    174    1    171
 ------ Fuyang    155    0    155
@@ -16,7 +16,7 @@
 ------ Chizhou    17    0    17
 ------ Huangshan    9    0    9
 ------ Tongling    29    0    29
----- Beijing    426    8    303
+---- Beijing    428    8    303
 ------ Chaoyang District    72    0    0
 ------ Haidian District    63    0    0
 ------ Xicheng District    53    0    0
@@ -83,7 +83,7 @@
 ------ Fuzhou    72    1    71
 ------ Xiamen    35    0    35
 ------ Longyan    6    0    6
----- Gansu    120    2    87
+---- Gansu    124    2    87
 ------ Lanzhou    36    2    33
 ------ Pingliang    9    0    9
 ------ Dingxi    9    0    8
@@ -201,7 +201,7 @@
 ------ Jiaozuo    32    1    31
 ------ Luoyang    31    1    30
 ------ Sanmenxia    7    1    6
----- Hubei    67666    2959    43500
+---- Hubei    67707    2959    43500
 ------ Wuhan    49871    2349    28536
 ------ Xiaogan    3518    123    2972
 ------ Huanggang    2907    125    2582
@@ -756,111 +756,115 @@
 ---- Wales    4    0    0
 ---- Scotland    18    0    0
 -- Netherlands    265    3    0
+-- Sweden    203    0    0
 -- Belgium    200    0    1
 -- Norway    176    0    0
--- Sweden    161    0    0
 -- Singapore    150    0    78
 ---- Central Singapore Community Development Council    150    0    90
--- Hong Kong    108    2    51
----- Hong Kong    108    2    51
--- Malaysia    93    0    23
+-- Hong Kong    114    2    51
+---- Hong Kong    114    2    51
+-- Austria    104    0    0
+-- Malaysia    99    0    23
 -- Bahrain    85    0    4
--- Austria    79    0    0
--- Canada    64    0    8
----- ON    28    0    4
------- Toronto    27    0    3
------- London    1    0    1
----- BC    21    0    4
----- QC    3    0    0
-------  Montreal    3    0    0
----- Alberta    2    0    0
------- Calgary    1    0    0
------- Edmonton    1    0    0
--- Australia    63    2    21
----- New South Wales    28    1    4
+-- Australia    76    2    21
+---- New South Wales    38    1    4
 ---- Victoria    11    0    7
----- Queensland    13    0    8
+---- Queensland    15    0    8
 ---- South Australia    7    0    2
 ---- Western Australia    3    1    0
----- Tasmania    1    0    0
--- Kuwait    61    0    0
--- Iraq    54    4    0
+---- Tasmania    2    0    0
+-- Greece    73    0    0
+-- Kuwait    64    0    0
+-- Canada    64    0    8
+---- ON    29    0    4
+------ Toronto    28    0    3
+------ London    1    0    1
+---- BC    27    0    4
+---- QC    4    0    0
+------  Montreal    4    0    0
+---- Alberta    4    0    0
+------ Calgary    1    0    0
+------ Edmonton    1    0    0
+-- Iraq    60    4    0
 -- Thailand    50    1    31
 -- Iceland    50    0    0
--- Greece    46    0    0
+-- Egypt    49    0    1
 -- Taiwan    45    1    12
 ---- Taiwan    45    1    12
 -- United Arab Emirates    45    0    7
--- India    34    0    3
--- Denmark    23    0    1
--- San Marino    23    1    0
--- Lebanon    22    0    1
+-- India    39    0    3
+-- Israel    39    0    2
+-- San Marino    36    1    0
+-- Denmark    35    0    1
+-- Lebanon    32    0    1
+-- Czechia    31    0    0
+-- Viet Nam    30    0    16
+-- Portugal    30    0    0
+-- Finland    23    0    1
 -- Palestine    22    0    0
--- Israel    21    0    2
--- Portugal    20    0    0
--- Czechia    19    0    0
--- Viet Nam    18    0    16
--- Ireland    18    0    0
--- Algeria    17    0    0
+-- Brazil    20    0    0
+-- Algeria    19    0    0
+-- Ireland    19    0    0
+-- Russian Federation    17    0    2
 -- Oman    16    0    2
--- Finland    15    0    1
--- Egypt    15    0    1
--- Russian Federation    13    0    2
--- Brazil    13    0    0
--- Ecuador    13    0    0
+-- Slovenia    16    0    0
+-- Romania    15    0    3
+-- Qatar    15    0    0
+-- Ecuador    14    0    0
+-- Georgia    13    0    0
 -- Croatia    12    0    0
+-- Argentina    12    0    0
+-- Saudi Arabia    11    0    0
+-- Poland    11    0    0
 -- Macao    10    0    10
 ---- Macau    10    0    10
+-- Philippines    10    1    1
 -- Estonia    10    0    0
--- Romania    9    0    3
 -- Azerbaijan    9    0    0
--- Qatar    8    0    0
--- Argentina    8    0    0
--- Slovenia    7    0    0
--- Philippines    6    1    1
+-- Chile    8    0    0
+-- Mexico    7    0    1
+-- Hungary    7    0    0
 -- Pakistan    6    0    0
 -- Belarus    6    0    0
--- Mexico    6    0    1
+-- Indonesia    6    0    0
+-- Peru    6    0    0
 -- New Zealand    5    0    0
--- Saudi Arabia    5    0    0
--- Poland    5    0    0
+-- Dominican Republic    5    0    0
+-- Costa Rica    5    0    0
 -- French Guiana    5    0    0
--- Georgia    4    0    0
--- Indonesia    4    0    0
+-- Afghanistan    4    0    0
 -- Senegal    4    0    0
--- Chile    4    0    0
--- Hungary    4    0    0
+-- Bulgaria    4    0    0
+-- Maldives    4    0    0
 -- North Macedonia    3    0    0
+-- Luxembourg    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Bosnia and Herzegovina    3    0    0
+-- South Africa    3    0    0
+-- Slovakia    3    0    0
 -- Malta    3    0    0
--- Luxembourg    2    0    0
--- Dominican Republic    2    0    0
+-- Bangladesh    3    0    0
+-- Cambodia    2    0    1
+-- Latvia    2    0    0
 -- Morocco    2    0    0
+-- Faroe Islands    2    0    0
+-- Tunisia    2    0    0
+-- Cameroon    2    0    0
 -- Martinique    2    0    0
 -- Nepal    1    0    1
--- Cambodia    1    0    1
 -- Sri Lanka    1    0    1
--- Afghanistan    1    0    0
 -- Lithuania    1    0    0
 -- Nigeria    1    0    0
 -- Monaco    1    0    0
 -- Armenia    1    0    0
 -- Andorra    1    0    0
--- Latvia    1    0    0
 -- Jordan    1    0    0
 -- Ukraine    1    0    0
--- Faroe Islands    1    0    0
 -- Gibraltar    1    0    0
 -- Liechtenstein    1    0    0
--- Tunisia    1    0    0
--- South Africa    1    0    0
 -- Bhutan    1    0    0
--- Cameroon    1    0    0
 -- Colombia    1    0    0
--- Costa Rica    1    0    0
--- Peru    1    0    0
 -- Serbia    1    0    0
--- Slovakia    1    0    0
 -- Togo    1    0    0
 -- Holy See    1    0    0
+-- Paraguay    1    0    0
