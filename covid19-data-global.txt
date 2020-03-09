@@ -570,7 +570,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    567    22    9
+-- United States of America    568    22    9
 ---- WA    128    18    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -677,8 +677,8 @@
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    4    0    0
----- NE    1    0    0
------- Douglas(31055)    1    0    0
+---- NE    3    0    0
+------ Douglas(31055)    3    0    0
 ---- KY    3    0    0
 ------ Fayette(21067)    1    0    0
 ------ Harrison(21097)    1    0    0
