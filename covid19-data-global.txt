@@ -537,7 +537,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Germany    1040    0    18
+-- Germany    1112    0    18
 ---- Saxony    10    0    0
 ---- Mecklenburg-Vorpommern    8    0    0
 ---- Free State of Bavaria    256    0    14
