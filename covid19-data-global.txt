@@ -452,7 +452,7 @@
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
 ---- Chungcheongnam-do    102    0    1
----- Daegu    5571    37    21
+---- Daegu    5571    38    21
 ---- Daejeon    19    0    1
 ---- Gangwon-do    28    1    3
 ---- Gwangju    15    0    3
@@ -489,37 +489,37 @@
 ---- Bolzano    9    0    0
 ---- Aosta Valley    9    0    0
 -- Iran, Islamic Republic of    7161    237    2394
----- Qom    685    30    0
----- Tehran    1805    0    0
----- Fars    104    2    0
----- Markazi    335    11    0
----- Mazandaran    620    13    0
----- Ardabil    50    3    0
----- South Khorasan    44    1    0
----- Ilam    15    0    0
----- Isfahan    564    2    0
+---- Qom    712    30    0
+---- Tehran    1945    0    0
+---- Fars    133    2    0
+---- Markazi    389    11    0
+---- Mazandaran    633    13    0
+---- Ardabil    72    3    0
+---- South Khorasan    37    1    0
+---- Ilam    31    0    0
+---- Isfahan    601    2    0
 ---- Hamadan    60    1    0
----- Razavi Khorasan    154    8    0
----- Hormozgan    35    2    0
----- Kurdistan    63    0    0
----- Qazvin    207    7    0
----- Yazd    87    3    0
----- West Azerbaijan    40    0    0
----- Gilan    496    0    0
+---- Razavi Khorasan    183    8    0
+---- Hormozgan    52    2    0
+---- Kurdistan    66    0    0
+---- Qazvin    247    7    0
+---- Yazd    90    3    0
+---- West Azerbaijan    69    0    0
+---- Gilan    524    0    0
 ---- Golestan    175    6    0
----- Khuzestan    69    12    0
+---- Khuzestan    73    12    0
 ---- Alborz    307    7    0
----- Semnan    175    0    0
----- Lorestan    144    4    0
----- East Azerbaijan    107    6    0
----- Kermanshah    33    2    0
+---- Semnan    220    0    0
+---- Lorestan    151    4    0
+---- East Azerbaijan    129    6    0
+---- Kermanshah    44    2    0
 ---- Sistan and Baluchestan    34    0    0
----- Kerman    41    0    0
----- Zanjan    53    0    0
----- Chaharmahal and Bakhtiari    21    0    0
----- North Khorasan    24    0    0
+---- Kerman    36    0    0
+---- Zanjan    68    0    0
+---- Chaharmahal and Bakhtiari    26    0    0
+---- North Khorasan    34    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    9    0    0
----- Bushehr    10    0    0
+---- Bushehr    11    0    0
 -- France    1209    19    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    243    2    2
@@ -554,7 +554,7 @@
 ---- Baden-Württemberg    199    0    2
 ---- Saarland    5    0    0
 ---- Saxony-Anhalt    4    0    0
--- Spain    944    25    32
+-- Spain    948    25    32
 ---- Andalusia    34    0    0
 ---- Aragon    9    1    0
 ---- Balearic Islands    7    0    1
@@ -742,12 +742,12 @@
 ---- Kanagawa    41    2    1
 ---- Shizuoka    1    0    0
 ---- Aichi    80    1    2
----- Nara    6    0    1
+---- Nara    7    0    1
 ---- Tokushima    1    0    0
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    13    0    0
+---- hyogo    14    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -761,7 +761,7 @@
 -- United Kingdom of Great Britain and Northern Ireland    280    3    18
 ---- England    244    3    0
 ---- Northern Ireland    12    0    0
----- Wales    4    0    0
+---- Wales    6    0    0
 ---- Scotland    18    0    0
 -- Netherlands    265    3    0
 -- Belgium    239    0    1
