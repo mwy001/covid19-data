@@ -764,8 +764,8 @@
 -- Netherlands    321    4    317
 -- Sweden    248    0    1
 -- Belgium    239    0    1
--- Norway    205    0    1
--- Singapore    150    0    78
+-- Norway    227    0    1
+-- Singapore    160    0    78
 ---- Central Singapore Community Development Council    150    0    90
 -- Austria    131    0    2
 -- Malaysia    117    0    24
@@ -785,7 +785,6 @@
 ---- Ontario    35    0    4
 ---- Alberta    7    0    0
 ---- Quebec    4    0    0
----- BC    32    1    4
 -- Greece    73    0    0
 -- Kuwait    64    0    1
 -- Iraq    60    6    9
