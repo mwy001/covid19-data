@@ -649,7 +649,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NY    148    0    5
+---- NY    168    0    25
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    19    0    0
 ------ Nassau(36059)    17    0    0
@@ -784,7 +784,7 @@
 -- Denmark    90    0    1
 -- Canada    78    1    8
 ---- British Columbia    32    1    4
----- Ontario    35    0    4
+---- Ontario    36    0    4
 ---- Alberta    7    0    0
 ---- Quebec    4    0    0
 -- Greece    73    0    0
