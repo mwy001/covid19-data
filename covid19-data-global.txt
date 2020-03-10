@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    234    0    2
 ---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
--- United States of America    804    28    9
+-- United States of America    805    28    9
 ---- WA    167    23    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -772,7 +772,7 @@
 -- Malaysia    129    0    24
 -- Hong Kong    115    3    59
 ---- Hong Kong    115    3    59
--- Bahrain    109    0    22
+-- Bahrain    110    0    22
 -- Australia    107    4    21
 ---- New South Wales    55    3    4
 ---- Victoria    18    0    7
