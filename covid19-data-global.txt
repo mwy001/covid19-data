@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    731    26    9
+-- United States of America    738    26    9
 ---- WA    175    22    39
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -587,7 +587,7 @@
 ---- AZ    6    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- CA    136    2    19
+---- CA    142    2    19
 ------ Los Angeles(06037)    14    0    0
 ------ Santa Clara(06085)    38    0    1
 ------ San Benito(06069)    2    0    0
@@ -652,7 +652,7 @@
 ------ Marion(41047)    1    0    0
 ------ Douglas(41019)    1    0    0
 ------ Jackson(41029)    2    0    0
----- GA    13    0    1
+---- GA    18    0    1
 ------ Fulton(13121)    5    0    0
 ------ Floyd(13115)    2    0    0
 ------ Cobb(13067)    3    0    0
@@ -788,16 +788,9 @@
 ---- Tasmania    2    0    0
 -- Denmark    90    0    1
 -- Canada    78    1    8
----- ON    35    0    4
------- Toronto    28    0    3
------- London    1    0    1
----- BC    32    1    4
----- QC    4    0    0
-------  Montreal    4    0    0
+---- British Columbia    32    1    4
+---- Ontario    35    0    4
 ---- Alberta    7    0    0
------- Calgary    1    0    0
------- Edmonton    3    0    0
----- Ontario    34    0    4
 ---- Quebec    4    0    0
 -- Greece    73    0    0
 -- Kuwait    64    0    1
