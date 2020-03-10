@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    717    26    9
+-- United States of America    720    26    9
 ---- WA    175    22    39
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -613,7 +613,7 @@
 ------ Middlesex(25017)    7    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    1    0    0
----- WI    1    0    1
+---- WI    2    0    1
 ------ Dane(55025)    1    0    1
 ---- TX    17    0    1
 ------ Bexar(48029)    1    0    0
@@ -658,7 +658,7 @@
 ------ Cobb(13067)    3    0    0
 ------ Polk(13233)    2    0    0
 ------ Cherokee(13057)    1    0    0
----- NC    2    0    0
+---- NC    7    0    5
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
 ---- NJ    11    0    5
