@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    234    0    2
 ---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
--- United States of America    761    27    9
+-- United States of America    763    27    9
 ---- WA    167    23    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -606,7 +606,7 @@
 ------ Shasta(06089)    1    0    0
 ---- WI    3    0    1
 ------ Dane(55025)    1    0    1
----- TX    14    0    0
+---- TX    15    0    2
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -649,7 +649,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NY    168    0    25
+---- NY    173    0    30
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    19    0    0
 ------ Nassau(36059)    17    0    0
@@ -704,7 +704,7 @@
 ------ Davis(49011)    1    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
----- OK    1    0    0
+---- OK    2    0    1
 ------ Tulsa(40143)    1    0    0
 ---- VA    7    0    0
 ------ Fairfax(51059)    2    0    0
@@ -721,7 +721,7 @@
 ---- LA    1    0    0
 ------ Jefferson(22051)    1    0    0
 ---- OH    3    0    0
--- Japan    530    17    101
+-- Japan    581    17    101
 ---- Hokkaido    111    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -758,7 +758,7 @@
 ---- Fukushima    1    0    0
 -- Netherlands    382    4    317
 -- Switzerland    374    3    3
--- United Kingdom of Great Britain and Northern Ireland    321    5    18
+-- United Kingdom of Great Britain and Northern Ireland    373    6    18
 ---- England    280    5    0
 ---- Northern Ireland    16    0    0
 ---- Wales    6    0    0
@@ -766,10 +766,10 @@
 -- Belgium    267    0    1
 -- Sweden    248    0    1
 -- Norway    227    0    1
+-- Austria    182    0    4
 -- Singapore    160    0    78
 ---- Central Singapore Community Development Council    160    0    90
--- Austria    157    0    2
--- Malaysia    117    0    24
+-- Malaysia    129    0    24
 -- Hong Kong    115    3    59
 ---- Hong Kong    115    3    59
 -- Bahrain    109    0    22
