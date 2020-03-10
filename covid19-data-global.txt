@@ -722,10 +722,10 @@
 ------ Jefferson(22051)    1    0    0
 ---- OH    3    0    0
 -- Japan    530    17    101
----- Hokkaido    108    3    34
+---- Hokkaido    111    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    8    0    0
+---- Niigata    11    0    0
 ---- Gifu    2    0    0
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
@@ -738,7 +738,7 @@
 ---- Kyoto    12    0    2
 ---- Osaka    55    0    1
 ---- Chiba    22    0    0
----- Kanagawa    41    2    1
+---- Kanagawa    41    3    1
 ---- Shizuoka    1    0    0
 ---- Aichi    86    1    2
 ---- Nara    7    0    1
@@ -746,7 +746,7 @@
 ---- Mie    1    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    18    0    0
+---- hyogo    20    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -767,7 +767,7 @@
 -- Belgium    239    0    1
 -- Norway    227    0    1
 -- Singapore    160    0    78
----- Central Singapore Community Development Council    150    0    90
+---- Central Singapore Community Development Council    160    0    90
 -- Austria    131    0    2
 -- Malaysia    117    0    24
 -- Hong Kong    115    3    59
