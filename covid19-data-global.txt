@@ -470,7 +470,7 @@
 ---- Veneto    744    20    30
 ---- Bolzano    9    0    0
 ---- Aosta Valley    15    0    0
--- Iran, Islamic Republic of    8042    291    2394
+-- Iran, Islamic Republic of    8042    291    2731
 ---- Qom    712    30    0
 ---- Tehran    1945    0    0
 ---- Fars    133    2    0
@@ -520,7 +520,7 @@
 ---- Sejong    8    0    0
 ---- Seoul    141    0    31
 ---- Ulsan    24    0    1
--- Spain    1500    35    32
+-- Spain    1547    35    32
 ---- Andalusia    54    0    0
 ---- Aragon    32    3    0
 ---- Balearic Islands    11    0    1
@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    234    0    2
 ---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
--- United States of America    755    26    9
+-- United States of America    756    26    9
 ---- WA    167    23    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -649,7 +649,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NY    143    0    0
+---- NY    148    0    5
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    19    0    0
 ------ Nassau(36059)    17    0    0
