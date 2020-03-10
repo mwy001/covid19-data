@@ -538,7 +538,7 @@
 ---- Rioja    144    1    0
 ---- Valencian Community    65    1    1
 ---- Región de Murcia    9    0    0
--- France    1412    30    12
+-- France    1606    30    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    243    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    250    0    0
@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    234    0    2
 ---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
--- United States of America    763    27    9
+-- United States of America    791    27    9
 ---- WA    167    23    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -606,7 +606,7 @@
 ------ Shasta(06089)    1    0    0
 ---- WI    3    0    1
 ------ Dane(55025)    1    0    1
----- TX    15    0    2
+---- TX    16    0    3
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -657,13 +657,13 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
 ------ Ulster(36111)    1    0    0
----- NJ    11    0    0
+---- NJ    11    1    0
 ------ Bergen(34003)    4    0    0
 ------ Hudson(34017)    1    0    0
 ---- NV    4    0    0
 ------ Clark(32003)    2    0    0
 ------ Washoe(32031)    2    0    0
----- TN    4    0    0
+---- TN    6    0    2
 ------ Williamson(47187)    1    0    0
 ------ Davidson(47037)    1    0    0
 ------ Shelby(47157)    1    0    0
@@ -706,7 +706,7 @@
 ------ Honolulu(15003)    2    0    0
 ---- OK    2    0    1
 ------ Tulsa(40143)    1    0    0
----- VA    7    0    0
+---- VA    7    0    1
 ------ Fairfax(51059)    2    0    0
 ---- WDC    5    0    0
 ------ District of Columbia(11001)    2    0    0
@@ -782,7 +782,7 @@
 ---- Tasmania    2    0    0
 ---- Northern Territory    1    0    0
 -- Denmark    90    0    1
--- Canada    78    1    8
+-- Canada    79    1    8
 ---- British Columbia    32    1    4
 ---- Ontario    36    0    4
 ---- Alberta    7    0    0
