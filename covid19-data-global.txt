@@ -473,20 +473,20 @@
 -- Korea, Republic of    7478    53    135
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
----- Chungcheongnam-do    102    0    1
----- Daegu    5571    38    21
----- Daejeon    19    0    1
----- Gangwon-do    28    1    3
+---- Chungcheongnam-do    104    0    1
+---- Daegu    5663    38    92
+---- Daejeon    18    0    1
+---- Gangwon-do    28    1    6
 ---- Gwangju    15    0    3
----- Gyeonggi-do    152    1    22
----- Gyeongsangbuk-do    1107    14    57
----- Gyeongsangnam-do    83    0    9
----- Incheon    9    0    2
+---- Gyeonggi-do    163    1    22
+---- Gyeongsangbuk-do    1117    14    60
+---- Gyeongsangnam-do    83    0    10
+---- Incheon    13    0    3
 ---- Jeju-do    4    0    1
 ---- Jeollabuk-do    7    0    2
 ---- Jeollanam-do    4    0    1
----- Sejong    6    0    0
----- Seoul    130    0    29
+---- Sejong    8    0    0
+---- Seoul    141    0    31
 ---- Ulsan    24    0    1
 -- Iran, Islamic Republic of    7161    237    2394
 ---- Qom    712    30    0
@@ -538,21 +538,21 @@
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
 -- Germany    1176    2    18
----- Saxony    10    0    0
----- Mecklenburg-Vorpommern    8    0    0
+---- Saxony    12    0    0
+---- Mecklenburg-Vorpommern    10    0    0
 ---- Free State of Bavaria    256    0    14
 ---- Berlin    48    0    0
----- Brandenburg    6    0    0
----- Thuringia    2    0    0
+---- Brandenburg    7    0    0
+---- Thuringia    6    0    0
 ---- Schleswig-Holstein    9    0    0
----- Lower Saxony    33    0    1
+---- Lower Saxony    38    0    1
 ---- Bremen    4    0    0
----- Hamburg    17    0    0
----- Rhineland-Palatinate    19    0    1
----- North Rhine-Westphalia    515    0    0
----- Hesse    20    0    0
----- Baden-Württemberg    199    0    2
----- Saarland    5    0    0
+---- Hamburg    22    0    0
+---- Rhineland-Palatinate    22    0    1
+---- North Rhine-Westphalia    524    0    0
+---- Hesse    26    0    0
+---- Baden-Württemberg    234    0    2
+---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
 -- Spain    1073    28    32
 ---- Andalusia    34    0    0
@@ -571,7 +571,7 @@
 ---- Principality of Asturias    7    0    0
 ---- Rioja    47    0    0
 ---- Valencian Community    38    1    1
--- United States of America    730    26    9
+-- United States of America    731    26    9
 ---- WA    175    22    39
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -587,7 +587,7 @@
 ---- AZ    6    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- CA    129    2    19
+---- CA    136    2    19
 ------ Los Angeles(06037)    14    0    0
 ------ Santa Clara(06085)    38    0    1
 ------ San Benito(06069)    2    0    0
@@ -652,7 +652,7 @@
 ------ Marion(41047)    1    0    0
 ------ Douglas(41019)    1    0    0
 ------ Jackson(41029)    2    0    0
----- GA    12    0    1
+---- GA    13    0    1
 ------ Fulton(13121)    5    0    0
 ------ Floyd(13115)    2    0    0
 ------ Cobb(13067)    3    0    0
@@ -713,7 +713,7 @@
 ---- WDC    2    0    0
 ------ District of Columbia(11001)    2    0    0
 ---- Grand Princess Cruise Ship    21    0    0
----- VA    3    0    0
+---- VA    5    0    0
 ------ Fairfax(51059)    2    0    0
 ---- MO    2    0    1
 ------ Phelps(29161)    1    0    0
@@ -764,7 +764,7 @@
 ---- Fukushima    1    0    0
 -- Switzerland    374    2    3
 -- United Kingdom of Great Britain and Northern Ireland    321    4    18
----- England    280    3    0
+---- England    280    5    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
