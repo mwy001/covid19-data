@@ -521,23 +521,23 @@
 ---- Seoul    141    0    31
 ---- Ulsan    24    0    1
 -- Spain    1646    35    32
----- Andalusia    54    0    0
----- Aragon    32    3    0
----- Balearic Islands    11    0    1
----- Basque Country    148    6    0
----- Canary Islands    24    0    5
+---- Andalusia    72    0    0
+---- Aragon    38    3    0
+---- Balearic Islands    13    0    1
+---- Basque Country    197    6    0
+---- Canary Islands    25    0    5
 ---- Cantabria    12    0    0
----- Castile and León    40    0    0
----- Castile-La Mancha    26    0    0
----- Catalonia    101    3    0
----- Community of Madrid    578    17    0
+---- Castile and León    56    0    0
+---- Castile-La Mancha    39    0    0
+---- Catalonia    124    3    0
+---- Community of Madrid    782    21    0
 ---- Comunidad Foral de Navarra    13    0    0
----- Extremadura    7    0    0
----- Galicia    18    0    0
----- Principality of Asturias    10    0    0
----- Rioja    102    0    0
----- Valencian Community    50    1    1
----- Región de Murcia    5    0    0
+---- Extremadura    8    0    0
+---- Galicia    22    0    0
+---- Principality of Asturias    22    0    0
+---- Rioja    144    1    0
+---- Valencian Community    65    1    1
+---- Región de Murcia    9    0    0
 -- France    1412    30    12
 ---- Nord-Pas-de-Calais and Picardy    173    7    4
 ---- Ile-de-France    243    2    2
@@ -604,7 +604,7 @@
 ------ Fresno(06019)    1    0    0
 ------ Riverside(06065)    1    0    0
 ------ Shasta(06089)    1    0    0
----- WI    2    0    1
+---- WI    3    0    1
 ------ Dane(55025)    1    0    1
 ---- TX    14    0    0
 ------ Bexar(48029)    1    0    0
@@ -667,7 +667,7 @@
 ------ Williamson(47187)    1    0    0
 ------ Davidson(47037)    1    0    0
 ------ Shelby(47157)    1    0    0
----- MD    6    0    0
+---- MD    8    0    2
 ------ Montgomery(24031)    4    0    0
 ------ Harford(24025)    1    0    0
 ---- CO    12    0    0
@@ -760,7 +760,7 @@
 -- Switzerland    374    3    3
 -- United Kingdom of Great Britain and Northern Ireland    321    5    18
 ---- England    280    5    0
----- Northern Ireland    12    0    0
+---- Northern Ireland    16    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
 -- Belgium    267    0    1
