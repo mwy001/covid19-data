@@ -772,14 +772,15 @@
 -- Malaysia    117    0    24
 -- Hong Kong    115    3    59
 ---- Hong Kong    115    3    59
--- Australia    102    4    21
+-- Bahrain    109    0    22
+-- Australia    107    4    21
 ---- New South Wales    55    3    4
----- Victoria    15    0    7
+---- Victoria    18    0    7
 ---- Queensland    18    0    8
 ---- South Australia    7    0    2
----- Western Australia    4    1    0
+---- Western Australia    6    1    0
 ---- Tasmania    2    0    0
--- Bahrain    95    0    14
+---- Northern Territory    1    0    0
 -- Denmark    90    0    1
 -- Canada    78    1    8
 ---- British Columbia    32    1    4
