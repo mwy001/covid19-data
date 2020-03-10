@@ -474,7 +474,7 @@
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
 ---- Chungcheongnam-do    104    0    1
----- Daegu    5663    42    92
+---- Daegu    5663    43    92
 ---- Daejeon    18    0    1
 ---- Gangwon-do    28    1    6
 ---- Gwangju    15    0    3
@@ -537,7 +537,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
--- Spain    1231    30    32
+-- Spain    1235    31    32
 ---- Andalusia    54    0    0
 ---- Aragon    32    3    0
 ---- Balearic Islands    11    0    1
@@ -555,7 +555,7 @@
 ---- Rioja    102    0    0
 ---- Valencian Community    50    1    1
 ---- Región de Murcia    5    0    0
--- Germany    1224    2    18
+-- Germany    1225    2    18
 ---- Saxony    12    0    0
 ---- Mecklenburg-Vorpommern    10    0    0
 ---- Free State of Bavaria    256    0    14
@@ -567,7 +567,7 @@
 ---- Bremen    4    0    0
 ---- Hamburg    22    0    0
 ---- Rhineland-Palatinate    22    0    1
----- North Rhine-Westphalia    524    0    0
+---- North Rhine-Westphalia    524    2    0
 ---- Hesse    26    0    0
 ---- Baden-Württemberg    234    0    2
 ---- Saarland    6    0    0
@@ -735,9 +735,9 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    64    2    0
 ---- Wakayama    14    1    2
----- Kyoto    12    0    2
+---- Kyoto    13    0    2
 ---- Osaka    55    0    1
----- Chiba    22    0    0
+---- Chiba    23    0    0
 ---- Kanagawa    41    3    1
 ---- Shizuoka    1    0    0
 ---- Aichi    86    1    2
