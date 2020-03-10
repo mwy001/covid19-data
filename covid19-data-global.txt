@@ -768,7 +768,7 @@
 -- Norway    227    0    1
 -- Singapore    160    0    78
 ---- Central Singapore Community Development Council    160    0    90
--- Austria    131    0    2
+-- Austria    157    0    2
 -- Malaysia    117    0    24
 -- Hong Kong    115    3    59
 ---- Hong Kong    115    3    59
