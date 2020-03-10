@@ -471,37 +471,37 @@
 ---- Bolzano    9    0    0
 ---- Aosta Valley    15    0    0
 -- Iran, Islamic Republic of    8042    291    2731
----- Qom    712    30    0
----- Tehran    1945    0    0
----- Fars    133    2    0
----- Markazi    389    11    0
----- Mazandaran    633    13    0
----- Ardabil    72    3    0
----- South Khorasan    37    1    0
----- Ilam    31    0    0
----- Isfahan    601    2    0
----- Hamadan    60    1    0
----- Razavi Khorasan    183    8    0
----- Hormozgan    52    2    0
----- Kurdistan    66    0    0
----- Qazvin    247    7    0
----- Yazd    90    3    0
----- West Azerbaijan    69    0    0
+---- Qom    751    30    0
+---- Tehran    2114    0    0
+---- Fars    151    2    0
+---- Markazi    416    11    0
+---- Mazandaran    886    13    0
+---- Ardabil    91    3    0
+---- South Khorasan    51    1    0
+---- Ilam    56    0    0
+---- Isfahan    618    2    0
+---- Hamadan    77    1    0
+---- Razavi Khorasan    222    8    0
+---- Hormozgan    69    2    0
+---- Kurdistan    78    0    0
+---- Qazvin    257    7    0
+---- Yazd    127    3    0
+---- West Azerbaijan    73    0    0
 ---- Gilan    524    0    0
----- Golestan    175    6    0
----- Khuzestan    73    12    0
----- Alborz    307    7    0
----- Semnan    220    0    0
----- Lorestan    151    4    0
----- East Azerbaijan    129    6    0
----- Kermanshah    44    2    0
----- Sistan and Baluchestan    34    0    0
----- Kerman    36    0    0
----- Zanjan    68    0    0
----- Chaharmahal and Bakhtiari    26    0    0
+---- Golestan    179    6    0
+---- Khuzestan    110    12    0
+---- Alborz    339    7    0
+---- Semnan    221    0    0
+---- Lorestan    176    4    0
+---- East Azerbaijan    146    6    0
+---- Kermanshah    51    2    0
+---- Sistan and Baluchestan    40    0    0
+---- Kerman    40    0    0
+---- Zanjan    79    0    0
+---- Chaharmahal and Bakhtiari    37    0    0
 ---- North Khorasan    34    0    0
----- Kohgiluyeh and Boyer-Ahmad    9    0    0
----- Bushehr    11    0    0
+---- Kohgiluyeh and Boyer-Ahmad    11    0    0
+---- Bushehr    18    0    0
 -- Korea, Republic of    7513    54    247
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
@@ -520,7 +520,7 @@
 ---- Sejong    8    0    0
 ---- Seoul    141    0    31
 ---- Ulsan    24    0    1
--- Spain    1622    35    32
+-- Spain    1646    35    32
 ---- Andalusia    54    0    0
 ---- Aragon    32    3    0
 ---- Balearic Islands    11    0    1
@@ -675,7 +675,7 @@
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
----- PA    10    0    0
+---- PA    11    0    1
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    5    0    0
@@ -700,7 +700,7 @@
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Spartanburg(45083)    1    0    0
----- UT    1    0    0
+---- UT    2    0    1
 ------ Davis(49011)    1    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
@@ -736,17 +736,17 @@
 ---- Tokyo    67    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    13    0    2
----- Osaka    55    0    1
+---- Osaka    73    0    1
 ---- Chiba    23    0    0
 ---- Kanagawa    43    3    1
 ---- Shizuoka    2    0    0
----- Aichi    86    1    2
+---- Aichi    99    3    2
 ---- Nara    7    0    1
 ---- Tokushima    1    0    0
----- Mie    1    0    1
+---- Mie    2    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    20    0    0
+---- hyogo    24    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -756,13 +756,13 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
+-- Netherlands    382    4    317
 -- Switzerland    374    3    3
 -- United Kingdom of Great Britain and Northern Ireland    321    5    18
 ---- England    280    5    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
--- Netherlands    321    4    317
 -- Belgium    267    0    1
 -- Sweden    248    0    1
 -- Norway    227    0    1
@@ -772,10 +772,10 @@
 -- Malaysia    117    0    24
 -- Hong Kong    115    3    59
 ---- Hong Kong    115    3    59
--- Australia    100    4    21
----- New South Wales    48    3    4
+-- Australia    102    4    21
+---- New South Wales    55    3    4
 ---- Victoria    15    0    7
----- Queensland    15    0    8
+---- Queensland    18    0    8
 ---- South Australia    7    0    2
 ---- Western Australia    4    1    0
 ---- Tasmania    2    0    0
