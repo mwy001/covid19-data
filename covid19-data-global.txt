@@ -470,25 +470,7 @@
 ---- Veneto    744    20    30
 ---- Bolzano    9    0    0
 ---- Aosta Valley    15    0    0
--- Korea, Republic of    7513    54    247
----- Busan    96    0    10
----- Chungcheongbuk-do    25    0    3
----- Chungcheongnam-do    104    0    1
----- Daegu    5663    43    92
----- Daejeon    18    0    1
----- Gangwon-do    28    1    6
----- Gwangju    15    0    3
----- Gyeonggi-do    163    1    22
----- Gyeongsangbuk-do    1117    14    60
----- Gyeongsangnam-do    83    0    10
----- Incheon    13    0    3
----- Jeju-do    4    0    1
----- Jeollabuk-do    7    0    2
----- Jeollanam-do    4    0    1
----- Sejong    8    0    0
----- Seoul    141    0    31
----- Ulsan    24    0    1
--- Iran, Islamic Republic of    7161    237    2394
+-- Iran, Islamic Republic of    8042    291    2394
 ---- Qom    712    30    0
 ---- Tehran    1945    0    0
 ---- Fars    133    2    0
@@ -520,24 +502,25 @@
 ---- North Khorasan    34    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    9    0    0
 ---- Bushehr    11    0    0
--- France    1412    30    12
----- Nord-Pas-de-Calais and Picardy    173    7    4
----- Ile-de-France    243    2    2
----- Alsace–Champagne-Ardenne–Lorraine    250    0    0
----- Normandy    11    1    0
----- Brittany    40    1    6
----- Pays de la Loire    18    0    0
----- Centre-Val de Loire    16    0    0
----- Bourgogne-Franche-Comté    129    0    0
----- Aquitaine-Limousin-Poitou-Charentes    17    0    0
----- Auvergne-Rhône-Alpes    102    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    36    0    0
----- Provence-Alpes-Côte d'Azur    38    0    0
----- Corsica    5    0    0
----- Guadeloupe    3    0    0
----- French Guiana    5    0    0
----- Martinique    2    0    0
--- Spain    1235    31    32
+-- Korea, Republic of    7513    54    247
+---- Busan    96    0    10
+---- Chungcheongbuk-do    25    0    3
+---- Chungcheongnam-do    104    0    1
+---- Daegu    5663    43    92
+---- Daejeon    18    0    1
+---- Gangwon-do    28    1    6
+---- Gwangju    15    0    3
+---- Gyeonggi-do    163    1    22
+---- Gyeongsangbuk-do    1117    14    60
+---- Gyeongsangnam-do    83    0    10
+---- Incheon    13    0    3
+---- Jeju-do    4    0    1
+---- Jeollabuk-do    7    0    2
+---- Jeollanam-do    4    0    1
+---- Sejong    8    0    0
+---- Seoul    141    0    31
+---- Ulsan    24    0    1
+-- Spain    1500    35    32
 ---- Andalusia    54    0    0
 ---- Aragon    32    3    0
 ---- Balearic Islands    11    0    1
@@ -555,7 +538,24 @@
 ---- Rioja    102    0    0
 ---- Valencian Community    50    1    1
 ---- Región de Murcia    5    0    0
--- Germany    1225    2    18
+-- France    1412    30    12
+---- Nord-Pas-de-Calais and Picardy    173    7    4
+---- Ile-de-France    243    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    250    0    0
+---- Normandy    11    1    0
+---- Brittany    40    1    6
+---- Pays de la Loire    18    0    0
+---- Centre-Val de Loire    16    0    0
+---- Bourgogne-Franche-Comté    129    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    17    0    0
+---- Auvergne-Rhône-Alpes    102    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    36    0    0
+---- Provence-Alpes-Côte d'Azur    38    0    0
+---- Corsica    5    0    0
+---- Guadeloupe    3    0    0
+---- French Guiana    5    0    0
+---- Martinique    2    0    0
+-- Germany    1281    2    18
 ---- Saxony    12    0    0
 ---- Mecklenburg-Vorpommern    10    0    0
 ---- Free State of Bavaria    256    0    14
@@ -615,7 +615,7 @@
 ---- NH    5    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    1    0    0
----- FL    14    2    0
+---- FL    15    2    1
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -730,16 +730,16 @@
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    7    0    0
+---- Saitama    12    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    64    2    0
+---- Tokyo    67    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    13    0    2
 ---- Osaka    55    0    1
 ---- Chiba    23    0    0
----- Kanagawa    41    3    1
----- Shizuoka    1    0    0
+---- Kanagawa    43    3    1
+---- Shizuoka    2    0    0
 ---- Aichi    86    1    2
 ---- Nara    7    0    1
 ---- Tokushima    1    0    0
@@ -756,15 +756,15 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- Switzerland    374    2    3
+-- Switzerland    374    3    3
 -- United Kingdom of Great Britain and Northern Ireland    321    5    18
 ---- England    280    5    0
 ---- Northern Ireland    12    0    0
 ---- Wales    6    0    0
 ---- Scotland    23    0    0
 -- Netherlands    321    4    317
+-- Belgium    267    0    1
 -- Sweden    248    0    1
--- Belgium    239    0    1
 -- Norway    227    0    1
 -- Singapore    160    0    78
 ---- Central Singapore Community Development Council    160    0    90
