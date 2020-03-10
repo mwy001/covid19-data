@@ -474,7 +474,7 @@
 ---- Busan    96    0    10
 ---- Chungcheongbuk-do    25    0    3
 ---- Chungcheongnam-do    104    0    1
----- Daegu    5663    38    92
+---- Daegu    5663    42    92
 ---- Daejeon    18    0    1
 ---- Gangwon-do    28    1    6
 ---- Gwangju    15    0    3
@@ -538,22 +538,23 @@
 ---- French Guiana    5    0    0
 ---- Martinique    2    0    0
 -- Spain    1231    30    32
----- Andalusia    34    0    0
----- Aragon    9    1    0
----- Balearic Islands    7    0    1
----- Basque Country    70    2    0
----- Canary Islands    17    0    3
+---- Andalusia    54    0    0
+---- Aragon    32    3    0
+---- Balearic Islands    11    0    1
+---- Basque Country    148    6    0
+---- Canary Islands    24    0    5
 ---- Cantabria    12    0    0
----- Castile and León    21    0    0
----- Castile-La Mancha    15    0    0
----- Catalonia    50    1    0
----- Community of Madrid    469    16    0
----- Comunidad Foral de Navarra    3    0    0
----- Extremadura    6    0    0
----- Galicia    4    0    0
----- Principality of Asturias    7    0    0
----- Rioja    47    0    0
----- Valencian Community    38    1    1
+---- Castile and León    40    0    0
+---- Castile-La Mancha    26    0    0
+---- Catalonia    101    3    0
+---- Community of Madrid    578    17    0
+---- Comunidad Foral de Navarra    13    0    0
+---- Extremadura    7    0    0
+---- Galicia    18    0    0
+---- Principality of Asturias    10    0    0
+---- Rioja    102    0    0
+---- Valencian Community    50    1    1
+---- Región de Murcia    5    0    0
 -- Germany    1224    2    18
 ---- Saxony    12    0    0
 ---- Mecklenburg-Vorpommern    10    0    0
@@ -572,7 +573,7 @@
 ---- Saarland    6    0    0
 ---- Saxony-Anhalt    4    0    0
 -- United States of America    754    26    9
----- WA    167    22    1
+---- WA    167    23    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
 ------ Grant(53025)    1    1    0
