@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1048    31    15.0
+-- United States of America    1051    31    15.0
 ---- WA    274    24    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -716,7 +716,7 @@
 ------ Johnson(19103)    3    0    0
 ---- VT    1    0    0
 ------ Bennington(50003)    1    0    0
----- LA    3    0    0
+---- LA    6    0    0
 ------ Jefferson(22051)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
@@ -748,7 +748,7 @@
 ---- Mie    2    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    24    0    0
+---- hyogo    25    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
