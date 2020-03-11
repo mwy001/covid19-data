@@ -572,7 +572,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    3    0    0
--- United States of America    1164    32    15
+-- United States of America    1173    32    15
 ---- WA    282    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -662,7 +662,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
----- NY    213    0    0
+---- NY    220    0    0
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    25    0    0
 ------ Nassau(36059)    19    0    0
@@ -678,7 +678,7 @@
 ------ Camden(34007)    1    0    0
 ------ Passaic(34031)    1    0    0
 ------ Union(34039)    1    0    0
----- NV    5    0    0
+---- NV    7    0    0
 ------ Clark(32003)    2    0    0
 ------ Washoe(32031)    2    0    0
 ---- TN    9    0    0
@@ -820,6 +820,7 @@
 ---- Northern Territory    1    0    0
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
+-- Israel    105    0    4
 -- Canada    102    1    8
 ---- British Columbia    39    1    4
 ---- Ontario    41    0    4
@@ -827,7 +828,6 @@
 ---- Quebec    7    0    0
 -- Greece    90    0    0
 -- Iceland    85    0    1
--- Israel    79    0    4
 -- United Arab Emirates    74    0    12
 -- Iraq    71    7    9
 -- Kuwait    69    0    1
