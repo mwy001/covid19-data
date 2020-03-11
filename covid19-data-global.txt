@@ -824,7 +824,7 @@
 ---- British Columbia    39    1    4
 ---- Ontario    37    0    4
 ---- Alberta    14    0    0
----- Quebec    4    0    0
+---- Quebec    7    0    0
 -- Greece    89    0    0
 -- United Arab Emirates    74    0    12
 -- Iraq    71    7    9
