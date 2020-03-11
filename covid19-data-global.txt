@@ -520,7 +520,7 @@
 ---- Sejong    10    0    0
 ---- Seoul    193    0    37
 ---- Ulsan    25    0    2
--- Spain    2174    49    138
+-- Spain    2182    49    183
 ---- Andalusia    90    0    0
 ---- Aragon    45    4    0
 ---- Balearic Islands    16    0    1
@@ -572,8 +572,8 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1122    31    15
----- WA    275    24    1
+-- United States of America    1139    31    15
+---- WA    281    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
 ------ Grant(53025)    1    1    0
@@ -689,7 +689,7 @@
 ------ Montgomery(24031)    4    0    0
 ------ Harford(24025)    1    0    0
 ------ Prince George's(24033)    3    0    0
----- CO    20    0    0
+---- CO    27    0    0
 ------ Denver(08031)    3    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
@@ -716,7 +716,7 @@
 ------ Noble(18113)    1    0    0
 ------ Adams(42001)    1    0    0
 ------ Boone(18011)    1    0    0
----- MN    4    0    0
+---- MN    5    0    0
 ------ Ramsey(27123)    1    0    0
 ------ Jefferson(21111)    1    0    0
 ---- RI    5    0    0
@@ -796,7 +796,7 @@
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
 -- Netherlands    503    5    317
--- Sweden    477    0    1
+-- Sweden    477    1    1
 -- Norway    440    0    1
 -- United Kingdom of Great Britain and Northern Ireland    382    6    18
 ---- England    324    6    0
@@ -804,22 +804,22 @@
 ---- Wales    15    0    0
 ---- Scotland    27    0    0
 -- Denmark    340    0    1
--- Belgium    314    1    1
+-- Belgium    314    3    1
 -- Austria    206    0    4
 -- Bahrain    189    0    30
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
 -- Malaysia    149    0    26
+-- Australia    128    4    21
+---- New South Wales    65    3    4
+---- Victoria    21    0    7
+---- Queensland    20    0    8
+---- South Australia    9    0    2
+---- Western Australia    9    1    0
+---- Tasmania    3    0    0
+---- Northern Territory    1    0    0
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
--- Australia    107    4    21
----- New South Wales    55    3    4
----- Victoria    18    0    7
----- Queensland    18    0    8
----- South Australia    7    0    2
----- Western Australia    6    1    0
----- Tasmania    2    0    0
----- Northern Territory    1    0    0
 -- Canada    101    1    8
 ---- British Columbia    39    1    4
 ---- Ontario    41    0    4
@@ -827,7 +827,7 @@
 ---- Quebec    7    0    0
 -- Greece    90    0    0
 -- Iceland    85    0    1
--- Israel    76    0    4
+-- Israel    79    0    4
 -- United Arab Emirates    74    0    12
 -- Iraq    71    7    9
 -- Kuwait    69    0    1
