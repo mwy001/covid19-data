@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1062    31    15
+-- United States of America    1071    31    15
 ---- WA    275    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -662,7 +662,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
----- NY    186    0    0
+---- NY    193    0    0
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    25    0    0
 ------ Nassau(36059)    19    0    0
@@ -710,7 +710,7 @@
 ------ Fayette(21067)    2    0    0
 ------ Harrison(21097)    2    0    0
 ------ Jefferson(21111)    1    0    0
----- IN    6    0    0
+---- IN    9    0    0
 ------ Marion(18097)    1    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
@@ -774,18 +774,18 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    73    2    0
 ---- Wakayama    14    1    2
----- Kyoto    14    0    2
----- Osaka    73    0    1
+---- Kyoto    15    0    2
+---- Osaka    80    0    1
 ---- Chiba    25    0    0
 ---- Kanagawa    46    3    1
 ---- Shizuoka    2    0    0
----- Aichi    102    4    2
+---- Aichi    104    4    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
----- Mie    2    0    1
+---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    31    0    0
+---- hyogo    37    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
