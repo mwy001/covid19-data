@@ -521,23 +521,23 @@
 ---- Seoul    193    0    37
 ---- Ulsan    25    0    2
 -- Spain    2174    49    138
----- Andalusia    83    0    0
----- Aragon    42    3    0
+---- Andalusia    90    0    0
+---- Aragon    45    4    0
 ---- Balearic Islands    16    0    1
----- Basque Country    203    6    0
----- Canary Islands    25    0    5
+---- Basque Country    225    6    0
+---- Canary Islands    37    0    5
 ---- Cantabria    12    0    0
----- Castile and León    57    0    0
+---- Castile and León    71    0    0
 ---- Castile-La Mancha    71    0    0
----- Catalonia    128    3    0
----- Community of Madrid    1055    31    0
+---- Catalonia    156    3    0
+---- Community of Madrid    1024    31    0
 ---- Comunidad Foral de Navarra    46    0    0
----- Extremadura    11    1    0
----- Galicia    27    0    0
----- Principality of Asturias    27    0    0
----- Rioja    181    2    0
----- Valencian Community    66    1    1
----- Región de Murcia    17    0    0
+---- Extremadura    9    0    0
+---- Galicia    39    0    0
+---- Principality of Asturias    32    0    0
+---- Rioja    179    2    0
+---- Valencian Community    65    1    1
+---- Región de Murcia    11    0    0
 -- France    1784    33    12
 ---- Nord-Pas-de-Calais and Picardy    209    7    4
 ---- Ile-de-France    334    2    2
@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1076    31    15
+-- United States of America    1080    31    15
 ---- WA    275    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -698,7 +698,7 @@
 ------ Larimer(08069)    2    0    0
 ------ Arapahoe(08005)    2    0    0
 ------ Gunnison(08051)    1    0    0
----- PA    14    0    0
+---- PA    15    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    8    0    0
@@ -779,7 +779,7 @@
 ---- Chiba    25    0    0
 ---- Kanagawa    46    3    1
 ---- Shizuoka    2    0    0
----- Aichi    104    4    2
+---- Aichi    104    5    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
