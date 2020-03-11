@@ -520,7 +520,7 @@
 ---- Sejong    10    0    0
 ---- Seoul    193    0    37
 ---- Ulsan    25    0    2
--- Spain    2231    54    183
+-- Spain    2277    54    183
 ---- Andalusia    90    0    0
 ---- Aragon    45    4    0
 ---- Balearic Islands    16    0    1
@@ -572,7 +572,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    3    0    0
--- United States of America    1173    32    15
+-- United States of America    1179    32    15
 ---- WA    282    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -648,7 +648,7 @@
 ------ DeKalb(13089)    2    0    0
 ------ Floyd(21071)    1    0    0
 ------ Fayette(13113)    1    0    0
----- MA    92    0    1
+---- MA    95    0    1
 ------ Norfolk(25021)    10    0    0
 ------ Suffolk(25025)    10    0    1
 ------ Middlesex(25017)    15    0    0
@@ -740,7 +740,7 @@
 ------ Arlington(51013)    1    0    0
 ------ Spotsylvania(51177)    1    0    0
 ------ Loudoun(51107)    1    0    0
----- WDC    5    0    0
+---- WDC    10    0    0
 ------ District of Columbia(11001)    5    0    0
 ---- KS    1    0    0
 ------ Johnson(20091)    1    0    0
@@ -759,7 +759,7 @@
 ---- OH    4    0    0
 ------ Cuyahoga(39035)    3    0    0
 ---- MI    3    0    0
--- Switzerland    613    4    3
+-- Switzerland    652    4    4
 -- Norway    598    0    1
 -- Japan    581    17    101
 ---- Hokkaido    118    3    34
@@ -820,7 +820,7 @@
 ---- Northern Territory    1    0    0
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
--- Israel    105    0    4
+-- Israel    109    0    4
 -- Canada    102    1    8
 ---- British Columbia    39    1    4
 ---- Ontario    41    0    4
