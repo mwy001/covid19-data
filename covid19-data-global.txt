@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1080    31    15
+-- United States of America    1094    31    15
 ---- WA    275    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -587,7 +587,7 @@
 ---- IL    19    0    2
 ------ Cook(17031)    11    0    2
 ------ Kane(17089)    1    0    0
----- CA    159    3    2
+---- CA    165    3    2
 ------ Los Angeles(06037)    20    0    0
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
@@ -670,7 +670,7 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
 ------ Ulster(36111)    1    0    0
----- NJ    15    1    0
+---- NJ    23    1    0
 ------ Bergen(34003)    7    1    0
 ------ Hudson(34017)    1    0    0
 ------ Monmouth(34025)    2    0    0
