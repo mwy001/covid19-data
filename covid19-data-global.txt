@@ -572,8 +572,8 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    3    0    0
--- United States of America    1150    31    15
----- WA    281    24    1
+-- United States of America    1164    32    15
+---- WA    282    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
 ------ Grant(53025)    1    1    0
@@ -584,10 +584,10 @@
 ------ Kittitas(53037)    1    0    0
 ------ Spokane(53063)    1    0    0
 ------ Kitsap(53035)    1    0    0
----- IL    19    0    2
+---- IL    25    0    2
 ------ Cook(17031)    11    0    2
 ------ Kane(17089)    1    0    0
----- CA    168    3    2
+---- CA    175    4    2
 ------ Los Angeles(06037)    20    0    0
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
@@ -632,7 +632,7 @@
 ------ Okaloosa(12091)    1    0    0
 ------ Volusia(12127)    2    0    0
 ------ Charlotte(12015)    1    0    0
----- OR    15    0    0
+---- OR    19    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    8    0    0
 ------ Jackson(41029)    2    0    0
@@ -662,7 +662,7 @@
 ---- NC    7    0    0
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
----- NY    212    0    0
+---- NY    213    0    0
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    25    0    0
 ------ Nassau(36059)    19    0    0
@@ -678,10 +678,10 @@
 ------ Camden(34007)    1    0    0
 ------ Passaic(34031)    1    0    0
 ------ Union(34039)    1    0    0
----- NV    4    0    0
+---- NV    5    0    0
 ------ Clark(32003)    2    0    0
 ------ Washoe(32031)    2    0    0
----- TN    7    0    0
+---- TN    9    0    0
 ------ Williamson(47187)    1    0    0
 ------ Davidson(47037)    1    0    0
 ------ Shelby(47157)    1    0    0
@@ -698,7 +698,7 @@
 ------ Larimer(08069)    2    0    0
 ------ Arapahoe(08005)    2    0    0
 ------ Gunnison(08051)    1    0    0
----- PA    15    0    0
+---- PA    16    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    8    0    0
@@ -710,7 +710,7 @@
 ------ Fayette(21067)    2    0    0
 ------ Harrison(21097)    2    0    0
 ------ Jefferson(21111)    1    0    0
----- IN    10    0    0
+---- IN    11    0    0
 ------ Marion(18097)    1    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
@@ -721,7 +721,7 @@
 ------ Jefferson(21111)    1    0    0
 ---- RI    5    0    0
 ------ Providence(44007)    3    0    0
----- CT    2    0    0
+---- CT    3    0    0
 ------ Fairfield(09001)    1    0    0
 ---- SC    9    0    0
 ------ Charleston(45019)    1    0    0
@@ -820,7 +820,7 @@
 ---- Northern Territory    1    0    0
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
--- Canada    101    1    8
+-- Canada    102    1    8
 ---- British Columbia    39    1    4
 ---- Ontario    41    0    4
 ---- Alberta    14    0    0
