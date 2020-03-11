@@ -704,7 +704,7 @@
 ------ Montgomery(42091)    8    0    0
 ------ Monroe(42089)    1    0    0
 ------ Philadelphia(42101)    1    0    0
----- NE    5    0    0
+---- NE    6    0    0
 ------ Douglas(31055)    3    0    0
 ---- KY    8    0    0
 ------ Fayette(21067)    2    0    0
@@ -803,8 +803,8 @@
 ---- Scotland    27    0    0
 -- Netherlands    382    4    317
 -- Sweden    355    0    1
+-- Denmark    340    0    1
 -- Belgium    314    1    1
--- Denmark    262    0    1
 -- Austria    206    0    4
 -- Bahrain    189    0    30
 -- Singapore    160    0    78
@@ -826,13 +826,13 @@
 ---- Alberta    14    0    0
 ---- Quebec    7    0    0
 -- Greece    89    0    0
+-- Iceland    81    0    1
+-- Israel    76    0    4
 -- United Arab Emirates    74    0    12
 -- Iraq    71    7    9
 -- Kuwait    69    0    1
--- Iceland    69    0    1
 -- Viet Nam    61    0    32
 -- Egypt    59    1    12
--- Israel    58    0    4
 -- India    56    0    4
 -- Thailand    53    1    33
 -- San Marino    51    2    0
