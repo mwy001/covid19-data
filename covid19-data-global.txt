@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1041    31    15.0
+-- United States of America    1048    31    15.0
 ---- WA    274    24    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
@@ -631,7 +631,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Douglas(41019)    1    0    0
 ------ Marion(41047)    1    0    0
----- GA    18    0    0
+---- GA    22    0    0
 ------ Fulton(13121)    5    0    0
 ------ Cobb(13067)    3    0    0
 ------ Polk(13233)    1    0    0
@@ -674,11 +674,11 @@
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
----- PA    12    0    0
+---- PA    14    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    5    0    0
----- NE    4    0    0
+---- NE    5    0    0
 ------ Douglas(31055)    3    0    0
 ---- KY    8    0    0
 ------ Fayette(21067)    1    0    0
