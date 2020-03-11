@@ -506,7 +506,7 @@
 ---- Busan    98    1    21
 ---- Chungcheongbuk-do    27    0    3
 ---- Chungcheongnam-do    112    0    1
----- Daegu    5794    43    102
+---- Daegu    5794    46    102
 ---- Daejeon    18    0    2
 ---- Gangwon-do    29    1    6
 ---- Gwangju    15    0    3
@@ -760,7 +760,7 @@
 ------ Cuyahoga(39035)    3    0    0
 ---- MI    2    0    0
 -- Japan    581    17    101
----- Hokkaido    115    3    34
+---- Hokkaido    118    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    11    0    0
@@ -784,7 +784,7 @@
 ---- Mie    2    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    25    0    0
+---- hyogo    27    0    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
