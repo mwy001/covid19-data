@@ -555,8 +555,25 @@
 ---- Rioja    144    1    0
 ---- Valencian Community    65    1    1
 ---- Región de Murcia    9    0    0
--- United States of America    1564    50    16
----- WA    274    24    1
+-- Germany    1457    2    18
+---- Saxony    24    0    0
+---- Mecklenburg-Vorpommern    13    0    0
+---- Free State of Bavaria    314    0    14
+---- Berlin    58    0    0
+---- Brandenburg    16    0    0
+---- Thuringia    8    0    0
+---- Schleswig-Holstein    9    0    0
+---- Lower Saxony    66    0    1
+---- Bremen    22    0    0
+---- Hamburg    35    0    0
+---- Rhineland-Palatinate    25    0    1
+---- North Rhine-Westphalia    648    2    0
+---- Hesse    35    0    0
+---- Baden-Württemberg    277    0    2
+---- Saarland    7    0    0
+---- Saxony-Anhalt    8    0    0
+-- United States of America    1020.0    30.0    15.0
+---- WA    128    19    1
 ------ King(53033)    83    17    1
 ------ Snohomish(53061)    31    1    0
 ------ Grant(53025)    1    1    0
@@ -566,9 +583,9 @@
 ------ Pierce(53053)    4    0    0
 ------ Kittitas(53037)    1    0    0
 ------ Spokane(53063)    1    0    0
----- IL    19    0    2
+---- IL    7    0    2
 ------ Cook(17031)    7    0    2
----- CA    159    2    2
+---- CA    104    1    2
 ------ Los Angeles(06037)    14    0    0
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
@@ -587,18 +604,17 @@
 ------ Fresno(06019)    1    0    0
 ------ Riverside(06065)    1    0    0
 ------ Shasta(06089)    1    0    0
----- WI    3    0    1
+---- WI    1    0    1
 ------ Dane(55025)    1    0    1
----- TX    18    0    3
+---- TX    14    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    6    0    0
 ------ Fort Bend(48157)    6    0    0
 ------ Collin(48085)    1    0    0
----- Unassigned Location (From Diamond Princess)    46    0    0
 ---- NH    5    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    1    0    0
----- FL    20    2    1
+---- FL    14    2    0
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -608,31 +624,31 @@
 ------ Okaloosa(12091)    1    0    0
 ------ Volusia(12127)    1    0    0
 ------ Charlotte(12015)    1    0    0
----- OR    15    0    0
+---- OR    14    0    0
 ------ Umatilla(41059)    1    0    0
 ------ Washington(41067)    8    0    0
 ------ Jackson(41029)    2    0    0
 ------ Klamath(41035)    1    0    0
 ------ Douglas(41019)    1    0    0
 ------ Marion(41047)    1    0    0
----- GA    18    0    0
+---- GA    10    0    0
 ------ Fulton(13121)    5    0    0
 ------ Cobb(13067)    3    0    0
 ------ Polk(13233)    1    0    0
 ------ Cherokee(13057)    1    0    0
----- MA    92    0    1
+---- MA    24    0    1
 ------ Norfolk(25021)    6    0    0
 ------ Suffolk(25025)    8    0    1
 ------ Middlesex(25017)    7    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    1    0    0
----- AZ    6    0    1
+---- AZ    5    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    2    0    0
----- NC    7    0    0
+---- NC    2    0    0
 ------ Wake(37183)    1    0    0
 ------ Chatham(37037)    1    0    0
----- NY    173    0    30
+---- NY    142    0    0
 ------ Westchester(36119)    98    0    0
 ------ New York(36061)    19    0    0
 ------ Nassau(36059)    17    0    0
@@ -640,127 +656,68 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    1    0    0
 ------ Ulster(36111)    1    0    0
----- NJ    15    1    0
+---- NJ    5    0    0
 ------ Bergen(34003)    4    0    0
 ------ Hudson(34017)    1    0    0
 ---- NV    4    0    0
 ------ Clark(32003)    2    0    0
 ------ Washoe(32031)    2    0    0
----- TN    7    0    2
+---- TN    3    0    0
 ------ Williamson(47187)    1    0    0
 ------ Davidson(47037)    1    0    0
 ------ Shelby(47157)    1    0    0
----- MD    9    0    2
+---- MD    5    0    0
 ------ Montgomery(24031)    4    0    0
 ------ Harford(24025)    1    0    0
----- CO    15    0    0
+---- CO    8    0    0
 ------ Denver(08031)    2    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
----- PA    12    0    1
+---- PA    7    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    5    0    0
----- NE    4    0    0
+---- NE    3    0    0
 ------ Douglas(31055)    3    0    0
----- KY    8    0    0
+---- KY    4    0    0
 ------ Fayette(21067)    1    0    0
 ------ Harrison(21097)    2    0    0
 ------ Jefferson(21111)    1    0    0
----- IN    6    0    1
+---- IN    3    0    0
 ------ Marion(18097)    1    0    0
 ------ Hendricks(18063)    2    0    0
----- MN    3    0    0
+---- MN    2    0    0
 ------ Ramsey(27123)    1    0    0
 ------ Jefferson(21111)    1    0    0
----- Grand Princess Cruise Ship    21    0    0
----- RI    5    0    0
+---- RI    3    0    0
 ------ Providence(44007)    3    0    0
----- CT    2    0    0
+---- CT    1    0    0
 ------ Fairfield(09001)    1    0    0
----- SC    9    0    0
+---- SC    6    0    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Spartanburg(45083)    1    0    0
----- UT    2    0    1
+---- UT    1    0    0
 ------ Davis(49011)    1    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
----- OK    2    0    1
+---- OK    1    0    0
 ------ Tulsa(40143)    1    0    0
----- VA    8    0    1
+---- VA    2    0    0
 ------ Fairfax(51059)    2    0    0
----- WDC    5    0    0
+---- WDC    2    0    0
 ------ District of Columbia(11001)    2    0    0
 ---- KS    1    0    0
 ------ Johnson(20091)    1    0    0
 ---- MO    1    0    0
 ------ St Louis(29189)    1    0    0
----- IA    13    0    0
+---- IA    3    0    0
 ------ Johnson(19103)    3    0    0
 ---- VT    1    0    0
 ------ Bennington(50003)    1    0    0
----- LA    3    0    0
+---- LA    1    0    0
 ------ Jefferson(22051)    1    0    0
----- OH    3    0    0
----- Washington    267    23    1
----- New York    173    0    0
----- California    144    2    2
----- Massachusetts    92    0    1
----- Diamond Princess    46    0    0
----- Grand Princess    21    0    0
----- Georgia    17    0    0
----- Colorado    15    0    0
----- Florida    15    2    0
----- New Jersey    15    1    0
----- Oregon    15    0    0
----- Texas    13    0    0
----- Illinois    12    0    2
----- Pennsylvania    12    0    0
----- Iowa    8    0    0
----- Maryland    8    0    0
----- North Carolina    7    0    0
----- South Carolina    7    0    0
----- Tennessee    7    0    0
----- Virginia    7    0    0
----- Arizona    6    0    1
----- Indiana    6    0    0
----- Kentucky    6    0    0
----- District of Columbia    5    0    0
----- Nevada    4    0    0
----- New Hampshire    4    0    0
----- Minnesota    3    0    0
----- Nebraska    3    0    0
----- Ohio    3    0    0
----- Rhode Island    3    0    0
----- Wisconsin    3    0    1
----- Connecticut    2    0    0
----- Hawaii    2    0    0
----- Oklahoma    2    0    0
----- Utah    2    0    0
----- Kansas    1    0    0
----- Louisiana    1    0    0
----- Missouri    1    0    0
----- Vermont    1    0    0
----- SD    5    1    0
--- Germany    1457    2    18
----- Saxony    24    0    0
----- Mecklenburg-Vorpommern    13    0    0
----- Free State of Bavaria    314    0    14
----- Berlin    58    0    0
----- Brandenburg    16    0    0
----- Thuringia    8    0    0
----- Schleswig-Holstein    9    0    0
----- Lower Saxony    66    0    1
----- Bremen    22    0    0
----- Hamburg    35    0    0
----- Rhineland-Palatinate    25    0    1
----- North Rhine-Westphalia    648    2    0
----- Hesse    35    0    0
----- Baden-Württemberg    277    0    2
----- Saarland    7    0    0
----- Saxony-Anhalt    8    0    0
 -- Japan    581    17    101
 ---- Hokkaido    111    3    34
 ---- kochi    12    0    0
