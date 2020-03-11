@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1094    31    15
+-- United States of America    1098    31    15
 ---- WA    275    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -655,7 +655,7 @@
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    5    0    0
 ------ Worcester(25027)    1    0    0
----- AZ    6    0    1
+---- AZ    9    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    3    0    0
 ------ Pima(04019)    1    0    0
@@ -758,7 +758,7 @@
 ---- SD    5    1    0
 ---- OH    3    0    0
 ------ Cuyahoga(39035)    3    0    0
----- MI    2    0    0
+---- MI    3    0    0
 -- Switzerland    613    3    3
 -- Japan    581    17    101
 ---- Hokkaido    118    3    34
