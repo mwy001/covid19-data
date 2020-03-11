@@ -556,22 +556,22 @@
 ---- Valencian Community    65    1    1
 ---- Región de Murcia    9    0    0
 -- Germany    1457    2    18
----- Saxony    12    0    0
----- Mecklenburg-Vorpommern    10    0    0
----- Free State of Bavaria    256    0    14
----- Berlin    48    0    0
----- Brandenburg    7    0    0
----- Thuringia    6    0    0
+---- Saxony    24    0    0
+---- Mecklenburg-Vorpommern    13    0    0
+---- Free State of Bavaria    314    0    14
+---- Berlin    58    0    0
+---- Brandenburg    16    0    0
+---- Thuringia    8    0    0
 ---- Schleswig-Holstein    9    0    0
----- Lower Saxony    38    0    1
----- Bremen    4    0    0
----- Hamburg    22    0    0
----- Rhineland-Palatinate    22    0    1
----- North Rhine-Westphalia    524    2    0
----- Hesse    26    0    0
----- Baden-Württemberg    234    0    2
----- Saarland    6    0    0
----- Saxony-Anhalt    4    0    0
+---- Lower Saxony    66    0    1
+---- Bremen    22    0    0
+---- Hamburg    35    0    0
+---- Rhineland-Palatinate    25    0    1
+---- North Rhine-Westphalia    648    2    0
+---- Hesse    35    0    0
+---- Baden-Württemberg    277    0    2
+---- Saarland    7    0    0
+---- Saxony-Anhalt    8    0    0
 -- United States of America    959    28    9
 ---- WA    167    23    1
 ------ King(53033)    83    17    1
