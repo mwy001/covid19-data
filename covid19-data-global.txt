@@ -724,7 +724,7 @@
 ---- OH    3    0    0
 ---- MI    2    0    0
 -- Japan    581    17    101
----- Hokkaido    111    3    34
+---- Hokkaido    115    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    11    0    0
