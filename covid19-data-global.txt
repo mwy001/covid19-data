@@ -820,9 +820,9 @@
 ---- Western Australia    6    1    0
 ---- Tasmania    2    0    0
 ---- Northern Territory    1    0    0
--- Canada    97    1    8
+-- Canada    101    1    8
 ---- British Columbia    39    1    4
----- Ontario    37    0    4
+---- Ontario    41    0    4
 ---- Alberta    14    0    0
 ---- Quebec    7    0    0
 -- Greece    90    0    0
