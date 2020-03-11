@@ -470,39 +470,39 @@
 ---- Veneto    856    26    47
 ---- Bolzano    38    0    0
 ---- Aosta Valley    17    0    0
--- Iran, Islamic Republic of    8042    291    2731
----- Qom    751    30    0
----- Tehran    2114    0    0
----- Fars    151    2    0
----- Markazi    416    11    0
----- Mazandaran    886    13    0
----- Ardabil    91    3    0
----- South Khorasan    51    1    0
----- Ilam    56    0    0
----- Isfahan    618    2    0
----- Hamadan    77    1    0
----- Razavi Khorasan    222    8    0
----- Hormozgan    69    2    0
----- Kurdistan    78    0    0
----- Qazvin    257    7    0
----- Yazd    127    3    0
----- West Azerbaijan    73    0    0
----- Gilan    524    0    0
----- Golestan    179    6    0
----- Khuzestan    110    12    0
----- Alborz    339    7    0
----- Semnan    221    0    0
----- Lorestan    176    4    0
----- East Azerbaijan    146    6    0
----- Kermanshah    51    2    0
----- Sistan and Baluchestan    40    0    0
----- Kerman    40    0    0
----- Zanjan    79    0    0
----- Chaharmahal and Bakhtiari    37    0    0
----- North Khorasan    34    0    0
+-- Iran, Islamic Republic of    9000    354    2959
+---- Qom    804    30    0
+---- Tehran    2370    0    0
+---- Fars    170    2    0
+---- Markazi    447    11    0
+---- Mazandaran    918    13    0
+---- Ardabil    92    3    0
+---- South Khorasan    66    1    0
+---- Ilam    62    0    0
+---- Isfahan    788    2    0
+---- Hamadan    84    1    0
+---- Razavi Khorasan    256    8    0
+---- Hormozgan    79    2    0
+---- Kurdistan    84    0    0
+---- Qazvin    284    7    0
+---- Yazd    150    3    0
+---- West Azerbaijan    100    0    0
+---- Gilan    529    0    0
+---- Golestan    188    6    0
+---- Khuzestan    127    12    0
+---- Alborz    384    7    0
+---- Semnan    284    0    0
+---- Lorestan    185    4    0
+---- East Azerbaijan    175    6    0
+---- Kermanshah    59    2    0
+---- Sistan and Baluchestan    44    0    0
+---- Kerman    58    0    0
+---- Zanjan    101    0    0
+---- Chaharmahal and Bakhtiari    38    0    0
+---- North Khorasan    45    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    11    0    0
 ---- Bushehr    18    0    0
--- Korea, Republic of    7513    54    247
+-- Korea, Republic of    7755    54    247
 ---- Busan    98    1    21
 ---- Chungcheongbuk-do    27    0    3
 ---- Chungcheongnam-do    112    0    1
@@ -511,7 +511,7 @@
 ---- Gangwon-do    29    1    6
 ---- Gwangju    15    0    3
 ---- Gyeonggi-do    175    1    25
----- Gyeongsangbuk-do    1135    14    69
+---- Gyeongsangbuk-do    1135    16    69
 ---- Gyeongsangnam-do    84    0    10
 ---- Incheon    25    0    3
 ---- Jeju-do    4    0    1
@@ -520,6 +520,24 @@
 ---- Sejong    10    0    0
 ---- Seoul    193    0    37
 ---- Ulsan    25    0    2
+-- Spain    2089    47    136
+---- Andalusia    83    0    0
+---- Aragon    42    3    0
+---- Balearic Islands    16    0    1
+---- Basque Country    203    6    0
+---- Canary Islands    25    0    5
+---- Cantabria    12    0    0
+---- Castile and León    57    0    0
+---- Castile-La Mancha    71    0    0
+---- Catalonia    128    3    0
+---- Community of Madrid    1055    31    0
+---- Comunidad Foral de Navarra    46    0    0
+---- Extremadura    11    1    0
+---- Galicia    27    0    0
+---- Principality of Asturias    27    0    0
+---- Rioja    181    2    0
+---- Valencian Community    66    1    1
+---- Región de Murcia    17    0    0
 -- France    1784    33    12
 ---- Nord-Pas-de-Calais and Picardy    209    7    4
 ---- Ile-de-France    334    2    2
@@ -537,25 +555,7 @@
 ---- Guadeloupe    3    0    0
 ---- French Guiana    5    0    0
 ---- Martinique    3    0    0
--- Spain    1695    35    32
----- Andalusia    72    0    0
----- Aragon    38    3    0
----- Balearic Islands    13    0    1
----- Basque Country    197    6    0
----- Canary Islands    25    0    5
----- Cantabria    12    0    0
----- Castile and León    56    0    0
----- Castile-La Mancha    39    0    0
----- Catalonia    124    3    0
----- Community of Madrid    782    21    0
----- Comunidad Foral de Navarra    13    0    0
----- Extremadura    8    0    0
----- Galicia    22    0    0
----- Principality of Asturias    22    0    0
----- Rioja    144    1    0
----- Valencian Community    65    1    1
----- Región de Murcia    9    0    0
--- Germany    1457    2    18
+-- Germany    1622    3    25
 ---- Saxony    24    0    0
 ---- Mecklenburg-Vorpommern    13    0    0
 ---- Free State of Bavaria    314    0    14
@@ -759,6 +759,7 @@
 ---- OH    3    0    0
 ------ Cuyahoga(39035)    3    0    0
 ---- MI    2    0    0
+-- Switzerland    613    3    3
 -- Japan    581    17    101
 ---- Hokkaido    118    3    34
 ---- kochi    12    0    0
@@ -768,17 +769,17 @@
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    12    0    0
+---- Saitama    14    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    67    2    0
+---- Tokyo    73    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    14    0    2
 ---- Osaka    73    0    1
 ---- Chiba    25    0    0
----- Kanagawa    44    3    1
+---- Kanagawa    46    3    1
 ---- Shizuoka    2    0    0
----- Aichi    99    3    2
+---- Aichi    102    4    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    2    0    1
@@ -794,8 +795,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- Switzerland    491    3    3
--- Norway    400    0    1
+-- Norway    429    0    1
 -- United Kingdom of Great Britain and Northern Ireland    382    6    18
 ---- England    324    6    0
 ---- Northern Ireland    16    0    0
@@ -803,15 +803,15 @@
 ---- Scotland    27    0    0
 -- Netherlands    382    4    317
 -- Sweden    355    0    1
--- Belgium    267    0    1
+-- Belgium    314    1    1
 -- Denmark    262    0    1
--- Austria    182    0    4
+-- Austria    206    0    4
+-- Bahrain    189    0    30
 -- Singapore    160    0    78
 ---- Central Singapore Community Development Council    160    0    90
--- Malaysia    129    0    24
+-- Malaysia    149    0    26
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
--- Bahrain    110    0    22
 -- Australia    107    4    21
 ---- New South Wales    55    3    4
 ---- Victoria    18    0    7
