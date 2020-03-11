@@ -573,8 +573,8 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1282    37    15
----- WA    366    29    1
+-- United States of America    1300    38    15
+---- WA    373    30    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
 ------ Grant(53025)    1    1    0
@@ -623,7 +623,7 @@
 ---- NH    5    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    1    0    0
----- FL    28    2    0
+---- FL    29    2    0
 ------ Hillsborough(12057)    2    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -747,12 +747,12 @@
 ------ Johnson(20091)    1    0    0
 ---- MO    1    0    0
 ------ St Louis(29189)    1    0    0
----- IA    13    0    0
+---- IA    14    0    0
 ------ Johnson(19103)    7    0    0
 ------ Pottawattamie(19155)    1    0    0
 ---- VT    1    0    0
 ------ Bennington(50003)    1    0    0
----- LA    6    0    0
+---- LA    13    0    0
 ------ Jefferson(22051)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
@@ -821,11 +821,13 @@
 ---- Northern Territory    1    0    0
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
--- Canada    110    1    8
----- British Columbia    39    1    4
----- Ontario    41    0    4
+-- Canada    118    1    8
+---- British Columbia    46    1    4
+---- Ontario    42    0    4
 ---- Alberta    19    0    0
----- Quebec    8    0    0
+---- Quebec    9    0    0
+---- Grand Princess Cruise Ship    1    0    0
+---- New Brunswick    1    0    0
 -- Israel    109    0    4
 -- Greece    99    0    0
 -- Iceland    85    0    1
