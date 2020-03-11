@@ -572,7 +572,7 @@
 ---- Baden-Württemberg    277    0    2
 ---- Saarland    7    0    0
 ---- Saxony-Anhalt    8    0    0
--- United States of America    1072    31    15
+-- United States of America    1076    31    15
 ---- WA    275    24    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -587,7 +587,7 @@
 ---- IL    19    0    2
 ------ Cook(17031)    11    0    2
 ------ Kane(17089)    1    0    0
----- CA    157    3    2
+---- CA    159    3    2
 ------ Los Angeles(06037)    20    0    0
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
@@ -795,6 +795,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
+-- Netherlands    503    5    317
 -- Sweden    477    0    1
 -- Norway    440    0    1
 -- United Kingdom of Great Britain and Northern Ireland    382    6    18
@@ -802,7 +803,6 @@
 ---- Northern Ireland    16    0    0
 ---- Wales    15    0    0
 ---- Scotland    27    0    0
--- Netherlands    382    4    317
 -- Denmark    340    0    1
 -- Belgium    314    1    1
 -- Austria    206    0    4
