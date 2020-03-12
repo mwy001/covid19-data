@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1391    39    15
+-- United States of America    1397    39    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -690,7 +690,7 @@
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    243    0    0
+---- NY    244    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -814,7 +814,7 @@
 ---- NM    4    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    1    0    0
----- AR    1    0    0
+---- AR    2    0    0
 ---- MT    1    0    0
 ---- DE    4    0    0
 ------ New Castle(10003)    1    0    0
