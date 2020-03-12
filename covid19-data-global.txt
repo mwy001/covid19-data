@@ -1,5 +1,5 @@
--- China    80757    3136    60106
----- Anhui    990    6    984
+-- China    161235    6289    121355
+---- Anhui    1980    12    1968
 ------ Hefei    174    1    171
 ------ Fuyang    155    0    155
 ------ Bengbu    160    5    155
@@ -16,7 +16,7 @@
 ------ Chizhou    17    0    17
 ------ Huangshan    9    0    9
 ------ Tongling    29    0    29
----- Beijing    429    8    320
+---- Beijing    864    16    646
 ------ Chaoyang District    72    0    0
 ------ Haidian District    63    0    0
 ------ Xicheng District    53    0    0
@@ -33,7 +33,7 @@
 ------ Miyun District    7    0    0
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
----- Chongqing    576    6    547
+---- Chongqing    1152    12    1101
 ------ Wanzhou District    118    4    109
 ------ Qijiang District    23    0    19
 ------ Changshou District    22    0    18
@@ -73,7 +73,7 @@
 ------ Xiushan Tujia and Miao Autonomous County    1    0    1
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
----- Fujian    296    1    295
+---- Fujian    592    2    590
 ------ Putian    56    0    56
 ------ Quanzhou    47    0    47
 ------ Nanping    20    0    20
@@ -83,7 +83,7 @@
 ------ Fuzhou    72    1    71
 ------ Xiamen    35    0    35
 ------ Longyan    6    0    6
----- Gansu    125    2    88
+---- Gansu    127    2    88
 ------ Lanzhou    36    2    33
 ------ Pingliang    9    0    9
 ------ Dingxi    9    0    8
@@ -95,7 +95,7 @@
 ------ Linxia    3    0    3
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
----- Guangdong    1353    8    1274
+---- Guangdong    2709    16    2556
 ------ Shenzhen    419    3    361
 ------ Guangzhou    347    1    318
 ------ Foshan    84    0    75
@@ -116,7 +116,7 @@
 ------ Shanwei    5    0    5
 ------ Chaozhou    5    0    5
 ------ Heyuan    4    0    4
----- Guangxi    252    2    234
+---- Guangxi    504    4    472
 ------ Hechi    28    1    18
 ------ Fangchenggang    19    0    13
 ------ Liuzhou    24    0    21
@@ -130,7 +130,7 @@
 ------ Wuzhou    5    0    5
 ------ Hezhou    4    0    4
 ------ Baise    3    0    3
----- Guizhou    146    2    129
+---- Guizhou    292    4    262
 ------ Zunyi    32    0    21
 ------ Guiyang    36    1    28
 ------ Bijie    23    0    17
@@ -140,7 +140,7 @@
 ------ Qiandongnan    10    0    10
 ------ Anshun    4    0    4
 ------ Qianxinan    4    0    4
----- Hainan    168    6    159
+---- Hainan    336    12    318
 ------ Haikou    39    0    38
 ------ Sanya    54    1    52
 ------ Danzhou    15    1    12
@@ -168,7 +168,7 @@
 ------ Qinhuangdao    10    1    9
 ------ Hengshui    8    0    8
 ------ Chengde    7    0    7
----- Heilongjiang    481    13    434
+---- Heilongjiang    963    26    870
 ------ Harbin    198    4    168
 ------ Jixi    46    0    41
 ------ Shuangyashan    52    3    41
@@ -182,7 +182,7 @@
 ------ Jiamusi    15    0    15
 ------ Daxinganling    2    0    2
 ------ Yichun    1    0    1
----- Henan    1272    22    1247
+---- Henan    2545    44    2496
 ------ Xinyang    274    2    270
 ------ Kaifeng    26    0    26
 ------ Zhengzhou    157    5    152
@@ -201,7 +201,7 @@
 ------ Jiaozuo    32    1    31
 ------ Luoyang    31    1    30
 ------ Sanmenxia    7    1    6
----- Hubei    67760    3024    47743
+---- Hubei    135533    6070    96877
 ------ Wuhan    49871    2349    28536
 ------ Xiaogan    3518    123    2972
 ------ Huanggang    2907    125    2582
@@ -219,7 +219,7 @@
 ------ Qianjiang    198    9    160
 ------ Enshi Tujia and Miao Autonomous Prefecture    252    6    231
 ------ Shennongjia    11    0    11
----- Hunan    1018    4    990
+---- Hunan    2036    8    1985
 ------ Changsha    242    2    209
 ------ Yueyang    156    1    145
 ------ Zhuzhou    80    0    74
@@ -234,7 +234,7 @@
 ------ Huaihua    40    0    40
 ------ Xiangxi    8    0    8
 ------ Zhangjiajie    5    0    5
----- Inner Mongolia    75    1    70
+---- Inner Mongolia    150    2    141
 ------ Linguolexi    9    0    8
 ------ Baotou    11    0    9
 ------ Hohhot    7    0    6
@@ -246,7 +246,7 @@
 ------ Bayannur    8    1    7
 ------ Wuhai    2    0    2
 ------ Xinganmeng    1    0    1
----- Jiangsu    631    0    627
+---- Jiangsu    1262    0    1254
 ------ Nanjing    93    0    92
 ------ Suzhou    87    0    78
 ------ Huainan    66    0    63
@@ -260,7 +260,7 @@
 ------ Yancheng    27    0    27
 ------ Yangzhou    23    0    23
 ------ Suqian    13    0    13
----- Jiangxi    935    1    927
+---- Jiangxi    1870    2    1859
 ------ Jiujiang    118    0    112
 ------ Nanchang    230    0    224
 ------ Xinyu    130    0    127
@@ -273,7 +273,7 @@
 ------ Yichun    106    0    106
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
----- Jilin    93    1    91
+---- Jilin    186    2    182
 ------ Changchun    45    0    44
 ------ Tonghua    6    0    5
 ------ Baicheng    1    0    1
@@ -284,7 +284,7 @@
 ------ Yanbian    5    0    5
 ------ Songyuan    2    0    2
 ------ Meihekou    1    0    1
----- Liaoning    125    1    111
+---- Liaoning    250    2    222
 ------ Dalian    19    0    15
 ------ Huludao    12    1    9
 ------ Dandong    11    0    7
@@ -298,17 +298,17 @@
 ------ Benxi    3    0    3
 ------ Liaoyang    3    0    3
 ------ Yingkou    1    0    1
----- Ningxia    75    0    71
+---- Ningxia    150    0    143
 ------ Yinchuan    36    0    34
 ------ Wuzhong    28    0    27
 ------ Zhongwei    4    0    3
 ------ Guyuan    5    0    5
 ------ Ningdong County    1    0    1
 ------ Shizuishan    1    0    1
----- Qinghai    18    0    18
+---- Qinghai    36    0    36
 ------ Xining    15    0    15
 ------ Haibei    3    0    3
----- Shaanxi    245    1    227
+---- Shaanxi    490    2    459
 ------ Xi'an    120    1    108
 ------ Weinan    15    0    13
 ------ Hanzhong    26    0    25
@@ -321,7 +321,7 @@
 ------ Yulin    3    0    3
 ------ Hancheng    1    0    1
 ------ Yangling District in Xianyang    1    0    1
----- Shandong    758    6    719
+---- Shandong    1518    12    1445
 ------ Jining    260    0    178
 ------ Dezhou    37    2    29
 ------ Jinan    47    0    40
@@ -337,7 +337,7 @@
 ------ Liaocheng    38    0    38
 ------ Tai'an    35    2    33
 ------ Heze    18    0    18
----- Shanghai    344    3    319
+---- Shanghai    688    6    639
 ------ People from other cities    111    1    99
 ------ Pudong District    61    0    55
 ------ Baoshan District    21    0    16
@@ -355,7 +355,7 @@
 ------ Chongming District    4    0    4
 ------ Changning District    13    0    13
 ------ Yangpu District    9    0    9
----- Shanxi    133    0    131
+---- Shanxi    266    0    262
 ------ Jinzhong    37    0    32
 ------ Datong    12    0    11
 ------ Yuncheng    19    0    18
@@ -367,7 +367,7 @@
 ------ Lüliang    6    0    6
 ------ Yangquan    4    0    4
 ------ Linfen    2    0    2
----- Sichuan    539    3    478
+---- Sichuan    1078    6    966
 ------ Chengdu    144    3    101
 ------ Garzê Tibetan Autonomous Prefecture    78    0    66
 ------ Dazhou    42    0    39
@@ -389,7 +389,7 @@
 ------ Guangyuan    6    0    6
 ------ Leshan    3    0    3
 ------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
----- Tianjin    136    3    131
+---- Tianjin    272    6    262
 ------ Baodi District    60    2    56
 ------ Hebei District    12    0    11
 ------ Nankai District    6    0    6
@@ -405,9 +405,9 @@
 ------ Binhai New Area    3    0    3
 ------ Wuqing District    2    0    2
 ------ Hongqiao District    2    0    2
----- Tibet    1    0    1
+---- Tibet    2    0    2
 ------ Lhasa    1    0    1
----- Xinjiang    76    3    73
+---- Xinjiang    152    6    146
 ------ Urumqi    23    0    23
 ------ Turpan    3    0    3
 ------ Xinjiang Production and Construction Corps 9th Division    4    1    2
@@ -420,7 +420,7 @@
 ------ Wujiaqu, Xinjiang Production and Construction Corps 5th Division    2    0    2
 ------ Xinjiang Production and Construction Corps 7th Division    1    0    1
 ------ Akesu    1    0    1
----- Yunnan    174    2    170
+---- Yunnan    348    4    340
 ------ Kunming    53    0    53
 ------ Qujing    13    0    12
 ------ Baoshan    9    0    9
@@ -435,7 +435,7 @@
 ------ Chuxiong    4    0    4
 ------ Wenshan    2    0    2
 ------ Lincang    1    0    1
----- Zhejiang    1215    1    1191
+---- Zhejiang    2430    2    2386
 ------ Wenzhou    504    1    487
 ------ Taizhou    146    0    134
 ------ Shilifeng Prison    36    0    29
@@ -448,6 +448,8 @@
 ------ Jinhua    55    0    54
 ------ Zhoushan    10    0    10
 ------ Huzhou    12    0    10
+---- Hong Kong    126    3    65
+---- Macau    10    0    10
 -- Italy    12462    827    1045
 ---- Abruzzo    38    1    0
 ---- Apulia    77    5    1
@@ -520,7 +522,7 @@
 ---- Sejong    10    0    0
 ---- Seoul    193    0    37
 ---- Ulsan    25    0    2
--- France    2281    48    12
+-- France    4068    81    24
 ---- Nord-Pas-de-Calais and Picardy    263    7    4
 ---- Ile-de-France    492    2    2
 ---- Alsace–Champagne-Ardenne–Lorraine    578    0    0
@@ -538,6 +540,9 @@
 ---- French Guiana    5    0    0
 ---- Martinique    3    0    0
 ---- Réunion    1    0    0
+---- France    2281    48    12
+---- St Martin    2    0    0
+---- Saint Barthelemy    1    0    0
 -- Spain    2277    54    183
 ---- Andalusia    90    0    0
 ---- Aragon    45    4    0
@@ -573,7 +578,7 @@
 ---- Baden-Württemberg    355    0    14
 ---- Saarland    14    0    0
 ---- Saxony-Anhalt    15    0    0
--- United States of America    1302    38    15
+-- United States of America    1304    38    15
 ---- WA    373    30    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -640,7 +645,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Douglas(41019)    1    0    0
 ------ Marion(41047)    1    0    0
----- GA    23    0    0
+---- GA    24    0    0
 ------ Fulton(13121)    5    0    0
 ------ Cobb(13067)    4    0    0
 ------ Polk(13233)    1    0    0
@@ -686,7 +691,7 @@
 ------ Williamson(47187)    1    0    0
 ------ Davidson(47037)    1    0    0
 ------ Shelby(47157)    1    0    0
----- MD    9    0    0
+---- MD    12    0    0
 ------ Montgomery(24031)    4    0    0
 ------ Harford(24025)    1    0    0
 ------ Prince George's(24033)    3    0    0
@@ -760,6 +765,13 @@
 ---- OH    4    0    0
 ------ Cuyahoga(39035)    3    0    0
 ---- MI    5    0    0
+---- NM    3    0    0
+---- AR    1    0    0
+---- MT    1    0    0
+---- DE    1    0    0
+-- Denmark    706    0    2
+---- Denmark    442    0    1
+---- Faroe Islands    2    0    0
 -- Switzerland    652    4    4
 -- Japan    639    17    118
 ---- Hokkaido    118    3    34
@@ -799,18 +811,22 @@
 -- Norway    598    0    1
 -- Netherlands    503    5    317
 -- Sweden    500    1    1
--- Denmark    442    0    1
--- United Kingdom of Great Britain and Northern Ireland    382    6    18
+-- United Kingdom of Great Britain and Northern Ireland    459    8    19
 ---- England    387    6    0
 ---- Northern Ireland    18    0    0
 ---- Wales    19    0    0
 ---- Scotland    36    0    0
+---- UK    456    8    18
+---- Channel Islands    2    0    0
+---- Gibraltar    1    0    1
 -- Belgium    314    3    1
+-- Qatar    262    0    0
 -- Austria    246    0    4
 -- Bahrain    195    0    35
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
 -- Malaysia    149    0    26
+-- Czechia    132    0    0
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
 ---- Victoria    21    0    7
@@ -831,81 +847,85 @@
 -- Israel    109    0    4
 -- Greece    99    1    0
 -- Iceland    85    0    1
--- United Arab Emirates    74    0    12
--- Iraq    71    7    9
--- Kuwait    69    0    1
--- Viet Nam    61    0    32
--- Egypt    59    1    12
--- India    56    0    4
--- Thailand    53    1    33
--- San Marino    51    2    0
--- Taiwan    47    1    17
+-- United Arab Emirates    74    0    17
+-- Kuwait    72    0    2
+-- Iraq    71    7    15
+-- Viet Nam    69    0    32
+-- India    62    1    4
+-- San Marino    62    2    0
+-- Lebanon    61    3    1
+-- Egypt    60    1    27
+-- Thailand    59    1    34
+-- Finland    59    0    1
+-- Portugal    59    0    0
+-- Slovenia    57    0    0
+-- Philippines    49    1    2
+-- Taiwan    48    1    17
 ---- Taiwan    47    1    17
--- Lebanon    41    1    1
--- Czechia    41    0    0
--- Portugal    41    0    0
--- Finland    40    0    1
--- Ireland    40    0    0
--- Philippines    33    1    2
--- Brazil    31    0    0
--- Slovenia    31    0    0
--- Russian Federation    27    0    6
--- Indonesia    27    0    2
--- Romania    25    0    3
+-- Romania    45    0    6
+-- Ireland    43    1    0
+-- Russian Federation    40    0    6
+-- Brazil    38    0    0
+-- Indonesia    34    1    2
+-- Poland    31    0    0
 -- Palestine    25    0    0
--- Qatar    24    0    0
--- Poland    22    0    0
+-- Georgia    24    0    0
+-- Chile    23    0    0
+-- Saudi Arabia    21    0    1
 -- Algeria    20    0    0
--- Saudi Arabia    20    0    1
+-- Croatia    19    0    0
+-- Pakistan    19    0    2
+-- Argentina    19    1    0
 -- Oman    18    0    9
--- Argentina    17    1    0
--- Pakistan    16    0    1
--- Georgia    15    0    0
--- Ecuador    15    0    0
--- Croatia    14    0    0
--- Chile    13    0    0
--- Estonia    12    0    0
--- Azerbaijan    11    0    0
+-- Ecuador    17    0    0
+-- Estonia    16    0    0
+-- Hungary    13    0    0
+-- South Africa    13    0    0
+-- Costa Rica    13    0    0
+-- Serbia    12    0    0
+-- Albania    12    1    0
+-- Azerbaijan    11    0    3
 -- Peru    11    0    0
+-- Brunei Darussalam    11    0    0
 -- Macao    10    0    10
 ---- Macau    10    0    10
--- Albania    10    0    0
+-- Latvia    10    0    1
+-- Slovakia    10    0    0
 -- Belarus    9    0    3
--- Hungary    9    0    0
--- Costa Rica    9    0    0
--- Latvia    8    0    1
+-- Colombia    9    0    0
+-- Mexico    8    0    4
+-- Maldives    8    0    0
+-- Panama    8    1    0
+-- Afghanistan    7    0    0
 -- North Macedonia    7    0    0
--- Mexico    7    0    4
--- South Africa    7    0    0
--- Slovakia    7    0    0
--- Maldives    6    0    0
--- Afghanistan    5    0    0
+-- Luxembourg    7    0    0
+-- Tunisia    7    0    0
+-- Bosnia and Herzegovina    7    0    0
+-- Bulgaria    7    1    0
+-- Malta    6    0    0
+-- Cyprus    6    0    0
 -- New Zealand    5    0    0
--- Luxembourg    5    0    0
 -- Dominican Republic    5    0    0
--- Tunisia    5    0    0
--- Bosnia and Herzegovina    5    0    0
--- Serbia    5    0    0
+-- Morocco    5    1    0
 -- French Guiana    5    0    0
--- Malta    5    0    0
+-- Paraguay    5    0    0
 -- Senegal    4    0    1
--- Bulgaria    4    0    0
--- Morocco    3    1    0
+-- Cambodia    3    0    1
+-- Lithuania    3    0    0
 -- Saint Barthélemy    3    0    0
--- Colombia    3    0    0
+-- Martinique    3    0    0
 -- Bangladesh    3    0    0
 -- Moldova, Republic of    3    0    0
--- Cyprus    3    0    0
--- Cambodia    2    0    1
+-- Sri Lanka    2    0    1
 -- Nigeria    2    0    0
 -- Faroe Islands    2    0    0
 -- Cameroon    2    0    0
 -- Holy See    2    0    0
--- Martinique    2    0    0
 -- Saint Martin (French part)    2    0    0
+-- Burkina Faso    2    0    0
+-- Honduras    2    0    0
+-- Bolivia, Plurinational State of    2    0    0
 -- Nepal    1    0    1
--- Sri Lanka    1    0    1
--- Lithuania    1    0    0
 -- Monaco    1    0    0
 -- Armenia    1    0    0
 -- Andorra    1    0    0
@@ -915,8 +935,8 @@
 -- Liechtenstein    1    0    0
 -- Bhutan    1    0    0
 -- Togo    1    0    0
--- Paraguay    1    0    0
--- Brunei Darussalam    1    0    0
--- Burkina Faso    1    0    0
 -- Mongolia    1    0    0
--- Panama    1    0    0
+-- Jamaica    1    0    0
+-- Turkey    1    0    0
+-- Congo    1    0    0
+-- Réunion    1    0    0
