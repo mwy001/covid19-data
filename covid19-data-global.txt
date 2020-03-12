@@ -2,10 +2,10 @@
 ---- Hubei    135533    6070    96877
 ------ Wuhan    49986    2430    34094
 ------ Xiaogan    3518    126    3179
------- Ezhou    1394    55    1161
+------ Ezhou    1394    55    1176
 ------ Suizhou    1307    45    1167
 ------ Jingzhou    1580    49    1452
------- Huanggang    2907    125    2705
+------ Huanggang    2907    125    2708
 ------ Yichang    931    36    834
 ------ Huangshi    1015    38    921
 ------ Jingmen    928    39    834
@@ -41,8 +41,8 @@
 ---- Henan    2545    44    2496
 ------ Xinyang    274    2    271
 ------ Zhengzhou    158    5    152
------- Nanyang    156    3    152
------- Zhoukou    76    1    74
+------ Nanyang    156    3    153
+------ Zhoukou    76    1    75
 ------ Zhumadian    139    0    139
 ------ Shangqiu    91    3    88
 ------ Pingdingshan    58    1    57
@@ -117,7 +117,7 @@
 ------ Ganjiang New District    1    0    1
 ---- Shandong    1518    12    1445
 ------ Jining    260    0    248
------- Weihai    38    0    36
+------ Weihai    38    0    37
 ------ Dezhou    37    2    33
 ------ Qingdao    61    1    59
 ------ Linyi    49    0    48
@@ -133,7 +133,7 @@
 ------ Binzhou    15    0    15
 ---- Jiangsu    1262    0    1254
 ------ Wuxi    55    0    53
------- Xuzhou    79    0    78
+------ Xuzhou    79    0    79
 ------ Nanjing    93    0    93
 ------ Suzhou    87    0    87
 ------ Huainan    66    0    66
@@ -239,10 +239,10 @@
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
 ---- Shanghai    688    6    639
------- People from other cities    111    1    103
+------ People from other cities    111    1    104
 ------ Pudong District    61    0    58
 ------ Baoshan District    21    0    19
------- Jing'an District    16    0    14
+------ Jing'an District    16    0    15
 ------ Jiading District    9    0    7
 ------ Xuhui District    18    0    17
 ------ Huangpu District    6    0    5
@@ -257,7 +257,7 @@
 ------ Jinshan District    4    0    4
 ------ Chongming District    4    0    4
 ---- Hebei    318    6    307
------- Zhangjiakou    41    0    38
+------ Zhangjiakou    41    0    39
 ------ Tangshan    58    1    55
 ------ Cangzhou    48    3    45
 ------ Baoding    32    0    32
