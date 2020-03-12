@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1427    40    15
+-- United States of America    1512    40    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -639,7 +639,7 @@
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    2    0    0
----- FL    34    3    0
+---- FL    35    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -690,7 +690,7 @@
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    255    0    0
+---- NY    328    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -698,7 +698,7 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    6    0    0
 ------ Ulster(36111)    2    0    0
----- NJ    25    1    0
+---- NJ    29    1    0
 ------ Bergen(34003)    11    1    0
 ------ Hudson(34017)    1    0    0
 ------ Monmouth(34025)    4    0    0
@@ -811,7 +811,7 @@
 ---- MI    5    0    0
 ------ Oakland(26125)    1    0    0
 ------ Wayne(26163)    1    0    0
----- NM    4    0    0
+---- NM    5    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    1    0    0
 ---- AR    2    0    0
