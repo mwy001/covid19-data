@@ -451,27 +451,27 @@
 ---- Tibet    2    0    2
 ------ Lhasa    1    0    1
 -- Italy    12462    827    1045
----- Abruzzo    38    1    0
----- Aosta Valley    20    1    0
----- Apulia    77    5    1
+---- Abruzzo    84    2    4
+---- Aosta Valley    27    1    0
+---- Apulia    104    5    1
 ---- Basilicata    8    0    0
----- Calabria    19    0    2
----- Campania    154    1    4
----- Emilia-Romagna    1739    113    38
----- Friuli Venezia Giulia    126    6    10
----- Lazio    150    6    19
----- Lombardy    7280    617    900
----- Marche    479    18    0
+---- Calabria    33    0    2
+---- Campania    179    1    4
+---- Emilia-Romagna    1947    146    43
+---- Friuli Venezia Giulia    167    8    11
+---- Lazio    200    9    19
+---- Lombardy    8725    744    1085
+---- Marche    592    22    0
 ---- Molise    16    0    0
----- Piemont    501    21    0
----- Sardinia    37    0    0
----- Sicily    83    0    2
----- Trentino-Alto Adige - Südtirol    77    0    3
----- Tuscany    320    1    5
----- Umbria    46    0    2
----- Liguria    194    8    5
----- Veneto    1023    29    54
----- Bolzano    75    0    0
+---- Piemont    580    26    0
+---- Sardinia    39    0    0
+---- Sicily    115    2    2
+---- Trentino-Alto Adige - Südtirol    107    1    4
+---- Tuscany    364    5    7
+---- Umbria    64    0    2
+---- Liguria    274    11    20
+---- Veneto    1384    32    55
+---- Bolzano    104    1    0
 -- Iran, Islamic Republic of    10075    429    2959
 ---- Qom    846    30    0
 ---- Tehran    2673    0    0
@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1401    40    15
+-- United States of America    1427    40    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -627,7 +627,7 @@
 ---- WI    6    0    1
 ------ Dane(55025)    2    0    1
 ------ Pierce(55093)    2    0    0
----- TX    24    0    0
+---- TX    25    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    7    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -636,7 +636,7 @@
 ------ Dallas(48113)    2    0    0
 ------ Tarrant(48439)    1    0    0
 ------ Montgomery(48339)    1    0    0
----- NH    5    0    0
+---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    2    0    0
 ---- FL    34    3    0
@@ -690,7 +690,7 @@
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    244    0    0
+---- NY    255    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -698,7 +698,7 @@
 ------ Saratoga(36091)    2    0    0
 ------ Suffolk(36103)    6    0    0
 ------ Ulster(36111)    2    0    0
----- NJ    23    1    0
+---- NJ    25    1    0
 ------ Bergen(34003)    11    1    0
 ------ Hudson(34017)    1    0    0
 ------ Monmouth(34025)    4    0    0
@@ -707,7 +707,7 @@
 ------ Passaic(34031)    1    0    0
 ------ Union(34039)    1    0    0
 ------ Middlesex(34023)    2    0    0
----- NV    7    0    0
+---- NV    10    0    0
 ------ Clark(32003)    5    0    0
 ------ Washoe(32031)    2    0    0
 ---- TN    9    0    0
@@ -729,7 +729,7 @@
 ------ Arapahoe(08005)    3    0    0
 ------ Gunnison(08051)    5    0    0
 ------ Jefferson(08059)    3    0    0
----- PA    21    0    0
+---- PA    22    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    9    0    0
@@ -767,7 +767,7 @@
 ------ Kershaw(45055)    4    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    1    0    0
----- UT    4    0    0
+---- UT    5    0    0
 ------ Davis(49011)    1    0    0
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    1    0    0
@@ -775,7 +775,7 @@
 ------ Honolulu(15003)    2    0    0
 ---- OK    2    0    0
 ------ Tulsa(40143)    2    0    0
----- VA    15    0    0
+---- VA    17    0    0
 ------ Fairfax(51059)    4    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    1    0    0
@@ -885,6 +885,7 @@
 ---- Quebec    13    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
+-- Israel    130    0    4
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
 ---- Victoria    21    0    7
@@ -893,7 +894,6 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
--- Israel    127    0    4
 -- Greece    99    1    0
 -- Czechia    91    0    0
 -- Iceland    85    0    1
