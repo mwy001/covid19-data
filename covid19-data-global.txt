@@ -451,46 +451,133 @@
 ---- Tibet    2    0    2
 ------ Lhasa    1    0    1
 -- Italy    12462    827    1045
+---- Abruzzo    38    1    0
+---- Aosta Valley    20    1    0
+---- Apulia    77    5    1
+---- Basilicata    8    0    0
+---- Calabria    19    0    2
+---- Campania    154    1    4
+---- Emilia-Romagna    1739    113    38
+---- Friuli Venezia Giulia    126    6    10
+---- Lazio    150    6    19
+---- Lombardy    7280    617    900
+---- Marche    479    18    0
+---- Molise    16    0    0
+---- Piemont    501    21    0
+---- Sardinia    37    0    0
+---- Sicily    83    0    2
+---- Trentino-Alto Adige - Südtirol    77    0    3
+---- Tuscany    320    1    5
+---- Umbria    46    0    2
+---- Liguria    194    8    5
+---- Veneto    1023    29    54
+---- Bolzano    75    0    0
 -- Iran, Islamic Republic of    10075    429    2959
----- Qom    804    30    0
----- Tehran    2370    0    0
----- Fars    170    2    0
----- Markazi    447    11    0
----- Mazandaran    918    13    0
----- Ardabil    92    3    0
----- South Khorasan    66    1    0
----- Ilam    62    0    0
----- Isfahan    788    2    0
----- Hamadan    84    1    0
----- Razavi Khorasan    256    8    0
+---- Qom    846    30    0
+---- Tehran    2673    0    0
+---- Fars    199    2    0
+---- Markazi    535    11    0
+---- Mazandaran    997    13    0
+---- Ardabil    106    3    0
+---- South Khorasan    78    1    0
+---- Ilam    69    0    0
+---- Isfahan    792    2    0
+---- Hamadan    96    1    0
+---- Razavi Khorasan    285    8    0
 ---- Hormozgan    79    2    0
----- Kurdistan    84    0    0
----- Qazvin    284    7    0
----- Yazd    150    3    0
----- West Azerbaijan    100    0    0
----- Gilan    529    0    0
----- Golestan    188    6    0
----- Khuzestan    127    12    0
----- Alborz    384    7    0
----- Semnan    284    0    0
----- Lorestan    185    4    0
----- East Azerbaijan    175    6    0
----- Kermanshah    59    2    0
----- Sistan and Baluchestan    44    0    0
----- Kerman    58    0    0
----- Zanjan    101    0    0
----- Chaharmahal and Bakhtiari    38    0    0
+---- Kurdistan    93    0    0
+---- Qazvin    326    7    0
+---- Yazd    171    3    0
+---- West Azerbaijan    119    0    0
+---- Gilan    613    0    0
+---- Golestan    213    6    0
+---- Khuzestan    158    12    0
+---- Alborz    458    7    0
+---- Semnan    324    0    0
+---- Lorestan    210    4    0
+---- East Azerbaijan    182    6    0
+---- Kermanshah    79    2    0
+---- Sistan and Baluchestan    50    0    0
+---- Kerman    65    0    0
+---- Zanjan    118    0    0
+---- Chaharmahal and Bakhtiari    49    0    0
 ---- North Khorasan    45    0    0
----- Kohgiluyeh and Boyer-Ahmad    11    0    0
----- Bushehr    18    0    0
+---- Kohgiluyeh and Boyer-Ahmad    26    0    0
+---- Bushehr    21    0    0
 -- Korea, Republic of    7869    66    333
+---- Busan    99    0    29
+---- Chungcheongbuk-do    27    0    4
+---- Chungcheongnam-do    114    0    5
+---- Daegu    5867    48    114
+---- Daejeon    20    0    2
+---- Gangwon-do    29    1    6
+---- Gwangju    15    0    4
+---- Gyeonggi-do    178    2    27
+---- Gyeongsangbuk-do    1143    16    83
+---- Gyeongsangnam-do    85    0    10
+---- Incheon    25    0    4
+---- Jeju-do    4    0    1
+---- Jeollabuk-do    7    0    2
+---- Jeollanam-do    4    0    1
+---- Sejong    15    0    0
+---- Seoul    212    0    38
+---- Ulsan    25    0    3
 -- France    2284    48    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
+---- Nord-Pas-de-Calais and Picardy    263    7    4
+---- Ile-de-France    492    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    578    0    0
+---- Normandy    54    1    0
+---- Brittany    94    1    6
+---- Pays de la Loire    34    0    0
+---- Centre-Val de Loire    20    0    0
+---- Bourgogne-Franche-Comté    155    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    66    0    0
+---- Auvergne-Rhône-Alpes    264    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    87    0    0
+---- Provence-Alpes-Côte d'Azur    111    0    0
+---- Corsica    51    0    0
+---- Martinique    3    0    0
+---- French Guiana    5    0    0
+---- Réunion    1    0    0
 -- Spain    2277    55    183
+---- Andalusia    90    0    0
+---- Aragon    45    4    0
+---- Balearic Islands    16    0    1
+---- Basque Country    225    6    0
+---- Canary Islands    37    0    5
+---- Cantabria    12    0    0
+---- Castile and León    71    0    0
+---- Castile-La Mancha    71    0    0
+---- Catalonia    156    3    0
+---- Community of Madrid    1024    31    0
+---- Comunidad Foral de Navarra    46    0    0
+---- Extremadura    9    0    0
+---- Galicia    39    0    0
+---- Principality of Asturias    32    0    0
+---- Región de Murcia    11    0    0
+---- Rioja    179    2    0
+---- Valencian Community    65    1    1
 -- Germany    2078    3    25
--- United States of America    1333    38    15
+---- Saxony    26    0    0
+---- Mecklenburg-Vorpommern    17    0    0
+---- Free State of Bavaria    366    0    14
+---- Berlin    90    0    0
+---- Brandenburg    24    0    0
+---- Thuringia    10    0    0
+---- Schleswig-Holstein    27    0    0
+---- Lower Saxony    78    0    1
+---- Bremen    32    0    1
+---- Hamburg    54    0    0
+---- Rhineland-Palatinate    29    0    1
+---- North Rhine-Westphalia    801    3    6
+---- Hesse    48    0    0
+---- Baden-Württemberg    335    0    14
+---- Saxony-Anhalt    15    0    0
+---- Saarland    14    0    0
+-- United States of America    1337    38    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -511,7 +598,7 @@
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    180    4    5
+---- CA    182    4    5
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -552,7 +639,7 @@
 ---- NH    5    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    2    0    0
----- FL    30    2    0
+---- FL    33    2    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -736,6 +823,40 @@
 ---- ND    1    0    0
 -- Switzerland    652    4    4
 -- Japan    639    16    118
+---- Hokkaido    129    4    53
+---- kochi    12    0    0
+---- Miyagi    1    0    0
+---- Niigata    14    0    0
+---- Gifu    2    0    0
+---- Nagano    3    0    0
+---- Tochigi    2    0    0
+---- Kumamoto    6    0    0
+---- Saitama    20    0    0
+---- Ishikawa    7    0    0
+---- Fukuoka    3    0    0
+---- Tokyo    75    2    0
+---- Wakayama    14    1    2
+---- Kyoto    16    0    2
+---- Osaka    89    0    1
+---- Chiba    27    0    0
+---- Kanagawa    48    3    1
+---- Shizuoka    2    0    0
+---- Aichi    105    6    2
+---- Nara    8    0    1
+---- Tokushima    1    0    0
+---- Mie    7    0    1
+---- Okinawa    3    0    1
+---- Ehime    2    0    0
+---- hyogo    42    1    0
+---- oita    1    0    0
+---- Yamaguchi    3    0    0
+---- Miyazaki    1    0    0
+---- Shiga    1    0    0
+---- Akita    2    0    0
+---- Yamanashi    2    0    0
+---- Hiroshima    1    0    0
+---- Gunma    3    0    0
+---- Fukushima    1    0    0
 -- Norway    632    0    1
 -- Denmark    617    0    1
 ---- Denmark    442    0    1
@@ -746,11 +867,16 @@
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
+---- England    387    6    0
+---- Northern Ireland    18    0    0
+---- Wales    19    0    0
+---- Scotland    36    0    0
 -- Belgium    314    3    1
 -- Austria    302    0    4
 -- Qatar    262    0    0
 -- Bahrain    195    0    35
 -- Singapore    178    0    96
+---- Central Singapore Community Development Council    160    0    90
 -- Malaysia    149    0    26
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
