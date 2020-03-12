@@ -18,13 +18,13 @@
 ------ Tianmen    496    15    474
 ------ Shennongjia    11    0    11
 ---- Guangdong    2709    16    2556
------- Shenzhen    420    3    381
------- Guangzhou    347    1    325
+------ Shenzhen    420    3    392
+------ Guangzhou    347    1    326
 ------ Foshan    84    0    78
------- Zhongshan    68    0    62
+------ Zhongshan    68    0    64
 ------ Dongguan    100    1    96
 ------ Shantou    25    0    24
------- Meizhou    16    0    15
+------ Meizhou    16    0    16
 ------ Zhuhai    98    1    97
 ------ Huizhou    62    0    62
 ------ Jiangmen    23    0    23
@@ -193,7 +193,7 @@
 ------ Mianyang    22    0    20
 ------ Dazhou    42    0    41
 ------ Meishan    8    0    7
------- Ziyang    4    0    3
+------ Ziyang    4    0    4
 ------ Nanchong    39    0    39
 ------ Luzhou    24    0    24
 ------ Neijiang    22    0    22
@@ -321,7 +321,7 @@
 ------ Wenshan    2    0    2
 ------ Lincang    1    0    1
 ---- Hainan    336    12    318
------- Danzhou    15    1    12
+------ Danzhou    15    1    13
 ------ Haikou    39    0    38
 ------ Sanya    54    1    53
 ------ Wanning    13    0    13
