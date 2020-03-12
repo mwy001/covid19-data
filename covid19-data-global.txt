@@ -490,7 +490,7 @@
 ---- Saint Barthelemy    1    0    0
 -- Spain    2277    55    183
 -- Germany    2078    3    25
--- United States of America    1329    38    15
+-- United States of America    1331    38    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -511,7 +511,7 @@
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    178    4    5
+---- CA    179    4    5
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -688,7 +688,7 @@
 ------ Honolulu(15003)    2    0    0
 ---- OK    2    0    0
 ------ Tulsa(40143)    2    0    0
----- VA    9    0    0
+---- VA    10    0    0
 ------ Fairfax(51059)    4    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    1    0    0
