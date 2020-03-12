@@ -578,7 +578,7 @@
 ---- Baden-Württemberg    355    0    14
 ---- Saarland    14    0    0
 ---- Saxony-Anhalt    15    0    0
--- United States of America    1327    38    15
+-- United States of America    1329    38    15
 ---- WA    373    30    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -762,7 +762,7 @@
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    8    1    0
----- OH    4    0    0
+---- OH    5    0    0
 ------ Cuyahoga(39035)    3    0    0
 ---- MI    5    0    0
 ---- NM    4    0    0
