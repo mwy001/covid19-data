@@ -552,7 +552,7 @@
 ---- Castile and León    71    0    0
 ---- Castile-La Mancha    71    0    0
 ---- Catalonia    156    3    0
----- Community of Madrid    1024    31    0
+---- Community of Madrid    1388    31    0
 ---- Comunidad Foral de Navarra    46    0    0
 ---- Extremadura    9    0    0
 ---- Galicia    39    0    0
@@ -686,11 +686,11 @@
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    1    0    0
----- NC    11    0    0
+---- NC    12    0    0
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    228    0    0
+---- NY    229    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -729,7 +729,7 @@
 ------ Arapahoe(08005)    3    0    0
 ------ Gunnison(08051)    5    0    0
 ------ Jefferson(08059)    3    0    0
----- PA    16    0    0
+---- PA    21    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    9    0    0
@@ -743,7 +743,7 @@
 ------ Fayette(21067)    2    0    0
 ------ Harrison(21097)    5    0    0
 ------ Jefferson(21111)    1    0    0
----- IN    11    0    0
+---- IN    12    0    0
 ------ Marion(18097)    1    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
@@ -837,18 +837,18 @@
 ---- Fukuoka    3    0    0
 ---- Tokyo    75    2    0
 ---- Wakayama    14    1    2
----- Kyoto    16    0    2
+---- Kyoto    17    0    2
 ---- Osaka    89    0    1
 ---- Chiba    27    0    0
----- Kanagawa    48    3    1
----- Shizuoka    2    0    0
----- Aichi    105    6    2
+---- Kanagawa    49    3    1
+---- Shizuoka    3    0    0
+---- Aichi    111    8    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    42    1    0
+---- hyogo    46    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
