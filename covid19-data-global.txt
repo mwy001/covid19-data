@@ -557,23 +557,23 @@
 ---- Valencian Community    65    1    1
 ---- Región de Murcia    11    0    0
 -- Germany    1908    3    25
----- Saxony    24    0    0
----- Mecklenburg-Vorpommern    13    0    0
----- Free State of Bavaria    314    0    14
----- Berlin    58    0    0
----- Brandenburg    16    0    0
----- Thuringia    8    0    0
----- Schleswig-Holstein    9    0    0
----- Lower Saxony    66    0    1
----- Bremen    22    0    0
----- Hamburg    35    0    0
----- Rhineland-Palatinate    25    0    1
----- North Rhine-Westphalia    648    2    0
----- Hesse    35    0    0
----- Baden-Württemberg    277    0    2
----- Saarland    7    0    0
----- Saxony-Anhalt    8    0    0
--- United States of America    1301    38    15
+---- Saxony    26    0    0
+---- Mecklenburg-Vorpommern    17    0    0
+---- Free State of Bavaria    366    0    14
+---- Berlin    90    0    0
+---- Brandenburg    24    0    0
+---- Thuringia    10    0    0
+---- Schleswig-Holstein    27    0    0
+---- Lower Saxony    78    0    1
+---- Bremen    32    0    1
+---- Hamburg    54    0    0
+---- Rhineland-Palatinate    29    0    1
+---- North Rhine-Westphalia    801    3    6
+---- Hesse    48    0    0
+---- Baden-Württemberg    355    0    14
+---- Saarland    14    0    0
+---- Saxony-Anhalt    15    0    0
+-- United States of America    1302    38    15
 ---- WA    373    30    1
 ------ King(53033)    116    21    1
 ------ Snohomish(53061)    37    1    0
@@ -660,7 +660,7 @@
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    3    0    0
 ------ Pima(04019)    1    0    0
----- NC    7    0    0
+---- NC    8    0    0
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ---- NY    220    0    0
@@ -750,7 +750,7 @@
 ---- IA    14    0    0
 ------ Johnson(19103)    7    0    0
 ------ Pottawattamie(19155)    1    0    0
----- VT    1    0    0
+---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ---- LA    13    0    0
 ------ Jefferson(22051)    1    0    0
@@ -759,7 +759,7 @@
 ---- SD    8    1    0
 ---- OH    4    0    0
 ------ Cuyahoga(39035)    3    0    0
----- MI    3    0    0
+---- MI    5    0    0
 -- Switzerland    652    4    4
 -- Japan    639    17    118
 ---- Hokkaido    118    3    34
@@ -801,10 +801,10 @@
 -- Sweden    500    1    1
 -- Denmark    442    0    1
 -- United Kingdom of Great Britain and Northern Ireland    382    6    18
----- England    324    6    0
----- Northern Ireland    16    0    0
----- Wales    15    0    0
----- Scotland    27    0    0
+---- England    387    6    0
+---- Northern Ireland    18    0    0
+---- Wales    19    0    0
+---- Scotland    36    0    0
 -- Belgium    314    3    1
 -- Austria    246    0    4
 -- Bahrain    195    0    35
@@ -829,7 +829,7 @@
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
 -- Israel    109    0    4
--- Greece    99    0    0
+-- Greece    99    1    0
 -- Iceland    85    0    1
 -- United Arab Emirates    74    0    12
 -- Iraq    71    7    9
