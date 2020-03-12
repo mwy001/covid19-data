@@ -187,7 +187,7 @@
 ------ Wansheng District    1    0    1
 ---- Sichuan    1078    6    966
 ------ Chengdu    144    3    113
------- Garzê Tibetan Autonomous Prefecture    78    0    74
+------ Garzê Tibetan Autonomous Prefecture    78    0    76
 ------ Bazhong    24    0    21
 ------ Guang'an    30    0    29
 ------ Mianyang    22    0    20
@@ -211,7 +211,7 @@
 ------ Harbin    198    4    182
 ------ Suihua    47    4    40
 ------ Shuangyashan    52    3    47
------- Jixi    46    0    44
+------ Jixi    46    0    45
 ------ Qiqihar    43    1    40
 ------ Daqing    26    1    23
 ------ Mudanjiang    15    0    13
@@ -402,7 +402,7 @@
 ------ Liaoyang    3    0    3
 ------ Yingkou    1    0    1
 ---- Jilin    186    2    182
------- Tonghua    6    0    5
+------ Tonghua    6    0    6
 ------ Changchun    45    0    45
 ------ Siping    15    1    14
 ------ Liaoyuan    7    0    7
