@@ -352,6 +352,7 @@
 ---- MT    1    0    0
 ---- DE    1    0    0
 ---- MS    1    0    0
+---- WY    1    0    0
 -- Denmark    706    0    2
 ---- Denmark    442    0    1
 ---- Faroe Islands    2    0    0
