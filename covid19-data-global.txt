@@ -1,37 +1,37 @@
--- China    80921    3161    61644
----- Hubei    67773    3046    49134
----- Guangdong    1356    8    1282
----- Henan    1273    22    1249
----- Zhejiang    1215    1    1195
----- Hunan    1018    4    995
----- Anhui    990    6    984
----- Jiangxi    935    1    932
----- Shandong    760    6    726
----- Jiangsu    631    0    627
----- Chongqing    576    6    554
----- Sichuan    539    3    488
----- Heilongjiang    482    13    436
----- Beijing    435    8    326
----- Shanghai    344    3    320
+-- China    161235    6289    121355
+---- Hubei    135533    6070    96877
+---- Guangdong    2709    16    2556
+---- Henan    2545    44    2496
+---- Zhejiang    2430    2    2386
+---- Hunan    2036    8    1985
+---- Anhui    1980    12    1968
+---- Jiangxi    1870    2    1859
+---- Shandong    1518    12    1445
+---- Jiangsu    1262    0    1254
+---- Chongqing    1152    12    1101
+---- Sichuan    1078    6    966
+---- Heilongjiang    963    26    870
+---- Beijing    864    16    646
+---- Shanghai    688    6    639
 ---- Hebei    318    6    307
----- Fujian    296    1    295
----- Guangxi    252    2    238
----- Shaanxi    245    1    232
----- Yunnan    174    2    170
----- Hainan    168    6    159
----- Guizhou    146    2    133
----- Tianjin    136    3    131
----- Shanxi    133    0    131
+---- Fujian    592    2    590
+---- Guangxi    504    4    472
+---- Shaanxi    490    2    459
+---- Yunnan    348    4    340
+---- Hainan    336    12    318
+---- Guizhou    292    4    262
+---- Tianjin    272    6    262
+---- Shanxi    266    0    262
 ---- Gansu    127    2    88
 ---- Hong Kong    126    3    65
----- Liaoning    125    1    111
----- Jilin    93    1    91
----- Xinjiang    76    3    73
----- Inner Mongolia    75    1    71
----- Ningxia    75    0    72
----- Qinghai    18    0    18
+---- Liaoning    250    2    222
+---- Jilin    186    2    182
+---- Xinjiang    152    6    146
+---- Inner Mongolia    150    2    141
+---- Ningxia    150    0    143
+---- Qinghai    36    0    36
 ---- Macau    10    0    10
----- Tibet    1    0    1
+---- Tibet    2    0    2
 -- Italy    12462    827    1045
 ---- Abruzzo    38    1    0
 ---- Apulia    77    5    1
@@ -87,23 +87,23 @@
 ---- Kohgiluyeh and Boyer-Ahmad    11    0    0
 ---- Bushehr    18    0    0
 -- Korea, Republic of    7755    60    288
----- Busan    98    1    21
----- Chungcheongbuk-do    27    0    3
----- Chungcheongnam-do    112    0    1
----- Daegu    5794    46    102
----- Daejeon    18    0    2
+---- Busan    99    0    29
+---- Chungcheongbuk-do    27    0    4
+---- Chungcheongnam-do    114    0    5
+---- Daegu    5867    48    114
+---- Daejeon    20    0    2
 ---- Gangwon-do    29    1    6
----- Gwangju    15    0    3
----- Gyeonggi-do    175    1    25
----- Gyeongsangbuk-do    1135    16    69
----- Gyeongsangnam-do    84    0    10
----- Incheon    25    0    3
+---- Gwangju    15    0    4
+---- Gyeonggi-do    178    1    27
+---- Gyeongsangbuk-do    1143    16    83
+---- Gyeongsangnam-do    85    0    10
+---- Incheon    25    0    4
 ---- Jeju-do    4    0    1
 ---- Jeollabuk-do    7    0    2
 ---- Jeollanam-do    4    0    1
----- Sejong    10    0    0
----- Seoul    193    0    37
----- Ulsan    25    0    2
+---- Sejong    15    0    0
+---- Seoul    212    0    38
+---- Ulsan    25    0    3
 -- France    4068    81    24
 ---- Nord-Pas-de-Calais and Picardy    263    7    4
 ---- Ile-de-France    492    2    2
@@ -175,7 +175,7 @@
 ---- IL    25    0    2
 ------ Cook(17031)    11    0    2
 ------ Kane(17089)    1    0    0
----- CA    177    4    2
+---- CA    178    4    2
 ------ Los Angeles(06037)    20    0    0
 ------ San Benito(06069)    2    0    0
 ------ San Diego(06073)    3    0    1
@@ -351,6 +351,7 @@
 ---- AR    1    0    0
 ---- MT    1    0    0
 ---- DE    1    0    0
+---- MS    1    0    0
 -- Denmark    706    0    2
 ---- Denmark    442    0    1
 ---- Faroe Islands    2    0    0
