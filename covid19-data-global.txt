@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1397    39    15
+-- United States of America    1401    40    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -639,7 +639,7 @@
 ---- NH    5    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    2    0    0
----- FL    34    2    0
+---- FL    34    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -752,7 +752,7 @@
 ------ Johnson(18081)    3    0    0
 ------ Howard(18067)    1    0    0
 ------ St Joseph(18141)    1    0    0
----- MN    5    0    0
+---- MN    9    0    0
 ------ Ramsey(27123)    2    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    1    0    0
@@ -878,11 +878,11 @@
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
 -- Malaysia    149    0    26
--- Canada    137    1    8
+-- Canada    142    1    8
 ---- British Columbia    46    1    4
 ---- Ontario    59    0    4
----- Alberta    19    0    0
----- Quebec    9    0    0
+---- Alberta    20    0    0
+---- Quebec    13    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
 -- Australia    128    4    21
