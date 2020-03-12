@@ -771,6 +771,7 @@
 ---- DE    1    0    0
 ---- MS    1    0    0
 ---- WY    1    0    0
+---- ND    1    0    0
 -- Denmark    706    0    2
 ---- Denmark    442    0    1
 ---- Faroe Islands    2    0    0
@@ -810,7 +811,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    1    0    0
 ---- Fukushima    1    0    0
--- Norway    629    0    1
+-- Norway    632    0    1
 -- Netherlands    503    5    317
 -- Sweden    500    1    1
 -- United Kingdom of Great Britain and Northern Ireland    459    8    19
