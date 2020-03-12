@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1381    38    15
+-- United States of America    1391    39    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -664,7 +664,7 @@
 ------ Multnomah(41051)    1    0    0
 ------ Polk(41053)    1    0    0
 ------ Deschutes(41017)    1    0    0
----- GA    33    0    0
+---- GA    33    1    0
 ------ Fulton(13121)    7    0    0
 ------ Cobb(13067)    7    0    0
 ------ Polk(13233)    1    0    0
@@ -690,7 +690,7 @@
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    242    0    0
+---- NY    243    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -759,7 +759,7 @@
 ------ Olmsted(27109)    1    0    0
 ---- RI    5    0    0
 ------ Providence(44007)    5    0    0
----- CT    3    0    0
+---- CT    4    0    0
 ------ Fairfield(09001)    2    0    0
 ------ Litchfield(09005)    1    0    0
 ---- SC    10    0    0
@@ -775,7 +775,7 @@
 ------ Honolulu(15003)    2    0    0
 ---- OK    2    0    0
 ------ Tulsa(40143)    2    0    0
----- VA    11    0    0
+---- VA    15    0    0
 ------ Fairfax(51059)    4    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    1    0    0
@@ -784,7 +784,7 @@
 ------ Hanover(51085)    1    0    0
 ---- WDC    10    0    0
 ------ District of Columbia(11001)    5    0    0
----- KS    1    0    0
+---- KS    4    0    0
 ------ Johnson(20091)    1    0    0
 ---- MO    1    0    0
 ------ St Louis(29189)    1    0    0
@@ -878,6 +878,13 @@
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
 -- Malaysia    149    0    26
+-- Canada    137    1    8
+---- British Columbia    46    1    4
+---- Ontario    59    0    4
+---- Alberta    19    0    0
+---- Quebec    9    0    0
+---- Grand Princess Cruise Ship    1    0    0
+---- New Brunswick    1    0    0
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
 ---- Victoria    21    0    7
@@ -887,13 +894,6 @@
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
 -- Israel    127    0    4
--- Canada    122    1    8
----- British Columbia    46    1    4
----- Ontario    45    0    4
----- Alberta    19    0    0
----- Quebec    9    0    0
----- Grand Princess Cruise Ship    1    0    0
----- New Brunswick    1    0    0
 -- Greece    99    1    0
 -- Czechia    91    0    0
 -- Iceland    85    0    1
