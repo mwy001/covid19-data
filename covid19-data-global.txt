@@ -822,8 +822,8 @@
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
 -- Belgium    314    3    1
+-- Austria    302    0    4
 -- Qatar    262    0    0
--- Austria    246    0    4
 -- Bahrain    195    0    35
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
@@ -837,6 +837,7 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
+-- Israel    127    0    4
 -- Hong Kong    120    3    65
 ---- Hong Kong    120    3    65
 -- Canada    118    1    8
@@ -846,7 +847,6 @@
 ---- Quebec    9    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
--- Israel    109    0    4
 -- Greece    99    1    0
 -- Iceland    85    0    1
 -- United Arab Emirates    74    0    17
