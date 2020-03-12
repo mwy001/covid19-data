@@ -575,7 +575,7 @@
 ---- Rhineland-Palatinate    29    0    1
 ---- North Rhine-Westphalia    801    3    6
 ---- Hesse    48    0    0
----- Baden-Württemberg    355    0    14
+---- Baden-Württemberg    335    0    14
 ---- Saarland    14    0    0
 ---- Saxony-Anhalt    15    0    0
 -- United States of America    1329    38    15
@@ -776,7 +776,7 @@
 ---- Faroe Islands    2    0    0
 -- Switzerland    652    4    4
 -- Japan    639    17    118
----- Hokkaido    118    3    34
+---- Hokkaido    118    4    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    14    0    0
@@ -791,8 +791,8 @@
 ---- Wakayama    14    1    2
 ---- Kyoto    15    0    2
 ---- Osaka    80    0    1
----- Chiba    25    0    0
----- Kanagawa    46    3    1
+---- Chiba    27    0    0
+---- Kanagawa    48    3    1
 ---- Shizuoka    2    0    0
 ---- Aichi    104    6    2
 ---- Nara    8    0    1
