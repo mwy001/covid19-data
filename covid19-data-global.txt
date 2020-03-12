@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1364    38    15
+-- United States of America    1375    38    15
 ---- WA    373    30    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -690,7 +690,7 @@
 ------ Wake(37183)    6    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
----- NY    229    0    0
+---- NY    242    0    0
 ------ Westchester(36119)    121    0    0
 ------ New York(36061)    55    0    0
 ------ Nassau(36059)    28    0    0
@@ -793,7 +793,7 @@
 ------ Pottawattamie(19155)    1    0    0
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
----- LA    13    0    0
+---- LA    14    0    0
 ------ Jefferson(22051)    1    0    0
 ------ Orleans(22071)    5    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
