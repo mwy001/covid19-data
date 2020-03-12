@@ -593,12 +593,12 @@
 ------ Thurston(53067)    1    0    0
 ------ Island(53029)    1    0    0
 ------ Whatcom(53073)    1    0    0
----- IL    25    0    2
+---- IL    27    0    2
 ------ Cook(17031)    22    0    2
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    208    4    5
+---- CA    214    4    5
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -627,7 +627,7 @@
 ---- WI    8    0    1
 ------ Dane(55025)    2    0    1
 ------ Pierce(55093)    2    0    0
----- TX    25    0    0
+---- TX    27    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    7    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -739,7 +739,7 @@
 ---- NE    10    0    0
 ------ Douglas(31055)    4    0    0
 ------ Knox(31107)    1    0    0
----- KY    8    0    0
+---- KY    10    0    0
 ------ Fayette(21067)    2    0    0
 ------ Harrison(21097)    5    0    0
 ------ Jefferson(21111)    1    0    0
@@ -793,7 +793,7 @@
 ------ Pottawattamie(19155)    1    0    0
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
----- LA    14    0    0
+---- LA    19    0    0
 ------ Jefferson(22051)    1    0    0
 ------ Orleans(22071)    5    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
@@ -881,7 +881,7 @@
 -- Canada    142    1    8
 ---- British Columbia    46    1    4
 ---- Ontario    59    0    4
----- Alberta    20    0    0
+---- Alberta    23    0    0
 ---- Quebec    13    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
