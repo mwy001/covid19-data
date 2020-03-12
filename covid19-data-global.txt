@@ -512,7 +512,7 @@
 ---- Daejeon    20    0    2
 ---- Gangwon-do    29    1    6
 ---- Gwangju    15    0    4
----- Gyeonggi-do    178    1    27
+---- Gyeonggi-do    178    2    27
 ---- Gyeongsangbuk-do    1143    16    83
 ---- Gyeongsangnam-do    85    0    10
 ---- Incheon    25    0    4
@@ -779,7 +779,7 @@
 ---- Hokkaido    118    3    34
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    11    0    0
+---- Niigata    14    0    0
 ---- Gifu    2    0    0
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
@@ -794,13 +794,13 @@
 ---- Chiba    25    0    0
 ---- Kanagawa    46    3    1
 ---- Shizuoka    2    0    0
----- Aichi    104    5    2
+---- Aichi    104    6    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    37    1    0
+---- hyogo    41    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
