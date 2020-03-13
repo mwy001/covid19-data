@@ -532,7 +532,7 @@
 ---- Castile and León    71    0    0
 ---- Castile-La Mancha    71    0    0
 ---- Catalonia    156    3    0
----- Community of Madrid    1990    31    0
+---- Community of Madrid    2659    31    0
 ---- Comunidad Foral de Navarra    46    0    0
 ---- Extremadura    9    0    0
 ---- Galicia    39    0    0
@@ -595,12 +595,12 @@
 ------ Whatcom(53073)    1    0    0
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
------- Yakima(53077)    1    0    0
----- IL    32    0    2
------- Cook(17031)    27    0    2
+------ Yakima(53077)    2    0    0
+---- IL    46    0    2
+------ Cook(17031)    40    0    2
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
------- Lake(17097)    1    0    0
+------ Lake(17097)    2    0    0
 ---- CA    282    4    6
 ------ Los Angeles(06037)    40    1    0
 ------ San Benito(06069)    2    0    2
@@ -610,7 +610,7 @@
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    20    0    0
 ------ Sonoma(06097)    3    0    0
------- Orange(06059)    6    0    0
+------ Orange(06059)    9    0    0
 ------ Contra Costa(06013)    25    0    0
 ------ San Francisco(06075)    24    0    0
 ------ Yolo(06113)    1    0    0
@@ -721,20 +721,20 @@
 ------ Cabarrus(37025)    1    0    0
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    1    0    0
----- NY    424    0    0
+---- NY    435    0    0
 ------ Westchester(36119)    158    0    0
 ------ New York(36061)    154    0    0
------- Nassau(36059)    41    0    0
------- Rockland(36087)    7    0    0
+------ Nassau(36059)    51    0    0
+------ Rockland(36087)    9    0    0
 ------ Saratoga(36091)    3    0    0
 ------ Suffolk(36103)    28    0    0
 ------ Ulster(36111)    4    0    0
 ------ Albany(36001)    4    0    0
 ------ Delaware(36025)    1    0    0
------- Dutchess(36027)    1    0    0
+------ Dutchess(36027)    3    0    0
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    1    0    0
------- Orange(36071)    1    0    0
+------ Orange(36071)    3    0    0
 ---- NJ    50    1    0
 ------ Bergen(34003)    15    1    0
 ------ Hudson(34017)    5    0    0
@@ -796,6 +796,7 @@
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    1    0    0
 ------ Washington(42125)    1    0    0
+------ Cumberland(42041)    3    0    0
 ---- NE    13    0    0
 ------ Douglas(31055)    11    0    0
 ------ Knox(31107)    1    0    0
@@ -883,11 +884,13 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    14    0    0
+---- OH    21    0    0
 ------ Cuyahoga(39035)    6    0    0
 ------ Stark(39151)    2    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    4    0    0
+------ Belmont(39013)    2    0    0
+------ Summit(39153)    1    0    0
 ---- MI    16    0    0
 ------ Oakland(26125)    3    0    0
 ------ Wayne(26163)    2    0    0
@@ -917,7 +920,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1139    11    4
--- Norway    988    1    1
+-- Norway    995    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
