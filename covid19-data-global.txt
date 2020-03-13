@@ -577,86 +577,86 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1747    41    31
+-- United States of America    1758    41    31
 ---- WA    457    31    1
------- King(53033)    190    22    1
------- Snohomish(53061)    68    1    0
+------ King(53033)    270    27    1
+------ Snohomish(53061)    108    3    0
 ------ Grant(53025)    1    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    1    0    0
 ------ Jefferson(53031)    1    0    0
------- Pierce(53053)    14    0    0
------- Kittitas(53037)    1    0    0
+------ Pierce(53053)    17    0    0
+------ Kittitas(53037)    3    0    0
 ------ Spokane(53063)    1    0    0
 ------ Kitsap(53035)    2    0    0
------- Skagit(53057)    1    0    0
+------ Skagit(53057)    2    0    0
 ------ Thurston(53067)    1    0    0
------- Island(53029)    1    0    0
+------ Island(53029)    3    0    0
 ------ Whatcom(53073)    1    0    0
 ---- IL    32    0    2
------- Cook(17031)    22    0    2
------- Kane(17089)    1    0    0
------- McHenry(17111)    1    0    0
+------ Cook(17031)    27    0    2
+------ Kane(17089)    2    0    0
+------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
 ---- CA    241    4    6
------- Los Angeles(06037)    27    1    0
+------ Los Angeles(06037)    32    1    0
 ------ San Benito(06069)    2    0    2
------- San Diego(06073)    3    0    1
+------ San Diego(06073)    7    0    1
 ------ Humboldt(06023)    1    0    0
------- Sacramento(06067)    11    1    1
+------ Sacramento(06067)    17    1    1
 ------ Placer(06061)    7    1    0
------- San Mateo(06081)    15    0    0
+------ San Mateo(06081)    20    0    0
 ------ Sonoma(06097)    3    0    0
------- Orange(06059)    5    0    0
------- Contra Costa(06013)    12    0    0
------- San Francisco(06075)    15    0    0
+------ Orange(06059)    6    0    0
+------ Contra Costa(06013)    17    0    0
+------ San Francisco(06075)    18    0    0
 ------ Yolo(06113)    1    0    0
------- Santa Clara(06085)    48    1    1
------- Alameda(06001)    5    0    0
+------ Santa Clara(06085)    66    1    1
+------ Alameda(06001)    7    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
------- Riverside(06065)    6    0    0
+------ Riverside(06065)    8    0    0
 ------ Shasta(06089)    1    0    0
------- Solano(06095)    3    0    0
------- Santa Cruz(06087)    2    0    0
+------ Solano(06095)    6    0    0
+------ Santa Cruz(06087)    4    0    0
 ------ Napa(06055)    1    0    0
------- Ventura(06111)    1    0    0
------- Marin(06041)    1    0    0
+------ Ventura(06111)    2    0    0
+------ Marin(06041)    3    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Stanislaus(06099)    2    0    0
 ---- WI    8    0    1
------- Dane(55025)    2    0    1
+------ Dane(55025)    4    0    1
 ------ Pierce(55093)    2    0    0
----- TX    28    0    0
+---- TX    32    0    0
 ------ Bexar(48029)    1    0    0
------- Harris(48201)    7    0    0
+------ Harris(48201)    9    0    0
 ------ Fort Bend(48157)    6    0    0
------- Collin(48085)    3    0    0
+------ Collin(48085)    4    0    0
 ------ Gregg(48183)    1    0    0
------- Dallas(48113)    2    0    0
+------ Dallas(48113)    8    0    0
 ------ Tarrant(48439)    1    0    0
------- Montgomery(48339)    1    0    0
+------ Montgomery(48339)    3    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
------- Rockingham(33015)    2    0    0
+------ Rockingham(33015)    3    0    0
 ---- FL    50    3    0
 ------ Hillsborough(12057)    3    0    0
------- Sarasota(12115)    1    0    0
+------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    5    0    0
------- Lee(12071)    2    1    0
+------ Broward(12011)    12    0    0
+------ Lee(12071)    4    1    0
 ------ Manatee(12081)    2    0    0
 ------ Okaloosa(12091)    1    0    0
------- Volusia(12127)    2    0    0
+------ Volusia(12127)    3    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Collier(12021)    3    0    0
 ------ Pinellas(12103)    2    0    0
------- Alachua(12001)    1    0    0
+------ Alachua(12001)    2    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    1    0    0
 ---- OR    24    0    0
 ------ Umatilla(41059)    2    0    0
------- Washington(41067)    8    0    0
+------ Washington(41067)    10    0    0
 ------ Jackson(41029)    2    0    0
 ------ Klamath(41035)    1    0    0
 ------ Douglas(41019)    1    0    0
@@ -664,87 +664,87 @@
 ------ Multnomah(41051)    1    0    0
 ------ Polk(41053)    1    0    0
 ------ Deschutes(41017)    1    0    0
----- GA    33    1    0
+---- GA    38    1    0
 ------ Fulton(13121)    7    0    0
------- Cobb(13067)    7    0    0
+------ Cobb(13067)    8    0    0
 ------ Polk(13233)    1    0    0
 ------ Cherokee(13057)    1    0    0
 ------ Gwinnett(13135)    2    0    0
------- DeKalb(13089)    2    0    0
------- Floyd(21071)    1    0    0
------- Fayette(13113)    1    0    0
+------ DeKalb(13089)    4    0    0
+------ Floyd(21071)    2    0    0
+------ Fayette(13113)    2    0    0
 ------ Charlton(13049)    1    0    0
 ---- MA    108    0    1
------- Norfolk(25021)    22    0    0
------- Suffolk(25025)    20    0    1
------- Middlesex(25017)    41    0    0
+------ Norfolk(25021)    24    0    0
+------ Suffolk(25025)    22    0    1
+------ Middlesex(25017)    49    0    0
 ------ Plymouth(25023)    1    0    0
------- Berkshire(25003)    7    0    0
+------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    1    0    0
------- Essex(25009)    1    0    0
+------ Essex(25009)    2    0    0
 ---- AZ    9    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    1    0    0
 ---- NC    17    0    0
------- Wake(37183)    6    0    0
+------ Wake(37183)    8    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ---- NY    365    0    0
------- Westchester(36119)    121    0    0
------- New York(36061)    55    0    0
------- Nassau(36059)    28    0    0
------- Rockland(36087)    6    0    0
------- Saratoga(36091)    2    0    0
------- Suffolk(36103)    6    0    0
------- Ulster(36111)    2    0    0
+------ Westchester(36119)    148    0    0
+------ New York(36061)    95    0    0
+------ Nassau(36059)    41    0    0
+------ Rockland(36087)    7    0    0
+------ Saratoga(36091)    3    0    0
+------ Suffolk(36103)    20    0    0
+------ Ulster(36111)    4    0    0
 ---- NJ    31    1    0
------- Bergen(34003)    11    1    0
+------ Bergen(34003)    13    1    0
 ------ Hudson(34017)    1    0    0
------- Monmouth(34025)    4    0    0
+------ Monmouth(34025)    5    0    0
 ------ Burlington(34005)    2    0    0
 ------ Camden(34007)    1    0    0
 ------ Passaic(34031)    1    0    0
 ------ Union(34039)    1    0    0
------- Middlesex(34023)    2    0    0
+------ Middlesex(34023)    4    0    0
 ---- NV    14    0    0
------- Clark(32003)    5    0    0
+------ Clark(32003)    8    0    0
 ------ Washoe(32031)    2    0    0
 ---- TN    18    0    0
------- Williamson(47187)    5    0    0
------- Davidson(47037)    2    0    0
------- Shelby(47157)    1    0    0
+------ Williamson(47187)    8    0    0
+------ Davidson(47037)    6    0    0
+------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ---- MD    12    0    0
------- Montgomery(24031)    5    0    0
+------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
------- Prince George's(24033)    3    0    0
+------ Prince George's(24033)    4    0    0
 ---- CO    50    0    0
------- Denver(08031)    6    0    0
+------ Denver(08031)    10    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
 ------ El Paso(08041)    1    0    0
------- Eagle(08037)    4    0    0
+------ Eagle(08037)    11    0    0
 ------ Larimer(08069)    2    0    0
 ------ Arapahoe(08005)    3    0    0
 ------ Gunnison(08051)    5    0    0
------- Jefferson(08059)    3    0    0
+------ Jefferson(08059)    4    0    0
 ---- PA    22    0    0
 ------ Delaware(42045)    1    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    9    0    0
+------ Montgomery(42091)    13    0    0
 ------ Monroe(42089)    2    0    0
 ------ Philadelphia(42101)    1    0    0
------- Bucks(42017)    1    0    0
+------ Bucks(42017)    2    0    0
 ---- NE    11    0    0
------- Douglas(31055)    4    0    0
+------ Douglas(31055)    9    0    0
 ------ Knox(31107)    1    0    0
 ---- KY    11    0    0
------- Fayette(21067)    2    0    0
+------ Fayette(21067)    3    0    0
 ------ Harrison(21097)    5    0    0
------- Jefferson(21111)    1    0    0
+------ Jefferson(21111)    2    0    0
 ---- IN    13    0    0
------- Marion(18097)    1    0    0
+------ Marion(18097)    2    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
 ------ Adams(42001)    1    0    0
@@ -753,14 +753,14 @@
 ------ Howard(18067)    1    0    0
 ------ St Joseph(18141)    1    0    0
 ---- MN    9    0    0
------- Ramsey(27123)    2    0    0
+------ Ramsey(27123)    3    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    1    0    0
 ------ Olmsted(27109)    1    0    0
 ---- RI    5    0    0
 ------ Providence(44007)    5    0    0
 ---- CT    5    0    0
------- Fairfield(09001)    2    0    0
+------ Fairfield(09001)    4    0    0
 ------ Litchfield(09005)    1    0    0
 ---- SC    12    0    0
 ------ Charleston(45019)    1    0    0
@@ -776,24 +776,24 @@
 ---- OK    3    0    1
 ------ Tulsa(40143)    2    0    0
 ---- VA    18    0    0
------- Fairfax(51059)    4    0    0
+------ Fairfax(51059)    5    0    0
 ------ Norfolk City(51710)    2    0    0
------- Arlington(51013)    1    0    0
+------ Arlington(51013)    2    0    0
 ------ Spotsylvania(51177)    1    0    0
------- Loudoun(51107)    1    0    0
+------ Loudoun(51107)    2    0    0
 ------ Hanover(51085)    1    0    0
 ---- KS    5    1    0
------- Johnson(20091)    1    0    0
+------ Johnson(20091)    4    0    0
 ---- MO    2    0    0
 ------ St Louis(29189)    1    0    0
 ---- IA    16    0    0
------- Johnson(19103)    12    0    0
+------ Johnson(19103)    14    0    0
 ------ Pottawattamie(19155)    1    0    0
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ---- LA    19    0    0
------- Jefferson(22051)    1    0    0
------- Orleans(22071)    5    0    0
+------ Jefferson(22051)    2    0    0
+------ Orleans(22071)    14    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    8    1    0
@@ -807,15 +807,15 @@
 ------ Cuyahoga(39035)    3    0    0
 ------ Stark(39151)    1    0    0
 ---- MI    12    0    0
------- Oakland(26125)    1    0    0
+------ Oakland(26125)    3    0    0
 ------ Wayne(26163)    1    0    0
 ---- NM    6    0    0
 ------ Socorro(35053)    2    0    0
------- Bernalillo(35001)    1    0    0
+------ Bernalillo(35001)    2    0    0
 ---- AR    6    0    0
 ---- MT    1    0    0
 ---- DE    4    0    0
------- New Castle(10003)    1    0    0
+------ New Castle(10003)    4    0    0
 ---- MS    1    0    0
 ---- WY    1    0    0
 ---- ND    1    0    0
