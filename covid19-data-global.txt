@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1776    41    31
+-- United States of America    1792    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -845,7 +845,7 @@
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ------ Chittenden(50007)    1    0    0
----- LA    19    0    0
+---- LA    33    0    0
 ------ Jefferson(22051)    2    0    0
 ------ Orleans(22071)    14    0    0
 ------ Iberia(22045)    1    0    0
@@ -884,7 +884,7 @@
 ------ Sheridan(56033)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    1    0    0
+---- ME    3    0    0
 ------ Androscoggin(23001)    1    0    0
 ---- AK    1    0    0
 ---- DC    10    0    0
@@ -892,7 +892,7 @@
 -- Switzerland    1135    8    4
 -- Norway    895    1    1
 -- Netherlands    804    10    2
--- Sweden    800    1    1
+-- Sweden    801    1    1
 -- Denmark    788    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
@@ -965,5 +965,6 @@
 -- Malaysia    158    0    32
 -- Israel    157    0    4
 -- Finland    155    0    1
+-- Brazil    151    0    0
 -- Slovenia    141    0    0
 -- Greece    134    1    2
