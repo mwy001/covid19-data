@@ -557,7 +557,7 @@
 ---- Baden-Württemberg    454    2    14
 ---- Saxony-Anhalt    33    0    0
 ---- Saarland    29    0    0
--- France    3661    79    12
+-- France    3667    79    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
@@ -702,11 +702,11 @@
 ------ Coweta(13077)    1    0    0
 ---- MA    123    0    1
 ------ Norfolk(25021)    24    0    0
------- Suffolk(25025)    22    0    1
------- Middlesex(25017)    49    0    0
+------ Suffolk(25025)    26    0    1
+------ Middlesex(25017)    60    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    9    0    0
------- Worcester(25027)    1    0    0
+------ Worcester(25027)    2    0    0
 ------ Essex(25009)    2    0    0
 ---- AZ    9    0    1
 ------ Maricopa(04013)    3    0    1
@@ -721,6 +721,8 @@
 ------ Cabarrus(37025)    1    0    0
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    1    0    0
+------ Onslow(37133)    1    0    0
+------ Wayne(37191)    1    0    0
 ---- NY    435    0    0
 ------ Westchester(36119)    158    0    0
 ------ New York(36061)    154    0    0
@@ -728,13 +730,15 @@
 ------ Rockland(36087)    9    0    0
 ------ Saratoga(36091)    3    0    0
 ------ Suffolk(36103)    28    0    0
------- Ulster(36111)    4    0    0
+------ Ulster(36111)    5    0    0
 ------ Albany(36001)    4    0    0
 ------ Delaware(36025)    1    0    0
 ------ Dutchess(36027)    3    0    0
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    1    0    0
 ------ Orange(36071)    3    0    0
+------ Broome(36007)    1    0    0
+------ Schenectady(36093)    1    0    0
 ---- NJ    50    1    0
 ------ Bergen(34003)    15    1    0
 ------ Hudson(34017)    5    0    0
@@ -801,7 +805,7 @@
 ------ Douglas(31055)    11    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    12    0    0
+---- KY    14    0    0
 ------ Fayette(21067)    3    0    0
 ------ Harrison(21097)    5    0    0
 ------ Jefferson(21111)    2    0    0
@@ -836,10 +840,11 @@
 ------ Kershaw(45055)    5    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    1    0    0
----- UT    7    0    0
+---- UT    10    0    0
 ------ Davis(49011)    1    0    0
 ------ Weber(49057)    1    0    0
------- Summit(49043)    3    0    0
+------ Summit(49043)    5    0    0
+------ Salt Lake(49035)    2    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
 ---- OK    3    0    1
@@ -862,10 +867,11 @@
 ---- MO    2    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    1    0    0
----- IA    16    0    0
+---- IA    17    0    0
 ------ Johnson(19103)    14    0    0
 ------ Pottawattamie(19155)    1    0    0
 ------ Carroll(19027)    1    0    0
+------ Harrison(19085)    1    0    0
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ------ Chittenden(50007)    1    0    0
@@ -917,8 +923,10 @@
 ---- AK    1    0    0
 ---- DC    10    0    0
 ---- Others    3    0    22
----- AL    1    0    0
+---- AL    5    0    0
 ------ Montgomery(01101)    1    0    0
+------ Jefferson(01073)    1    0    0
+---- ID    1    0    0
 -- Switzerland    1139    11    4
 -- Norway    995    1    1
 -- Sweden    814    1    1
@@ -984,9 +992,7 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
--- Malaysia    197    0    32
--- Greece    190    1    2
--- Canada    179    1    11
+-- Canada    197    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
@@ -995,6 +1001,8 @@
 ---- New Brunswick    1    0    0
 ---- Manitoba    3    0    0
 ---- Saskatchewan    1    0    0
+-- Malaysia    197    0    32
+-- Greece    190    1    2
 -- Israel    157    0    4
 -- Finland    155    0    1
 -- Brazil    151    0    0
