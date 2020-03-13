@@ -540,7 +540,7 @@
 ---- Región de Murcia    11    0    0
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
--- Germany    3481    8    46
+-- Germany    3675    8    46
 ---- Saxony    51    0    0
 ---- Mecklenburg-Vorpommern    23    0    0
 ---- Free State of Bavaria    500    1    14
@@ -557,7 +557,7 @@
 ---- Baden-Württemberg    454    2    14
 ---- Saxony-Anhalt    33    0    0
 ---- Saarland    29    0    0
--- France    2882    61    12
+-- France    3661    79    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1992    41    31
+-- United States of America    2018    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -717,8 +717,8 @@
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    1    0    0
 ---- NY    424    0    0
------- Westchester(36119)    148    0    0
------- New York(36061)    95    0    0
+------ Westchester(36119)    158    0    0
+------ New York(36061)    154    0    0
 ------ Nassau(36059)    41    0    0
 ------ Rockland(36087)    7    0    0
 ------ Saratoga(36091)    3    0    0
@@ -780,6 +780,7 @@
 ------ Bucks(42017)    2    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
+------ Chester(42029)    1    0    0
 ---- NE    13    0    0
 ------ Douglas(31055)    11    0    0
 ------ Knox(31107)    1    0    0
@@ -819,10 +820,10 @@
 ------ Kershaw(45055)    4    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    1    0    0
----- UT    5    0    0
+---- UT    7    0    0
 ------ Davis(49011)    1    0    0
 ------ Weber(49057)    1    0    0
------- Summit(49043)    1    0    0
+------ Summit(49043)    3    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
 ---- OK    3    0    1
@@ -900,7 +901,7 @@
 ---- Others    3    0    22
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
--- Switzerland    1137    9    4
+-- Switzerland    1138    10    4
 -- Norway    933    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
@@ -980,3 +981,5 @@
 -- Finland    155    0    1
 -- Brazil    151    0    0
 -- Slovenia    141    0    0
+-- Czechia    141    0    0
+-- Iceland    134    0    1
