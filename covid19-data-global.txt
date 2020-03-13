@@ -577,8 +577,8 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    2084    41    31
----- WA    459    31    1
+-- United States of America    2207    48    31
+---- WA    568    37    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
 ------ Grant(53025)    1    1    0
@@ -599,7 +599,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
----- CA    276    4    6
+---- CA    282    4    6
 ------ Los Angeles(06037)    40    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    7    0    1
@@ -625,7 +625,7 @@
 ------ Marin(06041)    3    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Stanislaus(06099)    2    0    0
------- San Joaquin(06077)    3    0    0
+------ San Joaquin(06077)    9    0    0
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    1    0    0
 ---- WI    19    0    1
@@ -633,10 +633,10 @@
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    2    0    0
 ------ Waukesha(55133)    1    0    0
----- TX    40    0    0
+---- TX    43    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
------- Fort Bend(48157)    6    0    0
+------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    5    0    0
 ------ Gregg(48183)    1    0    0
 ------ Dallas(48113)    8    0    0
@@ -763,11 +763,12 @@
 ------ Baltimore(24005)    2    0    0
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    1    0    0
----- CO    72    0    0
+------ Carroll(24013)    1    0    0
+---- CO    74    1    0
 ------ Denver(08031)    13    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
------- El Paso(08041)    2    0    0
+------ El Paso(08041)    2    1    0
 ------ Eagle(08037)    15    0    0
 ------ Larimer(08069)    2    0    0
 ------ Arapahoe(08005)    7    0    0
@@ -778,14 +779,14 @@
 ------ Boulder(08013)    1    0    0
 ------ Weld(08123)    2    0    0
 ------ Pueblo(08101)    1    0    0
------- Routt(08107)    1    0    0
----- PA    33    0    0
+------ Routt(08107)    3    0    0
+---- PA    38    0    0
 ------ Delaware(42045)    5    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    17    0    0
+------ Montgomery(42091)    18    0    0
 ------ Monroe(42089)    3    0    0
 ------ Philadelphia(42101)    3    0    0
------- Bucks(42017)    2    0    0
+------ Bucks(42017)    3    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    1    0    0
@@ -820,9 +821,9 @@
 ------ Wright(27171)    1    0    0
 ---- RI    14    0    0
 ------ Providence(44007)    5    0    0
----- CT    6    0    0
------- Fairfield(09001)    5    0    0
------- Litchfield(09005)    1    0    0
+---- CT    11    0    0
+------ Fairfield(09001)    8    0    0
+------ Litchfield(09005)    3    0    0
 ---- SC    12    0    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -863,7 +864,7 @@
 ------ Chittenden(50007)    1    0    0
 ---- LA    44    0    0
 ------ Jefferson(22051)    2    0    0
------- Orleans(22071)    23    0    0
+------ Orleans(22071)    26    0    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
@@ -910,7 +911,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1139    11    4
--- Norway    969    1    1
+-- Norway    977    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
@@ -962,7 +963,7 @@
 ---- Scotland    60    10    0
 -- Belgium    559    3    1
 -- Austria    504    1    6
--- Qatar    262    0    0
+-- Qatar    320    0    0
 -- Bahrain    210    0    44
 -- Singapore    200    0    97
 ---- Central Singapore Community Development Council    200    0    97
@@ -976,7 +977,7 @@
 ---- Northern Territory    1    0    0
 -- Malaysia    197    0    32
 -- Greece    190    1    2
--- Canada    178    1    11
+-- Canada    179    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
