@@ -71,10 +71,10 @@
 ------ Quzhou    14    0    14
 ------ Zhoushan    10    0    10
 ---- Hunan    2036    8    1985
------- Changsha    242    2    232
+------ Changsha    242    2    236
 ------ Zhuzhou    80    0    78
 ------ Yueyang    156    1    153
------- Loudi    76    0    74
+------ Loudi    76    0    75
 ------ Shaoyang    102    1    100
 ------ Changde    82    0    82
 ------ Yiyang    60    0    60
@@ -116,7 +116,7 @@
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
 ---- Shandong    1518    12    1445
------- Jining    260    0    248
+------ Jining    260    0    253
 ------ Weihai    38    0    37
 ------ Dezhou    37    2    33
 ------ Qingdao    61    1    59
@@ -132,7 +132,7 @@
 ------ Rizhao    16    0    16
 ------ Binzhou    15    0    15
 ---- Jiangsu    1262    0    1254
------- Wuxi    55    0    53
+------ Wuxi    55    0    54
 ------ Xuzhou    79    0    79
 ------ Nanjing    93    0    93
 ------ Suzhou    87    0    87
@@ -147,15 +147,15 @@
 ------ Zhenjiang    12    0    12
 ---- Chongqing    1152    12    1101
 ------ Changshou District    22    0    19
------- Qijiang District    23    0    21
------- Jiulongpo District    21    1    18
------- Fengdu County    10    0    8
------- Jiangbei District    28    0    27
------- Tongnan District    18    0    17
------- Nan'an District    15    0    14
+------ Qijiang District    23    0    22
+------ Jiulongpo District    21    1    20
+------ Fengdu County    10    0    10
+------ Jiangbei District    28    0    28
+------ Tongnan District    18    0    18
+------ Nan'an District    15    0    15
 ------ Dazu District    14    0    13
------- Tongliang District    10    0    9
------- Shapingba District    9    0    8
+------ Tongliang District    10    0    10
+------ Shapingba District    9    0    9
 ------ Rongchang District    9    0    8
 ------ Wanzhou District    118    4    114
 ------ Yunyang County    25    0    25
@@ -186,7 +186,7 @@
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
 ---- Sichuan    1078    6    966
------- Chengdu    144    3    113
+------ Chengdu    144    3    115
 ------ Garzê Tibetan Autonomous Prefecture    78    0    76
 ------ Bazhong    24    0    21
 ------ Guang'an    30    0    29
@@ -208,8 +208,8 @@
 ------ Leshan    3    0    3
 ------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
 ---- Heilongjiang    963    26    870
------- Harbin    198    4    182
------- Suihua    47    4    40
+------ Harbin    198    4    186
+------ Suihua    47    4    41
 ------ Shuangyashan    52    3    47
 ------ Jixi    46    0    45
 ------ Qiqihar    43    1    40
@@ -257,7 +257,7 @@
 ------ Jinshan District    4    0    4
 ------ Chongming District    4    0    4
 ---- Hebei    318    6    308
------- Zhangjiakou    41    0    39
+------ Zhangjiakou    41    0    41
 ------ Tangshan    58    1    55
 ------ Cangzhou    48    3    45
 ------ Baoding    32    0    32
@@ -279,11 +279,11 @@
 ------ Sanming    14    0    14
 ------ Longyan    6    0    6
 ---- Guangxi    504    4    472
------- Fangchenggang    19    0    16
+------ Fangchenggang    19    0    17
 ------ Laibin    11    0    9
 ------ Nanning    55    0    54
 ------ Beihai    44    1    42
------- Hechi    28    1    26
+------ Hechi    28    1    27
 ------ Liuzhou    24    0    23
 ------ Guilin    32    0    32
 ------ Yulin    11    0    11
@@ -337,8 +337,8 @@
 ------ Ledong Li Autonomous County    2    0    2
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Guizhou    292    4    262
------- Guiyang    36    1    32
------- Bijie    23    0    21
+------ Guiyang    36    1    33
+------ Bijie    23    0    23
 ------ Zunyi    32    0    31
 ------ Liupanshui    10    1    8
 ------ Qiannan    17    0    17
@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1716    41    30
+-- United States of America    1725    41    30
 ---- WA    457    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
