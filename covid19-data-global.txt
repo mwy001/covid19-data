@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    2018    41    31
+-- United States of America    2030    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -628,8 +628,8 @@
 ------ San Joaquin(06077)    3    0    0
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    1    0    0
----- WI    8    0    1
------- Dane(55025)    4    0    1
+---- WI    19    0    1
+------ Dane(55025)    5    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    2    0    0
 ------ Waukesha(55133)    1    0    0
@@ -722,7 +722,7 @@
 ------ Nassau(36059)    41    0    0
 ------ Rockland(36087)    7    0    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    21    0    0
+------ Suffolk(36103)    28    0    0
 ------ Ulster(36111)    4    0    0
 ------ Albany(36001)    4    0    0
 ------ Delaware(36025)    1    0    0
@@ -730,7 +730,7 @@
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    1    0    0
 ------ Orange(36071)    1    0    0
----- NJ    32    1    0
+---- NJ    50    1    0
 ------ Bergen(34003)    13    1    0
 ------ Hudson(34017)    2    0    0
 ------ Monmouth(34025)    5    0    0
@@ -745,12 +745,15 @@
 ---- NV    14    0    0
 ------ Clark(32003)    8    0    0
 ------ Washoe(32031)    2    0    0
----- TN    18    0    0
+---- TN    26    0    0
 ------ Williamson(47187)    8    0    0
------- Davidson(47037)    6    0    0
+------ Davidson(47037)    10    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    1    0    0
+------ Hamilton(47065)    1    0    0
+------ Jefferson(47089)    1    0    0
+------ Rutherford(47149)    1    0    0
 ---- MD    17    0    0
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
@@ -812,8 +815,8 @@
 ------ Wright(27171)    1    0    0
 ---- RI    14    0    0
 ------ Providence(44007)    5    0    0
----- CT    5    0    0
------- Fairfield(09001)    4    0    0
+---- CT    6    0    0
+------ Fairfield(09001)    5    0    0
 ------ Litchfield(09005)    1    0    0
 ---- SC    12    0    0
 ------ Charleston(45019)    1    0    0
@@ -884,7 +887,7 @@
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    5    0    0
 ------ Santa Fe(35049)    3    0    0
----- AR    6    0    0
+---- AR    9    0    0
 ---- MT    1    0    0
 ---- DE    4    0    0
 ------ New Castle(10003)    4    0    0
@@ -901,8 +904,8 @@
 ---- Others    3    0    22
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
--- Switzerland    1138    10    4
--- Norway    933    1    1
+-- Switzerland    1139    11    4
+-- Norway    939    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
