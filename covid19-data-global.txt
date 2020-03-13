@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1758    41    31
+-- United States of America    1762    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -598,7 +598,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
----- CA    241    4    6
+---- CA    242    4    6
 ------ Los Angeles(06037)    32    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    7    0    1
@@ -609,7 +609,7 @@
 ------ Sonoma(06097)    3    0    0
 ------ Orange(06059)    6    0    0
 ------ Contra Costa(06013)    17    0    0
------- San Francisco(06075)    18    0    0
+------ San Francisco(06075)    19    0    0
 ------ Yolo(06113)    1    0    0
 ------ Santa Clara(06085)    66    1    1
 ------ Alameda(06001)    7    0    0
@@ -639,11 +639,11 @@
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
----- FL    50    3    0
+---- FL    54    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    12    0    0
+------ Broward(12011)    15    0    0
 ------ Lee(12071)    4    1    0
 ------ Manatee(12081)    2    0    0
 ------ Okaloosa(12091)    1    0    0
