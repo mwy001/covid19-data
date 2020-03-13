@@ -450,7 +450,7 @@
 ---- Macau    10    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
--- Italy    15113    1016    1258
+-- Italy    17660    1266    1439
 ---- Abruzzo    84    2    4
 ---- Aosta Valley    27    1    0
 ---- Apulia    104    5    1
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1840    41    31
+-- United States of America    1873    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -758,7 +758,7 @@
 ------ Baltimore(24005)    2    0    0
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    1    0    0
----- CO    50    0    0
+---- CO    72    0    0
 ------ Denver(08031)    10    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
@@ -771,12 +771,12 @@
 ------ Pitkin(08097)    10    0    0
 ------ Adams(08001)    2    0    0
 ------ Boulder(08013)    1    0    0
----- PA    30    0    0
+---- PA    33    0    0
 ------ Delaware(42045)    5    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    17    0    0
------- Monroe(42089)    2    0    0
------- Philadelphia(42101)    1    0    0
+------ Monroe(42089)    3    0    0
+------ Philadelphia(42101)    3    0    0
 ------ Bucks(42017)    2    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
@@ -798,7 +798,7 @@
 ------ Howard(18067)    1    0    0
 ------ St Joseph(18141)    1    0    0
 ------ Hancock(18059)    1    0    0
----- MN    9    0    0
+---- MN    14    0    0
 ------ Ramsey(27123)    3    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    1    0    0
@@ -856,17 +856,19 @@
 ------ Caddo(22017)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
----- SD    8    1    0
+---- SD    9    1    0
 ------ Pennington(46103)    1    1    0
 ------ Beadle(46005)    1    0    0
 ------ Charles Mix(46023)    1    0    0
 ------ Davison(46035)    1    0    0
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
+------ McCook(46087)    1    0    0
 ---- OH    14    0    0
 ------ Cuyahoga(39035)    3    0    0
 ------ Stark(39151)    2    0    0
 ------ Trumbull(39155)    2    0    0
+------ Butler(39017)    4    0    0
 ---- MI    12    0    0
 ------ Oakland(26125)    3    0    0
 ------ Wayne(26163)    1    0    0
@@ -874,16 +876,16 @@
 ------ Washtenaw(26161)    2    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
----- NM    6    0    0
+---- NM    10    0    0
 ------ Socorro(35053)    2    0    0
------- Bernalillo(35001)    2    0    0
------- Santa Fe(35049)    2    0    0
+------ Bernalillo(35001)    5    0    0
+------ Santa Fe(35049)    3    0    0
 ---- AR    6    0    0
 ---- MT    1    0    0
 ---- DE    4    0    0
 ------ New Castle(10003)    4    0    0
----- MS    1    0    0
------- Forrest(28035)    1    0    0
+---- MS    3    0    0
+------ Forrest(28035)    3    0    0
 ---- WY    1    0    0
 ------ Sheridan(56033)    1    0    0
 ---- ND    1    0    0
@@ -896,7 +898,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1137    9    4
--- Norway    911    1    1
+-- Norway    930    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
