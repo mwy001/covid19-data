@@ -73,7 +73,7 @@
 ---- Hunan    1018    4    999
 ------ Changsha    242    2    236
 ------ Yueyang    156    1    153
------- Zhuzhou    80    0    78
+------ Zhuzhou    80    0    79
 ------ Shaoyang    102    1    100
 ------ Loudi    76    0    75
 ------ Changde    82    0    82
@@ -189,8 +189,8 @@
 ------ Chengdu    144    3    115
 ------ Bazhong    24    0    21
 ------ Garzê Tibetan Autonomous Prefecture    78    0    76
------- Mianyang    22    0    20
------- Dazhou    42    0    41
+------ Mianyang    22    0    22
+------ Dazhou    42    0    42
 ------ Guang'an    30    0    29
 ------ Meishan    8    0    7
 ------ Nanchong    39    0    39
@@ -239,8 +239,8 @@
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
 ---- Shanghai    344    3    321
------- People from other cities    111    1    104
------- Pudong District    61    0    58
+------ People from other cities    111    1    106
+------ Pudong District    61    0    59
 ------ Baoshan District    21    0    19
 ------ Jiading District    9    0    7
 ------ Xuhui District    18    0    17
@@ -363,7 +363,7 @@
 ------ Hongqiao District    2    0    2
 ------ Jinnan District    2    0    2
 ---- Shanxi    133    0    132
------- Jinzhong    37    0    36
+------ Jinzhong    37    0    37
 ------ Taiyuan    20    0    20
 ------ Yuncheng    19    0    19
 ------ Datong    12    0    12
