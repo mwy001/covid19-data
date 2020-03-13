@@ -504,7 +504,7 @@
 ---- North Khorasan    45    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    21    0    0
--- Korea, Republic of    7869    66    333
+-- Korea, Republic of    7979    66    510
 ---- Busan    100    0    36
 ---- Chungcheongbuk-do    27    0    4
 ---- Chungcheongnam-do    115    0    7
@@ -540,7 +540,7 @@
 ---- Región de Murcia    11    0    0
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
--- Germany    3117    7    46
+-- Germany    3156    7    46
 ---- Saxony    51    0    0
 ---- Mecklenburg-Vorpommern    23    0    0
 ---- Free State of Bavaria    500    1    14
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1803    41    31
+-- United States of America    1804    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -664,7 +664,7 @@
 ------ Palm Beach(12099)    2    0    0
 ------ Clay(12019)    1    0    0
 ------ Duval(12031)    1    0    0
------- Miami-Dade(12086)    1    0    0
+------ Miami-Dade(12086)    2    0    0
 ------ Seminole(12117)    1    0    0
 ---- OR    30    0    0
 ------ Umatilla(41059)    2    0    0
@@ -823,7 +823,7 @@
 ---- OK    3    0    1
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
----- VA    18    0    0
+---- VA    29    0    0
 ------ Fairfax(51059)    5    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    2    0    0
@@ -847,7 +847,7 @@
 ------ Chittenden(50007)    1    0    0
 ---- LA    44    0    0
 ------ Jefferson(22051)    2    0    0
------- Orleans(22071)    21    0    0
+------ Orleans(22071)    23    0    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
@@ -889,10 +889,12 @@
 ---- AK    1    0    0
 ---- DC    10    0    0
 ---- Others    3    0    22
+---- AL    1    0    0
+------ Montgomery(01101)    1    0    0
 -- Switzerland    1135    8    4
--- Norway    897    1    1
+-- Norway    905    1    1
+-- Sweden    810    1    1
 -- Netherlands    804    10    2
--- Sweden    801    1    1
 -- Denmark    788    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
