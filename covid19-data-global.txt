@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1731    41    31
+-- United States of America    1747    41    31
 ---- WA    457    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -639,7 +639,7 @@
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    2    0    0
----- FL    35    3    0
+---- FL    50    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -736,7 +736,7 @@
 ------ Monroe(42089)    2    0    0
 ------ Philadelphia(42101)    1    0    0
 ------ Bucks(42017)    1    0    0
----- NE    10    0    0
+---- NE    11    0    0
 ------ Douglas(31055)    4    0    0
 ------ Knox(31107)    1    0    0
 ---- KY    11    0    0
@@ -773,7 +773,7 @@
 ------ Summit(49043)    1    0    0
 ---- HI    2    0    0
 ------ Honolulu(15003)    2    0    0
----- OK    3    0    0
+---- OK    3    0    1
 ------ Tulsa(40143)    2    0    0
 ---- VA    18    0    0
 ------ Fairfax(51059)    4    0    0
@@ -782,8 +782,6 @@
 ------ Spotsylvania(51177)    1    0    0
 ------ Loudoun(51107)    1    0    0
 ------ Hanover(51085)    1    0    0
----- WDC    10    0    0
------- District of Columbia(11001)    5    0    0
 ---- KS    5    1    0
 ------ Johnson(20091)    1    0    0
 ---- MO    2    0    0
@@ -823,6 +821,8 @@
 ---- ND    1    0    0
 ---- ME    1    0    0
 ---- AK    1    0    0
+---- DC    10    0    0
+---- Others    3    0    22
 -- Norway    702    0    1
 -- Switzerland    652    4    4
 -- Japan    639    16    118
