@@ -522,7 +522,7 @@
 ---- Sejong    32    0    0
 ---- Seoul    225    0    40
 ---- Ulsan    27    0    3
--- Spain    3921    90    189
+-- Spain    3958    91    189
 ---- Andalusia    90    0    0
 ---- Aragon    45    4    0
 ---- Balearic Islands    16    0    1
@@ -540,19 +540,19 @@
 ---- Región de Murcia    11    0    0
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
--- Germany    3116    6    46
----- Saxony    49    0    0
+-- Germany    3117    7    46
+---- Saxony    51    0    0
 ---- Mecklenburg-Vorpommern    23    0    0
 ---- Free State of Bavaria    500    1    14
----- Berlin    137    0    0
+---- Berlin    158    0    0
 ---- Brandenburg    31    0    0
----- Thuringia    18    0    0
+---- Thuringia    23    0    0
 ---- Schleswig-Holstein    31    0    0
----- Lower Saxony    129    0    1
+---- Lower Saxony    173    0    1
 ---- Bremen    42    0    1
 ---- Hamburg    88    0    0
 ---- Rhineland-Palatinate    52    0    1
----- North Rhine-Westphalia    1041    4    6
+---- North Rhine-Westphalia    1278    4    27
 ---- Hesse    99    0    0
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1765    41    31
+-- United States of America    1774    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -599,7 +599,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
----- CA    243    4    6
+---- CA    246    4    6
 ------ Los Angeles(06037)    32    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    7    0    1
@@ -619,7 +619,7 @@
 ------ Riverside(06065)    8    0    0
 ------ Shasta(06089)    1    0    0
 ------ Solano(06095)    6    0    0
------- Santa Cruz(06087)    4    0    0
+------ Santa Cruz(06087)    7    0    0
 ------ Napa(06055)    1    0    0
 ------ Ventura(06111)    2    0    0
 ------ Marin(06041)    3    0    0
@@ -642,6 +642,7 @@
 ------ Dallas(48113)    8    0    0
 ------ Tarrant(48439)    1    0    0
 ------ Montgomery(48339)    3    0    0
+------ Travis(48453)    2    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
@@ -665,7 +666,7 @@
 ------ Duval(12031)    1    0    0
 ------ Miami-Dade(12086)    1    0    0
 ------ Seminole(12117)    1    0    0
----- OR    24    0    0
+---- OR    30    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    10    0    0
 ------ Jackson(41029)    2    0    0
@@ -675,7 +676,7 @@
 ------ Multnomah(41051)    1    0    0
 ------ Polk(41053)    1    0    0
 ------ Deschutes(41017)    1    0    0
------- Linn(41043)    2    0    0
+------ Linn(41043)    8    0    0
 ------ Clackamas(41005)    1    0    0
 ---- GA    42    1    0
 ------ Fulton(13121)    8    0    0
@@ -720,7 +721,7 @@
 ------ Nassau(36059)    41    0    0
 ------ Rockland(36087)    7    0    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    20    0    0
+------ Suffolk(36103)    21    0    0
 ------ Ulster(36111)    4    0    0
 ------ Albany(36001)    2    0    0
 ------ Delaware(36025)    1    0    0
@@ -889,13 +890,13 @@
 ---- DC    10    0    0
 ---- Others    3    0    22
 -- Switzerland    1135    8    4
--- Norway    876    1    1
+-- Norway    878    1    1
 -- Denmark    785    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
--- Sweden    727    1    1
+-- Sweden    730    1    1
 -- Japan    701    19    118
----- Hokkaido    133    4    53
+---- Hokkaido    136    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    14    0    0
@@ -906,12 +907,12 @@
 ---- Saitama    21    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    75    2    0
+---- Tokyo    77    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    17    0    2
 ---- Osaka    89    0    1
 ---- Chiba    29    0    0
----- Kanagawa    49    3    1
+---- Kanagawa    50    3    1
 ---- Shizuoka    3    0    0
 ---- Aichi    111    8    2
 ---- Nara    8    0    1
@@ -936,9 +937,9 @@
 ---- Gibraltar    1    0    1
 ---- England    491    10    0
 ---- Northern Ireland    20    0    0
----- Wales    25    0    0
+---- Wales    38    0    0
 ---- Scotland    60    10    0
--- Austria    428    1    4
+-- Austria    428    1    6
 -- Belgium    399    3    1
 -- Qatar    262    0    0
 -- Bahrain    210    0    44
