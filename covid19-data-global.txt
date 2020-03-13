@@ -505,23 +505,23 @@
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    21    0    0
 -- Korea, Republic of    7869    66    333
----- Busan    99    0    29
+---- Busan    100    0    36
 ---- Chungcheongbuk-do    27    0    4
----- Chungcheongnam-do    114    0    5
----- Daegu    5867    48    114
----- Daejeon    20    0    2
+---- Chungcheongnam-do    115    0    7
+---- Daegu    5928    48    251
+---- Daejeon    22    0    4
 ---- Gangwon-do    29    1    6
 ---- Gwangju    15    0    4
----- Gyeonggi-do    178    2    27
----- Gyeongsangbuk-do    1143    16    83
----- Gyeongsangnam-do    85    0    10
----- Incheon    25    0    4
+---- Gyeonggi-do    185    2    31
+---- Gyeongsangbuk-do    1147    16    103
+---- Gyeongsangnam-do    85    0    11
+---- Incheon    27    0    4
 ---- Jeju-do    4    0    1
----- Jeollabuk-do    7    0    2
+---- Jeollabuk-do    7    0    4
 ---- Jeollanam-do    4    0    1
----- Sejong    15    0    0
----- Seoul    212    0    38
----- Ulsan    25    0    3
+---- Sejong    32    0    0
+---- Seoul    225    0    40
+---- Ulsan    27    0    3
 -- France    2284    48    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1725    41    30
+-- United States of America    1730    41    31
 ---- WA    457    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -598,7 +598,7 @@
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    238    4    6
+---- CA    241    4    6
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -739,7 +739,7 @@
 ---- NE    10    0    0
 ------ Douglas(31055)    4    0    0
 ------ Knox(31107)    1    0    0
----- KY    10    0    0
+---- KY    11    0    0
 ------ Fayette(21067)    2    0    0
 ------ Harrison(21097)    5    0    0
 ------ Jefferson(21111)    1    0    0
@@ -808,10 +808,10 @@
 ---- OH    5    0    0
 ------ Cuyahoga(39035)    3    0    0
 ------ Stark(39151)    1    0    0
----- MI    5    0    0
+---- MI    12    0    0
 ------ Oakland(26125)    1    0    0
 ------ Wayne(26163)    1    0    0
----- NM    5    0    0
+---- NM    6    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    1    0    0
 ---- AR    6    0    0
@@ -822,6 +822,7 @@
 ---- WY    1    0    0
 ---- ND    1    0    0
 ---- ME    1    0    0
+---- AK    1    0    0
 -- Norway    702    0    1
 -- Switzerland    652    4    4
 -- Japan    639    16    118
@@ -868,21 +869,21 @@
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
----- England    387    6    0
----- Northern Ireland    18    0    0
----- Wales    19    0    0
----- Scotland    36    0    0
+---- England    491    6    0
+---- Northern Ireland    20    0    0
+---- Wales    25    0    0
+---- Scotland    60    10    0
 -- Belgium    314    3    1
 -- Austria    302    1    4
 -- Qatar    262    0    0
 -- Bahrain    195    0    35
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
--- Canada    154    1    8
+-- Canada    158    1    8
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
----- Quebec    13    0    0
+---- Quebec    17    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
 ---- Manitoba    3    0    0
