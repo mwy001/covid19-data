@@ -450,7 +450,7 @@
 ---- Macau    10    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
--- Italy    12462    827    1045
+-- Italy    15113    1016    1258
 ---- Abruzzo    84    2    4
 ---- Aosta Valley    27    1    0
 ---- Apulia    104    5    1
@@ -522,7 +522,25 @@
 ---- Sejong    32    0    0
 ---- Seoul    225    0    40
 ---- Ulsan    27    0    3
--- France    2284    48    12
+-- Spain    3779    87    189
+---- Andalusia    90    0    0
+---- Aragon    45    4    0
+---- Balearic Islands    16    0    1
+---- Basque Country    225    6    0
+---- Canary Islands    37    0    5
+---- Cantabria    12    0    0
+---- Castile and León    71    0    0
+---- Castile-La Mancha    71    0    0
+---- Catalonia    156    3    0
+---- Community of Madrid    1388    31    0
+---- Comunidad Foral de Navarra    46    0    0
+---- Extremadura    9    0    0
+---- Galicia    39    0    0
+---- Principality of Asturias    32    0    0
+---- Región de Murcia    11    0    0
+---- Rioja    179    2    0
+---- Valencian Community    65    1    1
+-- France    2876    61    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
@@ -542,34 +560,16 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- Spain    2277    55    183
----- Andalusia    90    0    0
----- Aragon    45    4    0
----- Balearic Islands    16    0    1
----- Basque Country    225    6    0
----- Canary Islands    37    0    5
----- Cantabria    12    0    0
----- Castile and León    71    0    0
----- Castile-La Mancha    71    0    0
----- Catalonia    156    3    0
----- Community of Madrid    1388    31    0
----- Comunidad Foral de Navarra    46    0    0
----- Extremadura    9    0    0
----- Galicia    39    0    0
----- Principality of Asturias    32    0    0
----- Región de Murcia    11    0    0
----- Rioja    179    2    0
----- Valencian Community    65    1    1
--- Germany    2078    3    25
+-- Germany    2750    6    25
 ---- Saxony    49    0    0
 ---- Mecklenburg-Vorpommern    23    0    0
 ---- Free State of Bavaria    500    1    14
 ---- Berlin    137    0    0
----- Brandenburg    30    0    0
+---- Brandenburg    31    0    0
 ---- Thuringia    18    0    0
 ---- Schleswig-Holstein    31    0    0
 ---- Lower Saxony    129    0    1
----- Bremen    38    0    1
+---- Bremen    42    0    1
 ---- Hamburg    88    0    0
 ---- Rhineland-Palatinate    52    0    1
 ---- North Rhine-Westphalia    1041    4    6
@@ -887,9 +887,12 @@
 ---- AK    1    0    0
 ---- DC    10    0    0
 ---- Others    3    0    22
--- Norway    702    0    1
--- Switzerland    652    4    4
--- Japan    639    16    118
+-- Switzerland    868    7    4
+-- Norway    828    1    1
+-- Denmark    785    0    1
+---- Denmark    615    0    1
+---- Faroe Islands    2    0    0
+-- Japan    700    19    118
 ---- Hokkaido    133    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -898,14 +901,14 @@
 ---- Nagano    3    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    20    0    0
+---- Saitama    21    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
 ---- Tokyo    75    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    17    0    2
 ---- Osaka    89    0    1
----- Chiba    27    0    0
+---- Chiba    29    0    0
 ---- Kanagawa    49    3    1
 ---- Shizuoka    3    0    0
 ---- Aichi    111    8    2
@@ -914,7 +917,7 @@
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    46    1    0
+---- hyogo    52    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -924,11 +927,8 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    3    0    0
 ---- Fukushima    1    0    0
--- Denmark    617    0    1
----- Denmark    615    0    1
----- Faroe Islands    2    0    0
--- Sweden    599    1    1
--- Netherlands    503    5    0
+-- Sweden    688    1    1
+-- Netherlands    614    5    2
 -- United Kingdom of Great Britain and Northern Ireland    459    8    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -937,13 +937,21 @@
 ---- Northern Ireland    20    0    0
 ---- Wales    25    0    0
 ---- Scotland    60    10    0
--- Belgium    314    3    1
--- Austria    302    1    4
+-- Austria    428    1    4
+-- Belgium    399    3    1
 -- Qatar    262    0    0
--- Bahrain    195    0    35
--- Singapore    178    0    96
+-- Bahrain    197    0    35
+-- Singapore    187    0    96
 ---- Central Singapore Community Development Council    160    0    90
--- Canada    158    1    8
+-- Australia    160    4    26
+---- New South Wales    65    3    4
+---- Victoria    21    0    7
+---- Queensland    20    0    8
+---- South Australia    9    0    2
+---- Western Australia    9    1    0
+---- Tasmania    3    0    0
+---- Northern Territory    1    0    0
+-- Canada    158    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
@@ -952,104 +960,6 @@
 ---- New Brunswick    1    0    0
 ---- Manitoba    3    0    0
 ---- Saskatchewan    1    0    0
--- Malaysia    149    0    26
--- Israel    131    0    4
--- Australia    128    4    21
----- New South Wales    65    3    4
----- Victoria    21    0    7
----- Queensland    20    0    8
----- South Australia    9    0    2
----- Western Australia    9    1    0
----- Tasmania    3    0    0
----- Northern Territory    1    0    0
--- Iceland    103    0    1
--- Greece    99    1    0
--- Czechia    94    0    0
--- Slovenia    89    0    0
--- United Arab Emirates    85    0    17
--- Kuwait    80    0    5
--- India    73    1    4
--- Iraq    71    8    15
--- Thailand    70    1    34
--- San Marino    69    3    0
--- Egypt    67    1    27
--- Lebanon    61    3    1
--- Finland    59    0    1
--- Portugal    59    0    0
--- Philippines    52    2    2
--- Brazil    52    0    0
--- Romania    49    0    6
--- Poland    49    1    0
--- Taiwan    49    1    20
--- Saudi Arabia    45    0    1
--- Ireland    43    1    0
--- Viet Nam    39    0    16
--- Indonesia    34    1    2
--- Russian Federation    28    0    3
--- Algeria    24    1    8
--- Georgia    24    0    0
--- Chile    23    0    0
--- Albania    23    1    0
--- Costa Rica    22    0    0
--- Pakistan    20    0    2
--- Croatia    19    0    0
--- Luxembourg    19    0    0
--- Argentina    19    1    0
--- Serbia    19    0    0
--- Oman    18    0    9
--- Ecuador    17    0    0
--- South Africa    17    0    0
--- Estonia    16    0    0
--- Slovakia    16    0    0
--- Peru    15    0    0
--- Hungary    13    0    0
--- Belarus    12    0    3
--- Mexico    12    0    4
--- Azerbaijan    11    0    3
--- Bosnia and Herzegovina    11    0    0
--- Brunei Darussalam    11    0    0
--- Panama    11    1    0
--- Latvia    10    0    1
--- Colombia    9    0    0
--- Maldives    8    0    0
--- Afghanistan    7    0    0
--- North Macedonia    7    0    0
--- Tunisia    7    0    0
--- Bulgaria    7    1    0
--- Morocco    6    1    0
--- Malta    6    0    0
--- Cyprus    6    0    0
--- New Zealand    5    0    0
--- Dominican Republic    5    0    0
--- French Guiana    5    0    0
--- Paraguay    5    0    0
--- Armenia    4    0    0
--- Senegal    4    0    1
--- Cambodia    3    0    1
--- Lithuania    3    0    0
--- Martinique    3    0    0
--- Bangladesh    3    0    0
--- Moldova, Republic of    3    0    0
--- Cuba    3    0    0
--- Sri Lanka    2    0    1
--- Nigeria    2    0    0
--- Monaco    2    0    0
--- Cameroon    2    0    0
--- Burkina Faso    2    0    0
--- Bolivia, Plurinational State of    2    0    0
--- Honduras    2    0    0
--- Jamaica    2    0    0
--- Nepal    1    0    1
--- Andorra    1    0    1
--- Jordan    1    0    0
--- Ukraine    1    0    0
--- Liechtenstein    1    0    0
--- Bhutan    1    0    0
--- Togo    1    0    0
--- Holy See    1    0    0
--- Mongolia    1    0    0
--- Congo    1    0    0
--- Côte d'Ivoire    1    0    0
--- Réunion    1    0    0
--- Turkey    1    0    0
--- Guyana    1    1    0
+-- Malaysia    158    0    32
+-- Finland    155    0    1
+-- Greece    134    1    0
