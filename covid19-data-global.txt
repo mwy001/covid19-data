@@ -577,23 +577,25 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    2207    48    31
----- WA    568    37    1
------- King(53033)    270    27    1
------- Snohomish(53061)    108    3    0
+-- United States of America    2269    48    31
+---- WA    627    37    1
+------ King(53033)    328    32    1
+------ Snohomish(53061)    133    4    0
 ------ Grant(53025)    1    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    3    0    0
 ------ Jefferson(53031)    1    0    0
------- Pierce(53053)    17    0    0
+------ Pierce(53053)    31    0    0
 ------ Kittitas(53037)    3    0    0
 ------ Spokane(53063)    1    0    0
------- Kitsap(53035)    2    0    0
------- Skagit(53057)    2    0    0
+------ Kitsap(53035)    3    0    0
+------ Skagit(53057)    3    0    0
 ------ Thurston(53067)    1    0    0
------- Island(53029)    3    0    0
+------ Island(53029)    4    0    0
 ------ Whatcom(53073)    1    0    0
 ------ Grays Harbor(53027)    1    0    0
+------ Columbia(53013)    1    0    0
+------ Yakima(53077)    1    0    0
 ---- IL    32    0    2
 ------ Cook(17031)    27    0    2
 ------ Kane(17089)    2    0    0
@@ -631,8 +633,11 @@
 ---- WI    19    0    1
 ------ Dane(55025)    5    0    1
 ------ Pierce(55093)    2    0    0
------- Fond du Lac(55039)    2    0    0
+------ Fond du Lac(55039)    6    0    0
 ------ Waukesha(55133)    1    0    0
+------ Sheboygan(55117)    3    0    0
+------ Milwaukee(55079)    2    0    0
+------ Racine(55101)    1    0    0
 ---- TX    43    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
@@ -780,8 +785,8 @@
 ------ Weld(08123)    2    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
----- PA    38    0    0
------- Delaware(42045)    5    0    0
+---- PA    41    0    0
+------ Delaware(42045)    6    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    18    0    0
 ------ Monroe(42089)    3    0    0
@@ -790,6 +795,7 @@
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    1    0    0
+------ Washington(42125)    1    0    0
 ---- NE    13    0    0
 ------ Douglas(31055)    11    0    0
 ------ Knox(31107)    1    0    0
@@ -824,9 +830,9 @@
 ---- CT    11    0    0
 ------ Fairfield(09001)    8    0    0
 ------ Litchfield(09005)    3    0    0
----- SC    12    0    0
+---- SC    13    0    0
 ------ Charleston(45019)    1    0    0
------- Kershaw(45055)    4    0    0
+------ Kershaw(45055)    5    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    1    0    0
 ---- UT    7    0    0
@@ -843,7 +849,7 @@
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    2    0    0
 ------ Spotsylvania(51177)    1    0    0
------- Loudoun(51107)    2    0    0
+------ Loudoun(51107)    3    0    0
 ------ Hanover(51085)    1    0    0
 ------ Harrisonburg(51660)    1    0    0
 ------ Prince Edward(51147)    1    0    0
@@ -911,7 +917,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1139    11    4
--- Norway    977    1    1
+-- Norway    988    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
