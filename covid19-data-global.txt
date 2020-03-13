@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    335    0    14
 ---- Saxony-Anhalt    15    0    0
 ---- Saarland    14    0    0
--- United States of America    1636    40    15
+-- United States of America    1663    40    15
 ---- WA    442    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -598,7 +598,7 @@
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    214    4    5
+---- CA    221    4    6
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -654,7 +654,7 @@
 ------ Alachua(12001)    1    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    1    0    0
----- OR    21    0    0
+---- OR    24    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    8    0    0
 ------ Jackson(41029)    2    0    0
@@ -707,7 +707,7 @@
 ------ Passaic(34031)    1    0    0
 ------ Union(34039)    1    0    0
 ------ Middlesex(34023)    2    0    0
----- NV    10    0    0
+---- NV    14    0    0
 ------ Clark(32003)    5    0    0
 ------ Washoe(32031)    2    0    0
 ---- TN    18    0    0
@@ -788,7 +788,7 @@
 ------ Johnson(20091)    1    0    0
 ---- MO    1    0    0
 ------ St Louis(29189)    1    0    0
----- IA    14    0    0
+---- IA    16    0    0
 ------ Johnson(19103)    12    0    0
 ------ Pottawattamie(19155)    1    0    0
 ---- VT    2    0    0
@@ -885,7 +885,7 @@
 ---- Quebec    13    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
--- Israel    130    0    4
+-- Israel    131    0    4
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
 ---- Victoria    21    0    7
@@ -894,9 +894,9 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
+-- Iceland    103    0    1
 -- Greece    99    1    0
 -- Czechia    91    0    0
--- Iceland    85    0    1
 -- United Arab Emirates    74    0    17
 -- Kuwait    72    0    2
 -- Iraq    71    7    15
