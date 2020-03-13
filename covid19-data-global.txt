@@ -540,7 +540,7 @@
 ---- Región de Murcia    11    0    0
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
--- Germany    3156    7    46
+-- Germany    3481    8    46
 ---- Saxony    51    0    0
 ---- Mecklenburg-Vorpommern    23    0    0
 ---- Free State of Bavaria    500    1    14
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1824    41    31
+-- United States of America    1840    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -665,7 +665,7 @@
 ------ Palm Beach(12099)    2    0    0
 ------ Clay(12019)    1    0    0
 ------ Duval(12031)    1    0    0
------- Miami-Dade(12086)    2    0    0
+------ Miami-Dade(12086)    3    0    0
 ------ Seminole(12117)    1    0    0
 ---- OR    30    0    0
 ------ Umatilla(41059)    2    0    0
@@ -730,9 +730,9 @@
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    1    0    0
 ------ Orange(36071)    1    0    0
----- NJ    31    1    0
+---- NJ    32    1    0
 ------ Bergen(34003)    13    1    0
------- Hudson(34017)    1    0    0
+------ Hudson(34017)    2    0    0
 ------ Monmouth(34025)    5    0    0
 ------ Burlington(34005)    2    0    0
 ------ Camden(34007)    1    0    0
@@ -751,11 +751,13 @@
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    1    0    0
----- MD    12    0    0
+---- MD    17    0    0
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
------- Prince George's(24033)    4    0    0
------- Baltimore(24005)    1    0    0
+------ Prince George's(24033)    6    0    0
+------ Baltimore(24005)    2    0    0
+------ Charles(24017)    1    0    0
+------ Anne Arundel(24003)    1    0    0
 ---- CO    50    0    0
 ------ Denver(08031)    10    0    0
 ------ Summit(08117)    2    0    0
@@ -769,8 +771,8 @@
 ------ Pitkin(08097)    10    0    0
 ------ Adams(08001)    2    0    0
 ------ Boulder(08013)    1    0    0
----- PA    28    0    0
------- Delaware(42045)    3    0    0
+---- PA    30    0    0
+------ Delaware(42045)    5    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    17    0    0
 ------ Monroe(42089)    2    0    0
@@ -778,8 +780,8 @@
 ------ Bucks(42017)    2    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
----- NE    11    0    0
------- Douglas(31055)    9    0    0
+---- NE    13    0    0
+------ Douglas(31055)    11    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
 ---- KY    11    0    0
@@ -833,9 +835,10 @@
 ------ Hanover(51085)    1    0    0
 ------ Harrisonburg(51660)    1    0    0
 ------ Prince Edward(51147)    1    0    0
----- KS    5    1    0
+---- KS    6    1    0
 ------ Johnson(20091)    4    0    0
 ------ Wyandotte(20209)    1    1    0
+------ Butler(20015)    1    0    0
 ---- MO    2    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    1    0    0
@@ -860,10 +863,10 @@
 ------ Davison(46035)    1    0    0
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
----- OH    10    0    0
+---- OH    14    0    0
 ------ Cuyahoga(39035)    3    0    0
------- Stark(39151)    1    0    0
------- Trumbull(39155)    1    0    0
+------ Stark(39151)    2    0    0
+------ Trumbull(39155)    2    0    0
 ---- MI    12    0    0
 ------ Oakland(26125)    3    0    0
 ------ Wayne(26163)    1    0    0
@@ -893,8 +896,8 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1137    9    4
--- Norway    906    1    1
--- Sweden    810    1    1
+-- Norway    911    1    1
+-- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
 ---- Denmark    615    0    1
@@ -958,6 +961,7 @@
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
 -- Malaysia    197    0    32
+-- Greece    190    1    2
 -- Canada    178    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
@@ -971,4 +975,3 @@
 -- Finland    155    0    1
 -- Brazil    151    0    0
 -- Slovenia    141    0    0
--- Greece    134    1    2
