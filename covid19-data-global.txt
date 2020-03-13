@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1804    41    31
+-- United States of America    1824    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -633,7 +633,7 @@
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    2    0    0
 ------ Waukesha(55133)    1    0    0
----- TX    34    0    0
+---- TX    38    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -643,6 +643,7 @@
 ------ Tarrant(48439)    1    0    0
 ------ Montgomery(48339)    3    0    0
 ------ Travis(48453)    2    0    0
+------ Smith(48423)    3    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
@@ -768,10 +769,10 @@
 ------ Pitkin(08097)    10    0    0
 ------ Adams(08001)    2    0    0
 ------ Boulder(08013)    1    0    0
----- PA    22    0    0
------- Delaware(42045)    1    0    0
+---- PA    28    0    0
+------ Delaware(42045)    3    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    13    0    0
+------ Montgomery(42091)    17    0    0
 ------ Monroe(42089)    2    0    0
 ------ Philadelphia(42101)    1    0    0
 ------ Bucks(42017)    2    0    0
@@ -823,7 +824,7 @@
 ---- OK    3    0    1
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
----- VA    29    0    0
+---- VA    30    0    0
 ------ Fairfax(51059)    5    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    2    0    0
@@ -859,7 +860,7 @@
 ------ Davison(46035)    1    0    0
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
----- OH    5    0    0
+---- OH    10    0    0
 ------ Cuyahoga(39035)    3    0    0
 ------ Stark(39151)    1    0    0
 ------ Trumbull(39155)    1    0    0
@@ -891,15 +892,15 @@
 ---- Others    3    0    22
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
--- Switzerland    1135    8    4
--- Norway    905    1    1
+-- Switzerland    1137    9    4
+-- Norway    906    1    1
 -- Sweden    810    1    1
 -- Netherlands    804    10    2
--- Denmark    788    0    1
+-- Denmark    801    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
 -- Japan    701    19    118
----- Hokkaido    136    4    53
+---- Hokkaido    137    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    14    0    0
@@ -917,13 +918,13 @@
 ---- Chiba    29    0    0
 ---- Kanagawa    50    3    1
 ---- Shizuoka    3    0    0
----- Aichi    113    10    2
+---- Aichi    114    10    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    52    1    0
+---- hyogo    56    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -933,6 +934,7 @@
 ---- Hiroshima    1    0    0
 ---- Gunma    3    0    0
 ---- Fukushima    1    0    0
+---- Saga    1    0    0
 -- United Kingdom of Great Britain and Northern Ireland    593    8    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -941,12 +943,12 @@
 ---- Northern Ireland    20    0    0
 ---- Wales    38    0    0
 ---- Scotland    60    10    0
--- Belgium    556    3    1
+-- Belgium    559    3    1
 -- Austria    504    1    6
 -- Qatar    262    0    0
 -- Bahrain    210    0    44
 -- Singapore    200    0    97
----- Central Singapore Community Development Council    160    0    90
+---- Central Singapore Community Development Council    200    0    97
 -- Australia    199    4    26
 ---- New South Wales    65    3    4
 ---- Victoria    21    0    7
@@ -956,7 +958,7 @@
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
 -- Malaysia    197    0    32
--- Canada    158    1    11
+-- Canada    178    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
