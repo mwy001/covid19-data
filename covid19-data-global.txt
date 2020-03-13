@@ -557,7 +557,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- France    2879    61    12
+-- France    2882    61    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
@@ -890,11 +890,11 @@
 ---- DC    10    0    0
 ---- Others    3    0    22
 -- Switzerland    1135    8    4
--- Norway    878    1    1
--- Denmark    785    0    1
+-- Norway    879    1    1
+-- Denmark    788    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
--- Sweden    730    1    1
+-- Sweden    733    1    1
 -- Japan    701    19    118
 ---- Hokkaido    136    4    53
 ---- kochi    12    0    0
@@ -939,8 +939,8 @@
 ---- Northern Ireland    20    0    0
 ---- Wales    38    0    0
 ---- Scotland    60    10    0
+-- Belgium    556    3    1
 -- Austria    428    1    6
--- Belgium    399    3    1
 -- Qatar    262    0    0
 -- Bahrain    210    0    44
 -- Australia    199    4    26
