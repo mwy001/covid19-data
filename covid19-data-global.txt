@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1873    41    31
+-- United States of America    1991    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -599,7 +599,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
----- CA    246    4    6
+---- CA    251    4    6
 ------ Los Angeles(06037)    32    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    7    0    1
@@ -610,7 +610,7 @@
 ------ Sonoma(06097)    3    0    0
 ------ Orange(06059)    6    0    0
 ------ Contra Costa(06013)    17    0    0
------- San Francisco(06075)    19    0    0
+------ San Francisco(06075)    24    0    0
 ------ Yolo(06113)    1    0    0
 ------ Santa Clara(06085)    66    1    1
 ------ Alameda(06001)    7    0    0
@@ -633,11 +633,11 @@
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    2    0    0
 ------ Waukesha(55133)    1    0    0
----- TX    38    0    0
+---- TX    39    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
 ------ Fort Bend(48157)    6    0    0
------- Collin(48085)    4    0    0
+------ Collin(48085)    5    0    0
 ------ Gregg(48183)    1    0    0
 ------ Dallas(48113)    8    0    0
 ------ Tarrant(48439)    1    0    0
@@ -807,7 +807,8 @@
 ------ Dakota(27037)    1    0    0
 ------ Hennepin(27053)    1    0    0
 ------ Stearns(27145)    1    0    0
----- RI    5    0    0
+------ Wright(27171)    1    0    0
+---- RI    14    0    0
 ------ Providence(44007)    5    0    0
 ---- CT    5    0    0
 ------ Fairfield(09001)    4    0    0
@@ -839,6 +840,7 @@
 ------ Johnson(20091)    4    0    0
 ------ Wyandotte(20209)    1    1    0
 ------ Butler(20015)    1    0    0
+------ Sedgwick(20173)    1    0    0
 ---- MO    2    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    1    0    0
@@ -865,7 +867,7 @@
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
 ---- OH    14    0    0
------- Cuyahoga(39035)    3    0    0
+------ Cuyahoga(39035)    6    0    0
 ------ Stark(39151)    2    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    4    0    0
@@ -898,7 +900,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1137    9    4
--- Norway    930    1    1
+-- Norway    933    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
