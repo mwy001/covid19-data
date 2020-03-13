@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    2269    48    31
+-- United States of America    2269    48    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -604,7 +604,7 @@
 ---- CA    282    4    6
 ------ Los Angeles(06037)    40    1    0
 ------ San Benito(06069)    2    0    2
------- San Diego(06073)    7    0    1
+------ San Diego(06073)    8    0    1
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    17    1    1
 ------ Placer(06061)    8    1    0
@@ -638,14 +638,14 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    43    0    0
+---- TX    44    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    5    0    0
 ------ Gregg(48183)    1    0    0
 ------ Dallas(48113)    8    0    0
------- Tarrant(48439)    2    0    0
+------ Tarrant(48439)    3    0    0
 ------ Montgomery(48339)    3    0    0
 ------ Travis(48453)    2    0    0
 ------ Smith(48423)    3    0    0
@@ -922,13 +922,13 @@
 ------ Androscoggin(23001)    1    0    0
 ---- AK    1    0    0
 ---- DC    10    0    0
----- Others    3    0    22
+---- Others    3    0    32
 ---- AL    5    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    1    0    0
 ---- ID    1    0    0
 -- Switzerland    1139    11    4
--- Norway    995    1    1
+-- Norway    996    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
@@ -992,7 +992,7 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
--- Canada    197    1    11
+-- Canada    198    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
 ---- Alberta    23    0    0
