@@ -256,7 +256,7 @@
 ------ Qingpu District    6    0    6
 ------ Jinshan District    4    0    4
 ------ Chongming District    4    0    4
----- Hebei    318    6    307
+---- Hebei    318    6    308
 ------ Zhangjiakou    41    0    39
 ------ Tangshan    58    1    55
 ------ Cangzhou    48    3    45
@@ -386,7 +386,7 @@
 ------ Linxia    3    0    3
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
----- Hong Kong    126    3    65
+---- Hong Kong    129    3    67
 ---- Liaoning    250    2    222
 ------ Dandong    11    0    7
 ------ Dalian    19    0    16
@@ -577,8 +577,8 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1715    41    30
----- WA    442    31    1
+-- United States of America    1716    41    30
+---- WA    457    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
 ------ Grant(53025)    1    1    0
@@ -598,7 +598,7 @@
 ------ Kane(17089)    1    0    0
 ------ McHenry(17111)    1    0    0
 ------ Lake(17097)    1    0    0
----- CA    221    4    6
+---- CA    238    4    6
 ------ Los Angeles(06037)    27    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    3    0    1
@@ -627,7 +627,7 @@
 ---- WI    8    0    1
 ------ Dane(55025)    2    0    1
 ------ Pierce(55093)    2    0    0
----- TX    27    0    0
+---- TX    28    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    7    0    0
 ------ Fort Bend(48157)    6    0    0
@@ -719,7 +719,7 @@
 ------ Montgomery(24031)    5    0    0
 ------ Harford(24025)    1    0    0
 ------ Prince George's(24033)    3    0    0
----- CO    45    0    0
+---- CO    50    0    0
 ------ Denver(08031)    6    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    3    0    0
@@ -784,9 +784,9 @@
 ------ Hanover(51085)    1    0    0
 ---- WDC    10    0    0
 ------ District of Columbia(11001)    5    0    0
----- KS    4    0    0
+---- KS    5    1    0
 ------ Johnson(20091)    1    0    0
----- MO    1    0    0
+---- MO    2    0    0
 ------ St Louis(29189)    1    0    0
 ---- IA    16    0    0
 ------ Johnson(19103)    12    0    0
@@ -821,6 +821,7 @@
 ---- MS    1    0    0
 ---- WY    1    0    0
 ---- ND    1    0    0
+---- ME    1    0    0
 -- Norway    702    0    1
 -- Switzerland    652    4    4
 -- Japan    639    16    118
@@ -859,7 +860,7 @@
 ---- Gunma    3    0    0
 ---- Fukushima    1    0    0
 -- Denmark    617    0    1
----- Denmark    442    0    1
+---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
 -- Sweden    599    1    1
 -- Netherlands    503    5    0
@@ -872,19 +873,21 @@
 ---- Wales    19    0    0
 ---- Scotland    36    0    0
 -- Belgium    314    3    1
--- Austria    302    0    4
+-- Austria    302    1    4
 -- Qatar    262    0    0
 -- Bahrain    195    0    35
 -- Singapore    178    0    96
 ---- Central Singapore Community Development Council    160    0    90
--- Malaysia    149    0    26
--- Canada    142    1    8
----- British Columbia    46    1    4
+-- Canada    154    1    8
 ---- Ontario    59    0    4
+---- British Columbia    53    1    4
 ---- Alberta    23    0    0
 ---- Quebec    13    0    0
 ---- Grand Princess Cruise Ship    1    0    0
 ---- New Brunswick    1    0    0
+---- Manitoba    3    0    0
+---- Saskatchewan    1    0    0
+-- Malaysia    149    0    26
 -- Israel    131    0    4
 -- Australia    128    4    21
 ---- New South Wales    65    3    4
@@ -896,81 +899,83 @@
 ---- Northern Territory    1    0    0
 -- Iceland    103    0    1
 -- Greece    99    1    0
--- Czechia    91    0    0
--- United Arab Emirates    74    0    17
--- Kuwait    72    0    2
--- Iraq    71    7    15
--- India    62    1    4
--- San Marino    62    2    0
+-- Czechia    94    0    0
+-- Slovenia    89    0    0
+-- United Arab Emirates    85    0    17
+-- Kuwait    80    0    5
+-- India    73    1    4
+-- Iraq    71    8    15
+-- Thailand    70    1    34
+-- San Marino    69    3    0
+-- Egypt    67    1    27
 -- Lebanon    61    3    1
--- Egypt    60    1    27
--- Thailand    59    1    34
 -- Finland    59    0    1
 -- Portugal    59    0    0
--- Slovenia    57    0    0
--- Philippines    49    1    2
--- Taiwan    48    1    17
--- Romania    45    0    6
+-- Philippines    52    2    2
+-- Brazil    52    0    0
+-- Romania    49    0    6
+-- Poland    49    1    0
+-- Taiwan    49    1    20
+-- Saudi Arabia    45    0    1
 -- Ireland    43    1    0
--- Brazil    38    0    0
--- Viet Nam    38    0    16
+-- Viet Nam    39    0    16
 -- Indonesia    34    1    2
--- Poland    31    0    0
+-- Russian Federation    28    0    3
+-- Algeria    24    1    8
 -- Georgia    24    0    0
 -- Chile    23    0    0
--- Saudi Arabia    21    0    1
--- Algeria    20    0    0
--- Russian Federation    20    0    3
+-- Albania    23    1    0
+-- Costa Rica    22    0    0
+-- Pakistan    20    0    2
 -- Croatia    19    0    0
--- Pakistan    19    0    2
+-- Luxembourg    19    0    0
 -- Argentina    19    1    0
+-- Serbia    19    0    0
 -- Oman    18    0    9
 -- Ecuador    17    0    0
+-- South Africa    17    0    0
 -- Estonia    16    0    0
+-- Slovakia    16    0    0
+-- Peru    15    0    0
 -- Hungary    13    0    0
--- South Africa    13    0    0
--- Costa Rica    13    0    0
--- Serbia    12    0    0
--- Albania    12    1    0
+-- Belarus    12    0    3
+-- Mexico    12    0    4
 -- Azerbaijan    11    0    3
--- Peru    11    0    0
+-- Bosnia and Herzegovina    11    0    0
 -- Brunei Darussalam    11    0    0
+-- Panama    11    1    0
 -- Latvia    10    0    1
--- Slovakia    10    0    0
--- Belarus    9    0    3
 -- Colombia    9    0    0
--- Mexico    8    0    4
 -- Maldives    8    0    0
--- Panama    8    1    0
 -- Afghanistan    7    0    0
 -- North Macedonia    7    0    0
--- Luxembourg    7    0    0
 -- Tunisia    7    0    0
--- Bosnia and Herzegovina    7    0    0
 -- Bulgaria    7    1    0
+-- Morocco    6    1    0
 -- Malta    6    0    0
 -- Cyprus    6    0    0
 -- New Zealand    5    0    0
 -- Dominican Republic    5    0    0
--- Morocco    5    1    0
 -- French Guiana    5    0    0
 -- Paraguay    5    0    0
+-- Armenia    4    0    0
 -- Senegal    4    0    1
 -- Cambodia    3    0    1
 -- Lithuania    3    0    0
 -- Martinique    3    0    0
 -- Bangladesh    3    0    0
 -- Moldova, Republic of    3    0    0
+-- Cuba    3    0    0
 -- Sri Lanka    2    0    1
 -- Nigeria    2    0    0
+-- Monaco    2    0    0
 -- Cameroon    2    0    0
 -- Burkina Faso    2    0    0
 -- Bolivia, Plurinational State of    2    0    0
 -- Honduras    2    0    0
+-- Jamaica    2    0    0
 -- Nepal    1    0    1
--- Monaco    1    0    0
--- Armenia    1    0    0
--- Andorra    1    0    0
+-- Andorra    1    0    1
 -- Jordan    1    0    0
 -- Ukraine    1    0    0
 -- Liechtenstein    1    0    0
@@ -980,6 +985,6 @@
 -- Mongolia    1    0    0
 -- Congo    1    0    0
 -- Côte d'Ivoire    1    0    0
--- Jamaica    1    0    0
 -- Réunion    1    0    0
 -- Turkey    1    0    0
+-- Guyana    1    1    0
