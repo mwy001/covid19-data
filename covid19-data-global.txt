@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    2030    41    31
+-- United States of America    2045    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -599,7 +599,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    1    0    0
----- CA    259    4    6
+---- CA    268    4    6
 ------ Los Angeles(06037)    32    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    7    0    1
@@ -612,7 +612,7 @@
 ------ Contra Costa(06013)    25    0    0
 ------ San Francisco(06075)    24    0    0
 ------ Yolo(06113)    1    0    0
------- Santa Clara(06085)    66    1    1
+------ Santa Clara(06085)    79    1    1
 ------ Alameda(06001)    7    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
@@ -732,7 +732,7 @@
 ------ Orange(36071)    1    0    0
 ---- NJ    50    1    0
 ------ Bergen(34003)    13    1    0
------- Hudson(34017)    2    0    0
+------ Hudson(34017)    3    0    0
 ------ Monmouth(34025)    5    0    0
 ------ Burlington(34005)    2    0    0
 ------ Camden(34007)    1    0    0
@@ -746,7 +746,7 @@
 ------ Clark(32003)    8    0    0
 ------ Washoe(32031)    2    0    0
 ---- TN    26    0    0
------- Williamson(47187)    8    0    0
+------ Williamson(47187)    9    0    0
 ------ Davidson(47037)    10    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
@@ -754,7 +754,7 @@
 ------ Hamilton(47065)    1    0    0
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
----- MD    17    0    0
+---- MD    18    0    0
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
 ------ Prince George's(24033)    6    0    0
@@ -876,11 +876,11 @@
 ------ Stark(39151)    2    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    4    0    0
----- MI    12    0    0
+---- MI    16    0    0
 ------ Oakland(26125)    3    0    0
------- Wayne(26163)    1    0    0
+------ Wayne(26163)    2    0    0
 ------ Kent(26081)    3    0    0
------- Washtenaw(26161)    2    0    0
+------ Washtenaw(26161)    3    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
 ---- NM    10    0    0
@@ -905,7 +905,7 @@
 ---- AL    1    0    0
 ------ Montgomery(01101)    1    0    0
 -- Switzerland    1139    11    4
--- Norway    939    1    1
+-- Norway    940    1    1
 -- Sweden    814    1    1
 -- Netherlands    804    10    2
 -- Denmark    801    0    1
