@@ -18,8 +18,8 @@
 ------ Tianmen    496    15    476
 ------ Shennongjia    11    0    11
 ---- Guangdong    1356    8    1289
------- Shenzhen    420    3    392
------- Guangzhou    347    1    326
+------ Shenzhen    420    3    395
+------ Guangzhou    347    1    330
 ------ Foshan    84    0    78
 ------ Zhongshan    68    0    64
 ------ Dongguan    100    1    96
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1774    41    31
+-- United States of America    1775    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -723,7 +723,7 @@
 ------ Saratoga(36091)    3    0    0
 ------ Suffolk(36103)    21    0    0
 ------ Ulster(36111)    4    0    0
------- Albany(36001)    2    0    0
+------ Albany(36001)    4    0    0
 ------ Delaware(36025)    1    0    0
 ------ Dutchess(36027)    1    0    0
 ------ Herkimer(36043)    1    0    0
@@ -891,11 +891,11 @@
 ---- Others    3    0    22
 -- Switzerland    1135    8    4
 -- Norway    895    1    1
--- Netherlands    804    5    2
+-- Netherlands    804    10    2
 -- Denmark    788    0    1
 ---- Denmark    615    0    1
 ---- Faroe Islands    2    0    0
--- Sweden    733    1    1
+-- Sweden    751    1    1
 -- Japan    701    19    118
 ---- Hokkaido    136    4    53
 ---- kochi    12    0    0
@@ -964,4 +964,5 @@
 ---- Saskatchewan    1    0    0
 -- Malaysia    158    0    32
 -- Finland    155    0    1
+-- Slovenia    141    0    0
 -- Greece    134    1    2
