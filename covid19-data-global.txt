@@ -522,7 +522,7 @@
 ---- Sejong    32    0    0
 ---- Seoul    225    0    40
 ---- Ulsan    27    0    3
--- Spain    4209    120    189
+-- Spain    4334    122    193
 ---- Andalusia    219    0    0
 ---- Aragon    45    4    0
 ---- Balearic Islands    16    0    1
@@ -577,7 +577,7 @@
 ---- Martinique    4    0    0
 ---- French Guiana    6    0    0
 ---- Réunion    3    0    0
--- United States of America    1792    41    31
+-- United States of America    1803    41    31
 ---- WA    457    31    1
 ------ King(53033)    270    27    1
 ------ Snohomish(53061)    108    3    0
@@ -845,9 +845,9 @@
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ------ Chittenden(50007)    1    0    0
----- LA    33    0    0
+---- LA    44    0    0
 ------ Jefferson(22051)    2    0    0
------- Orleans(22071)    14    0    0
+------ Orleans(22071)    21    0    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
@@ -890,7 +890,7 @@
 ---- DC    10    0    0
 ---- Others    3    0    22
 -- Switzerland    1135    8    4
--- Norway    895    1    1
+-- Norway    897    1    1
 -- Netherlands    804    10    2
 -- Sweden    801    1    1
 -- Denmark    788    0    1
@@ -940,7 +940,7 @@
 ---- Wales    38    0    0
 ---- Scotland    60    10    0
 -- Belgium    556    3    1
--- Austria    428    1    6
+-- Austria    504    1    6
 -- Qatar    262    0    0
 -- Bahrain    210    0    44
 -- Singapore    200    0    97
@@ -953,6 +953,7 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    3    0    0
 ---- Northern Territory    1    0    0
+-- Malaysia    197    0    32
 -- Canada    158    1    11
 ---- Ontario    59    0    4
 ---- British Columbia    53    1    4
@@ -962,7 +963,6 @@
 ---- New Brunswick    1    0    0
 ---- Manitoba    3    0    0
 ---- Saskatchewan    1    0    0
--- Malaysia    158    0    32
 -- Israel    157    0    4
 -- Finland    155    0    1
 -- Brazil    151    0    0
