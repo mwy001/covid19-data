@@ -1,21 +1,21 @@
 -- China    161235    6289    121355
 ---- Hubei    135533    6070    96877
------- Wuhan    49986    2430    34096
------- Xiaogan    3518    126    3179
------- Ezhou    1394    55    1176
------- Suizhou    1307    45    1167
------- Jingzhou    1580    49    1452
------- Huanggang    2907    125    2708
------- Yichang    931    36    834
------- Huangshi    1015    38    921
------- Jingmen    928    39    834
------- Shiyan    672    8    614
+------ Wuhan    49991    2436    35197
+------ Xiaogan    3518    126    3204
+------ Ezhou    1394    55    1184
+------ Suizhou    1307    45    1181
+------ Jingzhou    1580    49    1464
+------ Huanggang    2907    125    2720
+------ Yichang    931    36    847
+------ Huangshi    1015    38    938
+------ Jingmen    928    39    839
+------ Shiyan    672    8    626
 ------ Xiantao    575    22    520
------- Xiangyang    1175    38    1105
------- Xianning    836    14    812
------- Enshi Tujia and Miao Autonomous Prefecture    252    7    235
------- Qianjiang    198    9    180
------- Tianmen    496    15    474
+------ Xiangyang    1175    38    1112
+------ Xianning    836    14    816
+------ Enshi Tujia and Miao Autonomous Prefecture    252    7    236
+------ Qianjiang    198    9    182
+------ Tianmen    496    15    476
 ------ Shennongjia    11    0    11
 ---- Guangdong    2709    16    2556
 ------ Shenzhen    420    3    392
@@ -117,7 +117,7 @@
 ------ Ganjiang New District    1    0    1
 ---- Shandong    1518    12    1445
 ------ Jining    260    0    253
------- Weihai    38    0    37
+------ Weihai    38    1    37
 ------ Dezhou    37    2    33
 ------ Qingdao    61    1    59
 ------ Linyi    49    0    48
