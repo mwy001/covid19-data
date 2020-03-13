@@ -577,7 +577,7 @@
 ---- Baden-Württemberg    454    1    14
 ---- Saxony-Anhalt    27    0    0
 ---- Saarland    29    0    0
--- United States of America    1730    41    31
+-- United States of America    1731    41    31
 ---- WA    457    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
