@@ -561,23 +561,23 @@
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
 -- Germany    2078    3    25
----- Saxony    26    0    0
----- Mecklenburg-Vorpommern    17    0    0
----- Free State of Bavaria    366    0    14
----- Berlin    90    0    0
----- Brandenburg    24    0    0
----- Thuringia    10    0    0
----- Schleswig-Holstein    27    0    0
----- Lower Saxony    78    0    1
----- Bremen    32    0    1
----- Hamburg    54    0    0
----- Rhineland-Palatinate    29    0    1
----- North Rhine-Westphalia    801    3    6
----- Hesse    48    0    0
----- Baden-Württemberg    335    0    14
----- Saxony-Anhalt    15    0    0
----- Saarland    14    0    0
--- United States of America    1663    40    15
+---- Saxony    49    0    0
+---- Mecklenburg-Vorpommern    23    0    0
+---- Free State of Bavaria    500    1    14
+---- Berlin    137    0    0
+---- Brandenburg    30    0    0
+---- Thuringia    18    0    0
+---- Schleswig-Holstein    31    0    0
+---- Lower Saxony    129    0    1
+---- Bremen    38    0    1
+---- Hamburg    88    0    0
+---- Rhineland-Palatinate    52    0    1
+---- North Rhine-Westphalia    1041    4    6
+---- Hesse    99    0    0
+---- Baden-Württemberg    454    1    14
+---- Saxony-Anhalt    27    0    0
+---- Saarland    29    0    0
+-- United States of America    1715    41    30
 ---- WA    442    31    1
 ------ King(53033)    190    22    1
 ------ Snohomish(53061)    68    1    0
@@ -861,8 +861,8 @@
 -- Denmark    617    0    1
 ---- Denmark    442    0    1
 ---- Faroe Islands    2    0    0
+-- Sweden    599    1    1
 -- Netherlands    503    5    0
--- Sweden    500    1    1
 -- United Kingdom of Great Britain and Northern Ireland    459    8    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
