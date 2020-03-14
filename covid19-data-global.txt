@@ -579,7 +579,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2329    50    41
+-- United States of America    2333    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -603,10 +603,10 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    299    5    6
+---- CA    301    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    3    0    2
------- San Diego(06073)    8    0    1
+------ San Diego(06073)    11    0    1
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    17    1    1
 ------ Placer(06061)    8    1    0
@@ -640,7 +640,7 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    48    0    0
+---- TX    49    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -652,6 +652,7 @@
 ------ Travis(48453)    3    0    0
 ------ Smith(48423)    3    0    0
 ------ El Paso(48141)    1    0    0
+------ Bell(48027)    1    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
@@ -659,7 +660,7 @@
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    15    0    0
+------ Broward(12011)    20    0    0
 ------ Lee(12071)    4    1    0
 ------ Manatee(12081)    4    0    0
 ------ Okaloosa(12091)    1    0    0
@@ -670,10 +671,10 @@
 ------ Alachua(12001)    3    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    1    0    0
------- Palm Beach(12099)    4    0    0
+------ Palm Beach(12099)    5    0    0
 ------ Clay(12019)    1    0    0
 ------ Duval(12031)    1    0    0
------- Miami-Dade(12086)    7    0    0
+------ Miami-Dade(12086)    8    0    0
 ------ Seminole(12117)    1    0    0
 ------ Orange(12095)    2    1    0
 ------ Osceola(12097)    1    0    0
@@ -1078,7 +1079,7 @@
 -- Costa Rica    23    0    0
 -- Senegal    21    0    2
 -- Oman    19    0    9
--- Hungary    19    0    0
+-- Hungary    19    0    1
 -- Cyprus    19    0    0
 -- Bosnia and Herzegovina    18    0    0
 -- Latvia    17    0    1
@@ -1090,10 +1091,10 @@
 -- Malta    12    0    1
 -- Maldives    9    0    0
 -- Armenia    8    0    0
+-- Morocco    8    1    1
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
 -- Afghanistan    7    0    0
--- Morocco    7    1    1
 -- Sri Lanka    6    0    1
 -- Lithuania    6    0    0
 -- New Zealand    6    0    0
