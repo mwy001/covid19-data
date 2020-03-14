@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2269    48    41
+-- United States of America    2282    48    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -602,8 +602,8 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    287    4    6
------- Los Angeles(06037)    40    1    0
+---- CA    295    4    6
+------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    8    0    1
 ------ Humboldt(06023)    1    0    0
@@ -616,10 +616,10 @@
 ------ San Francisco(06075)    24    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    79    1    1
------- Alameda(06001)    7    0    0
+------ Alameda(06001)    11    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
------- Riverside(06065)    8    0    0
+------ Riverside(06065)    12    0    0
 ------ Shasta(06089)    1    0    0
 ------ Solano(06095)    6    0    0
 ------ Santa Cruz(06087)    7    0    0
@@ -709,12 +709,12 @@
 ------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    2    0    0
 ------ Essex(25009)    2    0    0
----- AZ    9    0    1
+---- AZ    10    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
------- Pima(04019)    1    0    0
----- NC    17    0    0
------- Wake(37183)    8    0    0
+------ Pima(04019)    2    0    0
+---- NC    19    0    0
+------ Wake(37183)    10    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
@@ -745,7 +745,7 @@
 ------ Hudson(34017)    5    0    0
 ------ Monmouth(34025)    8    0    0
 ------ Burlington(34005)    3    0    0
------- Camden(34007)    1    0    0
+------ Camden(34007)    2    0    0
 ------ Passaic(34031)    2    0    0
 ------ Union(34039)    1    0    0
 ------ Middlesex(34023)    6    0    0
@@ -899,7 +899,7 @@
 ------ Butler(39017)    4    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    1    0    0
----- MI    16    0    0
+---- MI    25    0    0
 ------ Oakland(26125)    3    0    0
 ------ Wayne(26163)    2    0    0
 ------ Kent(26081)    3    0    0
@@ -945,7 +945,7 @@
 ---- Northern Ireland    20    0    0
 ---- Wales    38    0    0
 ---- Scotland    60    10    0
--- Japan    701    19    118
+-- Japan    725    21    118
 ---- Hokkaido    137    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -995,7 +995,7 @@
 ---- Western Australia    9    1    0
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
--- Canada    198    1    11
+-- Canada    199    1    11
 ---- Ontario    74    0    4
 ---- British Columbia    64    1    4
 ---- Alberta    29    0    0
