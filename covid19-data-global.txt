@@ -472,7 +472,7 @@
 ---- Liguria    345    17    24
 ---- Veneto    1595    42    100
 ---- Bolzano    125    2    0
--- Iran, Islamic Republic of    11364    514    2959
+-- Iran, Islamic Republic of    11364    514    3529
 ---- Qom    888    30    0
 ---- Tehran    2976    0    0
 ---- Fars    232    2    0
@@ -504,7 +504,7 @@
 ---- North Khorasan    45    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    21    0    0
--- Korea, Republic of    8086    72    510
+-- Korea, Republic of    8086    72    714
 ---- Busan    103    0    40
 ---- Chungcheongbuk-do    28    0    5
 ---- Chungcheongnam-do    115    0    9
@@ -661,19 +661,19 @@
 ------ Santa Rosa(12113)    1    1    0
 ------ Broward(12011)    15    0    0
 ------ Lee(12071)    4    1    0
------- Manatee(12081)    2    0    0
+------ Manatee(12081)    4    0    0
 ------ Okaloosa(12091)    1    0    0
------- Volusia(12127)    3    0    0
+------ Volusia(12127)    4    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Collier(12021)    3    0    0
 ------ Pinellas(12103)    2    0    0
------- Alachua(12001)    2    0    0
+------ Alachua(12001)    3    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    1    0    0
------- Palm Beach(12099)    2    0    0
+------ Palm Beach(12099)    4    0    0
 ------ Clay(12019)    1    0    0
 ------ Duval(12031)    1    0    0
------- Miami-Dade(12086)    3    0    0
+------ Miami-Dade(12086)    7    0    0
 ------ Seminole(12117)    1    0    0
 ------ Orange(12095)    2    1    0
 ------ Osceola(12097)    1    0    0
@@ -952,6 +952,7 @@
 ------ Limestone(01083)    1    0    0
 ---- ID    1    0    0
 ------ Ada(16001)    1    0    0
+---- PR    3    0    0
 -- Switzerland    1139    11    4
 -- Norway    996    1    1
 -- Sweden    814    1    1
@@ -1036,8 +1037,8 @@
 -- Brazil    151    0    1
 -- Slovenia    141    0    0
 -- Czechia    141    0    0
+-- Hong Kong    138    4    78
 -- Iceland    134    0    1
--- Hong Kong    132    4    78
 -- Portugal    112    0    1
 -- Iraq    101    9    24
 -- Kuwait    100    0    5
