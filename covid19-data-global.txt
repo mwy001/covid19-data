@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2504    51    49
+-- United States of America    2506    51    49
 ---- WA    569    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -600,11 +600,12 @@
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    2    0    0
----- IL    46    0    2
+---- IL    47    0    2
 ------ Cook(17031)    40    0    2
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
+------ Coles(17029)    1    0    0
 ---- CA    306    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    3    0    2
@@ -717,7 +718,7 @@
 ------ Worcester(25027)    2    0    0
 ------ Essex(25009)    2    0    0
 ---- AZ    12    0    1
------- Maricopa(04013)    3    0    1
+------ Maricopa(04013)    4    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
 ------ Graham(04009)    1    0    0
@@ -750,6 +751,7 @@
 ------ Orange(36071)    3    0    0
 ------ Broome(36007)    1    0    0
 ------ Schenectady(36093)    1    0    0
+------ Tompkins(36109)    1    0    0
 ---- NJ    50    1    0
 ------ Bergen(34003)    15    1    0
 ------ Hudson(34017)    5    0    0
@@ -804,13 +806,13 @@
 ---- PA    45    0    0
 ------ Delaware(42045)    6    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    18    0    0
+------ Montgomery(42091)    20    0    0
 ------ Monroe(42089)    3    0    0
------- Philadelphia(42101)    3    0    0
+------ Philadelphia(42101)    4    0    0
 ------ Bucks(42017)    3    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
------- Chester(42029)    1    0    0
+------ Chester(42029)    2    0    0
 ------ Washington(42125)    1    0    0
 ------ Cumberland(42041)    3    0    0
 ---- NE    14    0    0
@@ -894,11 +896,14 @@
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ------ Chittenden(50007)    1    0    0
----- LA    51    0    0
------- Jefferson(22051)    2    0    0
+---- LA    52    0    0
+------ Jefferson(22051)    3    0    0
 ------ Orleans(22071)    26    0    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
+------ Terrebonne(22109)    1    0    0
+------ Bossier(22015)    1    0    0
+------ Lafourche(22057)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    9    1    0
@@ -938,7 +943,7 @@
 ------ Silver Bow(30093)    1    0    0
 ------ Yellowstone(30111)    1    0    0
 ---- DE    6    0    0
------- New Castle(10003)    5    0    0
+------ New Castle(10003)    6    0    0
 ---- MS    6    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
@@ -954,7 +959,7 @@
 ---- AK    1    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    10    0    0
----- Others    6    0    0
+---- Others    7    0    0
 ---- AL    6    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    1    0    0
@@ -974,10 +979,10 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1045    2    1
+-- Norway    1052    2    1
 -- Netherlands    959    12    2
--- Sweden    948    2    1
--- Denmark    836    0    1
+-- Sweden    953    2    1
+-- Denmark    836    1    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
 -- Japan    804    22    122
@@ -1041,7 +1046,7 @@
 ---- Saskatchewan    2    2    2
 ---- Grand Princess    2    0    0
 -- Finland    225    0    1
--- Singapore    212    0    97
+-- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    211    0    60
 -- Greece    190    3    2
@@ -1053,9 +1058,10 @@
 -- Czechia    150    0    0
 -- Hong Kong    138    4    78
 -- Philippines    111    8    2
+-- Romania    109    0    9
 -- Estonia    109    0    0
 -- Kuwait    104    0    5
--- Romania    102    0    7
+-- Saudi Arabia    103    0    1
 -- Iraq    101    10    24
 -- San Marino    101    5    4
 -- India    97    2    10
@@ -1064,26 +1070,25 @@
 -- Lebanon    93    3    1
 -- Poland    93    2    0
 -- Ireland    90    1    0
--- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
 -- Thailand    82    1    35
 -- Luxembourg    51    1    0
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
+-- Slovakia    44    0    0
 -- Chile    43    0    0
 -- Serbia    41    0    0
+-- Croatia    38    0    1
 -- South Africa    38    0    0
 -- Peru    38    0    0
 -- Albania    38    1    0
 -- Algeria    37    3    10
--- Croatia    37    0    1
+-- Bulgaria    37    2    0
 -- Brunei Darussalam    37    0    0
 -- Panama    36    1    0
 -- Argentina    34    2    0
--- Slovakia    32    0    0
 -- Pakistan    31    0    2
--- Bulgaria    31    2    0
 -- Georgia    30    0    0
 -- Belarus    27    0    3
 -- Mexico    26    0    4
@@ -1110,19 +1115,19 @@
 -- Lithuania    8    0    0
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
+-- French Guiana    7    0    0
 -- Paraguay    7    0    0
 -- New Zealand    6    0    0
--- French Guiana    6    0    0
 -- Martinique    6    0    0
 -- Moldova, Republic of    6    0    0
 -- Kazakhstan    6    0    0
+-- Bangladesh    5    0    2
 -- Réunion    5    0    0
 -- Turkey    5    0    0
 -- Liechtenstein    4    0    0
 -- Cuba    4    0    0
 -- Uruguay    4    0    0
 -- Ukraine    3    1    0
--- Bangladesh    3    0    2
 -- Bolivia, Plurinational State of    3    0    0
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
