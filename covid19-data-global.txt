@@ -1006,8 +1006,8 @@
 ---- Gunma    3    0    0
 ---- Fukushima    1    0    0
 ---- Saga    1    0    0
+-- Austria    602    1    6
 -- Belgium    559    3    1
--- Austria    504    1    6
 -- Qatar    320    0    0
 -- Bahrain    210    0    44
 -- Australia    200    4    26
@@ -1049,13 +1049,13 @@
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
 -- India    83    2    10
+-- Lebanon    83    3    1
 -- San Marino    80    5    2
 -- Estonia    79    0    0
--- Lebanon    77    3    1
 -- Thailand    75    1    35
 -- Indonesia    69    4    5
 -- Poland    68    2    0
--- Philippines    64    6    2
+-- Philippines    64    8    2
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
@@ -1073,10 +1073,10 @@
 -- Belarus    27    0    3
 -- Panama    27    1    0
 -- Algeria    26    2    10
+-- Ecuador    26    1    0
 -- Costa Rica    26    0    0
 -- Georgia    25    0    0
 -- South Africa    24    0    0
--- Ecuador    23    1    0
 -- Senegal    21    0    2
 -- Oman    19    0    9
 -- Hungary    19    0    1
@@ -1088,9 +1088,9 @@
 -- Mexico    15    0    4
 -- Azerbaijan    15    1    3
 -- North Macedonia    14    0    1
--- Malta    12    0    1
+-- Armenia    13    0    0
+-- Malta    13    0    1
 -- Maldives    9    0    0
--- Armenia    8    0    0
 -- Morocco    8    1    1
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
@@ -1099,6 +1099,7 @@
 -- Lithuania    6    0    0
 -- New Zealand    6    0    0
 -- French Guiana    6    0    0
+-- Martinique    6    0    0
 -- Paraguay    6    0    0
 -- Moldova, Republic of    6    0    0
 -- Kazakhstan    6    0    0
@@ -1109,7 +1110,6 @@
 -- Cuba    4    0    0
 -- Uruguay    4    0    0
 -- Ukraine    3    1    0
--- Martinique    3    0    0
 -- Bangladesh    3    0    1
 -- Bolivia, Plurinational State of    3    0    0
 -- Faroe Islands    3    0    0
