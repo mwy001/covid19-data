@@ -505,23 +505,23 @@
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    21    0    0
 -- Korea, Republic of    8086    72    510
----- Busan    100    0    36
----- Chungcheongbuk-do    27    0    4
----- Chungcheongnam-do    115    0    7
----- Daegu    5928    51    251
+---- Busan    103    0    40
+---- Chungcheongbuk-do    28    0    5
+---- Chungcheongnam-do    115    0    9
+---- Daegu    5990    51    401
 ---- Daejeon    22    0    4
 ---- Gangwon-do    29    1    6
 ---- Gwangju    15    0    4
----- Gyeonggi-do    185    3    31
----- Gyeongsangbuk-do    1147    17    103
+---- Gyeonggi-do    200    3    36
+---- Gyeongsangbuk-do    1153    17    138
 ---- Gyeongsangnam-do    85    0    11
----- Incheon    27    0    4
+---- Incheon    28    0    4
 ---- Jeju-do    4    0    1
 ---- Jeollabuk-do    7    0    4
----- Jeollanam-do    4    0    1
----- Sejong    32    0    0
----- Seoul    225    0    40
----- Ulsan    27    0    3
+---- Jeollanam-do    4    0    2
+---- Sejong    38    0    0
+---- Seoul    238    0    44
+---- Ulsan    27    0    5
 -- Spain    5232    133    193
 ---- Andalusia    219    0    0
 ---- Aragon    45    4    0
@@ -541,22 +541,22 @@
 ---- Rioja    179    2    0
 ---- Valencian Community    65    1    1
 -- Germany    3675    8    46
----- Saxony    51    0    0
----- Mecklenburg-Vorpommern    23    0    0
----- Free State of Bavaria    500    1    14
----- Berlin    158    0    0
----- Brandenburg    31    0    0
----- Thuringia    25    0    0
----- Schleswig-Holstein    31    0    0
----- Lower Saxony    174    0    1
+---- Saxony    83    0    0
+---- Mecklenburg-Vorpommern    33    0    0
+---- Free State of Bavaria    558    1    14
+---- Berlin    174    0    0
+---- Brandenburg    44    0    0
+---- Thuringia    30    0    0
+---- Schleswig-Holstein    48    0    0
+---- Lower Saxony    230    0    1
 ---- Bremen    42    0    1
----- Hamburg    88    0    0
----- Rhineland-Palatinate    101    0    1
----- North Rhine-Westphalia    1278    4    27
----- Hesse    99    0    0
----- Baden-Württemberg    454    2    14
----- Saxony-Anhalt    33    0    0
----- Saarland    29    0    0
+---- Hamburg    99    0    0
+---- Rhineland-Palatinate    102    0    1
+---- North Rhine-Westphalia    1433    4    27
+---- Hesse    148    0    0
+---- Baden-Württemberg    569    3    14
+---- Saxony-Anhalt    42    0    0
+---- Saarland    40    0    0
 -- France    3667    79    12
 ---- France    2281    48    12
 ---- St Martin    2    0    0
@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2287    49    41
+-- United States of America    2289    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -930,10 +930,12 @@
 ---- AK    1    0    0
 ---- DC    10    0    0
 ---- Others    3    0    32
----- AL    5    0    0
+---- AL    6    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    1    0    0
 ------ Tuscaloosa(01125)    1    0    0
+------ Elmore(01051)    1    0    0
+------ Limestone(01083)    1    0    0
 ---- ID    1    0    0
 ------ Ada(16001)    1    0    0
 -- Switzerland    1139    11    4
@@ -947,10 +949,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
----- England    491    10    0
----- Northern Ireland    20    0    0
+---- England    640    10    0
+---- Northern Ireland    29    0    0
 ---- Wales    38    0    0
----- Scotland    60    10    0
+---- Scotland    85    10    0
 -- Japan    734    21    118
 ---- Hokkaido    137    4    53
 ---- kochi    12    0    0
@@ -994,19 +996,19 @@
 -- Singapore    200    0    97
 ---- Central Singapore Community Development Council    200    0    97
 -- Australia    199    4    26
----- New South Wales    65    3    4
----- Victoria    21    0    7
----- Queensland    20    0    8
----- South Australia    9    0    2
----- Western Australia    9    1    0
+---- New South Wales    91    3    4
+---- Victoria    36    0    8
+---- Queensland    35    0    8
+---- South Australia    16    0    3
+---- Western Australia    14    1    0
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 -- Canada    199    1    11
----- Ontario    74    0    4
+---- Ontario    80    0    4
 ---- British Columbia    64    1    4
 ---- Alberta    29    0    0
 ---- Quebec    17    0    0
----- Grand Princess Cruise Ship    1    0    0
+---- Grand Princess Cruise Ship    2    0    0
 ---- New Brunswick    1    0    0
 ---- Manitoba    4    0    0
 ---- Saskatchewan    2    0    0
