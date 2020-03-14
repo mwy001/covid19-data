@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2831    57    49
+-- United States of America    2848    57    49
 ---- WA    642    40    35
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -609,7 +609,7 @@
 ------ Cumberland(17035)    1    0    0
 ------ DuPage(17043)    1    0    0
 ------ Woodford(17203)    1    0    0
----- CA    357    5    6
+---- CA    362    5    6
 ------ Los Angeles(06037)    53    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -618,7 +618,7 @@
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    26    0    0
 ------ Sonoma(06097)    3    0    0
------- Orange(06059)    13    0    0
+------ Orange(06059)    14    0    0
 ------ Contra Costa(06013)    29    0    0
 ------ San Francisco(06075)    28    0    0
 ------ Yolo(06113)    2    0    0
@@ -647,7 +647,7 @@
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    57    0    0
+---- TX    59    0    0
 ------ Bexar(48029)    2    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -688,7 +688,7 @@
 ------ Seminole(12117)    1    0    0
 ------ Orange(12095)    2    1    0
 ------ Osceola(12097)    1    0    0
----- OR    32    0    0
+---- OR    36    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    10    0    0
 ------ Jackson(41029)    2    0    0
@@ -746,7 +746,7 @@
 ------ Harnett(37085)    1    0    0
 ------ Brunswick(37019)    1    0    0
 ------ Craven(37049)    1    0    0
----- NY    527    2    1
+---- NY    529    2    1
 ------ Westchester(36119)    172    0    0
 ------ New York(36061)    213    1    0
 ------ Nassau(36059)    70    0    0
@@ -793,7 +793,7 @@
 ------ Campbell(47013)    1    0    0
 ---- MD    28    0    1
 ------ Montgomery(24031)    6    0    0
------- Harford(24025)    1    0    0
+------ Harford(24025)    2    0    0
 ------ Prince George's(24033)    7    0    0
 ------ Baltimore(24005)    11    0    0
 ------ Charles(24017)    1    0    0
@@ -836,7 +836,7 @@
 ---- KY    16    0    0
 ------ Fayette(21067)    3    0    0
 ------ Harrison(21097)    6    0    0
------- Jefferson(21111)    2    0    0
+------ Jefferson(21111)    4    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
 ---- IN    16    0    0
@@ -975,7 +975,7 @@
 ------ Leflore(28083)    1    0    0
 ------ Copiah(28029)    1    0    0
 ------ Pearl River(28109)    1    0    0
----- WY    2    0    0
+---- WY    3    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
@@ -986,12 +986,13 @@
 ------ Anchorage(02020)    1    0    0
 ---- DC    10    0    0
 ---- Others    7    0    0
----- AL    6    0    0
+---- AL    7    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    1    0    0
 ------ Tuscaloosa(01125)    1    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
+------ Baldwin(01003)    1    0    0
 ---- ID    2    0    0
 ------ Ada(16001)    1    0    0
 ------ Blaine(16013)    1    0    0
@@ -1073,7 +1074,7 @@
 ---- Australian Capital Territory    1    1    1
 -- Malaysia    238    0    35
 -- Greece    228    3    8
--- Finland    225    0    9
+-- Finland    225    0    10
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
@@ -1104,17 +1105,17 @@
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Serbia    46    0    0
+-- Argentina    45    2    0
 -- Russian Federation    45    0    3
 -- Slovakia    44    0    0
 -- Bulgaria    41    2    0
--- Croatia    38    0    1
+-- Croatia    39    0    1
 -- South Africa    38    0    0
 -- Peru    38    0    0
 -- Albania    38    1    0
 -- Algeria    37    3    10
 -- Brunei Darussalam    37    0    0
 -- Panama    36    1    0
--- Argentina    34    2    0
 -- Pakistan    31    0    2
 -- Georgia    30    0    0
 -- Hungary    30    0    1
@@ -1126,10 +1127,10 @@
 -- Cyprus    26    0    0
 -- Colombia    22    0    0
 -- Senegal    21    0    2
+-- Bosnia and Herzegovina    21    0    0
 -- Oman    19    0    9
 -- Armenia    18    0    0
 -- Tunisia    18    0    0
--- Bosnia and Herzegovina    18    0    0
 -- Malta    18    0    1
 -- Morocco    17    1    1
 -- Azerbaijan    15    1    3
@@ -1139,8 +1140,8 @@
 -- Sri Lanka    10    0    1
 -- Martinique    10    0    0
 -- Maldives    10    0    0
+-- Lithuania    9    0    1
 -- Faroe Islands    9    0    0
--- Lithuania    8    0    1
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
 -- French Guiana    7    0    0
