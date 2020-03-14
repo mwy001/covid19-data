@@ -956,13 +956,13 @@
 ---- ID    1    0    0
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
--- Switzerland    1139    11    4
--- Norway    999    1    1
--- Sweden    821    1    1
--- Netherlands    804    10    2
--- Denmark    804    0    1
+-- Switzerland    1359    11    4
+-- Norway    1002    1    1
+-- Denmark    827    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
+-- Sweden    821    2    1
+-- Netherlands    804    10    2
 -- United Kingdom of Great Britain and Northern Ireland    801    8    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -1005,7 +1005,7 @@
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    1    0    0
----- Gunma    3    0    0
+---- Gunma    5    0    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
@@ -1047,6 +1047,7 @@
 -- Estonia    109    0    0
 -- Iraq    101    9    24
 -- Kuwait    100    0    5
+-- Philippines    98    8    2
 -- Romania    97    0    7
 -- Indonesia    96    4    5
 -- Egypt    93    2    27
@@ -1058,7 +1059,6 @@
 -- India    83    2    10
 -- San Marino    80    5    2
 -- Thailand    75    1    35
--- Philippines    64    8    2
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
@@ -1066,18 +1066,19 @@
 -- Serbia    41    0    0
 -- Luxembourg    38    1    0
 -- Peru    38    0    0
+-- Algeria    37    3    10
 -- Croatia    37    0    1
 -- Brunei Darussalam    37    0    0
 -- Panama    36    1    0
 -- Argentina    34    2    0
 -- Albania    33    1    0
 -- Slovakia    32    0    0
--- Bulgaria    31    1    0
+-- Bulgaria    31    2    0
 -- Georgia    30    0    0
 -- Pakistan    28    0    2
--- Algeria    27    2    10
 -- Belarus    27    0    3
 -- Ecuador    26    1    0
+-- Latvia    26    0    1
 -- Costa Rica    26    0    0
 -- Hungary    25    0    1
 -- South Africa    24    0    0
@@ -1086,7 +1087,6 @@
 -- Cyprus    19    0    0
 -- Bosnia and Herzegovina    18    0    0
 -- Malta    18    0    1
--- Latvia    17    0    1
 -- Tunisia    16    0    0
 -- Colombia    16    0    0
 -- Mexico    15    0    4
@@ -1095,11 +1095,12 @@
 -- North Macedonia    14    0    1
 -- Afghanistan    10    0    0
 -- Maldives    9    0    0
+-- Faroe Islands    9    0    0
 -- Morocco    8    1    1
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
+-- Sri Lanka    7    0    1
 -- Lithuania    7    0    0
--- Sri Lanka    6    0    1
 -- New Zealand    6    0    0
 -- French Guiana    6    0    0
 -- Martinique    6    0    0
@@ -1115,7 +1116,6 @@
 -- Ukraine    3    1    0
 -- Bangladesh    3    0    2
 -- Bolivia, Plurinational State of    3    0    0
--- Faroe Islands    3    0    0
 -- French Polynesia    3    0    0
 -- Puerto Rico    3    0    0
 -- Nigeria    2    0    0
