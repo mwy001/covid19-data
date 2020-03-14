@@ -579,7 +579,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2303    50    41
+-- United States of America    2329    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -655,7 +655,7 @@
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
----- FL    54    3    0
+---- FL    76    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -675,7 +675,8 @@
 ------ Duval(12031)    1    0    0
 ------ Miami-Dade(12086)    3    0    0
 ------ Seminole(12117)    1    0    0
------- Orange(12095)    1    1    0
+------ Orange(12095)    2    1    0
+------ Osceola(12097)    1    0    0
 ---- OR    32    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    10    0    0
@@ -932,8 +933,9 @@
 ------ Leflore(28083)    1    0    0
 ------ Copiah(28029)    1    0    0
 ------ Pearl River(28109)    1    0    0
----- WY    1    0    0
+---- WY    2    0    0
 ------ Sheridan(56033)    1    0    0
+------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
 ---- ME    3    0    0
