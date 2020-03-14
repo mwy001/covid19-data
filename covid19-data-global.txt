@@ -1012,8 +1012,7 @@
 -- Austria    602    1    6
 -- Belgium    559    3    1
 -- Qatar    320    0    0
--- Bahrain    210    0    44
--- Australia    200    4    26
+-- Australia    226    4    26
 ---- New South Wales    92    3    4
 ---- Victoria    36    0    8
 ---- Queensland    35    0    8
@@ -1022,6 +1021,7 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
+-- Bahrain    210    0    44
 -- Canada    200    1    11
 ---- Ontario    81    0    4
 ---- British Columbia    64    1    4
@@ -1035,7 +1035,7 @@
 -- Singapore    200    0    97
 ---- Central Singapore Community Development Council    200    0    97
 -- Malaysia    197    0    32
--- Greece    190    1    2
+-- Greece    190    3    2
 -- Israel    161    0    4
 -- Finland    156    0    1
 -- Brazil    151    0    1
@@ -1047,17 +1047,17 @@
 -- Iraq    101    9    24
 -- Kuwait    100    0    5
 -- Romania    97    0    7
+-- Indonesia    96    4    5
 -- Egypt    93    2    27
 -- Ireland    90    1    0
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
+-- Poland    84    2    0
 -- India    83    2    10
 -- Lebanon    83    3    1
 -- San Marino    80    5    2
 -- Estonia    79    0    0
 -- Thailand    75    1    35
--- Indonesia    69    4    5
--- Poland    68    2    0
 -- Philippines    64    8    2
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
@@ -1090,8 +1090,8 @@
 -- Colombia    16    0    0
 -- Mexico    15    0    4
 -- Azerbaijan    15    1    3
+-- Armenia    15    0    0
 -- North Macedonia    14    0    1
--- Armenia    13    0    0
 -- Malta    13    0    1
 -- Afghanistan    10    0    0
 -- Maldives    9    0    0
