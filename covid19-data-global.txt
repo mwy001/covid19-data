@@ -71,11 +71,11 @@
 ------ Quzhou    14    0    14
 ------ Zhoushan    10    0    10
 ---- Hunan    1018    4    999
------- Changsha    242    2    236
+------ Changsha    242    2    238
 ------ Yueyang    156    1    153
 ------ Zhuzhou    80    0    79
------- Shaoyang    102    1    100
------- Loudi    76    0    75
+------ Shaoyang    102    1    101
+------ Loudi    76    0    76
 ------ Changde    82    0    82
 ------ Yiyang    60    0    60
 ------ Hengyang    48    0    48
@@ -116,7 +116,7 @@
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
 ---- Shandong    760    6    734
------- Jining    260    0    253
+------ Jining    260    0    254
 ------ Dezhou    37    2    33
 ------ Qingdao    61    1    59
 ------ Linyi    49    0    48
@@ -146,7 +146,7 @@
 ------ Suqian    13    0    13
 ------ Zhenjiang    12    0    12
 ---- Chongqing    576    6    564
------- Changshou District    22    0    19
+------ Changshou District    22    0    21
 ------ Qijiang District    23    0    22
 ------ Dazu District    14    0    13
 ------ Rongchang District    9    0    8
@@ -186,12 +186,12 @@
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
 ---- Sichuan    539    3    498
------- Chengdu    144    3    115
+------ Chengdu    144    3    121
 ------ Bazhong    24    0    21
 ------ Garzê Tibetan Autonomous Prefecture    78    0    76
 ------ Mianyang    22    0    22
 ------ Dazhou    42    0    42
------- Guang'an    30    0    29
+------ Guang'an    30    0    30
 ------ Meishan    8    0    7
 ------ Nanchong    39    0    39
 ------ Luzhou    24    0    24
@@ -213,7 +213,7 @@
 ------ Suihua    47    4    41
 ------ Qiqihar    43    1    40
 ------ Daqing    26    1    23
------- Mudanjiang    15    0    13
+------ Mudanjiang    15    0    14
 ------ Jixi    46    0    45
 ------ Qitaihe    17    0    16
 ------ Heihe    14    0    13
@@ -337,9 +337,9 @@
 ------ Ledong Li Autonomous County    2    0    2
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Guizhou    146    2    137
------- Guiyang    36    1    33
------- Zunyi    32    0    31
------- Liupanshui    10    1    8
+------ Guiyang    36    1    34
+------ Zunyi    32    0    32
+------ Liupanshui    10    1    9
 ------ Bijie    23    0    23
 ------ Qiannan    17    0    17
 ------ Tongren    10    0    10
@@ -389,7 +389,7 @@
 ---- Hong Kong    129    3    67
 ---- Liaoning    125    1    112
 ------ Dandong    11    0    7
------- Dalian    19    0    16
+------ Dalian    19    0    17
 ------ Shenyang    28    0    26
 ------ Huludao    12    1    9
 ------ Chaoyang    6    0    5
@@ -504,7 +504,7 @@
 ---- North Khorasan    45    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    21    0    0
--- Korea, Republic of    7979    66    510
+-- Korea, Republic of    8086    72    510
 ---- Busan    100    0    36
 ---- Chungcheongbuk-do    27    0    4
 ---- Chungcheongnam-do    115    0    7
@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2282    48    41
+-- United States of America    2287    49    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -602,7 +602,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    295    4    6
+---- CA    295    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    8    0    1
@@ -615,7 +615,7 @@
 ------ Contra Costa(06013)    25    0    0
 ------ San Francisco(06075)    24    0    0
 ------ Yolo(06113)    2    0    0
------- Santa Clara(06085)    79    1    1
+------ Santa Clara(06085)    79    2    1
 ------ Alameda(06001)    11    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
@@ -639,9 +639,9 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    46    0    0
+---- TX    47    0    0
 ------ Bexar(48029)    1    0    0
------- Harris(48201)    9    0    0
+------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    5    0    0
 ------ Gregg(48183)    1    0    0
@@ -911,7 +911,11 @@
 ------ Bernalillo(35001)    5    0    0
 ------ Santa Fe(35049)    3    0    0
 ---- AR    9    0    0
----- MT    1    0    0
+---- MT    5    0    0
+------ Gallatin(30031)    1    0    0
+------ Lewis and Clark(30049)    1    0    0
+------ Silver Bow(30093)    1    0    0
+------ Yellowstone(30111)    1    0    0
 ---- DE    4    0    0
 ------ New Castle(10003)    4    0    0
 ---- MS    6    0    0
@@ -929,7 +933,9 @@
 ---- AL    5    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    1    0    0
+------ Tuscaloosa(01125)    1    0    0
 ---- ID    1    0    0
+------ Ada(16001)    1    0    0
 -- Switzerland    1139    11    4
 -- Norway    996    1    1
 -- Sweden    814    1    1
@@ -945,7 +951,7 @@
 ---- Northern Ireland    20    0    0
 ---- Wales    38    0    0
 ---- Scotland    60    10    0
--- Japan    725    21    118
+-- Japan    734    21    118
 ---- Hokkaido    137    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
