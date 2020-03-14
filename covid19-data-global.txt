@@ -1060,10 +1060,10 @@
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
 -- Chile    43    0    0
+-- Serbia    41    0    0
 -- Luxembourg    38    1    0
 -- Peru    38    0    0
 -- Brunei Darussalam    37    0    0
--- Serbia    35    0    0
 -- Argentina    34    2    0
 -- Albania    33    1    0
 -- Croatia    32    0    1
@@ -1073,10 +1073,10 @@
 -- Belarus    27    0    3
 -- Panama    27    1    0
 -- Algeria    26    2    10
+-- Costa Rica    26    0    0
 -- Georgia    25    0    0
 -- South Africa    24    0    0
 -- Ecuador    23    1    0
--- Costa Rica    23    0    0
 -- Senegal    21    0    2
 -- Oman    19    0    9
 -- Hungary    19    0    1
@@ -1101,12 +1101,12 @@
 -- French Guiana    6    0    0
 -- Paraguay    6    0    0
 -- Moldova, Republic of    6    0    0
+-- Kazakhstan    6    0    0
 -- Dominican Republic    5    0    0
 -- Réunion    5    0    0
 -- Turkey    5    0    0
 -- Liechtenstein    4    0    0
 -- Cuba    4    0    0
--- Kazakhstan    4    0    0
 -- Uruguay    4    0    0
 -- Ukraine    3    1    0
 -- Martinique    3    0    0
