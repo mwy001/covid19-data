@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2669    55    49
+-- United States of America    2704    55    49
 ---- WA    572    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -600,11 +600,11 @@
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    2    0    0
----- IL    63    0    2
+---- IL    64    0    2
 ------ Cook(17031)    51    0    2
------- Kane(17089)    2    0    0
+------ Kane(17089)    3    0    0
 ------ McHenry(17111)    2    0    0
------- Lake(17097)    2    0    0
+------ Lake(17097)    3    0    0
 ------ Coles(17029)    1    0    0
 ------ Cumberland(17035)    1    0    0
 ------ DuPage(17043)    1    0    0
@@ -638,15 +638,16 @@
 ------ San Joaquin(06077)    9    0    0
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    2    0    0
----- WI    19    0    1
------- Dane(55025)    5    0    1
+---- WI    27    0    1
+------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    6    0    0
------- Waukesha(55133)    1    0    0
+------ Waukesha(55133)    2    0    0
 ------ Sheboygan(55117)    3    0    0
------- Milwaukee(55079)    2    0    0
+------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
----- TX    54    0    0
+------ Winnebago(55139)    1    0    0
+---- TX    57    0    0
 ------ Bexar(48029)    2    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -661,6 +662,7 @@
 ------ Bell(48027)    1    0    0
 ------ Galveston(48167)    1    0    0
 ------ Lavaca(48285)    1    0    0
+------ Brazoria(48039)    2    0    0
 ---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
@@ -714,15 +716,16 @@
 ------ Lee(13177)    1    0    0
 ------ Lowndes(13185)    1    0    0
 ------ Coweta(13077)    2    0    0
----- MA    124    0    1
------- Norfolk(25021)    24    0    0
------- Suffolk(25025)    26    0    1
------- Middlesex(25017)    60    0    0
+---- MA    138    0    1
+------ Norfolk(25021)    28    0    0
+------ Suffolk(25025)    27    0    1
+------ Middlesex(25017)    65    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    2    0    0
------- Essex(25009)    2    0    0
+------ Essex(25009)    5    0    0
 ------ Barnstable(25001)    1    0    0
+------ Bristol(25005)    1    0    0
 ---- AZ    12    0    1
 ------ Maricopa(04013)    4    0    1
 ------ Pinal(04021)    5    0    0
@@ -879,8 +882,8 @@
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
----- VA    31    0    0
------- Fairfax(51059)    6    0    0
+---- VA    39    0    0
+------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    5    0    0
 ------ Spotsylvania(51177)    1    0    0
@@ -890,11 +893,12 @@
 ------ Prince Edward(51147)    1    0    0
 ------ Prince William(51153)    2    0    0
 ------ Chesterfield(51041)    1    0    0
----- KS    7    1    0
+---- KS    8    1    0
 ------ Johnson(20091)    5    0    0
 ------ Wyandotte(20209)    1    1    0
 ------ Butler(20015)    1    0    0
 ------ Sedgwick(20173)    1    0    0
+------ Franklin(20059)    1    0    0
 ---- MO    4    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    1    0    0
@@ -994,7 +998,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1078    2    1
+-- Norway    1084    2    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1065,15 +1069,15 @@
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
+-- Israel    193    0    4
 -- Czechia    189    0    0
 -- Slovenia    181    1    0
--- Israel    178    0    4
 -- Portugal    169    0    2
 -- Iceland    156    0    1
 -- Brazil    151    0    1
 -- Hong Kong    142    4    81
 -- Ireland    129    2    0
--- Romania    116    0    9
+-- Romania    121    0    9
 -- Estonia    115    0    0
 -- Philippines    111    8    2
 -- Iraq    110    10    26
@@ -1111,9 +1115,9 @@
 -- Mexico    26    0    4
 -- Latvia    26    0    1
 -- Costa Rica    26    0    0
+-- Cyprus    26    0    0
 -- Colombia    22    0    0
 -- Senegal    21    0    2
--- Cyprus    21    0    0
 -- Oman    19    0    9
 -- Armenia    18    0    0
 -- Tunisia    18    0    0
