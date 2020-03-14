@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    4585    9    46
+-- Germany    4599    9    46
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
@@ -581,11 +581,11 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2736    55    49
----- WA    572    37    35
------- King(53033)    328    32    1
------- Snohomish(53061)    133    4    0
------- Grant(53025)    1    1    0
+-- United States of America    2811    55    49
+---- WA    642    37    35
+------ King(53033)    387    32    1
+------ Snohomish(53061)    154    4    0
+------ Grant(53025)    2    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    3    0    0
 ------ Jefferson(53031)    1    0    0
@@ -593,13 +593,13 @@
 ------ Kittitas(53037)    3    0    0
 ------ Spokane(53063)    3    0    0
 ------ Kitsap(53035)    3    0    0
------- Skagit(53057)    3    0    0
------- Thurston(53067)    1    0    0
------- Island(53029)    4    0    0
+------ Skagit(53057)    4    0    0
+------ Thurston(53067)    3    0    0
+------ Island(53029)    6    0    0
 ------ Whatcom(53073)    2    0    0
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
------- Yakima(53077)    2    0    0
+------ Yakima(53077)    4    0    0
 ---- IL    64    0    2
 ------ Cook(17031)    51    0    2
 ------ Kane(17089)    3    0    0
@@ -700,7 +700,7 @@
 ------ Deschutes(41017)    3    0    0
 ------ Linn(41043)    8    0    0
 ------ Clackamas(41005)    1    0    0
----- GA    66    1    0
+---- GA    73    1    0
 ------ Fulton(13121)    13    0    0
 ------ Cobb(13067)    15    1    0
 ------ Polk(13233)    1    0    0
@@ -716,6 +716,7 @@
 ------ Lee(13177)    1    0    0
 ------ Lowndes(13185)    1    0    0
 ------ Coweta(13077)    2    0    0
+------ Dougherty(13095)    7    0    0
 ---- MA    138    0    1
 ------ Norfolk(25021)    28    0    0
 ------ Suffolk(25025)    27    0    1
@@ -887,7 +888,7 @@
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
----- VA    41    0    0
+---- VA    41    1    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    7    0    0
@@ -955,10 +956,11 @@
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
 ------ Macomb(26099)    2    0    0
----- NM    10    0    0
+---- NM    13    0    0
 ------ Socorro(35053)    2    0    0
------- Bernalillo(35001)    5    0    0
+------ Bernalillo(35001)    6    0    0
 ------ Santa Fe(35049)    3    0    0
+------ Sandoval(35043)    2    0    0
 ---- AR    12    0    0
 ------ Jefferson(05069)    3    0    0
 ---- MT    5    0    0
@@ -1004,7 +1006,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1088    3    1
+-- Norway    1090    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1059,10 +1061,10 @@
 ---- Tasmania    5    5    5
 ---- Northern Territory    1    1    1
 ---- Australian Capital Territory    1    1    1
--- Canada    238    1    11
+-- Canada    249    1    11
 ---- Ontario    101    83    83
 ---- British Columbia    73    69    69
----- Alberta    29    29    29
+---- Alberta    39    29    29
 ---- Quebec    24    17    17
 ---- Grand Princess Cruise Ship    2    0    0
 ---- New Brunswick    2    1    1
@@ -1071,7 +1073,7 @@
 ---- Grand Princess    2    0    0
 -- Malaysia    238    0    35
 -- Greece    228    3    8
--- Finland    225    0    1
+-- Finland    225    0    9
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
@@ -1118,9 +1120,9 @@
 -- Hungary    30    0    1
 -- Ecuador    28    1    0
 -- Belarus    27    0    3
+-- Costa Rica    27    0    0
 -- Mexico    26    0    4
 -- Latvia    26    0    1
--- Costa Rica    26    0    0
 -- Cyprus    26    0    0
 -- Colombia    22    0    0
 -- Senegal    21    0    2
