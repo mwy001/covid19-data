@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2294    50    41
+-- United States of America    2297    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -1036,7 +1036,7 @@
 -- Ireland    90    1    0
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
--- India    82    2    10
+-- India    83    2    10
 -- San Marino    80    5    2
 -- Estonia    79    0    0
 -- Lebanon    77    3    1
