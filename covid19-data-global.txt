@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    5753    136    517
+-- Spain    5945    140    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    3758    8    46
+-- Germany    3953    8    46
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
@@ -716,11 +716,11 @@
 ------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    2    0    0
 ------ Essex(25009)    2    0    0
----- AZ    10    0    1
+---- AZ    11    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
----- NC    19    0    0
+---- NC    20    0    0
 ------ Wake(37183)    10    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -732,6 +732,7 @@
 ------ Onslow(37133)    1    0    0
 ------ Wayne(37191)    1    0    0
 ------ Harnett(37085)    1    0    0
+------ Brunswick(37019)    1    0    0
 ---- NY    435    0    0
 ------ Westchester(36119)    158    0    0
 ------ New York(36061)    154    0    0
@@ -958,7 +959,7 @@
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
--- Norway    1032    1    1
+-- Norway    1033    1    1
 -- Sweden    867    2    1
 -- Denmark    836    0    1
 ---- Denmark    801    0    1
@@ -973,7 +974,7 @@
 ---- Wales    38    0    0
 ---- Scotland    85    10    0
 ---- United Kingdom    798    8    18
--- Japan    738    21    118
+-- Japan    754    21    118
 ---- Hokkaido    142    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1046,10 +1047,10 @@
 -- Iceland    138    0    1
 -- Hong Kong    138    4    78
 -- Estonia    109    0    0
+-- Kuwait    104    0    5
 -- Iraq    101    10    24
--- Kuwait    100    0    5
+-- Romania    99    0    7
 -- Philippines    98    8    2
--- Romania    97    0    7
 -- Indonesia    96    4    5
 -- Egypt    93    2    27
 -- Lebanon    93    3    1
@@ -1060,12 +1061,12 @@
 -- Poland    84    2    0
 -- Thailand    82    1    35
 -- San Marino    80    5    2
+-- Luxembourg    51    1    0
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
 -- Chile    43    0    0
 -- Serbia    41    0    0
--- Luxembourg    38    1    0
 -- Peru    38    0    0
 -- Albania    38    1    0
 -- Algeria    37    3    10
@@ -1094,8 +1095,9 @@
 -- Azerbaijan    15    1    3
 -- Armenia    15    0    0
 -- North Macedonia    14    0    1
+-- Dominican Republic    11    0    0
 -- Afghanistan    10    0    0
--- Maldives    9    0    0
+-- Maldives    10    0    0
 -- Faroe Islands    9    0    0
 -- Sri Lanka    8    0    1
 -- Morocco    8    1    1
@@ -1108,7 +1110,6 @@
 -- Paraguay    6    0    0
 -- Moldova, Republic of    6    0    0
 -- Kazakhstan    6    0    0
--- Dominican Republic    5    0    0
 -- Réunion    5    0    0
 -- Turkey    5    0    0
 -- Liechtenstein    4    0    0
