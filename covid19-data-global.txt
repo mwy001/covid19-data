@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2291    50    41
+-- United States of America    2294    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -593,7 +593,7 @@
 ------ Skagit(53057)    3    0    0
 ------ Thurston(53067)    1    0    0
 ------ Island(53029)    4    0    0
------- Whatcom(53073)    1    0    0
+------ Whatcom(53073)    2    0    0
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    2    0    0
@@ -639,7 +639,7 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    47    0    0
+---- TX    48    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -650,6 +650,7 @@
 ------ Montgomery(48339)    3    0    0
 ------ Travis(48453)    3    0    0
 ------ Smith(48423)    3    0    0
+------ El Paso(48141)    1    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    3    0    0
@@ -834,9 +835,10 @@
 ------ Wright(27171)    1    0    0
 ---- RI    14    0    0
 ------ Providence(44007)    5    0    0
----- CT    11    0    0
+---- CT    12    0    0
 ------ Fairfield(09001)    8    0    0
 ------ Litchfield(09005)    3    0    0
+------ Hartford(09003)    1    0    0
 ---- SC    13    0    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    5    0    0
@@ -1005,6 +1007,7 @@
 ---- Western Australia    14    1    0
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
+---- Australian Capital Territory    1    0    0
 -- Canada    200    1    11
 ---- Ontario    81    0    4
 ---- British Columbia    64    1    4
