@@ -603,7 +603,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    301    5    6
+---- CA    302    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    11    0    1
@@ -970,7 +970,7 @@
 ---- Wales    38    0    0
 ---- Scotland    85    10    0
 ---- United Kingdom    798    8    18
--- Japan    734    21    118
+-- Japan    738    21    118
 ---- Hokkaido    137    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
