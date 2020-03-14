@@ -450,7 +450,7 @@
 ---- Macau    10    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
--- Italy    17660    1266    1439
+-- Italy    21157    1441    1966
 ---- Abruzzo    89    2    4
 ---- Aosta Valley    28    1    0
 ---- Apulia    129    5    3
@@ -559,7 +559,7 @@
 ---- Baden-Württemberg    569    3    14
 ---- Saxony-Anhalt    42    0    0
 ---- Saarland    40    0    0
--- France    3667    79    12
+-- France    3672    79    12
 ---- France    3661    79    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2506    51    49
+-- United States of America    2511    55    49
 ---- WA    569    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -703,7 +703,7 @@
 ------ Floyd(13115)    3    0    0
 ------ Fayette(13113)    3    0    0
 ------ Charlton(13049)    1    0    0
------- Bartow(13015)    4    0    0
+------ Bartow(13015)    7    0    0
 ------ Gordon(13129)    2    0    0
 ------ Camden(13039)    1    0    0
 ------ Lee(13177)    1    0    0
@@ -722,8 +722,8 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
 ------ Graham(04009)    1    0    0
----- NC    23    0    0
------- Wake(37183)    10    0    0
+---- NC    24    0    0
+------ Wake(37183)    12    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
@@ -735,6 +735,7 @@
 ------ Wayne(37191)    1    0    0
 ------ Harnett(37085)    1    0    0
 ------ Brunswick(37019)    1    0    0
+------ Craven(37049)    1    0    0
 ---- NY    524    1    1
 ------ Westchester(36119)    158    0    0
 ------ New York(36061)    154    1    0
@@ -787,7 +788,7 @@
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    1    0    0
 ------ Carroll(24013)    1    0    0
----- CO    77    1    0
+---- CO    78    1    0
 ------ Denver(08031)    15    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    4    0    0
@@ -803,6 +804,7 @@
 ------ Weld(08123)    2    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
+------ Mesa(08077)    1    0    0
 ---- PA    45    0    0
 ------ Delaware(42045)    6    0    0
 ------ Wayne(42127)    1    0    0
@@ -896,12 +898,12 @@
 ---- VT    2    0    0
 ------ Bennington(50003)    1    0    0
 ------ Chittenden(50007)    1    0    0
----- LA    52    0    0
------- Jefferson(22051)    3    0    0
------- Orleans(22071)    26    0    0
+---- LA    53    4    0
+------ Jefferson(22051)    4    4    0
+------ Orleans(22071)    37    0    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
------- Terrebonne(22109)    1    0    0
+------ Terrebonne(22109)    2    0    0
 ------ Bossier(22015)    1    0    0
 ------ Lafourche(22057)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    46    0    0
@@ -980,8 +982,8 @@
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
 -- Norway    1052    2    1
+-- Sweden    961    2    1
 -- Netherlands    959    12    2
--- Sweden    953    2    1
 -- Denmark    836    1    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
@@ -1048,7 +1050,7 @@
 -- Finland    225    0    1
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
--- Bahrain    211    0    60
+-- Bahrain    212    0    60
 -- Greece    190    3    2
 -- Slovenia    181    0    0
 -- Portugal    169    0    2
