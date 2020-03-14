@@ -1,6 +1,6 @@
 -- China    80945    3180    64196
 ---- Hubei    67786    3062    51553
------- Wuhan    49995    2446    36451
+------ Wuhan    49995    2446    36465
 ------ Xiaogan    3518    126    3237
 ------ Ezhou    1394    57    1212
 ------ Suizhou    1307    45    1192
@@ -8,7 +8,7 @@
 ------ Huanggang    2907    125    2730
 ------ Jingmen    928    39    860
 ------ Yichang    931    36    858
------- Huangshi    1015    38    940
+------ Huangshi    1015    38    943
 ------ Shiyan    672    8    629
 ------ Xiantao    575    22    520
 ------ Xiangyang    1175    38    1115
@@ -39,8 +39,8 @@
 ------ Chaozhou    5    0    5
 ------ Heyuan    4    0    4
 ---- Henan    1273    22    1249
------- Xinyang    274    2    271
------- Zhengzhou    158    5    152
+------ Xinyang    274    2    272
+------ Zhengzhou    157    5    152
 ------ Nanyang    156    3    153
 ------ Zhumadian    139    0    139
 ------ Shangqiu    91    3    88
@@ -71,7 +71,7 @@
 ------ Quzhou    14    0    14
 ------ Zhoushan    10    0    10
 ---- Hunan    1018    4    1005
------- Changsha    242    2    238
+------ Changsha    242    2    240
 ------ Yueyang    156    1    155
 ------ Zhuzhou    80    0    80
 ------ Shaoyang    102    1    101
@@ -438,7 +438,7 @@
 ------ Wuhai    2    0    2
 ------ Xinganmeng    1    0    1
 ---- Ningxia    75    0    72
------- Yinchuan    36    0    34
+------ Yinchuan    36    0    35
 ------ Zhongwei    4    0    3
 ------ Wuzhong    28    0    28
 ------ Guyuan    5    0    5
@@ -956,8 +956,8 @@
 ---- ID    1    0    0
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
--- Switzerland    1359    11    4
--- Norway    1002    1    1
+-- Switzerland    1373    11    4
+-- Norway    1003    1    1
 -- Denmark    827    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
@@ -1021,7 +1021,7 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
--- Bahrain    210    0    44
+-- Bahrain    211    0    60
 -- Canada    200    1    11
 ---- Ontario    81    0    4
 ---- British Columbia    64    1    4
@@ -1057,8 +1057,8 @@
 -- United Arab Emirates    85    0    20
 -- Poland    84    2    0
 -- India    83    2    10
+-- Thailand    82    1    35
 -- San Marino    80    5    2
--- Thailand    75    1    35
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
 -- Russian Federation    45    0    3
@@ -1083,8 +1083,8 @@
 -- Hungary    25    0    1
 -- South Africa    24    0    0
 -- Senegal    21    0    2
+-- Cyprus    21    0    0
 -- Oman    19    0    9
--- Cyprus    19    0    0
 -- Bosnia and Herzegovina    18    0    0
 -- Malta    18    0    1
 -- Tunisia    16    0    0
@@ -1127,6 +1127,7 @@
 -- Aruba    2    0    0
 -- Ghana    2    0    0
 -- Saint Martin (French part)    2    0    0
+-- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
 -- Nepal    1    0    1
 -- Andorra    1    0    1
@@ -1150,4 +1151,4 @@
 -- Saint Lucia    1    0    0
 -- Sudan    1    1    0
 -- Suriname    1    0    0
--- Trinidad and Tobago    1    0    0
+-- Rwanda    1    0    0
