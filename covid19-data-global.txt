@@ -546,15 +546,15 @@
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
----- Berlin    174    0    0
+---- Berlin    216    0    0
 ---- Brandenburg    44    0    0
----- Thuringia    30    0    0
+---- Thuringia    33    0    0
 ---- Schleswig-Holstein    48    0    0
 ---- Lower Saxony    230    0    1
----- Bremen    42    0    1
----- Hamburg    99    0    0
+---- Bremen    48    0    1
+---- Hamburg    123    0    0
 ---- Rhineland-Palatinate    102    0    1
----- North Rhine-Westphalia    1433    4    27
+---- North Rhine-Westphalia    1636    4    27
 ---- Hesse    148    0    0
 ---- Baden-Württemberg    569    3    14
 ---- Saxony-Anhalt    42    0    0
@@ -581,8 +581,8 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2340    50    41
----- WA    627    37    1
+-- United States of America    2340    50    47
+---- WA    627    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
 ------ Grant(53025)    1    1    0
@@ -627,7 +627,7 @@
 ------ Solano(06095)    6    0    0
 ------ Santa Cruz(06087)    7    0    0
 ------ Napa(06055)    1    0    0
------- Ventura(06111)    4    0    0
+------ Ventura(06111)    5    0    0
 ------ Marin(06041)    3    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Stanislaus(06099)    2    0    0
@@ -865,7 +865,7 @@
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
----- VA    30    0    0
+---- VA    31    0    0
 ------ Fairfax(51059)    6    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    5    0    0
@@ -875,6 +875,7 @@
 ------ Harrisonburg(51660)    1    0    0
 ------ Prince Edward(51147)    1    0    0
 ------ Prince William(51153)    2    0    0
+------ Chesterfield(51041)    1    0    0
 ---- KS    6    1    0
 ------ Johnson(20091)    4    0    0
 ------ Wyandotte(20209)    1    1    0
@@ -961,19 +962,19 @@
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
--- Norway    1034    1    1
+-- Norway    1035    1    1
+-- Netherlands    959    12    2
 -- Sweden    941    2    1
 -- Denmark    836    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
--- Netherlands    804    10    2
 -- United Kingdom of Great Britain and Northern Ireland    801    10    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
 ---- England    645    10    0
 ---- Northern Ireland    29    0    0
----- Wales    38    0    0
+---- Wales    60    0    0
 ---- Scotland    85    10    0
 ---- United Kingdom    798    8    18
 -- Japan    754    21    118
@@ -991,17 +992,17 @@
 ---- Tokyo    87    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    17    0    2
----- Osaka    92    0    1
+---- Osaka    102    0    1
 ---- Chiba    31    0    0
 ---- Kanagawa    50    3    1
 ---- Shizuoka    3    0    0
----- Aichi    114    10    2
+---- Aichi    121    10    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    57    1    0
+---- hyogo    67    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -1041,18 +1042,18 @@
 -- Singapore    200    0    97
 ---- Central Singapore Community Development Council    200    0    97
 -- Greece    190    3    2
+-- Slovenia    181    0    0
 -- Portugal    169    0    2
 -- Israel    164    0    4
 -- Iceland    156    0    1
 -- Brazil    151    0    1
 -- Czechia    150    0    0
--- Slovenia    141    0    0
 -- Hong Kong    138    4    78
 -- Estonia    109    0    0
 -- Kuwait    104    0    5
+-- Romania    102    0    7
 -- Iraq    101    10    24
 -- San Marino    101    5    4
--- Romania    99    0    7
 -- Philippines    98    8    2
 -- Indonesia    96    4    5
 -- Egypt    93    2    27
@@ -1106,10 +1107,10 @@
 -- Lithuania    8    0    0
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
+-- Paraguay    7    0    0
 -- New Zealand    6    0    0
 -- French Guiana    6    0    0
 -- Martinique    6    0    0
--- Paraguay    6    0    0
 -- Moldova, Republic of    6    0    0
 -- Kazakhstan    6    0    0
 -- Réunion    5    0    0
