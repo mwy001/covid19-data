@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    5945    140    517
+-- Spain    5945    191    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -720,6 +720,7 @@
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
+------ Graham(04009)    1    0    0
 ---- NC    20    0    0
 ------ Wake(37183)    10    0    0
 ------ Chatham(37037)    1    0    0
@@ -766,7 +767,7 @@
 ---- NV    20    0    0
 ------ Clark(32003)    16    0    0
 ------ Washoe(32031)    3    0    0
----- TN    26    0    0
+---- TN    27    0    0
 ------ Williamson(47187)    9    0    0
 ------ Davidson(47037)    10    0    0
 ------ Shelby(47157)    2    0    0
@@ -775,6 +776,7 @@
 ------ Hamilton(47065)    1    0    0
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
+------ Campbell(47013)    1    0    0
 ---- MD    24    0    0
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
@@ -959,8 +961,8 @@
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
--- Norway    1033    1    1
--- Sweden    867    2    1
+-- Norway    1034    1    1
+-- Sweden    880    2    1
 -- Denmark    836    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
@@ -1014,7 +1016,7 @@
 -- Belgium    689    4    1
 -- Austria    602    1    6
 -- Qatar    337    0    0
--- Australia    248    4    26
+-- Australia    248    4    27
 ---- New South Wales    92    3    4
 ---- Victoria    36    0    8
 ---- Queensland    35    0    8
@@ -1054,11 +1056,11 @@
 -- Indonesia    96    4    5
 -- Egypt    93    2    27
 -- Lebanon    93    3    1
+-- Poland    93    2    0
 -- Ireland    90    1    0
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
 -- India    84    2    10
--- Poland    84    2    0
 -- Thailand    82    1    35
 -- San Marino    80    5    2
 -- Luxembourg    51    1    0
@@ -1089,6 +1091,7 @@
 -- Oman    19    0    9
 -- Bosnia and Herzegovina    18    0    0
 -- Malta    18    0    1
+-- Morocco    17    1    1
 -- Tunisia    16    0    0
 -- Colombia    16    0    0
 -- Mexico    15    0    4
@@ -1100,10 +1103,9 @@
 -- Maldives    10    0    0
 -- Faroe Islands    9    0    0
 -- Sri Lanka    8    0    1
--- Morocco    8    1    1
+-- Lithuania    8    0    0
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
--- Lithuania    7    0    0
 -- New Zealand    6    0    0
 -- French Guiana    6    0    0
 -- Martinique    6    0    0
