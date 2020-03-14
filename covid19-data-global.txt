@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    6313    193    517
+-- Spain    6315    193    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -773,8 +773,8 @@
 ------ Clark(32003)    16    0    0
 ------ Washoe(32031)    4    0    0
 ---- TN    32    0    0
------- Williamson(47187)    9    0    0
------- Davidson(47037)    13    0    0
+------ Williamson(47187)    10    0    0
+------ Davidson(47037)    14    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    1    0    0
@@ -803,7 +803,7 @@
 ------ Pitkin(08097)    15    0    0
 ------ Adams(08001)    6    0    0
 ------ Boulder(08013)    1    0    0
------- Weld(08123)    2    0    0
+------ Weld(08123)    3    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
@@ -842,14 +842,14 @@
 ------ LaPorte(18091)    1    0    0
 ------ Wells(18179)    1    0    0
 ---- MN    21    0    0
------- Ramsey(27123)    3    0    0
+------ Ramsey(27123)    5    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    1    0    0
 ------ Olmsted(27109)    1    0    0
 ------ Carver(27019)    1    0    0
 ------ Dakota(27037)    2    0    0
------- Hennepin(27053)    1    0    0
------- Stearns(27145)    1    0    0
+------ Hennepin(27053)    6    0    0
+------ Stearns(27145)    3    0    0
 ------ Wright(27171)    1    0    0
 ---- RI    20    0    0
 ------ Providence(44007)    20    0    0
@@ -923,13 +923,14 @@
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
 ---- OH    26    0    0
------- Cuyahoga(39035)    6    0    0
------- Stark(39151)    2    0    0
+------ Cuyahoga(39035)    11    0    0
+------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    4    0    0
 ------ Belmont(39013)    2    0    0
------- Summit(39153)    1    0    0
+------ Summit(39153)    2    0    0
 ------ Franklin(39049)    1    0    0
+------ Lorain(39093)    1    0    0
 ---- MI    25    0    0
 ------ Oakland(26125)    8    0    0
 ------ Wayne(26163)    8    0    0
@@ -944,7 +945,8 @@
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    5    0    0
 ------ Santa Fe(35049)    3    0    0
----- AR    9    0    0
+---- AR    12    0    0
+------ Jefferson(05069)    3    0    0
 ---- MT    5    0    0
 ------ Gallatin(30031)    1    0    0
 ------ Lewis and Clark(30049)    1    0    0
@@ -987,7 +989,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1072    2    1
+-- Norway    1077    2    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1043,7 +1045,7 @@
 ---- Northern Territory    1    1    1
 ---- Australian Capital Territory    1    1    1
 -- Malaysia    238    0    35
--- Greece    228    3    2
+-- Greece    228    3    8
 -- Canada    226    1    11
 ---- Ontario    101    83    83
 ---- British Columbia    69    69    69
@@ -1064,10 +1066,10 @@
 -- Portugal    169    0    2
 -- Iceland    156    0    1
 -- Brazil    151    0    1
--- Hong Kong    138    4    78
+-- Hong Kong    142    4    81
 -- Ireland    129    2    0
+-- Romania    116    0    9
 -- Estonia    115    0    0
--- Romania    113    0    9
 -- Philippines    111    8    2
 -- Iraq    110    10    26
 -- Kuwait    104    0    5
@@ -1084,9 +1086,9 @@
 -- Luxembourg    51    1    0
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
+-- Serbia    46    0    0
 -- Russian Federation    45    0    3
 -- Slovakia    44    0    0
--- Serbia    41    0    0
 -- Bulgaria    41    2    0
 -- Croatia    38    0    1
 -- South Africa    38    0    0
@@ -1118,6 +1120,7 @@
 -- Afghanistan    11    0    0
 -- Dominican Republic    11    0    0
 -- Sri Lanka    10    0    1
+-- Martinique    10    0    0
 -- Maldives    10    0    0
 -- Faroe Islands    9    0    0
 -- Lithuania    8    0    1
@@ -1126,7 +1129,6 @@
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
 -- New Zealand    6    0    0
--- Martinique    6    0    0
 -- Moldova, Republic of    6    0    0
 -- Kazakhstan    6    0    0
 -- Bangladesh    5    0    2
@@ -1140,6 +1142,7 @@
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
 -- Puerto Rico    3    0    0
+-- Guadeloupe    3    0    0
 -- Nigeria    2    0    0
 -- Monaco    2    0    0
 -- Cameroon    2    0    0
@@ -1164,7 +1167,6 @@
 -- Ethiopia    1    0    0
 -- Gabon    1    0    0
 -- Gibraltar    1    0    1
--- Guadeloupe    1    0    0
 -- Guatemala    1    0    0
 -- Guinea    1    0    0
 -- Kenya    1    0    0
@@ -1173,3 +1175,4 @@
 -- Sudan    1    1    0
 -- Suriname    1    0    0
 -- Rwanda    1    0    0
+-- Mayotte    1    0    0
