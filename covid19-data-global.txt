@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    6023    191    517
+-- Spain    6043    191    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -532,7 +532,7 @@
 ---- Castile and León    169    3    1
 ---- Castile-La Mancha    194    5    5
 ---- Catalonia    509    6    3
----- Community of Madrid    2659    86    109
+---- Community of Madrid    2940    86    109
 ---- Comunidad Foral de Navarra    46    0    0
 ---- Extremadura    42    1    3
 ---- Galicia    112    0    0
@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    3953    8    46
+-- Germany    4181    8    46
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2493    51    49
+-- United States of America    2504    51    49
 ---- WA    569    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -605,14 +605,14 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    300    5    6
+---- CA    306    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    11    0    1
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    17    1    1
 ------ Placer(06061)    8    1    0
------- San Mateo(06081)    20    0    0
+------ San Mateo(06081)    26    0    0
 ------ Sonoma(06097)    3    0    0
 ------ Orange(06059)    13    0    0
 ------ Contra Costa(06013)    25    0    0
@@ -716,7 +716,7 @@
 ------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    2    0    0
 ------ Essex(25009)    2    0    0
----- AZ    11    0    1
+---- AZ    12    0    1
 ------ Maricopa(04013)    3    0    1
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
@@ -801,7 +801,7 @@
 ------ Weld(08123)    2    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
----- PA    41    0    0
+---- PA    45    0    0
 ------ Delaware(42045)    6    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    18    0    0
@@ -916,6 +916,7 @@
 ------ Butler(39017)    4    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    1    0    0
+------ Franklin(39049)    1    0    0
 ---- MI    25    0    0
 ------ Oakland(26125)    8    0    0
 ------ Wayne(26163)    8    0    0
@@ -936,8 +937,8 @@
 ------ Lewis and Clark(30049)    1    0    0
 ------ Silver Bow(30093)    1    0    0
 ------ Yellowstone(30111)    1    0    0
----- DE    4    0    0
------- New Castle(10003)    4    0    0
+---- DE    6    0    0
+------ New Castle(10003)    5    0    0
 ---- MS    6    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
@@ -968,19 +969,19 @@
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
----- England    645    10    0
+---- England    645    20    0
 ---- Northern Ireland    29    0    0
 ---- Wales    60    0    0
----- Scotland    85    10    0
+---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1039    1    1
+-- Norway    1045    2    1
 -- Netherlands    959    12    2
 -- Sweden    948    2    1
 -- Denmark    836    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
--- Japan    788    22    122
----- Hokkaido    142    4    53
+-- Japan    804    22    122
+---- Hokkaido    144    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    16    0    0
@@ -988,7 +989,7 @@
 ---- Nagano    4    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    27    0    0
+---- Saitama    29    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
 ---- Tokyo    87    2    0
@@ -998,7 +999,7 @@
 ---- Chiba    31    0    0
 ---- Kanagawa    50    3    1
 ---- Shizuoka    3    0    0
----- Aichi    121    10    2
+---- Aichi    121    11    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    7    0    1
@@ -1029,17 +1030,17 @@
 ---- Northern Territory    1    1    1
 ---- Australian Capital Territory    1    1    1
 -- Malaysia    238    0    35
--- Finland    225    0    1
--- Canada    221    1    11
+-- Canada    225    1    11
 ---- Ontario    101    83    83
 ---- British Columbia    69    69    69
 ---- Alberta    29    29    29
----- Quebec    17    17    17
+---- Quebec    21    17    17
 ---- Grand Princess Cruise Ship    2    0    0
 ---- New Brunswick    2    1    1
 ---- Manitoba    4    4    4
 ---- Saskatchewan    2    2    2
 ---- Grand Princess    2    0    0
+-- Finland    225    0    1
 -- Singapore    212    0    97
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    211    0    60
@@ -1057,6 +1058,7 @@
 -- Romania    102    0    7
 -- Iraq    101    10    24
 -- San Marino    101    5    4
+-- India    97    2    10
 -- Indonesia    96    5    8
 -- Egypt    93    2    27
 -- Lebanon    93    3    1
@@ -1064,7 +1066,6 @@
 -- Ireland    90    1    0
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
--- India    84    2    10
 -- Thailand    82    1    35
 -- Luxembourg    51    1    0
 -- Taiwan    50    1    20
@@ -1101,9 +1102,9 @@
 -- Azerbaijan    15    1    3
 -- Armenia    15    0    0
 -- North Macedonia    14    0    1
+-- Afghanistan    11    0    0
 -- Dominican Republic    11    0    0
 -- Sri Lanka    10    0    1
--- Afghanistan    10    0    0
 -- Maldives    10    0    0
 -- Faroe Islands    9    0    0
 -- Lithuania    8    0    0
@@ -1123,13 +1124,13 @@
 -- Ukraine    3    1    0
 -- Bangladesh    3    0    2
 -- Bolivia, Plurinational State of    3    0    0
+-- Honduras    3    0    0
 -- French Polynesia    3    0    0
 -- Puerto Rico    3    0    0
 -- Nigeria    2    0    0
 -- Monaco    2    0    0
 -- Cameroon    2    0    0
 -- Burkina Faso    2    0    0
--- Honduras    2    0    0
 -- Congo    2    0    0
 -- Aruba    2    0    0
 -- Ghana    2    0    0
