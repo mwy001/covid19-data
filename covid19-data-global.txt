@@ -472,7 +472,7 @@
 ---- Liguria    345    17    24
 ---- Veneto    1595    42    100
 ---- Bolzano    125    2    0
--- Iran, Islamic Republic of    11364    514    3529
+-- Iran, Islamic Republic of    12729    611    3529
 ---- Qom    888    30    0
 ---- Tehran    2976    0    0
 ---- Fars    232    2    0
@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    3675    8    46
+-- Germany    3758    8    46
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
@@ -956,7 +956,7 @@
 ---- ID    1    0    0
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
--- Switzerland    1373    11    4
+-- Switzerland    1375    13    4
 -- Norway    1003    1    1
 -- Denmark    827    0    1
 ---- Denmark    801    0    1
@@ -1009,9 +1009,9 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
+-- Belgium    689    4    1
 -- Austria    602    1    6
--- Belgium    559    3    1
--- Qatar    320    0    0
+-- Qatar    337    0    0
 -- Australia    226    4    26
 ---- New South Wales    92    3    4
 ---- Victoria    36    0    8
@@ -1021,6 +1021,7 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
+-- Finland    215    0    1
 -- Bahrain    211    0    60
 -- Canada    200    1    11
 ---- Ontario    81    0    4
@@ -1036,8 +1037,7 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Malaysia    197    0    32
 -- Greece    190    3    2
--- Israel    161    0    4
--- Finland    156    0    1
+-- Israel    164    0    4
 -- Brazil    151    0    1
 -- Czechia    150    0    0
 -- Slovenia    141    0    0
@@ -1055,8 +1055,8 @@
 -- Ireland    90    1    0
 -- Saudi Arabia    86    0    1
 -- United Arab Emirates    85    0    20
+-- India    84    2    10
 -- Poland    84    2    0
--- India    83    2    10
 -- Thailand    82    1    35
 -- San Marino    80    5    2
 -- Taiwan    50    1    20
@@ -1066,12 +1066,12 @@
 -- Serbia    41    0    0
 -- Luxembourg    38    1    0
 -- Peru    38    0    0
+-- Albania    38    1    0
 -- Algeria    37    3    10
 -- Croatia    37    0    1
 -- Brunei Darussalam    37    0    0
 -- Panama    36    1    0
 -- Argentina    34    2    0
--- Albania    33    1    0
 -- Slovakia    32    0    0
 -- Bulgaria    31    2    0
 -- Georgia    30    0    0
@@ -1096,10 +1096,10 @@
 -- Afghanistan    10    0    0
 -- Maldives    9    0    0
 -- Faroe Islands    9    0    0
+-- Sri Lanka    8    0    1
 -- Morocco    8    1    1
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
--- Sri Lanka    7    0    1
 -- Lithuania    7    0    0
 -- New Zealand    6    0    0
 -- French Guiana    6    0    0
