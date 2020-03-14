@@ -473,37 +473,37 @@
 ---- Veneto    1595    42    100
 ---- Bolzano    125    2    0
 -- Iran, Islamic Republic of    12729    611    4339
----- Qom    888    30    0
----- Tehran    2976    0    0
----- Fars    232    2    0
----- Markazi    583    11    0
----- Mazandaran    1189    13    0
----- Ardabil    121    3    0
----- South Khorasan    78    1    0
----- Ilam    77    0    0
----- Isfahan    902    2    0
----- Hamadan    106    1    0
----- Razavi Khorasan    395    8    0
+---- Qom    920    30    0
+---- Tehran    3323    0    0
+---- Fars    243    2    0
+---- Markazi    698    11    0
+---- Mazandaran    1206    13    0
+---- Ardabil    154    3    0
+---- South Khorasan    82    1    0
+---- Ilam    83    0    0
+---- Isfahan    1057    2    0
+---- Hamadan    113    1    0
+---- Razavi Khorasan    425    8    0
 ---- Hormozgan    83    2    0
----- Kurdistan    102    0    0
----- Qazvin    338    7    0
----- Yazd    217    3    0
----- West Azerbaijan    144    0    0
----- Gilan    684    0    0
+---- Kurdistan    107    0    0
+---- Qazvin    385    7    0
+---- Yazd    290    3    0
+---- West Azerbaijan    175    0    0
+---- Gilan    797    0    0
 ---- Golestan    234    6    0
----- Khuzestan    173    12    0
----- Alborz    464    7    0
----- Semnan    362    0    0
----- Lorestan    235    4    0
----- East Azerbaijan    279    6    0
----- Kermanshah    94    2    0
----- Sistan and Baluchestan    52    0    0
+---- Khuzestan    221    12    0
+---- Alborz    598    7    0
+---- Semnan    409    0    0
+---- Lorestan    237    4    0
+---- East Azerbaijan    338    6    0
+---- Kermanshah    102    2    0
+---- Sistan and Baluchestan    54    0    0
 ---- Kerman    77    0    0
----- Zanjan    138    0    0
+---- Zanjan    169    0    0
 ---- Chaharmahal and Bakhtiari    49    0    0
----- North Khorasan    45    0    0
+---- North Khorasan    46    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
----- Bushehr    21    0    0
+---- Bushehr    28    0    0
 -- Korea, Republic of    8086    72    714
 ---- Busan    103    0    40
 ---- Chungcheongbuk-do    28    0    5
@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    5232    133    193
+-- Spain    5753    136    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2333    50    41
+-- United States of America    2340    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -655,9 +655,9 @@
 ------ Smith(48423)    3    0    0
 ------ El Paso(48141)    1    0    0
 ------ Bell(48027)    1    0    0
----- NH    6    0    0
+---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
------- Rockingham(33015)    3    0    0
+------ Rockingham(33015)    4    0    0
 ---- FL    76    3    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    2    0    0
@@ -910,16 +910,16 @@
 ------ Butler(39017)    4    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    1    0    0
----- MI    25    0    0
------- Oakland(26125)    6    0    0
------- Wayne(26163)    6    0    0
+---- MI    33    0    0
+------ Oakland(26125)    8    0    0
+------ Wayne(26163)    8    0    0
 ------ Kent(26081)    3    0    0
 ------ Washtenaw(26161)    3    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
------- Macomb(26099)    1    0    0
+------ Macomb(26099)    2    0    0
 ---- NM    10    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    5    0    0
@@ -958,13 +958,13 @@
 ------ Ada(16001)    1    0    0
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
--- Norway    1030    1    1
--- Denmark    827    0    1
+-- Norway    1032    1    1
+-- Sweden    867    2    1
+-- Denmark    836    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
--- Sweden    821    2    1
 -- Netherlands    804    10    2
--- United Kingdom of Great Britain and Northern Ireland    801    8    19
+-- United Kingdom of Great Britain and Northern Ireland    801    10    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
@@ -974,7 +974,7 @@
 ---- Scotland    85    10    0
 ---- United Kingdom    798    8    18
 -- Japan    738    21    118
----- Hokkaido    137    4    53
+---- Hokkaido    142    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    16    0    0
@@ -985,11 +985,11 @@
 ---- Saitama    27    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    77    2    0
+---- Tokyo    87    2    0
 ---- Wakayama    14    1    2
 ---- Kyoto    17    0    2
 ---- Osaka    92    0    1
----- Chiba    29    0    0
+---- Chiba    31    0    0
 ---- Kanagawa    50    3    1
 ---- Shizuoka    3    0    0
 ---- Aichi    114    10    2
@@ -998,7 +998,7 @@
 ---- Mie    7    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    56    1    0
+---- hyogo    57    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -1013,7 +1013,7 @@
 -- Belgium    689    4    1
 -- Austria    602    1    6
 -- Qatar    337    0    0
--- Australia    226    4    26
+-- Australia    248    4    26
 ---- New South Wales    92    3    4
 ---- Victoria    36    0    8
 ---- Queensland    35    0    8
@@ -1022,6 +1022,7 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
+-- Malaysia    238    0    35
 -- Finland    215    0    1
 -- Bahrain    211    0    60
 -- Canada    200    1    11
@@ -1036,15 +1037,14 @@
 ---- Grand Princess    2    0    0
 -- Singapore    200    0    97
 ---- Central Singapore Community Development Council    200    0    97
--- Malaysia    197    0    32
 -- Greece    190    3    2
+-- Portugal    169    0    2
 -- Israel    164    0    4
 -- Brazil    151    0    1
 -- Czechia    150    0    0
 -- Slovenia    141    0    0
 -- Iceland    138    0    1
 -- Hong Kong    138    4    78
--- Portugal    112    0    1
 -- Estonia    109    0    0
 -- Iraq    101    10    24
 -- Kuwait    100    0    5
