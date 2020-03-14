@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2637    55    49
+-- United States of America    2669    55    49
 ---- WA    572    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -600,18 +600,21 @@
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    2    0    0
----- IL    47    0    2
------- Cook(17031)    40    0    2
+---- IL    63    0    2
+------ Cook(17031)    51    0    2
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
 ------ Coles(17029)    1    0    0
----- CA    336    5    6
+------ Cumberland(17035)    1    0    0
+------ DuPage(17043)    1    0    0
+------ Woodford(17203)    1    0    0
+---- CA    345    5    6
 ------ Los Angeles(06037)    41    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
 ------ Humboldt(06023)    1    0    0
------- Sacramento(06067)    17    1    1
+------ Sacramento(06067)    29    1    1
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    26    0    0
 ------ Sonoma(06097)    3    0    0
@@ -643,12 +646,12 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    50    0    0
------- Bexar(48029)    1    0    0
+---- TX    54    0    0
+------ Bexar(48029)    2    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    6    0    0
------- Gregg(48183)    1    0    0
+------ Gregg(48183)    4    0    0
 ------ Dallas(48113)    9    0    0
 ------ Tarrant(48439)    3    0    0
 ------ Montgomery(48339)    3    0    0
@@ -656,6 +659,8 @@
 ------ Smith(48423)    3    0    0
 ------ El Paso(48141)    1    0    0
 ------ Bell(48027)    1    0    0
+------ Galveston(48167)    1    0    0
+------ Lavaca(48285)    1    0    0
 ---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
@@ -989,13 +994,13 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1077    2    1
+-- Norway    1078    2    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
--- Japan    804    22    122
+-- Japan    804    22    144
 ---- Hokkaido    144    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1044,18 +1049,18 @@
 ---- Tasmania    5    5    5
 ---- Northern Territory    1    1    1
 ---- Australian Capital Territory    1    1    1
--- Malaysia    238    0    35
--- Greece    228    3    8
--- Canada    226    1    11
+-- Canada    238    1    11
 ---- Ontario    101    83    83
----- British Columbia    69    69    69
+---- British Columbia    73    69    69
 ---- Alberta    29    29    29
----- Quebec    21    17    17
+---- Quebec    24    17    17
 ---- Grand Princess Cruise Ship    2    0    0
 ---- New Brunswick    2    1    1
 ---- Manitoba    4    4    4
 ---- Saskatchewan    2    2    2
 ---- Grand Princess    2    0    0
+-- Malaysia    238    0    35
+-- Greece    228    3    8
 -- Finland    225    0    1
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
@@ -1072,14 +1077,14 @@
 -- Estonia    115    0    0
 -- Philippines    111    8    2
 -- Iraq    110    10    26
+-- Egypt    109    2    27
 -- Kuwait    104    0    5
 -- Saudi Arabia    103    0    1
+-- Poland    103    2    0
 -- San Marino    101    5    4
 -- India    97    2    10
 -- Indonesia    96    5    8
--- Egypt    93    2    27
 -- Lebanon    93    3    1
--- Poland    93    2    0
 -- United Arab Emirates    85    0    20
 -- Thailand    82    1    35
 -- Chile    61    0    0
