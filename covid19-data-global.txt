@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2488    51    49
+-- United States of America    2493    51    49
 ---- WA    569    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -642,11 +642,11 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    49    0    0
+---- TX    50    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
------- Collin(48085)    5    0    0
+------ Collin(48085)    6    0    0
 ------ Gregg(48183)    1    0    0
 ------ Dallas(48113)    9    0    0
 ------ Tarrant(48439)    3    0    0
@@ -721,7 +721,7 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
 ------ Graham(04009)    1    0    0
----- NC    20    0    0
+---- NC    23    0    0
 ------ Wake(37183)    10    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -909,7 +909,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    13    0    0
+---- OH    14    0    0
 ------ Cuyahoga(39035)    6    0    0
 ------ Stark(39151)    2    0    0
 ------ Trumbull(39155)    2    0    0
@@ -973,7 +973,7 @@
 ---- Wales    60    0    0
 ---- Scotland    85    10    0
 ---- United Kingdom    798    8    18
--- Norway    1035    1    1
+-- Norway    1039    1    1
 -- Netherlands    959    12    2
 -- Sweden    948    2    1
 -- Denmark    836    0    1
@@ -1029,10 +1029,9 @@
 ---- Northern Territory    1    1    1
 ---- Australian Capital Territory    1    1    1
 -- Malaysia    238    0    35
--- Finland    215    0    1
--- Bahrain    211    0    60
--- Canada    201    1    11
----- Ontario    83    83    83
+-- Finland    225    0    1
+-- Canada    221    1    11
+---- Ontario    101    83    83
 ---- British Columbia    69    69    69
 ---- Alberta    29    29    29
 ---- Quebec    17    17    17
@@ -1041,8 +1040,9 @@
 ---- Manitoba    4    4    4
 ---- Saskatchewan    2    2    2
 ---- Grand Princess    2    0    0
--- Singapore    200    0    97
+-- Singapore    212    0    97
 ---- Central Singapore Community Development Council    200    0    97
+-- Bahrain    211    0    60
 -- Greece    190    3    2
 -- Slovenia    181    0    0
 -- Portugal    169    0    2
@@ -1072,6 +1072,7 @@
 -- Russian Federation    45    0    3
 -- Chile    43    0    0
 -- Serbia    41    0    0
+-- South Africa    38    0    0
 -- Peru    38    0    0
 -- Albania    38    1    0
 -- Algeria    37    3    10
@@ -1089,7 +1090,6 @@
 -- Latvia    26    0    1
 -- Costa Rica    26    0    0
 -- Hungary    25    0    1
--- South Africa    24    0    0
 -- Colombia    22    0    0
 -- Senegal    21    0    2
 -- Cyprus    21    0    0
@@ -1102,9 +1102,9 @@
 -- Armenia    15    0    0
 -- North Macedonia    14    0    1
 -- Dominican Republic    11    0    0
+-- Sri Lanka    10    0    1
 -- Afghanistan    10    0    0
 -- Maldives    10    0    0
--- Sri Lanka    9    0    1
 -- Faroe Islands    9    0    0
 -- Lithuania    8    0    0
 -- Jamaica    8    0    0
