@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2704    55    49
+-- United States of America    2713    55    49
 ---- WA    572    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -642,7 +642,7 @@
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    6    0    0
------- Waukesha(55133)    2    0    0
+------ Waukesha(55133)    3    0    0
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
@@ -859,17 +859,20 @@
 ------ Hennepin(27053)    6    0    0
 ------ Stearns(27145)    3    0    0
 ------ Wright(27171)    1    0    0
+------ Renville(27129)    1    0    0
 ---- RI    20    0    0
 ------ Providence(44007)    20    0    0
 ---- CT    12    0    0
 ------ Fairfield(09001)    8    0    0
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    1    0    0
----- SC    13    0    0
+---- SC    19    0    0
 ------ Charleston(45019)    1    0    0
------- Kershaw(45055)    5    0    0
+------ Kershaw(45055)    7    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    1    0    0
+------ Beaufort(45013)    3    0    0
+------ Lexington(45063)    1    0    0
 ---- UT    10    0    0
 ------ Davis(49011)    1    0    0
 ------ Weber(49057)    1    0    0
@@ -882,12 +885,12 @@
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
----- VA    39    0    0
+---- VA    41    0    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
------- Arlington(51013)    5    0    0
+------ Arlington(51013)    7    0    0
 ------ Spotsylvania(51177)    1    0    0
------- Loudoun(51107)    3    0    0
+------ Loudoun(51107)    5    0    0
 ------ Hanover(51085)    1    0    0
 ------ Harrisonburg(51660)    1    0    0
 ------ Prince Edward(51147)    1    0    0
@@ -985,8 +988,9 @@
 ------ Tuscaloosa(01125)    1    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
----- ID    1    0    0
+---- ID    2    0    0
 ------ Ada(16001)    1    0    0
+------ Blaine(16013)    1    0    0
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
@@ -998,7 +1002,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1084    2    1
+-- Norway    1085    2    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1077,14 +1081,14 @@
 -- Brazil    151    0    1
 -- Hong Kong    142    4    81
 -- Ireland    129    2    0
--- Romania    121    0    9
+-- Romania    123    0    9
 -- Estonia    115    0    0
 -- Philippines    111    8    2
 -- Iraq    110    10    26
 -- Egypt    109    2    27
 -- Kuwait    104    0    5
 -- Saudi Arabia    103    0    1
--- Poland    103    2    0
+-- Poland    103    3    0
 -- San Marino    101    5    4
 -- India    97    2    10
 -- Indonesia    96    5    8
@@ -1162,6 +1166,7 @@
 -- Saint Martin (French part)    2    0    0
 -- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
+-- Seychelles    2    0    0
 -- Nepal    1    0    1
 -- Andorra    1    0    1
 -- Jordan    1    0    1
