@@ -578,7 +578,7 @@
 ---- French Guiana    6    0    0
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
--- United States of America    2289    50    41
+-- United States of America    2291    50    41
 ---- WA    627    37    1
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -673,7 +673,8 @@
 ------ Duval(12031)    1    0    0
 ------ Miami-Dade(12086)    3    0    0
 ------ Seminole(12117)    1    0    0
----- OR    30    0    0
+------ Orange(12095)    1    1    0
+---- OR    32    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    10    0    0
 ------ Jackson(41029)    2    0    0
@@ -682,7 +683,7 @@
 ------ Marion(41047)    2    0    0
 ------ Multnomah(41051)    1    0    0
 ------ Polk(41053)    1    0    0
------- Deschutes(41017)    1    0    0
+------ Deschutes(41017)    3    0    0
 ------ Linn(41043)    8    0    0
 ------ Clackamas(41005)    1    0    0
 ---- GA    42    1    0
@@ -900,12 +901,15 @@
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    1    0    0
 ---- MI    25    0    0
------- Oakland(26125)    3    0    0
------- Wayne(26163)    2    0    0
+------ Oakland(26125)    6    0    0
+------ Wayne(26163)    6    0    0
 ------ Kent(26081)    3    0    0
 ------ Washtenaw(26161)    3    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
+------ Bay(26017)    1    0    0
+------ Charlevoix(26029)    1    0    0
+------ Macomb(26099)    1    0    0
 ---- NM    10    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    5    0    0
@@ -993,18 +997,16 @@
 -- Austria    504    1    6
 -- Qatar    320    0    0
 -- Bahrain    210    0    44
--- Singapore    200    0    97
----- Central Singapore Community Development Council    200    0    97
--- Australia    199    4    26
----- New South Wales    91    3    4
+-- Australia    200    4    26
+---- New South Wales    92    3    4
 ---- Victoria    36    0    8
 ---- Queensland    35    0    8
 ---- South Australia    16    0    3
 ---- Western Australia    14    1    0
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
--- Canada    199    1    11
----- Ontario    80    0    4
+-- Canada    200    1    11
+---- Ontario    81    0    4
 ---- British Columbia    64    1    4
 ---- Alberta    29    0    0
 ---- Quebec    17    0    0
@@ -1012,6 +1014,8 @@
 ---- New Brunswick    1    0    0
 ---- Manitoba    4    0    0
 ---- Saskatchewan    2    0    0
+-- Singapore    200    0    97
+---- Central Singapore Community Development Council    200    0    97
 -- Malaysia    197    0    32
 -- Greece    190    1    2
 -- Israel    161    0    4
@@ -1020,3 +1024,111 @@
 -- Slovenia    141    0    0
 -- Czechia    141    0    0
 -- Iceland    134    0    1
+-- Hong Kong    132    4    78
+-- Portugal    112    0    1
+-- Iraq    101    9    24
+-- Kuwait    100    0    5
+-- Romania    95    0    7
+-- Egypt    93    2    27
+-- Ireland    90    1    0
+-- Saudi Arabia    86    0    1
+-- United Arab Emirates    85    0    20
+-- India    82    2    10
+-- San Marino    80    5    2
+-- Estonia    79    0    0
+-- Lebanon    77    3    1
+-- Thailand    75    1    35
+-- Indonesia    69    4    5
+-- Poland    68    2    0
+-- Philippines    64    6    2
+-- Taiwan    49    1    20
+-- Chile    43    0    0
+-- Viet Nam    39    0    16
+-- Luxembourg    38    1    0
+-- Peru    38    0    0
+-- Serbia    35    0    0
+-- Argentina    34    2    0
+-- Albania    33    1    0
+-- Croatia    32    0    1
+-- Slovakia    32    0    0
+-- Bulgaria    31    1    0
+-- Pakistan    28    0    2
+-- Russian Federation    28    0    3
+-- Belarus    27    0    3
+-- Panama    27    1    0
+-- Algeria    26    2    10
+-- Georgia    25    0    0
+-- South Africa    24    0    0
+-- Ecuador    23    1    0
+-- Costa Rica    23    0    0
+-- Senegal    21    0    2
+-- Oman    19    0    9
+-- Hungary    19    0    0
+-- Cyprus    19    0    0
+-- Bosnia and Herzegovina    18    0    0
+-- Latvia    17    0    1
+-- Tunisia    16    0    0
+-- Colombia    16    0    0
+-- Mexico    15    0    4
+-- Azerbaijan    15    1    3
+-- Malta    12    0    1
+-- Brunei Darussalam    11    0    0
+-- Maldives    9    0    0
+-- Armenia    8    0    0
+-- Jamaica    8    0    0
+-- Cambodia    7    0    1
+-- Afghanistan    7    0    0
+-- North Macedonia    7    0    0
+-- Morocco    7    1    1
+-- Sri Lanka    6    0    1
+-- Lithuania    6    0    0
+-- New Zealand    6    0    0
+-- French Guiana    6    0    0
+-- Paraguay    6    0    0
+-- Dominican Republic    5    0    0
+-- Turkey    5    0    0
+-- Liechtenstein    4    0    0
+-- Cuba    4    0    0
+-- Kazakhstan    4    0    0
+-- Uruguay    4    0    0
+-- Ukraine    3    1    0
+-- Martinique    3    0    0
+-- Bangladesh    3    0    1
+-- Moldova, Republic of    3    0    0
+-- Faroe Islands    3    0    0
+-- French Polynesia    3    0    0
+-- Puerto Rico    3    0    0
+-- Nigeria    2    0    0
+-- Monaco    2    0    0
+-- Cameroon    2    0    0
+-- Burkina Faso    2    0    0
+-- Bolivia, Plurinational State of    2    0    0
+-- Honduras    2    0    0
+-- Aruba    2    0    0
+-- Ghana    2    0    0
+-- Saint Martin (French part)    2    0    0
+-- Nepal    1    0    1
+-- Andorra    1    0    1
+-- Jordan    1    0    1
+-- Bhutan    1    0    0
+-- Togo    1    0    0
+-- Holy See    1    0    0
+-- Mongolia    1    0    0
+-- Congo    1    0    0
+-- Côte d'Ivoire    1    0    0
+-- Réunion    1    0    0
+-- Guyana    1    1    0
+-- Antigua and Barbuda    1    0    0
+-- Cayman Islands    1    0    0
+-- Ethiopia    1    0    0
+-- Gabon    1    0    0
+-- Gibraltar    1    0    1
+-- Guadeloupe    1    0    0
+-- Guatemala    1    0    0
+-- Guinea    1    0    0
+-- Kenya    1    0    0
+-- Mauritania    1    0    0
+-- Saint Lucia    1    0    0
+-- Sudan    1    1    0
+-- Suriname    1    0    0
+-- Trinidad and Tobago    1    0    0
