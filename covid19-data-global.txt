@@ -602,7 +602,7 @@
 ------ Kane(17089)    2    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    2    0    0
----- CA    282    4    6
+---- CA    287    4    6
 ------ Los Angeles(06037)    40    1    0
 ------ San Benito(06069)    2    0    2
 ------ San Diego(06073)    8    0    1
@@ -611,10 +611,10 @@
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    20    0    0
 ------ Sonoma(06097)    3    0    0
------- Orange(06059)    9    0    0
+------ Orange(06059)    13    0    0
 ------ Contra Costa(06013)    25    0    0
 ------ San Francisco(06075)    24    0    0
------- Yolo(06113)    1    0    0
+------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    79    1    1
 ------ Alameda(06001)    7    0    0
 ------ Madera(06039)    1    0    0
@@ -639,16 +639,16 @@
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    2    0    0
 ------ Racine(55101)    1    0    0
----- TX    44    0    0
+---- TX    46    0    0
 ------ Bexar(48029)    1    0    0
 ------ Harris(48201)    9    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    5    0    0
 ------ Gregg(48183)    1    0    0
------- Dallas(48113)    8    0    0
+------ Dallas(48113)    9    0    0
 ------ Tarrant(48439)    3    0    0
 ------ Montgomery(48339)    3    0    0
------- Travis(48453)    2    0    0
+------ Travis(48453)    3    0    0
 ------ Smith(48423)    3    0    0
 ---- NH    6    0    0
 ------ Grafton(33009)    4    0    0
@@ -769,7 +769,7 @@
 ---- MD    24    0    0
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    1    0    0
------- Prince George's(24033)    6    0    0
+------ Prince George's(24033)    7    0    0
 ------ Baltimore(24005)    2    0    0
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    1    0    0
@@ -993,7 +993,7 @@
 ---- Queensland    20    0    8
 ---- South Australia    9    0    2
 ---- Western Australia    9    1    0
----- Tasmania    3    0    0
+---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 -- Canada    198    1    11
 ---- Ontario    74    0    4
@@ -1008,7 +1008,7 @@
 -- Greece    190    1    2
 -- Israel    161    0    4
 -- Finland    155    0    1
--- Brazil    151    0    0
+-- Brazil    151    0    1
 -- Slovenia    141    0    0
 -- Czechia    141    0    0
 -- Iceland    134    0    1
