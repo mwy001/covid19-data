@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    5945    191    517
+-- Spain    6023    191    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -962,7 +962,7 @@
 ---- PR    3    0    0
 -- Switzerland    1375    13    4
 -- Norway    1034    1    1
--- Sweden    880    2    1
+-- Sweden    941    2    1
 -- Denmark    836    0    1
 ---- Denmark    801    0    1
 ---- Faroe Islands    3    0    0
@@ -1016,12 +1016,12 @@
 -- Belgium    689    4    1
 -- Austria    602    1    6
 -- Qatar    337    0    0
--- Australia    248    4    27
----- New South Wales    92    3    4
----- Victoria    36    0    8
----- Queensland    35    0    8
----- South Australia    16    0    3
----- Western Australia    14    1    0
+-- Australia    250    4    27
+---- New South Wales    112    3    4
+---- Victoria    49    0    8
+---- Queensland    46    0    8
+---- South Australia    19    0    3
+---- Western Australia    17    1    0
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
@@ -1043,14 +1043,15 @@
 -- Greece    190    3    2
 -- Portugal    169    0    2
 -- Israel    164    0    4
+-- Iceland    156    0    1
 -- Brazil    151    0    1
 -- Czechia    150    0    0
 -- Slovenia    141    0    0
--- Iceland    138    0    1
 -- Hong Kong    138    4    78
 -- Estonia    109    0    0
 -- Kuwait    104    0    5
 -- Iraq    101    10    24
+-- San Marino    101    5    4
 -- Romania    99    0    7
 -- Philippines    98    8    2
 -- Indonesia    96    4    5
@@ -1062,7 +1063,6 @@
 -- United Arab Emirates    85    0    20
 -- India    84    2    10
 -- Thailand    82    1    35
--- San Marino    80    5    2
 -- Luxembourg    51    1    0
 -- Taiwan    50    1    20
 -- Viet Nam    47    0    16
@@ -1078,8 +1078,8 @@
 -- Argentina    34    2    0
 -- Slovakia    32    0    0
 -- Bulgaria    31    2    0
+-- Pakistan    30    0    2
 -- Georgia    30    0    0
--- Pakistan    28    0    2
 -- Belarus    27    0    3
 -- Ecuador    26    1    0
 -- Latvia    26    0    1
@@ -1101,8 +1101,8 @@
 -- Dominican Republic    11    0    0
 -- Afghanistan    10    0    0
 -- Maldives    10    0    0
+-- Sri Lanka    9    0    1
 -- Faroe Islands    9    0    0
--- Sri Lanka    8    0    1
 -- Lithuania    8    0    0
 -- Jamaica    8    0    0
 -- Cambodia    7    0    1
