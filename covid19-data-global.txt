@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    6315    193    517
+-- Spain    6391    195    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    4525    8    46
+-- Germany    4585    9    46
 ---- Saxony    83    0    0
 ---- Mecklenburg-Vorpommern    33    0    0
 ---- Free State of Bavaria    558    1    14
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2713    55    49
+-- United States of America    2736    55    49
 ---- WA    572    37    35
 ------ King(53033)    328    32    1
 ------ Snohomish(53061)    133    4    0
@@ -745,11 +745,11 @@
 ------ Harnett(37085)    1    0    0
 ------ Brunswick(37019)    1    0    0
 ------ Craven(37049)    1    0    0
----- NY    527    1    1
+---- NY    527    2    1
 ------ Westchester(36119)    172    0    0
 ------ New York(36061)    213    1    0
 ------ Nassau(36059)    70    0    0
------- Rockland(36087)    10    0    0
+------ Rockland(36087)    11    1    0
 ------ Saratoga(36091)    3    0    0
 ------ Suffolk(36103)    33    0    0
 ------ Ulster(36111)    5    0    0
@@ -832,11 +832,12 @@
 ------ Douglas(31055)    12    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    14    0    0
+---- KY    16    0    0
 ------ Fayette(21067)    3    0    0
 ------ Harrison(21097)    5    0    0
 ------ Jefferson(21111)    2    0    0
 ------ Montgomery(21173)    2    0    0
+------ Nelson(21179)    1    0    0
 ---- IN    16    0    0
 ------ Marion(18097)    3    0    0
 ------ Hendricks(18063)    2    0    0
@@ -862,15 +863,16 @@
 ------ Renville(27129)    1    0    0
 ---- RI    20    0    0
 ------ Providence(44007)    20    0    0
----- CT    12    0    0
------- Fairfield(09001)    8    0    0
+---- CT    22    0    0
+------ Fairfield(09001)    15    0    0
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    1    0    0
+------ New Haven(09009)    3    0    0
 ---- SC    19    0    0
 ------ Charleston(45019)    1    0    0
------- Kershaw(45055)    7    0    0
+------ Kershaw(45055)    11    0    0
 ------ Spartanburg(45083)    1    0    0
------- Lancaster(45057)    1    0    0
+------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    1    0    0
 ---- UT    10    0    0
@@ -916,9 +918,9 @@
 ------ Chittenden(50007)    1    0    0
 ------ Windsor(50027)    2    0    0
 ------ Washington(50023)    1    0    0
----- LA    67    4    0
+---- LA    77    4    0
 ------ Jefferson(22051)    10    4    0
------- Orleans(22071)    44    0    0
+------ Orleans(22071)    44    1    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
 ------ Terrebonne(22109)    3    0    0
@@ -1002,7 +1004,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1085    2    1
+-- Norway    1088    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1088,7 +1090,7 @@
 -- Egypt    109    2    27
 -- Kuwait    104    0    5
 -- Saudi Arabia    103    0    1
--- Poland    103    3    0
+-- Poland    103    3    13
 -- San Marino    101    5    4
 -- India    97    2    10
 -- Indonesia    96    5    8
@@ -1143,10 +1145,10 @@
 -- Paraguay    7    0    0
 -- New Zealand    6    0    0
 -- Moldova, Republic of    6    0    0
+-- Turkey    6    0    0
 -- Kazakhstan    6    0    0
 -- Bangladesh    5    0    2
 -- Réunion    5    0    0
--- Turkey    5    0    0
 -- Liechtenstein    4    0    0
 -- Cuba    4    0    0
 -- Uruguay    4    0    0
