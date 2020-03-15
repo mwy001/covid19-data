@@ -987,13 +987,13 @@
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    3    0    0
+---- ME    6    0    0
 ------ Androscoggin(23001)    1    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
 ---- Others    7    0    0
----- AL    9    0    0
+---- AL    12    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    3    0    0
 ------ Tuscaloosa(01125)    1    0    0
@@ -1044,7 +1044,7 @@
 ---- Aichi    121    11    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
----- Mie    7    0    1
+---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
 ---- hyogo    67    1    0
@@ -1104,7 +1104,7 @@
 -- Iraq    110    10    26
 -- Kuwait    104    0    7
 -- Poland    104    3    13
--- Saudi Arabia    103    0    1
+-- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
 -- India    100    2    10
 -- Indonesia    96    5    8
@@ -1159,6 +1159,7 @@
 -- Lithuania    9    0    1
 -- New Zealand    8    0    0
 -- Jamaica    8    0    0
+-- Venezuela, Bolivarian Republic of    8    0    0
 -- Cambodia    7    0    1
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
@@ -1185,7 +1186,6 @@
 -- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
 -- Seychelles    2    0    0
--- Venezuela, Bolivarian Republic of    2    0    0
 -- Curaçao    2    0    0
 -- Nepal    1    0    1
 -- Andorra    1    0    1
