@@ -522,7 +522,7 @@
 ---- Sejong    38    0    0
 ---- Seoul    238    0    44
 ---- Ulsan    27    0    5
--- Spain    6391    195    517
+-- Spain    6391    196    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2862    57    49
+-- United States of America    2943    57    49
 ---- WA    642    40    35
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -1008,7 +1008,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    798    8    18
--- Norway    1108    3    1
+-- Norway    1109    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
