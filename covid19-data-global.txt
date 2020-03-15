@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3045    60    56
+-- United States of America    3046    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -1016,6 +1016,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
+-- Switzerland    2217    14    4
 -- Japan    1848    22    144
 ---- Hokkaido    148    5    53
 ---- kochi    12    0    0
@@ -1053,7 +1054,6 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Switzerland    1376    14    4
 -- Norway    1199    3    1
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
@@ -1067,13 +1067,13 @@
 -- Sweden    981    2    1
 -- Netherlands    959    12    2
 -- Belgium    886    4    1
--- Denmark    864    1    1
+-- Denmark    864    2    1
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
 -- Austria    800    1    6
 -- Malaysia    428    0    35
 -- Qatar    337    0    4
--- Australia    299    5    27
+-- Australia    300    5    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
 ---- Queensland    46    0    8
