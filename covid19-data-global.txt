@@ -1066,10 +1066,10 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
+-- Austria    758    1    6
 -- Belgium    689    4    1
--- Austria    655    1    6
 -- Qatar    337    0    4
--- Australia    262    4    27
+-- Australia    283    4    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
 ---- Queensland    46    0    8
@@ -1109,13 +1109,13 @@
 -- Estonia    115    0    1
 -- Philippines    111    8    2
 -- Egypt    110    2    27
+-- Lebanon    110    3    1
 -- Iraq    110    10    26
 -- India    107    2    10
--- Kuwait    104    0    7
+-- Kuwait    104    0    9
 -- Poland    104    3    13
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
--- Lebanon    93    3    1
 -- United Arab Emirates    85    0    20
 -- Thailand    82    1    35
 -- Chile    61    0    0
@@ -1127,9 +1127,9 @@
 -- Argentina    45    2    1
 -- Slovakia    44    0    0
 -- Peru    43    0    0
+-- Bulgaria    43    2    0
 -- Panama    43    1    0
 -- Mexico    41    0    4
--- Bulgaria    41    2    0
 -- Brunei Darussalam    40    0    0
 -- Algeria    39    3    12
 -- Croatia    39    0    2
