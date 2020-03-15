@@ -582,7 +582,7 @@
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
--- United States of America    3043    60    56
+-- United States of America    3044    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -887,9 +887,10 @@
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    5    0    0
 ------ Salt Lake(49035)    14    0    0
----- HI    5    0    0
+---- HI    6    0    0
 ------ Honolulu(15003)    3    0    0
 ------ Kauai(15007)    2    0    0
+------ Maui(15009)    1    0    0
 ---- OK    4    0    1
 ------ Tulsa(40143)    2    0    0
 ------ Jackson(40065)    1    0    0
@@ -1066,7 +1067,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Austria    758    1    6
+-- Austria    800    1    6
 -- Belgium    689    4    1
 -- Qatar    337    0    4
 -- Australia    283    4    27
@@ -1091,8 +1092,8 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 -- Malaysia    238    0    35
+-- Finland    236    0    10
 -- Greece    228    3    8
--- Finland    225    0    10
 -- Czechia    214    0    0
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
@@ -1107,23 +1108,24 @@
 -- Romania    123    0    9
 -- Indonesia    117    5    8
 -- Estonia    115    0    1
+-- Thailand    114    1    35
+-- Kuwait    112    0    9
 -- Philippines    111    8    2
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- Iraq    110    10    26
 -- India    107    2    10
--- Kuwait    104    0    9
 -- Poland    104    3    13
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
--- United Arab Emirates    85    0    20
--- Thailand    82    1    35
+-- United Arab Emirates    86    0    20
 -- Chile    61    0    0
 -- Russian Federation    59    0    8
 -- Taiwan    53    1    20
 -- Viet Nam    53    0    16
 -- Luxembourg    51    1    0
 -- Serbia    46    0    0
+-- Algeria    45    3    12
 -- Argentina    45    2    1
 -- Slovakia    44    0    0
 -- Peru    43    0    0
@@ -1131,14 +1133,13 @@
 -- Panama    43    1    0
 -- Mexico    41    0    4
 -- Brunei Darussalam    40    0    0
--- Algeria    39    3    12
 -- Croatia    39    0    2
 -- South Africa    38    0    0
 -- Albania    38    1    0
 -- Palestine    38    0    0
 -- Pakistan    33    0    2
+-- Hungary    32    0    1
 -- Georgia    30    0    1
--- Hungary    30    0    1
 -- Ecuador    28    2    0
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
