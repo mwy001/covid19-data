@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3083    60    56
+-- United States of America    3094    62    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -826,7 +826,7 @@
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
----- PA    47    0    0
+---- PA    47    1    0
 ------ Delaware(42045)    6    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    20    0    0
@@ -849,8 +849,8 @@
 ------ Jefferson(21111)    4    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
----- IN    17    0    0
------- Marion(18097)    3    0    0
+---- IN    20    0    0
+------ Marion(18097)    6    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
 ------ Adams(42001)    1    0    0
@@ -878,7 +878,7 @@
 ---- CT    24    0    0
 ------ Fairfield(09001)    15    0    0
 ------ Litchfield(09005)    3    0    0
------- Hartford(09003)    1    0    0
+------ Hartford(09003)    2    0    0
 ------ New Haven(09009)    4    0    0
 ---- SC    19    0    0
 ------ Charleston(45019)    1    0    0
@@ -932,7 +932,7 @@
 ------ Chittenden(50007)    1    0    0
 ------ Windsor(50027)    2    0    0
 ------ Washington(50023)    1    0    0
----- LA    77    4    0
+---- LA    91    4    0
 ------ Jefferson(22051)    11    4    0
 ------ Orleans(22071)    53    1    0
 ------ Iberia(22045)    1    0    0
@@ -1003,7 +1003,7 @@
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
----- Others    7    0    0
+---- Others    10    0    0
 ---- AL    12    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    5    0    0
@@ -1058,8 +1058,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Norway    1205    3    1
--- United Kingdom of Great Britain and Northern Ireland    1143    21    19
+-- United Kingdom of Great Britain and Northern Ireland    1372    35    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
@@ -1068,6 +1067,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
+-- Norway    1207    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1024    2    1
 -- Belgium    886    4    1
@@ -1107,20 +1107,20 @@
 -- Slovenia    219    1    0
 -- Bahrain    214    0    60
 -- Israel    200    0    4
--- Iceland    161    0    1
+-- Iceland    171    0    1
 -- Brazil    151    0    1
 -- Hong Kong    145    4    81
 -- Philippines    140    11    2
+-- Romania    139    0    9
 -- Estonia    135    0    1
--- Romania    131    0    9
 -- Ireland    129    2    1
 -- Poland    119    3    13
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
+-- Iraq    111    10    26
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
--- Iraq    110    10    26
 -- India    108    2    10
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
@@ -1133,20 +1133,20 @@
 -- Slovakia    54    0    0
 -- Pakistan    53    0    2
 -- South Africa    51    0    0
+-- Bulgaria    51    2    0
 -- Brunei Darussalam    50    0    0
 -- Croatia    49    0    2
 -- Algeria    48    4    12
 -- Serbia    46    0    1
 -- Argentina    45    2    1
 -- Peru    43    0    0
--- Bulgaria    43    2    0
 -- Panama    43    1    0
 -- Albania    42    1    0
 -- Mexico    41    0    4
 -- Palestine    38    0    0
 -- Colombia    34    0    0
+-- Georgia    33    0    1
 -- Hungary    32    1    1
--- Georgia    30    0    1
 -- Latvia    30    0    1
 -- Ecuador    28    2    0
 -- Morocco    28    1    1
@@ -1156,6 +1156,7 @@
 -- Senegal    24    0    2
 -- Azerbaijan    23    1    6
 -- Armenia    23    0    0
+-- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
 -- Bosnia and Herzegovina    21    0    0
 -- Malta    21    0    2
@@ -1164,7 +1165,6 @@
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
 -- Lithuania    12    0    1
--- Moldova, Republic of    12    0    0
 -- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
 -- Turkey    11    0    0
@@ -1173,11 +1173,11 @@
 -- Bolivia, Plurinational State of    10    0    0
 -- Macao    10    0    10
 -- Venezuela, Bolivarian Republic of    10    0    0
+-- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
+-- Jordan    8    0    1
 -- Jamaica    8    0    0
--- Kazakhstan    8    0    0
 -- Cambodia    7    0    1
--- Jordan    7    0    1
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
@@ -1193,6 +1193,7 @@
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
 -- Guadeloupe    3    0    0
+-- Kenya    3    0    0
 -- Guam    3    0    0
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
@@ -1220,7 +1221,6 @@
 -- Gibraltar    1    0    1
 -- Guatemala    1    0    0
 -- Guinea    1    0    0
--- Kenya    1    0    0
 -- Mauritania    1    0    0
 -- Sudan    1    1    0
 -- Suriname    1    0    0
