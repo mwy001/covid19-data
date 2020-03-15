@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3457    63    59
+-- United States of America    3494    63    59
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -602,18 +602,18 @@
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    4    0    0
----- IL    67    0    2
------- Cook(17031)    51    0    2
------- Kane(17089)    3    0    0
+---- IL    96    0    2
+------ Cook(17031)    61    0    2
+------ Kane(17089)    4    0    0
 ------ McHenry(17111)    2    0    0
------- Lake(17097)    3    0    0
+------ Lake(17097)    4    0    0
 ------ Coles(17029)    1    0    0
------- Cumberland(17035)    1    0    0
+------ Cumberland(17035)    2    0    0
 ------ DuPage(17043)    1    0    0
------- Woodford(17203)    1    0    0
+------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    424    6    6
+---- CA    425    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -735,10 +735,11 @@
 ------ Middlesex(25017)    75    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    9    0    0
------- Worcester(25027)    2    0    0
------- Essex(25009)    5    0    0
+------ Worcester(25027)    6    0    0
+------ Essex(25009)    6    0    0
 ------ Barnstable(25001)    1    0    0
 ------ Bristol(25005)    1    0    0
+------ Hampden(25013)    1    0    0
 ---- AZ    13    0    1
 ------ Maricopa(04013)    4    0    1
 ------ Pinal(04021)    5    0    0
@@ -760,17 +761,17 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    729    3    1
------- Westchester(36119)    178    0    0
------- New York(36061)    269    2    0
------- Nassau(36059)    79    0    0
+---- NY    731    3    1
+------ Westchester(36119)    198    0    0
+------ New York(36061)    329    2    0
+------ Nassau(36059)    98    0    0
 ------ Rockland(36087)    13    1    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    41    0    0
+------ Suffolk(36103)    47    0    0
 ------ Ulster(36111)    5    0    0
 ------ Albany(36001)    11    0    0
 ------ Delaware(36025)    1    0    0
------- Dutchess(36027)    4    0    0
+------ Dutchess(36027)    7    0    0
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    2    0    0
 ------ Orange(36071)    6    0    0
@@ -816,7 +817,7 @@
 ------ Anne Arundel(24003)    2    0    0
 ------ Carroll(24013)    1    0    0
 ------ Howard(24027)    1    0    0
----- CO    130    1    0
+---- CO    131    1    0
 ------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    8    0    0
@@ -833,6 +834,7 @@
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
+------ Garfield(08045)    1    0    0
 ---- PA    66    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
@@ -852,12 +854,13 @@
 ------ Douglas(31055)    15    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    18    0    0
+---- KY    20    0    0
 ------ Fayette(21067)    5    0    0
 ------ Harrison(21097)    6    0    0
------- Jefferson(21111)    4    0    0
+------ Jefferson(21111)    5    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
+------ Clark(21049)    1    0    0
 ---- IN    20    0    0
 ------ Marion(18097)    6    0    0
 ------ Hendricks(18063)    2    0    0
@@ -891,14 +894,16 @@
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    2    0    0
 ------ New Haven(09009)    4    0    0
----- SC    20    0    0
+---- SC    29    0    0
 ------ Charleston(45019)    1    0    0
------- Kershaw(45055)    11    0    0
+------ Kershaw(45055)    19    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    1    0    0
------- Horry(45051)    1    0    0
+------ Horry(45051)    3    0    0
+------ Anderson(45007)    2    0    0
+------ Greenville(45045)    1    0    0
 ---- UT    28    0    0
 ------ Davis(49011)    3    0    0
 ------ Weber(49057)    1    0    0
@@ -1120,12 +1125,12 @@
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Slovenia    219    1    0
--- Bahrain    214    0    60
+-- Bahrain    214    0    77
 -- Israel    213    0    4
+-- Brazil    191    0    1
 -- Iceland    175    0    1
 -- Estonia    171    0    1
 -- Ireland    170    2    1
--- Brazil    151    0    1
 -- Hong Kong    149    4    81
 -- Philippines    140    11    2
 -- Romania    139    0    9
@@ -1201,6 +1206,8 @@
 -- Ghana    6    0    0
 -- Andorra    5    0    1
 -- Bangladesh    5    0    2
+-- Rwanda    5    0    0
+-- Cameroon    4    0    0
 -- Cuba    4    0    0
 -- Guyana    4    1    0
 -- Puerto Rico    4    0    0
@@ -1216,7 +1223,6 @@
 -- Guam    3    0    0
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
--- Cameroon    2    0    0
 -- Congo    2    0    0
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
@@ -1240,7 +1246,6 @@
 -- Mauritania    1    0    0
 -- Sudan    1    1    0
 -- Suriname    1    0    0
--- Rwanda    1    0    0
 -- Mayotte    1    0    0
 -- Equatorial Guinea    1    0    0
 -- Saint Barthélemy    1    0    0
