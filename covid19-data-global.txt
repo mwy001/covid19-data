@@ -473,37 +473,37 @@
 ---- Veneto    1937    55    107
 ---- Bolzano    173    3    0
 -- Iran, Islamic Republic of    13938    724    4339
----- Qom    920    30    0
----- Tehran    3323    0    0
----- Fars    243    2    0
+---- Qom    1004    30    0
+---- Tehran    3574    0    0
+---- Fars    252    2    0
 ---- Markazi    698    11    0
----- Mazandaran    1206    13    0
+---- Mazandaran    1278    13    0
 ---- Ardabil    154    3    0
----- South Khorasan    82    1    0
----- Ilam    83    0    0
----- Isfahan    1057    2    0
----- Hamadan    113    1    0
----- Razavi Khorasan    425    8    0
----- Hormozgan    83    2    0
----- Kurdistan    107    0    0
----- Qazvin    385    7    0
----- Yazd    290    3    0
----- West Azerbaijan    175    0    0
----- Gilan    797    0    0
----- Golestan    234    6    0
----- Khuzestan    221    12    0
----- Alborz    598    7    0
----- Semnan    409    0    0
----- Lorestan    237    4    0
----- East Azerbaijan    338    6    0
----- Kermanshah    102    2    0
----- Sistan and Baluchestan    54    0    0
----- Kerman    77    0    0
----- Zanjan    169    0    0
+---- South Khorasan    100    1    0
+---- Ilam    101    0    0
+---- Isfahan    1183    2    0
+---- Hamadan    124    1    0
+---- Razavi Khorasan    568    8    0
+---- Hormozgan    90    2    0
+---- Kurdistan    134    0    0
+---- Qazvin    407    7    0
+---- Yazd    326    3    0
+---- West Azerbaijan    193    0    0
+---- Gilan    840    0    0
+---- Golestan    259    6    0
+---- Khuzestan    253    12    0
+---- Alborz    665    7    0
+---- Semnan    450    0    0
+---- Lorestan    289    4    0
+---- East Azerbaijan    374    6    0
+---- Kermanshah    115    2    0
+---- Sistan and Baluchestan    60    0    0
+---- Kerman    84    0    0
+---- Zanjan    201    0    0
 ---- Chaharmahal and Bakhtiari    49    0    0
----- North Khorasan    46    0    0
----- Kohgiluyeh and Boyer-Ahmad    26    0    0
----- Bushehr    28    0    0
+---- North Khorasan    52    0    0
+---- Kohgiluyeh and Boyer-Ahmad    27    0    0
+---- Bushehr    34    0    0
 -- Korea, Republic of    8162    75    834
 ---- Busan    106    1    52
 ---- Chungcheongbuk-do    31    0    6
@@ -522,7 +522,7 @@
 ---- Sejong    39    0    0
 ---- Seoul    247    0    47
 ---- Ulsan    28    0    6
--- Spain    6391    196    517
+-- Spain    6392    197    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -549,12 +549,12 @@
 ---- Berlin    263    0    0
 ---- Brandenburg    64    0    0
 ---- Thuringia    46    0    0
----- Schleswig-Holstein    74    0    0
+---- Schleswig-Holstein    103    0    0
 ---- Lower Saxony    253    0    1
 ---- Bremen    53    0    1
 ---- Hamburg    158    0    0
 ---- Rhineland-Palatinate    162    0    1
----- North Rhine-Westphalia    1636    5    27
+---- North Rhine-Westphalia    2100    5    27
 ---- Hesse    203    0    0
 ---- Baden-Württemberg    827    3    14
 ---- Saxony-Anhalt    45    0    0
@@ -1017,7 +1017,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 -- Japan    1848    22    144
----- Hokkaido    148    4    53
+---- Hokkaido    148    5    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    16    0    0
@@ -1033,15 +1033,15 @@
 ---- Kyoto    17    0    2
 ---- Osaka    102    0    1
 ---- Chiba    31    0    0
----- Kanagawa    50    3    1
+---- Kanagawa    53    3    1
 ---- Shizuoka    3    0    0
----- Aichi    121    11    2
+---- Aichi    121    12    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    67    1    0
+---- hyogo    71    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -1054,7 +1054,7 @@
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
 -- Switzerland    1376    14    4
--- Norway    1198    3    1
+-- Norway    1199    3    1
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -1064,7 +1064,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Sweden    961    2    1
+-- Sweden    981    2    1
 -- Netherlands    959    12    2
 -- Belgium    886    4    1
 -- Denmark    864    1    1
@@ -1094,6 +1094,7 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
+-- Portugal    256    0    2
 -- Finland    244    0    10
 -- Czechia    231    0    0
 -- Greece    228    4    8
@@ -1102,7 +1103,6 @@
 -- Bahrain    212    0    60
 -- Israel    200    0    4
 -- Slovenia    181    1    0
--- Portugal    169    0    2
 -- Iceland    161    0    1
 -- Brazil    151    0    1
 -- Hong Kong    145    4    81
@@ -1128,6 +1128,7 @@
 -- Slovakia    54    0    0
 -- Viet Nam    53    0    16
 -- South Africa    51    0    0
+-- Brunei Darussalam    50    0    0
 -- Algeria    48    4    12
 -- Croatia    46    0    2
 -- Serbia    46    0    0
@@ -1135,27 +1136,26 @@
 -- Peru    43    0    0
 -- Bulgaria    43    2    0
 -- Panama    43    1    0
+-- Albania    42    1    0
 -- Mexico    41    0    4
--- Brunei Darussalam    40    0    0
 -- Pakistan    38    0    2
--- Albania    38    1    0
 -- Palestine    38    0    0
 -- Hungary    32    0    1
 -- Georgia    30    0    1
 -- Latvia    30    0    1
 -- Ecuador    28    2    0
+-- Morocco    28    1    1
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
 -- Colombia    24    0    0
+-- Azerbaijan    23    1    6
 -- Armenia    23    0    0
 -- Bosnia and Herzegovina    21    0    0
 -- Malta    21    0    2
 -- Oman    20    0    9
 -- North Macedonia    19    0    1
--- Azerbaijan    19    1    6
--- Morocco    18    1    1
 -- Tunisia    18    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
