@@ -583,9 +583,9 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3503    63    59
----- WA    642    40    43
------- King(53033)    387    35    1
+-- United States of America    3535    65    59
+---- WA    674    42    43
+------ King(53033)    420    35    1
 ------ Snohomish(53061)    154    4    0
 ------ Grant(53025)    2    1    0
 ------ Chelan(53007)    5    0    0
@@ -613,7 +613,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    426    6    6
+---- CA    427    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -828,7 +828,7 @@
 ------ El Paso(08041)    4    1    0
 ------ Eagle(08037)    24    0    0
 ------ Larimer(08069)    2    0    0
------- Arapahoe(08005)    13    0    0
+------ Arapahoe(08005)    15    0    0
 ------ Gunnison(08051)    8    0    0
 ------ Jefferson(08059)    14    0    0
 ------ Pitkin(08097)    15    0    0
@@ -839,6 +839,7 @@
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
+------ Clear Creek(08019)    1    0    0
 ---- PA    66    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
@@ -1021,7 +1022,7 @@
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    11    0    0
+---- ME    12    0    0
 ------ Androscoggin(23001)    1    0    0
 ------ Cumberland(23005)    5    0    0
 ---- AK    4    0    0
@@ -1091,7 +1092,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1250    3    1
+-- Norway    1253    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
