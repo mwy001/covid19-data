@@ -522,7 +522,7 @@
 ---- Sejong    39    0    0
 ---- Seoul    247    0    47
 ---- Ulsan    28    0    6
--- Spain    7798    292    517
+-- Spain    7843    292    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3400    63    59
+-- United States of America    3406    63    59
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -602,7 +602,7 @@
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    4    0    0
----- IL    66    0    2
+---- IL    67    0    2
 ------ Cook(17031)    51    0    2
 ------ Kane(17089)    3    0    0
 ------ McHenry(17111)    2    0    0
@@ -815,7 +815,7 @@
 ------ Anne Arundel(24003)    2    0    0
 ------ Carroll(24013)    1    0    0
 ------ Howard(24027)    1    0    0
----- CO    105    1    0
+---- CO    110    1    0
 ------ Denver(08031)    21    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    4    0    0
@@ -963,7 +963,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    36    0    0
+---- OH    37    0    0
 ------ Cuyahoga(39035)    14    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -999,7 +999,7 @@
 ------ Silver Bow(30093)    1    0    0
 ------ Yellowstone(30111)    1    0    0
 ------ Missoula(30063)    2    0    0
----- DE    6    0    0
+---- DE    7    0    0
 ------ New Castle(10003)    6    0    0
 ---- MS    10    0    0
 ------ Forrest(28035)    3    0    0
@@ -1072,7 +1072,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- United Kingdom of Great Britain and Northern Ireland    1372    35    20
+-- United Kingdom of Great Britain and Northern Ireland    1391    35    20
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
@@ -1121,13 +1121,14 @@
 -- Slovenia    219    1    0
 -- Bahrain    214    0    60
 -- Israel    213    0    4
+-- Iceland    174    0    1
 -- Estonia    171    0    1
--- Iceland    171    0    1
 -- Ireland    170    2    1
 -- Brazil    151    0    1
 -- Hong Kong    149    4    81
 -- Philippines    140    11    2
 -- Romania    139    0    9
+-- Egypt    126    2    27
 -- Iraq    124    10    26
 -- Poland    123    3    13
 -- Saudi Arabia    118    0    2
@@ -1135,16 +1136,15 @@
 -- Thailand    114    1    35
 -- India    112    2    13
 -- Kuwait    112    0    9
--- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- San Marino    101    5    4
 -- United Arab Emirates    98    0    20
+-- Luxembourg    77    1    0
 -- Chile    75    0    0
 -- Peru    71    0    0
 -- Russian Federation    63    0    8
 -- South Africa    61    0    0
 -- Slovakia    61    0    0
--- Luxembourg    59    1    0
 -- Taiwan    59    1    20
 -- Viet Nam    56    0    16
 -- Pakistan    53    0    2
@@ -1159,6 +1159,7 @@
 -- Albania    42    1    0
 -- Cyprus    39    0    0
 -- Palestine    38    0    0
+-- Costa Rica    35    0    0
 -- Colombia    34    0    0
 -- Georgia    33    0    1
 -- Hungary    32    1    1
@@ -1166,7 +1167,6 @@
 -- Ecuador    28    2    0
 -- Morocco    28    1    1
 -- Belarus    27    0    3
--- Costa Rica    27    0    0
 -- Armenia    26    0    0
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
