@@ -522,7 +522,7 @@
 ---- Sejong    39    0    0
 ---- Seoul    247    0    47
 ---- Ulsan    28    0    6
--- Spain    6392    197    517
+-- Spain    7753    208    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5142    9    46
+-- Germany    5381    10    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    681    1    14
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3046    60    56
+-- United States of America    3048    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -770,7 +770,7 @@
 ------ Tompkins(36109)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    3    0    0
----- NJ    70    2    0
+---- NJ    72    2    0
 ------ Bergen(34003)    25    1    0
 ------ Hudson(34017)    6    0    0
 ------ Monmouth(34025)    9    1    0
@@ -1017,7 +1017,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 -- Switzerland    2217    14    4
--- Japan    1848    22    144
+-- Japan    1848    24    144
 ---- Hokkaido    148    5    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1054,7 +1054,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Norway    1199    3    1
+-- Norway    1205    3    1
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -1064,14 +1064,14 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Sweden    981    2    1
--- Netherlands    959    12    2
+-- Netherlands    1135    20    2
+-- Sweden    992    2    1
 -- Belgium    886    4    1
 -- Denmark    864    2    1
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
 -- Austria    800    1    6
--- Malaysia    428    0    35
+-- Malaysia    428    0    42
 -- Qatar    337    0    4
 -- Australia    300    5    27
 ---- New South Wales    112    2    4
@@ -1098,9 +1098,9 @@
 -- Finland    244    0    10
 -- Czechia    231    0    0
 -- Greece    228    4    8
+-- Bahrain    214    0    60
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
--- Bahrain    212    0    60
 -- Israel    200    0    4
 -- Slovenia    181    1    0
 -- Iceland    161    0    1
@@ -1117,7 +1117,7 @@
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- Iraq    110    10    26
--- India    107    2    10
+-- India    108    2    10
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
 -- United Arab Emirates    86    0    20
@@ -1127,6 +1127,7 @@
 -- Russian Federation    59    0    8
 -- Slovakia    54    0    0
 -- Viet Nam    53    0    16
+-- Pakistan    51    0    2
 -- South Africa    51    0    0
 -- Brunei Darussalam    50    0    0
 -- Algeria    48    4    12
@@ -1138,7 +1139,6 @@
 -- Panama    43    1    0
 -- Albania    42    1    0
 -- Mexico    41    0    4
--- Pakistan    38    0    2
 -- Palestine    38    0    0
 -- Hungary    32    0    1
 -- Georgia    30    0    1
@@ -1152,9 +1152,9 @@
 -- Colombia    24    0    0
 -- Azerbaijan    23    1    6
 -- Armenia    23    0    0
+-- Oman    21    0    9
 -- Bosnia and Herzegovina    21    0    0
 -- Malta    21    0    2
--- Oman    20    0    9
 -- North Macedonia    19    0    1
 -- Tunisia    18    0    0
 -- Afghanistan    16    0    1
@@ -1181,6 +1181,7 @@
 -- Uruguay    6    0    0
 -- Bangladesh    5    0    2
 -- Cuba    4    0    0
+-- Guyana    4    1    0
 -- Puerto Rico    4    0    0
 -- Ukraine    3    1    0
 -- Burkina Faso    3    0    0
@@ -1208,7 +1209,6 @@
 -- Holy See    1    0    0
 -- Mongolia    1    0    0
 -- Côte d'Ivoire    1    0    0
--- Guyana    1    1    0
 -- Antigua and Barbuda    1    0    0
 -- Cayman Islands    1    0    0
 -- Ethiopia    1    0    0
