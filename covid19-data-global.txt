@@ -472,7 +472,7 @@
 ---- Liguria    463    27    52
 ---- Veneto    1937    55    107
 ---- Bolzano    173    3    0
--- Iran, Islamic Republic of    13938    724    4339
+-- Iran, Islamic Republic of    13938    724    4590
 ---- Qom    1004    30    0
 ---- Tehran    3574    0    0
 ---- Fars    252    2    0
@@ -675,9 +675,9 @@
 ------ Hillsborough(12057)    4    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    20    0    0
------- Lee(12071)    4    2    0
------- Manatee(12081)    4    0    0
+------ Broward(12011)    36    0    0
+------ Lee(12071)    5    2    0
+------ Manatee(12081)    5    0    0
 ------ Okaloosa(12091)    1    0    0
 ------ Volusia(12127)    5    0    0
 ------ Charlotte(12015)    1    0    0
@@ -689,10 +689,11 @@
 ------ Palm Beach(12099)    5    0    0
 ------ Clay(12019)    3    0    0
 ------ Duval(12031)    4    0    0
------- Miami-Dade(12086)    8    0    0
+------ Miami-Dade(12086)    13    0    0
 ------ Seminole(12117)    1    0    0
 ------ Orange(12095)    2    1    0
 ------ Osceola(12097)    1    0    0
+------ Citrus(12017)    1    0    0
 ---- OR    36    1    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    13    0    0
@@ -847,7 +848,7 @@
 ------ Jefferson(21111)    4    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
----- IN    16    0    0
+---- IN    17    0    0
 ------ Marion(18097)    3    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
@@ -859,6 +860,7 @@
 ------ Hancock(18059)    1    0    0
 ------ LaPorte(18091)    1    0    0
 ------ Wells(18179)    1    0    0
+------ Hamilton(18057)    1    0    0
 ---- MN    21    0    0
 ------ Ramsey(27123)    5    0    0
 ------ Jefferson(21111)    1    0    0
@@ -1071,7 +1073,7 @@
 -- Denmark    864    2    1
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
--- Austria    800    1    6
+-- Austria    860    1    6
 -- Malaysia    428    0    42
 -- Qatar    337    0    4
 -- Australia    300    5    27
@@ -1153,7 +1155,7 @@
 -- Senegal    24    0    2
 -- Azerbaijan    23    1    6
 -- Armenia    23    0    0
--- Oman    21    0    9
+-- Oman    22    0    9
 -- Bosnia and Herzegovina    21    0    0
 -- Malta    21    0    2
 -- North Macedonia    19    0    1
@@ -1164,6 +1166,7 @@
 -- Moldova, Republic of    12    0    0
 -- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
+-- Turkey    11    0    0
 -- Faroe Islands    11    0    0
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
@@ -1178,7 +1181,6 @@
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
 -- Réunion    7    0    0
--- Turkey    6    0    0
 -- Uruguay    6    0    0
 -- Ghana    6    0    0
 -- Bangladesh    5    0    2
