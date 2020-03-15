@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5620    11    46
+-- Germany    5795    11    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    886    3    14
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3269    62    56
+-- United States of America    3312    62    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -612,7 +612,7 @@
 ------ DuPage(17043)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Sangamon(17167)    2    0    0
----- CA    374    5    6
+---- CA    406    5    6
 ------ Los Angeles(06037)    53    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -623,7 +623,7 @@
 ------ Sonoma(06097)    3    0    0
 ------ Orange(06059)    14    0    0
 ------ Contra Costa(06013)    29    0    0
------- San Francisco(06075)    28    0    0
+------ San Francisco(06075)    37    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    96    2    1
 ------ Alameda(06001)    11    0    0
@@ -642,16 +642,16 @@
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    2    0    0
 ------ San Luis Obispo(06079)    1    0    0
----- WI    28    0    1
+---- WI    32    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
------- Fond du Lac(55039)    7    0    0
+------ Fond du Lac(55039)    11    0    0
 ------ Waukesha(55133)    3    0    0
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    65    0    0
+---- TX    68    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    11    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -741,7 +741,7 @@
 ---- AZ    13    0    1
 ------ Maricopa(04013)    4    0    1
 ------ Pinal(04021)    5    0    0
------- Pima(04019)    2    0    0
+------ Pima(04019)    3    0    0
 ------ Graham(04009)    1    0    0
 ---- NC    32    0    0
 ------ Wake(37183)    14    0    0
@@ -831,18 +831,20 @@
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
 ---- PA    63    1    0
------- Delaware(42045)    6    0    0
+------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    20    0    0
------- Monroe(42089)    3    0    0
------- Philadelphia(42101)    4    0    0
+------ Montgomery(42091)    24    0    0
+------ Monroe(42089)    6    0    0
+------ Philadelphia(42101)    6    0    0
 ------ Bucks(42017)    4    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    2    0    0
 ------ Washington(42125)    1    0    0
------- Cumberland(42041)    3    0    0
+------ Cumberland(42041)    5    0    0
 ------ Allegheny(42003)    3    0    0
+------ Lehigh(42077)    1    0    0
+------ Luzerne(42079)    1    0    0
 ---- NE    18    0    0
 ------ Douglas(31055)    15    0    0
 ------ Knox(31107)    1    0    0
@@ -993,7 +995,7 @@
 ------ Missoula(30063)    2    0    0
 ---- DE    6    0    0
 ------ New Castle(10003)    6    0    0
----- MS    6    0    0
+---- MS    10    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
 ------ Copiah(28029)    1    0    0
@@ -1073,7 +1075,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1219    3    1
+-- Norway    1220    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1024    3    1
 -- Belgium    886    4    1
@@ -1106,8 +1108,8 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
 -- Portugal    256    0    2
+-- Czechia    253    0    0
 -- Finland    244    0    10
--- Czechia    231    0    0
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Slovenia    219    1    0
@@ -1122,10 +1124,10 @@
 -- Ireland    129    2    1
 -- Poland    119    3    13
 -- Indonesia    117    5    8
+-- Iraq    116    10    26
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
 -- India    111    2    10
--- Iraq    111    10    26
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- Saudi Arabia    103    0    2
@@ -1166,9 +1168,9 @@
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
 -- Malta    21    0    2
+-- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Sri Lanka    18    0    1
--- Tunisia    18    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
@@ -1178,12 +1180,12 @@
 -- Faroe Islands    11    0    0
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
+-- Jamaica    10    0    2
 -- Macao    10    0    10
 -- Venezuela, Bolivarian Republic of    10    0    0
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
 -- Jordan    8    0    1
--- Jamaica    8    0    0
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
