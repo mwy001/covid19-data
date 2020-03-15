@@ -1029,7 +1029,7 @@
 -- Denmark    836    1    1
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
--- Japan    804    22    144
+-- Japan    825    22    144
 ---- Hokkaido    144    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1093,11 +1093,11 @@
 -- Malaysia    238    0    35
 -- Greece    228    3    8
 -- Finland    225    0    10
+-- Czechia    214    0    0
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
 -- Israel    200    0    4
--- Czechia    189    0    0
 -- Slovenia    181    1    0
 -- Portugal    169    0    2
 -- Iceland    161    0    1
@@ -1105,16 +1105,16 @@
 -- Hong Kong    142    4    81
 -- Ireland    129    2    0
 -- Romania    123    0    9
+-- Indonesia    117    5    8
 -- Estonia    115    0    1
 -- Philippines    111    8    2
 -- Egypt    110    2    27
 -- Iraq    110    10    26
--- India    105    2    10
+-- India    107    2    10
 -- Kuwait    104    0    7
 -- Poland    104    3    13
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
--- Indonesia    96    5    8
 -- Lebanon    93    3    1
 -- United Arab Emirates    85    0    20
 -- Thailand    82    1    35
