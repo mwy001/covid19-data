@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    4649    9    46
+-- Germany    5142    9    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    681    1    14
@@ -1053,7 +1053,8 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Switzerland    1375    13    4
+-- Switzerland    1376    14    4
+-- Norway    1196    3    1
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -1063,7 +1064,6 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1133    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Belgium    886    4    1
@@ -1071,6 +1071,7 @@
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
 -- Austria    800    1    6
+-- Malaysia    428    0    35
 -- Qatar    337    0    4
 -- Australia    299    5    27
 ---- New South Wales    112    2    4
@@ -1093,7 +1094,6 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
--- Malaysia    249    0    35
 -- Finland    244    0    10
 -- Czechia    231    0    0
 -- Greece    228    4    8
@@ -1105,11 +1105,11 @@
 -- Portugal    169    0    2
 -- Iceland    161    0    1
 -- Brazil    151    0    1
--- Hong Kong    142    4    81
+-- Hong Kong    145    4    81
 -- Philippines    140    11    2
 -- Estonia    135    0    1
+-- Romania    131    0    9
 -- Ireland    129    2    0
--- Romania    123    0    9
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
@@ -1137,9 +1137,9 @@
 -- Panama    43    1    0
 -- Mexico    41    0    4
 -- Brunei Darussalam    40    0    0
+-- Pakistan    38    0    2
 -- Albania    38    1    0
 -- Palestine    38    0    0
--- Pakistan    33    0    2
 -- Hungary    32    0    1
 -- Georgia    30    0    1
 -- Latvia    30    0    1
