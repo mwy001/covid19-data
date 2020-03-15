@@ -545,19 +545,19 @@
 -- Germany    5426    11    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
----- Free State of Bavaria    886    2    14
+---- Free State of Bavaria    886    3    14
 ---- Berlin    263    0    0
 ---- Brandenburg    64    0    0
----- Thuringia    46    0    0
+---- Thuringia    51    0    0
 ---- Schleswig-Holstein    103    0    0
 ---- Lower Saxony    253    0    1
 ---- Bremen    53    0    1
 ---- Hamburg    158    0    0
----- Rhineland-Palatinate    162    0    1
+---- Rhineland-Palatinate    200    0    1
 ---- North Rhine-Westphalia    2100    5    27
 ---- Hesse    203    0    0
 ---- Baden-Württemberg    827    3    14
----- Saxony-Anhalt    45    0    0
+---- Saxony-Anhalt    47    0    0
 ---- Saarland    74    0    0
 -- France    4499    91    12
 ---- France    4469    91    12
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3094    62    56
+-- United States of America    3110    62    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -642,7 +642,7 @@
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    2    0    0
 ------ San Luis Obispo(06079)    1    0    0
----- WI    27    0    1
+---- WI    28    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    6    0    0
@@ -706,8 +706,8 @@
 ------ Deschutes(41017)    3    0    0
 ------ Linn(41043)    9    0    0
 ------ Clackamas(41005)    1    0    0
----- GA    75    1    0
------- Fulton(13121)    13    0    0
+---- GA    86    1    0
+------ Fulton(13121)    20    0    0
 ------ Cobb(13067)    15    1    0
 ------ Polk(13233)    1    0    0
 ------ Cherokee(13057)    5    0    0
@@ -739,12 +739,12 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
 ------ Graham(04009)    1    0    0
----- NC    30    0    0
+---- NC    32    0    0
 ------ Wake(37183)    14    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
------- Mecklenburg(37119)    2    0    0
+------ Mecklenburg(37119)    4    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    2    0    0
@@ -801,13 +801,13 @@
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
 ------ Campbell(47013)    1    0    0
----- MD    28    0    1
+---- MD    30    0    1
 ------ Montgomery(24031)    6    0    0
 ------ Harford(24025)    2    0    0
 ------ Prince George's(24033)    7    0    0
 ------ Baltimore(24005)    11    0    0
 ------ Charles(24017)    1    0    0
------- Anne Arundel(24003)    1    0    0
+------ Anne Arundel(24003)    2    0    0
 ------ Carroll(24013)    1    0    0
 ---- CO    104    1    0
 ------ Denver(08031)    21    0    0
@@ -933,8 +933,8 @@
 ------ Windsor(50027)    2    0    0
 ------ Washington(50023)    1    0    0
 ---- LA    91    4    0
------- Jefferson(22051)    11    4    0
------- Orleans(22071)    53    1    0
+------ Jefferson(22051)    12    4    0
+------ Orleans(22071)    66    2    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    1    0    0
 ------ Terrebonne(22109)    3    0    0
@@ -1033,12 +1033,12 @@
 ---- Saitama    29    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    87    2    0
+---- Tokyo    90    2    0
 ---- Wakayama    15    1    2
 ---- Kyoto    17    0    2
----- Osaka    102    0    1
+---- Osaka    106    0    1
 ---- Chiba    31    0    0
----- Kanagawa    53    3    1
+---- Kanagawa    55    3    1
 ---- Shizuoka    3    0    0
 ---- Aichi    121    12    2
 ---- Nara    8    0    1
@@ -1046,11 +1046,11 @@
 ---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    71    1    0
+---- hyogo    78    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
----- Shiga    1    0    0
+---- Shiga    2    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    1    0    0
@@ -1064,10 +1064,10 @@
 ---- Gibraltar    1    0    1
 ---- England    925    20    0
 ---- Northern Ireland    34    0    0
----- Wales    60    0    0
----- Scotland    121    10    0
+---- Wales    94    0    0
+---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1207    3    1
+-- Norway    1210    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1024    2    1
 -- Belgium    886    4    1
@@ -1077,6 +1077,7 @@
 -- Austria    860    1    6
 -- Malaysia    428    0    42
 -- Qatar    337    0    4
+-- Greece    331    4    8
 -- Australia    300    5    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
@@ -1086,9 +1087,9 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
--- Canada    260    1    11
+-- Canada    299    1    11
 ---- British Columbia    73    1    4
----- Ontario    104    0    4
+---- Ontario    142    0    4
 ---- Alberta    39    0    0
 ---- Quebec    24    0    0
 ---- New Brunswick    2    0    0
@@ -1101,15 +1102,14 @@
 -- Portugal    256    0    2
 -- Finland    244    0    10
 -- Czechia    231    0    0
--- Greece    228    4    8
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Slovenia    219    1    0
 -- Bahrain    214    0    60
--- Israel    200    0    4
+-- Israel    213    0    4
 -- Iceland    171    0    1
 -- Brazil    151    0    1
--- Hong Kong    145    4    81
+-- Hong Kong    149    4    81
 -- Philippines    140    11    2
 -- Romania    139    0    9
 -- Estonia    135    0    1
@@ -1154,18 +1154,18 @@
 -- Costa Rica    27    0    0
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
+-- Bosnia and Herzegovina    24    0    0
 -- Azerbaijan    23    1    6
 -- Armenia    23    0    0
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
--- Bosnia and Herzegovina    21    0    0
 -- Malta    21    0    2
 -- North Macedonia    19    0    1
+-- Sri Lanka    18    0    1
 -- Tunisia    18    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
 -- Lithuania    12    0    1
--- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
 -- Turkey    11    0    0
 -- Faroe Islands    11    0    0
@@ -1188,6 +1188,7 @@
 -- Cuba    4    0    0
 -- Guyana    4    1    0
 -- Puerto Rico    4    0    0
+-- Ethiopia    4    0    0
 -- Ukraine    3    1    0
 -- Burkina Faso    3    0    0
 -- Honduras    3    0    0
@@ -1216,7 +1217,6 @@
 -- Côte d'Ivoire    1    0    0
 -- Antigua and Barbuda    1    0    0
 -- Cayman Islands    1    0    0
--- Ethiopia    1    0    0
 -- Gabon    1    0    0
 -- Gibraltar    1    0    1
 -- Guatemala    1    0    0
