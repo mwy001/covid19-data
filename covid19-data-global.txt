@@ -582,7 +582,7 @@
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
--- United States of America    3044    60    56
+-- United States of America    3045    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -945,7 +945,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    27    0    0
+---- OH    28    0    0
 ------ Cuyahoga(39035)    11    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -1024,7 +1024,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1111    3    1
+-- Norway    1121    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1092,7 +1092,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 -- Malaysia    238    0    35
--- Finland    236    0    10
+-- Finland    237    0    10
 -- Greece    228    3    8
 -- Czechia    214    0    0
 -- Singapore    212    0    105
@@ -1110,18 +1110,18 @@
 -- Estonia    115    0    1
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
--- Philippines    111    8    2
+-- Philippines    111    11    2
+-- Poland    111    3    13
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- Iraq    110    10    26
 -- India    107    2    10
--- Poland    104    3    13
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
 -- United Arab Emirates    86    0    20
 -- Chile    61    0    0
+-- Taiwan    59    1    20
 -- Russian Federation    59    0    8
--- Taiwan    53    1    20
 -- Viet Nam    53    0    16
 -- Luxembourg    51    1    0
 -- Serbia    46    0    0
@@ -1171,6 +1171,7 @@
 -- Cambodia    7    0    1
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
+-- Jordan    6    0    1
 -- Réunion    6    0    0
 -- Turkey    6    0    0
 -- Kazakhstan    6    0    0
@@ -1198,7 +1199,6 @@
 -- Jersey    2    0    0
 -- Nepal    1    0    1
 -- Andorra    1    0    1
--- Jordan    1    0    1
 -- Bhutan    1    0    0
 -- Togo    1    0    0
 -- Holy See    1    0    0
