@@ -504,7 +504,7 @@
 ---- North Khorasan    46    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    26    0    0
 ---- Bushehr    28    0    0
--- Korea, Republic of    8086    72    714
+-- Korea, Republic of    8162    75    834
 ---- Busan    103    0    40
 ---- Chungcheongbuk-do    28    0    5
 ---- Chungcheongnam-do    115    0    9
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2943    57    49
+-- United States of America    2949    57    56
 ---- WA    642    40    35
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -1109,6 +1109,7 @@
 -- Argentina    45    2    0
 -- Russian Federation    45    0    3
 -- Slovakia    44    0    0
+-- Panama    43    1    0
 -- Bulgaria    41    2    0
 -- Croatia    39    0    2
 -- South Africa    38    0    0
@@ -1116,7 +1117,6 @@
 -- Albania    38    1    0
 -- Algeria    37    3    10
 -- Brunei Darussalam    37    0    0
--- Panama    36    1    0
 -- Pakistan    31    0    2
 -- Georgia    30    0    0
 -- Hungary    30    0    1
@@ -1130,11 +1130,11 @@
 -- Senegal    21    0    2
 -- Bosnia and Herzegovina    21    0    0
 -- Oman    19    0    9
+-- Azerbaijan    19    1    6
 -- Armenia    18    0    0
 -- Morocco    18    1    1
 -- Tunisia    18    0    0
 -- Malta    18    0    1
--- Azerbaijan    15    1    3
 -- North Macedonia    14    0    1
 -- Afghanistan    11    0    0
 -- Dominican Republic    11    0    0
@@ -1151,11 +1151,11 @@
 -- Moldova, Republic of    6    0    0
 -- Turkey    6    0    0
 -- Kazakhstan    6    0    0
+-- Uruguay    6    0    0
 -- Bangladesh    5    0    2
 -- Réunion    5    0    0
 -- Liechtenstein    4    0    0
 -- Cuba    4    0    0
--- Uruguay    4    0    0
 -- Ukraine    3    1    0
 -- Bolivia, Plurinational State of    3    0    0
 -- Honduras    3    0    0
