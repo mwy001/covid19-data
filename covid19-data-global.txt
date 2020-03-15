@@ -1071,7 +1071,7 @@
 -- Austria    800    1    6
 -- Belgium    689    4    1
 -- Qatar    337    0    4
--- Australia    283    4    27
+-- Australia    283    5    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
 ---- Queensland    46    0    8
@@ -1093,7 +1093,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 -- Malaysia    249    0    35
--- Finland    239    0    10
+-- Finland    240    0    10
 -- Greece    228    4    8
 -- Czechia    214    0    0
 -- Singapore    212    0    105
@@ -1105,13 +1105,13 @@
 -- Iceland    161    0    1
 -- Brazil    151    0    1
 -- Hong Kong    142    4    81
+-- Philippines    140    11    2
+-- Estonia    135    0    1
 -- Ireland    129    2    0
 -- Romania    123    0    9
 -- Indonesia    117    5    8
--- Estonia    115    0    1
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
--- Philippines    111    11    2
 -- Poland    111    3    13
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
@@ -1125,6 +1125,7 @@
 -- Taiwan    59    1    20
 -- Russian Federation    59    0    8
 -- Viet Nam    53    0    16
+-- South Africa    51    0    0
 -- Croatia    46    0    2
 -- Serbia    46    0    0
 -- Algeria    45    3    12
@@ -1135,7 +1136,6 @@
 -- Panama    43    1    0
 -- Mexico    41    0    4
 -- Brunei Darussalam    40    0    0
--- South Africa    38    0    0
 -- Albania    38    1    0
 -- Palestine    38    0    0
 -- Pakistan    33    0    2
@@ -1156,7 +1156,7 @@
 -- Morocco    18    1    1
 -- Tunisia    18    0    0
 -- Malta    18    0    1
--- Afghanistan    16    0    0
+-- Afghanistan    16    0    1
 -- Moldova, Republic of    12    0    0
 -- Dominican Republic    11    0    0
 -- Maldives    11    0    0
@@ -1186,6 +1186,7 @@
 -- French Polynesia    3    0    0
 -- Ghana    3    0    0
 -- Guadeloupe    3    0    0
+-- Guam    3    0    0
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
 -- Cameroon    2    0    0
