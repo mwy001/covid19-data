@@ -583,10 +583,10 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3535    65    59
----- WA    674    42    43
------- King(53033)    420    35    1
------- Snohomish(53061)    154    4    0
+-- United States of America    3587    68    59
+---- WA    696    42    43
+------ King(53033)    420    37    1
+------ Snohomish(53061)    176    4    0
 ------ Grant(53025)    2    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    3    0    0
@@ -644,7 +644,8 @@
 ------ Tulare(06107)    2    0    0
 ------ San Luis Obispo(06079)    2    0    0
 ------ San Bernardino(06071)    1    0    0
----- WI    32    0    1
+------ Santa Barbara(06083)    1    0    0
+---- WI    33    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    11    0    0
@@ -762,9 +763,9 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    734    3    1
+---- NY    734    6    1
 ------ Westchester(36119)    198    0    0
------- New York(36061)    329    2    0
+------ New York(36061)    329    5    0
 ------ Nassau(36059)    98    0    0
 ------ Rockland(36087)    13    1    0
 ------ Saratoga(36091)    3    0    0
@@ -894,8 +895,8 @@
 ------ Washington(27163)    1    0    0
 ---- RI    20    0    0
 ------ Providence(44007)    20    0    0
----- CT    24    0    0
------- Fairfield(09001)    15    0    0
+---- CT    26    0    0
+------ Fairfield(09001)    16    0    0
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    2    0    0
 ------ New Haven(09009)    4    0    0
@@ -956,7 +957,7 @@
 ------ Chittenden(50007)    2    0    0
 ------ Windsor(50027)    3    0    0
 ------ Washington(50023)    1    0    0
----- LA    91    4    0
+---- LA    102    4    0
 ------ Jefferson(22051)    12    4    0
 ------ Orleans(22071)    66    2    0
 ------ Iberia(22045)    1    0    0
@@ -986,7 +987,7 @@
 ------ Lucas(39095)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    1    0    0
----- MI    33    0    0
+---- MI    45    0    0
 ------ Oakland(26125)    9    0    0
 ------ Wayne(26163)    8    0    0
 ------ Kent(26081)    3    0    0
@@ -997,7 +998,7 @@
 ------ Charlevoix(26029)    1    0    0
 ------ Macomb(26099)    2    0    0
 ------ Monroe(26115)    1    0    0
----- NM    13    0    0
+---- NM    17    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    6    0    0
 ------ Santa Fe(35049)    3    0    0
@@ -1092,7 +1093,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1253    3    1
+-- Norway    1254    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
@@ -1103,9 +1104,9 @@
 -- Malaysia    428    0    42
 -- Qatar    401    0    4
 -- Greece    331    4    8
--- Canada    321    1    11
+-- Canada    324    1    11
 ---- British Columbia    73    1    4
----- Ontario    142    0    4
+---- Ontario    145    0    4
 ---- Alberta    39    0    0
 ---- Quebec    39    0    0
 ---- New Brunswick    6    0    0
@@ -1133,7 +1134,7 @@
 -- Bahrain    214    0    77
 -- Israel    213    0    4
 -- Brazil    191    0    1
--- Iceland    175    0    1
+-- Iceland    180    0    1
 -- Estonia    171    0    1
 -- Ireland    170    2    1
 -- Hong Kong    149    4    81
@@ -1164,7 +1165,7 @@
 -- Croatia    49    0    2
 -- Algeria    48    4    12
 -- Serbia    48    0    1
--- Argentina    45    2    1
+-- Argentina    46    2    1
 -- Mexico    43    0    4
 -- Panama    43    1    0
 -- Albania    42    1    0
