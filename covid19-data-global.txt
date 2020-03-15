@@ -1,28 +1,28 @@
 -- China    80977    3193    65660
 ---- Hubei    67790    3075    52960
------- Wuhan    49995    2446    36465
------- Xiaogan    3518    126    3237
------- Ezhou    1394    57    1212
------- Suizhou    1307    45    1192
------- Jingzhou    1580    50    1474
------- Huanggang    2907    125    2730
------- Jingmen    928    39    860
------- Yichang    931    36    858
------- Huangshi    1015    38    943
------- Shiyan    672    8    629
------- Xiantao    575    22    520
------- Xiangyang    1175    38    1115
------- Enshi Tujia and Miao Autonomous Prefecture    252    7    238
+------ Wuhan    49999    2456    37642
+------ Xiaogan    3518    126    3253
+------ Ezhou    1394    57    1272
+------ Suizhou    1307    45    1213
+------ Jingzhou    1580    50    1483
+------ Huanggang    2907    125    2738
+------ Jingmen    928    39    864
+------ Yichang    931    36    864
+------ Huangshi    1015    38    948
+------ Shiyan    672    8    630
+------ Xiantao    575    22    526
+------ Xiangyang    1175    38    1125
+------ Enshi Tujia and Miao Autonomous Prefecture    252    7    241
 ------ Qianjiang    198    9    182
------- Xianning    836    14    818
------- Tianmen    496    15    476
+------ Xianning    836    14    819
+------ Tianmen    496    15    477
 ------ Shennongjia    11    0    11
 ---- Guangdong    1356    8    1299
------- Shenzhen    421    3    395
------- Guangzhou    347    1    330
------- Foshan    84    0    78
+------ Shenzhen    421    3    399
+------ Guangzhou    348    1    330
+------ Foshan    84    0    81
 ------ Zhongshan    68    0    64
------- Dongguan    100    1    96
+------ Dongguan    100    1    97
 ------ Shantou    25    0    24
 ------ Zhuhai    98    1    97
 ------ Huizhou    62    0    62
@@ -188,7 +188,7 @@
 ---- Sichuan    539    3    511
 ------ Chengdu    144    3    122
 ------ Bazhong    24    0    24
------- Garzê Tibetan Autonomous Prefecture    78    0    76
+------ Garzê Tibetan Autonomous Prefecture    78    0    77
 ------ Mianyang    22    0    22
 ------ Dazhou    42    0    42
 ------ Guang'an    30    0    30
@@ -347,7 +347,7 @@
 ------ Anshun    4    0    4
 ------ Qianxinan    4    0    4
 ---- Tianjin    136    3    132
------- Baodi District    60    2    57
+------ Baodi District    60    2    58
 ------ Hedong District    15    1    14
 ------ Hebei District    12    0    12
 ------ Beichen District    6    0    6
@@ -1016,23 +1016,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
--- Switzerland    1375    13    4
--- United Kingdom of Great Britain and Northern Ireland    1143    21    19
----- UK    456    8    18
----- Channel Islands    2    0    0
----- Gibraltar    1    0    1
----- England    925    20    0
----- Northern Ireland    34    0    0
----- Wales    60    0    0
----- Scotland    121    10    0
----- United Kingdom    1140    21    18
--- Norway    1128    3    1
--- Sweden    961    2    1
--- Netherlands    959    12    2
--- Denmark    864    1    1
----- Denmark    827    1    1
----- Faroe Islands    9    0    0
--- Japan    825    22    144
+-- Japan    1848    22    144
 ---- Hokkaido    148    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1069,8 +1053,24 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
+-- Switzerland    1375    13    4
+-- United Kingdom of Great Britain and Northern Ireland    1143    21    19
+---- UK    456    8    18
+---- Channel Islands    2    0    0
+---- Gibraltar    1    0    1
+---- England    925    20    0
+---- Northern Ireland    34    0    0
+---- Wales    60    0    0
+---- Scotland    121    10    0
+---- United Kingdom    1140    21    18
+-- Norway    1133    3    1
+-- Sweden    961    2    1
+-- Netherlands    959    12    2
+-- Belgium    886    4    1
+-- Denmark    864    1    1
+---- Denmark    827    1    1
+---- Faroe Islands    9    0    0
 -- Austria    800    1    6
--- Belgium    689    4    1
 -- Qatar    337    0    4
 -- Australia    299    5    27
 ---- New South Wales    112    2    4
@@ -1095,8 +1095,8 @@
 ---- Newfoundland and Labrador    1    0    0
 -- Malaysia    249    0    35
 -- Finland    244    0    10
+-- Czechia    231    0    0
 -- Greece    228    4    8
--- Czechia    214    0    0
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
@@ -1156,15 +1156,15 @@
 -- Azerbaijan    19    1    6
 -- Morocco    18    1    1
 -- Tunisia    18    0    0
--- Malta    18    0    1
+-- Malta    18    0    2
 -- Afghanistan    16    0    1
+-- Maldives    13    0    0
 -- Moldova, Republic of    12    0    0
 -- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
--- Maldives    11    0    0
+-- Faroe Islands    11    0    0
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
--- Faroe Islands    10    0    0
 -- Macao    10    0    10
 -- Venezuela, Bolivarian Republic of    10    0    0
 -- Lithuania    9    0    1
@@ -1173,13 +1173,13 @@
 -- Kazakhstan    8    0    0
 -- Cambodia    7    0    1
 -- Jordan    7    0    1
+-- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
 -- Réunion    6    0    0
 -- Turkey    6    0    0
 -- Uruguay    6    0    0
 -- Bangladesh    5    0    2
--- Liechtenstein    4    0    0
 -- Cuba    4    0    0
 -- Puerto Rico    4    0    0
 -- Ukraine    3    1    0
