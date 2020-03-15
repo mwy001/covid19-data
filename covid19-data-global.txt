@@ -683,7 +683,7 @@
 ------ Charlotte(12015)    1    0    0
 ------ Collier(12021)    5    0    0
 ------ Pinellas(12103)    2    0    0
------- Alachua(12001)    3    0    0
+------ Alachua(12001)    4    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    2    0    0
 ------ Palm Beach(12099)    5    0    0
@@ -739,8 +739,8 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    2    0    0
 ------ Graham(04009)    1    0    0
----- NC    26    0    0
------- Wake(37183)    12    0    0
+---- NC    30    0    0
+------ Wake(37183)    14    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
@@ -753,6 +753,7 @@
 ------ Harnett(37085)    2    0    0
 ------ Brunswick(37019)    1    0    0
 ------ Craven(37049)    1    0    0
+------ Watauga(37189)    1    0    0
 ---- NY    615    2    1
 ------ Westchester(36119)    178    0    0
 ------ New York(36061)    269    1    0
@@ -861,7 +862,7 @@
 ------ LaPorte(18091)    1    0    0
 ------ Wells(18179)    1    0    0
 ------ Hamilton(18057)    1    0    0
----- MN    21    0    0
+---- MN    35    0    0
 ------ Ramsey(27123)    5    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    1    0    0
@@ -976,7 +977,7 @@
 ------ Bernalillo(35001)    6    0    0
 ------ Santa Fe(35049)    3    0    0
 ------ Sandoval(35043)    2    0    0
----- AR    12    0    0
+---- AR    16    0    0
 ------ Jefferson(05069)    3    0    0
 ---- MT    7    0    0
 ------ Gallatin(30031)    1    0    0
@@ -1085,7 +1086,7 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
--- Canada    257    1    11
+-- Canada    260    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    104    0    4
 ---- Alberta    39    0    0
@@ -1128,8 +1129,8 @@
 -- Chile    61    0    0
 -- Luxembourg    59    1    0
 -- Taiwan    59    1    20
+-- Viet Nam    56    0    16
 -- Slovakia    54    0    0
--- Viet Nam    54    0    16
 -- Pakistan    53    0    2
 -- South Africa    51    0    0
 -- Brunei Darussalam    50    0    0
