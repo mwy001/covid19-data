@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5426    11    46
+-- Germany    5620    11    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    886    3    14
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3110    62    56
+-- United States of America    3143    62    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -645,13 +645,13 @@
 ---- WI    28    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
------- Fond du Lac(55039)    6    0    0
+------ Fond du Lac(55039)    7    0    0
 ------ Waukesha(55133)    3    0    0
 ------ Sheboygan(55117)    3    0    0
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    63    0    0
+---- TX    64    0    0
 ------ Bexar(48029)    2    0    0
 ------ Harris(48201)    11    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -668,6 +668,7 @@
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
 ------ Hays(48209)    1    0    0
+------ Matagorda(48321)    1    0    0
 ---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
@@ -706,24 +707,27 @@
 ------ Deschutes(41017)    3    0    0
 ------ Linn(41043)    9    0    0
 ------ Clackamas(41005)    1    0    0
----- GA    86    1    0
+---- GA    99    1    0
 ------ Fulton(13121)    20    0    0
------- Cobb(13067)    15    1    0
+------ Cobb(13067)    19    1    0
 ------ Polk(13233)    1    0    0
------- Cherokee(13057)    5    0    0
------- Gwinnett(13135)    2    0    0
------- DeKalb(13089)    8    0    0
+------ Cherokee(13057)    6    0    0
+------ Gwinnett(13135)    4    0    0
+------ DeKalb(13089)    10    0    0
 ------ Floyd(13115)    3    0    0
------- Fayette(13113)    4    0    0
+------ Fayette(13113)    5    0    0
 ------ Charlton(13049)    1    0    0
------- Bartow(13015)    7    0    0
+------ Bartow(13015)    9    0    0
 ------ Gordon(13129)    2    0    0
 ------ Camden(13039)    1    0    0
------- Lee(13177)    1    0    0
------- Lowndes(13185)    1    0    0
+------ Lee(13177)    2    0    0
+------ Lowndes(13185)    2    0    0
 ------ Coweta(13077)    2    0    0
 ------ Dougherty(13095)    7    0    0
 ------ Henry(13151)    1    0    0
+------ Clarke(13059)    2    0    0
+------ Clayton(13063)    2    0    0
+------ Newton(13217)    2    0    0
 ---- MA    138    0    1
 ------ Norfolk(25021)    28    0    0
 ------ Suffolk(25025)    27    0    1
@@ -754,7 +758,7 @@
 ------ Brunswick(37019)    1    0    0
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
----- NY    615    2    1
+---- NY    619    2    1
 ------ Westchester(36119)    178    0    0
 ------ New York(36061)    269    1    0
 ------ Nassau(36059)    79    0    0
@@ -801,8 +805,8 @@
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
 ------ Campbell(47013)    1    0    0
----- MD    30    0    1
------- Montgomery(24031)    6    0    0
+---- MD    38    0    1
+------ Montgomery(24031)    12    0    0
 ------ Harford(24025)    2    0    0
 ------ Prince George's(24033)    7    0    0
 ------ Baltimore(24005)    11    0    0
@@ -896,11 +900,13 @@
 ------ Honolulu(15003)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    1    0    0
----- OK    4    0    1
------- Tulsa(40143)    2    0    0
+---- OK    7    0    1
+------ Tulsa(40143)    3    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
----- VA    41    1    0
+------ Cleveland(40027)    1    0    0
+------ Payne(40119)    1    0    0
+---- VA    42    1    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    7    0    0
@@ -950,14 +956,14 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    28    0    0
+---- OH    30    0    0
 ------ Cuyahoga(39035)    11    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    4    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    2    0    0
------- Franklin(39049)    1    0    0
+------ Franklin(39049)    3    0    0
 ------ Lorain(39093)    1    0    0
 ------ Lucas(39095)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
@@ -1003,7 +1009,7 @@
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
----- Others    10    0    0
+---- Others    11    0    0
 ---- AL    12    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    5    0    0
@@ -1015,7 +1021,7 @@
 ------ Ada(16001)    2    0    0
 ------ Blaine(16013)    1    0    0
 ------ Teton(16081)    1    0    0
----- PR    3    0    0
+---- PR    4    0    0
 ---- VI    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
@@ -1067,9 +1073,9 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1210    3    1
+-- Norway    1212    3    1
 -- Netherlands    1135    20    2
--- Sweden    1024    2    1
+-- Sweden    1024    3    1
 -- Belgium    886    4    1
 -- Denmark    864    2    1
 ---- Denmark    827    1    1
@@ -1078,6 +1084,18 @@
 -- Malaysia    428    0    42
 -- Qatar    337    0    4
 -- Greece    331    4    8
+-- Canada    302    1    11
+---- British Columbia    73    1    4
+---- Ontario    142    0    4
+---- Alberta    39    0    0
+---- Quebec    24    0    0
+---- New Brunswick    2    0    0
+---- Manitoba    7    0    0
+---- Saskatchewan    6    0    0
+---- Grand Princess    2    0    0
+---- Grand Princess Cruise Ship    4    0    0
+---- Prince Edward Island    1    0    0
+---- Newfoundland and Labrador    1    0    0
 -- Australia    300    5    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
@@ -1087,18 +1105,6 @@
 ---- Tasmania    5    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
--- Canada    299    1    11
----- British Columbia    73    1    4
----- Ontario    142    0    4
----- Alberta    39    0    0
----- Quebec    24    0    0
----- New Brunswick    2    0    0
----- Manitoba    4    0    0
----- Saskatchewan    6    0    0
----- Grand Princess    2    0    0
----- Grand Princess Cruise Ship    4    0    0
----- Prince Edward Island    1    0    0
----- Newfoundland and Labrador    1    0    0
 -- Portugal    256    0    2
 -- Finland    244    0    10
 -- Czechia    231    0    0
@@ -1121,12 +1127,12 @@
 -- Iraq    111    10    26
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
--- India    108    2    10
+-- India    109    2    10
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
--- United Arab Emirates    86    0    20
+-- United Arab Emirates    98    0    20
+-- Chile    75    0    0
 -- Russian Federation    63    0    8
--- Chile    61    0    0
 -- Luxembourg    59    1    0
 -- Taiwan    59    1    20
 -- Viet Nam    56    0    16
@@ -1152,11 +1158,11 @@
 -- Morocco    28    1    1
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
+-- Armenia    26    0    0
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
 -- Azerbaijan    23    1    6
--- Armenia    23    0    0
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
 -- Malta    21    0    2
@@ -1165,6 +1171,7 @@
 -- Tunisia    18    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
+-- Cambodia    12    0    1
 -- Lithuania    12    0    1
 -- Dominican Republic    11    0    0
 -- Turkey    11    0    0
@@ -1177,7 +1184,6 @@
 -- New Zealand    8    0    0
 -- Jordan    8    0    1
 -- Jamaica    8    0    0
--- Cambodia    7    0    1
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
