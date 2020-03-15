@@ -1,5 +1,5 @@
--- China    80945    3180    64196
----- Hubei    67786    3062    51553
+-- China    80977    3180    64196
+---- Hubei    67790    3062    51553
 ------ Wuhan    49995    2446    36465
 ------ Xiaogan    3518    126    3237
 ------ Ezhou    1394    57    1212
@@ -57,7 +57,7 @@
 ------ Puyang    17    0    17
 ------ Sanmenxia    7    1    6
 ------ Jiyuan    5    0    5
----- Zhejiang    1215    1    1197
+---- Zhejiang    1227    1    1197
 ------ Lishui    28    0    18
 ------ Wenzhou    504    1    501
 ------ Hangzhou    182    0    179
@@ -146,7 +146,7 @@
 ------ Suqian    13    0    13
 ------ Zhenjiang    12    0    12
 ---- Chongqing    576    6    566
------- Changshou District    22    0    21
+------ Changshou District    22    0    22
 ------ Qijiang District    23    0    23
 ------ Dazu District    14    0    14
 ------ Rongchang District    9    0    9
@@ -221,7 +221,7 @@
 ------ Daxinganling    3    0    2
 ------ Jiamusi    15    0    15
 ------ Yichun    1    0    1
----- Beijing    436    8    342
+---- Beijing    437    8    342
 ------ Chaoyang District    72    0    0
 ------ Haidian District    63    0    0
 ------ Xicheng District    53    0    0
@@ -238,7 +238,7 @@
 ------ Miyun District    7    0    0
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
----- Shanghai    346    3    324
+---- Shanghai    353    3    324
 ------ People from other cities    111    1    106
 ------ Pudong District    61    0    59
 ------ Baoshan District    21    0    19
@@ -374,7 +374,7 @@
 ------ Lüliang    6    0    6
 ------ Yangquan    4    0    4
 ------ Linfen    2    0    2
----- Gansu    127    2    88
+---- Gansu    129    2    88
 ------ Dingxi    9    0    9
 ------ Lanzhou    36    2    34
 ------ Tianshui    12    0    12
@@ -386,10 +386,10 @@
 ------ Linxia    3    0    3
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
----- Hong Kong    134    4    77
+---- Hong Kong    140    4    77
 ---- Liaoning    125    1    112
 ------ Dandong    11    0    7
------- Dalian    19    0    17
+------ Dalian    19    0    18
 ------ Shenyang    28    0    26
 ------ Huludao    12    1    9
 ------ Chaoyang    6    0    5
@@ -560,7 +560,7 @@
 ---- Saxony-Anhalt    45    0    0
 ---- Saarland    40    0    0
 -- France    4499    91    12
----- France    3661    79    12
+---- France    4469    79    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
 ---- Nord-Pas-de-Calais and Picardy    397    7    4
@@ -581,7 +581,8 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2976    60    56
+---- Fench Guiana    5    0    0
+-- United States of America    2982    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -989,14 +990,15 @@
 ------ Ward(38101)    1    0    0
 ---- ME    6    0    0
 ------ Androscoggin(23001)    1    0    0
+------ Cumberland(23005)    1    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
 ---- Others    7    0    0
 ---- AL    12    0    0
 ------ Montgomery(01101)    1    0    0
------- Jefferson(01073)    3    0    0
------- Tuscaloosa(01125)    1    0    0
+------ Jefferson(01073)    5    0    0
+------ Tuscaloosa(01125)    2    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Baldwin(01003)    1    0    0
@@ -1015,13 +1017,13 @@
 ---- Northern Ireland    34    0    0
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
----- United Kingdom    798    8    18
+---- United Kingdom    1140    8    18
 -- Norway    1109    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
----- Denmark    801    0    1
----- Faroe Islands    3    0    0
+---- Denmark    827    0    1
+---- Faroe Islands    9    0    0
 -- Japan    804    22    144
 ---- Hokkaido    144    4    53
 ---- kochi    12    0    0
@@ -1098,15 +1100,15 @@
 -- Hong Kong    142    4    81
 -- Ireland    129    2    0
 -- Romania    123    0    9
--- Estonia    115    0    0
+-- Estonia    115    0    1
 -- Philippines    111    8    2
 -- Egypt    110    2    27
 -- Iraq    110    10    26
 -- Kuwait    104    0    7
 -- Poland    104    3    13
 -- Saudi Arabia    103    0    2
+-- India    102    2    10
 -- San Marino    101    5    4
--- India    100    2    10
 -- Indonesia    96    5    8
 -- Lebanon    93    3    1
 -- United Arab Emirates    85    0    20
@@ -1156,10 +1158,10 @@
 -- Bolivia, Plurinational State of    10    0    0
 -- Faroe Islands    10    0    0
 -- Macao    10    0    10
+-- Venezuela, Bolivarian Republic of    10    0    0
 -- Lithuania    9    0    1
 -- New Zealand    8    0    0
 -- Jamaica    8    0    0
--- Venezuela, Bolivarian Republic of    8    0    0
 -- Cambodia    7    0    1
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
@@ -1174,6 +1176,7 @@
 -- Ukraine    3    1    0
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
+-- Ghana    3    0    0
 -- Guadeloupe    3    0    0
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
@@ -1181,12 +1184,12 @@
 -- Burkina Faso    2    0    0
 -- Congo    2    0    0
 -- Aruba    2    0    0
--- Ghana    2    0    0
 -- Saint Martin (French part)    2    0    0
 -- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
 -- Seychelles    2    0    0
 -- Curaçao    2    0    0
+-- Jersey    2    0    0
 -- Nepal    1    0    1
 -- Andorra    1    0    1
 -- Jordan    1    0    1
@@ -1215,3 +1218,4 @@
 -- Saint Vincent and the Grenadines    1    0    0
 -- Eswatini    1    0    0
 -- Virgin Islands, U.S.    1    0    0
+-- Guernsey    1    0    0
