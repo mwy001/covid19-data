@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    4599    9    46
+-- Germany    4649    9    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    681    1    14
@@ -955,6 +955,7 @@
 ------ Franklin(39049)    1    0    0
 ------ Lorain(39093)    1    0    0
 ------ Lucas(39095)    1    0    0
+------ Tuscarawas(39157)    1    0    0
 ---- MI    33    0    0
 ------ Oakland(26125)    9    0    0
 ------ Wayne(26163)    8    0    0
@@ -1024,7 +1025,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1121    3    1
+-- Norway    1126    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1091,9 +1092,9 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
--- Malaysia    238    0    35
--- Finland    237    0    10
--- Greece    228    3    8
+-- Malaysia    249    0    35
+-- Finland    239    0    10
+-- Greece    228    4    8
 -- Czechia    214    0    0
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
@@ -1120,10 +1121,11 @@
 -- San Marino    101    5    4
 -- United Arab Emirates    86    0    20
 -- Chile    61    0    0
+-- Luxembourg    59    1    0
 -- Taiwan    59    1    20
 -- Russian Federation    59    0    8
 -- Viet Nam    53    0    16
--- Luxembourg    51    1    0
+-- Croatia    46    0    2
 -- Serbia    46    0    0
 -- Algeria    45    3    12
 -- Argentina    45    2    1
@@ -1133,17 +1135,16 @@
 -- Panama    43    1    0
 -- Mexico    41    0    4
 -- Brunei Darussalam    40    0    0
--- Croatia    39    0    2
 -- South Africa    38    0    0
 -- Albania    38    1    0
 -- Palestine    38    0    0
 -- Pakistan    33    0    2
 -- Hungary    32    0    1
 -- Georgia    30    0    1
+-- Latvia    30    0    1
 -- Ecuador    28    2    0
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
--- Latvia    26    0    1
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
 -- Colombia    24    0    0
@@ -1168,13 +1169,13 @@
 -- Lithuania    9    0    1
 -- New Zealand    8    0    0
 -- Jamaica    8    0    0
+-- Kazakhstan    8    0    0
 -- Cambodia    7    0    1
+-- Jordan    7    0    1
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
--- Jordan    6    0    1
 -- Réunion    6    0    0
 -- Turkey    6    0    0
--- Kazakhstan    6    0    0
 -- Uruguay    6    0    0
 -- Bangladesh    5    0    2
 -- Liechtenstein    4    0    0
