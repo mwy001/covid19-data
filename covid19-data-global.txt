@@ -542,10 +542,10 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5381    10    46
+-- Germany    5426    11    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
----- Free State of Bavaria    681    1    14
+---- Free State of Bavaria    886    2    14
 ---- Berlin    263    0    0
 ---- Brandenburg    64    0    0
 ---- Thuringia    46    0    0
@@ -558,7 +558,7 @@
 ---- Hesse    203    0    0
 ---- Baden-Württemberg    827    3    14
 ---- Saxony-Anhalt    45    0    0
----- Saarland    40    0    0
+---- Saarland    74    0    0
 -- France    4499    91    12
 ---- France    4469    91    12
 ---- St Martin    2    0    0
@@ -612,7 +612,7 @@
 ------ DuPage(17043)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Sangamon(17167)    2    0    0
----- CA    373    5    6
+---- CA    374    5    6
 ------ Los Angeles(06037)    53    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -688,7 +688,7 @@
 ------ Pasco(12101)    2    0    0
 ------ Palm Beach(12099)    5    0    0
 ------ Clay(12019)    3    0    0
------- Duval(12031)    1    0    0
+------ Duval(12031)    4    0    0
 ------ Miami-Dade(12086)    8    0    0
 ------ Seminole(12117)    1    0    0
 ------ Orange(12095)    2    1    0
@@ -752,13 +752,13 @@
 ------ Harnett(37085)    2    0    0
 ------ Brunswick(37019)    1    0    0
 ------ Craven(37049)    1    0    0
----- NY    613    2    1
+---- NY    615    2    1
 ------ Westchester(36119)    178    0    0
 ------ New York(36061)    269    1    0
 ------ Nassau(36059)    79    0    0
 ------ Rockland(36087)    13    1    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    33    0    0
+------ Suffolk(36103)    41    0    0
 ------ Ulster(36111)    5    0    0
 ------ Albany(36001)    7    0    0
 ------ Delaware(36025)    1    0    0
@@ -1099,10 +1099,10 @@
 -- Finland    244    0    10
 -- Czechia    231    0    0
 -- Greece    228    4    8
+-- Singapore    226    0    105
+---- Central Singapore Community Development Council    200    0    97
 -- Slovenia    219    1    0
 -- Bahrain    214    0    60
--- Singapore    212    0    105
----- Central Singapore Community Development Council    200    0    97
 -- Israel    200    0    4
 -- Iceland    161    0    1
 -- Brazil    151    0    1
@@ -1111,10 +1111,10 @@
 -- Estonia    135    0    1
 -- Romania    131    0    9
 -- Ireland    129    2    1
+-- Poland    119    3    13
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
--- Poland    111    3    13
 -- Egypt    110    2    27
 -- Lebanon    110    3    1
 -- Iraq    110    10    26
@@ -1122,13 +1122,13 @@
 -- Saudi Arabia    103    0    2
 -- San Marino    101    5    4
 -- United Arab Emirates    86    0    20
+-- Russian Federation    63    0    8
 -- Chile    61    0    0
 -- Luxembourg    59    1    0
 -- Taiwan    59    1    20
--- Russian Federation    59    0    8
 -- Slovakia    54    0    0
+-- Viet Nam    54    0    16
 -- Pakistan    53    0    2
--- Viet Nam    53    0    16
 -- South Africa    51    0    0
 -- Brunei Darussalam    50    0    0
 -- Croatia    49    0    2
@@ -1141,6 +1141,7 @@
 -- Albania    42    1    0
 -- Mexico    41    0    4
 -- Palestine    38    0    0
+-- Colombia    34    0    0
 -- Hungary    32    1    1
 -- Georgia    30    0    1
 -- Latvia    30    0    1
@@ -1150,7 +1151,6 @@
 -- Costa Rica    27    0    0
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
--- Colombia    24    0    0
 -- Azerbaijan    23    1    6
 -- Armenia    23    0    0
 -- Oman    21    0    9
@@ -1177,9 +1177,10 @@
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
--- Réunion    6    0    0
+-- Réunion    7    0    0
 -- Turkey    6    0    0
 -- Uruguay    6    0    0
+-- Ghana    6    0    0
 -- Bangladesh    5    0    2
 -- Cuba    4    0    0
 -- Guyana    4    1    0
@@ -1188,7 +1189,6 @@
 -- Burkina Faso    3    0    0
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
--- Ghana    3    0    0
 -- Guadeloupe    3    0    0
 -- Guam    3    0    0
 -- Nigeria    2    0    1
