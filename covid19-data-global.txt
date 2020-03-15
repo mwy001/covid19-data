@@ -18,7 +18,7 @@
 ------ Tianmen    496    15    476
 ------ Shennongjia    11    0    11
 ---- Guangdong    1356    8    1296
------- Shenzhen    420    3    395
+------ Shenzhen    421    3    395
 ------ Guangzhou    347    1    330
 ------ Foshan    84    0    78
 ------ Zhongshan    68    0    64
@@ -58,9 +58,9 @@
 ------ Sanmenxia    7    1    6
 ------ Jiyuan    5    0    5
 ---- Zhejiang    1215    1    1197
------- Lishui    25    0    18
+------ Lishui    28    0    18
 ------ Wenzhou    504    1    501
------- Hangzhou    181    0    179
+------ Hangzhou    182    0    179
 ------ Jiaxing    45    0    44
 ------ Huzhou    12    0    10
 ------ Shaoxing    42    0    41
@@ -132,7 +132,7 @@
 ------ Rizhao    16    0    16
 ------ Binzhou    15    0    15
 ---- Jiangsu    631    0    630
------- Wuxi    55    0    54
+------ Wuxi    55    0    55
 ------ Nanjing    93    0    93
 ------ Suzhou    87    0    87
 ------ Xuzhou    79    0    79
@@ -147,9 +147,9 @@
 ------ Zhenjiang    12    0    12
 ---- Chongqing    576    6    566
 ------ Changshou District    22    0    21
------- Qijiang District    23    0    22
------- Dazu District    14    0    13
------- Rongchang District    9    0    8
+------ Qijiang District    23    0    23
+------ Dazu District    14    0    14
+------ Rongchang District    9    0    9
 ------ Wanzhou District    118    4    114
 ------ Jiangbei District    28    0    28
 ------ Yunyang County    25    0    25
@@ -186,8 +186,8 @@
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
 ---- Sichuan    539    3    503
------- Chengdu    144    3    121
------- Bazhong    24    0    21
+------ Chengdu    144    3    122
+------ Bazhong    24    0    24
 ------ Garzê Tibetan Autonomous Prefecture    78    0    76
 ------ Mianyang    22    0    22
 ------ Dazhou    42    0    42
@@ -208,16 +208,16 @@
 ------ Leshan    3    0    3
 ------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
 ---- Heilongjiang    482    13    446
------- Harbin    198    4    186
------- Shuangyashan    52    3    47
+------ Harbin    198    4    187
+------ Shuangyashan    52    3    48
 ------ Suihua    47    4    41
 ------ Qiqihar    43    1    40
 ------ Daqing    26    1    23
------- Mudanjiang    15    0    14
------- Jixi    46    0    45
------- Qitaihe    17    0    16
+------ Mudanjiang    15    0    15
+------ Jixi    46    0    46
+------ Qitaihe    17    0    17
 ------ Heihe    14    0    13
------- Hegang    5    0    4
+------ Hegang    5    0    5
 ------ Daxinganling    3    0    2
 ------ Jiamusi    15    0    15
 ------ Yichun    1    0    1
@@ -306,8 +306,8 @@
 ------ Hancheng    1    0    1
 ------ Yangling District in Xianyang    1    0    1
 ---- Yunnan    174    2    170
------- Qujing    13    0    12
------- Dehong    5    0    4
+------ Qujing    13    0    13
+------ Dehong    5    0    5
 ------ Kunming    53    0    53
 ------ Zhaotong    25    0    25
 ------ Xishuangbanna    15    1    14
@@ -581,7 +581,7 @@
 ---- Réunion    5    0    0
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
--- United States of America    2949    57    56
+-- United States of America    2958    58    56
 ---- WA    642    40    35
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
