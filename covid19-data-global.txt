@@ -472,7 +472,7 @@
 ---- Liguria    463    27    52
 ---- Veneto    1937    55    107
 ---- Bolzano    173    3    0
--- Iran, Islamic Republic of    12729    611    4339
+-- Iran, Islamic Republic of    13938    724    4339
 ---- Qom    920    30    0
 ---- Tehran    3323    0    0
 ---- Fars    243    2    0
@@ -1054,7 +1054,7 @@
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
 -- Switzerland    1376    14    4
--- Norway    1196    3    1
+-- Norway    1198    3    1
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
@@ -1109,7 +1109,7 @@
 -- Philippines    140    11    2
 -- Estonia    135    0    1
 -- Romania    131    0    9
--- Ireland    129    2    0
+-- Ireland    129    2    1
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- Kuwait    112    0    9
@@ -1128,9 +1128,9 @@
 -- Slovakia    54    0    0
 -- Viet Nam    53    0    16
 -- South Africa    51    0    0
+-- Algeria    48    4    12
 -- Croatia    46    0    2
 -- Serbia    46    0    0
--- Algeria    45    3    12
 -- Argentina    45    2    1
 -- Peru    43    0    0
 -- Bulgaria    43    2    0
@@ -1149,14 +1149,14 @@
 -- Cyprus    26    0    0
 -- Senegal    24    0    2
 -- Colombia    24    0    0
+-- Armenia    23    0    0
 -- Bosnia and Herzegovina    21    0    0
+-- Malta    21    0    2
 -- Oman    20    0    9
--- Armenia    20    0    0
 -- North Macedonia    19    0    1
 -- Azerbaijan    19    1    6
 -- Morocco    18    1    1
 -- Tunisia    18    0    0
--- Malta    18    0    2
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
 -- Moldova, Republic of    12    0    0
