@@ -647,7 +647,7 @@
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    60    0    0
+---- TX    61    0    0
 ------ Bexar(48029)    2    0    0
 ------ Harris(48201)    10    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -1054,12 +1054,12 @@
 -- Belgium    689    4    1
 -- Austria    655    1    6
 -- Qatar    337    0    4
--- Canada    252    1    11
----- Ontario    104    83    83
+-- Canada    253    1    11
+---- Ontario    105    83    83
 ---- British Columbia    73    69    69
 ---- Alberta    39    29    29
 ---- Quebec    24    17    17
----- Grand Princess Cruise Ship    2    0    0
+---- Grand Princess Cruise Ship    4    0    0
 ---- New Brunswick    2    1    1
 ---- Manitoba    4    4    4
 ---- Saskatchewan    2    2    2
@@ -1094,9 +1094,9 @@
 -- Philippines    111    8    2
 -- Iraq    110    10    26
 -- Egypt    109    2    27
--- Kuwait    104    0    5
+-- Kuwait    104    0    7
+-- Poland    104    3    13
 -- Saudi Arabia    103    0    1
--- Poland    103    3    13
 -- San Marino    101    5    4
 -- India    100    2    10
 -- Indonesia    96    5    8
@@ -1104,36 +1104,36 @@
 -- United Arab Emirates    85    0    20
 -- Thailand    82    1    35
 -- Chile    61    0    0
+-- Russian Federation    59    0    8
+-- Taiwan    53    1    20
+-- Viet Nam    53    0    16
 -- Luxembourg    51    1    0
--- Taiwan    50    1    20
--- Viet Nam    47    0    16
 -- Serbia    46    0    0
 -- Argentina    45    2    0
--- Russian Federation    45    0    3
 -- Slovakia    44    0    0
+-- Peru    43    0    0
 -- Panama    43    1    0
 -- Bulgaria    41    2    0
+-- Algeria    39    3    10
 -- Croatia    39    0    2
 -- South Africa    38    0    0
--- Peru    38    0    0
 -- Albania    38    1    0
--- Algeria    37    3    10
 -- Brunei Darussalam    37    0    0
--- Pakistan    31    0    2
+-- Pakistan    33    0    2
 -- Georgia    30    0    0
 -- Hungary    30    0    1
--- Ecuador    28    1    0
+-- Ecuador    28    2    0
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
 -- Mexico    26    0    4
 -- Latvia    26    0    1
 -- Cyprus    26    0    0
--- Colombia    22    0    0
--- Senegal    21    0    2
+-- Senegal    24    0    2
+-- Colombia    24    0    0
 -- Bosnia and Herzegovina    21    0    0
+-- Armenia    20    0    0
 -- Oman    19    0    9
 -- Azerbaijan    19    1    6
--- Armenia    18    0    0
 -- Morocco    18    1    1
 -- Tunisia    18    0    0
 -- Malta    18    0    1
@@ -1199,3 +1199,6 @@
 -- Rwanda    1    0    0
 -- Mayotte    1    0    0
 -- Equatorial Guinea    1    0    0
+-- Saint Barthélemy    1    0    0
+-- Saint Vincent and the Grenadines    1    0    0
+-- Eswatini    1    0    0
