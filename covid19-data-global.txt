@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3406    63    59
+-- United States of America    3457    63    59
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -612,6 +612,7 @@
 ------ DuPage(17043)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Sangamon(17167)    2    0    0
+------ Champaign(17019)    1    0    0
 ---- CA    424    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
@@ -728,10 +729,10 @@
 ------ Clarke(13059)    2    0    0
 ------ Clayton(13063)    2    0    0
 ------ Newton(13217)    2    0    0
----- MA    138    0    1
------- Norfolk(25021)    28    0    0
------- Suffolk(25025)    27    0    1
------- Middlesex(25017)    65    0    0
+---- MA    168    0    1
+------ Norfolk(25021)    31    0    0
+------ Suffolk(25025)    31    0    1
+------ Middlesex(25017)    75    0    0
 ------ Plymouth(25023)    1    0    0
 ------ Berkshire(25003)    9    0    0
 ------ Worcester(25027)    2    0    0
@@ -815,20 +816,20 @@
 ------ Anne Arundel(24003)    2    0    0
 ------ Carroll(24013)    1    0    0
 ------ Howard(24027)    1    0    0
----- CO    110    1    0
------- Denver(08031)    21    0    0
+---- CO    130    1    0
+------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
------- Douglas(08035)    4    0    0
------- El Paso(08041)    3    1    0
------- Eagle(08037)    20    0    0
+------ Douglas(08035)    8    0    0
+------ El Paso(08041)    4    1    0
+------ Eagle(08037)    24    0    0
 ------ Larimer(08069)    2    0    0
------- Arapahoe(08005)    10    0    0
------- Gunnison(08051)    6    0    0
------- Jefferson(08059)    9    0    0
+------ Arapahoe(08005)    13    0    0
+------ Gunnison(08051)    8    0    0
+------ Jefferson(08059)    14    0    0
 ------ Pitkin(08097)    15    0    0
 ------ Adams(08001)    6    0    0
 ------ Boulder(08013)    3    0    0
------- Weld(08123)    3    0    0
+------ Weld(08123)    5    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
@@ -1000,7 +1001,7 @@
 ------ Yellowstone(30111)    1    0    0
 ------ Missoula(30063)    2    0    0
 ---- DE    7    0    0
------- New Castle(10003)    6    0    0
+------ New Castle(10003)    7    0    0
 ---- MS    10    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
@@ -1018,9 +1019,9 @@
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
 ---- Others    12    0    0
----- AL    12    0    0
+---- AL    13    0    0
 ------ Montgomery(01101)    1    0    0
------- Jefferson(01073)    6    0    0
+------ Jefferson(01073)    7    0    0
 ------ Tuscaloosa(01125)    2    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
@@ -1081,7 +1082,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1246    3    1
+-- Norway    1250    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
@@ -1121,7 +1122,7 @@
 -- Slovenia    219    1    0
 -- Bahrain    214    0    60
 -- Israel    213    0    4
--- Iceland    174    0    1
+-- Iceland    175    0    1
 -- Estonia    171    0    1
 -- Ireland    170    2    1
 -- Brazil    151    0    1
@@ -1129,8 +1130,8 @@
 -- Philippines    140    11    2
 -- Romania    139    0    9
 -- Egypt    126    2    27
+-- Poland    125    3    13
 -- Iraq    124    10    26
--- Poland    123    3    13
 -- Saudi Arabia    118    0    2
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
@@ -1159,12 +1160,12 @@
 -- Albania    42    1    0
 -- Cyprus    39    0    0
 -- Palestine    38    0    0
+-- Ecuador    37    2    0
 -- Costa Rica    35    0    0
 -- Colombia    34    0    0
 -- Georgia    33    0    1
 -- Hungary    32    1    1
 -- Latvia    30    0    1
--- Ecuador    28    2    0
 -- Morocco    28    1    1
 -- Belarus    27    0    3
 -- Armenia    26    0    0
@@ -1204,6 +1205,7 @@
 -- Guyana    4    1    0
 -- Puerto Rico    4    0    0
 -- Ethiopia    4    0    0
+-- Uzbekistan    4    0    0
 -- Ukraine    3    1    0
 -- Burkina Faso    3    0    0
 -- Honduras    3    0    0
@@ -1246,5 +1248,4 @@
 -- Eswatini    1    0    0
 -- Virgin Islands, U.S.    1    0    0
 -- Guernsey    1    0    0
--- Uzbekistan    1    0    0
 -- Bahamas    1    0    0
