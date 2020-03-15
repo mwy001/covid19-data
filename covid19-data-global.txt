@@ -522,7 +522,7 @@
 ---- Sejong    39    0    0
 ---- Seoul    247    0    47
 ---- Ulsan    28    0    6
--- Spain    7753    208    517
+-- Spain    7753    291    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3048    60    56
+-- United States of America    3083    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -667,26 +667,27 @@
 ------ Galveston(48167)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
+------ Hays(48209)    1    0    0
 ---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
----- FL    116    4    0
------- Hillsborough(12057)    3    0    0
+---- FL    151    4    0
+------ Hillsborough(12057)    4    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
 ------ Broward(12011)    20    0    0
 ------ Lee(12071)    4    2    0
 ------ Manatee(12081)    4    0    0
 ------ Okaloosa(12091)    1    0    0
------- Volusia(12127)    4    0    0
+------ Volusia(12127)    5    0    0
 ------ Charlotte(12015)    1    0    0
------- Collier(12021)    3    0    0
+------ Collier(12021)    5    0    0
 ------ Pinellas(12103)    2    0    0
 ------ Alachua(12001)    3    0    0
 ------ Nassau(12089)    1    0    0
------- Pasco(12101)    1    0    0
+------ Pasco(12101)    2    0    0
 ------ Palm Beach(12099)    5    0    0
------- Clay(12019)    1    0    0
+------ Clay(12019)    3    0    0
 ------ Duval(12031)    1    0    0
 ------ Miami-Dade(12086)    8    0    0
 ------ Seminole(12117)    1    0    0
@@ -777,7 +778,7 @@
 ------ Burlington(34005)    3    0    0
 ------ Camden(34007)    2    0    0
 ------ Passaic(34031)    2    0    0
------- Union(34039)    1    0    0
+------ Union(34039)    3    0    0
 ------ Middlesex(34023)    13    0    0
 ------ Essex(34013)    7    0    0
 ------ Morris(34027)    3    0    0
@@ -1065,7 +1066,7 @@
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1135    20    2
--- Sweden    992    2    1
+-- Sweden    1024    2    1
 -- Belgium    886    4    1
 -- Denmark    864    2    1
 ---- Denmark    827    1    1
@@ -1098,11 +1099,11 @@
 -- Finland    244    0    10
 -- Czechia    231    0    0
 -- Greece    228    4    8
+-- Slovenia    219    1    0
 -- Bahrain    214    0    60
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Israel    200    0    4
--- Slovenia    181    1    0
 -- Iceland    161    0    1
 -- Brazil    151    0    1
 -- Hong Kong    145    4    81
@@ -1126,13 +1127,13 @@
 -- Taiwan    59    1    20
 -- Russian Federation    59    0    8
 -- Slovakia    54    0    0
+-- Pakistan    53    0    2
 -- Viet Nam    53    0    16
--- Pakistan    51    0    2
 -- South Africa    51    0    0
 -- Brunei Darussalam    50    0    0
+-- Croatia    49    0    2
 -- Algeria    48    4    12
--- Croatia    46    0    2
--- Serbia    46    0    0
+-- Serbia    46    0    1
 -- Argentina    45    2    1
 -- Peru    43    0    0
 -- Bulgaria    43    2    0
@@ -1140,7 +1141,7 @@
 -- Albania    42    1    0
 -- Mexico    41    0    4
 -- Palestine    38    0    0
--- Hungary    32    0    1
+-- Hungary    32    1    1
 -- Georgia    30    0    1
 -- Latvia    30    0    1
 -- Ecuador    28    2    0
@@ -1159,6 +1160,7 @@
 -- Tunisia    18    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
+-- Lithuania    12    0    1
 -- Moldova, Republic of    12    0    0
 -- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
@@ -1167,7 +1169,6 @@
 -- Bolivia, Plurinational State of    10    0    0
 -- Macao    10    0    10
 -- Venezuela, Bolivarian Republic of    10    0    0
--- Lithuania    9    0    1
 -- New Zealand    8    0    0
 -- Jamaica    8    0    0
 -- Kazakhstan    8    0    0
