@@ -582,7 +582,7 @@
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
--- United States of America    2995    60    56
+-- United States of America    2999    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -882,11 +882,11 @@
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    1    0    0
----- UT    20    0    0
+---- UT    24    0    0
 ------ Davis(49011)    2    0    0
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    5    0    0
------- Salt Lake(49035)    11    0    0
+------ Salt Lake(49035)    12    0    0
 ---- HI    4    0    0
 ------ Honolulu(15003)    2    0    0
 ------ Kauai(15007)    2    0    0
@@ -1019,7 +1019,7 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    8    18
--- Norway    1109    3    1
+-- Norway    1111    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
 -- Denmark    836    1    1
@@ -1065,7 +1065,7 @@
 -- Belgium    689    4    1
 -- Austria    655    1    6
 -- Qatar    337    0    4
--- Canada    254    1    11
+-- Canada    257    1    11
 ---- Ontario    105    83    83
 ---- British Columbia    73    69    69
 ---- Alberta    39    29    29
@@ -1105,10 +1105,10 @@
 -- Philippines    111    8    2
 -- Egypt    110    2    27
 -- Iraq    110    10    26
+-- India    105    2    10
 -- Kuwait    104    0    7
 -- Poland    104    3    13
 -- Saudi Arabia    103    0    2
--- India    102    2    10
 -- San Marino    101    5    4
 -- Indonesia    96    5    8
 -- Lebanon    93    3    1
@@ -1143,8 +1143,8 @@
 -- Senegal    24    0    2
 -- Colombia    24    0    0
 -- Bosnia and Herzegovina    21    0    0
+-- Oman    20    0    9
 -- Armenia    20    0    0
--- Oman    19    0    9
 -- North Macedonia    19    0    1
 -- Azerbaijan    19    1    6
 -- Morocco    18    1    1
