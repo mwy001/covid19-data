@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5795    11    46
+-- Germany    5813    11    46
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    886    3    14
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3313    63    59
+-- United States of America    3328    63    59
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -651,11 +651,11 @@
 ------ Milwaukee(55079)    6    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    68    0    0
+---- TX    69    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    11    0    0
 ------ Fort Bend(48157)    9    0    0
------- Collin(48085)    7    0    0
+------ Collin(48085)    8    0    0
 ------ Gregg(48183)    4    0    0
 ------ Dallas(48113)    14    0    0
 ------ Tarrant(48439)    4    0    0
@@ -669,7 +669,7 @@
 ------ Brazoria(48039)    2    0    0
 ------ Hays(48209)    1    0    0
 ------ Matagorda(48321)    1    0    0
----- NH    7    0    0
+---- NH    13    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
 ---- FL    151    4    0
@@ -743,7 +743,7 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    3    0    0
 ------ Graham(04009)    1    0    0
----- NC    32    0    0
+---- NC    36    0    0
 ------ Wake(37183)    14    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -755,7 +755,7 @@
 ------ Onslow(37133)    1    0    0
 ------ Wayne(37191)    1    0    0
 ------ Harnett(37085)    2    0    0
------- Brunswick(37019)    1    0    0
+------ Brunswick(37019)    5    0    0
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ---- NY    729    3    1
@@ -886,13 +886,14 @@
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    2    0    0
 ------ New Haven(09009)    4    0    0
----- SC    19    0    0
+---- SC    20    0    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    11    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    1    0    0
+------ Horry(45051)    1    0    0
 ---- UT    24    0    0
 ------ Davis(49011)    2    0    0
 ------ Weber(49057)    1    0    0
@@ -958,11 +959,11 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    30    0    0
------- Cuyahoga(39035)    11    0    0
+---- OH    36    0    0
+------ Cuyahoga(39035)    14    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
------- Butler(39017)    4    0    0
+------ Butler(39017)    6    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    2    0    0
 ------ Franklin(39049)    3    0    0
@@ -1011,7 +1012,7 @@
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
----- Others    11    0    0
+---- Others    12    0    0
 ---- AL    12    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    5    0    0
@@ -1023,7 +1024,7 @@
 ------ Ada(16001)    2    0    0
 ------ Blaine(16013)    1    0    0
 ------ Teton(16081)    1    0    0
----- PR    4    0    0
+---- PR    5    0    0
 ---- VI    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
@@ -1066,7 +1067,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- United Kingdom of Great Britain and Northern Ireland    1372    35    19
+-- United Kingdom of Great Britain and Northern Ireland    1372    35    20
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
@@ -1075,7 +1076,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1230    3    1
+-- Norway    1231    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1024    3    1
 -- Belgium    886    4    1
@@ -1086,12 +1087,12 @@
 -- Malaysia    428    0    42
 -- Qatar    401    0    4
 -- Greece    331    4    8
--- Canada    313    1    11
+-- Canada    317    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    142    0    4
 ---- Alberta    39    0    0
 ---- Quebec    35    0    0
----- New Brunswick    2    0    0
+---- New Brunswick    6    0    0
 ---- Manitoba    7    0    0
 ---- Saskatchewan    6    0    0
 ---- Grand Princess    2    0    0
@@ -1117,11 +1118,11 @@
 -- Israel    213    0    4
 -- Estonia    171    0    1
 -- Iceland    171    0    1
+-- Ireland    169    2    1
 -- Brazil    151    0    1
 -- Hong Kong    149    4    81
 -- Philippines    140    11    2
 -- Romania    139    0    9
--- Ireland    129    2    1
 -- Poland    123    3    13
 -- Indonesia    117    5    8
 -- Iraq    116    10    26
@@ -1154,6 +1155,7 @@
 -- Palestine    38    0    0
 -- Colombia    34    0    0
 -- Georgia    33    0    1
+-- Cyprus    33    0    0
 -- Hungary    32    1    1
 -- Latvia    30    0    1
 -- Ecuador    28    2    0
@@ -1161,7 +1163,6 @@
 -- Belarus    27    0    3
 -- Costa Rica    27    0    0
 -- Armenia    26    0    0
--- Cyprus    26    0    0
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
 -- Azerbaijan    23    1    6
@@ -1178,14 +1179,14 @@
 -- Dominican Republic    11    0    0
 -- Turkey    11    0    0
 -- Faroe Islands    11    0    0
+-- Macao    11    0    10
+-- Jordan    10    0    1
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
 -- Jamaica    10    0    2
--- Macao    10    0    10
 -- Venezuela, Bolivarian Republic of    10    0    0
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
--- Jordan    8    0    1
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Paraguay    7    0    0
@@ -1204,6 +1205,7 @@
 -- French Polynesia    3    0    0
 -- Guadeloupe    3    0    0
 -- Kenya    3    0    0
+-- Seychelles    3    0    0
 -- Guam    3    0    0
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
@@ -1214,7 +1216,6 @@
 -- Saint Lucia    2    0    0
 -- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
--- Seychelles    2    0    0
 -- Curaçao    2    0    0
 -- Jersey    2    0    0
 -- Nepal    1    0    1
@@ -1241,3 +1242,4 @@
 -- Virgin Islands, U.S.    1    0    0
 -- Guernsey    1    0    0
 -- Uzbekistan    1    0    0
+-- Bahamas    1    0    0
