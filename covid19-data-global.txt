@@ -546,10 +546,10 @@
 ---- Saxony    99    0    0
 ---- Mecklenburg-Vorpommern    45    0    0
 ---- Free State of Bavaria    681    1    14
----- Berlin    216    0    0
----- Brandenburg    61    0    0
+---- Berlin    263    0    0
+---- Brandenburg    64    0    0
 ---- Thuringia    46    0    0
----- Schleswig-Holstein    60    0    0
+---- Schleswig-Holstein    74    0    0
 ---- Lower Saxony    253    0    1
 ---- Bremen    53    0    1
 ---- Hamburg    158    0    0
@@ -563,25 +563,26 @@
 ---- France    4469    91    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    1    0    0
----- Nord-Pas-de-Calais and Picardy    397    7    4
----- Ile-de-France    721    2    2
----- Alsace–Champagne-Ardenne–Lorraine    911    0    0
----- Normandy    97    1    0
----- Brittany    155    1    6
----- Pays de la Loire    55    0    0
----- Centre-Val de Loire    33    0    0
----- Bourgogne-Franche-Comté    272    0    0
----- Aquitaine-Limousin-Poitou-Charentes    114    0    0
----- Auvergne-Rhône-Alpes    416    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    172    0    0
----- Provence-Alpes-Côte d'Azur    212    0    0
----- Corsica    85    0    0
----- Martinique    6    0    0
----- French Guiana    6    0    0
----- Réunion    5    0    0
----- Guadeloupe    1    0    0
+---- Nord-Pas-de-Calais and Picardy    466    7    4
+---- Ile-de-France    949    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    1085    0    0
+---- Normandy    127    1    0
+---- Brittany    182    1    6
+---- Pays de la Loire    82    0    0
+---- Centre-Val de Loire    54    0    0
+---- Bourgogne-Franche-Comté    339    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    130    0    0
+---- Auvergne-Rhône-Alpes    454    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    214    0    0
+---- Provence-Alpes-Côte d'Azur    281    0    0
+---- Corsica    106    0    0
+---- Martinique    10    0    0
+---- French Guiana    7    0    0
+---- Réunion    6    0    0
+---- Guadeloupe    3    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
+---- Mayotte    1    0    0
 -- United States of America    3045    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
@@ -1025,14 +1026,14 @@
 ---- Wales    60    0    0
 ---- Scotland    121    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1126    3    1
+-- Norway    1128    3    1
 -- Sweden    961    2    1
 -- Netherlands    959    12    2
--- Denmark    836    1    1
+-- Denmark    864    1    1
 ---- Denmark    827    1    1
 ---- Faroe Islands    9    0    0
 -- Japan    825    22    144
----- Hokkaido    144    4    53
+---- Hokkaido    148    4    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    16    0    0
@@ -1044,7 +1045,7 @@
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
 ---- Tokyo    87    2    0
----- Wakayama    14    1    2
+---- Wakayama    15    1    2
 ---- Kyoto    17    0    2
 ---- Osaka    102    0    1
 ---- Chiba    31    0    0
@@ -1071,7 +1072,7 @@
 -- Austria    800    1    6
 -- Belgium    689    4    1
 -- Qatar    337    0    4
--- Australia    283    5    27
+-- Australia    299    5    27
 ---- New South Wales    112    2    4
 ---- Victoria    49    0    8
 ---- Queensland    46    0    8
@@ -1093,7 +1094,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 -- Malaysia    249    0    35
--- Finland    240    0    10
+-- Finland    244    0    10
 -- Greece    228    4    8
 -- Czechia    214    0    0
 -- Singapore    212    0    105
@@ -1124,13 +1125,13 @@
 -- Luxembourg    59    1    0
 -- Taiwan    59    1    20
 -- Russian Federation    59    0    8
+-- Slovakia    54    0    0
 -- Viet Nam    53    0    16
 -- South Africa    51    0    0
 -- Croatia    46    0    2
 -- Serbia    46    0    0
 -- Algeria    45    3    12
 -- Argentina    45    2    1
--- Slovakia    44    0    0
 -- Peru    43    0    0
 -- Bulgaria    43    2    0
 -- Panama    43    1    0
@@ -1158,9 +1159,9 @@
 -- Malta    18    0    1
 -- Afghanistan    16    0    1
 -- Moldova, Republic of    12    0    0
+-- Sri Lanka    11    0    1
 -- Dominican Republic    11    0    0
 -- Maldives    11    0    0
--- Sri Lanka    10    0    1
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
 -- Faroe Islands    10    0    0
@@ -1182,6 +1183,7 @@
 -- Cuba    4    0    0
 -- Puerto Rico    4    0    0
 -- Ukraine    3    1    0
+-- Burkina Faso    3    0    0
 -- Honduras    3    0    0
 -- French Polynesia    3    0    0
 -- Ghana    3    0    0
@@ -1190,10 +1192,10 @@
 -- Nigeria    2    0    1
 -- Monaco    2    0    0
 -- Cameroon    2    0    0
--- Burkina Faso    2    0    0
 -- Congo    2    0    0
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
+-- Saint Lucia    2    0    0
 -- Trinidad and Tobago    2    0    0
 -- Namibia    2    0    0
 -- Seychelles    2    0    0
@@ -1216,7 +1218,6 @@
 -- Guinea    1    0    0
 -- Kenya    1    0    0
 -- Mauritania    1    0    0
--- Saint Lucia    1    0    0
 -- Sudan    1    1    0
 -- Suriname    1    0    0
 -- Rwanda    1    0    0
