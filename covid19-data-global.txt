@@ -582,7 +582,7 @@
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
--- United States of America    2982    60    56
+-- United States of America    2995    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -611,7 +611,7 @@
 ------ DuPage(17043)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Sangamon(17167)    2    0    0
----- CA    369    5    6
+---- CA    373    5    6
 ------ Los Angeles(06037)    53    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -769,7 +769,7 @@
 ------ Tompkins(36109)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    3    0    0
----- NJ    69    2    0
+---- NJ    70    2    0
 ------ Bergen(34003)    25    1    0
 ------ Hudson(34017)    6    0    0
 ------ Monmouth(34025)    9    1    0
@@ -783,6 +783,7 @@
 ------ Somerset(34035)    1    0    0
 ------ Mercer(34021)    1    0    0
 ------ Ocean(34029)    1    0    0
+------ Hunterdon(34019)    1    0    0
 ---- NV    21    0    0
 ------ Clark(32003)    16    0    0
 ------ Washoe(32031)    4    0    0
@@ -881,11 +882,11 @@
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    1    0    0
----- UT    10    0    0
------- Davis(49011)    1    0    0
+---- UT    20    0    0
+------ Davis(49011)    2    0    0
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    5    0    0
------- Salt Lake(49035)    2    0    0
+------ Salt Lake(49035)    11    0    0
 ---- HI    4    0    0
 ------ Honolulu(15003)    2    0    0
 ------ Kauai(15007)    2    0    0
@@ -1072,7 +1073,7 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- New Brunswick    2    1    1
 ---- Manitoba    4    4    4
----- Saskatchewan    3    2    2
+---- Saskatchewan    6    2    2
 ---- Grand Princess    2    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Prince Edward Island    1    0    0
@@ -1131,7 +1132,7 @@
 -- Albania    38    1    0
 -- Palestine    38    0    0
 -- Pakistan    33    0    2
--- Georgia    30    0    0
+-- Georgia    30    0    1
 -- Hungary    30    0    1
 -- Ecuador    28    2    0
 -- Belarus    27    0    3
