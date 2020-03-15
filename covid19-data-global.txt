@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3494    63    59
+-- United States of America    3503    63    59
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -613,7 +613,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    425    6    6
+---- CA    426    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -642,7 +642,8 @@
 ------ San Joaquin(06077)    9    0    0
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    2    0    0
------- San Luis Obispo(06079)    1    0    0
+------ San Luis Obispo(06079)    2    0    0
+------ San Bernardino(06071)    1    0    0
 ---- WI    32    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
@@ -761,7 +762,7 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    731    3    1
+---- NY    734    3    1
 ------ Westchester(36119)    198    0    0
 ------ New York(36061)    329    2    0
 ------ Nassau(36059)    98    0    0
@@ -776,10 +777,13 @@
 ------ Monroe(36055)    2    0    0
 ------ Orange(36071)    6    0    0
 ------ Broome(36007)    1    0    0
------- Schenectady(36093)    1    0    0
+------ Schenectady(36093)    2    0    0
 ------ Tompkins(36109)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    3    0    0
+------ Putnam(36079)    2    0    0
+------ Greene(36039)    2    0    0
+------ Montgomery(36057)    1    0    0
 ---- NJ    101    2    0
 ------ Bergen(34003)    32    1    0
 ------ Hudson(34017)    11    0    0
@@ -1017,9 +1021,9 @@
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    6    0    0
+---- ME    11    0    0
 ------ Androscoggin(23001)    1    0    0
------- Cumberland(23005)    1    0    0
+------ Cumberland(23005)    5    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    16    0    0
@@ -1098,11 +1102,11 @@
 -- Malaysia    428    0    42
 -- Qatar    401    0    4
 -- Greece    331    4    8
--- Canada    317    1    11
+-- Canada    321    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    142    0    4
 ---- Alberta    39    0    0
----- Quebec    35    0    0
+---- Quebec    39    0    0
 ---- New Brunswick    6    0    0
 ---- Manitoba    7    0    0
 ---- Saskatchewan    6    0    0
@@ -1143,7 +1147,7 @@
 -- India    112    2    13
 -- Kuwait    112    0    9
 -- Lebanon    110    3    1
--- San Marino    101    5    4
+-- San Marino    109    7    4
 -- United Arab Emirates    98    0    20
 -- Luxembourg    77    1    0
 -- Chile    75    0    0
@@ -1183,19 +1187,19 @@
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Sri Lanka    18    0    1
+-- Turkey    18    0    0
+-- Venezuela, Bolivarian Republic of    17    0    0
 -- Afghanistan    16    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
 -- Lithuania    12    0    1
 -- Dominican Republic    11    0    0
--- Turkey    11    0    0
 -- Faroe Islands    11    0    0
 -- Macao    11    0    10
 -- Jordan    10    0    1
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
 -- Jamaica    10    0    2
--- Venezuela, Bolivarian Republic of    10    0    0
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
 -- Liechtenstein    7    0    0
