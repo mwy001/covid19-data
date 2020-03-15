@@ -582,7 +582,7 @@
 ---- Guadeloupe    1    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
--- United States of America    3000    60    56
+-- United States of America    3043    60    56
 ---- WA    642    40    43
 ------ King(53033)    387    35    1
 ------ Snohomish(53061)    154    4    0
@@ -669,7 +669,7 @@
 ---- NH    7    0    0
 ------ Grafton(33009)    4    0    0
 ------ Rockingham(33015)    4    0    0
----- FL    78    4    0
+---- FL    116    4    0
 ------ Hillsborough(12057)    3    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -703,7 +703,7 @@
 ------ Deschutes(41017)    3    0    0
 ------ Linn(41043)    9    0    0
 ------ Clackamas(41005)    1    0    0
----- GA    73    1    0
+---- GA    75    1    0
 ------ Fulton(13121)    13    0    0
 ------ Cobb(13067)    15    1    0
 ------ Polk(13233)    1    0    0
@@ -887,8 +887,8 @@
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    5    0    0
 ------ Salt Lake(49035)    14    0    0
----- HI    4    0    0
------- Honolulu(15003)    2    0    0
+---- HI    5    0    0
+------ Honolulu(15003)    3    0    0
 ------ Kauai(15007)    2    0    0
 ---- OK    4    0    1
 ------ Tulsa(40143)    2    0    0
@@ -944,7 +944,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    26    0    0
+---- OH    27    0    0
 ------ Cuyahoga(39035)    11    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -953,6 +953,7 @@
 ------ Summit(39153)    2    0    0
 ------ Franklin(39049)    1    0    0
 ------ Lorain(39093)    1    0    0
+------ Lucas(39095)    1    0    0
 ---- MI    33    0    0
 ------ Oakland(26125)    9    0    0
 ------ Wayne(26163)    8    0    0
@@ -1010,6 +1011,8 @@
 ---- PR    3    0    0
 ---- VI    1    0    0
 ------ St Thomas(78030)    1    0    0
+---- US    1    0    0
+------ St Thomas(78030)    1    0    0
 -- Switzerland    1375    13    4
 -- United Kingdom of Great Britain and Northern Ireland    1143    21    19
 ---- UK    456    8    18
@@ -1066,6 +1069,15 @@
 -- Belgium    689    4    1
 -- Austria    655    1    6
 -- Qatar    337    0    4
+-- Australia    262    4    27
+---- New South Wales    112    2    4
+---- Victoria    49    0    8
+---- Queensland    46    0    8
+---- South Australia    19    0    3
+---- Western Australia    17    1    0
+---- Tasmania    5    0    0
+---- Northern Territory    1    0    0
+---- Australian Capital Territory    1    0    0
 -- Canada    257    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    104    0    4
@@ -1078,22 +1090,13 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
--- Australia    250    4    27
----- New South Wales    112    2    4
----- Victoria    49    0    8
----- Queensland    46    0    8
----- South Australia    19    0    3
----- Western Australia    17    1    0
----- Tasmania    5    0    0
----- Northern Territory    1    0    0
----- Australian Capital Territory    1    0    0
 -- Malaysia    238    0    35
 -- Greece    228    3    8
 -- Finland    225    0    10
 -- Singapore    212    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    212    0    60
--- Israel    193    0    4
+-- Israel    200    0    4
 -- Czechia    189    0    0
 -- Slovenia    181    1    0
 -- Portugal    169    0    2
@@ -1154,9 +1157,9 @@
 -- Afghanistan    16    0    0
 -- Moldova, Republic of    12    0    0
 -- Dominican Republic    11    0    0
+-- Maldives    11    0    0
 -- Sri Lanka    10    0    1
 -- Martinique    10    0    0
--- Maldives    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
 -- Faroe Islands    10    0    0
 -- Macao    10    0    10
@@ -1221,3 +1224,4 @@
 -- Eswatini    1    0    0
 -- Virgin Islands, U.S.    1    0    0
 -- Guernsey    1    0    0
+-- Uzbekistan    1    0    0
