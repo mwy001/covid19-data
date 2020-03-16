@@ -450,7 +450,7 @@
 ---- Macau    10    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
--- Italy    24747    1809    2335
+-- Italy    27980    2158    2749
 ---- Abruzzo    137    3    6
 ---- Aosta Valley    57    1    0
 ---- Apulia    230    16    3
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4102    71    73
+-- United States of America    4108    71    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -940,7 +940,7 @@
 ------ Cleveland(40027)    1    0    0
 ------ Payne(40119)    1    0    0
 ------ Kay(40071)    1    0    0
----- VA    51    1    0
+---- VA    52    1    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    9    0    0
@@ -1044,9 +1044,9 @@
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    12    0    0
+---- ME    17    0    0
 ------ Androscoggin(23001)    1    0    0
------- Cumberland(23005)    5    0    0
+------ Cumberland(23005)    13    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ---- DC    18    0    0
@@ -1070,7 +1070,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2221    18    4
+-- Switzerland    2353    18    4
 -- Japan    1848    27    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
@@ -1118,7 +1118,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1313    3    1
+-- Norway    1319    3    1
 -- Sweden    1103    7    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
@@ -1188,8 +1188,8 @@
 -- Viet Nam    61    0    16
 -- Ecuador    58    2    0
 -- Croatia    57    0    3
+-- Serbia    57    0    1
 -- Argentina    56    2    3
--- Serbia    55    0    1
 -- Panama    55    1    0
 -- Algeria    54    4    12
 -- Colombia    54    0    1
