@@ -522,7 +522,7 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Spain    7845    292    517
+-- Spain    7988    294    517
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -1202,17 +1202,17 @@
 -- Azerbaijan    23    1    6
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
+-- Afghanistan    21    0    1
 -- Malta    21    0    2
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Sri Lanka    18    0    1
 -- Turkey    18    0    0
 -- Venezuela, Bolivarian Republic of    17    0    0
--- Afghanistan    16    0    1
+-- Jordan    15    0    1
 -- Lithuania    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
--- Jordan    12    0    1
 -- Dominican Republic    11    0    0
 -- Faroe Islands    11    0    0
 -- Macao    11    0    10
