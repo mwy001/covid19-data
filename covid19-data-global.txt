@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3773    69    73
+-- United States of America    3777    69    73
 ---- WA    769    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -830,7 +830,7 @@
 ------ Carroll(24013)    1    0    0
 ------ Howard(24027)    1    0    0
 ------ Talbot(24041)    1    0    0
----- CO    131    1    0
+---- CO    135    1    0
 ------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    8    0    0
@@ -842,7 +842,7 @@
 ------ Jefferson(08059)    14    0    0
 ------ Pitkin(08097)    15    0    0
 ------ Adams(08001)    6    0    0
------- Boulder(08013)    3    0    0
+------ Boulder(08013)    7    0    0
 ------ Weld(08123)    5    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
@@ -1111,7 +1111,7 @@
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
 -- Denmark    875    2    1
----- Denmark    864    1    1
+---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Austria    860    1    6
 -- Malaysia    428    0    42
@@ -1140,24 +1140,24 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
 -- Czechia    293    0    0
--- Portugal    256    0    2
+-- Portugal    256    0    3
+-- Israel    251    0    4
 -- Finland    244    0    10
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Slovenia    219    1    0
 -- Bahrain    214    0    77
--- Israel    213    0    4
--- Brazil    200    0    1
--- Iceland    180    0    1
+-- Brazil    200    0    2
+-- Iceland    180    5    8
 -- Estonia    171    0    1
 -- Ireland    170    2    1
 -- Hong Kong    149    4    81
--- Philippines    140    12    2
+-- Philippines    140    12    5
 -- Romania    139    0    9
--- Egypt    126    2    27
+-- Egypt    126    2    32
 -- Poland    125    3    13
 -- Iraq    124    10    26
--- Saudi Arabia    118    0    2
+-- Saudi Arabia    118    0    3
 -- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- India    113    2    13
@@ -1173,11 +1173,11 @@
 -- Slovakia    61    0    0
 -- Taiwan    59    1    20
 -- Viet Nam    56    0    16
+-- Algeria    54    4    12
 -- Pakistan    53    0    2
 -- Bulgaria    51    2    0
 -- Brunei Darussalam    50    0    0
 -- Croatia    49    0    2
--- Algeria    48    4    12
 -- Serbia    48    0    1
 -- Argentina    46    2    1
 -- Mexico    43    0    4
@@ -1191,9 +1191,9 @@
 -- Georgia    33    0    1
 -- Hungary    32    1    1
 -- Latvia    30    0    1
+-- Armenia    28    0    0
 -- Morocco    28    1    1
 -- Belarus    27    0    3
--- Armenia    26    0    0
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
 -- Azerbaijan    23    1    6
@@ -1209,18 +1209,18 @@
 -- Lithuania    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
+-- Jordan    12    0    1
 -- Dominican Republic    11    0    0
 -- Faroe Islands    11    0    0
 -- Macao    11    0    10
--- Jordan    10    0    1
 -- Martinique    10    0    0
 -- Bolivia, Plurinational State of    10    0    0
 -- Jamaica    10    0    2
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
+-- Paraguay    8    0    0
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
--- Paraguay    7    0    0
 -- Réunion    7    0    0
 -- Uruguay    6    0    0
 -- Ghana    6    0    0
