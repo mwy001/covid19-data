@@ -505,7 +505,7 @@
 ---- North Khorasan    52    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    27    0    0
 ---- Bushehr    34    0    0
--- Korea, Republic of    8162    75    834
+-- Korea, Republic of    8236    75    1137
 ---- Busan    106    1    52
 ---- Chungcheongbuk-do    31    0    6
 ---- Chungcheongnam-do    115    0    10
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3714    68    73
+-- United States of America    3737    68    73
 ---- WA    769    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -615,7 +615,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    428    6    6
+---- CA    431    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -647,7 +647,7 @@
 ------ San Luis Obispo(06079)    2    0    0
 ------ San Bernardino(06071)    1    0    0
 ------ Santa Barbara(06083)    1    0    0
----- WI    33    0    1
+---- WI    34    0    1
 ------ Dane(55025)    6    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    11    0    0
@@ -656,7 +656,7 @@
 ------ Milwaukee(55079)    7    0    0
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
----- TX    73    0    0
+---- TX    74    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    11    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -715,7 +715,7 @@
 ------ Linn(41043)    10    0    0
 ------ Clackamas(41005)    1    0    0
 ------ Yamhill(41071)    1    0    0
----- GA    99    1    0
+---- GA    111    1    0
 ------ Fulton(13121)    20    0    0
 ------ Cobb(13067)    19    1    0
 ------ Polk(13233)    1    0    0
@@ -794,7 +794,7 @@
 ------ Bergen(34003)    32    1    0
 ------ Hudson(34017)    11    0    0
 ------ Monmouth(34025)    12    1    0
------- Burlington(34005)    4    0    0
+------ Burlington(34005)    6    0    0
 ------ Camden(34007)    2    0    0
 ------ Passaic(34031)    5    0    0
 ------ Union(34039)    4    0    0
@@ -866,10 +866,10 @@
 ------ Douglas(31055)    17    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    20    0    0
+---- KY    21    0    0
 ------ Fayette(21067)    5    0    0
 ------ Harrison(21097)    6    0    0
------- Jefferson(21111)    5    0    0
+------ Jefferson(21111)    6    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
@@ -963,8 +963,8 @@
 ------ Chittenden(50007)    2    0    0
 ------ Windsor(50027)    3    0    0
 ------ Washington(50023)    1    0    0
----- LA    102    4    0
------- Jefferson(22051)    12    4    0
+---- LA    103    4    0
+------ Jefferson(22051)    14    4    0
 ------ Orleans(22071)    74    2    0
 ------ Iberia(22045)    1    0    0
 ------ Caddo(22017)    2    0    0
@@ -1102,7 +1102,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1254    3    1
+-- Norway    1255    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
