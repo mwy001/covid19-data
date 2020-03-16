@@ -472,7 +472,7 @@
 ---- Liguria    559    33    52
 ---- Veneto    2172    63    120
 ---- Bolzano    204    5    0
--- Iran, Islamic Republic of    13938    724    4590
+-- Iran, Islamic Republic of    14991    853    4590
 ---- Qom    1004    30    0
 ---- Tehran    3574    0    0
 ---- Fars    252    2    0
@@ -504,25 +504,7 @@
 ---- North Khorasan    52    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    27    0    0
 ---- Bushehr    34    0    0
--- Korea, Republic of    8236    75    1137
----- Busan    107    1    53
----- Chungcheongbuk-do    31    0    6
----- Chungcheongnam-do    115    0    12
----- Daegu    6066    56    734
----- Daejeon    22    0    4
----- Gangwon-do    29    1    7
----- Gwangju    16    0    4
----- Gyeonggi-do    231    3    48
----- Gyeongsangbuk-do    1164    18    178
----- Gyeongsangnam-do    85    0    20
----- Incheon    30    0    4
----- Jeju-do    4    0    2
----- Jeollabuk-do    7    0    4
----- Jeollanam-do    4    0    2
----- Sejong    40    0    0
----- Seoul    253    0    52
----- Ulsan    28    0    7
--- Spain    7988    294    517
+-- Spain    8794    297    517
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -543,6 +525,24 @@
 ---- Melilla    8    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
+-- Korea, Republic of    8236    75    1137
+---- Busan    107    1    53
+---- Chungcheongbuk-do    31    0    6
+---- Chungcheongnam-do    115    0    12
+---- Daegu    6066    56    734
+---- Daejeon    22    0    4
+---- Gangwon-do    29    1    7
+---- Gwangju    16    0    4
+---- Gyeonggi-do    231    3    48
+---- Gyeongsangbuk-do    1164    18    178
+---- Gyeongsangnam-do    85    0    20
+---- Incheon    30    0    4
+---- Jeju-do    4    0    2
+---- Jeollabuk-do    7    0    4
+---- Jeollanam-do    4    0    2
+---- Sejong    40    0    0
+---- Seoul    253    0    52
+---- Ulsan    28    0    7
 -- Germany    6215    13    46
 ---- Saxony    130    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
@@ -1064,7 +1064,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
 -- Switzerland    2217    14    4
--- Japan    1848    25    144
+-- Japan    1848    27    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1110,11 +1110,11 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1263    3    1
+-- Norway    1282    3    1
 -- Netherlands    1135    20    2
 -- Belgium    1058    5    1
--- Sweden    1043    3    1
--- Austria    1018    2    6
+-- Sweden    1043    6    1
+-- Austria    1018    2    8
 -- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
@@ -1144,9 +1144,9 @@
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
 -- Czechia    298    0    0
--- Finland    266    0    10
+-- Finland    269    0    10
 -- Portugal    256    0    3
--- Israel    251    0    4
+-- Israel    255    0    4
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    221    1    77
@@ -1160,17 +1160,17 @@
 -- Hong Kong    149    4    81
 -- Philippines    140    12    5
 -- Indonesia    134    5    8
+-- India    129    2    13
 -- Egypt    126    2    32
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Saudi Arabia    118    0    3
--- India    117    2    13
 -- Thailand    114    1    35
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
 -- Pakistan    102    1    2
 -- United Arab Emirates    98    0    23
--- Luxembourg    77    1    0
+-- Luxembourg    81    1    0
 -- Chile    75    0    0
 -- Peru    71    0    0
 -- Russian Federation    63    0    8
@@ -1183,11 +1183,11 @@
 -- Serbia    55    0    1
 -- Panama    55    1    0
 -- Algeria    54    4    12
+-- Brunei Darussalam    54    0    0
 -- Mexico    53    0    4
 -- Bulgaria    52    2    0
--- Brunei Darussalam    50    0    0
+-- Albania    51    1    0
 -- Colombia    45    0    0
--- Albania    42    1    0
 -- Hungary    39    1    1
 -- Cyprus    39    0    0
 -- Palestine    39    0    0
