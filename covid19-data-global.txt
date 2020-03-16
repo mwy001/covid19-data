@@ -1110,14 +1110,14 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1256    3    1
+-- Norway    1258    3    1
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Austria    959    2    6
--- Belgium    886    4    1
--- Denmark    875    4    1
+-- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
+-- Belgium    886    4    1
 -- Malaysia    428    0    42
 -- Qatar    401    0    4
 -- Australia    375    6    27
@@ -1144,9 +1144,9 @@
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
 -- Czechia    298    0    0
+-- Finland    264    0    10
 -- Portugal    256    0    3
 -- Israel    251    0    4
--- Finland    244    0    10
 -- Singapore    226    0    105
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    221    1    77
