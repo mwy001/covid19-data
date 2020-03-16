@@ -639,7 +639,7 @@
 ------ Santa Cruz(06087)    7    0    0
 ------ Napa(06055)    1    0    0
 ------ Ventura(06111)    5    0    0
------- Marin(06041)    5    0    0
+------ Marin(06041)    9    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Stanislaus(06099)    2    0    0
 ------ San Joaquin(06077)    9    0    0
@@ -1110,7 +1110,7 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1285    3    1
+-- Norway    1292    3    1
 -- Netherlands    1135    20    2
 -- Belgium    1058    5    1
 -- Sweden    1046    6    1
@@ -1143,11 +1143,11 @@
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
+-- Portugal    331    0    3
 -- Czechia    298    0    0
 -- Finland    278    0    10
--- Portugal    256    0    3
 -- Israel    255    0    4
--- Singapore    226    0    105
+-- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    221    1    77
 -- Slovenia    219    1    0
@@ -1159,7 +1159,7 @@
 -- Poland    150    3    13
 -- Hong Kong    149    4    81
 -- Thailand    147    1    35
--- Philippines    140    12    5
+-- Philippines    142    12    5
 -- Indonesia    134    5    8
 -- India    129    2    13
 -- Egypt    126    2    32
@@ -1168,7 +1168,7 @@
 -- Saudi Arabia    118    0    3
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
--- Pakistan    102    1    2
+-- Pakistan    107    1    2
 -- United Arab Emirates    98    0    23
 -- Luxembourg    81    1    0
 -- Chile    75    0    0
@@ -1177,7 +1177,7 @@
 -- South Africa    62    0    0
 -- Slovakia    61    0    0
 -- Taiwan    59    1    20
--- Viet Nam    57    0    16
+-- Viet Nam    59    0    16
 -- Croatia    56    0    3
 -- Argentina    56    2    3
 -- Serbia    55    0    1
@@ -1265,7 +1265,7 @@
 -- Mongolia    1    0    0
 -- Côte d'Ivoire    1    0    0
 -- Antigua and Barbuda    1    0    0
--- Cayman Islands    1    0    0
+-- Cayman Islands    1    1    0
 -- Gabon    1    0    0
 -- Gibraltar    1    0    1
 -- Guinea    1    0    0
