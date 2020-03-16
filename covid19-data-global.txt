@@ -1063,7 +1063,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2217    14    4
+-- Switzerland    2218    15    4
 -- Japan    1848    27    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
@@ -1144,7 +1144,7 @@
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
 -- Czechia    298    0    0
--- Finland    269    0    10
+-- Finland    277    0    10
 -- Portugal    256    0    3
 -- Israel    255    0    4
 -- Singapore    226    0    105
@@ -1174,7 +1174,7 @@
 -- Chile    75    0    0
 -- Peru    71    0    0
 -- Russian Federation    63    0    8
--- South Africa    61    0    0
+-- South Africa    62    0    0
 -- Slovakia    61    0    0
 -- Taiwan    59    1    20
 -- Viet Nam    57    0    16
@@ -1197,15 +1197,15 @@
 -- Latvia    34    0    1
 -- Georgia    33    0    1
 -- Armenia    30    0    1
+-- Malta    30    0    2
 -- Morocco    29    1    1
 -- Azerbaijan    25    1    6
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
 -- Moldova, Republic of    23    0    0
+-- Sri Lanka    22    0    1
 -- Oman    22    0    9
--- Sri Lanka    21    0    1
 -- Afghanistan    21    0    1
--- Malta    21    0    2
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Turkey    18    0    0
@@ -1230,6 +1230,7 @@
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Guyana    7    1    0
+-- Monaco    6    0    0
 -- Honduras    6    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
@@ -1248,7 +1249,6 @@
 -- Saint Barthélemy    3    0    0
 -- Guam    3    0    0
 -- Nigeria    2    0    1
--- Monaco    2    0    0
 -- Congo    2    0    0
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
