@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4180    73    73
+-- United States of America    4228    73    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -658,7 +658,7 @@
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
 ------ Wood(55141)    1    0    0
----- TX    77    0    0
+---- TX    81    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -722,7 +722,7 @@
 ------ Cobb(13067)    22    1    0
 ------ Polk(13233)    1    0    0
 ------ Cherokee(13057)    7    0    0
------- Gwinnett(13135)    4    0    0
+------ Gwinnett(13135)    5    0    0
 ------ DeKalb(13089)    10    0    0
 ------ Floyd(13115)    4    0    0
 ------ Fayette(13113)    5    0    0
@@ -735,8 +735,8 @@
 ------ Coweta(13077)    2    0    0
 ------ Dougherty(13095)    7    0    0
 ------ Henry(13151)    1    0    0
------- Clarke(13059)    2    0    0
------- Clayton(13063)    2    0    0
+------ Clarke(13059)    3    0    0
+------ Clayton(13063)    5    0    0
 ------ Newton(13217)    2    0    0
 ------ Troup(13285)    1    0    0
 ---- MA    168    0    1
@@ -795,7 +795,7 @@
 ------ Montgomery(36057)    1    0    0
 ------ Allegany(36003)    2    0    0
 ------ Onondaga(36067)    1    0    0
----- NJ    122    2    0
+---- NJ    161    2    0
 ------ Bergen(34003)    42    1    0
 ------ Hudson(34017)    12    0    0
 ------ Monmouth(34025)    12    1    0
@@ -806,7 +806,7 @@
 ------ Middlesex(34023)    18    0    0
 ------ Essex(34013)    11    0    0
 ------ Morris(34027)    4    0    0
------- Somerset(34035)    1    0    0
+------ Somerset(34035)    5    0    0
 ------ Mercer(34021)    1    0    0
 ------ Ocean(34029)    3    0    0
 ------ Hunterdon(34019)    1    0    0
@@ -994,18 +994,18 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    48    0    0
------- Cuyahoga(39035)    14    0    0
+---- OH    50    0    0
+------ Cuyahoga(39035)    24    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
 ------ Butler(39017)    6    0    0
 ------ Belmont(39013)    2    0    0
 ------ Summit(39153)    2    0    0
 ------ Franklin(39049)    3    0    0
------- Lorain(39093)    2    0    0
+------ Lorain(39093)    3    0    0
 ------ Lucas(39095)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
------- Medina(39103)    1    0    0
+------ Medina(39103)    2    0    0
 ------ Geauga(39055)    1    0    0
 ---- MI    53    0    0
 ------ Oakland(26125)    14    0    0
@@ -1034,7 +1034,7 @@
 ------ Missoula(30063)    2    0    0
 ---- DE    7    0    0
 ------ New Castle(10003)    7    0    0
----- MS    10    0    0
+---- MS    12    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
 ------ Copiah(28029)    2    0    0
@@ -1054,12 +1054,12 @@
 ---- Others    12    0    0
 ---- AL    28    0    0
 ------ Montgomery(01101)    1    0    0
------- Jefferson(01073)    12    0    0
+------ Jefferson(01073)    17    0    0
 ------ Tuscaloosa(01125)    3    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Baldwin(01003)    1    0    0
------- Shelby(01117)    2    0    0
+------ Shelby(01117)    3    0    0
 ------ Lee(01081)    1    0    0
 ---- ID    5    0    0
 ------ Ada(16001)    2    0    0
@@ -1109,7 +1109,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- United Kingdom of Great Britain and Northern Ireland    1543    36    20
+-- United Kingdom of Great Britain and Northern Ireland    1543    55    52
 ---- UK    456    8    18
 ---- Channel Islands    3    0    0
 ---- Gibraltar    1    0    1
@@ -1119,17 +1119,17 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1322    3    1
+-- Norway    1323    3    1
 -- Sweden    1119    7    1
--- Belgium    1085    5    1
+-- Belgium    1085    10    1
 -- Austria    1018    3    8
 -- Denmark    914    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
 -- Qatar    439    0    4
--- Canada    376    1    11
----- British Columbia    73    1    4
+-- Canada    406    4    11
+---- British Columbia    103    4    4
 ---- Ontario    177    0    4
 ---- Alberta    56    0    0
 ---- Quebec    41    0    0
