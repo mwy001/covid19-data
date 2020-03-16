@@ -584,13 +584,13 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4349    77    73
+-- United States of America    4430    77    74
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
 ------ Grant(53025)    3    1    0
 ------ Chelan(53007)    5    0    0
------- Clark(53011)    3    0    0
+------ Clark(53011)    4    0    0
 ------ Jefferson(53031)    3    0    0
 ------ Pierce(53053)    31    0    0
 ------ Kittitas(53037)    3    0    0
@@ -605,8 +605,8 @@
 ------ Yakima(53077)    4    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Cowlitz(53015)    1    0    0
----- IL    106    0    2
------- Cook(17031)    61    0    2
+---- IL    114    0    2
+------ Cook(17031)    70    0    2
 ------ Kane(17089)    4    0    0
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    4    0    0
@@ -617,7 +617,7 @@
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
----- CA    504    6    6
+---- CA    530    6    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -630,7 +630,7 @@
 ------ Contra Costa(06013)    29    0    0
 ------ San Francisco(06075)    40    0    0
 ------ Yolo(06113)    2    0    0
------- Santa Clara(06085)    114    2    1
+------ Santa Clara(06085)    138    2    1
 ------ Alameda(06001)    18    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
@@ -642,11 +642,11 @@
 ------ Ventura(06111)    5    0    0
 ------ Marin(06041)    9    0    0
 ------ Calaveras(06009)    2    0    0
------- Stanislaus(06099)    2    0    0
+------ Stanislaus(06099)    3    0    0
 ------ San Joaquin(06077)    9    0    0
 ------ Imperial(06025)    2    0    0
 ------ Tulare(06107)    2    0    0
------- San Luis Obispo(06079)    2    0    0
+------ San Luis Obispo(06079)    3    0    0
 ------ San Bernardino(06071)    1    0    0
 ------ Santa Barbara(06083)    1    0    0
 ---- WI    47    0    1
@@ -660,7 +660,7 @@
 ------ Winnebago(55139)    3    0    0
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
----- TX    83    0    0
+---- TX    84    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -679,10 +679,12 @@
 ------ Hays(48209)    1    0    0
 ------ Matagorda(48321)    1    0    0
 ------ Denton(48121)    1    0    0
----- NH    13    0    0
------- Grafton(33009)    4    0    0
------- Rockingham(33015)    9    0    0
+------ Bowie(48037)    1    0    0
+---- NH    17    0    0
+------ Grafton(33009)    5    0    0
+------ Rockingham(33015)    10    0    0
 ------ Hillsborough(33011)    1    0    0
+------ Carroll(33003)    1    0    0
 ---- FL    155    5    0
 ------ Hillsborough(12057)    4    0    0
 ------ Sarasota(12115)    2    0    0
@@ -744,16 +746,16 @@
 ------ Hall(13139)    1    0    0
 ------ Paulding(13223)    1    0    0
 ------ Forsyth(13117)    1    0    0
----- MA    168    0    1
------- Norfolk(25021)    31    0    0
------- Suffolk(25025)    31    0    1
------- Middlesex(25017)    75    0    0
------- Plymouth(25023)    1    0    0
------- Berkshire(25003)    9    0    0
+---- MA    197    0    1
+------ Norfolk(25021)    36    0    0
+------ Suffolk(25025)    36    0    1
+------ Middlesex(25017)    83    0    0
+------ Plymouth(25023)    3    0    0
+------ Berkshire(25003)    11    0    0
 ------ Worcester(25027)    6    0    0
------- Essex(25009)    6    0    0
+------ Essex(25009)    8    0    0
 ------ Barnstable(25001)    1    0    0
------- Bristol(25005)    1    0    0
+------ Bristol(25005)    2    0    0
 ------ Hampden(25013)    1    0    0
 ---- AZ    18    0    1
 ------ Maricopa(04013)    8    0    1
@@ -776,7 +778,7 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    966    10    1
+---- NY    967    10    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    7    0
 ------ Nassau(36059)    109    0    0
@@ -792,7 +794,7 @@
 ------ Orange(36071)    11    0    0
 ------ Broome(36007)    1    0    0
 ------ Schenectady(36093)    4    0    0
------- Tompkins(36109)    1    0    0
+------ Tompkins(36109)    2    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    7    0    0
 ------ Putnam(36079)    2    0    0
@@ -952,7 +954,7 @@
 ------ Payne(40119)    1    0    0
 ------ Kay(40071)    1    0    0
 ------ Canadian(40017)    1    0    0
----- VA    52    1    0
+---- VA    52    1    1
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
 ------ Arlington(51013)    9    0    0
@@ -987,7 +989,7 @@
 ------ Chittenden(50007)    2    0    0
 ------ Windsor(50027)    3    0    0
 ------ Washington(50023)    1    0    0
----- LA    114    4    0
+---- LA    132    4    0
 ------ Jefferson(22051)    16    4    0
 ------ Orleans(22071)    79    2    0
 ------ Iberia(22045)    1    0    0
@@ -1132,7 +1134,7 @@
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
 -- Norway    1334    3    1
--- Sweden    1119    7    1
+-- Sweden    1121    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
 -- Denmark    914    4    1
@@ -1140,16 +1142,16 @@
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
 -- Qatar    439    0    4
--- Canada    420    4    11
+-- Canada    422    4    11
 ---- British Columbia    103    4    4
----- Ontario    177    0    4
+---- Ontario    178    0    4
 ---- Alberta    56    0    0
 ---- Quebec    50    0    0
 ---- New Brunswick    6    0    0
 ---- Manitoba    7    0    0
 ---- Saskatchewan    7    0    0
 ---- Grand Princess    2    0    0
----- Grand Princess Cruise Ship    4    0    0
+---- Grand Princess Cruise Ship    8    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    5    0    0
