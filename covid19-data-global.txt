@@ -543,7 +543,7 @@
 ---- Melilla    8    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    5813    13    46
+-- Germany    6215    13    46
 ---- Saxony    130    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    886    4    14
@@ -1065,7 +1065,7 @@
 ---- GU    3    0    0
 -- Switzerland    2217    14    4
 -- Japan    1848    25    144
----- Hokkaido    148    6    53
+---- Hokkaido    152    6    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    17    0    0
@@ -1110,14 +1110,14 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1258    3    1
+-- Norway    1262    3    1
 -- Netherlands    1135    20    2
--- Sweden    1040    3    1
+-- Belgium    1058    5    1
+-- Sweden    1043    3    1
 -- Austria    959    2    6
 -- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
--- Belgium    886    4    1
 -- Malaysia    553    0    42
 -- Qatar    401    0    4
 -- Australia    375    6    27
@@ -1144,7 +1144,7 @@
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
 -- Czechia    298    0    0
--- Finland    264    0    10
+-- Finland    266    0    10
 -- Portugal    256    0    3
 -- Israel    251    0    4
 -- Singapore    226    0    105
@@ -1237,10 +1237,10 @@
 -- Andorra    5    0    1
 -- Ukraine    5    1    0
 -- Puerto Rico    5    0    0
+-- Ethiopia    5    0    0
 -- Rwanda    5    0    0
 -- Cameroon    4    0    0
 -- Cuba    4    0    0
--- Ethiopia    4    0    0
 -- Trinidad and Tobago    4    0    0
 -- French Polynesia    3    0    0
 -- Kenya    3    0    0
