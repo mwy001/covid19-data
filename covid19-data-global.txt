@@ -546,20 +546,20 @@
 -- Germany    6924    14    59
 ---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
----- Free State of Bavaria    886    4    14
+---- Free State of Bavaria    1067    4    14
 ---- Berlin    283    0    0
----- Brandenburg    84    0    0
----- Thuringia    63    0    0
+---- Brandenburg    91    0    0
+---- Thuringia    67    0    0
 ---- Schleswig-Holstein    123    0    0
 ---- Lower Saxony    287    0    1
 ---- Bremen    56    0    1
----- Hamburg    196    0    0
----- Rhineland-Palatinate    200    0    1
+---- Hamburg    260    1    1
+---- Rhineland-Palatinate    297    0    1
 ---- North Rhine-Westphalia    2493    6    39
----- Hesse    282    0    0
+---- Hesse    342    0    0
 ---- Baden-Württemberg    977    3    14
 ---- Saxony-Anhalt    60    0    0
----- Saarland    74    0    0
+---- Saarland    85    0    0
 -- France    5423    127    12
 ---- France    4499    91    12
 ---- St Martin    2    0    0
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4040    70    73
+-- United States of America    4060    71    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -616,7 +616,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    459    6    6
+---- CA    469    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -766,12 +766,12 @@
 ------ Johnston(37101)    2    0    0
 ------ Onslow(37133)    1    0    0
 ------ Wayne(37191)    1    0    0
------- Harnett(37085)    2    0    0
+------ Harnett(37085)    3    0    0
 ------ Brunswick(37019)    5    0    0
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    950    6    1
+---- NY    954    6    1
 ------ Westchester(36119)    198    0    0
 ------ New York(36061)    329    5    0
 ------ Nassau(36059)    98    0    0
@@ -852,7 +852,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    66    1    0
+---- PA    68    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    24    0    0
@@ -864,7 +864,7 @@
 ------ Chester(42029)    2    0    0
 ------ Washington(42125)    1    0    0
 ------ Cumberland(42041)    5    0    0
------- Allegheny(42003)    4    0    0
+------ Allegheny(42003)    6    0    0
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
 ---- NE    19    0    0
@@ -914,13 +914,13 @@
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    3    0    0
 ------ New Haven(09009)    4    0    0
----- SC    29    0    0
+---- SC    29    1    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    19    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
------- Lexington(45063)    1    0    0
+------ Lexington(45063)    1    1    0
 ------ Horry(45051)    3    0    0
 ------ Anderson(45007)    2    0    0
 ------ Greenville(45045)    1    0    0
@@ -1075,7 +1075,7 @@
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    17    0    0
+---- Niigata    19    0    0
 ---- Gifu    2    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    2    0    0
@@ -1096,7 +1096,7 @@
 ---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    82    1    0
+---- hyogo    82    2    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
@@ -1119,10 +1119,10 @@
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
 -- Norway    1312    3    1
--- Sweden    1103    6    1
+-- Sweden    1103    7    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
--- Denmark    898    4    1
+-- Denmark    914    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
@@ -1149,8 +1149,8 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    3    0    0
+-- Greece    352    4    8
 -- Israel    344    0    4
--- Greece    331    4    8
 -- Portugal    331    0    3
 -- Czechia    298    0    0
 -- Finland    278    0    10
@@ -1223,6 +1223,7 @@
 -- Martinique    15    0    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
+-- Andorra    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
 -- Dominican Republic    11    0    0
@@ -1242,7 +1243,6 @@
 -- Honduras    6    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
--- Andorra    5    0    1
 -- Ukraine    5    1    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
