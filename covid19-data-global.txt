@@ -18,9 +18,9 @@
 ------ Tianmen    496    15    477
 ------ Shennongjia    11    0    11
 ---- Guangdong    1360    8    1304
------- Shenzhen    421    3    399
+------ Shenzhen    423    3    399
 ------ Guangzhou    348    1    330
------- Foshan    84    0    81
+------ Foshan    85    0    81
 ------ Zhongshan    68    0    64
 ------ Dongguan    100    1    97
 ------ Shantou    25    0    24
@@ -60,7 +60,7 @@
 ---- Zhejiang    1231    1    1211
 ------ Lishui    28    0    18
 ------ Wenzhou    504    1    501
------- Hangzhou    182    0    179
+------ Hangzhou    182    0    181
 ------ Jiaxing    45    0    44
 ------ Huzhou    12    0    10
 ------ Shaoxing    42    0    41
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3782    69    73
+-- United States of America    3804    69    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -614,10 +614,10 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    435    6    6
+---- CA    457    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
------- San Diego(06073)    16    0    1
+------ San Diego(06073)    37    0    1
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    32    1    1
 ------ Placer(06061)    8    1    0
@@ -633,7 +633,7 @@
 ------ Fresno(06019)    2    0    0
 ------ Riverside(06065)    14    0    0
 ------ Shasta(06089)    1    0    0
------- Solano(06095)    6    0    0
+------ Solano(06095)    7    0    0
 ------ Santa Cruz(06087)    7    0    0
 ------ Napa(06055)    1    0    0
 ------ Ventura(06111)    5    0    0
@@ -976,7 +976,7 @@
 ------ Terrebonne(22109)    3    0    0
 ------ Bossier(22015)    1    0    0
 ------ Lafourche(22057)    1    0    0
----- Unassigned Location (From Diamond Princess)    46    0    0
+---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    9    1    0
 ------ Pennington(46103)    1    1    0
