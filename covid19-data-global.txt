@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    9191    309    530
+-- Spain    9428    335    530
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -543,7 +543,7 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Germany    6672    14    58
+-- Germany    6924    14    59
 ---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    886    4    14
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3837    70    73
+-- United States of America    4040    70    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -771,7 +771,7 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    747    6    1
+---- NY    950    6    1
 ------ Westchester(36119)    198    0    0
 ------ New York(36061)    329    5    0
 ------ Nassau(36059)    98    0    0
@@ -993,7 +993,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    37    0    0
+---- OH    38    0    0
 ------ Cuyahoga(39035)    14    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -1005,6 +1005,7 @@
 ------ Lucas(39095)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    1    0    0
+------ Geauga(39055)    1    0    0
 ---- MI    53    0    0
 ------ Oakland(26125)    14    0    0
 ------ Wayne(26163)    13    0    0
@@ -1035,8 +1036,9 @@
 ---- MS    10    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
------- Copiah(28029)    1    0    0
------- Pearl River(28109)    1    0    0
+------ Copiah(28029)    2    0    0
+------ Pearl River(28109)    2    0    0
+------ Hinds(28049)    2    0    0
 ---- WY    3    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    1    0    0
@@ -1106,7 +1108,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- United Kingdom of Great Britain and Northern Ireland    1543    35    20
+-- United Kingdom of Great Britain and Northern Ireland    1543    36    20
 ---- UK    456    8    18
 ---- Channel Islands    3    0    0
 ---- Gibraltar    1    0    1
@@ -1116,7 +1118,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1311    3    1
+-- Norway    1312    3    1
 -- Sweden    1103    6    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
@@ -1134,11 +1136,11 @@
 ---- Tasmania    6    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
--- Canada    373    1    11
+-- Canada    375    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    177    0    4
 ---- Alberta    56    0    0
----- Quebec    39    0    0
+---- Quebec    41    0    0
 ---- New Brunswick    6    0    0
 ---- Manitoba    7    0    0
 ---- Saskatchewan    6    0    0
@@ -1164,12 +1166,12 @@
 -- Poland    156    3    13
 -- Chile    155    0    0
 -- Hong Kong    155    4    81
+-- Egypt    150    2    32
 -- Thailand    147    1    35
 -- Philippines    142    12    5
 -- Pakistan    136    1    2
 -- Indonesia    134    5    8
 -- India    129    2    13
--- Egypt    126    2    32
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Saudi Arabia    118    0    6
@@ -1213,7 +1215,7 @@
 -- Afghanistan    21    0    1
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
--- Jordan    18    0    1
+-- Jordan    19    0    1
 -- Turkey    18    0    0
 -- Faroe Islands    18    0    0
 -- Lithuania    17    0    1
