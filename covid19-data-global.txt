@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4060    71    73
+-- United States of America    4102    71    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -623,7 +623,7 @@
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    32    1    1
 ------ Placer(06061)    8    1    0
------- San Mateo(06081)    32    1    0
+------ San Mateo(06081)    41    1    0
 ------ Sonoma(06097)    4    0    0
 ------ Orange(06059)    17    0    0
 ------ Contra Costa(06013)    29    0    0
@@ -717,9 +717,9 @@
 ------ Linn(41043)    10    0    0
 ------ Clackamas(41005)    1    0    0
 ------ Yamhill(41071)    1    0    0
----- GA    111    1    0
------- Fulton(13121)    20    0    0
------- Cobb(13067)    19    1    0
+---- GA    121    1    0
+------ Fulton(13121)    27    0    0
+------ Cobb(13067)    22    1    0
 ------ Polk(13233)    1    0    0
 ------ Cherokee(13057)    6    0    0
 ------ Gwinnett(13135)    4    0    0
@@ -750,10 +750,10 @@
 ------ Barnstable(25001)    1    0    0
 ------ Bristol(25005)    1    0    0
 ------ Hampden(25013)    1    0    0
----- AZ    13    0    1
------- Maricopa(04013)    4    0    1
+---- AZ    18    0    1
+------ Maricopa(04013)    8    0    1
 ------ Pinal(04021)    5    0    0
------- Pima(04019)    3    0    0
+------ Pima(04019)    4    0    0
 ------ Graham(04009)    1    0    0
 ---- NC    36    0    0
 ------ Wake(37183)    14    0    0
@@ -779,7 +779,7 @@
 ------ Saratoga(36091)    3    0    0
 ------ Suffolk(36103)    47    0    0
 ------ Ulster(36111)    5    0    0
------- Albany(36001)    11    0    0
+------ Albany(36001)    15    0    0
 ------ Delaware(36025)    1    0    0
 ------ Dutchess(36027)    7    0    0
 ------ Herkimer(36043)    1    0    0
@@ -824,9 +824,9 @@
 ------ Rutherford(47149)    1    0    0
 ------ Campbell(47013)    1    0    0
 ---- MD    38    0    4
------- Montgomery(24031)    12    0    0
+------ Montgomery(24031)    15    0    0
 ------ Harford(24025)    2    0    0
------- Prince George's(24033)    9    0    0
+------ Prince George's(24033)    10    0    0
 ------ Baltimore(24005)    11    0    0
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    2    0    0
@@ -894,7 +894,7 @@
 ------ Hamilton(18057)    1    0    0
 ------ Floyd(18043)    1    0    0
 ------ Bartholomew(18005)    1    0    0
----- MN    35    0    0
+---- MN    54    0    0
 ------ Ramsey(27123)    8    0    0
 ------ Jefferson(21111)    1    0    0
 ------ Anoka(27003)    2    0    0
@@ -907,8 +907,8 @@
 ------ Renville(27129)    1    0    0
 ------ Waseca(27161)    1    0    0
 ------ Washington(27163)    1    0    0
----- RI    20    0    0
------- Providence(44007)    20    0    0
+---- RI    21    0    0
+------ Providence(44007)    21    0    0
 ---- CT    26    0    0
 ------ Fairfield(09001)    16    0    0
 ------ Litchfield(09005)    3    0    0
@@ -940,27 +940,27 @@
 ------ Cleveland(40027)    1    0    0
 ------ Payne(40119)    1    0    0
 ------ Kay(40071)    1    0    0
----- VA    46    1    0
+---- VA    51    1    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
------- Arlington(51013)    8    0    0
+------ Arlington(51013)    9    0    0
 ------ Spotsylvania(51177)    1    0    0
 ------ Loudoun(51107)    5    0    0
 ------ Hanover(51085)    1    0    0
 ------ Harrisonburg(51660)    1    0    0
 ------ Prince Edward(51147)    1    0    0
 ------ Prince William(51153)    3    0    0
------- Chesterfield(51041)    1    0    0
+------ Chesterfield(51041)    2    0    0
 ------ Albemarle(51003)    1    0    0
----- KS    9    1    0
------- Johnson(20091)    6    0    0
+---- KS    11    1    0
+------ Johnson(20091)    8    0    0
 ------ Wyandotte(20209)    1    1    0
 ------ Butler(20015)    1    0    0
 ------ Sedgwick(20173)    1    0    0
 ------ Franklin(20059)    1    0    0
 ---- MO    6    0    0
 ------ St Louis(29189)    1    0    0
------- Greene(29077)    2    0    0
+------ Greene(29077)    3    0    0
 ------ Henry(29083)    1    0    0
 ---- IA    22    0    0
 ------ Johnson(19103)    15    0    0
@@ -1118,7 +1118,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1312    3    1
+-- Norway    1313    3    1
 -- Sweden    1103    7    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
@@ -1127,16 +1127,7 @@
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
 -- Qatar    439    0    4
--- Australia    375    6    27
----- New South Wales    134    2    4
----- Victoria    57    0    8
----- Queensland    61    0    8
----- South Australia    20    0    3
----- Western Australia    17    1    0
----- Tasmania    6    0    0
----- Northern Territory    1    0    0
----- Australian Capital Territory    1    0    0
--- Canada    375    1    11
+-- Canada    376    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    177    0    4
 ---- Alberta    56    0    0
@@ -1148,11 +1139,20 @@
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
----- Nova Scotia    3    0    0
+---- Nova Scotia    4    0    0
+-- Australia    375    6    27
+---- New South Wales    134    2    4
+---- Victoria    57    0    8
+---- Queensland    61    0    8
+---- South Australia    20    0    3
+---- Western Australia    17    1    0
+---- Tasmania    6    0    0
+---- Northern Territory    1    0    0
+---- Australian Capital Territory    1    0    0
 -- Greece    352    4    8
 -- Israel    344    0    4
--- Portugal    331    0    3
--- Czechia    298    0    0
+-- Portugal    331    1    3
+-- Czechia    298    0    3
 -- Finland    278    0    10
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
@@ -1160,9 +1160,9 @@
 -- Bahrain    221    1    77
 -- Estonia    205    0    1
 -- Brazil    203    0    2
--- Iceland    180    5    8
+-- Iceland    182    5    8
 -- Ireland    170    2    5
--- Romania    158    0    9
+-- Romania    168    0    9
 -- Poland    156    3    13
 -- Chile    155    0    0
 -- Hong Kong    155    4    81
@@ -1181,11 +1181,12 @@
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
 -- Luxembourg    81    1    0
+-- Slovakia    72    0    0
 -- Taiwan    67    1    20
 -- South Africa    64    0    0
--- Slovakia    63    0    0
 -- Bulgaria    62    2    0
 -- Viet Nam    61    0    16
+-- Ecuador    58    2    0
 -- Croatia    57    0    3
 -- Argentina    56    2    3
 -- Serbia    55    0    1
@@ -1198,7 +1199,6 @@
 -- Hungary    39    1    1
 -- Cyprus    39    0    0
 -- Palestine    39    0    0
--- Ecuador    37    2    0
 -- Belarus    36    0    3
 -- Costa Rica    35    0    0
 -- Latvia    34    0    1
