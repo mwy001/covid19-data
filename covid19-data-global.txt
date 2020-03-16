@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    9428    335    530
+-- Spain    9428    342    530
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -560,7 +560,7 @@
 ---- Baden-Württemberg    977    3    14
 ---- Saxony-Anhalt    60    0    0
 ---- Saarland    85    0    0
--- France    5423    127    12
+-- France    6633    148    12
 ---- France    4499    91    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    3    0    0
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4252    75    73
+-- United States of America    4314    75    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -616,7 +616,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    474    6    6
+---- CA    486    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -648,16 +648,17 @@
 ------ San Luis Obispo(06079)    2    0    0
 ------ San Bernardino(06071)    1    0    0
 ------ Santa Barbara(06083)    1    0    0
----- WI    34    0    1
------- Dane(55025)    6    0    1
+---- WI    47    0    1
+------ Dane(55025)    10    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    11    0    0
 ------ Waukesha(55133)    3    0    0
 ------ Sheboygan(55117)    3    0    0
------- Milwaukee(55079)    7    0    0
+------ Milwaukee(55079)    13    0    0
 ------ Racine(55101)    1    0    0
------- Winnebago(55139)    1    0    0
+------ Winnebago(55139)    3    0    0
 ------ Wood(55141)    1    0    0
+------ Outagamie(55087)    1    0    0
 ---- TX    82    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
@@ -774,7 +775,7 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    961    8    1
+---- NY    964    8    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    5    0
 ------ Nassau(36059)    109    0    0
@@ -817,9 +818,9 @@
 ---- NV    45    1    0
 ------ Clark(32003)    35    1    0
 ------ Washoe(32031)    9    0    0
----- TN    39    0    0
+---- TN    52    0    0
 ------ Williamson(47187)    14    0    0
------- Davidson(47037)    17    0    0
+------ Davidson(47037)    25    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    1    0    0
@@ -827,7 +828,8 @@
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
 ------ Campbell(47013)    1    0    0
----- MD    38    0    4
+------ Sevier(47155)    1    0    0
+---- MD    41    0    4
 ------ Montgomery(24031)    15    0    0
 ------ Harford(24025)    2    0    0
 ------ Prince George's(24033)    10    0    0
@@ -835,7 +837,7 @@
 ------ Charles(24017)    1    0    0
 ------ Anne Arundel(24003)    2    0    0
 ------ Carroll(24013)    1    0    0
------- Howard(24027)    1    0    0
+------ Howard(24027)    4    0    0
 ------ Talbot(24041)    1    0    0
 ---- CO    135    1    0
 ------ Denver(08031)    25    0    0
@@ -913,8 +915,8 @@
 ------ Washington(27163)    1    0    0
 ---- RI    21    0    0
 ------ Providence(44007)    21    0    0
----- CT    26    0    0
------- Fairfield(09001)    16    0    0
+---- CT    30    0    0
+------ Fairfield(09001)    20    0    0
 ------ Litchfield(09005)    3    0    0
 ------ Hartford(09003)    3    0    0
 ------ New Haven(09009)    4    0    0
@@ -928,11 +930,13 @@
 ------ Horry(45051)    3    0    0
 ------ Anderson(45007)    2    0    0
 ------ Greenville(45045)    1    0    0
----- UT    28    0    0
------- Davis(49011)    3    0    0
+---- UT    39    0    0
+------ Davis(49011)    4    0    0
 ------ Weber(49057)    1    0    0
 ------ Summit(49043)    5    0    0
------- Salt Lake(49035)    14    0    0
+------ Salt Lake(49035)    16    0    0
+------ Tooele(49045)    1    0    0
+------ Wasatch(49051)    1    0    0
 ---- HI    7    0    0
 ------ Honolulu(15003)    4    0    0
 ------ Kauai(15007)    2    0    0
@@ -990,12 +994,12 @@
 ------ Lafourche(22057)    2    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
----- SD    9    1    0
+---- SD    10    1    0
 ------ Pennington(46103)    1    1    0
 ------ Beadle(46005)    1    0    0
 ------ Charles Mix(46023)    1    0    0
 ------ Davison(46035)    1    0    0
------- Minnehaha(46099)    3    0    0
+------ Minnehaha(46099)    4    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
 ---- OH    50    0    0
@@ -1036,8 +1040,8 @@
 ------ Silver Bow(30093)    1    0    0
 ------ Yellowstone(30111)    1    0    0
 ------ Missoula(30063)    2    0    0
----- DE    7    0    0
------- New Castle(10003)    7    0    0
+---- DE    8    0    0
+------ New Castle(10003)    8    0    0
 ---- MS    12    0    0
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
@@ -1124,7 +1128,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1327    3    1
+-- Norway    1332    3    1
 -- Sweden    1119    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
@@ -1203,20 +1207,20 @@
 -- Mexico    53    0    4
 -- Albania    51    1    0
 -- Cyprus    46    0    0
+-- Armenia    45    0    1
 -- Hungary    39    1    1
 -- Palestine    39    0    0
 -- Belarus    36    0    3
 -- Costa Rica    35    0    0
 -- Latvia    34    0    1
 -- Georgia    33    0    1
--- Armenia    30    0    1
 -- Malta    30    0    2
 -- Morocco    29    1    1
 -- Moldova, Republic of    29    0    1
 -- Sri Lanka    28    0    1
 -- Azerbaijan    25    1    6
+-- Bosnia and Herzegovina    25    0    2
 -- Senegal    24    0    2
--- Bosnia and Herzegovina    24    0    0
 -- Oman    22    0    9
 -- Afghanistan    21    0    1
 -- Dominican Republic    21    0    0
