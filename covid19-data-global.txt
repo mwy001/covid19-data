@@ -1063,7 +1063,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
 -- Switzerland    2217    14    4
--- Japan    1848    24    144
+-- Japan    1848    25    144
 ---- Hokkaido    148    5    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1113,7 +1113,7 @@
 -- Netherlands    1135    20    2
 -- Sweden    1040    3    1
 -- Belgium    886    4    1
--- Denmark    875    2    1
+-- Denmark    875    3    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Austria    860    1    6
@@ -1162,13 +1162,13 @@
 -- Iraq    124    10    26
 -- Saudi Arabia    118    0    3
 -- Indonesia    117    5    8
+-- India    115    2    13
 -- Thailand    114    1    35
--- India    114    2    13
 -- Kuwait    112    0    9
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
+-- Pakistan    102    0    2
 -- United Arab Emirates    98    0    23
--- Pakistan    94    0    2
 -- Luxembourg    77    1    0
 -- Chile    75    0    0
 -- Peru    71    0    0
@@ -1178,13 +1178,13 @@
 -- Taiwan    59    1    20
 -- Viet Nam    57    0    16
 -- Argentina    56    2    3
+-- Serbia    55    0    1
 -- Panama    55    1    0
 -- Algeria    54    4    12
 -- Mexico    53    0    4
 -- Bulgaria    51    2    0
 -- Brunei Darussalam    50    0    0
 -- Croatia    49    0    2
--- Serbia    48    0    1
 -- Colombia    45    0    0
 -- Albania    42    1    0
 -- Cyprus    39    0    0
@@ -1197,9 +1197,9 @@
 -- Armenia    28    0    0
 -- Morocco    28    1    1
 -- Belarus    27    0    3
+-- Azerbaijan    25    1    6
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
--- Azerbaijan    23    1    6
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
 -- Afghanistan    21    0    1
@@ -1221,6 +1221,7 @@
 -- Jamaica    10    0    2
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
+-- Bangladesh    8    0    2
 -- Paraguay    8    0    0
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
@@ -1230,7 +1231,6 @@
 -- Ghana    6    0    0
 -- Uzbekistan    6    0    0
 -- Andorra    5    0    1
--- Bangladesh    5    0    2
 -- Puerto Rico    5    0    0
 -- Guadeloupe    5    0    0
 -- Rwanda    5    0    0
@@ -1250,6 +1250,7 @@
 -- Congo    2    0    0
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
+-- Guatemala    2    1    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
 -- Curaçao    2    0    0
@@ -1265,7 +1266,6 @@
 -- Cayman Islands    1    0    0
 -- Gabon    1    0    0
 -- Gibraltar    1    0    1
--- Guatemala    1    1    0
 -- Guinea    1    0    0
 -- Mauritania    1    0    0
 -- Sudan    1    1    0
