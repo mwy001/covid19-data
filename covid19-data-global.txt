@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4228    73    73
+-- United States of America    4252    75    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -658,19 +658,19 @@
 ------ Racine(55101)    1    0    0
 ------ Winnebago(55139)    1    0    0
 ------ Wood(55141)    1    0    0
----- TX    81    0    0
+---- TX    82    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    8    0    0
 ------ Gregg(48183)    4    0    0
------- Dallas(48113)    14    0    0
+------ Dallas(48113)    19    0    0
 ------ Tarrant(48439)    4    0    0
 ------ Montgomery(48339)    4    0    0
 ------ Travis(48453)    6    0    0
 ------ Smith(48423)    4    0    0
 ------ El Paso(48141)    2    0    0
------- Bell(48027)    1    0    0
+------ Bell(48027)    2    0    0
 ------ Galveston(48167)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
@@ -731,14 +731,17 @@
 ------ Gordon(13129)    2    0    0
 ------ Camden(13039)    1    0    0
 ------ Lee(13177)    2    0    0
------- Lowndes(13185)    2    0    0
+------ Lowndes(13185)    3    0    0
 ------ Coweta(13077)    2    0    0
 ------ Dougherty(13095)    7    0    0
------- Henry(13151)    1    0    0
+------ Henry(13151)    2    0    0
 ------ Clarke(13059)    3    0    0
 ------ Clayton(13063)    5    0    0
 ------ Newton(13217)    2    0    0
 ------ Troup(13285)    1    0    0
+------ Hall(13139)    1    0    0
+------ Paulding(13223)    1    0    0
+------ Forsyth(13117)    1    0    0
 ---- MA    168    0    1
 ------ Norfolk(25021)    31    0    0
 ------ Suffolk(25025)    31    0    1
@@ -771,13 +774,13 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    955    7    1
+---- NY    961    8    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    5    0
 ------ Nassau(36059)    109    0    0
 ------ Rockland(36087)    16    1    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    64    1    0
+------ Suffolk(36103)    74    2    0
 ------ Ulster(36111)    7    0    0
 ------ Albany(36001)    15    0    0
 ------ Delaware(36025)    1    0    0
@@ -795,19 +798,20 @@
 ------ Montgomery(36057)    1    0    0
 ------ Allegany(36003)    2    0    0
 ------ Onondaga(36067)    1    0    0
----- NJ    161    2    0
------- Bergen(34003)    42    1    0
------- Hudson(34017)    12    0    0
------- Monmouth(34025)    12    1    0
+------ Ontario(36069)    1    0    0
+---- NJ    176    2    0
+------ Bergen(34003)    61    1    0
+------ Hudson(34017)    19    0    0
+------ Monmouth(34025)    14    1    0
 ------ Burlington(34005)    6    0    0
------- Camden(34007)    2    0    0
------- Passaic(34031)    5    0    0
------- Union(34039)    4    0    0
+------ Camden(34007)    3    0    0
+------ Passaic(34031)    8    0    0
+------ Union(34039)    8    0    0
 ------ Middlesex(34023)    18    0    0
------- Essex(34013)    11    0    0
------- Morris(34027)    4    0    0
+------ Essex(34013)    20    0    0
+------ Morris(34027)    6    0    0
 ------ Somerset(34035)    5    0    0
------- Mercer(34021)    1    0    0
+------ Mercer(34021)    6    0    0
 ------ Ocean(34029)    3    0    0
 ------ Hunterdon(34019)    1    0    0
 ---- NV    45    1    0
@@ -879,7 +883,7 @@
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
 ------ Bourbon(21017)    1    1    0
----- IN    25    0    0
+---- IN    25    1    0
 ------ Marion(18097)    7    0    0
 ------ Hendricks(18063)    3    0    0
 ------ Noble(18113)    1    0    0
@@ -1038,8 +1042,9 @@
 ------ Forrest(28035)    3    0    0
 ------ Leflore(28083)    1    0    0
 ------ Copiah(28029)    2    0    0
------- Pearl River(28109)    2    0    0
+------ Pearl River(28109)    3    0    0
 ------ Hinds(28049)    2    0    0
+------ Monroe(28095)    1    0    0
 ---- WY    3    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    1    0    0
@@ -1119,7 +1124,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1323    3    1
+-- Norway    1327    3    1
 -- Sweden    1119    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
@@ -1128,19 +1133,19 @@
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
 -- Qatar    439    0    4
--- Canada    406    4    11
+-- Canada    420    4    11
 ---- British Columbia    103    4    4
 ---- Ontario    177    0    4
 ---- Alberta    56    0    0
----- Quebec    41    0    0
+---- Quebec    50    0    0
 ---- New Brunswick    6    0    0
 ---- Manitoba    7    0    0
----- Saskatchewan    6    0    0
+---- Saskatchewan    7    0    0
 ---- Grand Princess    2    0    0
 ---- Grand Princess Cruise Ship    4    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
----- Nova Scotia    4    0    0
+---- Nova Scotia    5    0    0
 -- Australia    375    6    27
 ---- New South Wales    134    2    4
 ---- Victoria    57    0    8
@@ -1158,25 +1163,25 @@
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
+-- Brazil    234    0    2
 -- Bahrain    227    1    77
 -- Estonia    205    0    1
--- Brazil    203    0    2
--- Iceland    192    5    8
--- Pakistan    179    1    2
+-- Iceland    198    5    8
+-- Pakistan    184    1    2
 -- Ireland    170    2    5
 -- Romania    168    0    9
+-- Chile    156    0    0
 -- Poland    156    3    13
--- Chile    155    0    0
 -- Hong Kong    155    4    81
 -- Egypt    150    2    32
 -- Thailand    147    1    35
 -- Philippines    142    12    5
 -- Indonesia    134    5    8
+-- Saudi Arabia    133    0    6
 -- India    129    2    13
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
--- Saudi Arabia    118    0    6
--- Lebanon    110    3    1
+-- Lebanon    110    3    3
 -- San Marino    109    7    4
 -- United Arab Emirates    98    0    23
 -- Russian Federation    93    0    8
@@ -1197,8 +1202,8 @@
 -- Brunei Darussalam    54    0    0
 -- Mexico    53    0    4
 -- Albania    51    1    0
+-- Cyprus    46    0    0
 -- Hungary    39    1    1
--- Cyprus    39    0    0
 -- Palestine    39    0    0
 -- Belarus    36    0    3
 -- Costa Rica    35    0    0
@@ -1214,6 +1219,7 @@
 -- Bosnia and Herzegovina    24    0    0
 -- Oman    22    0    9
 -- Afghanistan    21    0    1
+-- Dominican Republic    21    0    0
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Jordan    19    0    1
@@ -1227,7 +1233,6 @@
 -- Andorra    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
--- Dominican Republic    11    0    0
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
 -- Macao    11    0    10
