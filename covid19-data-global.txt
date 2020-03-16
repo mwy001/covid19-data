@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    9428    342    530
+-- Spain    9682    342    530
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4314    77    73
+-- United States of America    4349    77    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -605,7 +605,7 @@
 ------ Yakima(53077)    4    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Cowlitz(53015)    1    0    0
----- IL    96    0    2
+---- IL    106    0    2
 ------ Cook(17031)    61    0    2
 ------ Kane(17089)    4    0    0
 ------ McHenry(17111)    2    0    0
@@ -616,8 +616,9 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    486    6    6
------- Los Angeles(06037)    69    1    0
+------ Will(17197)    1    0    0
+---- CA    504    6    6
+------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
 ------ Humboldt(06023)    1    0    0
@@ -659,7 +660,7 @@
 ------ Winnebago(55139)    3    0    0
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
----- TX    82    0    0
+---- TX    83    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -1170,22 +1171,22 @@
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
 -- Brazil    234    0    2
--- Bahrain    227    1    77
+-- Bahrain    227    1    81
 -- Estonia    205    0    1
 -- Iceland    198    5    8
 -- Pakistan    184    1    2
+-- Poland    177    4    13
 -- Ireland    170    2    5
 -- Romania    168    0    9
 -- Chile    156    0    0
--- Poland    156    3    13
 -- Hong Kong    155    4    81
 -- Egypt    150    2    32
 -- Thailand    147    1    35
 -- Philippines    142    12    5
 -- Indonesia    134    5    8
+-- Iraq    133    10    32
 -- Saudi Arabia    133    0    6
 -- India    129    2    13
--- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Lebanon    110    3    3
 -- San Marino    109    7    4
@@ -1210,7 +1211,7 @@
 -- Albania    51    1    0
 -- Cyprus    46    0    0
 -- Armenia    45    0    1
--- Hungary    39    1    1
+-- Hungary    39    1    2
 -- Palestine    39    0    0
 -- Belarus    36    0    3
 -- Costa Rica    35    0    0
@@ -1218,6 +1219,7 @@
 -- Georgia    33    0    1
 -- Malta    30    0    2
 -- Morocco    29    1    1
+-- Jordan    29    0    1
 -- Moldova, Republic of    29    0    1
 -- Sri Lanka    28    0    1
 -- Azerbaijan    25    1    6
@@ -1228,7 +1230,6 @@
 -- Dominican Republic    21    0    0
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
--- Jordan    19    0    1
 -- Turkey    18    0    0
 -- Faroe Islands    18    0    0
 -- Lithuania    17    0    1
