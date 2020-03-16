@@ -584,20 +584,20 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4570    86    74
----- WA    872    48    57
+-- United States of America    4599    86    74
+---- WA    873    48    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
 ------ Grant(53025)    3    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    4    0    0
 ------ Jefferson(53031)    3    0    0
------- Pierce(53053)    31    0    0
+------ Pierce(53053)    38    0    0
 ------ Kittitas(53037)    3    0    0
 ------ Spokane(53063)    3    0    0
 ------ Kitsap(53035)    3    0    0
 ------ Skagit(53057)    4    0    0
------- Thurston(53067)    3    0    0
+------ Thurston(53067)    4    0    0
 ------ Island(53029)    6    0    0
 ------ Whatcom(53073)    3    0    0
 ------ Grays Harbor(53027)    1    0    0
@@ -622,7 +622,7 @@
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
 ------ Humboldt(06023)    1    0    0
------- Sacramento(06067)    32    1    1
+------ Sacramento(06067)    33    2    1
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    41    1    0
 ------ Sonoma(06097)    5    0    0
@@ -834,7 +834,7 @@
 ------ Rutherford(47149)    1    0    0
 ------ Campbell(47013)    1    0    0
 ------ Sevier(47155)    1    0    0
----- MD    41    0    4
+---- MD    42    0    4
 ------ Montgomery(24031)    15    0    0
 ------ Harford(24025)    2    0    0
 ------ Prince George's(24033)    10    0    0
@@ -845,7 +845,7 @@
 ------ Howard(24027)    4    0    0
 ------ Talbot(24041)    1    0    0
 ------ Frederick(24021)    1    0    0
----- CO    135    1    0
+---- CO    160    1    0
 ------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
 ------ Douglas(08035)    8    0    0
@@ -984,7 +984,7 @@
 ------ Pottawattamie(19155)    1    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    1    0    0
------- Dallas(19049)    1    0    0
+------ Dallas(19049)    2    0    0
 ------ Allamakee(19005)    2    0    0
 ------ Polk(19153)    1    0    0
 ---- VT    12    0    0
@@ -1001,6 +1001,7 @@
 ------ Terrebonne(22109)    3    0    0
 ------ Bossier(22015)    1    0    0
 ------ Lafourche(22057)    2    0    0
+------ Ascension(22005)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    10    1    0
@@ -1024,16 +1025,16 @@
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    2    0    0
 ------ Geauga(39055)    1    0    0
----- MI    53    0    0
+---- MI    54    0    0
 ------ Oakland(26125)    14    0    0
------- Wayne(26163)    13    0    0
+------ Wayne(26163)    14    0    0
 ------ Kent(26081)    5    0    0
 ------ Washtenaw(26161)    7    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
------- Macomb(26099)    5    0    0
+------ Macomb(26099)    6    0    0
 ------ Monroe(26115)    1    0    0
 ------ Ottawa(26139)    1    0    0
 ---- NM    21    0    0
@@ -1138,7 +1139,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1340    3    1
+-- Norway    1348    3    1
 -- Sweden    1121    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
@@ -1146,11 +1147,10 @@
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
--- Qatar    439    0    4
--- Canada    423    4    11
+-- Canada    441    4    11
 ---- British Columbia    103    4    4
 ---- Ontario    178    0    4
----- Alberta    56    0    0
+---- Alberta    74    0    0
 ---- Quebec    50    0    0
 ---- New Brunswick    7    0    0
 ---- Manitoba    8    0    0
@@ -1160,7 +1160,8 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    5    0    0
--- Australia    375    6    27
+-- Qatar    439    0    4
+-- Australia    401    6    27
 ---- New South Wales    134    2    4
 ---- Victoria    57    0    8
 ---- Queensland    61    0    8
@@ -1178,7 +1179,7 @@
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
 -- Brazil    234    0    2
--- Bahrain    227    1    81
+-- Bahrain    228    1    81
 -- Estonia    205    0    1
 -- Iceland    198    5    8
 -- Pakistan    184    1    2
