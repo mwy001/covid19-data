@@ -543,22 +543,22 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Germany    6215    13    46
----- Saxony    130    0    0
+-- Germany    6248    13    46
+---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    886    4    14
 ---- Berlin    283    0    0
 ---- Brandenburg    84    0    0
----- Thuringia    51    0    0
----- Schleswig-Holstein    103    0    0
+---- Thuringia    63    0    0
+---- Schleswig-Holstein    123    0    0
 ---- Lower Saxony    287    0    1
 ---- Bremen    56    0    1
 ---- Hamburg    196    0    0
 ---- Rhineland-Palatinate    200    0    1
----- North Rhine-Westphalia    2100    6    27
+---- North Rhine-Westphalia    2493    6    39
 ---- Hesse    282    0    0
 ---- Baden-Württemberg    977    3    14
----- Saxony-Anhalt    54    0    0
+---- Saxony-Anhalt    60    0    0
 ---- Saarland    74    0    0
 -- France    5423    127    12
 ---- France    4499    91    12
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3805    69    73
+-- United States of America    3806    69    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -1083,21 +1083,21 @@
 ---- Chiba    31    0    0
 ---- Kanagawa    55    3    1
 ---- Shizuoka    3    0    0
----- Aichi    121    12    2
+---- Aichi    121    14    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    78    1    0
+---- hyogo    79    1    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    1    0    0
----- Shiga    2    0    0
+---- Shiga    3    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    1    0    0
----- Gunma    5    0    0
+---- Gunma    6    0    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
@@ -1110,15 +1110,15 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1282    3    1
+-- Norway    1285    3    1
 -- Netherlands    1135    20    2
 -- Belgium    1058    5    1
--- Sweden    1043    6    1
+-- Sweden    1046    6    1
 -- Austria    1018    2    8
 -- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
--- Malaysia    553    0    42
+-- Malaysia    566    0    42
 -- Qatar    401    0    4
 -- Australia    375    6    27
 ---- New South Wales    134    2    4
@@ -1144,7 +1144,7 @@
 ---- Nova Scotia    3    0    0
 -- Greece    331    4    8
 -- Czechia    298    0    0
--- Finland    277    0    10
+-- Finland    278    0    10
 -- Portugal    256    0    3
 -- Israel    255    0    4
 -- Singapore    226    0    105
@@ -1158,6 +1158,7 @@
 -- Romania    158    0    9
 -- Poland    150    3    13
 -- Hong Kong    149    4    81
+-- Thailand    147    1    35
 -- Philippines    140    12    5
 -- Indonesia    134    5    8
 -- India    129    2    13
@@ -1165,7 +1166,6 @@
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Saudi Arabia    118    0    3
--- Thailand    114    1    35
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
 -- Pakistan    102    1    2
@@ -1210,11 +1210,11 @@
 -- North Macedonia    19    0    1
 -- Turkey    18    0    0
 -- Faroe Islands    18    0    0
+-- Lithuania    17    0    1
 -- Venezuela, Bolivarian Republic of    17    0    0
 -- Jordan    16    0    1
 -- Martinique    15    0    0
 -- Burkina Faso    15    0    0
--- Lithuania    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
 -- Dominican Republic    11    0    0
