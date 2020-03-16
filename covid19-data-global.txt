@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3808    70    73
+-- United States of America    3814    70    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -616,7 +616,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    458    6    6
+---- CA    459    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -877,20 +877,21 @@
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
----- IN    21    0    0
------- Marion(18097)    6    0    0
------- Hendricks(18063)    2    0    0
+---- IN    25    0    0
+------ Marion(18097)    7    0    0
+------ Hendricks(18063)    3    0    0
 ------ Noble(18113)    1    0    0
 ------ Adams(42001)    1    0    0
 ------ Boone(18011)    1    0    0
 ------ Johnson(18081)    3    0    0
------- Howard(18067)    1    0    0
+------ Howard(18067)    2    0    0
 ------ St Joseph(18141)    1    0    0
 ------ Hancock(18059)    1    0    0
 ------ LaPorte(18091)    1    0    0
 ------ Wells(18179)    1    0    0
 ------ Hamilton(18057)    1    0    0
 ------ Floyd(18043)    1    0    0
+------ Bartholomew(18005)    1    0    0
 ---- MN    35    0    0
 ------ Ramsey(27123)    8    0    0
 ------ Jefferson(21111)    1    0    0
@@ -948,6 +949,7 @@
 ------ Prince Edward(51147)    1    0    0
 ------ Prince William(51153)    3    0    0
 ------ Chesterfield(51041)    1    0    0
+------ Albemarle(51003)    1    0    0
 ---- KS    9    1    0
 ------ Johnson(20091)    6    0    0
 ------ Wyandotte(20209)    1    1    0
@@ -1102,8 +1104,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
--- Netherlands    1413    24    2
--- United Kingdom of Great Britain and Northern Ireland    1391    35    20
+-- United Kingdom of Great Britain and Northern Ireland    1543    35    20
 ---- UK    456    8    18
 ---- Channel Islands    3    0    0
 ---- Gibraltar    1    0    1
@@ -1112,10 +1113,11 @@
 ---- Wales    124    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1295    3    1
+-- Netherlands    1413    24    2
+-- Norway    1303    3    1
+-- Sweden    1103    6    1
 -- Belgium    1085    5    1
--- Sweden    1063    6    1
--- Austria    1018    2    8
+-- Austria    1018    3    8
 -- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
@@ -1177,14 +1179,14 @@
 -- Luxembourg    81    1    0
 -- South Africa    64    0    0
 -- Slovakia    63    0    0
+-- Viet Nam    61    0    16
 -- Taiwan    59    1    20
--- Viet Nam    59    0    16
--- Croatia    56    0    3
+-- Croatia    57    0    3
 -- Argentina    56    2    3
 -- Serbia    55    0    1
 -- Panama    55    1    0
 -- Algeria    54    4    12
--- Colombia    54    0    0
+-- Colombia    54    0    1
 -- Brunei Darussalam    54    0    0
 -- Mexico    53    0    4
 -- Bulgaria    52    2    0
@@ -1285,3 +1287,4 @@
 -- Tanzania, United Republic of    1    0    0
 -- Somalia    1    0    0
 -- Greenland    1    0    0
+-- Benin    1    0    0
