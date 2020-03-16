@@ -1110,11 +1110,11 @@
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
--- Norway    1262    3    1
+-- Norway    1263    3    1
 -- Netherlands    1135    20    2
 -- Belgium    1058    5    1
 -- Sweden    1043    3    1
--- Austria    959    2    6
+-- Austria    1018    2    6
 -- Denmark    898    4    1
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
@@ -1159,12 +1159,12 @@
 -- Poland    150    3    13
 -- Hong Kong    149    4    81
 -- Philippines    140    12    5
+-- Indonesia    134    5    8
 -- Egypt    126    2    32
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Saudi Arabia    118    0    3
 -- India    117    2    13
--- Indonesia    117    5    8
 -- Thailand    114    1    35
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
@@ -1209,6 +1209,7 @@
 -- Tunisia    20    0    0
 -- North Macedonia    19    0    1
 -- Turkey    18    0    0
+-- Faroe Islands    18    0    0
 -- Venezuela, Bolivarian Republic of    17    0    0
 -- Jordan    16    0    1
 -- Martinique    15    0    0
@@ -1218,13 +1219,12 @@
 -- Cambodia    12    0    1
 -- Dominican Republic    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
--- Faroe Islands    11    0    0
 -- Macao    11    0    10
 -- Jamaica    10    0    2
 -- Réunion    9    0    0
 -- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
--- Bangladesh    8    0    2
+-- Bangladesh    8    0    3
 -- Paraguay    8    0    0
 -- Uruguay    8    0    0
 -- Liechtenstein    7    0    0
