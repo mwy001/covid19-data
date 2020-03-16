@@ -523,9 +523,9 @@
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
 -- Spain    7845    292    517
----- Andalusia    269    2    0
----- Aragon    80    7    0
----- Balearic Islands    30    1    1
+---- Andalusia    437    5    0
+---- Aragon    147    7    0
+---- Balearic Islands    55    1    2
 ---- Basque Country    417    14    9
 ---- Canary Islands    70    0    5
 ---- Cantabria    29    0    0
@@ -536,7 +536,7 @@
 ---- Comunidad Foral de Navarra    46    0    0
 ---- Extremadura    42    1    3
 ---- Galicia    112    0    0
----- Principality of Asturias    73    1    2
+---- Principality of Asturias    142    1    3
 ---- Región de Murcia    39    0    0
 ---- Rioja    259    3    1
 ---- Valencian Community    148    3    1
@@ -1067,7 +1067,7 @@
 ---- Hokkaido    148    5    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    16    0    0
+---- Niigata    17    0    0
 ---- Gifu    2    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    2    0    0
@@ -1132,8 +1132,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    3    0    0
--- Greece    331    4    8
--- Australia    300    5    27
+-- Australia    337    5    27
 ---- New South Wales    134    2    4
 ---- Victoria    57    0    8
 ---- Queensland    61    0    8
@@ -1142,6 +1141,7 @@
 ---- Tasmania    6    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    1    0    0
+-- Greece    331    4    8
 -- Czechia    293    0    0
 -- Portugal    256    0    3
 -- Israel    251    0    4
@@ -1168,6 +1168,7 @@
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
 -- United Arab Emirates    98    0    23
+-- Pakistan    94    0    2
 -- Luxembourg    77    1    0
 -- Chile    75    0    0
 -- Peru    71    0    0
@@ -1179,18 +1180,17 @@
 -- Argentina    56    2    3
 -- Panama    55    1    0
 -- Algeria    54    4    12
--- Pakistan    53    0    2
+-- Mexico    53    0    4
 -- Bulgaria    51    2    0
 -- Brunei Darussalam    50    0    0
 -- Croatia    49    0    2
 -- Serbia    48    0    1
--- Mexico    43    0    4
+-- Colombia    45    0    0
 -- Albania    42    1    0
 -- Cyprus    39    0    0
 -- Palestine    38    0    0
 -- Ecuador    37    2    0
 -- Costa Rica    35    0    0
--- Colombia    34    0    0
 -- Georgia    33    0    1
 -- Hungary    32    1    1
 -- Latvia    30    0    1
@@ -1225,8 +1225,10 @@
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Réunion    7    0    0
+-- Honduras    6    0    0
 -- Uruguay    6    0    0
 -- Ghana    6    0    0
+-- Uzbekistan    6    0    0
 -- Andorra    5    0    1
 -- Bangladesh    5    0    2
 -- Puerto Rico    5    0    0
@@ -1237,10 +1239,8 @@
 -- Guyana    4    1    0
 -- Ethiopia    4    0    0
 -- Trinidad and Tobago    4    0    0
--- Uzbekistan    4    0    0
 -- Ukraine    3    1    0
 -- Burkina Faso    3    0    0
--- Honduras    3    0    0
 -- French Polynesia    3    0    0
 -- Kenya    3    0    0
 -- Seychelles    3    0    0
