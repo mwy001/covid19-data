@@ -1,3 +1,4 @@
+-- Holy See    568000    892045    0
 -- China    80977    3193    65660
 ---- Hubei    67790    3075    52960
 ------ Wuhan    49999    2456    37642
@@ -543,21 +544,21 @@
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
 -- Germany    5813    11    46
----- Saxony    99    0    0
----- Mecklenburg-Vorpommern    45    0    0
----- Free State of Bavaria    886    3    14
----- Berlin    263    0    0
----- Brandenburg    64    0    0
+---- Saxony    130    0    0
+---- Mecklenburg-Vorpommern    50    0    0
+---- Free State of Bavaria    886    4    14
+---- Berlin    283    0    0
+---- Brandenburg    84    0    0
 ---- Thuringia    51    0    0
 ---- Schleswig-Holstein    103    0    0
----- Lower Saxony    253    0    1
----- Bremen    53    0    1
----- Hamburg    158    0    0
+---- Lower Saxony    287    0    1
+---- Bremen    56    0    1
+---- Hamburg    196    0    0
 ---- Rhineland-Palatinate    200    0    1
----- North Rhine-Westphalia    2100    5    27
----- Hesse    203    0    0
----- Baden-Württemberg    827    3    14
----- Saxony-Anhalt    47    0    0
+---- North Rhine-Westphalia    2100    6    27
+---- Hesse    282    0    0
+---- Baden-Württemberg    977    3    14
+---- Saxony-Anhalt    54    0    0
 ---- Saarland    74    0    0
 -- France    5423    127    12
 ---- France    4469    91    12
@@ -583,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3668    68    59
+-- United States of America    3689    68    59
 ---- WA    769    42    43
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -766,7 +767,7 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    734    6    1
+---- NY    744    6    1
 ------ Westchester(36119)    198    0    0
 ------ New York(36061)    329    5    0
 ------ Nassau(36059)    98    0    0
@@ -784,7 +785,7 @@
 ------ Schenectady(36093)    2    0    0
 ------ Tompkins(36109)    1    0    0
 ------ Tioga(36107)    1    0    0
------- Erie(36029)    3    0    0
+------ Erie(36029)    7    0    0
 ------ Putnam(36079)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Montgomery(36057)    1    0    0
@@ -940,7 +941,7 @@
 ------ Prince Edward(51147)    1    0    0
 ------ Prince William(51153)    3    0    0
 ------ Chesterfield(51041)    1    0    0
----- KS    8    1    0
+---- KS    9    1    0
 ------ Johnson(20091)    5    0    0
 ------ Wyandotte(20209)    1    1    0
 ------ Butler(20015)    1    0    0
@@ -1034,13 +1035,15 @@
 ------ Anchorage(02020)    1    0    0
 ---- DC    18    0    0
 ---- Others    12    0    0
----- AL    14    0    0
+---- AL    22    0    0
 ------ Montgomery(01101)    1    0    0
------- Jefferson(01073)    7    0    0
+------ Jefferson(01073)    12    0    0
 ------ Tuscaloosa(01125)    3    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Baldwin(01003)    1    0    0
+------ Shelby(01117)    2    0    0
+------ Lee(01081)    1    0    0
 ---- ID    5    0    0
 ------ Ada(16001)    2    0    0
 ------ Blaine(16013)    1    0    0
@@ -1092,8 +1095,8 @@
 ---- UK    456    8    18
 ---- Channel Islands    2    0    0
 ---- Gibraltar    1    0    1
----- England    925    20    0
----- Northern Ireland    34    0    0
+---- England    1099    34    0
+---- Northern Ireland    45    0    0
 ---- Wales    94    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
@@ -1244,7 +1247,6 @@
 -- Nepal    1    0    1
 -- Bhutan    1    0    0
 -- Togo    1    0    0
--- Holy See    1    0    0
 -- Mongolia    1    0    0
 -- Côte d'Ivoire    1    0    0
 -- Antigua and Barbuda    1    0    0
