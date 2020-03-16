@@ -1118,7 +1118,7 @@
 ---- Denmark    864    2    1
 ---- Faroe Islands    11    0    0
 -- Belgium    886    4    1
--- Malaysia    428    0    42
+-- Malaysia    553    0    42
 -- Qatar    401    0    4
 -- Australia    375    6    27
 ---- New South Wales    134    2    4
@@ -1151,9 +1151,9 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    221    1    77
 -- Slovenia    219    1    0
+-- Estonia    205    0    1
 -- Brazil    203    0    2
 -- Iceland    180    5    8
--- Estonia    171    0    1
 -- Ireland    170    2    5
 -- Romania    158    0    9
 -- Poland    150    3    13
@@ -1163,8 +1163,8 @@
 -- Iraq    124    10    26
 -- Kuwait    123    0    9
 -- Saudi Arabia    118    0    3
+-- India    117    2    13
 -- Indonesia    117    5    8
--- India    115    2    13
 -- Thailand    114    1    35
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
@@ -1190,35 +1190,36 @@
 -- Albania    42    1    0
 -- Hungary    39    1    1
 -- Cyprus    39    0    0
--- Palestine    38    0    0
+-- Palestine    39    0    0
 -- Ecuador    37    2    0
+-- Belarus    36    0    3
 -- Costa Rica    35    0    0
 -- Latvia    34    0    1
 -- Georgia    33    0    1
 -- Armenia    30    0    1
--- Morocco    28    1    1
--- Belarus    27    0    3
+-- Morocco    29    1    1
 -- Azerbaijan    25    1    6
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
 -- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
+-- Sri Lanka    21    0    1
 -- Afghanistan    21    0    1
 -- Malta    21    0    2
 -- Tunisia    20    0    0
--- Sri Lanka    19    0    1
 -- North Macedonia    19    0    1
 -- Turkey    18    0    0
 -- Venezuela, Bolivarian Republic of    17    0    0
--- Jordan    15    0    1
+-- Jordan    16    0    1
 -- Martinique    15    0    0
+-- Burkina Faso    15    0    0
 -- Lithuania    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
 -- Dominican Republic    11    0    0
+-- Bolivia, Plurinational State of    11    0    0
 -- Faroe Islands    11    0    0
 -- Macao    11    0    10
--- Bolivia, Plurinational State of    10    0    0
 -- Jamaica    10    0    2
 -- Réunion    9    0    0
 -- Kazakhstan    9    0    0
@@ -1241,7 +1242,6 @@
 -- Cuba    4    0    0
 -- Ethiopia    4    0    0
 -- Trinidad and Tobago    4    0    0
--- Burkina Faso    3    0    0
 -- French Polynesia    3    0    0
 -- Kenya    3    0    0
 -- Seychelles    3    0    0
