@@ -1119,6 +1119,15 @@
 -- Austria    860    1    6
 -- Malaysia    428    0    42
 -- Qatar    401    0    4
+-- Australia    375    5    27
+---- New South Wales    134    2    4
+---- Victoria    57    0    8
+---- Queensland    61    0    8
+---- South Australia    20    0    3
+---- Western Australia    17    1    0
+---- Tasmania    6    0    0
+---- Northern Territory    1    0    0
+---- Australian Capital Territory    1    0    0
 -- Canada    341    1    11
 ---- British Columbia    73    1    4
 ---- Ontario    145    0    4
@@ -1132,17 +1141,8 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    3    0    0
--- Australia    337    5    27
----- New South Wales    134    2    4
----- Victoria    57    0    8
----- Queensland    61    0    8
----- South Australia    20    0    3
----- Western Australia    17    1    0
----- Tasmania    6    0    0
----- Northern Territory    1    0    0
----- Australian Capital Territory    1    0    0
 -- Greece    331    4    8
--- Czechia    293    0    0
+-- Czechia    298    0    0
 -- Portugal    256    0    3
 -- Israel    251    0    4
 -- Finland    244    0    10
@@ -1167,7 +1167,7 @@
 -- Kuwait    112    0    9
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
--- Pakistan    102    0    2
+-- Pakistan    102    1    2
 -- United Arab Emirates    98    0    23
 -- Luxembourg    77    1    0
 -- Chile    75    0    0
@@ -1182,17 +1182,17 @@
 -- Panama    55    1    0
 -- Algeria    54    4    12
 -- Mexico    53    0    4
--- Bulgaria    51    2    0
+-- Bulgaria    52    2    0
+-- Croatia    50    0    2
 -- Brunei Darussalam    50    0    0
--- Croatia    49    0    2
 -- Colombia    45    0    0
 -- Albania    42    1    0
+-- Hungary    39    1    1
 -- Cyprus    39    0    0
 -- Palestine    38    0    0
 -- Ecuador    37    2    0
 -- Costa Rica    35    0    0
 -- Georgia    33    0    1
--- Hungary    32    1    1
 -- Latvia    30    0    1
 -- Armenia    28    0    0
 -- Morocco    28    1    1
@@ -1223,11 +1223,11 @@
 -- New Zealand    8    0    0
 -- Bangladesh    8    0    2
 -- Paraguay    8    0    0
+-- Uruguay    8    0    0
 -- Liechtenstein    7    0    0
 -- French Guiana    7    0    0
 -- Réunion    7    0    0
 -- Honduras    6    0    0
--- Uruguay    6    0    0
 -- Ghana    6    0    0
 -- Uzbekistan    6    0    0
 -- Andorra    5    0    1
