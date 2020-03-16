@@ -451,27 +451,27 @@
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
 -- Italy    27980    2158    2749
----- Abruzzo    137    3    6
----- Aosta Valley    57    1    0
+---- Abruzzo    176    4    7
+---- Aosta Valley    105    2    0
 ---- Apulia    230    16    3
----- Basilicata    11    0    0
----- Calabria    68    1    2
----- Campania    333    9    28
----- Emilia-Romagna    3093    284    68
----- Friuli Venezia Giulia    347    14    17
----- Lazio    436    16    24
----- Lombardy    13272    1218    2011
----- Marche    1133    46    0
----- Molise    17    0    0
----- Piemont    1111    81    0
----- Sardinia    77    2    0
----- Sicily    188    2    7
+---- Basilicata    12    0    0
+---- Calabria    89    1    2
+---- Campania    400    9    28
+---- Emilia-Romagna    3522    346    88
+---- Friuli Venezia Giulia    386    22    18
+---- Lazio    523    19    32
+---- Lombardy    14649    1420    2368
+---- Marche    1242    57    0
+---- Molise    21    1    5
+---- Piemont    1516    111    0
+---- Sardinia    107    2    0
+---- Sicily    213    2    8
 ---- Trentino-Alto Adige - Südtirol    378    6    5
----- Tuscany    781    8    10
----- Umbria    143    1    3
----- Liguria    559    33    52
----- Veneto    2172    63    120
----- Bolzano    204    5    0
+---- Tuscany    866    14    11
+---- Umbria    164    1    4
+---- Liguria    667    50    52
+---- Veneto    2473    69    130
+---- Bolzano    241    6    0
 -- Iran, Islamic Republic of    14991    853    4590
 ---- Qom    1023    30    0
 ---- Tehran    3774    0    0
@@ -543,7 +543,7 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Germany    7174    14    60
+-- Germany    7241    15    65
 ---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    1067    4    14
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4165    72    73
+-- United States of America    4180    73    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -616,7 +616,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    473    6    6
+---- CA    474    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -633,7 +633,7 @@
 ------ Alameda(06001)    15    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
------- Riverside(06065)    14    0    0
+------ Riverside(06065)    15    0    0
 ------ Shasta(06089)    1    0    0
 ------ Solano(06095)    7    0    0
 ------ Santa Cruz(06087)    7    0    0
@@ -721,7 +721,7 @@
 ------ Fulton(13121)    27    0    0
 ------ Cobb(13067)    22    1    0
 ------ Polk(13233)    1    0    0
------- Cherokee(13057)    6    0    0
+------ Cherokee(13057)    7    0    0
 ------ Gwinnett(13135)    4    0    0
 ------ DeKalb(13089)    10    0    0
 ------ Floyd(13115)    4    0    0
@@ -771,20 +771,20 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    955    6    1
------- Westchester(36119)    198    0    0
+---- NY    955    7    1
+------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    5    0
------- Nassau(36059)    98    0    0
------- Rockland(36087)    13    1    0
+------ Nassau(36059)    109    0    0
+------ Rockland(36087)    16    1    0
 ------ Saratoga(36091)    3    0    0
------- Suffolk(36103)    47    0    0
------- Ulster(36111)    5    0    0
+------ Suffolk(36103)    64    1    0
+------ Ulster(36111)    7    0    0
 ------ Albany(36001)    15    0    0
 ------ Delaware(36025)    1    0    0
------- Dutchess(36027)    7    0    0
+------ Dutchess(36027)    10    0    0
 ------ Herkimer(36043)    1    0    0
 ------ Monroe(36055)    10    0    0
------- Orange(36071)    6    0    0
+------ Orange(36071)    11    0    0
 ------ Broome(36007)    1    0    0
 ------ Schenectady(36093)    2    0    0
 ------ Tompkins(36109)    1    0    0
@@ -811,7 +811,7 @@
 ------ Ocean(34029)    3    0    0
 ------ Hunterdon(34019)    1    0    0
 ---- NV    45    1    0
------- Clark(32003)    16    0    0
+------ Clark(32003)    35    1    0
 ------ Washoe(32031)    9    0    0
 ---- TN    39    0    0
 ------ Williamson(47187)    14    0    0
@@ -994,7 +994,7 @@
 ------ Minnehaha(46099)    3    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    38    0    0
+---- OH    48    0    0
 ------ Cuyahoga(39035)    14    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -1052,7 +1052,7 @@
 ------ Anchorage(02020)    1    0    0
 ---- DC    18    0    0
 ---- Others    12    0    0
----- AL    22    0    0
+---- AL    28    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    12    0    0
 ------ Tuscaloosa(01125)    3    0    0
@@ -1071,7 +1071,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2353    18    4
+-- Switzerland    2353    19    4
 -- Japan    1848    27    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
@@ -1119,8 +1119,8 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1321    3    1
--- Sweden    1110    7    1
+-- Norway    1322    3    1
+-- Sweden    1119    7    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
 -- Denmark    914    4    1
@@ -1152,16 +1152,17 @@
 ---- Australian Capital Territory    1    0    0
 -- Greece    352    4    8
 -- Israel    344    0    4
+-- Czechia    344    0    3
 -- Portugal    331    1    3
--- Czechia    298    0    3
 -- Finland    278    0    10
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
--- Bahrain    221    1    77
+-- Bahrain    227    1    77
 -- Estonia    205    0    1
 -- Brazil    203    0    2
--- Iceland    182    5    8
+-- Iceland    192    5    8
+-- Pakistan    179    1    2
 -- Ireland    170    2    5
 -- Romania    168    0    9
 -- Poland    156    3    13
@@ -1170,7 +1171,6 @@
 -- Egypt    150    2    32
 -- Thailand    147    1    35
 -- Philippines    142    12    5
--- Pakistan    136    1    2
 -- Indonesia    134    5    8
 -- India    129    2    13
 -- Iraq    124    10    26
@@ -1187,12 +1187,12 @@
 -- South Africa    64    0    0
 -- Bulgaria    62    2    0
 -- Viet Nam    61    0    16
+-- Algeria    60    4    12
 -- Ecuador    58    2    0
 -- Croatia    57    0    3
 -- Serbia    57    0    1
 -- Argentina    56    2    3
 -- Panama    55    1    0
--- Algeria    54    4    12
 -- Colombia    54    0    1
 -- Brunei Darussalam    54    0    0
 -- Mexico    53    0    4
@@ -1207,11 +1207,11 @@
 -- Armenia    30    0    1
 -- Malta    30    0    2
 -- Morocco    29    1    1
+-- Moldova, Republic of    29    0    1
 -- Sri Lanka    28    0    1
 -- Azerbaijan    25    1    6
 -- Senegal    24    0    2
 -- Bosnia and Herzegovina    24    0    0
--- Moldova, Republic of    23    0    0
 -- Oman    22    0    9
 -- Afghanistan    21    0    1
 -- Tunisia    20    0    0
@@ -1237,6 +1237,7 @@
 -- Bangladesh    8    0    3
 -- Paraguay    8    0    0
 -- Uruguay    8    0    0
+-- Guatemala    8    1    0
 -- Uzbekistan    8    0    0
 -- Liechtenstein    7    0    0
 -- Guyana    7    1    0
@@ -1260,7 +1261,6 @@
 -- Nigeria    2    0    1
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
--- Guatemala    2    1    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
 -- Curaçao    2    0    0
