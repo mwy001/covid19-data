@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4314    75    73
+-- United States of America    4314    77    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -630,13 +630,13 @@
 ------ San Francisco(06075)    40    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    114    2    1
------- Alameda(06001)    15    0    0
+------ Alameda(06001)    18    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
 ------ Riverside(06065)    15    0    0
 ------ Shasta(06089)    1    0    0
 ------ Solano(06095)    7    0    0
------- Santa Cruz(06087)    7    0    0
+------ Santa Cruz(06087)    16    0    0
 ------ Napa(06055)    1    0    0
 ------ Ventura(06111)    5    0    0
 ------ Marin(06041)    9    0    0
@@ -775,22 +775,22 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    964    8    1
+---- NY    966    10    1
 ------ Westchester(36119)    220    0    0
------- New York(36061)    463    5    0
+------ New York(36061)    463    7    0
 ------ Nassau(36059)    109    0    0
 ------ Rockland(36087)    16    1    0
------- Saratoga(36091)    3    0    0
+------ Saratoga(36091)    5    0    0
 ------ Suffolk(36103)    74    2    0
 ------ Ulster(36111)    7    0    0
 ------ Albany(36001)    15    0    0
 ------ Delaware(36025)    1    0    0
 ------ Dutchess(36027)    10    0    0
 ------ Herkimer(36043)    1    0    0
------- Monroe(36055)    10    0    0
+------ Monroe(36055)    11    0    0
 ------ Orange(36071)    11    0    0
 ------ Broome(36007)    1    0    0
------- Schenectady(36093)    2    0    0
+------ Schenectady(36093)    4    0    0
 ------ Tompkins(36109)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    7    0    0
@@ -800,7 +800,7 @@
 ------ Allegany(36003)    2    0    0
 ------ Onondaga(36067)    1    0    0
 ------ Ontario(36069)    1    0    0
----- NJ    176    2    0
+---- NJ    178    2    0
 ------ Bergen(34003)    61    1    0
 ------ Hudson(34017)    19    0    0
 ------ Monmouth(34025)    14    1    0
@@ -819,7 +819,7 @@
 ------ Clark(32003)    35    1    0
 ------ Washoe(32031)    9    0    0
 ---- TN    52    0    0
------- Williamson(47187)    14    0    0
+------ Williamson(47187)    18    0    0
 ------ Davidson(47037)    25    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
@@ -839,6 +839,7 @@
 ------ Carroll(24013)    1    0    0
 ------ Howard(24027)    4    0    0
 ------ Talbot(24041)    1    0    0
+------ Frederick(24021)    1    0    0
 ---- CO    135    1    0
 ------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
@@ -886,7 +887,7 @@
 ------ Clark(21049)    1    0    0
 ------ Bourbon(21017)    1    1    0
 ---- IN    25    1    0
------- Marion(18097)    7    0    0
+------ Marion(18097)    7    1    0
 ------ Hendricks(18063)    3    0    0
 ------ Noble(18113)    1    0    0
 ------ Adams(42001)    1    0    0
@@ -901,18 +902,19 @@
 ------ Floyd(18043)    1    0    0
 ------ Bartholomew(18005)    1    0    0
 ---- MN    54    0    0
------- Ramsey(27123)    8    0    0
+------ Ramsey(27123)    10    0    0
 ------ Jefferson(21111)    1    0    0
------- Anoka(27003)    2    0    0
------- Olmsted(27109)    2    0    0
+------ Anoka(27003)    3    0    0
+------ Olmsted(27109)    3    0    0
 ------ Carver(27019)    1    0    0
------- Dakota(27037)    3    0    0
------- Hennepin(27053)    12    0    0
+------ Dakota(27037)    5    0    0
+------ Hennepin(27053)    22    0    0
 ------ Stearns(27145)    3    0    0
 ------ Wright(27171)    1    0    0
 ------ Renville(27129)    1    0    0
 ------ Waseca(27161)    1    0    0
------- Washington(27163)    1    0    0
+------ Washington(27163)    2    0    0
+------ Benton(27009)    1    0    0
 ---- RI    21    0    0
 ------ Providence(44007)    21    0    0
 ---- CT    30    0    0
@@ -1128,7 +1130,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1332    3    1
+-- Norway    1334    3    1
 -- Sweden    1119    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
@@ -1248,13 +1250,13 @@
 -- Uruguay    8    0    0
 -- Guatemala    8    1    0
 -- Uzbekistan    8    0    0
+-- Ukraine    7    1    0
 -- Liechtenstein    7    0    0
 -- Guyana    7    1    0
 -- Monaco    6    0    0
 -- Honduras    6    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
--- Ukraine    5    1    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
 -- Rwanda    5    0    0
