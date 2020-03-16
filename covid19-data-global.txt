@@ -1148,10 +1148,10 @@
 -- Portugal    331    0    3
 -- Czechia    298    0    0
 -- Finland    278    0    10
+-- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    221    1    77
--- Slovenia    219    1    0
 -- Estonia    205    0    1
 -- Brazil    203    0    2
 -- Iceland    180    5    8
@@ -1161,6 +1161,7 @@
 -- Hong Kong    149    4    81
 -- Thailand    147    1    35
 -- Philippines    142    12    5
+-- Pakistan    136    1    2
 -- Indonesia    134    5    8
 -- India    129    2    13
 -- Egypt    126    2    32
@@ -1169,14 +1170,13 @@
 -- Saudi Arabia    118    0    6
 -- Lebanon    110    3    1
 -- San Marino    109    7    4
--- Pakistan    107    1    2
 -- United Arab Emirates    98    0    23
 -- Russian Federation    93    0    8
 -- Luxembourg    81    1    0
 -- Chile    75    0    0
 -- Peru    71    0    0
+-- South Africa    64    0    0
 -- Slovakia    63    0    0
--- South Africa    62    0    0
 -- Taiwan    59    1    20
 -- Viet Nam    59    0    16
 -- Croatia    56    0    3
@@ -1223,8 +1223,8 @@
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
 -- Macao    11    0    10
+-- Kazakhstan    10    0    0
 -- Réunion    9    0    0
--- Kazakhstan    9    0    0
 -- New Zealand    8    0    0
 -- Bangladesh    8    0    3
 -- Paraguay    8    0    0
