@@ -543,7 +543,7 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Germany    7241    15    65
+-- Germany    7272    17    67
 ---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    1067    4    14
@@ -584,8 +584,8 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4599    86    74
----- WA    873    48    57
+-- United States of America    4657    86    74
+---- WA    904    48    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
 ------ Grant(53025)    3    1    0
@@ -595,16 +595,17 @@
 ------ Pierce(53053)    38    0    0
 ------ Kittitas(53037)    3    0    0
 ------ Spokane(53063)    3    0    0
------- Kitsap(53035)    3    0    0
------- Skagit(53057)    4    0    0
+------ Kitsap(53035)    7    0    0
+------ Skagit(53057)    7    0    0
 ------ Thurston(53067)    4    0    0
------- Island(53029)    6    0    0
+------ Island(53029)    7    0    0
 ------ Whatcom(53073)    3    0    0
 ------ Grays Harbor(53027)    1    0    0
 ------ Columbia(53013)    1    0    0
 ------ Yakima(53077)    4    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Cowlitz(53015)    1    0    0
+------ Lewis(53041)    1    0    0
 ---- IL    114    0    2
 ------ Cook(17031)    70    0    2
 ------ Kane(17089)    4    0    0
@@ -617,10 +618,10 @@
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
----- CA    537    7    6
+---- CA    557    7    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
------- San Diego(06073)    38    0    1
+------ San Diego(06073)    55    0    1
 ------ Humboldt(06023)    1    0    0
 ------ Sacramento(06067)    33    2    1
 ------ Placer(06061)    8    1    0
@@ -944,7 +945,7 @@
 ------ Salt Lake(49035)    16    0    0
 ------ Tooele(49045)    1    0    0
 ------ Wasatch(49051)    1    0    0
----- HI    7    0    0
+---- HI    8    0    0
 ------ Honolulu(15003)    4    0    0
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    1    0    0
@@ -1070,7 +1071,7 @@
 ------ Cumberland(23005)    13    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
----- DC    18    0    0
+---- DC    22    0    0
 ---- Others    12    0    0
 ---- AL    29    0    0
 ------ Montgomery(01101)    2    0    0
@@ -1180,15 +1181,15 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Brazil    234    0    2
 -- Bahrain    228    1    81
+-- Ireland    223    2    5
 -- Estonia    205    0    1
--- Iceland    198    5    8
+-- Iceland    199    5    8
 -- Pakistan    184    1    2
 -- Poland    177    4    13
--- Ireland    170    2    5
 -- Romania    168    0    9
+-- Egypt    166    4    32
 -- Chile    156    0    0
 -- Hong Kong    155    4    81
--- Egypt    150    2    32
 -- Thailand    147    1    35
 -- Philippines    142    12    5
 -- Indonesia    134    5    8
@@ -1216,10 +1217,10 @@
 -- Colombia    54    0    1
 -- Brunei Darussalam    54    0    0
 -- Mexico    53    0    4
+-- Armenia    52    0    1
 -- Albania    51    1    0
 -- Turkey    47    0    0
 -- Cyprus    46    0    0
--- Armenia    45    0    1
 -- Hungary    39    1    2
 -- Palestine    39    0    0
 -- Morocco    38    1    1
