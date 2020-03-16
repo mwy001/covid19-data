@@ -543,7 +543,7 @@
 ---- Sejong    40    0    0
 ---- Seoul    253    0    52
 ---- Ulsan    28    0    7
--- Germany    6924    14    59
+-- Germany    7174    14    60
 ---- Saxony    134    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    1067    4    14
@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4108    71    73
+-- United States of America    4165    72    73
 ---- WA    770    42    57
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -616,7 +616,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    469    6    6
+---- CA    473    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -624,10 +624,10 @@
 ------ Sacramento(06067)    32    1    1
 ------ Placer(06061)    8    1    0
 ------ San Mateo(06081)    41    1    0
------- Sonoma(06097)    4    0    0
+------ Sonoma(06097)    5    0    0
 ------ Orange(06059)    17    0    0
 ------ Contra Costa(06013)    29    0    0
------- San Francisco(06075)    37    0    0
+------ San Francisco(06075)    40    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    114    2    1
 ------ Alameda(06001)    15    0    0
@@ -755,12 +755,12 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    4    0    0
 ------ Graham(04009)    1    0    0
----- NC    36    0    0
+---- NC    37    0    0
 ------ Wake(37183)    14    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
------- Mecklenburg(37119)    4    0    0
+------ Mecklenburg(37119)    7    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    2    0    0
@@ -771,9 +771,9 @@
 ------ Craven(37049)    1    0    0
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
----- NY    954    6    1
+---- NY    955    6    1
 ------ Westchester(36119)    198    0    0
------- New York(36061)    329    5    0
+------ New York(36061)    463    5    0
 ------ Nassau(36059)    98    0    0
 ------ Rockland(36087)    13    1    0
 ------ Saratoga(36091)    3    0    0
@@ -795,8 +795,8 @@
 ------ Montgomery(36057)    1    0    0
 ------ Allegany(36003)    2    0    0
 ------ Onondaga(36067)    1    0    0
----- NJ    109    2    0
------- Bergen(34003)    32    1    0
+---- NJ    122    2    0
+------ Bergen(34003)    42    1    0
 ------ Hudson(34017)    12    0    0
 ------ Monmouth(34025)    12    1    0
 ------ Burlington(34005)    6    0    0
@@ -810,7 +810,7 @@
 ------ Mercer(34021)    1    0    0
 ------ Ocean(34029)    3    0    0
 ------ Hunterdon(34019)    1    0    0
----- NV    26    0    0
+---- NV    45    1    0
 ------ Clark(32003)    16    0    0
 ------ Washoe(32031)    9    0    0
 ---- TN    39    0    0
@@ -852,13 +852,13 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    68    1    0
+---- PA    79    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
------- Montgomery(42091)    24    0    0
------- Monroe(42089)    6    0    0
------- Philadelphia(42101)    8    0    0
------- Bucks(42017)    4    0    0
+------ Montgomery(42091)    30    0    0
+------ Monroe(42089)    8    0    0
+------ Philadelphia(42101)    10    0    0
+------ Bucks(42017)    5    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    2    0    0
@@ -933,13 +933,14 @@
 ------ Honolulu(15003)    4    0    0
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    1    0    0
----- OK    8    0    1
+---- OK    10    0    1
 ------ Tulsa(40143)    3    0    0
 ------ Jackson(40065)    1    0    0
 ------ Oklahoma(40109)    1    0    0
------- Cleveland(40027)    1    0    0
+------ Cleveland(40027)    2    0    0
 ------ Payne(40119)    1    0    0
 ------ Kay(40071)    1    0    0
+------ Canadian(40017)    1    0    0
 ---- VA    52    1    0
 ------ Fairfax(51059)    10    0    0
 ------ Norfolk City(51710)    2    0    0
@@ -1118,8 +1119,8 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1319    3    1
--- Sweden    1103    7    1
+-- Norway    1321    3    1
+-- Sweden    1110    7    1
 -- Belgium    1085    5    1
 -- Austria    1018    3    8
 -- Denmark    914    4    1
@@ -1251,6 +1252,7 @@
 -- Cuba    4    0    0
 -- Trinidad and Tobago    4    0    0
 -- French Polynesia    3    0    0
+-- Gibraltar    3    0    1
 -- Kenya    3    0    0
 -- Seychelles    3    0    0
 -- Saint Barthélemy    3    0    0
@@ -1275,7 +1277,6 @@
 -- Antigua and Barbuda    1    0    0
 -- Cayman Islands    1    1    0
 -- Gabon    1    0    0
--- Gibraltar    1    0    1
 -- Guinea    1    0    0
 -- Mauritania    1    0    0
 -- Sudan    1    1    0
