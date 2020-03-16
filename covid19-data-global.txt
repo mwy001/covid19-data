@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    9682    342    530
+-- Spain    9942    342    530
 ---- Andalusia    437    5    0
 ---- Aragon    147    7    0
 ---- Balearic Islands    55    1    2
@@ -584,9 +584,9 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4547    85    74
----- WA    862    48    57
------- King(53033)    420    43    1
+-- United States of America    4570    86    74
+---- WA    872    48    57
+------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
 ------ Grant(53025)    3    1    0
 ------ Chelan(53007)    5    0    0
@@ -617,7 +617,7 @@
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
----- CA    531    6    6
+---- CA    537    7    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    38    0    1
@@ -627,7 +627,7 @@
 ------ San Mateo(06081)    41    1    0
 ------ Sonoma(06097)    5    0    0
 ------ Orange(06059)    17    0    0
------- Contra Costa(06013)    29    0    0
+------ Contra Costa(06013)    34    0    0
 ------ San Francisco(06075)    40    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    138    2    1
@@ -649,7 +649,8 @@
 ------ San Luis Obispo(06079)    3    0    0
 ------ San Bernardino(06071)    1    0    0
 ------ Santa Barbara(06083)    1    0    0
----- WI    47    0    1
+------ Nevada(06057)    1    0    0
+---- WI    48    0    1
 ------ Dane(55025)    10    0    1
 ------ Pierce(55093)    2    0    0
 ------ Fond du Lac(55039)    11    0    0
@@ -660,14 +661,15 @@
 ------ Winnebago(55139)    3    0    0
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
----- TX    84    0    0
+------ Kenosha(55059)    1    0    0
+---- TX    85    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    8    0    0
 ------ Gregg(48183)    4    0    0
 ------ Dallas(48113)    19    0    0
------- Tarrant(48439)    4    0    0
+------ Tarrant(48439)    5    0    0
 ------ Montgomery(48339)    4    0    0
 ------ Travis(48453)    6    0    0
 ------ Smith(48423)    4    0    0
@@ -676,7 +678,7 @@
 ------ Galveston(48167)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
------- Hays(48209)    1    0    0
+------ Hays(48209)    2    0    0
 ------ Matagorda(48321)    1    0    0
 ------ Denton(48121)    1    0    0
 ------ Bowie(48037)    1    0    0
@@ -920,10 +922,10 @@
 ------ Benton(27009)    1    0    0
 ---- RI    21    0    0
 ------ Providence(44007)    21    0    0
----- CT    40    0    0
------- Fairfield(09001)    20    0    0
------- Litchfield(09005)    3    0    0
------- Hartford(09003)    3    0    0
+---- CT    41    0    0
+------ Fairfield(09001)    29    0    0
+------ Litchfield(09005)    4    0    0
+------ Hartford(09003)    4    0    0
 ------ New Haven(09009)    4    0    0
 ---- SC    33    1    0
 ------ Charleston(45019)    1    0    0
@@ -966,6 +968,7 @@
 ------ Prince William(51153)    3    0    0
 ------ Chesterfield(51041)    2    0    0
 ------ Albemarle(51003)    1    0    0
+------ Henrico(51087)    1    0    0
 ---- KS    11    1    0
 ------ Johnson(20091)    8    0    0
 ------ Wyandotte(20209)    1    1    0
@@ -976,7 +979,7 @@
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    3    0    0
 ------ Henry(29083)    1    0    0
----- IA    22    0    0
+---- IA    23    0    0
 ------ Johnson(19103)    15    0    0
 ------ Pottawattamie(19155)    1    0    0
 ------ Carroll(19027)    1    0    0
@@ -1033,9 +1036,9 @@
 ------ Macomb(26099)    5    0    0
 ------ Monroe(26115)    1    0    0
 ------ Ottawa(26139)    1    0    0
----- NM    17    0    0
+---- NM    21    0    0
 ------ Socorro(35053)    2    0    0
------- Bernalillo(35001)    10    0    0
+------ Bernalillo(35001)    14    0    0
 ------ Santa Fe(35049)    3    0    0
 ------ Sandoval(35043)    2    0    0
 ---- AR    22    0    0
@@ -1055,6 +1058,7 @@
 ------ Pearl River(28109)    3    0    0
 ------ Hinds(28049)    2    0    0
 ------ Monroe(28095)    1    0    0
+------ Hancock(28045)    1    0    0
 ---- WY    3    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    1    0    0
@@ -1068,7 +1072,7 @@
 ---- DC    18    0    0
 ---- Others    12    0    0
 ---- AL    29    0    0
------- Montgomery(01101)    1    0    0
+------ Montgomery(01101)    2    0    0
 ------ Jefferson(01073)    17    0    0
 ------ Tuscaloosa(01125)    3    0    0
 ------ Elmore(01051)    1    0    0
@@ -1134,7 +1138,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1140    21    18
 -- Netherlands    1413    24    2
--- Norway    1337    3    1
+-- Norway    1340    3    1
 -- Sweden    1121    7    1
 -- Belgium    1085    10    1
 -- Austria    1018    3    8
@@ -1143,13 +1147,13 @@
 ---- Faroe Islands    11    0    0
 -- Malaysia    566    0    42
 -- Qatar    439    0    4
--- Canada    422    4    11
+-- Canada    423    4    11
 ---- British Columbia    103    4    4
 ---- Ontario    178    0    4
 ---- Alberta    56    0    0
 ---- Quebec    50    0    0
 ---- New Brunswick    7    0    0
----- Manitoba    7    0    0
+---- Manitoba    8    0    0
 ---- Saskatchewan    7    0    0
 ---- Grand Princess    2    0    0
 ---- Grand Princess Cruise Ship    8    0    0
@@ -1217,12 +1221,12 @@
 -- Armenia    45    0    1
 -- Hungary    39    1    2
 -- Palestine    39    0    0
+-- Morocco    38    1    1
 -- Belarus    36    0    3
 -- Costa Rica    35    0    0
 -- Latvia    34    0    1
 -- Georgia    33    0    1
 -- Malta    30    0    2
--- Morocco    29    1    1
 -- Jordan    29    0    1
 -- Moldova, Republic of    29    0    1
 -- Sri Lanka    28    0    1
@@ -1261,10 +1265,11 @@
 -- Honduras    6    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
+-- Cameroon    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
 -- Rwanda    5    0    0
--- Cameroon    4    0    0
+-- Mongolia    4    0    0
 -- Cuba    4    0    0
 -- Trinidad and Tobago    4    0    0
 -- French Polynesia    3    0    0
@@ -1286,7 +1291,6 @@
 -- Bhutan    1    0    0
 -- Togo    1    0    0
 -- Holy See    1    0    0
--- Mongolia    1    0    0
 -- Congo    1    0    0
 -- Côte d'Ivoire    1    0    0
 -- Antigua and Barbuda    1    0    0
