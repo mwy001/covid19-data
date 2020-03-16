@@ -542,7 +542,7 @@
 ---- Valencian Community    148    3    1
 ---- Melilla    3    0    0
 ---- Navarre    130    0    0
--- Germany    5813    11    46
+-- Germany    5813    13    46
 ---- Saxony    130    0    0
 ---- Mecklenburg-Vorpommern    50    0    0
 ---- Free State of Bavaria    886    4    14
@@ -614,7 +614,7 @@
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
----- CA    431    6    6
+---- CA    432    6    6
 ------ Los Angeles(06037)    69    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    16    0    1
@@ -628,7 +628,7 @@
 ------ San Francisco(06075)    37    0    0
 ------ Yolo(06113)    2    0    0
 ------ Santa Clara(06085)    114    2    1
------- Alameda(06001)    11    0    0
+------ Alameda(06001)    12    0    0
 ------ Madera(06039)    1    0    0
 ------ Fresno(06019)    2    0    0
 ------ Riverside(06065)    14    0    0
@@ -875,7 +875,7 @@
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
----- IN    20    0    0
+---- IN    21    0    0
 ------ Marion(18097)    6    0    0
 ------ Hendricks(18063)    2    0    0
 ------ Noble(18113)    1    0    0
@@ -888,6 +888,7 @@
 ------ LaPorte(18091)    1    0    0
 ------ Wells(18179)    1    0    0
 ------ Hamilton(18057)    1    0    0
+------ Floyd(18043)    1    0    0
 ---- MN    35    0    0
 ------ Ramsey(27123)    8    0    0
 ------ Jefferson(21111)    1    0    0
@@ -997,17 +998,18 @@
 ------ Lucas(39095)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    1    0    0
----- MI    45    0    0
------- Oakland(26125)    9    0    0
+---- MI    47    0    0
+------ Oakland(26125)    14    0    0
 ------ Wayne(26163)    8    0    0
------- Kent(26081)    3    0    0
+------ Kent(26081)    5    0    0
 ------ Washtenaw(26161)    7    0    0
 ------ Ingham(26065)    1    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
------- Macomb(26099)    2    0    0
+------ Macomb(26099)    5    0    0
 ------ Monroe(26115)    1    0    0
+------ Ottawa(26139)    1    0    0
 ---- NM    17    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    10    0    0
