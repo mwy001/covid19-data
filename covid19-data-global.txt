@@ -522,7 +522,7 @@
 ---- Sejong    39    0    0
 ---- Seoul    247    0    47
 ---- Ulsan    28    0    6
--- Spain    7843    292    517
+-- Spain    7845    292    517
 ---- Andalusia    269    2    0
 ---- Aragon    80    7    0
 ---- Balearic Islands    30    1    1
@@ -583,7 +583,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    3667    68    59
+-- United States of America    3668    68    59
 ---- WA    769    42    43
 ------ King(53033)    420    37    1
 ------ Snohomish(53061)    176    4    0
@@ -1032,12 +1032,12 @@
 ------ Cumberland(23005)    5    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
----- DC    16    0    0
+---- DC    18    0    0
 ---- Others    12    0    0
----- AL    13    0    0
+---- AL    14    0    0
 ------ Montgomery(01101)    1    0    0
 ------ Jefferson(01073)    7    0    0
------- Tuscaloosa(01125)    2    0    0
+------ Tuscaloosa(01125)    3    0    0
 ------ Elmore(01051)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Baldwin(01003)    1    0    0
@@ -1142,7 +1142,7 @@
 -- Estonia    171    0    1
 -- Ireland    170    2    1
 -- Hong Kong    149    4    81
--- Philippines    140    11    2
+-- Philippines    140    12    2
 -- Romania    139    0    9
 -- Egypt    126    2    27
 -- Poland    125    3    13
@@ -1196,9 +1196,9 @@
 -- Turkey    18    0    0
 -- Venezuela, Bolivarian Republic of    17    0    0
 -- Afghanistan    16    0    1
+-- Lithuania    14    0    1
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
--- Lithuania    12    0    1
 -- Dominican Republic    11    0    0
 -- Faroe Islands    11    0    0
 -- Macao    11    0    10
@@ -1216,11 +1216,11 @@
 -- Ghana    6    0    0
 -- Andorra    5    0    1
 -- Bangladesh    5    0    2
+-- Puerto Rico    5    0    0
 -- Rwanda    5    0    0
 -- Cameroon    4    0    0
 -- Cuba    4    0    0
 -- Guyana    4    1    0
--- Puerto Rico    4    0    0
 -- Ethiopia    4    0    0
 -- Uzbekistan    4    0    0
 -- Ukraine    3    1    0
