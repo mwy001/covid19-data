@@ -585,9 +585,9 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
--- United States of America    6308    103    106
----- WA    984    52    89
------- King(53033)    488    43    89
+-- United States of America    6431    107    106
+---- WA    1073    53    89
+------ King(53033)    569    46    89
 ------ Snohomish(53061)    266    4    89
 ------ Grant(53025)    7    1    89
 ------ Chelan(53007)    5    0    89
@@ -599,7 +599,7 @@
 ------ Kitsap(53035)    7    0    89
 ------ Skagit(53057)    9    0    89
 ------ Thurston(53067)    5    0    89
------- Island(53029)    7    0    89
+------ Island(53029)    14    0    89
 ------ Whatcom(53073)    5    0    89
 ------ Grays Harbor(53027)    1    0    89
 ------ Columbia(53013)    1    0    89
@@ -607,6 +607,7 @@
 ------ Lincoln(53043)    1    0    89
 ------ Cowlitz(53015)    1    0    89
 ------ Lewis(53041)    1    0    89
+------ Klickitat(53039)    1    0    89
 ---- IL    162    1    2
 ------ Cook(17031)    107    1    2
 ------ Kane(17089)    4    0    2
@@ -694,16 +695,16 @@
 ------ Webb(48479)    1    0    0
 ------ Rusk(48401)    1    0    0
 ------ Brazos(48041)    1    0    0
----- NH    17    0    0
------- Grafton(33009)    5    0    0
------- Rockingham(33015)    10    0    0
------- Hillsborough(33011)    1    0    0
+---- NH    26    0    0
+------ Grafton(33009)    7    0    0
+------ Rockingham(33015)    14    0    0
+------ Hillsborough(33011)    4    0    0
 ------ Carroll(33003)    1    0    0
----- FL    192    6    0
+---- FL    212    6    0
 ------ Hillsborough(12057)    7    0    0
 ------ Sarasota(12115)    3    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    43    1    0
+------ Broward(12011)    48    1    0
 ------ Lee(12071)    5    2    0
 ------ Manatee(12081)    6    0    0
 ------ Okaloosa(12091)    2    0    0
@@ -714,9 +715,9 @@
 ------ Alachua(12001)    4    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    2    0    0
------- Palm Beach(12099)    9    0    0
+------ Palm Beach(12099)    13    0    0
 ------ Clay(12019)    4    0    0
------- Duval(12031)    6    0    0
+------ Duval(12031)    10    0    0
 ------ Miami-Dade(12086)    23    0    0
 ------ Seminole(12117)    4    0    0
 ------ Orange(12095)    5    1    0
@@ -925,6 +926,7 @@
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
 ------ Bourbon(21017)    1    1    0
+------ Lyon(21143)    1    0    0
 ---- IN    31    2    0
 ------ Marion(18097)    9    1    0
 ------ Hendricks(18063)    3    0    0
@@ -979,6 +981,7 @@
 ------ Calhoun(45017)    1    0    0
 ------ Richland(45079)    1    0    0
 ------ York(45091)    1    0    0
+------ Fairfield(45039)    1    1    0
 ---- UT    51    0    0
 ------ Davis(49011)    4    0    0
 ------ Weber(49057)    1    0    0
@@ -986,10 +989,11 @@
 ------ Salt Lake(49035)    20    0    0
 ------ Tooele(49045)    1    0    0
 ------ Wasatch(49051)    2    0    0
----- HI    10    0    0
------- Honolulu(15003)    6    0    0
+---- HI    13    0    0
+------ Honolulu(15003)    8    0    0
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    2    0    0
+------ Hawaii(15001)    1    0    0
 ---- OK    19    0    1
 ------ Tulsa(40143)    3    0    1
 ------ Jackson(40065)    1    0    1
@@ -1015,9 +1019,9 @@
 ------ Henrico(51087)    3    0    1
 ------ Stafford(51179)    1    0    1
 ------ Goochland(51075)    1    0    1
----- KS    17    1    0
+---- KS    18    1    0
 ------ Johnson(20091)    10    0    0
------- Wyandotte(20209)    3    1    0
+------ Wyandotte(20209)    4    1    0
 ------ Butler(20015)    1    0    0
 ------ Sedgwick(20173)    1    0    0
 ------ Franklin(20059)    1    0    0
@@ -1165,6 +1169,7 @@
 ------ Teton(16081)    1    0    0
 ------ Madison(16065)    1    0    0
 ---- PR    5    0    0
+---- WV    1    0    0
 ---- VI    2    0    0
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
@@ -1231,13 +1236,13 @@
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
--- Canada    505    5    11
----- British Columbia    103    4    4
+-- Canada    595    8    11
+---- British Columbia    186    7    4
 ---- Ontario    188    1    5
 ---- Alberta    97    0    0
 ---- Quebec    74    0    0
 ---- New Brunswick    8    0    0
----- Manitoba    8    0    0
+---- Manitoba    15    0    0
 ---- Saskatchewan    8    0    0
 ---- Grand Princess    2    0    0
 ---- Grand Princess Cruise Ship    8    0    0
@@ -1400,3 +1405,4 @@
 -- Somalia    1    0    0
 -- Greenland    1    0    0
 -- Benin    1    0    0
+-- Gambia    1    0    0
