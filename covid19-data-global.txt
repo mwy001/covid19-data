@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4667    87    74
+-- United States of America    4681    87    74
 ---- WA    904    48    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
@@ -663,7 +663,7 @@
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
 ------ Kenosha(55059)    1    0    0
----- TX    86    0    0
+---- TX    90    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -688,7 +688,7 @@
 ------ Rockingham(33015)    10    0    0
 ------ Hillsborough(33011)    1    0    0
 ------ Carroll(33003)    1    0    0
----- FL    160    5    0
+---- FL    161    5    0
 ------ Hillsborough(12057)    5    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -712,7 +712,7 @@
 ------ Osceola(12097)    4    0    0
 ------ Citrus(12017)    1    0    0
 ------ Escambia(12033)    1    0    0
----- OR    39    1    0
+---- OR    47    1    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    13    0    0
 ------ Jackson(41029)    2    0    0
@@ -783,7 +783,7 @@
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
 ------ Iredell(37097)    1    0    0
----- NY    967    10    1
+---- NY    968    10    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    7    0
 ------ Nassau(36059)    109    0    0
@@ -808,7 +808,7 @@
 ------ Allegany(36003)    2    0    0
 ------ Onondaga(36067)    1    0    0
 ------ Ontario(36069)    1    0    0
----- NJ    178    3    0
+---- NJ    179    3    0
 ------ Bergen(34003)    61    2    0
 ------ Hudson(34017)    19    0    0
 ------ Monmouth(34025)    14    1    0
