@@ -450,7 +450,7 @@
 ---- Macau    11    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
--- Italy    27980    2158    2749
+-- Italy    31506    2503    2941
 ---- Abruzzo    176    4    7
 ---- Aosta Valley    105    2    0
 ---- Apulia    230    16    3
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    5686    97    74
+-- United States of America    5695    97    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -669,13 +669,13 @@
 ------ Wood(55141)    1    0    1
 ------ Outagamie(55087)    1    0    1
 ------ Kenosha(55059)    1    0    1
----- TX    97    2    0
+---- TX    106    2    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
 ------ Collin(48085)    8    0    0
 ------ Gregg(48183)    4    0    0
------- Dallas(48113)    19    0    0
+------ Dallas(48113)    28    0    0
 ------ Tarrant(48439)    6    0    0
 ------ Montgomery(48339)    4    0    0
 ------ Travis(48453)    10    0    0
@@ -889,7 +889,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    86    1    0
+---- PA    90    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    30    0    0
@@ -905,7 +905,7 @@
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
 ------ Beaver(42007)    1    0    0
----- NE    19    0    0
+---- NE    21    0    0
 ------ Douglas(31055)    17    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
@@ -987,6 +987,7 @@
 ------ Payne(40119)    1    0    1
 ------ Kay(40071)    2    0    1
 ------ Canadian(40017)    2    0    1
+------ Pawnee(40117)    1    0    1
 ---- VA    67    2    1
 ------ Fairfax(51059)    12    0    1
 ------ Norfolk City(51710)    2    0    0
@@ -1005,7 +1006,7 @@
 ------ Goochland(51075)    1    0    1
 ---- KS    16    1    0
 ------ Johnson(20091)    10    0    0
------- Wyandotte(20209)    1    1    0
+------ Wyandotte(20209)    3    1    0
 ------ Butler(20015)    1    0    0
 ------ Sedgwick(20173)    1    0    0
 ------ Franklin(20059)    1    0    0
@@ -1139,7 +1140,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
 -- Switzerland    2742    27    15
--- United Kingdom of Great Britain and Northern Ireland    1950    56    52
+-- United Kingdom of Great Britain and Northern Ireland    1950    71    52
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    1    0    1
@@ -1191,7 +1192,7 @@
 -- Netherlands    1705    43    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1444    3    1
+-- Norway    1452    3    1
 -- Austria    1332    4    8
 -- Belgium    1243    10    14
 -- Sweden    1191    8    1
@@ -1224,14 +1225,14 @@
 -- Portugal    448    1    3
 -- Qatar    439    0    4
 -- Czechia    396    0    3
--- Greece    387    5    10
+-- Greece    387    5    14
 -- Israel    344    0    11
 -- Finland    322    0    10
 -- Brazil    301    1    2
 -- Slovenia    275    1    0
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
--- Bahrain    237    1    81
+-- Bahrain    241    1    81
 -- Pakistan    236    1    2
 -- Estonia    225    0    1
 -- Iceland    225    5    8
@@ -1241,7 +1242,7 @@
 -- Chile    201    0    0
 -- Philippines    187    12    5
 -- Thailand    177    1    41
--- Indonesia    172    5    8
+-- Indonesia    172    7    8
 -- Saudi Arabia    171    0    6
 -- Egypt    169    4    32
 -- Hong Kong    162    4    81
@@ -1255,34 +1256,34 @@
 -- Ecuador    111    2    0
 -- San Marino    109    9    4
 -- United Arab Emirates    98    0    26
--- Slovakia    84    0    0
+-- Slovakia    97    0    0
 -- Mexico    82    0    4
 -- Bulgaria    81    2    0
 -- Taiwan    77    1    20
 -- Armenia    72    0    1
+-- Serbia    72    0    1
 -- Nigeria    69    0    1
 -- Panama    69    1    0
 -- Argentina    68    2    3
 -- Croatia    67    0    5
 -- Viet Nam    66    0    16
 -- Colombia    65    0    1
--- Serbia    65    0    1
 -- South Africa    64    0    0
 -- Algeria    60    5    12
 -- Latvia    60    0    1
 -- Brunei Darussalam    56    0    0
 -- Albania    55    1    0
 -- Hungary    50    1    2
+-- Cyprus    49    0    0
 -- Turkey    47    0    0
 -- Faroe Islands    47    0    0
--- Cyprus    46    0    0
 -- Sri Lanka    44    0    2
 -- Costa Rica    41    0    0
 -- Palestine    41    0    0
+-- Jordan    40    0    1
 -- Morocco    38    2    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
--- Jordan    35    0    1
 -- Georgia    34    0    1
 -- Cambodia    33    0    1
 -- Kazakhstan    33    0    0
