@@ -504,7 +504,7 @@
 ---- North Khorasan    100    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    42    0    0
--- Spain    11409    510    1028
+-- Spain    11748    533    1028
 ---- Andalusia    683    7    0
 ---- Aragon    207    11    0
 ---- Balearic Islands    92    1    2
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    5875    99    74
+-- United States of America    5915    99    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -623,7 +623,7 @@
 ------ Peoria(17143)    1    0    2
 ------ Whiteside(17195)    1    0    2
 ------ Winnebago(17201)    1    0    2
----- CA    599    11    6
+---- CA    600    11    6
 ------ Los Angeles(06037)    94    1    6
 ------ San Benito(06069)    3    0    6
 ------ San Diego(06073)    55    0    6
@@ -635,7 +635,7 @@
 ------ Orange(06059)    22    0    6
 ------ Contra Costa(06013)    34    0    6
 ------ San Francisco(06075)    43    0    6
------- Yolo(06113)    2    0    6
+------ Yolo(06113)    3    0    6
 ------ Santa Clara(06085)    138    4    6
 ------ Alameda(06001)    18    0    6
 ------ Madera(06039)    1    0    6
@@ -657,18 +657,18 @@
 ------ Santa Barbara(06083)    1    0    6
 ------ Nevada(06057)    1    0    6
 ------ Amador(06005)    1    0    6
----- WI    48    0    1
------- Dane(55025)    10    0    1
+---- WI    72    0    1
+------ Dane(55025)    19    0    1
 ------ Pierce(55093)    2    0    1
 ------ Fond du Lac(55039)    11    0    0
------- Waukesha(55133)    3    0    1
+------ Waukesha(55133)    4    0    1
 ------ Sheboygan(55117)    3    0    1
------- Milwaukee(55079)    13    0    1
+------ Milwaukee(55079)    24    0    1
 ------ Racine(55101)    1    0    1
 ------ Winnebago(55139)    3    0    1
 ------ Wood(55141)    1    0    1
 ------ Outagamie(55087)    1    0    1
------- Kenosha(55059)    1    0    1
+------ Kenosha(55059)    4    0    1
 ---- TX    110    2    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    16    0    0
@@ -852,11 +852,11 @@
 ------ Clark(32003)    35    1    0
 ------ Washoe(32031)    12    0    0
 ---- TN    73    0    0
------- Williamson(47187)    18    0    0
------- Davidson(47037)    31    0    0
+------ Williamson(47187)    21    0    0
+------ Davidson(47037)    42    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
------- Knox(47093)    1    0    0
+------ Knox(47093)    2    0    0
 ------ Hamilton(47065)    1    0    0
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
@@ -967,7 +967,7 @@
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
 ------ Lexington(45063)    2    2    0
------- Horry(45051)    3    0    0
+------ Horry(45051)    4    0    0
 ------ Anderson(45007)    2    0    0
 ------ Greenville(45045)    1    0    0
 ------ Georgetown(45043)    1    0    0
@@ -1133,7 +1133,7 @@
 ------ Anchorage(02020)    1    0    0
 ------ Fairbanks North Star(02090)    2    0    0
 ---- DC    22    0    0
----- Others    12    0    0
+---- Others    13    0    0
 ---- AL    36    0    0
 ------ Montgomery(01101)    2    0    0
 ------ Jefferson(01073)    20    0    0
@@ -1207,7 +1207,7 @@
 -- Netherlands    1705    43    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1458    3    1
+-- Norway    1463    3    1
 -- Austria    1332    4    8
 -- Belgium    1243    10    14
 -- Sweden    1191    8    1
@@ -1215,11 +1215,11 @@
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
--- Canada    469    5    11
+-- Canada    478    5    11
 ---- British Columbia    103    4    4
 ---- Ontario    186    1    5
 ---- Alberta    74    0    0
----- Quebec    64    0    0
+---- Quebec    73    0    0
 ---- New Brunswick    8    0    0
 ---- Manitoba    8    0    0
 ---- Saskatchewan    7    0    0
