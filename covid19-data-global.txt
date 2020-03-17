@@ -585,11 +585,11 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4706    93    74
+-- United States of America    4708    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
------- Grant(53025)    4    1    0
+------ Grant(53025)    7    1    0
 ------ Chelan(53007)    5    0    0
 ------ Clark(53011)    4    0    0
 ------ Jefferson(53031)    3    0    0
@@ -614,11 +614,15 @@
 ------ Lake(17097)    4    0    0
 ------ Coles(17029)    1    0    0
 ------ Cumberland(17035)    2    0    0
------- DuPage(17043)    1    0    0
+------ DuPage(17043)    3    0    0
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
+------ Clinton(17027)    1    0    0
+------ Peoria(17143)    1    0    0
+------ Whiteside(17195)    1    0    0
+------ Winnebago(17201)    1    0    0
 ---- CA    562    11    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
@@ -770,7 +774,7 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    4    0    0
 ------ Graham(04009)    1    0    0
----- NC    40    0    0
+---- NC    41    0    0
 ------ Wake(37183)    15    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -787,6 +791,7 @@
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
 ------ Iredell(37097)    1    0    0
+------ Sampson(37163)    1    0    0
 ---- NY    969    10    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    7    0
@@ -1036,12 +1041,12 @@
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    2    0    0
 ------ Geauga(39055)    1    0    0
----- MI    54    0    0
+---- MI    55    0    0
 ------ Oakland(26125)    14    0    0
 ------ Wayne(26163)    14    0    0
 ------ Kent(26081)    5    0    0
 ------ Washtenaw(26161)    7    0    0
------- Ingham(26065)    1    0    0
+------ Ingham(26065)    2    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
@@ -1265,12 +1270,12 @@
 -- Maldives    13    0    0
 -- Cambodia    12    0    1
 -- Macao    12    0    10
+-- New Zealand    11    0    0
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
 -- Kazakhstan    10    0    0
 -- Monaco    9    0    0
 -- Réunion    9    0    0
--- New Zealand    8    0    0
 -- Bangladesh    8    0    3
 -- Paraguay    8    0    0
 -- Guatemala    8    1    0
