@@ -544,7 +544,7 @@
 ---- Seoul    265    0    55
 ---- Ulsan    28    0    8
 ---- 未确定地区    6    0    0
--- Germany    7588    17    67
+-- Germany    7610    17    67
 ---- Saxony    152    0    0
 ---- Mecklenburg-Vorpommern    51    0    0
 ---- Free State of Bavaria    1067    5    14
@@ -668,7 +668,7 @@
 ------ Wood(55141)    1    0    1
 ------ Outagamie(55087)    1    0    1
 ------ Kenosha(55059)    1    0    1
----- TX    95    1    0
+---- TX    95    2    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -1168,10 +1168,10 @@
 -- Netherlands    1414    24    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1360    3    1
+-- Norway    1366    3    1
 -- Belgium    1243    10    1
 -- Austria    1211    3    8
--- Sweden    1121    7    1
+-- Sweden    1125    7    1
 -- Denmark    960    4    1
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
@@ -1221,6 +1221,7 @@
 -- Egypt    166    4    32
 -- Hong Kong    162    4    81
 -- Chile    156    0    0
+-- Luxembourg    140    1    0
 -- Iraq    133    10    32
 -- Saudi Arabia    133    0    6
 -- India    130    3    13
@@ -1228,7 +1229,6 @@
 -- Lebanon    120    3    3
 -- San Marino    109    9    4
 -- United Arab Emirates    98    0    23
--- Luxembourg    94    1    0
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
 -- Mexico    82    0    4
@@ -1240,13 +1240,13 @@
 -- Croatia    65    0    4
 -- Argentina    65    2    3
 -- Serbia    65    0    1
+-- Armenia    64    0    1
 -- South Africa    64    0    0
 -- Viet Nam    61    0    16
 -- Algeria    60    4    12
 -- Ecuador    58    2    0
 -- Colombia    57    0    1
 -- Brunei Darussalam    56    0    0
--- Armenia    52    0    1
 -- Albania    51    1    0
 -- Hungary    50    1    2
 -- Latvia    49    0    1
@@ -1257,16 +1257,16 @@
 -- Palestine    40    0    0
 -- Morocco    38    2    1
 -- Belarus    36    0    3
+-- Jordan    35    0    1
 -- Georgia    34    0    1
--- Jordan    34    0    1
 -- Venezuela, Bolivarian Republic of    33    0    0
+-- Kazakhstan    32    0    0
 -- Malta    30    0    2
 -- Sri Lanka    29    0    2
 -- Moldova, Republic of    29    0    1
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
--- Kazakhstan    27    0    0
 -- Bosnia and Herzegovina    25    0    2
 -- Cambodia    24    0    1
 -- Oman    24    0    12
@@ -1298,12 +1298,12 @@
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
 -- Cameroon    5    0    0
+-- Cuba    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
 -- Trinidad and Tobago    5    0    0
 -- Guam    5    0    0
 -- Mongolia    4    0    0
--- Cuba    4    0    0
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
 -- Aruba    3    0    0
