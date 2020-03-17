@@ -504,25 +504,25 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    11178    491    1028
----- Andalusia    554    7    0
----- Aragon    174    11    0
----- Balearic Islands    73    1    2
----- Basque Country    630    22    9
----- Canary Islands    119    1    7
+-- Spain    11279    497    1028
+---- Andalusia    683    7    0
+---- Aragon    207    11    0
+---- Balearic Islands    92    1    2
+---- Basque Country    765    22    9
+---- Canary Islands    148    1    7
 ---- Cantabria    58    0    10
----- Castile and León    334    9    2
+---- Castile and León    431    9    2
 ---- Castile-La Mancha    567    17    13
----- Catalonia    903    12    3
----- Community of Madrid    4165    253    109
----- Comunidad Foral de Navarra    274    1    0
----- Extremadura    111    2    5
----- Galicia    245    2    3
----- Principality of Asturias    177    1    3
----- Región de Murcia    78    0    0
----- Rioja    312    4    1
----- Valencian Community    409    5    1
----- Melilla    8    0    0
+---- Catalonia    1394    12    3
+---- Community of Madrid    4871    253    109
+---- Comunidad Foral de Navarra    313    1    0
+---- Extremadura    153    2    5
+---- Galicia    292    2    3
+---- Principality of Asturias    193    1    3
+---- Región de Murcia    97    0    0
+---- Rioja    355    4    1
+---- Valencian Community    541    5    1
+---- Melilla    17    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Korea, Republic of    8320    81    1401
@@ -1125,31 +1125,31 @@
 ---- Nagano    4    0    0
 ---- Tochigi    2    0    0
 ---- Kumamoto    6    0    0
----- Saitama    29    0    0
+---- Saitama    34    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    3    0    0
----- Tokyo    90    2    0
+---- Tokyo    102    2    0
 ---- Wakayama    15    1    2
 ---- Kyoto    17    0    2
----- Osaka    108    0    1
+---- Osaka    112    0    1
 ---- Chiba    31    0    0
----- Kanagawa    55    3    1
+---- Kanagawa    59    3    1
 ---- Shizuoka    3    0    0
----- Aichi    123    14    2
+---- Aichi    124    14    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    8    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    2    0    0
----- hyogo    82    2    0
+---- hyogo    86    2    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
----- Miyazaki    1    0    0
----- Shiga    3    0    0
+---- Miyazaki    3    0    0
+---- Shiga    4    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    1    0    0
----- Gunma    6    0    0
+---- Gunma    10    0    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
@@ -1165,7 +1165,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1543    55    20
 ---- Cayman Islands    1    1    0
--- Norway    1417    3    1
+-- Norway    1419    3    1
 -- Netherlands    1414    24    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
@@ -1185,6 +1185,7 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
+-- Portugal    448    1    3
 -- Canada    441    4    11
 ---- British Columbia    103    4    4
 ---- Ontario    178    0    5
@@ -1201,9 +1202,8 @@
 -- Qatar    439    0    4
 -- Czechia    383    0    3
 -- Greece    352    4    10
--- Israel    344    0    5
--- Portugal    332    1    3
--- Finland    294    0    10
+-- Israel    344    0    11
+-- Finland    321    0    10
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
@@ -1222,23 +1222,23 @@
 -- Hong Kong    162    4    81
 -- Chile    156    0    0
 -- Iraq    154    11    41
+-- India    153    3    14
 -- Luxembourg    140    1    0
 -- Saudi Arabia    133    0    6
--- India    130    3    13
 -- Kuwait    130    0    12
 -- Lebanon    120    3    3
 -- San Marino    109    9    4
 -- United Arab Emirates    98    0    26
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
+-- Slovakia    84    0    0
 -- Mexico    82    0    4
--- Slovakia    78    0    0
 -- Taiwan    77    1    20
 -- Nigeria    69    0    1
 -- Panama    69    1    0
+-- Argentina    68    2    3
 -- Bulgaria    67    2    0
 -- Croatia    65    0    4
--- Argentina    65    2    3
 -- Serbia    65    0    1
 -- Armenia    64    0    1
 -- South Africa    64    0    0
@@ -1247,7 +1247,7 @@
 -- Ecuador    58    2    0
 -- Colombia    57    0    1
 -- Brunei Darussalam    56    0    0
--- Albania    51    1    0
+-- Albania    55    1    0
 -- Hungary    50    1    2
 -- Latvia    49    0    1
 -- Turkey    47    0    0
@@ -1267,14 +1267,14 @@
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
+-- North Macedonia    26    0    1
 -- Bosnia and Herzegovina    26    0    2
 -- Cambodia    24    0    1
 -- Oman    24    0    12
--- North Macedonia    24    0    1
 -- Tunisia    24    0    0
 -- Afghanistan    22    0    1
 -- Dominican Republic    21    1    0
--- Lithuania    18    0    1
+-- Lithuania    20    0    1
 -- Martinique    15    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
@@ -1284,9 +1284,9 @@
 -- New Zealand    12    0    0
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
+-- Uzbekistan    11    0    0
 -- Cameroon    10    0    0
 -- Bangladesh    10    0    3
--- Uzbekistan    10    0    0
 -- Monaco    9    0    0
 -- Paraguay    9    0    0
 -- Réunion    9    0    0
