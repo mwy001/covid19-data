@@ -1243,21 +1243,21 @@
 -- Brunei Darussalam    54    0    0
 -- Armenia    52    0    1
 -- Albania    51    1    0
+-- Hungary    50    1    2
 -- Turkey    47    0    0
 -- Cyprus    46    0    0
 -- Costa Rica    41    0    0
--- Hungary    39    1    2
 -- Palestine    39    0    0
 -- Morocco    38    1    1
 -- Belarus    36    0    3
 -- Latvia    34    0    1
 -- Georgia    33    0    1
+-- Jordan    33    0    1
 -- Venezuela, Bolivarian Republic of    33    0    0
 -- Malta    30    0    2
--- Jordan    29    0    1
+-- Sri Lanka    29    0    1
 -- Moldova, Republic of    29    0    1
 -- Uruguay    29    0    0
--- Sri Lanka    28    0    1
 -- Senegal    27    0    2
 -- Azerbaijan    25    1    6
 -- Bosnia and Herzegovina    25    0    2
