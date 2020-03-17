@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4801    94    74
+-- United States of America    5243    94    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -696,22 +696,22 @@
 ------ Rockingham(33015)    10    0    0
 ------ Hillsborough(33011)    1    0    0
 ------ Carroll(33003)    1    0    0
----- FL    162    5    0
------- Hillsborough(12057)    5    0    0
+---- FL    192    5    0
+------ Hillsborough(12057)    7    0    0
 ------ Sarasota(12115)    3    0    0
 ------ Santa Rosa(12113)    1    1    0
------- Broward(12011)    39    0    0
+------ Broward(12011)    43    0    0
 ------ Lee(12071)    5    2    0
------- Manatee(12081)    5    0    0
+------ Manatee(12081)    6    0    0
 ------ Okaloosa(12091)    1    0    0
------- Volusia(12127)    7    0    0
+------ Volusia(12127)    10    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Collier(12021)    6    0    0
 ------ Pinellas(12103)    4    0    0
 ------ Alachua(12001)    4    0    0
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    2    0    0
------- Palm Beach(12099)    8    0    0
+------ Palm Beach(12099)    9    0    0
 ------ Clay(12019)    3    0    0
 ------ Duval(12031)    5    0    0
 ------ Miami-Dade(12086)    23    0    0
@@ -795,7 +795,7 @@
 ------ Wilson(37195)    1    0    0
 ------ Iredell(37097)    1    0    0
 ------ Sampson(37163)    1    0    0
----- NY    969    10    1
+---- NY    1374    10    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    7    0
 ------ Nassau(36059)    109    0    0
@@ -1119,7 +1119,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2672    21    4
+-- Switzerland    2674    21    4
 -- United Kingdom of Great Britain and Northern Ireland    1950    56    52
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1172,9 +1172,9 @@
 -- Netherlands    1705    43    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1437    3    1
+-- Norway    1438    3    1
+-- Austria    1332    4    8
 -- Belgium    1243    10    14
--- Austria    1211    4    8
 -- Sweden    1190    7    1
 -- Denmark    960    4    1
 ---- Denmark    914    3    1
@@ -1189,10 +1189,9 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
--- Portugal    448    1    3
--- Canada    441    4    11
+-- Canada    449    4    11
 ---- British Columbia    103    4    4
----- Ontario    178    0    5
+---- Ontario    185    0    5
 ---- Alberta    74    0    0
 ---- Quebec    50    0    0
 ---- New Brunswick    7    0    0
@@ -1203,6 +1202,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    5    0    0
+-- Portugal    448    1    3
 -- Qatar    439    0    4
 -- Czechia    396    0    3
 -- Greece    352    4    10
@@ -1257,7 +1257,7 @@
 -- Turkey    47    0    0
 -- Faroe Islands    47    0    0
 -- Cyprus    46    0    0
--- Sri Lanka    43    0    2
+-- Sri Lanka    44    0    2
 -- Costa Rica    41    0    0
 -- Palestine    41    0    0
 -- Morocco    38    2    1
