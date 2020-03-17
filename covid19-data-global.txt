@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    11279    497    1028
+-- Spain    11409    499    1028
 ---- Andalusia    683    7    0
 ---- Aragon    207    11    0
 ---- Balearic Islands    92    1    2
@@ -1116,7 +1116,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2354    21    4
+-- Switzerland    2672    21    4
 -- Japan    1848    28    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
@@ -1156,6 +1156,9 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    1    0    0
 ---- Kagawa    1    0    0
+-- Netherlands    1705    43    2
+---- Netherlands    1413    24    2
+---- Curacao    1    0    0
 -- United Kingdom of Great Britain and Northern Ireland    1551    56    52
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1167,12 +1170,9 @@
 ---- United Kingdom    1543    55    20
 ---- Cayman Islands    1    1    0
 -- Norway    1419    3    1
--- Netherlands    1414    24    2
----- Netherlands    1413    24    2
----- Curacao    1    0    0
 -- Belgium    1243    10    1
--- Austria    1211    3    8
--- Sweden    1125    7    1
+-- Austria    1211    4    8
+-- Sweden    1140    7    1
 -- Denmark    960    4    1
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
@@ -1201,27 +1201,27 @@
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    5    0    0
 -- Qatar    439    0    4
--- Czechia    383    0    3
+-- Czechia    396    0    3
 -- Greece    352    4    10
 -- Israel    344    0    11
 -- Finland    321    0    10
--- Slovenia    253    1    0
+-- Brazil    301    0    2
+-- Slovenia    273    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    237    1    81
--- Brazil    234    0    2
 -- Estonia    225    0    1
 -- Ireland    223    2    5
+-- Poland    221    5    13
 -- Iceland    220    5    8
 -- Pakistan    212    1    2
--- Poland    205    5    13
 -- Philippines    187    12    5
 -- Romania    184    0    16
+-- Chile    181    0    0
 -- Thailand    177    1    41
 -- Indonesia    172    5    8
 -- Egypt    166    4    32
 -- Hong Kong    162    4    81
--- Chile    156    0    0
 -- Iraq    154    11    41
 -- India    153    3    14
 -- Luxembourg    140    1    0
@@ -1264,7 +1264,7 @@
 -- Georgia    34    0    1
 -- Venezuela, Bolivarian Republic of    33    0    0
 -- Kazakhstan    32    0    0
--- Moldova, Republic of    29    0    1
+-- Moldova, Republic of    30    0    1
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
@@ -1299,17 +1299,17 @@
 -- Rwanda    7    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
+-- Mongolia    5    0    0
 -- Cuba    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
 -- Trinidad and Tobago    5    0    0
 -- Guam    5    0    0
--- Mongolia    4    0    0
+-- Kenya    4    0    0
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
 -- Aruba    3    0    0
 -- Gibraltar    3    0    1
--- Kenya    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Saint Martin (French part)    2    0    0
 -- Saint Lucia    2    0    0
