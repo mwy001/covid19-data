@@ -585,29 +585,29 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
--- United States of America    6211    102    74
----- WA    908    52    57
------- King(53033)    488    43    57
------- Snohomish(53061)    200    4    57
------- Grant(53025)    7    1    57
------- Chelan(53007)    5    0    57
------- Clark(53011)    4    2    57
------- Jefferson(53031)    3    0    57
------- Pierce(53053)    38    0    57
------- Kittitas(53037)    3    0    57
------- Spokane(53063)    3    0    57
------- Kitsap(53035)    7    0    57
------- Skagit(53057)    7    0    57
------- Thurston(53067)    4    0    57
------- Island(53029)    7    0    57
------- Whatcom(53073)    5    0    57
------- Grays Harbor(53027)    1    0    57
------- Columbia(53013)    1    0    57
------- Yakima(53077)    4    0    57
------- Lincoln(53043)    1    0    57
------- Cowlitz(53015)    1    0    57
------- Lewis(53041)    1    0    57
----- IL    161    1    2
+-- United States of America    6308    103    106
+---- WA    984    52    89
+------ King(53033)    488    43    89
+------ Snohomish(53061)    266    4    89
+------ Grant(53025)    7    1    89
+------ Chelan(53007)    5    0    89
+------ Clark(53011)    4    2    89
+------ Jefferson(53031)    3    0    89
+------ Pierce(53053)    45    0    89
+------ Kittitas(53037)    3    0    89
+------ Spokane(53063)    3    0    89
+------ Kitsap(53035)    7    0    89
+------ Skagit(53057)    9    0    89
+------ Thurston(53067)    5    0    89
+------ Island(53029)    7    0    89
+------ Whatcom(53073)    5    0    89
+------ Grays Harbor(53027)    1    0    89
+------ Columbia(53013)    1    0    89
+------ Yakima(53077)    4    0    89
+------ Lincoln(53043)    1    0    89
+------ Cowlitz(53015)    1    0    89
+------ Lewis(53041)    1    0    89
+---- IL    162    1    2
 ------ Cook(17031)    107    1    2
 ------ Kane(17089)    4    0    2
 ------ McHenry(17111)    2    0    0
@@ -616,14 +616,14 @@
 ------ Cumberland(17035)    2    0    2
 ------ DuPage(17043)    5    0    0
 ------ Woodford(17203)    2    0    2
------- Sangamon(17167)    4    0    2
+------ Sangamon(17167)    5    0    2
 ------ Champaign(17019)    1    0    2
 ------ Will(17197)    2    0    2
 ------ Clinton(17027)    2    0    2
 ------ Peoria(17143)    1    0    2
 ------ Whiteside(17195)    1    0    2
 ------ Winnebago(17201)    1    0    2
----- CA    705    12    6
+---- CA    707    12    6
 ------ Los Angeles(06037)    144    1    6
 ------ San Benito(06069)    3    0    6
 ------ San Diego(06073)    55    0    6
@@ -658,6 +658,7 @@
 ------ Nevada(06057)    1    0    6
 ------ Amador(06005)    1    0    6
 ------ Kern(06029)    1    0    6
+------ Monterey(06053)    2    0    6
 ---- WI    72    0    1
 ------ Dane(55025)    19    0    1
 ------ Pierce(55093)    2    0    1
@@ -852,7 +853,7 @@
 ------ Ocean(34029)    4    0    0
 ------ Hunterdon(34019)    4    0    0
 ------ Gloucester(34015)    2    0    0
----- NV    55    1    0
+---- NV    56    1    0
 ------ Clark(32003)    42    1    0
 ------ Washoe(32031)    12    0    0
 ---- TN    74    0    0
@@ -877,20 +878,20 @@
 ------ Howard(24027)    4    0    4
 ------ Talbot(24041)    1    0    4
 ------ Frederick(24021)    1    0    4
----- CO    164    1    0
------- Denver(08031)    25    0    0
------- Summit(08117)    2    0    0
+---- CO    167    2    0
+------ Denver(08031)    26    0    0
+------ Summit(08117)    5    0    0
 ------ Douglas(08035)    8    0    0
 ------ El Paso(08041)    4    1    0
 ------ Eagle(08037)    24    0    0
------- Larimer(08069)    2    0    0
+------ Larimer(08069)    3    0    0
 ------ Arapahoe(08005)    15    0    0
 ------ Gunnison(08051)    8    0    0
 ------ Jefferson(08059)    14    0    0
 ------ Pitkin(08097)    15    0    0
 ------ Adams(08001)    6    0    0
 ------ Boulder(08013)    11    0    0
------- Weld(08123)    5    0    0
+------ Weld(08123)    6    1    0
 ------ Pueblo(08101)    1    0    0
 ------ Routt(08107)    3    0    0
 ------ Mesa(08077)    1    0    0
@@ -916,7 +917,7 @@
 ------ Douglas(31055)    19    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    25    1    0
+---- KY    26    1    0
 ------ Fayette(21067)    7    0    0
 ------ Harrison(21097)    6    0    0
 ------ Jefferson(21111)    7    0    0
@@ -966,7 +967,7 @@
 ------ New Haven(09009)    8    0    0
 ---- SC    48    2    0
 ------ Charleston(45019)    3    0    0
------- Kershaw(45055)    20    0    0
+------ Kershaw(45055)    22    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    4    0    0
@@ -1042,7 +1043,7 @@
 ------ Windsor(50027)    3    0    0
 ------ Washington(50023)    1    0    0
 ------ Orange(50017)    1    0    0
----- LA    175    4    0
+---- LA    196    4    0
 ------ Jefferson(22051)    31    4    0
 ------ Orleans(22071)    116    3    0
 ------ Iberia(22045)    1    0    0
@@ -1222,22 +1223,22 @@
 -- Netherlands    1705    43    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1469    3    1
+-- Norway    1470    3    1
 -- Austria    1332    4    8
 -- Belgium    1243    10    14
--- Sweden    1191    8    1
+-- Sweden    1196    8    1
 -- Denmark    977    4    1
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
--- Canada    502    5    11
+-- Canada    505    5    11
 ---- British Columbia    103    4    4
----- Ontario    186    1    5
+---- Ontario    188    1    5
 ---- Alberta    97    0    0
 ---- Quebec    74    0    0
 ---- New Brunswick    8    0    0
 ---- Manitoba    8    0    0
----- Saskatchewan    7    0    0
+---- Saskatchewan    8    0    0
 ---- Grand Princess    2    0    0
 ---- Grand Princess Cruise Ship    8    0    0
 ---- Prince Edward Island    1    0    0
@@ -1288,6 +1289,7 @@
 -- Ecuador    111    2    0
 -- Turkey    98    1    0
 -- Slovakia    97    0    0
+-- South Africa    85    0    0
 -- Mexico    82    0    4
 -- Bulgaria    81    2    0
 -- Armenia    78    0    1
@@ -1299,8 +1301,7 @@
 -- Argentina    68    2    3
 -- Viet Nam    66    0    16
 -- Colombia    65    0    1
--- South Africa    64    0    0
--- Algeria    60    5    12
+-- Algeria    61    5    12
 -- Latvia    60    0    1
 -- Brunei Darussalam    56    0    0
 -- Albania    55    1    0
