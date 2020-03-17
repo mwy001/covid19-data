@@ -585,25 +585,25 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
--- United States of America    6431    107    106
----- WA    1073    53    89
+-- United States of America    6439    109    106
+---- WA    1076    55    89
 ------ King(53033)    569    46    89
------- Snohomish(53061)    266    4    89
+------ Snohomish(53061)    266    6    89
 ------ Grant(53025)    7    1    89
 ------ Chelan(53007)    5    0    89
 ------ Clark(53011)    4    2    89
 ------ Jefferson(53031)    3    0    89
 ------ Pierce(53053)    45    0    89
 ------ Kittitas(53037)    3    0    89
------- Spokane(53063)    3    0    89
+------ Spokane(53063)    4    0    89
 ------ Kitsap(53035)    7    0    89
 ------ Skagit(53057)    9    0    89
 ------ Thurston(53067)    5    0    89
 ------ Island(53029)    14    0    89
------- Whatcom(53073)    5    0    89
+------ Whatcom(53073)    6    0    89
 ------ Grays Harbor(53027)    1    0    89
 ------ Columbia(53013)    1    0    89
------- Yakima(53077)    4    0    89
+------ Yakima(53077)    5    0    89
 ------ Lincoln(53043)    1    0    89
 ------ Cowlitz(53015)    1    0    89
 ------ Lewis(53041)    1    0    89
@@ -700,13 +700,13 @@
 ------ Rockingham(33015)    14    0    0
 ------ Hillsborough(33011)    4    0    0
 ------ Carroll(33003)    1    0    0
----- FL    212    6    0
------- Hillsborough(12057)    7    0    0
+---- FL    216    6    0
+------ Hillsborough(12057)    9    0    0
 ------ Sarasota(12115)    3    0    0
 ------ Santa Rosa(12113)    1    1    0
 ------ Broward(12011)    48    1    0
 ------ Lee(12071)    5    2    0
------- Manatee(12081)    6    0    0
+------ Manatee(12081)    7    0    0
 ------ Okaloosa(12091)    2    0    0
 ------ Volusia(12127)    10    0    0
 ------ Charlotte(12015)    1    0    0
@@ -720,12 +720,13 @@
 ------ Duval(12031)    10    0    0
 ------ Miami-Dade(12086)    23    0    0
 ------ Seminole(12117)    4    0    0
------- Orange(12095)    5    1    0
+------ Orange(12095)    6    1    0
 ------ Osceola(12097)    6    0    0
 ------ Citrus(12017)    2    0    0
 ------ Escambia(12033)    1    0    0
 ------ Brevard(12009)    1    0    0
 ------ Lake(12069)    1    0    0
+------ Polk(12105)    1    0    0
 ---- OR    66    1    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    21    0    0
@@ -815,7 +816,7 @@
 ------ Saratoga(36091)    9    0    0
 ------ Suffolk(36103)    97    3    0
 ------ Ulster(36111)    8    0    0
------- Albany(36001)    23    0    0
+------ Albany(36001)    25    0    0
 ------ Delaware(36025)    1    0    0
 ------ Dutchess(36027)    16    0    0
 ------ Herkimer(36043)    1    0    0
@@ -1027,12 +1028,13 @@
 ------ Franklin(20059)    1    0    0
 ------ Ford(20057)    1    0    0
 ------ Douglas(20045)    1    0    0
----- MO    10    0    0
+---- MO    11    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    3    0    0
 ------ Henry(29083)    1    0    0
 ------ Cass(29037)    1    0    0
 ------ Jackson(29095)    1    0    0
+------ Cole(29051)    1    0    0
 ---- IA    23    0    0
 ------ Johnson(19103)    15    0    0
 ------ Pottawattamie(19155)    1    0    0
@@ -1103,7 +1105,7 @@
 ---- NM    23    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    14    0    0
------- Santa Fe(35049)    3    0    0
+------ Santa Fe(35049)    4    0    0
 ------ Sandoval(35043)    2    0    0
 ------ Taos(35055)    1    0    0
 ---- AR    22    0    0
@@ -1236,9 +1238,9 @@
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
--- Canada    595    8    11
+-- Canada    597    8    11
 ---- British Columbia    186    7    4
----- Ontario    188    1    5
+---- Ontario    190    1    5
 ---- Alberta    97    0    0
 ---- Quebec    74    0    0
 ---- New Brunswick    8    0    0
@@ -1262,8 +1264,8 @@
 -- Qatar    442    0    4
 -- Czechia    434    0    3
 -- Greece    387    5    14
+-- Brazil    346    1    2
 -- Israel    344    0    11
--- Brazil    328    1    2
 -- Finland    322    0    10
 -- Ireland    292    2    5
 -- Slovenia    275    1    0
@@ -1279,14 +1281,14 @@
 -- Egypt    196    6    32
 -- Philippines    187    12    5
 -- Thailand    177    1    41
--- Indonesia    172    7    8
+-- Indonesia    172    7    9
 -- Saudi Arabia    171    0    6
 -- Hong Kong    168    4    81
 -- Iraq    154    11    41
 -- India    153    3    14
 -- Luxembourg    140    1    0
 -- Kuwait    130    0    12
--- Lebanon    124    3    4
+-- Lebanon    124    4    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
 -- Russian Federation    114    0    8
@@ -1313,11 +1315,11 @@
 -- Hungary    50    1    2
 -- Costa Rica    50    0    0
 -- Cyprus    49    0    0
+-- Jordan    48    0    1
 -- Faroe Islands    47    0    0
 -- Sri Lanka    44    0    2
 -- Morocco    44    2    1
 -- Palestine    41    0    0
--- Jordan    40    0    1
 -- Andorra    39    0    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
@@ -1333,7 +1335,7 @@
 -- Uruguay    29    0    0
 -- Senegal    27    0    2
 -- Tunisia    27    0    1
--- Lithuania    25    0    1
+-- Lithuania    26    0    1
 -- Afghanistan    22    0    1
 -- Dominican Republic    21    1    0
 -- Liechtenstein    19    0    0
@@ -1369,6 +1371,7 @@
 -- French Polynesia    3    0    0
 -- Aruba    3    0    0
 -- Gibraltar    3    0    2
+-- Mayotte    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
 -- Saint Martin (French part)    2    0    0
@@ -1394,7 +1397,6 @@
 -- Mauritania    1    0    0
 -- Sudan    1    1    0
 -- Suriname    1    0    0
--- Mayotte    1    0    0
 -- Equatorial Guinea    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Eswatini    1    0    0
