@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4708    93    74
+-- United States of America    4712    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
@@ -608,13 +608,13 @@
 ------ Cowlitz(53015)    1    0    0
 ------ Lewis(53041)    1    0    0
 ---- IL    114    0    2
------- Cook(17031)    73    0    2
+------ Cook(17031)    77    0    2
 ------ Kane(17089)    4    0    0
 ------ McHenry(17111)    2    0    0
------- Lake(17097)    4    0    0
+------ Lake(17097)    6    0    0
 ------ Coles(17029)    1    0    0
 ------ Cumberland(17035)    2    0    0
------- DuPage(17043)    3    0    0
+------ DuPage(17043)    5    0    0
 ------ Woodford(17203)    2    0    0
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
@@ -1041,18 +1041,20 @@
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    2    0    0
 ------ Geauga(39055)    1    0    0
----- MI    55    0    0
+---- MI    58    0    0
 ------ Oakland(26125)    14    0    0
 ------ Wayne(26163)    14    0    0
 ------ Kent(26081)    5    0    0
 ------ Washtenaw(26161)    7    0    0
------- Ingham(26065)    2    0    0
+------ Ingham(26065)    3    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
 ------ Macomb(26099)    6    0    0
 ------ Monroe(26115)    1    0    0
 ------ Ottawa(26139)    1    0    0
+------ Grand Traverse(26055)    1    0    0
+------ Otsego(26137)    1    0    0
 ---- NM    21    0    0
 ------ Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    14    0    0
