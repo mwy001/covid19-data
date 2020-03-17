@@ -703,7 +703,7 @@
 ------ Broward(12011)    43    0    0
 ------ Lee(12071)    5    2    0
 ------ Manatee(12081)    6    0    0
------- Okaloosa(12091)    1    0    0
+------ Okaloosa(12091)    2    0    0
 ------ Volusia(12127)    10    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Collier(12021)    6    0    0
@@ -712,13 +712,13 @@
 ------ Nassau(12089)    1    0    0
 ------ Pasco(12101)    2    0    0
 ------ Palm Beach(12099)    9    0    0
------- Clay(12019)    3    0    0
------- Duval(12031)    5    0    0
+------ Clay(12019)    4    0    0
+------ Duval(12031)    6    0    0
 ------ Miami-Dade(12086)    23    0    0
 ------ Seminole(12117)    4    0    0
------- Orange(12095)    4    1    0
------- Osceola(12097)    4    0    0
------- Citrus(12017)    1    0    0
+------ Orange(12095)    5    1    0
+------ Osceola(12097)    6    0    0
+------ Citrus(12017)    2    0    0
 ------ Escambia(12033)    1    0    0
 ------ Brevard(12009)    1    0    0
 ------ Lake(12069)    1    0    0
@@ -796,8 +796,8 @@
 ------ Iredell(37097)    1    0    0
 ------ Sampson(37163)    1    0    0
 ---- NY    1374    10    1
------- Westchester(36119)    220    0    0
------- New York(36061)    463    7    0
+------ Westchester(36119)    380    0    0
+------ New York(36061)    644    7    0
 ------ Nassau(36059)    109    0    0
 ------ Rockland(36087)    16    1    0
 ------ Saratoga(36091)    5    0    0
@@ -1119,7 +1119,7 @@
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
--- Switzerland    2674    21    4
+-- Switzerland    2677    24    4
 -- United Kingdom of Great Britain and Northern Ireland    1950    56    52
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1130,7 +1130,7 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1543    55    20
 ---- Cayman Islands    1    1    0
--- Japan    1848    28    144
+-- Japan    1848    29    144
 ---- Hokkaido    152    6    53
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1189,7 +1189,7 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
--- Canada    449    4    11
+-- Canada    449    5    11
 ---- British Columbia    103    4    4
 ---- Ontario    185    0    5
 ---- Alberta    74    0    0
@@ -1209,15 +1209,15 @@
 -- Israel    344    0    11
 -- Finland    322    0    10
 -- Brazil    301    1    2
--- Slovenia    273    1    0
+-- Slovenia    275    1    0
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    237    1    81
 -- Pakistan    236    1    2
 -- Estonia    225    0    1
+-- Iceland    225    5    8
 -- Ireland    223    2    5
 -- Poland    221    5    13
--- Iceland    220    5    8
 -- Chile    201    0    0
 -- Philippines    187    12    5
 -- Romania    184    0    16
@@ -1233,16 +1233,17 @@
 -- Lebanon    120    3    4
 -- Peru    117    0    1
 -- Russian Federation    114    0    8
+-- Ecuador    111    2    0
 -- San Marino    109    9    4
 -- United Arab Emirates    98    0    26
 -- Slovakia    84    0    0
 -- Mexico    82    0    4
+-- Bulgaria    81    2    0
 -- Taiwan    77    1    20
 -- Armenia    72    0    1
 -- Nigeria    69    0    1
 -- Panama    69    1    0
 -- Argentina    68    2    3
--- Bulgaria    67    2    0
 -- Viet Nam    66    0    16
 -- Croatia    65    0    4
 -- Colombia    65    0    1
@@ -1250,7 +1251,6 @@
 -- South Africa    64    0    0
 -- Algeria    60    5    12
 -- Latvia    60    0    1
--- Ecuador    58    2    0
 -- Brunei Darussalam    56    0    0
 -- Albania    55    1    0
 -- Hungary    50    1    2
@@ -1277,7 +1277,7 @@
 -- Oman    24    0    12
 -- Tunisia    24    0    1
 -- Afghanistan    22    0    1
--- Lithuania    21    0    1
+-- Lithuania    22    0    1
 -- Dominican Republic    21    1    0
 -- Andorra    16    0    1
 -- Martinique    15    1    0
