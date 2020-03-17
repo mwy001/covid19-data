@@ -505,23 +505,23 @@
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
 -- Spain    9942    342    530
----- Andalusia    437    5    0
----- Aragon    147    7    0
----- Balearic Islands    55    1    2
+---- Andalusia    554    7    0
+---- Aragon    174    11    0
+---- Balearic Islands    73    1    2
 ---- Basque Country    630    22    9
----- Canary Islands    109    1    7
----- Cantabria    51    0    10
----- Castile and León    292    9    2
----- Castile-La Mancha    401    10    13
+---- Canary Islands    119    1    7
+---- Cantabria    58    0    10
+---- Castile and León    334    9    2
+---- Castile-La Mancha    567    17    13
 ---- Catalonia    903    12    3
 ---- Community of Madrid    4165    253    109
----- Comunidad Foral de Navarra    196    1    0
----- Extremadura    95    2    5
----- Galicia    195    2    3
----- Principality of Asturias    142    1    3
+---- Comunidad Foral de Navarra    274    1    0
+---- Extremadura    111    2    5
+---- Galicia    245    2    3
+---- Principality of Asturias    177    1    3
 ---- Región de Murcia    78    0    0
----- Rioja    300    3    1
----- Valencian Community    409    4    1
+---- Rioja    312    4    1
+---- Valencian Community    409    5    1
 ---- Melilla    8    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
@@ -565,27 +565,27 @@
 ---- France    6633    148    12
 ---- St Martin    2    0    0
 ---- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    507    7    4
----- Ile-de-France    1209    2    2
----- Alsace–Champagne-Ardenne–Lorraine    1378    0    0
----- Normandy    143    1    0
----- Brittany    207    1    6
----- Pays de la Loire    98    0    0
----- Centre-Val de Loire    71    0    0
----- Bourgogne-Franche-Comté    412    0    0
----- Aquitaine-Limousin-Poitou-Charentes    144    0    0
----- Auvergne-Rhône-Alpes    523    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    243    0    0
----- Provence-Alpes-Côte d'Azur    330    0    0
----- Corsica    115    0    0
----- Martinique    15    0    0
----- French Guiana    7    0    0
+---- Nord-Pas-de-Calais and Picardy    585    7    4
+---- Ile-de-France    1762    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    1543    0    0
+---- Normandy    156    1    0
+---- Brittany    233    1    6
+---- Pays de la Loire    108    0    0
+---- Centre-Val de Loire    90    0    0
+---- Bourgogne-Franche-Comté    507    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    178    0    0
+---- Auvergne-Rhône-Alpes    618    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    262    0    0
+---- Provence-Alpes-Côte d'Azur    405    0    0
+---- Corsica    126    0    0
+---- Martinique    16    0    0
+---- French Guiana    11    0    0
 ---- Réunion    9    0    0
----- Guadeloupe    6    0    0
+---- Guadeloupe    18    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4712    93    74
+-- United States of America    4717    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
@@ -616,14 +616,14 @@
 ------ Cumberland(17035)    2    0    0
 ------ DuPage(17043)    5    0    0
 ------ Woodford(17203)    2    0    0
------- Sangamon(17167)    2    0    0
+------ Sangamon(17167)    4    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
 ------ Clinton(17027)    1    0    0
 ------ Peoria(17143)    1    0    0
 ------ Whiteside(17195)    1    0    0
 ------ Winnebago(17201)    1    0    0
----- CA    562    11    6
+---- CA    564    11    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    55    0    1
@@ -651,9 +651,9 @@
 ------ Stanislaus(06099)    3    0    0
 ------ San Joaquin(06077)    9    0    0
 ------ Imperial(06025)    2    0    0
------- Tulare(06107)    2    0    0
+------ Tulare(06107)    3    0    0
 ------ San Luis Obispo(06079)    3    0    0
------- San Bernardino(06071)    1    0    0
+------ San Bernardino(06071)    2    0    0
 ------ Santa Barbara(06083)    1    0    0
 ------ Nevada(06057)    1    0    0
 ---- WI    48    0    1
@@ -668,7 +668,7 @@
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
 ------ Kenosha(55059)    1    0    0
----- TX    92    0    0
+---- TX    93    1    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -685,7 +685,7 @@
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
 ------ Hays(48209)    3    0    0
------- Matagorda(48321)    1    0    0
+------ Matagorda(48321)    2    1    0
 ------ Denton(48121)    1    0    0
 ------ Bowie(48037)    1    0    0
 ------ Webb(48479)    1    0    0
@@ -733,7 +733,7 @@
 ------ Linn(41043)    10    0    0
 ------ Clackamas(41005)    2    0    0
 ------ Yamhill(41071)    1    0    0
----- GA    121    1    0
+---- GA    123    1    0
 ------ Fulton(13121)    27    0    0
 ------ Cobb(13067)    22    1    0
 ------ Polk(13233)    1    0    0
@@ -941,13 +941,13 @@
 ------ Litchfield(09005)    4    0    0
 ------ Hartford(09003)    4    0    0
 ------ New Haven(09009)    4    0    0
----- SC    34    1    0
+---- SC    34    2    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    19    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ Lancaster(45057)    2    0    0
 ------ Beaufort(45013)    3    0    0
------- Lexington(45063)    2    1    0
+------ Lexington(45063)    2    2    0
 ------ Horry(45051)    3    0    0
 ------ Anderson(45007)    2    0    0
 ------ Greenville(45045)    1    0    0
@@ -1182,8 +1182,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    1    0    0
 ---- Nova Scotia    5    0    0
--- Qatar    439    0    4
--- Australia    401    6    27
+-- Australia    440    6    27
 ---- New South Wales    171    2    4
 ---- Victoria    71    0    8
 ---- Queensland    68    0    8
@@ -1192,6 +1191,7 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
+-- Qatar    439    0    4
 -- Greece    352    4    8
 -- Israel    344    0    4
 -- Czechia    344    0    3
@@ -1209,8 +1209,8 @@
 -- Poland    177    4    13
 -- Romania    168    0    9
 -- Egypt    166    4    32
+-- Hong Kong    157    4    81
 -- Chile    156    0    0
--- Hong Kong    155    4    81
 -- Thailand    147    1    35
 -- Philippines    142    12    5
 -- Indonesia    134    5    8
@@ -1223,6 +1223,7 @@
 -- United Arab Emirates    98    0    23
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
+-- Mexico    82    0    4
 -- Luxembourg    81    1    0
 -- Slovakia    72    0    0
 -- Panama    69    1    0
@@ -1237,7 +1238,6 @@
 -- Serbia    57    0    1
 -- Colombia    54    0    1
 -- Brunei Darussalam    54    0    0
--- Mexico    53    0    4
 -- Armenia    52    0    1
 -- Albania    51    1    0
 -- Turkey    47    0    0
@@ -1270,12 +1270,12 @@
 -- Jamaica    15    0    2
 -- Andorra    14    0    1
 -- Maldives    13    0    0
+-- Kazakhstan    13    0    0
 -- Cambodia    12    0    1
 -- Macao    12    0    10
 -- New Zealand    11    0    0
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
--- Kazakhstan    10    0    0
 -- Monaco    9    0    0
 -- Réunion    9    0    0
 -- Bangladesh    8    0    3
