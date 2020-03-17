@@ -18,8 +18,8 @@
 ------ Tianmen    496    15    477
 ------ Shennongjia    11    0    11
 ---- Guangdong    1361    8    1306
------- Shenzhen    423    3    399
------- Guangzhou    348    1    330
+------ Shenzhen    423    3    401
+------ Guangzhou    351    1    330
 ------ Foshan    85    0    81
 ------ Zhongshan    68    0    64
 ------ Dongguan    100    1    97
@@ -116,12 +116,12 @@
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
 ---- Shandong    760    7    746
------- Jining    260    0    254
------- Dezhou    37    2    33
+------ Jining    260    0    256
+------ Dezhou    37    2    35
 ------ Qingdao    61    1    59
 ------ Linyi    49    0    49
 ------ Jinan    47    0    46
------- Zibo    30    1    28
+------ Zibo    30    1    29
 ------ Yantai    47    0    47
 ------ Weifang    44    0    44
 ------ Weihai    38    1    37
@@ -186,7 +186,7 @@
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
 ---- Sichuan    539    3    516
------- Chengdu    144    3    122
+------ Chengdu    144    3    126
 ------ Bazhong    24    0    24
 ------ Garzê Tibetan Autonomous Prefecture    78    0    77
 ------ Mianyang    22    0    22
@@ -208,9 +208,9 @@
 ------ Leshan    3    0    3
 ------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
 ---- Heilongjiang    482    13    455
------- Harbin    198    4    187
+------ Harbin    198    4    189
 ------ Shuangyashan    52    3    48
------- Suihua    47    4    41
+------ Suihua    47    4    42
 ------ Qiqihar    43    1    40
 ------ Daqing    26    1    23
 ------ Mudanjiang    15    0    15
@@ -293,8 +293,8 @@
 ------ Hezhou    4    0    4
 ------ Baise    3    0    3
 ---- Shaanxi    245    2    233
------- Xi'an    120    2    110
------- Hanzhong    26    0    25
+------ Xi'an    120    3    110
+------ Hanzhong    26    0    26
 ------ Xianyang    17    0    16
 ------ Weinan    15    0    14
 ------ Ankang    26    0    26
@@ -584,8 +584,8 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4681    87    74
----- WA    904    48    57
+-- United States of America    4693    93    74
+---- WA    904    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
 ------ Grant(53025)    3    1    0
@@ -618,7 +618,7 @@
 ------ Sangamon(17167)    2    0    0
 ------ Champaign(17019)    1    0    0
 ------ Will(17197)    1    0    0
----- CA    557    7    6
+---- CA    562    11    6
 ------ Los Angeles(06037)    94    1    0
 ------ San Benito(06069)    3    0    2
 ------ San Diego(06073)    55    0    1
@@ -783,7 +783,7 @@
 ------ Watauga(37189)    1    0    0
 ------ Wilson(37195)    1    0    0
 ------ Iredell(37097)    1    0    0
----- NY    968    10    1
+---- NY    969    10    1
 ------ Westchester(36119)    220    0    0
 ------ New York(36061)    463    7    0
 ------ Nassau(36059)    109    0    0
@@ -886,7 +886,7 @@
 ------ Douglas(31055)    17    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
----- KY    22    1    0
+---- KY    25    1    0
 ------ Fayette(21067)    5    0    0
 ------ Harrison(21097)    6    0    0
 ------ Jefferson(21111)    6    0    0
@@ -930,7 +930,7 @@
 ------ Litchfield(09005)    4    0    0
 ------ Hartford(09003)    4    0    0
 ------ New Haven(09009)    4    0    0
----- SC    33    1    0
+---- SC    34    1    0
 ------ Charleston(45019)    1    0    0
 ------ Kershaw(45055)    19    0    0
 ------ Spartanburg(45083)    1    0    0
