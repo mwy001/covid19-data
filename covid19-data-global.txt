@@ -388,10 +388,10 @@
 ------ Jinchang    1    0    1
 ---- Hong Kong    155    4    84
 ---- Liaoning    125    1    115
------- Dandong    11    0    7
------- Dalian    19    0    18
------- Shenyang    28    0    26
------- Huludao    12    1    9
+------ Dandong    11    0    9
+------ Dalian    19    0    19
+------ Shenyang    28    0    27
+------ Huludao    12    1    11
 ------ Chaoyang    6    0    5
 ------ Jinzhou    12    0    12
 ------ Panjin    11    0    11
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4744    93    74
+-- United States of America    4748    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -879,7 +879,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    82    1    0
+---- PA    86    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    30    0    0
@@ -888,7 +888,7 @@
 ------ Bucks(42017)    7    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
------- Chester(42029)    2    0    0
+------ Chester(42029)    6    0    0
 ------ Washington(42125)    1    0    0
 ------ Cumberland(42041)    5    0    0
 ------ Allegheny(42003)    6    0    0
@@ -1169,10 +1169,10 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1543    55    20
 ---- Cayman Islands    1    1    0
--- Norway    1419    3    1
+-- Norway    1422    3    1
 -- Belgium    1243    10    1
 -- Austria    1211    4    8
--- Sweden    1140    7    1
+-- Sweden    1175    7    1
 -- Denmark    960    4    1
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
@@ -1204,10 +1204,10 @@
 -- Czechia    396    0    3
 -- Greece    352    4    10
 -- Israel    344    0    11
--- Finland    321    0    10
+-- Finland    322    0    10
 -- Brazil    301    0    2
 -- Slovenia    273    1    0
--- Singapore    243    0    109
+-- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
 -- Bahrain    237    1    81
 -- Estonia    225    0    1
@@ -1228,9 +1228,9 @@
 -- Saudi Arabia    133    0    6
 -- Kuwait    130    0    12
 -- Lebanon    120    3    3
+-- Russian Federation    114    0    8
 -- San Marino    109    9    4
 -- United Arab Emirates    98    0    26
--- Russian Federation    93    0    8
 -- Peru    86    0    1
 -- Slovakia    84    0    0
 -- Mexico    82    0    4
@@ -1268,18 +1268,18 @@
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
+-- Bosnia and Herzegovina    27    0    2
 -- North Macedonia    26    0    1
--- Bosnia and Herzegovina    26    0    2
 -- Cambodia    24    0    1
 -- Oman    24    0    12
 -- Tunisia    24    0    1
 -- Afghanistan    22    0    1
 -- Lithuania    21    0    1
 -- Dominican Republic    21    1    0
+-- Andorra    16    0    1
 -- Martinique    15    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
--- Andorra    14    0    1
 -- Maldives    13    0    0
 -- Macao    13    0    10
 -- New Zealand    12    0    0
