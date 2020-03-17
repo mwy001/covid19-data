@@ -525,7 +525,7 @@
 ---- Melilla    17    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    9352    24    67
+-- Germany    9367    26    67
 ---- Saxony    152    0    0
 ---- Mecklenburg-Vorpommern    51    0    0
 ---- Free State of Bavaria    1067    5    14
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
--- United States of America    5921    100    74
+-- United States of America    6056    101    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -607,8 +607,8 @@
 ------ Lincoln(53043)    1    0    57
 ------ Cowlitz(53015)    1    0    57
 ------ Lewis(53041)    1    0    57
----- IL    114    1    2
------- Cook(17031)    77    0    2
+---- IL    160    1    2
+------ Cook(17031)    77    1    2
 ------ Kane(17089)    4    0    2
 ------ McHenry(17111)    2    0    0
 ------ Lake(17097)    6    0    2
@@ -623,8 +623,8 @@
 ------ Peoria(17143)    1    0    2
 ------ Whiteside(17195)    1    0    2
 ------ Winnebago(17201)    1    0    2
----- CA    604    11    6
------- Los Angeles(06037)    94    1    6
+---- CA    655    11    6
+------ Los Angeles(06037)    144    1    6
 ------ San Benito(06069)    3    0    6
 ------ San Diego(06073)    55    0    6
 ------ Humboldt(06023)    1    0    6
@@ -635,7 +635,7 @@
 ------ Orange(06059)    22    0    6
 ------ Contra Costa(06013)    34    0    6
 ------ San Francisco(06075)    43    0    6
------- Yolo(06113)    3    0    6
+------ Yolo(06113)    4    0    6
 ------ Santa Clara(06085)    138    4    6
 ------ Alameda(06001)    18    0    6
 ------ Madera(06039)    1    0    6
@@ -766,16 +766,16 @@
 ------ Columbia(13073)    1    0    0
 ------ Richmond(13245)    1    0    0
 ------ Rockdale(13247)    1    0    0
----- MA    197    0    1
------- Norfolk(25021)    36    0    1
------- Suffolk(25025)    36    0    1
------- Middlesex(25017)    83    0    1
------- Plymouth(25023)    3    0    1
------- Berkshire(25003)    11    0    1
------- Worcester(25027)    6    0    1
+---- MA    218    0    1
+------ Norfolk(25021)    43    0    1
+------ Suffolk(25025)    42    0    1
+------ Middlesex(25017)    89    0    1
+------ Plymouth(25023)    5    0    1
+------ Berkshire(25003)    14    0    1
+------ Worcester(25027)    8    0    1
 ------ Essex(25009)    8    0    1
------- Barnstable(25001)    1    0    1
------- Bristol(25005)    2    0    1
+------ Barnstable(25001)    2    0    1
+------ Bristol(25005)    5    0    1
 ------ Hampden(25013)    1    0    1
 ---- AZ    21    0    1
 ------ Maricopa(04013)    10    0    1
@@ -802,13 +802,13 @@
 ------ Iredell(37097)    1    0    0
 ------ Sampson(37163)    1    0    0
 ------ Guilford(37081)    1    0    0
----- NY    1710    12    1
+---- NY    1710    13    1
 ------ Westchester(36119)    380    0    0
 ------ New York(36061)    644    7    0
 ------ Nassau(36059)    140    1    0
 ------ Rockland(36087)    22    1    0
 ------ Saratoga(36091)    9    0    0
------- Suffolk(36103)    84    2    0
+------ Suffolk(36103)    97    3    0
 ------ Ulster(36111)    8    0    0
 ------ Albany(36001)    23    0    0
 ------ Delaware(36025)    1    0    0
@@ -820,7 +820,7 @@
 ------ Schenectady(36093)    5    0    0
 ------ Tompkins(36109)    2    0    0
 ------ Tioga(36107)    1    0    0
------- Erie(36029)    7    0    0
+------ Erie(36029)    11    0    0
 ------ Putnam(36079)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Montgomery(36057)    1    0    0
@@ -848,13 +848,13 @@
 ------ Ocean(34029)    4    0    0
 ------ Hunterdon(34019)    4    0    0
 ------ Gloucester(34015)    2    0    0
----- NV    48    1    0
------- Clark(32003)    35    1    0
+---- NV    55    1    0
+------ Clark(32003)    42    1    0
 ------ Washoe(32031)    12    0    0
----- TN    73    0    0
+---- TN    74    0    0
 ------ Williamson(47187)    21    0    0
 ------ Davidson(47037)    42    0    0
------- Shelby(47157)    2    0    0
+------ Shelby(47157)    3    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    2    0    0
 ------ Hamilton(47065)    1    0    0
@@ -1071,7 +1071,7 @@
 ------ Darke(39037)    1    0    0
 ------ Mahoning(39099)    1    0    0
 ---- MI    65    0    0
------- Oakland(26125)    14    0    0
+------ Oakland(26125)    15    0    0
 ------ Wayne(26163)    14    0    0
 ------ Kent(26081)    5    0    0
 ------ Washtenaw(26161)    7    0    0
@@ -1089,6 +1089,7 @@
 ------ Bernalillo(35001)    14    0    0
 ------ Santa Fe(35049)    3    0    0
 ------ Sandoval(35043)    2    0    0
+------ Taos(35055)    1    0    0
 ---- AR    22    0    0
 ------ Jefferson(05069)    5    0    0
 ------ Pulaski(05119)    5    0    0
@@ -1120,8 +1121,9 @@
 ---- WY    10    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    8    0    0
----- ND    1    0    0
------- Ward(38101)    1    0    0
+---- ND    3    0    0
+------ Ward(38101)    2    0    0
+------ Cass(38017)    1    0    0
 ---- ME    32    0    0
 ------ Androscoggin(23001)    3    0    0
 ------ Cumberland(23005)    17    0    0
@@ -1249,8 +1251,8 @@
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
 -- Pakistan    247    1    2
+-- Iceland    247    5    8
 -- Bahrain    241    1    81
--- Iceland    240    5    8
 -- Poland    238    5    13
 -- Estonia    225    0    1
 -- Romania    222    0    19
@@ -1265,12 +1267,12 @@
 -- India    153    3    14
 -- Luxembourg    140    1    0
 -- Kuwait    130    0    12
--- Lebanon    120    3    4
+-- Lebanon    124    3    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
 -- Russian Federation    114    0    8
+-- United Arab Emirates    113    0    26
 -- Ecuador    111    2    0
--- United Arab Emirates    98    0    26
 -- Slovakia    97    0    0
 -- Mexico    82    0    4
 -- Bulgaria    81    2    0
@@ -1289,15 +1291,15 @@
 -- Brunei Darussalam    56    0    0
 -- Albania    55    1    0
 -- Hungary    50    1    2
+-- Costa Rica    50    0    0
 -- Cyprus    49    0    0
 -- Turkey    47    0    0
 -- Faroe Islands    47    0    0
 -- Sri Lanka    44    0    2
--- Costa Rica    41    0    0
+-- Morocco    44    2    1
 -- Palestine    41    0    0
 -- Jordan    40    0    1
 -- Andorra    39    0    1
--- Morocco    38    2    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
 -- Georgia    34    0    1
