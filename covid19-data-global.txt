@@ -504,7 +504,7 @@
 ---- North Khorasan    97    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    38    0    0
--- Spain    9942    342    530
+-- Spain    11178    491    530
 ---- Andalusia    554    7    0
 ---- Aragon    174    11    0
 ---- Balearic Islands    73    1    2
@@ -1168,7 +1168,7 @@
 -- Netherlands    1414    24    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1366    3    1
+-- Norway    1375    3    1
 -- Belgium    1243    10    1
 -- Austria    1211    3    8
 -- Sweden    1125    7    1
@@ -1207,8 +1207,8 @@
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
+-- Bahrain    236    1    81
 -- Brazil    234    0    2
--- Bahrain    228    1    81
 -- Estonia    225    0    1
 -- Ireland    223    2    5
 -- Poland    205    5    13
@@ -1221,14 +1221,14 @@
 -- Egypt    166    4    32
 -- Hong Kong    162    4    81
 -- Chile    156    0    0
+-- Iraq    154    10    32
 -- Luxembourg    140    1    0
--- Iraq    133    10    32
 -- Saudi Arabia    133    0    6
 -- India    130    3    13
 -- Kuwait    130    0    12
 -- Lebanon    120    3    3
 -- San Marino    109    9    4
--- United Arab Emirates    98    0    23
+-- United Arab Emirates    98    0    26
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
 -- Mexico    82    0    4
@@ -1243,7 +1243,7 @@
 -- Armenia    64    0    1
 -- South Africa    64    0    0
 -- Viet Nam    61    0    16
--- Algeria    60    4    12
+-- Algeria    60    5    12
 -- Ecuador    58    2    0
 -- Colombia    57    0    1
 -- Brunei Darussalam    56    0    0
@@ -1267,7 +1267,7 @@
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
--- Bosnia and Herzegovina    25    0    2
+-- Bosnia and Herzegovina    26    0    2
 -- Cambodia    24    0    1
 -- Oman    24    0    12
 -- North Macedonia    24    0    1
@@ -1284,6 +1284,7 @@
 -- Macao    12    0    10
 -- French Guiana    11    0    0
 -- Bolivia, Plurinational State of    11    0    0
+-- Cameroon    10    0    0
 -- Bangladesh    10    0    3
 -- Uzbekistan    10    0    0
 -- Monaco    9    0    0
@@ -1297,7 +1298,6 @@
 -- Rwanda    7    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
--- Cameroon    5    0    0
 -- Cuba    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
@@ -1317,6 +1317,7 @@
 -- Curaçao    2    0    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
+-- Liberia    2    0    0
 -- Congo, Democratic Republic of the    2    0    0
 -- Nepal    1    0    1
 -- Bhutan    1    0    0
@@ -1338,7 +1339,6 @@
 -- Guernsey    1    0    0
 -- Bahamas    1    0    0
 -- Central African Republic    1    0    0
--- Liberia    1    0    0
 -- Tanzania, United Republic of    1    0    0
 -- Somalia    1    0    0
 -- Greenland    1    0    0
