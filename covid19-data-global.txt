@@ -1168,14 +1168,14 @@
 -- Netherlands    1414    24    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1358    3    1
+-- Norway    1360    3    1
+-- Belgium    1243    10    1
 -- Austria    1211    3    8
 -- Sweden    1121    7    1
--- Belgium    1085    10    1
 -- Denmark    960    4    1
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
--- Malaysia    566    1    42
+-- Malaysia    673    2    49
 -- Australia    452    6    27
 ---- New South Wales    171    2    4
 ---- Victoria    71    0    8
@@ -1226,7 +1226,7 @@
 -- India    130    3    13
 -- Kuwait    130    0    12
 -- Lebanon    120    3    3
--- San Marino    109    7    4
+-- San Marino    109    9    4
 -- United Arab Emirates    98    0    23
 -- Luxembourg    94    1    0
 -- Russian Federation    93    0    8
@@ -1234,6 +1234,7 @@
 -- Mexico    82    0    4
 -- Slovakia    78    0    0
 -- Taiwan    77    1    20
+-- Nigeria    69    0    1
 -- Panama    69    1    0
 -- Bulgaria    67    2    0
 -- Croatia    65    0    4
@@ -1244,7 +1245,7 @@
 -- Algeria    60    4    12
 -- Ecuador    58    2    0
 -- Colombia    57    0    1
--- Brunei Darussalam    54    0    0
+-- Brunei Darussalam    56    0    0
 -- Armenia    52    0    1
 -- Albania    51    1    0
 -- Hungary    50    1    2
@@ -1254,7 +1255,7 @@
 -- Cyprus    46    0    0
 -- Costa Rica    41    0    0
 -- Palestine    40    0    0
--- Morocco    38    1    1
+-- Morocco    38    2    1
 -- Belarus    36    0    3
 -- Georgia    34    0    1
 -- Jordan    34    0    1
@@ -1309,7 +1310,6 @@
 -- Gibraltar    3    0    1
 -- Kenya    3    0    0
 -- Saint Barthélemy    3    0    0
--- Nigeria    2    0    1
 -- Saint Martin (French part)    2    0    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
