@@ -526,39 +526,40 @@
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Korea, Republic of    8236    75    1137
----- Busan    107    1    53
+---- Busan    107    1    54
 ---- Chungcheongbuk-do    31    0    6
----- Chungcheongnam-do    115    0    12
----- Daegu    6066    56    734
+---- Chungcheongnam-do    115    0    15
+---- Daegu    6098    57    947
 ---- Daejeon    22    0    4
----- Gangwon-do    29    1    7
----- Gwangju    16    0    4
----- Gyeonggi-do    231    3    48
----- Gyeongsangbuk-do    1164    18    178
----- Gyeongsangnam-do    85    0    20
----- Incheon    30    0    4
+---- Gangwon-do    29    1    8
+---- Gwangju    16    0    6
+---- Gyeonggi-do    262    3    55
+---- Gyeongsangbuk-do    1169    19    209
+---- Gyeongsangnam-do    86    0    22
+---- Incheon    31    0    5
 ---- Jeju-do    4    0    2
 ---- Jeollabuk-do    7    0    4
 ---- Jeollanam-do    4    0    2
 ---- Sejong    40    0    0
----- Seoul    253    0    52
----- Ulsan    28    0    7
+---- Seoul    265    0    55
+---- Ulsan    28    0    8
+---- 未确定地区    6    0    0
 -- Germany    7272    17    67
----- Saxony    134    0    0
----- Mecklenburg-Vorpommern    50    0    0
----- Free State of Bavaria    1067    4    14
----- Berlin    283    0    0
----- Brandenburg    91    0    0
----- Thuringia    67    0    0
+---- Saxony    152    0    0
+---- Mecklenburg-Vorpommern    51    0    0
+---- Free State of Bavaria    1067    5    14
+---- Berlin    332    0    0
+---- Brandenburg    94    0    0
+---- Thuringia    67    0    1
 ---- Schleswig-Holstein    123    0    0
----- Lower Saxony    287    0    1
----- Bremen    56    0    1
+---- Lower Saxony    391    0    1
+---- Bremen    57    0    1
 ---- Hamburg    260    1    1
----- Rhineland-Palatinate    297    0    1
----- North Rhine-Westphalia    2493    6    39
----- Hesse    342    0    0
----- Baden-Württemberg    977    3    14
----- Saxony-Anhalt    60    0    0
+---- Rhineland-Palatinate    325    0    1
+---- North Rhine-Westphalia    2744    8    39
+---- Hesse    342    0    2
+---- Baden-Württemberg    1105    3    14
+---- Saxony-Anhalt    77    0    0
 ---- Saarland    85    0    0
 -- France    6650    148    12
 ---- France    6633    148    12
@@ -584,8 +585,8 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4693    93    74
----- WA    904    52    57
+-- United States of America    4702    93    74
+---- WA    908    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
 ------ Grant(53025)    3    1    0
@@ -663,7 +664,7 @@
 ------ Wood(55141)    1    0    0
 ------ Outagamie(55087)    1    0    0
 ------ Kenosha(55059)    1    0    0
----- TX    90    0    0
+---- TX    91    0    0
 ------ Bexar(48029)    3    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -766,7 +767,7 @@
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    4    0    0
 ------ Graham(04009)    1    0    0
----- NC    39    0    0
+---- NC    40    0    0
 ------ Wake(37183)    15    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
@@ -867,7 +868,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    79    1    0
+---- PA    80    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    30    0    0
@@ -1048,7 +1049,7 @@
 ------ Sandoval(35043)    2    0    0
 ---- AR    22    0    0
 ------ Jefferson(05069)    3    0    0
----- MT    7    0    0
+---- MT    9    0    0
 ------ Gallatin(30031)    1    0    0
 ------ Lewis and Clark(30049)    1    0    0
 ------ Silver Bow(30093)    1    0    0
