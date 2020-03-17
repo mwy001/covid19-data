@@ -584,7 +584,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4657    86    74
+-- United States of America    4663    86    74
 ---- WA    904    48    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
@@ -688,7 +688,7 @@
 ------ Rockingham(33015)    10    0    0
 ------ Hillsborough(33011)    1    0    0
 ------ Carroll(33003)    1    0    0
----- FL    155    5    0
+---- FL    160    5    0
 ------ Hillsborough(12057)    4    0    0
 ------ Sarasota(12115)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -711,6 +711,7 @@
 ------ Orange(12095)    2    1    0
 ------ Osceola(12097)    1    0    0
 ------ Citrus(12017)    1    0    0
+------ Escambia(12033)    1    0    0
 ---- OR    39    1    0
 ------ Umatilla(41059)    2    0    0
 ------ Washington(41067)    13    0    0
@@ -946,7 +947,7 @@
 ------ Tooele(49045)    1    0    0
 ------ Wasatch(49051)    1    0    0
 ---- HI    8    0    0
------- Honolulu(15003)    4    0    0
+------ Honolulu(15003)    5    0    0
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    1    0    0
 ---- OK    10    0    1
@@ -1221,16 +1222,17 @@
 -- Albania    51    1    0
 -- Turkey    47    0    0
 -- Cyprus    46    0    0
+-- Costa Rica    41    0    0
 -- Hungary    39    1    2
 -- Palestine    39    0    0
 -- Morocco    38    1    1
 -- Belarus    36    0    3
--- Costa Rica    35    0    0
 -- Latvia    34    0    1
 -- Georgia    33    0    1
 -- Malta    30    0    2
 -- Jordan    29    0    1
 -- Moldova, Republic of    29    0    1
+-- Uruguay    29    0    0
 -- Sri Lanka    28    0    1
 -- Azerbaijan    25    1    6
 -- Bosnia and Herzegovina    25    0    2
@@ -1240,8 +1242,8 @@
 -- Afghanistan    21    0    1
 -- Dominican Republic    21    0    0
 -- Tunisia    20    0    0
+-- Lithuania    18    0    1
 -- Faroe Islands    18    0    0
--- Lithuania    17    0    1
 -- Venezuela, Bolivarian Republic of    17    0    0
 -- Martinique    15    0    0
 -- Burkina Faso    15    0    0
@@ -1257,12 +1259,12 @@
 -- New Zealand    8    0    0
 -- Bangladesh    8    0    3
 -- Paraguay    8    0    0
--- Uruguay    8    0    0
 -- Guatemala    8    1    0
 -- Uzbekistan    8    0    0
 -- Ukraine    7    1    0
 -- Liechtenstein    7    0    0
 -- Guyana    7    1    0
+-- Rwanda    7    0    0
 -- Monaco    6    0    0
 -- Honduras    6    0    0
 -- Ghana    6    0    0
@@ -1270,7 +1272,6 @@
 -- Cameroon    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
--- Rwanda    5    0    0
 -- Mongolia    4    0    0
 -- Cuba    4    0    0
 -- Trinidad and Tobago    4    0    0
