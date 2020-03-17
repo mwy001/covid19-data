@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4717    93    74
+-- United States of America    4725    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    1
 ------ Snohomish(53061)    200    4    0
@@ -877,13 +877,13 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    1    0    0
 ------ Clear Creek(08019)    1    0    0
----- PA    80    1    0
+---- PA    82    1    0
 ------ Delaware(42045)    7    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    30    0    0
 ------ Monroe(42089)    8    0    0
 ------ Philadelphia(42101)    10    0    0
------- Bucks(42017)    5    0    0
+------ Bucks(42017)    7    0    0
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Chester(42029)    2    0    0
@@ -991,10 +991,11 @@
 ------ Butler(20015)    1    0    0
 ------ Sedgwick(20173)    1    0    0
 ------ Franklin(20059)    1    0    0
----- MO    8    0    0
+---- MO    9    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    3    0    0
 ------ Henry(29083)    1    0    0
+------ Cass(29037)    1    0    0
 ---- IA    23    0    0
 ------ Johnson(19103)    15    0    0
 ------ Pottawattamie(19155)    1    0    0
@@ -1079,7 +1080,7 @@
 ------ Hinds(28049)    2    0    0
 ------ Monroe(28095)    1    0    0
 ------ Hancock(28045)    1    0    0
----- WY    3    0    0
+---- WY    10    0    0
 ------ Sheridan(56033)    1    0    0
 ------ Fremont(56013)    1    0    0
 ---- ND    1    0    0
@@ -1089,6 +1090,7 @@
 ------ Cumberland(23005)    13    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
+------ Fairbanks North Star(02090)    2    0    0
 ---- DC    22    0    0
 ---- Others    12    0    0
 ---- AL    29    0    0
@@ -1249,6 +1251,7 @@
 -- Belarus    36    0    3
 -- Latvia    34    0    1
 -- Georgia    33    0    1
+-- Venezuela, Bolivarian Republic of    33    0    0
 -- Malta    30    0    2
 -- Jordan    29    0    1
 -- Moldova, Republic of    29    0    1
@@ -1257,21 +1260,20 @@
 -- Senegal    27    0    2
 -- Azerbaijan    25    1    6
 -- Bosnia and Herzegovina    25    0    2
+-- Cambodia    24    0    1
 -- Oman    24    0    9
 -- North Macedonia    24    0    1
+-- Tunisia    24    0    0
 -- Afghanistan    21    0    1
 -- Dominican Republic    21    1    0
--- Tunisia    20    0    0
 -- Lithuania    18    0    1
 -- Faroe Islands    18    0    0
--- Venezuela, Bolivarian Republic of    17    0    0
 -- Martinique    15    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
 -- Andorra    14    0    1
 -- Maldives    13    0    0
 -- Kazakhstan    13    0    0
--- Cambodia    12    0    1
 -- Macao    12    0    10
 -- New Zealand    11    0    0
 -- French Guiana    11    0    0
