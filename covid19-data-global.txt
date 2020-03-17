@@ -1155,8 +1155,8 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    1    0    1
----- England    1099    34    0
----- Northern Ireland    45    0    0
+---- England    1196    34    0
+---- Northern Ireland    52    0    0
 ---- Wales    124    0    0
 ---- Scotland    153    10    0
 ---- United Kingdom    1543    55    20
