@@ -585,89 +585,89 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4736    93    74
+-- United States of America    4743    93    74
 ---- WA    908    52    57
------- King(53033)    488    43    1
------- Snohomish(53061)    200    4    0
------- Grant(53025)    7    1    0
+------ King(53033)    488    43    57
+------ Snohomish(53061)    200    4    57
+------ Grant(53025)    7    1    57
 ------ Chelan(53007)    5    0    0
------- Clark(53011)    4    0    0
------- Jefferson(53031)    3    0    0
------- Pierce(53053)    38    0    0
------- Kittitas(53037)    3    0    0
------- Spokane(53063)    3    0    0
------- Kitsap(53035)    7    0    0
------- Skagit(53057)    7    0    0
------- Thurston(53067)    4    0    0
------- Island(53029)    7    0    0
------- Whatcom(53073)    3    0    0
------- Grays Harbor(53027)    1    0    0
------- Columbia(53013)    1    0    0
------- Yakima(53077)    4    0    0
------- Lincoln(53043)    1    0    0
------- Cowlitz(53015)    1    0    0
------- Lewis(53041)    1    0    0
+------ Clark(53011)    4    0    57
+------ Jefferson(53031)    3    0    57
+------ Pierce(53053)    38    0    57
+------ Kittitas(53037)    3    0    57
+------ Spokane(53063)    3    0    57
+------ Kitsap(53035)    7    0    57
+------ Skagit(53057)    7    0    57
+------ Thurston(53067)    4    0    57
+------ Island(53029)    7    0    57
+------ Whatcom(53073)    3    0    57
+------ Grays Harbor(53027)    1    0    57
+------ Columbia(53013)    1    0    57
+------ Yakima(53077)    4    0    57
+------ Lincoln(53043)    1    0    57
+------ Cowlitz(53015)    1    0    57
+------ Lewis(53041)    1    0    57
 ---- IL    114    0    2
 ------ Cook(17031)    77    0    2
------- Kane(17089)    4    0    0
+------ Kane(17089)    4    0    2
 ------ McHenry(17111)    2    0    0
------- Lake(17097)    6    0    0
+------ Lake(17097)    6    0    2
 ------ Coles(17029)    1    0    0
------- Cumberland(17035)    2    0    0
+------ Cumberland(17035)    2    0    2
 ------ DuPage(17043)    5    0    0
------- Woodford(17203)    2    0    0
------- Sangamon(17167)    4    0    0
------- Champaign(17019)    1    0    0
------- Will(17197)    1    0    0
------- Clinton(17027)    1    0    0
------- Peoria(17143)    1    0    0
------- Whiteside(17195)    1    0    0
------- Winnebago(17201)    1    0    0
----- CA    567    11    6
------- Los Angeles(06037)    94    1    0
------- San Benito(06069)    3    0    2
------- San Diego(06073)    55    0    1
------- Humboldt(06023)    1    0    0
------- Sacramento(06067)    33    2    1
------- Placer(06061)    8    1    0
------- San Mateo(06081)    41    1    0
------- Sonoma(06097)    6    0    0
------- Orange(06059)    22    0    0
------- Contra Costa(06013)    34    0    0
------- San Francisco(06075)    40    0    0
------- Yolo(06113)    2    0    0
------- Santa Clara(06085)    138    4    1
------- Alameda(06001)    18    0    0
------- Madera(06039)    1    0    0
------- Fresno(06019)    2    0    0
------- Riverside(06065)    15    2    0
------- Shasta(06089)    1    0    0
------- Solano(06095)    7    0    0
------- Santa Cruz(06087)    16    0    0
+------ Woodford(17203)    2    0    2
+------ Sangamon(17167)    4    0    2
+------ Champaign(17019)    1    0    2
+------ Will(17197)    1    0    2
+------ Clinton(17027)    1    0    2
+------ Peoria(17143)    1    0    2
+------ Whiteside(17195)    1    0    2
+------ Winnebago(17201)    1    0    2
+---- CA    573    11    6
+------ Los Angeles(06037)    94    1    6
+------ San Benito(06069)    3    0    6
+------ San Diego(06073)    55    0    6
+------ Humboldt(06023)    1    0    6
+------ Sacramento(06067)    33    2    6
+------ Placer(06061)    8    1    6
+------ San Mateo(06081)    41    1    6
+------ Sonoma(06097)    6    0    6
+------ Orange(06059)    22    0    6
+------ Contra Costa(06013)    34    0    6
+------ San Francisco(06075)    40    0    6
+------ Yolo(06113)    2    0    6
+------ Santa Clara(06085)    138    4    6
+------ Alameda(06001)    18    0    6
+------ Madera(06039)    1    0    6
+------ Fresno(06019)    2    0    6
+------ Riverside(06065)    15    2    6
+------ Shasta(06089)    1    0    6
+------ Solano(06095)    9    0    6
+------ Santa Cruz(06087)    16    0    6
 ------ Napa(06055)    1    0    0
------- Ventura(06111)    5    0    0
------- Marin(06041)    11    0    0
------- Calaveras(06009)    2    0    0
------- Stanislaus(06099)    3    0    0
------- San Joaquin(06077)    9    0    0
------- Imperial(06025)    2    0    0
------- Tulare(06107)    3    0    0
------- San Luis Obispo(06079)    3    0    0
------- San Bernardino(06071)    2    0    0
------- Santa Barbara(06083)    1    0    0
------- Nevada(06057)    1    0    0
+------ Ventura(06111)    5    0    6
+------ Marin(06041)    11    0    6
+------ Calaveras(06009)    2    0    6
+------ Stanislaus(06099)    3    0    6
+------ San Joaquin(06077)    9    0    6
+------ Imperial(06025)    2    0    6
+------ Tulare(06107)    3    0    6
+------ San Luis Obispo(06079)    3    0    6
+------ San Bernardino(06071)    2    0    6
+------ Santa Barbara(06083)    1    0    6
+------ Nevada(06057)    1    0    6
 ---- WI    48    0    1
 ------ Dane(55025)    10    0    1
------- Pierce(55093)    2    0    0
+------ Pierce(55093)    2    0    1
 ------ Fond du Lac(55039)    11    0    0
------- Waukesha(55133)    3    0    0
------- Sheboygan(55117)    3    0    0
------- Milwaukee(55079)    13    0    0
------- Racine(55101)    1    0    0
------- Winnebago(55139)    3    0    0
------- Wood(55141)    1    0    0
------- Outagamie(55087)    1    0    0
------- Kenosha(55059)    1    0    0
+------ Waukesha(55133)    3    0    1
+------ Sheboygan(55117)    3    0    1
+------ Milwaukee(55079)    13    0    1
+------ Racine(55101)    1    0    1
+------ Winnebago(55139)    3    0    1
+------ Wood(55141)    1    0    1
+------ Outagamie(55087)    1    0    1
+------ Kenosha(55059)    1    0    1
 ---- TX    95    1    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    14    0    0
@@ -715,7 +715,7 @@
 ------ Duval(12031)    5    0    0
 ------ Miami-Dade(12086)    23    0    0
 ------ Seminole(12117)    4    0    0
------- Orange(12095)    3    1    0
+------ Orange(12095)    4    1    0
 ------ Osceola(12097)    4    0    0
 ------ Citrus(12017)    1    0    0
 ------ Escambia(12033)    1    0    0
@@ -760,21 +760,21 @@
 ------ Paulding(13223)    1    0    0
 ------ Forsyth(13117)    1    0    0
 ---- MA    197    0    1
------- Norfolk(25021)    36    0    0
+------ Norfolk(25021)    36    0    1
 ------ Suffolk(25025)    36    0    1
------- Middlesex(25017)    83    0    0
------- Plymouth(25023)    3    0    0
------- Berkshire(25003)    11    0    0
------- Worcester(25027)    6    0    0
------- Essex(25009)    8    0    0
------- Barnstable(25001)    1    0    0
------- Bristol(25005)    2    0    0
------- Hampden(25013)    1    0    0
+------ Middlesex(25017)    83    0    1
+------ Plymouth(25023)    3    0    1
+------ Berkshire(25003)    11    0    1
+------ Worcester(25027)    6    0    1
+------ Essex(25009)    8    0    1
+------ Barnstable(25001)    1    0    1
+------ Bristol(25005)    2    0    1
+------ Hampden(25013)    1    0    1
 ---- AZ    18    0    1
 ------ Maricopa(04013)    8    0    1
------- Pinal(04021)    5    0    0
------- Pima(04019)    4    0    0
------- Graham(04009)    1    0    0
+------ Pinal(04021)    5    0    1
+------ Pima(04019)    4    0    1
+------ Graham(04009)    1    0    1
 ---- NC    41    0    0
 ------ Wake(37183)    15    0    0
 ------ Chatham(37037)    1    0    0
@@ -849,16 +849,16 @@
 ------ Campbell(47013)    1    0    0
 ------ Sevier(47155)    1    0    0
 ---- MD    42    0    4
------- Montgomery(24031)    15    0    0
------- Harford(24025)    2    0    0
------- Prince George's(24033)    10    0    0
------- Baltimore(24005)    11    0    0
------- Charles(24017)    1    0    0
------- Anne Arundel(24003)    2    0    0
------- Carroll(24013)    1    0    0
------- Howard(24027)    4    0    0
------- Talbot(24041)    1    0    0
------- Frederick(24021)    1    0    0
+------ Montgomery(24031)    15    0    4
+------ Harford(24025)    2    0    4
+------ Prince George's(24033)    10    0    4
+------ Baltimore(24005)    11    0    4
+------ Charles(24017)    1    0    4
+------ Anne Arundel(24003)    2    0    4
+------ Carroll(24013)    1    0    4
+------ Howard(24027)    4    0    4
+------ Talbot(24041)    1    0    4
+------ Frederick(24021)    1    0    4
 ---- CO    160    1    0
 ------ Denver(08031)    25    0    0
 ------ Summit(08117)    2    0    0
@@ -935,6 +935,7 @@
 ------ Waseca(27161)    1    0    0
 ------ Washington(27163)    2    0    0
 ------ Benton(27009)    1    0    0
+------ Blue Earth(27013)    1    0    0
 ---- RI    21    0    0
 ------ Providence(44007)    21    0    0
 ---- CT    41    0    0
@@ -965,27 +966,27 @@
 ------ Kauai(15007)    2    0    0
 ------ Maui(15009)    2    0    0
 ---- OK    10    0    1
------- Tulsa(40143)    3    0    0
------- Jackson(40065)    1    0    0
------- Oklahoma(40109)    1    0    0
------- Cleveland(40027)    2    0    0
------- Payne(40119)    1    0    0
------- Kay(40071)    1    0    0
------- Canadian(40017)    1    0    0
+------ Tulsa(40143)    3    0    1
+------ Jackson(40065)    1    0    1
+------ Oklahoma(40109)    1    0    1
+------ Cleveland(40027)    2    0    1
+------ Payne(40119)    1    0    1
+------ Kay(40071)    1    0    1
+------ Canadian(40017)    1    0    1
 ---- VA    52    2    1
------- Fairfax(51059)    10    0    0
+------ Fairfax(51059)    10    0    1
 ------ Norfolk City(51710)    2    0    0
------- Arlington(51013)    9    0    0
------- Spotsylvania(51177)    1    0    0
------- Loudoun(51107)    5    0    0
------- Hanover(51085)    1    0    0
+------ Arlington(51013)    10    0    1
+------ Spotsylvania(51177)    1    0    1
+------ Loudoun(51107)    9    0    1
+------ Hanover(51085)    1    0    1
 ------ Harrisonburg(51660)    1    0    0
------- Prince Edward(51147)    1    0    0
------- Prince William(51153)    3    0    0
------- Chesterfield(51041)    2    0    0
+------ Prince Edward(51147)    1    0    1
+------ Prince William(51153)    3    0    1
+------ Chesterfield(51041)    2    0    1
 ------ Albemarle(51003)    1    0    0
------- Henrico(51087)    1    0    0
------- Stafford(51179)    1    0    0
+------ Henrico(51087)    1    0    1
+------ Stafford(51179)    1    0    1
 ---- KS    11    1    0
 ------ Johnson(20091)    8    0    0
 ------ Wyandotte(20209)    1    1    0
@@ -1086,9 +1087,10 @@
 ------ Fremont(56013)    8    0    0
 ---- ND    1    0    0
 ------ Ward(38101)    1    0    0
----- ME    17    0    0
+---- ME    18    0    0
 ------ Androscoggin(23001)    1    0    0
------- Cumberland(23005)    13    0    0
+------ Cumberland(23005)    14    0    0
+------ Knox(23013)    1    0    0
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ------ Fairbanks North Star(02090)    2    0    0
@@ -1166,7 +1168,7 @@
 -- Netherlands    1414    24    2
 ---- Netherlands    1413    24    2
 ---- Curacao    1    0    0
--- Norway    1348    3    1
+-- Norway    1350    3    1
 -- Austria    1132    3    8
 -- Sweden    1121    7    1
 -- Belgium    1085    10    1
@@ -1207,12 +1209,12 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Brazil    234    0    2
 -- Bahrain    228    1    81
+-- Estonia    225    0    1
 -- Ireland    223    2    5
--- Estonia    205    0    1
 -- Poland    205    5    13
 -- Iceland    199    5    8
 -- Pakistan    189    1    2
--- Romania    184    0    9
+-- Romania    184    0    16
 -- Thailand    177    1    41
 -- Egypt    166    4    32
 -- Hong Kong    157    4    81
@@ -1222,14 +1224,14 @@
 -- Iraq    133    10    32
 -- Saudi Arabia    133    0    6
 -- India    130    3    13
--- Kuwait    123    0    9
+-- Kuwait    130    0    9
 -- Lebanon    120    3    3
 -- San Marino    109    7    4
 -- United Arab Emirates    98    0    23
+-- Luxembourg    94    1    0
 -- Russian Federation    93    0    8
 -- Peru    86    0    1
 -- Mexico    82    0    4
--- Luxembourg    81    1    0
 -- Slovakia    78    0    0
 -- Panama    69    1    0
 -- Bulgaria    67    2    0
@@ -1258,7 +1260,7 @@
 -- Jordan    34    0    1
 -- Venezuela, Bolivarian Republic of    33    0    0
 -- Malta    30    0    2
--- Sri Lanka    29    0    1
+-- Sri Lanka    29    0    2
 -- Moldova, Republic of    29    0    1
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
@@ -1286,17 +1288,18 @@
 -- Monaco    9    0    0
 -- Paraguay    9    0    0
 -- Réunion    9    0    0
+-- Honduras    8    0    0
 -- Guatemala    8    1    0
 -- Ukraine    7    1    0
 -- Liechtenstein    7    0    0
 -- Guyana    7    1    0
 -- Rwanda    7    0    0
--- Honduras    6    0    0
 -- Ghana    6    0    0
 -- Guadeloupe    6    0    0
 -- Cameroon    5    0    0
 -- Puerto Rico    5    0    0
 -- Ethiopia    5    0    0
+-- Guam    5    0    0
 -- Mongolia    4    0    0
 -- Cuba    4    0    0
 -- Trinidad and Tobago    4    0    0
@@ -1305,7 +1308,6 @@
 -- Kenya    3    0    0
 -- Seychelles    3    0    0
 -- Saint Barthélemy    3    0    0
--- Guam    3    0    0
 -- Nigeria    2    0    1
 -- Aruba    2    0    0
 -- Saint Martin (French part)    2    0    0
