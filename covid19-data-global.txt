@@ -544,7 +544,7 @@
 ---- Seoul    265    0    55
 ---- Ulsan    28    0    8
 ---- 未确定地区    6    0    0
--- Germany    7636    20    67
+-- Germany    7974    20    67
 ---- Saxony    152    0    0
 ---- Mecklenburg-Vorpommern    51    0    0
 ---- Free State of Bavaria    1067    5    14
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    4743    93    74
+-- United States of America    4744    93    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -734,7 +734,7 @@
 ------ Linn(41043)    14    0    0
 ------ Clackamas(41005)    2    0    0
 ------ Yamhill(41071)    1    0    0
----- GA    123    1    0
+---- GA    124    1    0
 ------ Fulton(13121)    27    0    0
 ------ Cobb(13067)    22    1    0
 ------ Polk(13233)    1    0    0
@@ -759,6 +759,7 @@
 ------ Hall(13139)    1    0    0
 ------ Paulding(13223)    1    0    0
 ------ Forsyth(13117)    1    0    0
+------ Spalding(13255)    1    0    0
 ---- MA    197    0    1
 ------ Norfolk(25021)    36    0    1
 ------ Suffolk(25025)    36    0    1
@@ -1207,13 +1208,13 @@
 -- Slovenia    253    1    0
 -- Singapore    243    0    109
 ---- Central Singapore Community Development Council    200    0    97
--- Bahrain    236    1    81
+-- Bahrain    237    1    81
 -- Brazil    234    0    2
 -- Estonia    225    0    1
 -- Ireland    223    2    5
+-- Iceland    220    5    8
+-- Pakistan    212    1    2
 -- Poland    205    5    13
--- Iceland    199    5    8
--- Pakistan    194    1    2
 -- Philippines    187    12    5
 -- Romania    184    0    16
 -- Thailand    177    1    41
@@ -1238,18 +1239,18 @@
 -- Panama    69    1    0
 -- Argentina    68    2    3
 -- Bulgaria    67    2    0
+-- Viet Nam    66    0    16
 -- Croatia    65    0    4
 -- Serbia    65    0    1
 -- Armenia    64    0    1
 -- South Africa    64    0    0
--- Viet Nam    61    0    16
 -- Algeria    60    5    12
+-- Latvia    60    0    1
 -- Ecuador    58    2    0
 -- Colombia    57    0    1
 -- Brunei Darussalam    56    0    0
 -- Albania    55    1    0
 -- Hungary    50    1    2
--- Latvia    49    0    1
 -- Turkey    47    0    0
 -- Faroe Islands    47    0    0
 -- Cyprus    46    0    0
@@ -1271,10 +1272,10 @@
 -- Bosnia and Herzegovina    26    0    2
 -- Cambodia    24    0    1
 -- Oman    24    0    12
--- Tunisia    24    0    0
+-- Tunisia    24    0    1
 -- Afghanistan    22    0    1
+-- Lithuania    21    0    1
 -- Dominican Republic    21    1    0
--- Lithuania    20    0    1
 -- Martinique    15    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
