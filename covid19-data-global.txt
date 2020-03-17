@@ -1218,7 +1218,7 @@
 -- Indonesia    134    5    8
 -- Iraq    133    10    32
 -- Saudi Arabia    133    0    6
--- India    129    2    13
+-- India    129    3    13
 -- Kuwait    123    0    9
 -- Lebanon    110    3    3
 -- San Marino    109    7    4
