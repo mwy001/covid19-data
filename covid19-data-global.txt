@@ -525,7 +525,7 @@
 ---- Melilla    17    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    8604    23    67
+-- Germany    8639    23    67
 ---- Saxony    152    0    0
 ---- Mecklenburg-Vorpommern    51    0    0
 ---- Free State of Bavaria    1067    5    14
@@ -585,7 +585,7 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    1    0    0
--- United States of America    5695    97    74
+-- United States of America    5723    97    74
 ---- WA    908    52    57
 ------ King(53033)    488    43    57
 ------ Snohomish(53061)    200    4    57
@@ -669,7 +669,7 @@
 ------ Wood(55141)    1    0    1
 ------ Outagamie(55087)    1    0    1
 ------ Kenosha(55059)    1    0    1
----- TX    106    2    0
+---- TX    107    2    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    14    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -682,7 +682,7 @@
 ------ Smith(48423)    4    0    0
 ------ El Paso(48141)    3    0    0
 ------ Bell(48027)    2    0    0
------- Galveston(48167)    1    0    0
+------ Galveston(48167)    2    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
 ------ Hays(48209)    3    0    0
@@ -782,12 +782,12 @@
 ------ Pinal(04021)    5    0    1
 ------ Pima(04019)    4    0    1
 ------ Graham(04009)    1    0    1
----- NC    41    0    0
+---- NC    45    0    0
 ------ Wake(37183)    15    0    0
 ------ Chatham(37037)    1    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
------- Mecklenburg(37119)    7    0    0
+------ Mecklenburg(37119)    11    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Durham(37063)    1    0    0
 ------ Johnston(37101)    2    0    0
@@ -800,6 +800,7 @@
 ------ Wilson(37195)    1    0    0
 ------ Iredell(37097)    1    0    0
 ------ Sampson(37163)    1    0    0
+------ Guilford(37081)    1    0    0
 ---- NY    1710    12    1
 ------ Westchester(36119)    380    0    0
 ------ New York(36061)    644    7    0
@@ -845,12 +846,12 @@
 ------ Mercer(34021)    6    0    0
 ------ Ocean(34029)    3    0    0
 ------ Hunterdon(34019)    1    0    0
----- NV    45    1    0
+---- NV    48    1    0
 ------ Clark(32003)    35    1    0
------- Washoe(32031)    9    0    0
----- TN    52    0    0
+------ Washoe(32031)    12    0    0
+---- TN    58    0    0
 ------ Williamson(47187)    18    0    0
------- Davidson(47037)    25    0    0
+------ Davidson(47037)    31    0    0
 ------ Shelby(47157)    2    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    1    0    0
@@ -901,12 +902,12 @@
 ------ Chester(42029)    6    0    0
 ------ Washington(42125)    1    0    0
 ------ Cumberland(42041)    5    0    0
------- Allegheny(42003)    6    0    0
+------ Allegheny(42003)    10    0    0
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
 ------ Beaver(42007)    1    0    0
 ---- NE    21    0    0
------- Douglas(31055)    17    0    0
+------ Douglas(31055)    19    0    0
 ------ Knox(31107)    1    0    0
 ------ Cass(31025)    1    0    0
 ---- KY    25    1    0
@@ -917,7 +918,7 @@
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
 ------ Bourbon(21017)    1    1    0
----- IN    30    2    0
+---- IN    31    2    0
 ------ Marion(18097)    9    1    0
 ------ Hendricks(18063)    3    0    0
 ------ Noble(18113)    1    0    0
@@ -933,7 +934,7 @@
 ------ Floyd(18043)    1    0    0
 ------ Bartholomew(18005)    1    0    0
 ------ Franklin(18047)    2    0    0
------- Lake(18089)    1    0    0
+------ Lake(18089)    2    0    0
 ---- MN    60    0    0
 ------ Ramsey(27123)    10    0    0
 ------ Jefferson(21111)    1    0    0
@@ -1030,15 +1031,16 @@
 ------ Windsor(50027)    3    0    0
 ------ Washington(50023)    1    0    0
 ------ Orange(50017)    1    0    0
----- LA    171    4    0
------- Jefferson(22051)    21    4    0
------- Orleans(22071)    94    3    0
+---- LA    175    4    0
+------ Jefferson(22051)    31    4    0
+------ Orleans(22071)    116    3    0
 ------ Iberia(22045)    1    0    0
------- Caddo(22017)    3    0    0
+------ Caddo(22017)    4    0    0
 ------ Terrebonne(22109)    3    0    0
 ------ Bossier(22015)    1    0    0
 ------ Lafourche(22057)    2    0    0
------- Ascension(22005)    1    0    0
+------ Ascension(22005)    3    0    0
+------ Washington(22117)    3    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- SD    10    1    0
@@ -1049,7 +1051,7 @@
 ------ Minnehaha(46099)    4    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ McCook(46087)    1    0    0
----- OH    51    0    0
+---- OH    52    0    0
 ------ Cuyahoga(39035)    24    0    0
 ------ Stark(39151)    3    0    0
 ------ Trumbull(39155)    2    0    0
@@ -1062,6 +1064,7 @@
 ------ Tuscarawas(39157)    1    0    0
 ------ Medina(39103)    2    0    0
 ------ Geauga(39055)    1    0    0
+------ Lake(39085)    1    0    0
 ---- MI    58    0    0
 ------ Oakland(26125)    14    0    0
 ------ Wayne(26163)    14    0    0
@@ -1200,6 +1203,19 @@
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
+-- Canada    467    5    11
+---- British Columbia    103    4    4
+---- Ontario    186    1    5
+---- Alberta    74    0    0
+---- Quebec    63    0    0
+---- New Brunswick    7    0    0
+---- Manitoba    8    0    0
+---- Saskatchewan    7    0    0
+---- Grand Princess    2    0    0
+---- Grand Princess Cruise Ship    8    0    0
+---- Prince Edward Island    1    0    0
+---- Newfoundland and Labrador    3    0    0
+---- Nova Scotia    7    0    0
 -- Australia    452    6    27
 ---- New South Wales    171    2    4
 ---- Victoria    71    0    8
@@ -1209,19 +1225,6 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
--- Canada    452    5    11
----- British Columbia    103    4    4
----- Ontario    186    1    5
----- Alberta    74    0    0
----- Quebec    50    0    0
----- New Brunswick    7    0    0
----- Manitoba    8    0    0
----- Saskatchewan    7    0    0
----- Grand Princess    2    0    0
----- Grand Princess Cruise Ship    8    0    0
----- Prince Edward Island    1    0    0
----- Newfoundland and Labrador    1    0    0
----- Nova Scotia    7    0    0
 -- Portugal    448    1    3
 -- Qatar    439    0    4
 -- Czechia    396    0    3
@@ -1240,12 +1243,12 @@
 -- Romania    222    0    19
 -- Poland    221    5    13
 -- Chile    201    0    0
+-- Egypt    196    6    32
 -- Philippines    187    12    5
 -- Thailand    177    1    41
 -- Indonesia    172    7    8
 -- Saudi Arabia    171    0    6
--- Egypt    169    4    32
--- Hong Kong    162    4    81
+-- Hong Kong    168    4    81
 -- Iraq    154    11    41
 -- India    153    3    14
 -- Luxembourg    140    1    0
@@ -1288,12 +1291,12 @@
 -- Cambodia    33    0    1
 -- Kazakhstan    33    0    0
 -- Venezuela, Bolivarian Republic of    33    0    0
+-- North Macedonia    31    0    1
 -- Moldova, Republic of    30    0    1
 -- Uruguay    29    0    0
 -- Azerbaijan    28    1    6
 -- Senegal    27    0    2
 -- Bosnia and Herzegovina    27    0    2
--- North Macedonia    26    0    1
 -- Oman    24    0    12
 -- Tunisia    24    0    1
 -- Afghanistan    22    0    1
@@ -1332,7 +1335,7 @@
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
 -- Aruba    3    0    0
--- Gibraltar    3    0    1
+-- Gibraltar    3    0    2
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
 -- Saint Martin (French part)    2    0    0
