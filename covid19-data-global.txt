@@ -71,7 +71,7 @@
 ---- Liguria    778    60    57
 ---- Veneto    2704    80    136
 ---- Bolzano    291    8    1
--- Iran, Islamic Republic of    16169    988    5389
+-- Iran, Islamic Republic of    17361    1135    5389
 ---- Qom    1052    30    0
 ---- Tehran    4047    0    0
 ---- Fars    326    2    0
@@ -124,7 +124,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    9877    26    71
+-- Germany    9919    26    71
 ---- Saxony    247    0    0
 ---- Mecklenburg-Vorpommern    69    0    0
 ---- Free State of Bavaria    1352    5    14
@@ -811,7 +811,7 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Norway    1489    4    1
+-- Norway    1523    4    1
 -- Belgium    1486    10    14
 -- Austria    1471    4    9
 -- Sweden    1196    8    1
@@ -855,7 +855,7 @@
 -- Estonia    258    0    1
 -- Bahrain    255    1    88
 -- Pakistan    254    1    2
--- Iceland    247    5    8
+-- Iceland    250    5    8
 -- Romania    246    0    19
 -- Poland    246    5    13
 -- Indonesia    227    19    11
@@ -887,26 +887,26 @@
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Colombia    75    0    1
+-- Algeria    72    5    12
 -- Latvia    71    0    1
 -- Nigeria    69    0    1
 -- Brunei Darussalam    68    0    0
 -- Viet Nam    68    0    16
--- Algeria    67    5    12
 -- Albania    59    2    0
 -- Hungary    58    1    2
 -- Faroe Islands    58    0    1
 -- Belarus    51    0    5
 -- Costa Rica    50    0    0
 -- Uruguay    50    0    0
+-- Sri Lanka    49    0    3
 -- Morocco    49    2    1
 -- Cyprus    49    0    0
 -- Jordan    48    0    1
--- Sri Lanka    45    0    3
+-- Malta    48    0    2
 -- Palestine    44    0    0
 -- Andorra    39    0    1
 -- Georgia    38    0    1
 -- Bosnia and Herzegovina    38    0    2
--- Malta    38    0    2
 -- Venezuela, Bolivarian Republic of    36    0    0
 -- Cambodia    35    0    1
 -- Kazakhstan    35    0    0
@@ -921,7 +921,7 @@
 -- Afghanistan    22    0    1
 -- Dominican Republic    21    1    0
 -- New Zealand    20    0    0
--- Burkina Faso    20    0    0
+-- Burkina Faso    20    1    0
 -- Liechtenstein    19    0    0
 -- Martinique    19    1    0
 -- Jamaica    15    0    2
@@ -970,6 +970,7 @@
 -- Liberia    2    0    0
 -- Barbados    2    0    0
 -- Montenegro    2    0    0
+-- New Caledonia    2    0    0
 -- Nepal    1    0    1
 -- Bhutan    1    0    0
 -- Togo    1    0    0
