@@ -770,7 +770,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Japan    1848    29    144
----- Hokkaido    152    6    66
+---- Hokkaido    154    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    21    0    0
@@ -812,7 +812,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    1471    4    9
--- Norway    1471    3    1
+-- Norway    1471    4    1
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
 -- Denmark    1024    4    1
@@ -841,9 +841,9 @@
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
+-- Czechia    464    0    3
 -- Portugal    448    1    3
 -- Qatar    442    0    4
--- Czechia    434    0    3
 -- Israel    427    0    11
 -- Greece    387    5    14
 -- Brazil    349    1    2
@@ -854,11 +854,12 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Pakistan    247    1    2
 -- Iceland    247    5    8
+-- Romania    246    0    19
 -- Poland    246    5    13
 -- Bahrain    241    1    88
 -- Estonia    225    0    1
--- Romania    222    0    19
 -- Thailand    212    1    41
+-- Luxembourg    203    2    0
 -- Chile    201    0    0
 -- Egypt    196    6    32
 -- Philippines    193    14    5
@@ -868,10 +869,10 @@
 -- Iraq    154    11    41
 -- India    153    3    14
 -- Kuwait    142    0    12
--- Luxembourg    140    1    0
 -- Lebanon    124    4    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
+-- South Africa    116    0    0
 -- Russian Federation    114    0    8
 -- United Arab Emirates    113    0    26
 -- Ecuador    111    2    0
@@ -880,26 +881,25 @@
 -- Slovakia    97    0    0
 -- Mexico    93    0    4
 -- Panama    86    1    0
--- South Africa    85    0    0
+-- Armenia    84    0    1
 -- Serbia    83    0    1
+-- Croatia    81    0    5
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
--- Armenia    78    0    1
 -- Colombia    75    0    1
--- Croatia    69    0    5
+-- Latvia    71    0    1
 -- Nigeria    69    0    1
 -- Viet Nam    68    0    16
--- Algeria    61    5    12
--- Latvia    60    0    1
+-- Algeria    67    5    12
 -- Hungary    58    1    2
+-- Faroe Islands    58    0    1
 -- Brunei Darussalam    56    0    0
 -- Albania    55    2    0
 -- Costa Rica    50    0    0
 -- Uruguay    50    0    0
 -- Cyprus    49    0    0
 -- Jordan    48    0    1
--- Faroe Islands    47    0    0
--- Sri Lanka    45    0    2
+-- Sri Lanka    45    0    3
 -- Morocco    44    2    1
 -- Palestine    44    0    0
 -- Andorra    39    0    1
@@ -916,13 +916,13 @@
 -- Moldova, Republic of    30    1    1
 -- Senegal    27    0    2
 -- Tunisia    27    0    1
+-- Guadeloupe    27    0    0
 -- Lithuania    26    0    1
 -- Afghanistan    22    0    1
 -- Dominican Republic    21    1    0
 -- New Zealand    20    0    0
 -- Liechtenstein    19    0    0
--- Guadeloupe    18    0    0
--- Martinique    16    1    0
+-- Martinique    19    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
 -- Ukraine    14    2    0
@@ -930,17 +930,17 @@
 -- Maldives    13    0    0
 -- Uzbekistan    13    0    0
 -- Bolivia, Plurinational State of    12    0    0
+-- Réunion    12    0    0
 -- French Guiana    11    0    0
 -- Bangladesh    11    1    3
+-- Guyana    11    1    0
 -- Cameroon    10    0    0
 -- Monaco    9    0    0
 -- Paraguay    9    0    0
 -- Honduras    9    0    0
--- Réunion    9    0    0
 -- Guatemala    8    1    0
 -- Rwanda    8    0    0
 -- Cuba    7    0    0
--- Guyana    7    1    0
 -- Ghana    7    0    0
 -- Trinidad and Tobago    7    0    0
 -- Mongolia    6    0    0
@@ -952,6 +952,7 @@
 -- Kenya    4    0    0
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
+-- Saint Martin (French part)    3    0    0
 -- Gabon    3    0    0
 -- Gibraltar    3    0    2
 -- Mayotte    3    0    0
@@ -960,7 +961,6 @@
 -- Tanzania, United Republic of    3    0    0
 -- Congo, Democratic Republic of the    3    0    0
 -- Kyrgyzstan    3    0    0
--- Saint Martin (French part)    2    0    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
 -- Virgin Islands, U.S.    2    0    0
