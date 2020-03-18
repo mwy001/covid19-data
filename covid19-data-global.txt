@@ -72,37 +72,37 @@
 ---- Veneto    2704    80    136
 ---- Bolzano    291    8    1
 -- Iran, Islamic Republic of    17361    1135    5389
----- Qom    1052    30    0
----- Tehran    4047    0    0
----- Fars    326    2    0
----- Markazi    759    11    0
----- Mazandaran    1433    13    0
----- Ardabil    203    3    0
----- South Khorasan    119    1    0
----- Ilam    110    0    0
----- Isfahan    1376    2    0
----- Hamadan    142    1    0
----- Razavi Khorasan    631    8    0
----- Hormozgan    112    2    0
----- Kurdistan    167    0    0
----- Qazvin    473    7    0
----- Yazd    426    3    0
----- West Azerbaijan    258    0    0
----- Gilan    903    0    0
----- Golestan    331    6    0
----- Khuzestan    331    12    0
----- Alborz    830    7    0
----- Semnan    517    0    0
----- Lorestan    324    4    0
----- East Azerbaijan    487    6    0
----- Kermanshah    145    2    0
----- Sistan and Baluchestan    82    0    0
----- Kerman    116    0    0
----- Zanjan    241    0    0
----- Chaharmahal and Bakhtiari    54    0    0
+---- Qom    1074    30    0
+---- Tehran    4260    0    0
+---- Fars    386    2    0
+---- Markazi    782    11    0
+---- Mazandaran    1494    13    0
+---- Ardabil    213    3    0
+---- South Khorasan    140    1    0
+---- Ilam    120    0    0
+---- Isfahan    1538    2    0
+---- Hamadan    155    1    0
+---- Razavi Khorasan    661    8    0
+---- Hormozgan    124    2    0
+---- Kurdistan    189    0    0
+---- Qazvin    526    7    0
+---- Yazd    471    3    0
+---- West Azerbaijan    300    0    0
+---- Gilan    924    0    0
+---- Golestan    351    6    0
+---- Khuzestan    359    12    0
+---- Alborz    906    7    0
+---- Semnan    577    0    0
+---- Lorestan    363    4    0
+---- East Azerbaijan    571    6    0
+---- Kermanshah    152    2    0
+---- Sistan and Baluchestan    88    0    0
+---- Kerman    127    0    0
+---- Zanjan    261    0    0
+---- Chaharmahal and Bakhtiari    58    0    0
 ---- North Khorasan    100    0    0
----- Kohgiluyeh and Boyer-Ahmad    32    0    0
----- Bushehr    42    0    0
+---- Kohgiluyeh and Boyer-Ahmad    45    0    0
+---- Bushehr    46    0    0
 -- Spain    13910    623    1081
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
@@ -124,7 +124,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    10082    27    73
+-- Germany    10120    27    73
 ---- Saxony    247    0    0
 ---- Mecklenburg-Vorpommern    69    0    0
 ---- Free State of Bavaria    1352    5    14
@@ -760,11 +760,8 @@
 ---- GU    8    0    0
 ---- PR    5    0    0
 ---- VI    2    0    0
--- Switzerland    2742    27    15
--- Netherlands    2051    58    2
----- Netherlands    1705    43    2
----- Curacao    3    0    0
--- United Kingdom of Great Britain and Northern Ireland    1960    71    65
+-- Switzerland    3070    27    15
+-- United Kingdom of Great Britain and Northern Ireland    2626    71    65
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -774,6 +771,9 @@
 ---- Scotland    153    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
+-- Netherlands    2051    58    2
+---- Netherlands    1705    43    2
+---- Curacao    3    0    0
 -- Japan    1848    29    144
 ---- Hokkaido    154    6    66
 ---- kochi    12    0    0
@@ -783,23 +783,23 @@
 ---- Nagano    4    0    0
 ---- Tochigi    3    0    0
 ---- Kumamoto    6    0    0
----- Saitama    34    0    0
+---- Saitama    35    0    0
 ---- Ishikawa    7    0    0
 ---- Fukuoka    4    0    0
----- Tokyo    102    2    0
+---- Tokyo    111    2    0
 ---- Wakayama    15    1    2
----- Kyoto    19    0    2
----- Osaka    112    0    1
+---- Kyoto    21    0    2
+---- Osaka    117    0    1
 ---- Chiba    33    0    0
 ---- Kanagawa    60    4    1
 ---- Shizuoka    3    0    0
----- Aichi    125    14    2
+---- Aichi    128    15    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
----- Mie    8    0    1
+---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    86    2    0
+---- hyogo    91    3    0
 ---- oita    1    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
@@ -846,7 +846,7 @@
 ---- Australian Capital Territory    2    0    0
 -- Czechia    464    0    3
 -- Qatar    442    0    4
--- Israel    427    0    11
+-- Israel    433    0    11
 -- Greece    387    5    14
 -- Finland    359    0    10
 -- Brazil    350    2    2
@@ -882,13 +882,13 @@
 -- Taiwan    100    1    22
 -- Turkey    98    1    0
 -- Mexico    93    0    4
+-- Colombia    93    0    1
 -- Panama    86    1    0
 -- Armenia    84    0    1
 -- Serbia    83    0    1
 -- Croatia    81    0    5
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
--- Colombia    75    0    1
 -- Algeria    72    6    12
 -- Latvia    71    0    1
 -- Nigeria    69    0    1
@@ -954,6 +954,7 @@
 -- Puerto Rico    5    0    0
 -- Aruba    4    0    0
 -- Seychelles    4    0    0
+-- Equatorial Guinea    4    0    0
 -- French Polynesia    3    0    0
 -- Saint Martin (French part)    3    0    0
 -- Gabon    3    0    0
@@ -985,7 +986,6 @@
 -- Guinea    1    0    0
 -- Mauritania    1    0    0
 -- Suriname    1    0    0
--- Equatorial Guinea    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Eswatini    1    0    0
 -- Guernsey    1    0    0
