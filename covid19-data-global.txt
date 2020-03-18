@@ -1,5 +1,5 @@
--- China    81033    3217    67910
----- Hubei    67798    3099    55142
+-- China    81058    3230    68798
+---- Hubei    67799    3111    56003
 ------ Wuhan    49999    2456    37642
 ------ Xiaogan    3518    126    3253
 ------ Ezhou    1394    57    1272
@@ -17,7 +17,7 @@
 ------ Xianning    836    14    819
 ------ Tianmen    496    15    477
 ------ Shennongjia    11    0    11
----- Guangdong    1361    8    1306
+---- Guangdong    1364    8    1307
 ------ Shenzhen    423    3    401
 ------ Guangzhou    351    1    330
 ------ Foshan    85    0    81
@@ -57,7 +57,7 @@
 ------ Puyang    17    0    17
 ------ Sanmenxia    7    1    6
 ------ Jiyuan    5    0    5
----- Zhejiang    1231    1    1216
+---- Zhejiang    1232    1    1216
 ------ Lishui    28    0    18
 ------ Wenzhou    504    1    501
 ------ Hangzhou    182    0    181
@@ -115,7 +115,7 @@
 ------ Yingtan    18    0    18
 ------ Jingdezhen    6    0    6
 ------ Ganjiang New District    1    0    1
----- Shandong    760    7    746
+---- Shandong    761    7    746
 ------ Jining    260    0    256
 ------ Dezhou    37    2    35
 ------ Qingdao    61    1    59
@@ -185,7 +185,7 @@
 ------ Xiushan Tujia and Miao Autonomous County    1    0    1
 ------ Youyang Tujia and Miao Autonomous County    1    0    1
 ------ Wansheng District    1    0    1
----- Sichuan    539    3    516
+---- Sichuan    540    3    520
 ------ Chengdu    144    3    126
 ------ Bazhong    24    0    24
 ------ Garzê Tibetan Autonomous Prefecture    78    0    77
@@ -207,7 +207,7 @@
 ------ Ziyang    4    0    4
 ------ Leshan    3    0    3
 ------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
----- Heilongjiang    482    13    455
+---- Heilongjiang    482    13    456
 ------ Harbin    198    4    189
 ------ Shuangyashan    52    3    48
 ------ Suihua    47    4    42
@@ -221,7 +221,7 @@
 ------ Daxinganling    3    0    2
 ------ Jiamusi    15    0    15
 ------ Yichun    1    0    1
----- Beijing    452    8    360
+---- Beijing    456    8    369
 ------ Chaoyang District    72    0    0
 ------ Haidian District    63    0    0
 ------ Xicheng District    53    0    0
@@ -238,7 +238,7 @@
 ------ Miyun District    7    0    0
 ------ Mentougou District    3    0    2
 ------ Yanqing District    1    0    0
----- Shanghai    355    3    325
+---- Shanghai    358    3    325
 ------ People from other cities    111    1    106
 ------ Pudong District    61    0    59
 ------ Baoshan District    21    0    19
@@ -278,7 +278,7 @@
 ------ Nanping    20    0    20
 ------ Sanming    14    0    14
 ------ Longyan    6    0    6
----- Guangxi    252    2    248
+---- Guangxi    253    2    248
 ------ Fangchenggang    19    0    17
 ------ Laibin    11    0    9
 ------ Nanning    55    0    54
@@ -292,7 +292,7 @@
 ------ Wuzhou    5    0    5
 ------ Hezhou    4    0    4
 ------ Baise    3    0    3
----- Shaanxi    245    2    233
+---- Shaanxi    246    3    236
 ------ Xi'an    120    3    110
 ------ Hanzhong    26    0    26
 ------ Xianyang    17    0    16
@@ -336,7 +336,7 @@
 ------ Baoting Li and Miao Autonomous County    3    0    3
 ------ Ledong Li Autonomous County    2    0    2
 ------ Qiongzhong Li and Miao Autonomous County    1    0    1
----- Guizhou    146    2    144
+---- Guizhou    147    2    144
 ------ Guiyang    36    1    34
 ------ Zunyi    32    0    32
 ------ Liupanshui    10    1    9
@@ -386,8 +386,8 @@
 ------ Linxia    3    0    3
 ------ Zhangye    2    0    2
 ------ Jinchang    1    0    1
----- Hong Kong    155    4    84
----- Liaoning    125    1    115
+---- Hong Kong    162    4    88
+---- Liaoning    125    1    120
 ------ Dandong    11    0    9
 ------ Dalian    19    0    19
 ------ Shenyang    28    0    27
@@ -447,7 +447,7 @@
 ---- Qinghai    18    0    18
 ------ Xining    15    0    15
 ------ Haibei    3    0    3
----- Macau    11    0    10
+---- Macau    12    0    10
 ---- Tibet    1    0    1
 ------ Lhasa    1    0    1
 -- Italy    31506    2503    2941
@@ -542,7 +542,7 @@
 ---- Baden-Württemberg    1105    3    14
 ---- Saxony-Anhalt    77    0    0
 ---- Saarland    85    0    0
--- Korea, Republic of    8320    81    1401
+-- Korea, Republic of    8320    81    1407
 ---- Busan    107    1    54
 ---- Chungcheongbuk-do    31    0    6
 ---- Chungcheongnam-do    115    0    15
@@ -562,7 +562,7 @@
 ---- Ulsan    28    0    8
 ---- 未确定地区    6    0    0
 -- France    7730    175    602
----- France    6633    148    12
+---- France    7652    148    12
 ---- St Martin    3    0    0
 ---- Saint Barthelemy    3    0    0
 ---- Nord-Pas-de-Calais and Picardy    612    7    4
@@ -585,7 +585,8 @@
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
--- United States of America    6439    109    106
+---- Reunion    9    0    0
+-- United States of America    6456    109    106
 ---- WA    1076    55    89
 ------ King(53033)    569    46    89
 ------ Snohomish(53061)    266    6    89
@@ -666,13 +667,14 @@
 ------ Fond du Lac(55039)    11    0    0
 ------ Waukesha(55133)    4    0    1
 ------ Sheboygan(55117)    3    0    1
------- Milwaukee(55079)    24    0    1
+------ Milwaukee(55079)    40    0    1
 ------ Racine(55101)    1    0    1
 ------ Winnebago(55139)    3    0    1
 ------ Wood(55141)    1    0    1
 ------ Outagamie(55087)    1    0    1
 ------ Kenosha(55059)    4    0    1
----- TX    113    2    0
+------ Ozaukee(55089)    1    0    1
+---- TX    120    2    0
 ------ Bexar(48029)    4    0    0
 ------ Harris(48201)    16    0    0
 ------ Fort Bend(48157)    9    0    0
@@ -681,8 +683,8 @@
 ------ Dallas(48113)    28    0    0
 ------ Tarrant(48439)    6    0    0
 ------ Montgomery(48339)    4    0    0
------- Travis(48453)    10    0    0
------- Smith(48423)    4    0    0
+------ Travis(48453)    17    0    0
+------ Smith(48423)    5    0    0
 ------ El Paso(48141)    3    0    0
 ------ Bell(48027)    2    0    0
 ------ Galveston(48167)    2    0    0
@@ -695,6 +697,7 @@
 ------ Webb(48479)    1    0    0
 ------ Rusk(48401)    1    0    0
 ------ Brazos(48041)    1    0    0
+------ Lubbock(48303)    2    0    0
 ---- NH    26    0    0
 ------ Grafton(33009)    7    0    0
 ------ Rockingham(33015)    14    0    0
@@ -740,6 +743,7 @@
 ------ Linn(41043)    15    0    0
 ------ Clackamas(41005)    6    0    0
 ------ Yamhill(41071)    1    0    0
+------ Lane(41039)    1    0    0
 ---- GA    150    1    0
 ------ Fulton(13121)    33    0    0
 ------ Cobb(13067)    25    1    0
@@ -788,7 +792,7 @@
 ------ Graham(04009)    1    0    1
 ------ Navajo(04017)    1    0    1
 ---- NC    66    0    0
------- Wake(37183)    15    0    0
+------ Wake(37183)    17    0    0
 ------ Chatham(37037)    3    0    0
 ------ Kershaw(45055)    4    0    0
 ------ Forsyth(37067)    2    0    0
@@ -824,7 +828,7 @@
 ------ Orange(36071)    15    0    0
 ------ Broome(36007)    1    0    0
 ------ Schenectady(36093)    5    0    0
------- Tompkins(36109)    2    0    0
+------ Tompkins(36109)    3    0    0
 ------ Tioga(36107)    1    0    0
 ------ Erie(36029)    11    0    0
 ------ Putnam(36079)    2    0    0
@@ -923,7 +927,7 @@
 ---- KY    27    1    0
 ------ Fayette(21067)    7    0    0
 ------ Harrison(21097)    6    0    0
------- Jefferson(21111)    7    0    0
+------ Jefferson(21111)    8    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Nelson(21179)    1    0    0
 ------ Clark(21049)    1    0    0
@@ -1038,13 +1042,15 @@
 ------ Cole(29051)    1    0    0
 ------ Boone(29019)    1    0    0
 ---- IA    29    0    0
------- Johnson(19103)    15    0    0
+------ Johnson(19103)    18    0    0
 ------ Pottawattamie(19155)    1    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    1    0    0
------- Dallas(19049)    2    0    0
+------ Dallas(19049)    3    0    0
 ------ Allamakee(19005)    2    0    0
 ------ Polk(19153)    1    0    0
+------ Adair(19001)    1    0    0
+------ Black Hawk(19013)    1    0    0
 ---- VT    12    0    0
 ------ Bennington(50003)    3    0    0
 ------ Chittenden(50007)    4    0    0
@@ -1156,7 +1162,7 @@
 ---- AK    4    0    0
 ------ Anchorage(02020)    1    0    0
 ------ Fairbanks North Star(02090)    2    0    0
----- DC    22    0    0
+---- DC    30    0    0
 ---- Others    13    0    0
 ---- AL    39    0    0
 ------ Montgomery(01101)    2    0    0
@@ -1181,15 +1187,15 @@
 ------ St Thomas(78030)    1    0    0
 ---- GU    3    0    0
 -- Switzerland    2742    27    15
--- United Kingdom of Great Britain and Northern Ireland    1950    71    65
+-- United Kingdom of Great Britain and Northern Ireland    1960    71    65
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
----- Gibraltar    1    0    1
+---- Gibraltar    3    0    1
 ---- England    1196    34    0
 ---- Northern Ireland    52    0    0
 ---- Wales    124    0    0
 ---- Scotland    153    10    0
----- United Kingdom    1543    55    20
+---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Japan    1848    29    144
 ---- Hokkaido    152    6    66
@@ -1230,16 +1236,16 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    1    0    0
 ---- Kagawa    1    0    0
--- Netherlands    1705    43    2
----- Netherlands    1413    24    2
----- Curacao    1    0    0
+-- Netherlands    1708    43    2
+---- Netherlands    1705    43    2
+---- Curacao    3    0    0
 -- Norway    1470    3    1
 -- Austria    1332    4    8
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
--- Denmark    977    4    1
----- Denmark    914    3    1
----- Faroe Islands    18    0    0
+-- Denmark    1024    4    1
+---- Denmark    977    4    1
+---- Faroe Islands    47    0    0
 -- Malaysia    673    2    49
 -- Canada    598    8    12
 ---- British Columbia    186    7    4
@@ -1249,17 +1255,17 @@
 ---- New Brunswick    8    0    0
 ---- Manitoba    15    0    0
 ---- Saskatchewan    8    0    0
----- Grand Princess    2    0    0
+---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    9    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    7    0    0
 -- Australia    452    6    27
----- New South Wales    171    2    4
----- Victoria    71    0    8
----- Queensland    68    0    8
+---- New South Wales    210    4    4
+---- Victoria    94    0    8
+---- Queensland    78    0    8
 ---- South Australia    29    0    3
----- Western Australia    28    1    0
+---- Western Australia    31    1    0
 ---- Tasmania    7    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    2    0    0
@@ -1304,7 +1310,7 @@
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Armenia    78    0    1
--- Taiwan    77    1    20
+-- Taiwan    77    1    22
 -- Serbia    72    0    1
 -- Croatia    69    0    5
 -- Nigeria    69    0    1
@@ -1343,7 +1349,8 @@
 -- Dominican Republic    21    1    0
 -- New Zealand    20    0    0
 -- Liechtenstein    19    0    0
--- Martinique    15    1    0
+-- Guadeloupe    18    0    0
+-- Martinique    16    1    0
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
 -- Ukraine    14    2    0
@@ -1364,8 +1371,8 @@
 -- Ghana    7    0    0
 -- Rwanda    7    0    0
 -- Ethiopia    6    0    0
--- Guadeloupe    6    0    0
 -- Mongolia    5    0    0
+-- Côte d'Ivoire    5    0    1
 -- Puerto Rico    5    0    0
 -- Trinidad and Tobago    5    0    0
 -- Guam    5    0    0
@@ -1377,6 +1384,7 @@
 -- Mayotte    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
+-- Congo, Democratic Republic of the    3    0    0
 -- Saint Martin (French part)    2    0    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
@@ -1384,7 +1392,6 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Liberia    2    0    0
--- Congo, Democratic Republic of the    2    0    0
 -- Barbados    2    0    0
 -- Montenegro    2    0    0
 -- Nepal    1    0    1
@@ -1392,7 +1399,6 @@
 -- Togo    1    0    0
 -- Holy See    1    0    0
 -- Congo    1    0    0
--- Côte d'Ivoire    1    0    0
 -- Antigua and Barbuda    1    0    0
 -- Cayman Islands    1    1    0
 -- Gabon    1    0    0
