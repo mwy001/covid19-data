@@ -586,7 +586,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6499    112    106
+-- United States of America    6509    115    106
 ---- WA    1076    55    89
 ------ King(53033)    569    46    89
 ------ Snohomish(53061)    266    6    89
@@ -675,7 +675,7 @@
 ------ Kenosha(55059)    4    0    1
 ------ Ozaukee(55089)    1    0    1
 ------ Washington(55131)    1    0    1
----- TX    129    2    0
+---- TX    130    2    0
 ------ Bexar(48029)    11    0    0
 ------ Harris(48201)    16    0    0
 ------ Fort Bend(48157)    10    0    0
@@ -687,7 +687,7 @@
 ------ Travis(48453)    17    0    0
 ------ Smith(48423)    5    0    0
 ------ El Paso(48141)    3    0    0
------- Bell(48027)    2    0    0
+------ Bell(48027)    3    0    0
 ------ Galveston(48167)    2    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Brazoria(48039)    2    0    0
@@ -711,7 +711,7 @@
 ------ Santa Rosa(12113)    1    1    0
 ------ Broward(12011)    48    1    0
 ------ Lee(12071)    5    2    0
------- Manatee(12081)    7    0    0
+------ Manatee(12081)    7    1    0
 ------ Okaloosa(12091)    2    0    0
 ------ Volusia(12127)    9    0    0
 ------ Charlotte(12015)    1    0    0
@@ -815,7 +815,7 @@
 ------ Guilford(37081)    1    0    0
 ------ Orange(37135)    1    0    0
 ------ Lincoln(37109)    1    0    0
----- NY    1710    13    1
+---- NY    1710    16    1
 ------ Westchester(36119)    380    0    0
 ------ New York(36061)    644    7    0
 ------ Nassau(36059)    140    1    0
@@ -846,6 +846,7 @@
 ------ Rensselaer(36083)    1    0    0
 ------ Sullivan(36105)    1    0    0
 ------ Wyoming(36121)    1    0    0
+------ Genesee(36037)    1    0    0
 ---- NJ    268    3    0
 ------ Bergen(34003)    84    2    0
 ------ Hudson(34017)    24    0    0
@@ -906,7 +907,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Garfield(08045)    2    0    0
 ------ Clear Creek(08019)    2    0    0
----- PA    112    1    0
+---- PA    115    1    0
 ------ Delaware(42045)    9    0    0
 ------ Wayne(42127)    1    0    0
 ------ Montgomery(42091)    34    0    0
@@ -1167,7 +1168,7 @@
 ------ Anchorage(02020)    1    0    0
 ------ Fairbanks North Star(02090)    2    0    0
 ---- DC    31    0    0
----- Others    13    0    0
+---- Others    18    0    0
 ---- AL    39    0    0
 ------ Montgomery(01101)    2    0    0
 ------ Jefferson(01073)    21    0    0
@@ -1189,7 +1190,7 @@
 ------ St Thomas(78030)    1    0    0
 ---- US    1    0    0
 ------ St Thomas(78030)    1    0    0
----- GU    3    0    0
+---- GU    8    0    0
 -- Switzerland    2742    27    15
 -- United Kingdom of Great Britain and Northern Ireland    1960    71    65
 ---- UK    456    8    18
@@ -1243,7 +1244,7 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Norway    1470    3    1
+-- Norway    1471    3    1
 -- Austria    1332    4    8
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
