@@ -185,8 +185,8 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6535    116    106
----- NY    1717    16    0
+-- United States of America    7301    116    106
+---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
 ------ Suffolk(36103)    97    3    0
@@ -217,7 +217,7 @@
 ------ Sullivan(36105)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    1    0    0
----- WA    1014    55    89
+---- WA    1076    55    89
 ------ King(53033)    569    46    0
 ------ Snohomish(53061)    266    6    0
 ------ Pierce(53053)    45    0    0
@@ -277,7 +277,7 @@
 ------ Madera(06039)    1    0    0
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
----- NJ    267    3    0
+---- NJ    267    3    1
 ------ Bergen(34003)    84    2    0
 ------ Essex(34013)    32    0    0
 ------ Hudson(34017)    24    0    0
@@ -506,10 +506,10 @@
 ------ Spotsylvania(51177)    1    0    0
 ------ Stafford(51179)    1    0    0
 ------ York(51199)    1    1    0
----- NC    66    0    0
+---- NC    69    0    0
 ------ Wake(37183)    17    0    0
 ------ Durham(37063)    16    0    0
------- Mecklenburg(37119)    11    0    0
+------ Mecklenburg(37119)    14    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    3    0    0
 ------ Forsyth(37067)    2    0    0
@@ -601,7 +601,7 @@
 ------ Limestone(01083)    1    0    0
 ------ Madison(01089)    1    0    0
 ---- ME    32    0    0
------- Cumberland(23005)    18    0    0
+------ Cumberland(23005)    20    0    0
 ------ Androscoggin(23001)    3    0    0
 ------ Kennebec(23011)    1    0    0
 ------ Knox(23013)    1    0    0
@@ -632,7 +632,7 @@
 ------ Harrison(19085)    1    0    0
 ------ Polk(19153)    1    0    0
 ------ Pottawattamie(19155)    1    0    0
----- KY    27    1    0
+---- KY    27    1    1
 ------ Jefferson(21111)    8    0    0
 ------ Fayette(21067)    7    0    0
 ------ Harrison(21097)    6    0    0
@@ -669,7 +669,7 @@
 ------ Garland(05051)    1    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
----- MS    22    0    0
+---- MS    23    0    0
 ------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
 ------ Forrest(28035)    3    0    0
@@ -813,15 +813,15 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    2    0    0
 ---- Kagawa    1    0    0
--- Norway    1527    5    1
--- Belgium    1486    14    14
+-- Norway    1527    6    1
+-- Belgium    1486    14    31
 -- Austria    1471    7    9
--- Sweden    1196    8    1
+-- Sweden    1292    8    1
 -- Denmark    1044    4    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    790    2    60
--- Portugal    642    2    3
+-- Portugal    642    2    4
 -- Canada    598    8    12
 ---- British Columbia    186    7    4
 ---- Ontario    190    1    5
@@ -850,11 +850,11 @@
 -- Greece    387    5    14
 -- Finland    359    0    10
 -- Brazil    350    2    2
--- Ireland    292    2    5
--- Slovenia    275    1    0
--- Pakistan    272    1    2
--- Singapore    266    0    114
+-- Singapore    313    0    114
 ---- Central Singapore Community Development Council    200    0    97
+-- Ireland    292    2    5
+-- Slovenia    286    1    0
+-- Pakistan    272    1    2
 -- Estonia    258    0    1
 -- Bahrain    255    1    88
 -- Poland    251    5    13
@@ -872,13 +872,13 @@
 -- Ecuador    155    2    0
 -- India    153    3    14
 -- Russian Federation    147    0    8
--- Kuwait    142    0    12
+-- Kuwait    142    0    15
 -- Lebanon    133    4    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
 -- South Africa    116    0    0
 -- United Arab Emirates    113    0    26
--- Slovakia    105    0    0
+-- Slovakia    105    1    0
 -- Taiwan    100    1    22
 -- Turkey    98    1    0
 -- Mexico    93    0    4
@@ -940,6 +940,7 @@
 -- Cameroon    10    0    0
 -- Monaco    9    0    0
 -- Honduras    9    0    0
+-- Gibraltar    8    0    2
 -- Guatemala    8    1    0
 -- Rwanda    8    0    0
 -- Guam    8    0    0
@@ -956,7 +957,6 @@
 -- French Polynesia    3    0    0
 -- Saint Martin (French part)    3    0    0
 -- Gabon    3    0    0
--- Gibraltar    3    0    2
 -- Mayotte    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
@@ -970,6 +970,7 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Liberia    2    0    0
+-- Benin    2    0    0
 -- Barbados    2    0    0
 -- Montenegro    2    0    0
 -- New Caledonia    2    0    0
@@ -992,7 +993,6 @@
 -- Central African Republic    1    0    0
 -- Somalia    1    0    0
 -- Greenland    1    0    0
--- Benin    1    0    0
 -- Gambia    1    0    0
 -- Montserrat    1    0    0
 -- Djibouti    1    0    0
