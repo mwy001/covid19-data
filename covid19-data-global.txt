@@ -811,7 +811,7 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Norway    1486    4    1
+-- Norway    1487    4    1
 -- Austria    1471    4    9
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
@@ -847,7 +847,7 @@
 -- Israel    427    0    11
 -- Greece    387    5    14
 -- Brazil    349    2    2
--- Finland    322    0    10
+-- Finland    333    0    10
 -- Ireland    292    2    5
 -- Slovenia    275    1    0
 -- Singapore    266    0    114
@@ -906,11 +906,11 @@
 -- Andorra    39    0    1
 -- Georgia    38    0    1
 -- Malta    38    0    2
+-- Bosnia and Herzegovina    36    0    2
 -- Venezuela, Bolivarian Republic of    36    0    0
 -- Cambodia    35    0    1
 -- Kazakhstan    35    0    0
 -- Azerbaijan    34    1    6
--- Bosnia and Herzegovina    34    0    2
 -- Oman    33    0    12
 -- North Macedonia    31    0    1
 -- Senegal    31    0    2
@@ -926,13 +926,13 @@
 -- Martinique    19    1    0
 -- Jamaica    15    0    2
 -- Macao    15    0    10
+-- Uzbekistan    15    0    0
 -- Ukraine    14    2    0
+-- Bangladesh    14    1    3
 -- Maldives    13    0    0
--- Uzbekistan    13    0    0
 -- Bolivia, Plurinational State of    12    0    0
 -- Réunion    12    0    0
 -- French Guiana    11    0    0
--- Bangladesh    11    1    3
 -- Paraguay    11    0    0
 -- Guyana    11    1    0
 -- Cameroon    10    0    0
@@ -940,6 +940,7 @@
 -- Honduras    9    0    0
 -- Guatemala    8    1    0
 -- Rwanda    8    0    0
+-- Guam    8    0    0
 -- Cuba    7    0    0
 -- Ghana    7    0    0
 -- Kenya    7    0    0
@@ -948,7 +949,6 @@
 -- Ethiopia    6    0    0
 -- Côte d'Ivoire    5    0    1
 -- Puerto Rico    5    0    0
--- Guam    5    0    0
 -- Aruba    4    0    0
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
@@ -962,6 +962,7 @@
 -- Congo, Democratic Republic of the    3    0    0
 -- Kyrgyzstan    3    0    0
 -- Saint Lucia    2    0    0
+-- Sudan    2    1    0
 -- Namibia    2    0    0
 -- Virgin Islands, U.S.    2    0    0
 -- Jersey    2    0    0
@@ -978,7 +979,6 @@
 -- Cayman Islands    1    1    0
 -- Guinea    1    0    0
 -- Mauritania    1    0    0
--- Sudan    1    1    0
 -- Suriname    1    0    0
 -- Equatorial Guinea    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
