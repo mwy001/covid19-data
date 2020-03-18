@@ -185,13 +185,13 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    7339    116    106
+-- United States of America    7387    116    106
 ---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
 ------ Suffolk(36103)    97    3    0
 ------ Albany(36001)    25    0    0
------- Rockland(36087)    22    1    0
+------ Rockland(36087)    31    1    0
 ------ Dutchess(36027)    16    0    0
 ------ Orange(36071)    15    0    0
 ------ Monroe(36055)    14    1    0
@@ -211,7 +211,7 @@
 ------ Genesee(36037)    1    0    0
 ------ Herkimer(36043)    1    0    0
 ------ Montgomery(36057)    1    0    0
------- Oneida(36065)    1    0    0
+------ Oneida(36065)    2    0    0
 ------ Ontario(36069)    1    0    0
 ------ Rensselaer(36083)    1    0    0
 ------ Sullivan(36105)    1    0    0
@@ -330,7 +330,7 @@
 ------ Nassau(12089)    1    0    0
 ------ Polk(12105)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
----- LA    196    4    0
+---- LA    242    4    0
 ---- CO    186    2    0
 ------ Denver(08031)    38    0    0
 ------ Eagle(08037)    34    0    0
@@ -393,7 +393,7 @@
 ------ Spalding(13255)    1    0    0
 ------ Whitfield(13313)    1    0    0
 ------ Murray(13213)    1    0    0
----- TX    133    2    0
+---- TX    134    2    0
 ------ Dallas(48113)    28    0    0
 ------ Travis(48453)    17    0    0
 ------ Harris(48201)    16    0    0
@@ -463,10 +463,10 @@
 ------ New Haven(09009)    8    0    0
 ------ Hartford(09003)    7    0    0
 ------ Litchfield(09005)    5    0    0
----- OH    68    0    0
+---- OH    69    0    0
 ------ Cuyahoga(39035)    31    0    0
 ------ Butler(39017)    6    0    0
------- Franklin(39049)    4    0    0
+------ Franklin(39049)    5    0    0
 ------ Lorain(39093)    4    0    0
 ------ Summit(39153)    4    0    0
 ------ Medina(39103)    3    0    0
@@ -675,7 +675,7 @@
 ------ Garland(05051)    1    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
----- MS    23    0    0
+---- MS    34    0    0
 ------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
 ------ Forrest(28035)    3    0    0
@@ -717,13 +717,13 @@
 ------ New Castle(10003)    17    0    0
 ------ Sussex(10005)    1    0    0
 ------ Kent(10001)    1    0    0
----- MO    16    0    0
+---- MO    17    0    0
 ------ Greene(29077)    4    0    0
 ------ Cass(29037)    2    0    0
 ------ Boone(29019)    1    0    0
 ------ Cole(29051)    1    0    0
 ------ Henry(29083)    1    0    0
------- Jackson(29095)    2    0    0
+------ Jackson(29095)    3    0    0
 ---- HI    14    0    0
 ------ Honolulu(15003)    8    0    0
 ------ Maui(15009)    3    0    0
@@ -752,7 +752,7 @@
 ------ Blaine(16013)    4    0    0
 ------ Madison(16065)    1    0    0
 ------ Teton(16081)    1    0    0
----- ND    5    0    0
+---- ND    6    0    0
 ------ Burleigh(38015)    2    0    0
 ------ Ward(38101)    2    0    0
 ------ Cass(38017)    1    0    0
@@ -821,7 +821,7 @@
 ---- Ibaraki    2    0    0
 ---- Kagawa    1    0    0
 -- Austria    1646    7    9
--- Norway    1529    6    1
+-- Norway    1539    6    1
 -- Belgium    1486    14    31
 -- Sweden    1292    8    1
 -- Denmark    1044    4    1
@@ -876,8 +876,8 @@
 -- Hong Kong    181    4    92
 -- Saudi Arabia    171    0    6
 -- Iraq    164    12    41
+-- India    155    3    14
 -- Ecuador    155    2    0
--- India    153    3    14
 -- Russian Federation    147    0    8
 -- Kuwait    142    0    15
 -- Lebanon    133    4    4
@@ -890,11 +890,11 @@
 -- Turkey    98    1    0
 -- Mexico    93    0    4
 -- Colombia    93    0    1
+-- Bulgaria    92    2    0
 -- Panama    86    1    0
 -- Armenia    84    0    1
 -- Serbia    83    0    1
 -- Croatia    81    0    5
--- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Viet Nam    75    0    16
 -- Algeria    72    6    12
