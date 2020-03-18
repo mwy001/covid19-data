@@ -660,7 +660,7 @@
 ------ Amador(06005)    1    0    6
 ------ Kern(06029)    1    0    6
 ------ Monterey(06053)    2    0    6
----- WI    72    0    1
+---- WI    73    0    1
 ------ Dane(55025)    19    0    1
 ------ Pierce(55093)    2    0    1
 ------ Fond du Lac(55039)    11    0    0
@@ -700,7 +700,7 @@
 ------ Rockingham(33015)    14    0    0
 ------ Hillsborough(33011)    4    0    0
 ------ Carroll(33003)    1    0    0
----- FL    216    6    0
+---- FL    217    6    0
 ------ Hillsborough(12057)    9    0    0
 ------ Sarasota(12115)    3    0    0
 ------ Santa Rosa(12113)    1    1    0
@@ -880,7 +880,7 @@
 ------ Howard(24027)    4    0    4
 ------ Talbot(24041)    1    0    4
 ------ Frederick(24021)    1    0    4
----- CO    167    2    0
+---- CO    183    2    0
 ------ Denver(08031)    26    0    0
 ------ Summit(08117)    5    0    0
 ------ Douglas(08035)    8    0    0
@@ -915,10 +915,11 @@
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
 ------ Beaver(42007)    1    0    0
----- NE    21    0    0
+---- NE    23    0    0
 ------ Douglas(31055)    19    0    0
------- Knox(31107)    1    0    0
+------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
+------ Sarpy(31153)    1    0    0
 ---- KY    26    1    0
 ------ Fayette(21067)    7    0    0
 ------ Harrison(21097)    6    0    0
@@ -1028,7 +1029,7 @@
 ------ Franklin(20059)    1    0    0
 ------ Ford(20057)    1    0    0
 ------ Douglas(20045)    1    0    0
----- MO    11    0    0
+---- MO    12    0    0
 ------ St Louis(29189)    1    0    0
 ------ Greene(29077)    3    0    0
 ------ Henry(29083)    1    0    0
@@ -1137,9 +1138,10 @@
 ------ Hancock(28045)    1    0    0
 ------ Harrison(28047)    1    0    0
 ------ Jackson(28059)    1    0    0
----- WY    10    0    0
------- Sheridan(56033)    1    0    0
+---- WY    11    0    0
+------ Sheridan(56033)    2    0    0
 ------ Fremont(56013)    8    0    0
+------ Laramie(56021)    1    0    0
 ---- ND    3    0    0
 ------ Ward(38101)    2    0    0
 ------ Cass(38017)    1    0    0
@@ -1238,7 +1240,7 @@
 ---- Denmark    914    3    1
 ---- Faroe Islands    18    0    0
 -- Malaysia    673    2    49
--- Canada    597    8    11
+-- Canada    598    8    12
 ---- British Columbia    186    7    4
 ---- Ontario    190    1    5
 ---- Alberta    97    0    0
@@ -1299,13 +1301,13 @@
 -- South Africa    85    0    0
 -- Mexico    82    0    4
 -- Bulgaria    81    2    0
+-- Argentina    79    2    3
 -- Armenia    78    0    1
 -- Taiwan    77    1    20
 -- Serbia    72    0    1
 -- Croatia    69    0    5
 -- Nigeria    69    0    1
 -- Panama    69    1    0
--- Argentina    68    2    3
 -- Viet Nam    66    0    16
 -- Colombia    65    0    1
 -- Algeria    61    5    12
