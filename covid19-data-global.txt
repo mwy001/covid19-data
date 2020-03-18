@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    7624    117    106
+-- United States of America    7668    117    106
 ---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -364,31 +364,31 @@
 ------ Winnebago(17201)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Madison(17119)    1    0    0
----- GA    197    1    0
------- Fulton(13121)    33    0    0
------- Cobb(13067)    25    1    0
------- Bartow(13015)    10    0    0
------- Cherokee(13057)    7    0    0
+---- GA    200    1    0
+------ Fulton(13121)    49    0    0
+------ Cobb(13067)    28    1    0
+------ Bartow(13015)    19    0    0
+------ Cherokee(13057)    9    0    0
 ------ Gwinnett(13135)    7    0    0
------- Dougherty(13095)    6    0    0
+------ Dougherty(13095)    7    0    0
 ------ Floyd(13115)    6    0    0
------- Clayton(13063)    5    0    0
------- Fayette(13113)    5    0    0
------- Lowndes(13185)    4    0    0
------- Clarke(13059)    3    0    0
+------ Clayton(13063)    6    0    0
+------ Fayette(13113)    8    0    0
+------ Lowndes(13185)    5    0    0
+------ Clarke(13059)    5    0    0
 ------ Coweta(13077)    3    0    0
 ------ Richmond(13245)    3    0    0
------- Gordon(13129)    2    0    0
+------ Gordon(13129)    3    0    0
 ------ Henry(13151)    2    0    0
 ------ Lee(13177)    2    0    0
 ------ Troup(13285)    2    0    0
 ------ Barrow(13013)    1    0    0
 ------ Charlton(13049)    1    0    0
 ------ Columbia(13073)    1    0    0
------- Forsyth(13117)    1    0    0
------- Hall(13139)    1    0    0
------- Newton(13217)    1    0    0
------- Paulding(13223)    1    0    0
+------ Forsyth(13117)    2    0    0
+------ Hall(13139)    3    0    0
+------ Newton(13217)    3    0    0
+------ Paulding(13223)    3    0    0
 ------ Polk(13233)    1    0    0
 ------ Rockdale(13247)    1    0    0
 ------ Spalding(13255)    1    0    0
@@ -420,7 +420,7 @@
 ------ Rusk(48401)    1    0    0
 ------ Webb(48479)    1    0    0
 ------ Wichita(48485)    1    0    0
----- PA    134    0    0
+---- PA    135    0    0
 ------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    19    0    0
 ------ Allegheny(42003)    12    0    0
@@ -500,19 +500,19 @@
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    1    0    0
 ---- VA    78    2    1
------- Arlington(51013)    13    0    0
------- Fairfax(51059)    12    0    0
+------ Arlington(51013)    14    0    0
+------ Fairfax(51059)    14    0    0
 ------ Loudoun(51107)    5    0    0
------- Chesterfield(51041)    4    0    0
+------ Chesterfield(51041)    5    0    0
 ------ Prince William(51153)    4    0    0
 ------ Henrico(51087)    2    0    0
 ------ Goochland(51075)    1    0    0
 ------ Hanover(51085)    1    0    0
 ------ Prince Edward(51147)    1    0    0
 ------ Spotsylvania(51177)    1    0    0
------- Stafford(51179)    1    0    0
+------ Stafford(51179)    2    0    0
 ------ York(51199)    1    1    0
----- NC    70    0    0
+---- NC    71    0    0
 ------ Wake(37183)    17    0    0
 ------ Durham(37063)    16    0    0
 ------ Mecklenburg(37119)    14    0    0
@@ -529,7 +529,7 @@
 ------ Onslow(37133)    1    0    0
 ------ Orange(37135)    1    0    0
 ------ Sampson(37163)    1    0    0
------- Watauga(37189)    1    0    0
+------ Watauga(37189)    2    0    0
 ------ Wayne(37191)    1    0    0
 ------ Wilson(37195)    1    0    0
 ---- MI    66    0    0
@@ -596,16 +596,17 @@
 ------ Richland(45079)    1    0    0
 ------ Spartanburg(45083)    1    0    0
 ------ York(45091)    1    0    0
----- AL    39    0    0
------- Jefferson(01073)    21    0    0
+---- AL    46    0    0
+------ Jefferson(01073)    23    0    0
 ------ Shelby(01117)    4    0    0
------- Lee(01081)    3    0    0
+------ Lee(01081)    7    0    0
 ------ Tuscaloosa(01125)    3    0    0
 ------ Elmore(01051)    2    0    0
 ------ Montgomery(01101)    2    0    0
 ------ Baldwin(01003)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Madison(01089)    1    0    0
+------ Calhoun(01015)    1    0    0
 ---- ME    32    0    0
 ------ Cumberland(23005)    20    0    0
 ------ Androscoggin(23001)    3    0    0
@@ -668,9 +669,9 @@
 ------ Sandoval(35043)    2    0    0
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    1    0    0
----- RI    23    0    0
------- Providence(44007)    23    0    0
----- AR    23    0    0
+---- RI    33    0    0
+------ Providence(44007)    33    0    0
+---- AR    30    0    0
 ------ Jefferson(05069)    5    0    0
 ------ Pulaski(05119)    5    0    0
 ------ Cleburne(05023)    1    0    0
@@ -679,6 +680,7 @@
 ------ Garland(05051)    1    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
+------ Washington(05143)    1    0    0
 ---- MS    34    0    0
 ------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
@@ -692,13 +694,13 @@
 ------ Bolivar(28011)    2    0    0
 ------ Coahoma(28027)    2    0    0
 ------ Perry(28111)    1    0    0
----- AZ    21    0    1
+---- AZ    27    0    1
 ------ Maricopa(04013)    9    0    0
 ------ Pinal(04021)    5    0    0
 ------ Pima(04019)    4    0    0
 ------ Graham(04009)    1    0    0
 ------ Navajo(04017)    2    0    0
----- OK    19    0    1
+---- OK    31    0    1
 ------ Oklahoma(40109)    6    0    0
 ------ Tulsa(40143)    3    0    0
 ------ Cleveland(40027)    2    0    0
@@ -749,7 +751,7 @@
 ------ Sheridan(56033)    4    0    0
 ------ Laramie(56021)    2    0    0
 ------ Park(56029)    1    0    0
----- MT    10    0    0
+---- MT    11    0    0
 ------ Missoula(30063)    3    0    0
 ------ Yellowstone(30111)    2    0    0
 ------ Broadwater(30007)    1    0    0
@@ -838,12 +840,11 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    790    2    60
--- Portugal    642    2    4
--- Canada    598    8    12
+-- Canada    644    8    12
 ---- British Columbia    186    7    4
----- Ontario    190    1    5
+---- Ontario    211    1    5
 ---- Alberta    97    0    0
----- Quebec    74    0    0
+---- Quebec    94    0    0
 ---- New Brunswick    8    0    0
 ---- Manitoba    15    0    0
 ---- Saskatchewan    8    0    0
@@ -851,7 +852,8 @@
 ---- Grand Princess Cruise Ship    9    0    0
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    3    0    0
----- Nova Scotia    7    0    0
+---- Nova Scotia    12    0    0
+-- Portugal    642    2    4
 -- Australia    565    6    43
 ---- New South Wales    210    4    4
 ---- Victoria    94    0    8
