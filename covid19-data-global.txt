@@ -160,32 +160,7 @@
 ---- Seoul    270    0    55
 ---- Ulsan    30    0    9
 ---- 未确定地区    11    0    0
--- France    7730    175    602
----- France    7652    148    12
----- St Martin    3    0    0
----- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    612    7    4
----- Ile-de-France    2177    2    2
----- Alsace–Champagne-Ardenne–Lorraine    1820    0    0
----- Normandy    174    1    0
----- Brittany    247    1    6
----- Pays de la Loire    126    0    0
----- Centre-Val de Loire    103    0    0
----- Bourgogne-Franche-Comté    549    0    0
----- Aquitaine-Limousin-Poitou-Charentes    200    0    0
----- Auvergne-Rhône-Alpes    710    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    311    0    0
----- Provence-Alpes-Côte d'Azur    478    0    0
----- Corsica    145    0    0
----- Martinique    19    0    0
----- French Guiana    11    0    0
----- Réunion    12    0    0
----- Guadeloupe    27    0    0
----- French Polynesia    3    0    0
----- Fench Guiana    5    0    0
----- Mayotte    3    0    0
----- Reunion    9    0    0
--- United States of America    7687    117    106
+-- United States of America    7745    121    106
 ---- NY    2481    16    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -241,12 +216,12 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    749    13    6
+---- CA    757    13    6
 ------ Santa Clara(06085)    155    5    0
 ------ Los Angeles(06037)    144    1    0
 ------ San Mateo(06081)    80    1    0
 ------ San Diego(06073)    60    0    0
------- San Francisco(06075)    43    0    0
+------ San Francisco(06075)    51    0    0
 ------ Sacramento(06067)    40    2    0
 ------ Contra Costa(06013)    39    0    0
 ------ Orange(06059)    29    0    0
@@ -330,7 +305,7 @@
 ------ Nassau(12089)    1    0    0
 ------ Polk(12105)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
----- LA    242    5    0
+---- LA    257    6    0
 ---- CO    186    2    0
 ------ Denver(08031)    38    0    0
 ------ Eagle(08037)    34    0    0
@@ -364,7 +339,7 @@
 ------ Winnebago(17201)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Madison(17119)    1    0    0
----- GA    200    1    0
+---- GA    200    3    0
 ------ Fulton(13121)    49    0    0
 ------ Cobb(13067)    28    1    0
 ------ Bartow(13015)    19    0    0
@@ -394,10 +369,11 @@
 ------ Spalding(13255)    1    0    0
 ------ Whitfield(13313)    1    0    0
 ------ Murray(13213)    1    0    0
----- TX    157    2    0
+------ Houston(13153)    1    0    0
+---- TX    166    3    0
 ------ Dallas(48113)    39    0    0
 ------ Travis(48453)    23    0    0
------- Harris(48201)    16    0    0
+------ Harris(48201)    18    0    0
 ------ Bexar(48029)    11    0    0
 ------ Fort Bend(48157)    10    0    0
 ------ Collin(48085)    9    0    0
@@ -421,7 +397,7 @@
 ------ Webb(48479)    1    0    0
 ------ Wichita(48485)    1    0    0
 ------ Johnson(48251)    1    0    0
----- PA    135    0    0
+---- PA    150    0    0
 ------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    19    0    0
 ------ Allegheny(42003)    12    0    0
@@ -439,7 +415,7 @@
 ------ Wayne(42127)    1    0    0
 ------ York(42133)    2    0    0
 ------ Lancaster(42071)    1    0    0
----- WI    91    0    1
+---- WI    92    0    1
 ------ Milwaukee(55079)    40    0    0
 ------ Dane(55025)    19    0    0
 ------ Kenosha(55059)    4    0    0
@@ -451,7 +427,7 @@
 ------ Racine(55101)    1    0    0
 ------ Washington(55131)    1    0    0
 ------ Wood(55141)    1    0    0
------- La Crosse(55063)    1    0    0
+------ La Crosse(55063)    2    0    0
 ---- TN    78    0    0
 ------ Davidson(47037)    46    0    0
 ------ Williamson(47187)    21    0    0
@@ -535,7 +511,7 @@
 ------ Watauga(37189)    2    0    0
 ------ Wayne(37191)    1    0    0
 ------ Wilson(37195)    1    0    0
----- MI    66    0    0
+---- MI    74    1    0
 ------ Oakland(26125)    16    0    0
 ------ Wayne(26163)    17    0    0
 ------ Macomb(26099)    8    0    0
@@ -610,13 +586,14 @@
 ------ Limestone(01083)    1    0    0
 ------ Madison(01089)    1    0    0
 ------ Calhoun(01015)    1    0    0
----- ME    32    0    0
------- Cumberland(23005)    20    0    0
+---- ME    42    0    0
+------ Cumberland(23005)    23    0    0
 ------ Androscoggin(23001)    3    0    0
 ------ Kennebec(23011)    1    0    0
 ------ Knox(23013)    1    0    0
 ------ Oxford(23017)    1    0    0
------- York(23031)    1    0    0
+------ York(23031)    2    0    0
+------ Penobscot(23019)    1    0    0
 ---- DC    31    0    0
 ---- IN    39    2    0
 ------ Marion(18097)    11    1    0
@@ -781,6 +758,31 @@
 ---- GU    8    0    0
 ---- PR    5    0    0
 ---- VI    2    0    0
+-- France    7730    175    602
+---- France    7652    148    12
+---- St Martin    3    0    0
+---- Saint Barthelemy    3    0    0
+---- Nord-Pas-de-Calais and Picardy    612    7    4
+---- Ile-de-France    2177    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    1820    0    0
+---- Normandy    174    1    0
+---- Brittany    247    1    6
+---- Pays de la Loire    126    0    0
+---- Centre-Val de Loire    103    0    0
+---- Bourgogne-Franche-Comté    549    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    200    0    0
+---- Auvergne-Rhône-Alpes    710    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    311    0    0
+---- Provence-Alpes-Côte d'Azur    478    0    0
+---- Corsica    145    0    0
+---- Martinique    19    0    0
+---- French Guiana    11    0    0
+---- Réunion    12    0    0
+---- Guadeloupe    27    0    0
+---- French Polynesia    3    0    0
+---- Fench Guiana    5    0    0
+---- Mayotte    3    0    0
+---- Reunion    9    0    0
 -- Switzerland    3076    33    15
 -- United Kingdom of Great Britain and Northern Ireland    2626    71    66
 ---- UK    456    8    18
@@ -843,12 +845,12 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    790    2    60
--- Canada    644    8    12
+-- Canada    647    9    12
 ---- British Columbia    186    7    4
 ---- Ontario    211    1    5
 ---- Alberta    97    0    0
----- Quebec    94    0    0
----- New Brunswick    8    0    0
+---- Quebec    94    1    0
+---- New Brunswick    11    0    0
 ---- Manitoba    15    0    0
 ---- Saskatchewan    8    0    0
 ---- Grand Princess    8    0    0
