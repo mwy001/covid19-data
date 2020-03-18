@@ -1,6 +1,6 @@
 -- China    81101    3241    69717
 ---- Hubei    67800    3122    56886
------- Wuhan    50005    2490    40032
+------ Wuhan    50005    2490    40073
 ------ Xiaogan    3518    128    3297
 ------ Ezhou    1394    57    1290
 ------ Suizhou    1307    45    1222
@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    7554    117    106
+-- United States of America    7624    117    106
 ---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -364,7 +364,7 @@
 ------ Winnebago(17201)    1    0    0
 ------ Woodford(17203)    1    0    0
 ------ Madison(17119)    1    0    0
----- GA    150    1    0
+---- GA    197    1    0
 ------ Fulton(13121)    33    0    0
 ------ Cobb(13067)    25    1    0
 ------ Bartow(13015)    10    0    0
@@ -421,21 +421,22 @@
 ------ Webb(48479)    1    0    0
 ------ Wichita(48485)    1    0    0
 ---- PA    134    0    0
------- Montgomery(42091)    34    0    0
+------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    19    0    0
 ------ Allegheny(42003)    12    0    0
 ------ Cumberland(42041)    10    0    0
------- Delaware(42045)    9    0    0
------- Bucks(42017)    8    0    0
+------ Delaware(42045)    14    0    0
+------ Bucks(42017)    9    0    0
 ------ Monroe(42089)    8    0    0
------- Chester(42029)    6    0    0
+------ Chester(42029)    9    0    0
 ------ Washington(42125)    2    0    0
 ------ Beaver(42007)    1    0    0
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
 ------ Northampton(42095)    1    0    0
------- Pike(42103)    1    0    0
+------ Pike(42103)    2    0    0
 ------ Wayne(42127)    1    0    0
+------ York(42133)    2    0    0
 ---- WI    91    0    1
 ------ Milwaukee(55079)    40    0    0
 ------ Dane(55025)    19    0    0
@@ -498,7 +499,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    1    0    0
----- VA    77    2    1
+---- VA    78    2    1
 ------ Arlington(51013)    13    0    0
 ------ Fairfax(51059)    12    0    0
 ------ Loudoun(51107)    5    0    0
@@ -546,7 +547,7 @@
 ------ Montcalm(26117)    1    0    0
 ------ Otsego(26137)    1    0    0
 ------ Ottawa(26139)    1    0    0
----- MN    62    0    0
+---- MN    77    0    0
 ------ Hennepin(27053)    24    0    0
 ------ Ramsey(27123)    11    0    0
 ------ Dakota(27037)    6    0    0
@@ -669,7 +670,7 @@
 ------ Taos(35055)    1    0    0
 ---- RI    23    0    0
 ------ Providence(44007)    23    0    0
----- AR    22    0    0
+---- AR    23    0    0
 ------ Jefferson(05069)    5    0    0
 ------ Pulaski(05119)    5    0    0
 ------ Cleburne(05023)    1    0    0
@@ -775,7 +776,7 @@
 ---- GU    8    0    0
 ---- PR    5    0    0
 ---- VI    2    0    0
--- Switzerland    3070    27    15
+-- Switzerland    3076    33    15
 -- United Kingdom of Great Britain and Northern Ireland    2626    71    66
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -872,7 +873,7 @@
 -- Slovenia    286    1    0
 -- Pakistan    272    1    2
 -- Estonia    258    0    1
--- Bahrain    255    1    88
+-- Bahrain    255    1    95
 -- Poland    251    5    13
 -- Iceland    250    5    8
 -- Romania    246    0    19
