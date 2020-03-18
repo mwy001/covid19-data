@@ -1245,7 +1245,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Norway    1471    3    1
--- Austria    1332    4    8
+-- Austria    1332    4    9
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
 -- Denmark    1024    4    1
