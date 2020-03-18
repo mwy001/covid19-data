@@ -141,27 +141,8 @@
 ---- Baden-Württemberg    1641    6    14
 ---- Saxony-Anhalt    105    0    0
 ---- Saarland    101    0    0
--- Korea, Republic of    8413    84    1540
----- Busan    107    1    58
----- Chungcheongbuk-do    32    0    6
----- Chungcheongnam-do    118    0    16
----- Daegu    6144    58    1048
----- Daejeon    22    0    4
----- Gangwon-do    30    1    8
----- Gwangju    17    0    6
----- Gyeonggi-do    277    3    59
----- Gyeongsangbuk-do    1178    21    235
----- Gyeongsangnam-do    86    0    23
----- Incheon    32    0    5
----- Jeju-do    4    0    2
----- Jeollabuk-do    9    0    5
----- Jeollanam-do    5    0    2
----- Sejong    41    0    0
----- Seoul    270    0    55
----- Ulsan    30    0    9
----- 未确定地区    11    0    0
--- United States of America    8335    135    106
----- NY    2499    20    0
+-- United States of America    8990    150    106
+---- NY    3031    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
 ------ Suffolk(36103)    116    3    0
@@ -196,17 +177,17 @@
 ------ Hamilton(36041)    1    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
----- WA    1076    55    89
------- King(53033)    569    46    0
------- Snohomish(53061)    266    6    0
------- Pierce(53053)    45    0    0
+---- WA    1076    66    89
+------ King(53033)    569    56    0
+------ Snohomish(53061)    310    6    0
+------ Pierce(53053)    56    1    0
 ------ Island(53029)    14    0    0
------- Skagit(53057)    9    0    0
+------ Skagit(53057)    14    0    0
 ------ Grant(53025)    7    1    0
 ------ Kitsap(53035)    7    0    0
------- Whatcom(53073)    6    0    0
+------ Whatcom(53073)    7    0    0
 ------ Thurston(53067)    5    0    0
------- Yakima(53077)    5    0    0
+------ Yakima(53077)    7    0    0
 ------ Clark(53011)    4    2    0
 ------ Spokane(53063)    4    0    0
 ------ Jefferson(53031)    3    0    0
@@ -286,7 +267,7 @@
 ------ Barnstable(25001)    2    0    0
 ------ Hampden(25013)    2    0    0
 ------ Franklin(25011)    1    0    0
----- FL    314    7    0
+---- FL    317    8    0
 ------ Broward(12011)    80    0    0
 ------ Palm Beach(12099)    19    0    0
 ------ Duval(12031)    13    0    0
@@ -298,7 +279,7 @@
 ------ Osceola(12097)    8    0    0
 ------ Lee(12071)    10    2    0
 ------ Alachua(12001)    7    0    0
------- Clay(12019)    4    0    0
+------ Clay(12019)    4    1    0
 ------ Pinellas(12103)    10    0    0
 ------ Seminole(12117)    7    0    0
 ------ Sarasota(12115)    4    0    0
@@ -315,6 +296,7 @@
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    1    0    0
 ------ Sumter(12119)    1    0    0
+------ Walton(12131)    1    0    0
 ---- LA    257    8    0
 ---- CO    189    2    0
 ------ Denver(08031)    38    0    0
@@ -381,7 +363,7 @@
 ------ Whitfield(13313)    1    0    0
 ------ Murray(13213)    1    0    0
 ------ Houston(13153)    1    0    0
----- TX    181    3    0
+---- TX    187    3    0
 ------ Dallas(48113)    39    0    0
 ------ Travis(48453)    23    0    0
 ------ Harris(48201)    18    0    0
@@ -390,11 +372,11 @@
 ------ Collin(48085)    10    1    0
 ------ Tarrant(48439)    8    1    0
 ------ Smith(48423)    5    0    0
------- Montgomery(48339)    4    0    0
+------ Montgomery(48339)    7    0    0
 ------ Bell(48027)    3    0    0
 ------ El Paso(48141)    3    0    0
 ------ Hays(48209)    5    0    0
------- Brazoria(48039)    2    0    0
+------ Brazoria(48039)    3    0    0
 ------ Galveston(48167)    4    0    0
 ------ Lubbock(48303)    2    0    0
 ------ Matagorda(48321)    3    1    0
@@ -413,7 +395,8 @@
 ------ Medina(48325)    1    0    0
 ------ Williamson(48491)    4    0    0
 ------ Fannin(48147)    1    0    0
----- PA    153    0    0
+------ Jefferson(48245)    1    0    0
+---- PA    154    1    0
 ------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    34    0    0
 ------ Allegheny(42003)    12    0    0
@@ -426,13 +409,14 @@
 ------ Beaver(42007)    2    0    0
 ------ Lehigh(42077)    1    0    0
 ------ Luzerne(42079)    1    0    0
------- Northampton(42095)    1    0    0
+------ Northampton(42095)    1    1    0
 ------ Pike(42103)    2    0    0
 ------ Wayne(42127)    1    0    0
 ------ York(42133)    2    0    0
 ------ Lancaster(42071)    1    0    0
 ------ Berks(42011)    1    0    0
 ------ Lackawanna(42069)    1    0    0
+------ Erie(42049)    1    0    0
 ---- WI    108    0    1
 ------ Milwaukee(55079)    47    0    0
 ------ Dane(55025)    23    0    0
@@ -518,7 +502,7 @@
 ------ Stafford(51179)    2    0    0
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
----- NC    71    0    0
+---- NC    74    0    0
 ------ Wake(37183)    17    0    0
 ------ Durham(37063)    16    0    0
 ------ Mecklenburg(37119)    14    0    0
@@ -538,8 +522,11 @@
 ------ Watauga(37189)    2    0    0
 ------ Wayne(37191)    1    0    0
 ------ Wilson(37195)    1    0    0
----- MI    83    1    0
------- Oakland(26125)    23    0    0
+------ Gaston(37071)    1    0    0
+------ New Hanover(37129)    1    0    0
+------ Union(37179)    1    0    0
+---- MI    119    1    0
+------ Oakland(26125)    59    0    0
 ------ Wayne(26163)    23    1    0
 ------ Macomb(26099)    10    0    0
 ------ Washtenaw(26161)    7    0    0
@@ -553,23 +540,23 @@
 ------ Montcalm(26117)    1    0    0
 ------ Otsego(26137)    1    0    0
 ------ Ottawa(26139)    1    0    0
----- MN    77    0    0
------- Hennepin(27053)    24    0    0
------- Ramsey(27123)    11    0    0
------- Dakota(27037)    6    0    0
+---- MN    78    0    0
+------ Hennepin(27053)    28    0    0
+------ Ramsey(27123)    12    0    0
+------ Dakota(27037)    8    0    0
 ------ Olmsted(27109)    6    0    0
 ------ Anoka(27003)    3    0    0
 ------ Stearns(27145)    3    0    0
 ------ Benton(27009)    2    0    0
------- Washington(27163)    2    0    0
------- Blue Earth(27013)    1    0    0
------- Carver(27019)    1    0    0
+------ Washington(27163)    3    0    0
+------ Blue Earth(27013)    2    0    0
+------ Carver(27019)    2    0    0
 ------ Renville(27129)    1    0    0
 ------ Sherburne(27141)    1    0    0
 ------ Waseca(27161)    1    0    0
------- Wright(27171)    1    0    0
------- Martin(27091)    1    0    0
------- Nicollet(27103)    1    0    0
+------ Wright(27171)    2    0    0
+------ Martin(27091)    2    0    0
+------ Nicollet(27103)    2    0    0
 ------ Scott(27139)    1    0    0
 ---- MD    85    0    4
 ------ Montgomery(24031)    31    0    0
@@ -608,12 +595,12 @@
 ------ York(45091)    1    0    0
 ------ Dorchester(45035)    1    0    0
 ------ Lee(45061)    1    1    0
----- AL    46    0    0
------- Jefferson(01073)    23    0    0
+---- AL    52    0    0
+------ Jefferson(01073)    25    0    0
 ------ Shelby(01117)    4    0    0
------- Lee(01081)    7    0    0
+------ Lee(01081)    8    0    0
 ------ Tuscaloosa(01125)    3    0    0
------- Elmore(01051)    2    0    0
+------ Elmore(01051)    4    0    0
 ------ Montgomery(01101)    2    0    0
 ------ Baldwin(01003)    1    0    0
 ------ Limestone(01083)    1    0    0
@@ -656,9 +643,9 @@
 ------ Harrison(19085)    1    0    0
 ------ Polk(19153)    1    0    0
 ------ Pottawattamie(19155)    1    0    0
----- KY    27    1    1
+---- KY    30    1    1
 ------ Jefferson(21111)    8    0    0
------- Fayette(21067)    7    0    0
+------ Fayette(21067)    8    0    0
 ------ Harrison(21097)    6    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Bourbon(21017)    1    1    0
@@ -738,14 +725,14 @@
 ------ Orange(50017)    1    0    0
 ------ Washington(50023)    1    0    0
 ------ Addison(50001)    1    0    0
----- DE    19    0    0
+---- DE    26    0    0
 ------ New Castle(10003)    17    0    0
 ------ Sussex(10005)    1    0    0
 ------ Kent(10001)    1    0    0
----- MO    20    0    0
+---- MO    20    1    0
 ------ Greene(29077)    4    0    0
 ------ Cass(29037)    2    0    0
------- Boone(29019)    1    0    0
+------ Boone(29019)    1    1    0
 ------ Cole(29051)    1    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    3    0    0
@@ -761,10 +748,10 @@
 ------ Charles Mix(46023)    1    0    0
 ------ Davison(46035)    1    0    0
 ------ Pennington(46103)    1    1    0
----- WY    15    0    0
+---- WY    16    0    0
 ------ Fremont(56013)    8    0    0
 ------ Sheridan(56033)    4    0    0
------- Laramie(56021)    2    0    0
+------ Laramie(56021)    3    0    0
 ------ Park(56029)    1    0    0
 ---- MT    11    0    0
 ------ Missoula(30063)    3    0    0
@@ -793,6 +780,25 @@
 ---- GU    8    0    0
 ---- PR    5    0    0
 ---- VI    2    0    0
+-- Korea, Republic of    8413    84    1540
+---- Busan    107    1    58
+---- Chungcheongbuk-do    32    0    6
+---- Chungcheongnam-do    118    0    16
+---- Daegu    6144    58    1048
+---- Daejeon    22    0    4
+---- Gangwon-do    30    1    8
+---- Gwangju    17    0    6
+---- Gyeonggi-do    277    3    59
+---- Gyeongsangbuk-do    1178    21    235
+---- Gyeongsangnam-do    86    0    23
+---- Incheon    32    0    5
+---- Jeju-do    4    0    2
+---- Jeollabuk-do    9    0    5
+---- Jeollanam-do    5    0    2
+---- Sejong    41    0    0
+---- Seoul    270    0    55
+---- Ulsan    30    0    9
+---- 未确定地区    11    0    0
 -- France    7730    175    602
 ---- France    7652    148    12
 ---- St Martin    4    0    0
