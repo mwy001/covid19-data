@@ -513,7 +513,7 @@
 ---- Cantabria    58    0    10
 ---- Castile and León    431    9    2
 ---- Castile-La Mancha    567    17    13
----- Catalonia    1394    12    3
+---- Catalonia    1866    12    3
 ---- Community of Madrid    4871    253    109
 ---- Comunidad Foral de Navarra    313    1    0
 ---- Extremadura    153    2    5
@@ -526,41 +526,41 @@
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Germany    9367    26    67
----- Saxony    152    0    0
----- Mecklenburg-Vorpommern    51    0    0
----- Free State of Bavaria    1067    5    14
----- Berlin    332    0    0
----- Brandenburg    94    0    0
----- Thuringia    67    0    1
----- Schleswig-Holstein    123    0    0
----- Lower Saxony    391    0    1
----- Bremen    57    0    1
----- Hamburg    260    1    1
----- Rhineland-Palatinate    325    0    1
----- North Rhine-Westphalia    2744    8    39
----- Hesse    342    0    2
----- Baden-Württemberg    1105    3    14
----- Saxony-Anhalt    77    0    0
----- Saarland    85    0    0
+---- Saxony    247    0    0
+---- Mecklenburg-Vorpommern    69    0    0
+---- Free State of Bavaria    1352    5    14
+---- Berlin    383    0    1
+---- Brandenburg    114    0    1
+---- Thuringia    71    0    1
+---- Schleswig-Holstein    145    0    0
+---- Lower Saxony    563    0    1
+---- Bremen    66    0    3
+---- Hamburg    312    1    1
+---- Rhineland-Palatinate    435    0    1
+---- North Rhine-Westphalia    3375    13    39
+---- Hesse    381    1    2
+---- Baden-Württemberg    1641    6    14
+---- Saxony-Anhalt    105    0    0
+---- Saarland    101    0    0
 -- Korea, Republic of    8413    84    1540
----- Busan    107    1    54
----- Chungcheongbuk-do    31    0    6
----- Chungcheongnam-do    115    0    15
----- Daegu    6098    57    947
+---- Busan    107    1    58
+---- Chungcheongbuk-do    32    0    6
+---- Chungcheongnam-do    118    0    16
+---- Daegu    6144    58    1048
 ---- Daejeon    22    0    4
----- Gangwon-do    29    1    8
----- Gwangju    16    0    6
----- Gyeonggi-do    262    3    55
----- Gyeongsangbuk-do    1169    19    209
----- Gyeongsangnam-do    86    0    22
----- Incheon    31    0    5
+---- Gangwon-do    30    1    8
+---- Gwangju    17    0    6
+---- Gyeonggi-do    277    3    59
+---- Gyeongsangbuk-do    1178    21    235
+---- Gyeongsangnam-do    86    0    23
+---- Incheon    32    0    5
 ---- Jeju-do    4    0    2
----- Jeollabuk-do    7    0    4
----- Jeollanam-do    4    0    2
----- Sejong    40    0    0
----- Seoul    265    0    55
----- Ulsan    28    0    8
----- 未确定地区    6    0    0
+---- Jeollabuk-do    9    0    5
+---- Jeollanam-do    5    0    2
+---- Sejong    41    0    0
+---- Seoul    270    0    55
+---- Ulsan    30    0    9
+---- 未确定地区    11    0    0
 -- France    7730    175    602
 ---- France    7652    148    12
 ---- St Martin    3    0    0
@@ -586,7 +586,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6482    111    106
+-- United States of America    6499    112    106
 ---- WA    1076    55    89
 ------ King(53033)    569    46    89
 ------ Snohomish(53061)    266    6    89
@@ -625,7 +625,7 @@
 ------ Peoria(17143)    1    0    2
 ------ Whiteside(17195)    1    0    2
 ------ Winnebago(17201)    1    0    2
----- CA    723    13    6
+---- CA    726    13    6
 ------ Los Angeles(06037)    144    1    6
 ------ San Benito(06069)    4    0    6
 ------ San Diego(06073)    60    0    6
@@ -653,7 +653,7 @@
 ------ San Joaquin(06077)    13    0    6
 ------ Imperial(06025)    2    0    6
 ------ Tulare(06107)    3    0    6
------- San Luis Obispo(06079)    3    0    6
+------ San Luis Obispo(06079)    6    0    6
 ------ San Bernardino(06071)    3    0    6
 ------ Santa Barbara(06083)    2    0    6
 ------ Nevada(06057)    1    0    6
@@ -675,14 +675,14 @@
 ------ Kenosha(55059)    4    0    1
 ------ Ozaukee(55089)    1    0    1
 ------ Washington(55131)    1    0    1
----- TX    121    2    0
------- Bexar(48029)    4    0    0
+---- TX    129    2    0
+------ Bexar(48029)    11    0    0
 ------ Harris(48201)    16    0    0
 ------ Fort Bend(48157)    10    0    0
 ------ Collin(48085)    8    0    0
 ------ Gregg(48183)    1    0    0
 ------ Dallas(48113)    28    0    0
------- Tarrant(48439)    6    0    0
+------ Tarrant(48439)    6    1    0
 ------ Montgomery(48339)    4    0    0
 ------ Travis(48453)    17    0    0
 ------ Smith(48423)    5    0    0
@@ -699,6 +699,7 @@
 ------ Rusk(48401)    1    0    0
 ------ Brazos(48041)    1    0    0
 ------ Lubbock(48303)    2    0    0
+------ Ellis(48139)    1    0    0
 ---- NH    26    0    0
 ------ Grafton(33009)    7    0    0
 ------ Rockingham(33015)    14    0    0
@@ -864,9 +865,9 @@
 ---- NV    56    1    0
 ------ Clark(32003)    42    1    0
 ------ Washoe(32031)    12    0    0
----- TN    74    0    0
+---- TN    78    0    0
 ------ Williamson(47187)    21    0    0
------- Davidson(47037)    42    0    0
+------ Davidson(47037)    46    0    0
 ------ Shelby(47157)    3    0    0
 ------ Sullivan(47163)    1    0    0
 ------ Knox(47093)    2    0    0
@@ -886,25 +887,25 @@
 ------ Howard(24027)    4    0    4
 ------ Talbot(24041)    1    0    4
 ------ Frederick(24021)    1    0    4
----- CO    183    2    0
+---- CO    186    2    0
 ------ Denver(08031)    38    0    0
 ------ Summit(08117)    5    0    0
------- Douglas(08035)    8    0    0
------- El Paso(08041)    4    1    0
+------ Douglas(08035)    10    0    0
+------ El Paso(08041)    6    1    0
 ------ Eagle(08037)    34    0    0
 ------ Larimer(08069)    3    0    0
------- Arapahoe(08005)    15    0    0
------- Gunnison(08051)    8    0    0
------- Jefferson(08059)    13    0    0
+------ Arapahoe(08005)    18    0    0
+------ Gunnison(08051)    11    0    0
+------ Jefferson(08059)    17    0    0
 ------ Pitkin(08097)    11    0    0
------- Adams(08001)    6    0    0
+------ Adams(08001)    8    0    0
 ------ Boulder(08013)    11    0    0
 ------ Weld(08123)    6    1    0
 ------ Pueblo(08101)    1    0    0
------- Routt(08107)    1    0    0
+------ Routt(08107)    2    0    0
 ------ Mesa(08077)    1    0    0
------- Garfield(08045)    1    0    0
------- Clear Creek(08019)    1    0    0
+------ Garfield(08045)    2    0    0
+------ Clear Creek(08019)    2    0    0
 ---- PA    112    1    0
 ------ Delaware(42045)    9    0    0
 ------ Wayne(42127)    1    0    0
@@ -997,20 +998,20 @@
 ------ Salt Lake(49035)    20    0    0
 ------ Tooele(49045)    1    0    0
 ------ Wasatch(49051)    2    0    0
----- HI    13    0    0
+---- HI    14    0    0
 ------ Honolulu(15003)    8    0    0
 ------ Kauai(15007)    2    0    0
------- Maui(15009)    2    0    0
+------ Maui(15009)    3    0    0
 ------ Hawaii(15001)    1    0    0
 ---- OK    19    0    1
 ------ Tulsa(40143)    3    0    1
 ------ Jackson(40065)    1    0    1
 ------ Oklahoma(40109)    6    0    1
 ------ Cleveland(40027)    2    0    1
------- Payne(40119)    1    0    0
+------ Payne(40119)    1    0    1
 ------ Kay(40071)    2    0    1
 ------ Canadian(40017)    1    0    1
------- Pawnee(40117)    1    0    0
+------ Pawnee(40117)    1    0    1
 ---- VA    67    2    1
 ------ Fairfax(51059)    12    0    1
 ------ Norfolk City(51710)    2    0    0
@@ -1151,9 +1152,10 @@
 ------ Sheridan(56033)    2    0    0
 ------ Fremont(56013)    8    0    0
 ------ Laramie(56021)    1    0    0
----- ND    3    0    0
+---- ND    5    0    0
 ------ Ward(38101)    2    0    0
 ------ Cass(38017)    1    0    0
+------ Burleigh(38015)    2    0    0
 ---- ME    32    0    0
 ------ Androscoggin(23001)    3    0    0
 ------ Cumberland(23005)    18    0    0
@@ -1290,7 +1292,7 @@
 -- Romania    222    0    19
 -- Chile    201    0    0
 -- Egypt    196    6    32
--- Philippines    187    12    5
+-- Philippines    187    14    5
 -- Thailand    177    1    41
 -- Indonesia    172    7    9
 -- Saudi Arabia    171    0    6
