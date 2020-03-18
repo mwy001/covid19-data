@@ -103,7 +103,7 @@
 ---- North Khorasan    100    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    42    0    0
--- Spain    13716    598    1081
+-- Spain    13716    616    1081
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -124,7 +124,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    10069    26    71
+-- Germany    10082    26    71
 ---- Saxony    247    0    0
 ---- Mecklenburg-Vorpommern    69    0    0
 ---- Free State of Bavaria    1352    5    14
@@ -185,8 +185,8 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6524    116    106
----- NY    1708    16    0
+-- United States of America    6533    116    106
+---- NY    1717    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
 ------ Suffolk(36103)    97    3    0
@@ -195,7 +195,7 @@
 ------ Dutchess(36027)    16    0    0
 ------ Orange(36071)    15    0    0
 ------ Monroe(36055)    14    1    0
------- Erie(36029)    11    0    0
+------ Erie(36029)    20    0    0
 ------ Saratoga(36091)    9    0    0
 ------ Ulster(36111)    8    0    0
 ------ Schenectady(36093)    5    0    0
@@ -811,7 +811,7 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Norway    1524    4    1
+-- Norway    1527    4    1
 -- Belgium    1486    14    14
 -- Austria    1471    7    9
 -- Sweden    1196    8    1
@@ -853,8 +853,8 @@
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
 -- Estonia    258    0    1
+-- Pakistan    256    1    2
 -- Bahrain    255    1    88
--- Pakistan    254    1    2
 -- Iceland    250    5    8
 -- Romania    246    0    19
 -- Poland    246    5    13
@@ -887,7 +887,7 @@
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Colombia    75    0    1
--- Algeria    72    5    12
+-- Algeria    72    6    12
 -- Latvia    71    0    1
 -- Nigeria    69    0    1
 -- Brunei Darussalam    68    0    0
@@ -907,10 +907,10 @@
 -- Andorra    39    0    1
 -- Georgia    38    0    1
 -- Bosnia and Herzegovina    38    0    2
+-- Kazakhstan    36    0    0
 -- Venezuela, Bolivarian Republic of    36    0    0
 -- Cambodia    35    0    1
 -- North Macedonia    35    0    1
--- Kazakhstan    35    0    0
 -- Azerbaijan    34    1    6
 -- Oman    33    0    12
 -- Lithuania    33    0    1
