@@ -899,14 +899,14 @@
 -- Cyprus    49    0    0
 -- Jordan    48    0    1
 -- Faroe Islands    47    0    0
--- Sri Lanka    44    0    2
+-- Sri Lanka    45    0    2
 -- Morocco    44    2    1
 -- Palestine    44    0    0
 -- Andorra    39    0    1
+-- Georgia    38    0    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
 -- Kazakhstan    35    0    0
--- Georgia    34    0    1
 -- Azerbaijan    34    1    6
 -- Bosnia and Herzegovina    34    0    2
 -- Cambodia    33    0    1
@@ -926,13 +926,13 @@
 -- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
 -- Ukraine    14    2    0
+-- Macao    14    0    10
 -- Maldives    13    0    0
--- Macao    13    0    10
 -- Uzbekistan    13    0    0
 -- Bolivia, Plurinational State of    12    0    0
 -- French Guiana    11    0    0
+-- Bangladesh    11    1    3
 -- Cameroon    10    0    0
--- Bangladesh    10    1    3
 -- Monaco    9    0    0
 -- Paraguay    9    0    0
 -- Réunion    9    0    0
@@ -948,10 +948,10 @@
 -- Côte d'Ivoire    5    0    1
 -- Puerto Rico    5    0    0
 -- Guam    5    0    0
+-- Aruba    4    0    0
 -- Kenya    4    0    0
 -- Seychelles    4    0    0
 -- French Polynesia    3    0    0
--- Aruba    3    0    0
 -- Gabon    3    0    0
 -- Gibraltar    3    0    2
 -- Mayotte    3    0    0
