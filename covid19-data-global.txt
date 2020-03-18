@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    7301    116    106
+-- United States of America    7339    116    106
 ---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -392,13 +392,14 @@
 ------ Rockdale(13247)    1    0    0
 ------ Spalding(13255)    1    0    0
 ------ Whitfield(13313)    1    0    0
----- TX    132    2    0
+------ Murray(13213)    1    0    0
+---- TX    133    2    0
 ------ Dallas(48113)    28    0    0
 ------ Travis(48453)    17    0    0
 ------ Harris(48201)    16    0    0
 ------ Bexar(48029)    11    0    0
 ------ Fort Bend(48157)    10    0    0
------- Collin(48085)    8    0    0
+------ Collin(48085)    9    0    0
 ------ Tarrant(48439)    6    1    0
 ------ Smith(48423)    5    0    0
 ------ Montgomery(48339)    4    0    0
@@ -433,7 +434,7 @@
 ------ Northampton(42095)    1    0    0
 ------ Pike(42103)    1    0    0
 ------ Wayne(42127)    1    0    0
----- WI    90    0    1
+---- WI    91    0    1
 ------ Milwaukee(55079)    40    0    0
 ------ Dane(55025)    19    0    0
 ------ Kenosha(55059)    4    0    0
@@ -445,6 +446,7 @@
 ------ Racine(55101)    1    0    0
 ------ Washington(55131)    1    0    0
 ------ Wood(55141)    1    0    0
+------ La Crosse(55063)    1    0    0
 ---- TN    78    0    0
 ------ Davidson(47037)    46    0    0
 ------ Williamson(47187)    21    0    0
@@ -461,7 +463,7 @@
 ------ New Haven(09009)    8    0    0
 ------ Hartford(09003)    7    0    0
 ------ Litchfield(09005)    5    0    0
----- OH    67    0    0
+---- OH    68    0    0
 ------ Cuyahoga(39035)    31    0    0
 ------ Butler(39017)    6    0    0
 ------ Franklin(39049)    4    0    0
@@ -478,6 +480,7 @@
 ------ Lucas(39095)    1    0    0
 ------ Mahoning(39099)    1    0    0
 ------ Tuscarawas(39157)    1    0    0
+------ Huron(39077)    1    0    0
 ---- OR    68    2    0
 ------ Washington(41067)    21    0    0
 ------ Linn(41043)    15    0    0
@@ -556,15 +559,15 @@
 ------ Sherburne(27141)    1    0    0
 ------ Waseca(27161)    1    0    0
 ------ Wright(27171)    1    0    0
----- MD    60    0    4
------- Montgomery(24031)    24    0    0
------- Prince George's(24033)    14    0    0
------- Baltimore(24005)    6    0    0
------- Howard(24027)    4    0    0
------- Anne Arundel(24003)    3    0    0
+---- MD    85    0    4
+------ Montgomery(24031)    31    0    0
+------ Prince George's(24033)    20    0    0
+------ Baltimore(24005)    10    0    0
+------ Howard(24027)    8    0    0
+------ Anne Arundel(24003)    4    0    0
 ------ Carroll(24013)    2    0    0
------- Harford(24025)    2    0    0
------- Charles(24017)    1    0    0
+------ Harford(24025)    3    0    0
+------ Charles(24017)    2    0    0
 ------ Frederick(24021)    1    0    0
 ------ Talbot(24041)    1    0    0
 ---- NV    56    1    0
@@ -608,20 +611,23 @@
 ------ Oxford(23017)    1    0    0
 ------ York(23031)    1    0    0
 ---- DC    31    0    0
----- IN    30    2    0
------- Marion(18097)    9    1    0
------- Hendricks(18063)    3    0    0
+---- IN    39    2    0
+------ Marion(18097)    11    1    0
+------ Hendricks(18063)    4    0    0
 ------ Johnson(18081)    3    1    0
 ------ Franklin(18047)    2    0    0
 ------ Howard(18067)    2    0    0
------- Lake(18089)    2    0    0
+------ Lake(18089)    3    0    0
 ------ Adams(18001)    1    0    0
 ------ Bartholomew(18005)    1    0    0
 ------ Boone(18011)    1    0    0
 ------ Floyd(18043)    1    0    0
------- Hamilton(18057)    1    0    0
+------ Hamilton(18057)    2    0    0
 ------ Noble(18113)    1    0    0
 ------ Wells(18179)    1    0    0
+------ Clark(18019)    1    0    0
+------ Fayette(18041)    1    0    0
+------ Jennings(18079)    1    0    0
 ---- IA    29    0    0
 ------ Johnson(19103)    18    0    0
 ------ Dallas(19049)    3    0    0
@@ -707,9 +713,10 @@
 ------ Windsor(50027)    3    0    0
 ------ Orange(50017)    1    0    0
 ------ Washington(50023)    1    0    0
----- DE    16    0    0
------- New Castle(10003)    15    0    0
+---- DE    19    0    0
+------ New Castle(10003)    17    0    0
 ------ Sussex(10005)    1    0    0
+------ Kent(10001)    1    0    0
 ---- MO    16    0    0
 ------ Greene(29077)    4    0    0
 ------ Cass(29037)    2    0    0
@@ -813,9 +820,9 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    2    0    0
 ---- Kagawa    1    0    0
--- Norway    1527    6    1
+-- Austria    1646    7    9
+-- Norway    1529    6    1
 -- Belgium    1486    14    31
--- Austria    1471    7    9
 -- Sweden    1292    8    1
 -- Denmark    1044    4    1
 ---- Denmark    977    4    1
@@ -889,21 +896,21 @@
 -- Croatia    81    0    5
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
+-- Viet Nam    75    0    16
 -- Algeria    72    6    12
 -- Latvia    71    0    1
 -- Nigeria    69    0    1
 -- Brunei Darussalam    68    0    0
--- Viet Nam    68    0    16
 -- Albania    59    2    0
 -- Hungary    58    1    2
 -- Faroe Islands    58    0    1
+-- Jordan    52    0    1
 -- Sri Lanka    51    0    3
 -- Belarus    51    0    5
 -- Costa Rica    50    0    0
 -- Uruguay    50    0    0
 -- Morocco    49    2    1
 -- Cyprus    49    0    0
--- Jordan    48    0    1
 -- Malta    48    0    2
 -- Palestine    44    0    0
 -- Andorra    39    0    1
