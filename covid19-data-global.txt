@@ -1,455 +1,37 @@
 -- China    81058    3230    68798
 ---- Hubei    67799    3111    56003
------- Wuhan    49999    2456    37642
------- Xiaogan    3518    126    3253
------- Ezhou    1394    57    1272
------- Suizhou    1307    45    1213
------- Jingzhou    1580    50    1483
------- Huanggang    2907    125    2738
------- Jingmen    928    39    864
------- Yichang    931    36    864
------- Huangshi    1015    38    948
------- Shiyan    672    8    630
------- Xiantao    575    22    526
------- Xiangyang    1175    38    1125
------- Enshi Tujia and Miao Autonomous Prefecture    252    7    241
------- Qianjiang    198    9    182
------- Xianning    836    14    819
------- Tianmen    496    15    477
------- Shennongjia    11    0    11
 ---- Guangdong    1364    8    1307
------- Shenzhen    423    3    401
------- Guangzhou    351    1    330
------- Foshan    85    0    81
------- Zhongshan    68    0    64
------- Dongguan    100    1    97
------- Shantou    25    0    24
------- Zhuhai    98    1    97
------- Huizhou    62    0    62
------- Jiangmen    23    0    23
------- Zhanjiang    22    0    22
------- Zhaoqing    19    1    18
------- Meizhou    16    0    16
------- Yangjiang    14    0    14
------- Maoming    14    0    14
------- Qingyuan    12    0    12
------- Shaoguan    10    1    9
------- Jieyang    8    0    8
------- Shanwei    5    0    5
------- Chaozhou    5    0    5
------- Heyuan    4    0    4
 ---- Henan    1273    22    1250
------- Xinyang    274    2    272
------- Zhengzhou    157    5    152
------- Nanyang    156    3    153
------- Zhumadian    139    0    139
------- Shangqiu    91    3    88
------- Zhoukou    76    1    75
------- Pingdingshan    58    1    57
------- Xinxiang    57    3    54
------- Anyang    53    0    53
------- Xuchang    39    1    38
------- Luohe    35    0    35
------- Jiaozuo    32    1    31
------- Luoyang    31    1    30
------- Kaifeng    26    0    26
------- Hebi    19    0    19
------- Puyang    17    0    17
------- Sanmenxia    7    1    6
------- Jiyuan    5    0    5
 ---- Zhejiang    1232    1    1216
------- Lishui    28    0    18
------- Wenzhou    504    1    501
------- Hangzhou    182    0    181
------- Jiaxing    45    0    44
------- Huzhou    12    0    10
------- Shaoxing    42    0    41
------- Ningbo    157    0    157
------- Taizhou    146    0    146
------- Jinhua    55    0    55
------- Shilifeng Prison    36    0    36
------- Quzhou    14    0    14
------- Zhoushan    10    0    10
 ---- Hunan    1018    4    1014
------- Changsha    242    2    240
------- Yueyang    156    1    155
------- Zhuzhou    80    0    80
------- Shaoyang    102    1    101
------- Loudi    76    0    76
------- Changde    82    0    82
------- Yiyang    60    0    60
------- Hengyang    48    0    48
------- Yongzhou    44    0    44
------- Huaihua    40    0    40
------- Chenzhou    39    0    39
------- Xiangtan    36    0    36
------- Xiangxi    8    0    8
------- Zhangjiajie    5    0    5
 ---- Anhui    990    6    984
------- Hefei    174    1    173
------- Bengbu    160    5    155
------- Fuyang    155    0    155
------- Bozhou    108    0    108
------- Anqing    83    0    83
------- Lu'an    69    0    69
------- Suzhou    41    0    41
------- Ma'anshan    38    0    38
------- Wuhu    34    0    34
------- Tongling    29    0    29
------- Huaibei    27    0    27
------- Huainan    27    0    27
------- Chizhou    17    0    17
------- Chuzhou    13    0    13
------- Huangshan    9    0    9
------- Xuancheng    6    0    6
 ---- Jiangxi    935    1    934
------- Nanchang    230    0    230
------- Xinyu    130    0    130
------- Shangrao    123    0    123
------- Jiujiang    118    0    118
------- Yichun    106    0    106
------- Ganzhou    76    1    75
------- Fuzhou    72    0    72
------- Pingxiang    33    0    33
------- Ji'an    22    0    22
------- Yingtan    18    0    18
------- Jingdezhen    6    0    6
------- Ganjiang New District    1    0    1
 ---- Shandong    761    7    746
------- Jining    260    0    256
------- Dezhou    37    2    35
------- Qingdao    61    1    59
------- Linyi    49    0    49
------- Jinan    47    0    46
------- Zibo    30    1    29
------- Yantai    47    0    47
------- Weifang    44    0    44
------- Weihai    38    1    37
------- Liaocheng    38    0    38
------- Tai'an    35    2    33
------- Zaozhuang    24    0    24
------- Heze    18    0    18
------- Rizhao    16    0    16
------- Binzhou    15    0    15
 ---- Jiangsu    631    0    631
------- Wuxi    55    0    55
------- Nanjing    93    0    93
------- Suzhou    87    0    87
------- Xuzhou    79    0    79
------- Huainan    66    0    66
------- Changzhou    51    0    51
------- Lianyungang    48    0    48
------- Nantong    40    0    40
------- Taizhou    37    0    37
------- Yancheng    27    0    27
------- Yangzhou    23    0    23
------- Suqian    13    0    13
------- Zhenjiang    12    0    12
 ---- Chongqing    576    6    570
------- Changshou District    22    0    22
------- Qijiang District    23    0    23
------- Dazu District    14    0    14
------- Rongchang District    9    0    9
------- Wanzhou District    118    4    114
------- Jiangbei District    28    0    28
------- Yunyang County    25    0    25
------- Hechuan District    23    0    23
------- Fengjie County    22    0    22
------- Jiulongpo District    21    1    20
------- Kaizhou District    21    1    20
------- Zhong County    21    0    21
------- Yuzhong District    20    0    20
------- Dianjiang County    20    0    20
------- Tongnan District    18    0    18
------- Yubei District    17    0    17
------- Liangjiang New Area    17    0    17
------- Nan'an District    15    0    15
------- Shizhu Tujia Autonomous County    15    0    15
------- Wuxi County    14    0    14
------- Tongliang District    10    0    10
------- Fengdu County    10    0    10
------- Wushan County    10    0    10
------- Shapingba District    9    0    9
------- Bishan District    9    0    9
------- Dadukou District    7    0    7
------- Banan District    6    0    6
------- Fuling District    5    0    5
------- Yongchuan District    5    0    5
------- Jiangjin District    4    0    4
------- Liangping District    4    0    4
------- Chongqing High-tech Zone    4    0    4
------- Qianjiang Tujia and Miao Autonomous County    2    0    2
------- Chengkou County    2    0    2
------- Pengshui Miao and Tujia Autonomous County    2    0    2
------- Wulong District    1    0    1
------- Xiushan Tujia and Miao Autonomous County    1    0    1
------- Youyang Tujia and Miao Autonomous County    1    0    1
------- Wansheng District    1    0    1
 ---- Sichuan    540    3    520
------- Chengdu    144    3    126
------- Bazhong    24    0    24
------- Garzê Tibetan Autonomous Prefecture    78    0    77
------- Mianyang    22    0    22
------- Dazhou    42    0    42
------- Guang'an    30    0    30
------- Meishan    8    0    8
------- Nanchong    39    0    39
------- Luzhou    24    0    24
------- Neijiang    22    0    22
------- Deyang    18    0    18
------- Suining    17    0    17
------- Panzhihua    16    0    16
------- Liangshan Yi Autonomous Prefecture    13    0    13
------- Yibin    12    0    12
------- Zigong    9    0    9
------- Ya'an    7    0    7
------- Guangyuan    6    0    6
------- Ziyang    4    0    4
------- Leshan    3    0    3
------- Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
 ---- Heilongjiang    482    13    456
------- Harbin    198    4    189
------- Shuangyashan    52    3    48
------- Suihua    47    4    42
------- Qiqihar    43    1    40
------- Daqing    26    1    23
------- Mudanjiang    15    0    15
------- Jixi    46    0    46
------- Qitaihe    17    0    17
------- Heihe    14    0    13
------- Hegang    5    0    5
------- Daxinganling    3    0    2
------- Jiamusi    15    0    15
------- Yichun    1    0    1
 ---- Beijing    456    8    369
------- Chaoyang District    72    0    0
------- Haidian District    63    0    0
------- Xicheng District    53    0    0
------- Fengtai District    43    0    3
------- Daxing District    39    0    16
------- People from other cities    25    0    2
------- Changping District    29    0    10
------- Tongzhou District    19    0    1
------- Fangshan District    16    0    3
------- Dongcheng District    14    0    1
------- Shijingshan District    14    0    1
------- Shunyi District    10    0    0
------- Huairou District    7    0    0
------- Miyun District    7    0    0
------- Mentougou District    3    0    2
------- Yanqing District    1    0    0
 ---- Shanghai    358    3    325
------- People from other cities    111    1    106
------- Pudong District    61    0    59
------- Baoshan District    21    0    19
------- Jiading District    9    0    7
------- Xuhui District    18    0    17
------- Jing'an District    16    0    15
------- Huangpu District    6    0    5
------- Minhang District    19    0    19
------- Songjiang District    14    0    14
------- Changning District    13    0    13
------- Putuo District    11    0    11
------- Yangpu District    9    0    9
------- Fengxian District    9    0    9
------- Hongkou District    7    0    7
------- Qingpu District    6    0    6
------- Jinshan District    4    0    4
------- Chongming District    4    0    4
 ---- Hebei    318    6    310
------- Tangshan    58    1    55
------- Cangzhou    48    3    45
------- Zhangjiakou    41    0    41
------- Baoding    32    0    32
------- Handan    32    0    32
------- Langfang    30    0    30
------- Shijiazhuang    29    0    29
------- Xingtai    23    1    22
------- Qinhuangdao    10    1    9
------- Hengshui    8    0    8
------- Chengde    7    0    7
 ---- Fujian    296    1    295
------- Fuzhou    72    1    71
------- Putian    56    0    56
------- Quanzhou    47    0    47
------- Xiamen    35    0    35
------- Ningde    26    0    26
------- Zhangzhou    20    0    20
------- Nanping    20    0    20
------- Sanming    14    0    14
------- Longyan    6    0    6
 ---- Guangxi    253    2    248
------- Fangchenggang    19    0    17
------- Laibin    11    0    9
------- Nanning    55    0    54
------- Beihai    44    1    42
------- Liuzhou    24    0    23
------- Guilin    32    0    32
------- Hechi    28    1    27
------- Yulin    11    0    11
------- Qinzhou    8    0    8
------- Guigang    8    0    8
------- Wuzhou    5    0    5
------- Hezhou    4    0    4
------- Baise    3    0    3
 ---- Shaanxi    246    3    236
------- Xi'an    120    3    110
------- Hanzhong    26    0    26
------- Xianyang    17    0    16
------- Weinan    15    0    14
------- Ankang    26    0    26
------- Baoji    13    0    13
------- Yan'an    8    0    8
------- Tongchuan    8    0    8
------- Shangluo    7    0    7
------- Yulin    3    0    3
------- Hancheng    1    0    1
------- Yangling District in Xianyang    1    0    1
 ---- Yunnan    176    2    172
------- Qujing    13    0    13
------- Dehong    5    0    5
------- Kunming    53    0    53
------- Zhaotong    25    0    25
------- Xishuangbanna    15    1    14
------- Yuxi    14    1    13
------- Dali    13    0    13
------- Honghe    9    0    9
------- Baoshan    9    0    9
------- Lijiang    7    0    7
------- Pu'er    4    0    4
------- Chuxiong    4    0    4
------- Wenshan    2    0    2
------- Lincang    1    0    1
 ---- Hainan    168    6    161
------- Haikou    39    0    38
------- Danzhou    15    1    13
------- Sanya    54    1    53
------- Wanning    13    0    13
------- Chengmai County    9    1    8
------- Changjiang Li Autonomous County    7    0    7
------- Qionghai    6    1    5
------- Lingao County    6    0    6
------- Lingshui Li Autonomous County    4    0    4
------- Ding'an County    3    1    2
------- Wenchang    3    0    3
------- Dongfang    3    1    2
------- Baoting Li and Miao Autonomous County    3    0    3
------- Ledong Li Autonomous County    2    0    2
------- Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Guizhou    147    2    144
------- Guiyang    36    1    35
------- Zunyi    32    0    32
------- Liupanshui    10    1    9
------- Bijie    23    0    23
------- Qiannan    17    0    17
------- Tongren    10    0    10
------- Qiandongnan    10    0    10
------- Anshun    4    0    4
------- Qianxinan    4    0    4
 ---- Tianjin    136    3    133
------- Baodi District    60    2    58
------- Hedong District    15    1    14
------- Hebei District    12    0    12
------- Beichen District    6    0    6
------- Nankai District    6    0    6
------- Heping District    6    0    6
------- People from other cities    6    0    6
------- Dongli District    4    0    4
------- Ninghe District    4    0    4
------- Hexi District    4    0    4
------- Xiqing District    4    0    4
------- Binhai New Area    3    0    3
------- Wuqing District    2    0    2
------- Hongqiao District    2    0    2
------- Jinnan District    2    0    2
 ---- Shanxi    133    0    133
------- Jinzhong    37    0    37
------- Taiyuan    20    0    20
------- Yuncheng    19    0    19
------- Datong    12    0    12
------- Jincheng    10    0    10
------- Changzhi    8    0    8
------- Shuozhou    8    0    8
------- Xinzhou    7    0    7
------- Lüliang    6    0    6
------- Yangquan    4    0    4
------- Linfen    2    0    2
 ---- Gansu    133    2    91
------- Dingxi    9    0    9
------- Lanzhou    36    2    34
------- Tianshui    12    0    12
------- Pingliang    9    0    9
------- Gannan    8    0    8
------- Baiyin    4    0    4
------- Longnan    4    0    4
------- Qingyang    3    0    3
------- Linxia    3    0    3
------- Zhangye    2    0    2
------- Jinchang    1    0    1
 ---- Hong Kong    162    4    88
 ---- Liaoning    125    1    120
------- Dandong    11    0    9
------- Dalian    19    0    19
------- Shenyang    28    0    27
------- Huludao    12    1    11
------- Chaoyang    6    0    5
------- Jinzhou    12    0    12
------- Panjin    11    0    11
------- Fuxin    8    0    8
------- Tieling    7    0    7
------- Anshan    4    0    4
------- Benxi    3    0    3
------- Liaoyang    3    0    3
------- Yingkou    1    0    1
 ---- Jilin    93    1    92
------- Changchun    45    0    45
------- Siping    15    1    14
------- Liaoyuan    7    0    7
------- Gongzhuling    6    0    6
------- Tonghua    6    0    6
------- Jilin    5    0    5
------- Yanbian    5    0    5
------- Songyuan    2    0    2
------- Meihekou    1    0    1
------- Baicheng    1    0    1
 ---- Xinjiang    76    3    73
------- Urumqi    23    0    23
------- Yili    18    0    18
------- Xinjiang Production and Construction Corps 4th Division    10    1    9
------- Shihezi, Xinjiang Production and Construction Corps 8th Division    4    1    3
------- Xinjiang Production and Construction Corps 9th Division    4    1    3
------- Changji    4    0    4
------- Turpan    3    0    3
------- Bayingolin Mongol Autonomous Prefecture    3    0    3
------- Xinjiang Production and Construction Corps 12th Division    3    0    3
------- Wujiaqu, Xinjiang Production and Construction Corps 5th Division    2    0    2
------- Xinjiang Production and Construction Corps 7th Division    1    0    1
------- Akesu    1    0    1
 ---- Inner Mongolia    75    1    73
------- Baotou    11    0    9
------- Hohhot    7    0    6
------- Ordos    11    0    11
------- Chifeng    9    0    9
------- Linguolexi    9    0    9
------- Bayannur    8    1    7
------- Tongliao    7    0    7
------- Hulunbuir    7    0    7
------- Ulanqab    3    0    3
------- Wuhai    2    0    2
------- Xinganmeng    1    0    1
 ---- Ningxia    75    0    75
------- Yinchuan    36    0    35
------- Zhongwei    4    0    3
------- Wuzhong    28    0    28
------- Guyuan    5    0    5
------- Ningdong County    1    0    1
------- Shizuishan    1    0    1
 ---- Qinghai    18    0    18
------- Xining    15    0    15
------- Haibei    3    0    3
 ---- Macau    12    0    10
 ---- Tibet    1    0    1
------- Lhasa    1    0    1
 -- Italy    31506    2503    2941
 ---- Abruzzo    229    6    7
 ---- Aosta Valley    136    2    0
@@ -512,17 +94,17 @@
 ---- Canary Islands    148    1    7
 ---- Cantabria    58    0    10
 ---- Castile and León    431    9    2
----- Castile-La Mancha    567    17    13
+---- Castile-La Mancha    662    17    13
 ---- Catalonia    1866    12    3
 ---- Community of Madrid    4871    253    109
----- Comunidad Foral de Navarra    313    1    0
+---- Comunidad Foral de Navarra    350    1    0
 ---- Extremadura    153    2    5
 ---- Galicia    292    2    3
 ---- Principality of Asturias    193    1    3
----- Región de Murcia    97    0    0
+---- Región de Murcia    145    0    0
 ---- Rioja    355    4    1
 ---- Valencian Community    541    5    1
----- Melilla    17    0    0
+---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Germany    9367    26    67
@@ -587,539 +169,476 @@
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
 -- United States of America    6509    115    106
----- WA    1076    55    89
------- King(53033)    569    46    89
------- Snohomish(53061)    266    6    89
------- Grant(53025)    7    1    89
------- Chelan(53007)    2    0    89
------- Clark(53011)    4    2    89
------- Jefferson(53031)    3    0    89
------- Pierce(53053)    45    0    89
------- Kittitas(53037)    3    0    89
------- Spokane(53063)    4    0    89
------- Kitsap(53035)    7    0    89
------- Skagit(53057)    9    0    89
------- Thurston(53067)    5    0    89
------- Island(53029)    14    0    89
------- Whatcom(53073)    6    0    89
------- Grays Harbor(53027)    1    0    89
------- Columbia(53013)    1    0    89
------- Yakima(53077)    5    0    89
------- Lincoln(53043)    1    0    89
------- Cowlitz(53015)    1    0    89
------- Lewis(53041)    1    0    89
------- Klickitat(53039)    1    0    89
----- IL    162    1    2
------- Cook(17031)    107    1    2
------- Kane(17089)    3    0    2
------- McHenry(17111)    2    0    0
------- Lake(17097)    7    0    2
------- Coles(17029)    1    0    0
------- Cumberland(17035)    1    0    2
------- DuPage(17043)    5    0    0
------- Woodford(17203)    1    0    2
------- Sangamon(17167)    4    0    2
------- Champaign(17019)    1    0    2
------- Will(17197)    2    0    2
------- Clinton(17027)    2    0    2
------- Peoria(17143)    1    0    2
------- Whiteside(17195)    1    0    2
------- Winnebago(17201)    1    0    2
+---- NY    1708    16    0
+------ Westchester(36119)    380    0    0
+------ Nassau(36059)    140    1    0
+------ Suffolk(36103)    97    3    0
+------ Albany(36001)    25    0    0
+------ Rockland(36087)    22    1    0
+------ Dutchess(36027)    16    0    0
+------ Orange(36071)    15    0    0
+------ Monroe(36055)    14    1    0
+------ Erie(36029)    11    0    0
+------ Saratoga(36091)    9    0    0
+------ Ulster(36111)    8    0    0
+------ Schenectady(36093)    5    0    0
+------ Tompkins(36109)    3    0    0
+------ Allegany(36003)    2    0    0
+------ Greene(36039)    2    0    0
+------ Onondaga(36067)    2    0    0
+------ Putnam(36079)    2    0    0
+------ Broome(36007)    1    0    0
+------ Clinton(36019)    1    0    0
+------ Delaware(36025)    1    0    0
+------ Essex(36031)    1    0    0
+------ Genesee(36037)    1    0    0
+------ Herkimer(36043)    1    0    0
+------ Montgomery(36057)    1    0    0
+------ Oneida(36065)    1    0    0
+------ Ontario(36069)    1    0    0
+------ Rensselaer(36083)    1    0    0
+------ Sullivan(36105)    1    0    0
+------ Tioga(36107)    1    0    0
+------ Wyoming(36121)    1    0    0
+---- WA    1012    55    89
+------ King(53033)    569    46    0
+------ Snohomish(53061)    266    6    0
+------ Pierce(53053)    45    0    0
+------ Island(53029)    14    0    0
+------ Skagit(53057)    9    0    0
+------ Grant(53025)    7    1    0
+------ Kitsap(53035)    7    0    0
+------ Whatcom(53073)    6    0    0
+------ Thurston(53067)    5    0    0
+------ Yakima(53077)    5    0    0
+------ Clark(53011)    4    2    0
+------ Spokane(53063)    4    0    0
+------ Jefferson(53031)    3    0    0
+------ Kittitas(53037)    3    0    0
+------ Chelan(53007)    2    0    0
+------ Columbia(53013)    1    0    0
+------ Cowlitz(53015)    1    0    0
+------ Grays Harbor(53027)    1    0    0
+------ Klickitat(53039)    1    0    0
+------ Lewis(53041)    1    0    0
+------ Lincoln(53043)    1    0    0
 ---- CA    726    13    6
------- Los Angeles(06037)    144    1    6
------- San Benito(06069)    4    0    6
------- San Diego(06073)    60    0    6
------- Humboldt(06023)    1    0    6
------- Sacramento(06067)    40    2    6
------- Placer(06061)    8    1    6
------- San Mateo(06081)    64    1    6
------- Sonoma(06097)    6    0    6
------- Orange(06059)    29    0    6
------- Contra Costa(06013)    39    0    6
------- San Francisco(06075)    43    0    6
------- Yolo(06113)    4    0    6
------- Santa Clara(06085)    155    5    6
------- Alameda(06001)    27    0    6
------- Madera(06039)    1    0    6
------- Fresno(06019)    2    0    6
------- Riverside(06065)    16    3    6
------- Shasta(06089)    1    0    6
------- Solano(06095)    8    0    6
------- Santa Cruz(06087)    13    0    6
------- Ventura(06111)    10    0    6
------- Marin(06041)    11    0    6
------- Calaveras(06009)    2    0    6
------- Stanislaus(06099)    3    0    6
------- San Joaquin(06077)    13    0    6
------- Imperial(06025)    2    0    6
------- Tulare(06107)    3    0    6
------- San Luis Obispo(06079)    6    0    6
------- San Bernardino(06071)    3    0    6
------- Santa Barbara(06083)    2    0    6
------- Nevada(06057)    1    0    6
------- Amador(06005)    1    0    6
------- Del Norte(06015)    1    0    6
------- Kern(06029)    1    0    6
------- Monterey(06053)    2    0    6
----- WI    90    0    1
------- Dane(55025)    19    0    1
------- Pierce(55093)    1    0    1
------- Fond du Lac(55039)    11    0    0
------- Waukesha(55133)    4    0    1
------- Sheboygan(55117)    3    0    1
------- Milwaukee(55079)    40    0    1
------- Racine(55101)    1    0    1
------- Winnebago(55139)    3    0    1
------- Wood(55141)    1    0    1
------- Outagamie(55087)    1    0    1
------- Kenosha(55059)    4    0    1
------- Ozaukee(55089)    1    0    1
------- Washington(55131)    1    0    1
----- TX    130    2    0
------- Bexar(48029)    11    0    0
------- Harris(48201)    16    0    0
------- Fort Bend(48157)    10    0    0
------- Collin(48085)    8    0    0
------- Gregg(48183)    1    0    0
------- Dallas(48113)    28    0    0
------- Tarrant(48439)    6    1    0
------- Montgomery(48339)    4    0    0
------- Travis(48453)    17    0    0
------- Smith(48423)    5    0    0
------- El Paso(48141)    3    0    0
------- Bell(48027)    3    0    0
------- Galveston(48167)    2    0    0
------- Lavaca(48285)    1    0    0
------- Brazoria(48039)    2    0    0
------- Hays(48209)    3    0    0
------- Matagorda(48321)    2    1    0
------- Denton(48121)    1    0    0
------- Bowie(48037)    1    0    0
------- Webb(48479)    1    0    0
------- Rusk(48401)    1    0    0
------- Brazos(48041)    1    0    0
------- Lubbock(48303)    2    0    0
------- Ellis(48139)    1    0    0
----- NH    26    0    0
------- Grafton(33009)    7    0    0
------- Rockingham(33015)    14    0    0
------- Hillsborough(33011)    4    0    0
------- Carroll(33003)    1    0    0
+------ Santa Clara(06085)    155    5    0
+------ Los Angeles(06037)    144    1    0
+------ San Mateo(06081)    64    1    0
+------ San Diego(06073)    60    0    0
+------ San Francisco(06075)    43    0    0
+------ Sacramento(06067)    40    2    0
+------ Contra Costa(06013)    39    0    0
+------ Orange(06059)    29    0    0
+------ Alameda(06001)    27    0    0
+------ Riverside(06065)    16    3    0
+------ San Joaquin(06077)    13    0    0
+------ Santa Cruz(06087)    13    0    0
+------ Marin(06041)    11    0    0
+------ Ventura(06111)    10    0    0
+------ Placer(06061)    8    1    0
+------ Solano(06095)    8    0    0
+------ San Luis Obispo(06079)    6    0    0
+------ Sonoma(06097)    6    0    0
+------ San Benito(06069)    4    0    0
+------ Yolo(06113)    4    0    0
+------ San Bernardino(06071)    3    0    0
+------ Stanislaus(06099)    3    0    0
+------ Tulare(06107)    3    0    0
+------ Calaveras(06009)    2    0    0
+------ Fresno(06019)    2    0    0
+------ Imperial(06025)    2    0    0
+------ Monterey(06053)    2    0    0
+------ Santa Barbara(06083)    2    0    0
+------ Amador(06005)    1    0    0
+------ Del Norte(06015)    1    0    0
+------ Humboldt(06023)    1    0    0
+------ Kern(06029)    1    0    0
+------ Madera(06039)    1    0    0
+------ Nevada(06057)    1    0    0
+------ Shasta(06089)    1    0    0
+---- NJ    267    3    0
+------ Bergen(34003)    84    2    0
+------ Essex(34013)    32    0    0
+------ Hudson(34017)    24    0    0
+------ Middlesex(34023)    22    0    0
+------ Monmouth(34025)    22    1    0
+------ Union(34039)    15    0    0
+------ Passaic(34031)    10    0    0
+------ Mercer(34021)    9    0    0
+------ Morris(34027)    7    0    0
+------ Somerset(34035)    7    0    0
+------ Burlington(34005)    5    0    0
+------ Hunterdon(34019)    4    0    0
+------ Ocean(34029)    4    0    0
+------ Camden(34007)    3    0    0
+------ Gloucester(34015)    2    0    0
+---- MA    218    0    1
+------ Middlesex(25017)    89    0    0
+------ Norfolk(25021)    43    0    0
+------ Suffolk(25025)    42    0    0
+------ Berkshire(25003)    14    0    0
+------ Essex(25009)    8    0    0
+------ Worcester(25027)    8    0    0
+------ Bristol(25005)    5    0    0
+------ Plymouth(25023)    5    0    0
+------ Barnstable(25001)    2    0    0
+------ Hampden(25013)    1    0    0
 ---- FL    217    7    0
------- Hillsborough(12057)    7    0    0
------- Sarasota(12115)    3    0    0
------- Santa Rosa(12113)    1    1    0
------- Broward(12011)    48    1    0
------- Lee(12071)    5    2    0
------- Manatee(12081)    7    1    0
------- Okaloosa(12091)    2    0    0
------- Volusia(12127)    9    0    0
------- Charlotte(12015)    1    0    0
------- Collier(12021)    6    0    0
------- Pinellas(12103)    4    0    0
------- Alachua(12001)    4    0    0
------- Nassau(12089)    1    0    0
------- Pasco(12101)    2    0    0
+------ Broward(12011)    48    0    0
 ------ Palm Beach(12099)    13    0    0
------- Clay(12019)    4    0    0
 ------ Duval(12031)    10    0    0
------- Miami-Dade(12086)    23    0    0
------- Seminole(12117)    4    0    0
+------ Volusia(12127)    9    0    0
+------ Hillsborough(12057)    7    0    0
+------ Manatee(12081)    7    1    0
+------ Collier(12021)    6    0    0
 ------ Orange(12095)    6    1    0
 ------ Osceola(12097)    6    0    0
+------ Lee(12071)    5    2    0
+------ Alachua(12001)    4    0    0
+------ Clay(12019)    4    0    0
+------ Pinellas(12103)    4    0    0
+------ Seminole(12117)    4    0    0
+------ Sarasota(12115)    3    0    0
 ------ Citrus(12017)    2    0    0
------- Escambia(12033)    1    0    0
+------ Okaloosa(12091)    2    0    0
+------ Pasco(12101)    2    0    0
 ------ Brevard(12009)    1    0    0
+------ Charlotte(12015)    1    0    0
+------ Escambia(12033)    1    0    0
 ------ Lake(12069)    1    0    0
+------ Nassau(12089)    1    0    0
 ------ Polk(12105)    1    0    0
----- OR    67    1    0
------- Umatilla(41059)    2    0    0
------- Washington(41067)    21    0    0
------- Jackson(41029)    2    0    0
------- Klamath(41035)    1    0    0
------- Douglas(41019)    1    0    0
------- Marion(41047)    4    0    0
------- Multnomah(41051)    3    1    0
------- Polk(41053)    2    0    0
------- Deschutes(41017)    6    0    0
------- Linn(41043)    15    0    0
------- Clackamas(41005)    6    0    0
------- Yamhill(41071)    1    0    0
------- Lane(41039)    1    0    0
------- Benton(41003)    2    0    0
+------ Santa Rosa(12113)    1    1    0
+---- LA    196    4    0
+---- CO    186    2    0
+------ Denver(08031)    38    0    0
+------ Eagle(08037)    34    0    0
+------ Arapahoe(08005)    18    0    0
+------ Jefferson(08059)    17    0    0
+------ Boulder(08013)    11    0    0
+------ Gunnison(08051)    11    0    0
+------ Pitkin(08097)    11    0    0
+------ Douglas(08035)    10    0    0
+------ Adams(08001)    8    0    0
+------ El Paso(08041)    6    1    0
+------ Weld(08123)    6    1    0
+------ Summit(08117)    5    0    0
+------ Larimer(08069)    3    0    0
+------ Clear Creek(08019)    2    0    0
+------ Garfield(08045)    2    0    0
+------ Routt(08107)    2    0    0
+------ Mesa(08077)    1    0    0
+------ Pueblo(08101)    1    0    0
+---- IL    161    1    2
+------ Cook(17031)    107    1    0
+------ Lake(17097)    7    0    0
+------ Sangamon(17167)    4    0    0
+------ Kane(17089)    3    0    0
+------ Clinton(17027)    2    0    0
+------ Will(17197)    2    0    0
+------ Champaign(17019)    1    0    0
+------ Cumberland(17035)    1    0    0
+------ Peoria(17143)    1    0    0
+------ Whiteside(17195)    1    0    0
+------ Winnebago(17201)    1    0    0
+------ Woodford(17203)    1    0    0
 ---- GA    150    1    0
 ------ Fulton(13121)    33    0    0
 ------ Cobb(13067)    25    1    0
------- Polk(13233)    1    0    0
+------ Bartow(13015)    10    0    0
 ------ Cherokee(13057)    7    0    0
 ------ Gwinnett(13135)    7    0    0
------- DeKalb(13089)    10    0    0
------- Floyd(13115)    6    0    0
------- Fayette(13113)    5    0    0
------- Charlton(13049)    1    0    0
------- Bartow(13015)    10    0    0
------- Gordon(13129)    2    0    0
------- Camden(13039)    1    0    0
------- Lee(13177)    2    0    0
------- Lowndes(13185)    4    0    0
------- Coweta(13077)    3    0    0
 ------ Dougherty(13095)    6    0    0
------- Henry(13151)    2    0    0
------- Clarke(13059)    3    0    0
+------ Floyd(13115)    6    0    0
 ------ Clayton(13063)    5    0    0
------- Newton(13217)    1    0    0
------- Troup(13285)    2    0    0
------- Hall(13139)    1    0    0
------- Paulding(13223)    1    0    0
------- Forsyth(13117)    1    0    0
------- Spalding(13255)    1    0    0
------- Barrow(13013)    1    0    0
------- Columbia(13073)    1    0    0
+------ Fayette(13113)    5    0    0
+------ Lowndes(13185)    4    0    0
+------ Clarke(13059)    3    0    0
+------ Coweta(13077)    3    0    0
 ------ Richmond(13245)    3    0    0
+------ Gordon(13129)    2    0    0
+------ Henry(13151)    2    0    0
+------ Lee(13177)    2    0    0
+------ Troup(13285)    2    0    0
+------ Barrow(13013)    1    0    0
+------ Charlton(13049)    1    0    0
+------ Columbia(13073)    1    0    0
+------ Forsyth(13117)    1    0    0
+------ Hall(13139)    1    0    0
+------ Newton(13217)    1    0    0
+------ Paulding(13223)    1    0    0
+------ Polk(13233)    1    0    0
 ------ Rockdale(13247)    1    0    0
----- MA    218    0    1
------- Norfolk(25021)    43    0    1
------- Suffolk(25025)    42    0    1
------- Middlesex(25017)    89    0    1
------- Plymouth(25023)    5    0    1
------- Berkshire(25003)    14    0    1
------- Worcester(25027)    8    0    1
------- Essex(25009)    8    0    1
------- Barnstable(25001)    2    0    1
------- Bristol(25005)    5    0    1
------- Hampden(25013)    1    0    1
----- AZ    21    0    1
------- Maricopa(04013)    9    0    1
------- Pinal(04021)    5    0    1
------- Pima(04019)    4    0    1
------- Graham(04009)    1    0    1
------- Navajo(04017)    1    0    1
----- NC    66    0    0
------- Wake(37183)    17    0    0
------- Chatham(37037)    3    0    0
------- Kershaw(45055)    4    0    0
------- Forsyth(37067)    2    0    0
------- Mecklenburg(37119)    11    0    0
------- Cabarrus(37025)    1    0    0
------- Durham(37063)    16    0    0
------- Johnston(37101)    2    0    0
------- Onslow(37133)    1    0    0
------- Wayne(37191)    1    0    0
------- Harnett(37085)    3    0    0
------- Brunswick(37019)    1    0    0
------- Craven(37049)    1    0    0
------- Watauga(37189)    1    0    0
------- Wilson(37195)    1    0    0
------- Iredell(37097)    1    0    0
------- Sampson(37163)    1    0    0
------- Guilford(37081)    1    0    0
------- Orange(37135)    1    0    0
------- Lincoln(37109)    1    0    0
----- NY    1710    16    1
------- Westchester(36119)    380    0    0
------- New York(36061)    644    7    0
------- Nassau(36059)    140    1    0
------- Rockland(36087)    22    1    0
------- Saratoga(36091)    9    0    0
------- Suffolk(36103)    97    3    0
------- Ulster(36111)    8    0    0
------- Albany(36001)    25    0    0
------- Delaware(36025)    1    0    0
------- Dutchess(36027)    16    0    0
------- Herkimer(36043)    1    0    0
------- Monroe(36055)    14    1    0
------- Orange(36071)    15    0    0
------- Broome(36007)    1    0    0
------- Schenectady(36093)    5    0    0
------- Tompkins(36109)    3    0    0
------- Tioga(36107)    1    0    0
------- Erie(36029)    11    0    0
------- Putnam(36079)    2    0    0
------- Greene(36039)    2    0    0
------- Montgomery(36057)    1    0    0
------- Allegany(36003)    2    0    0
------- Onondaga(36067)    2    0    0
------- Ontario(36069)    1    0    0
------- Clinton(36019)    1    0    0
------- Essex(36031)    1    0    0
------- Oneida(36065)    1    0    0
------- Rensselaer(36083)    1    0    0
------- Sullivan(36105)    1    0    0
------- Wyoming(36121)    1    0    0
------- Genesee(36037)    1    0    0
----- NJ    268    3    0
------- Bergen(34003)    84    2    0
------- Hudson(34017)    24    0    0
------- Monmouth(34025)    22    1    0
------- Burlington(34005)    5    0    0
------- Camden(34007)    3    0    0
------- Passaic(34031)    10    0    0
------- Union(34039)    15    0    0
------- Middlesex(34023)    22    0    0
------- Essex(34013)    32    0    0
------- Morris(34027)    7    0    0
------- Somerset(34035)    7    0    0
------- Mercer(34021)    9    0    0
------- Ocean(34029)    4    0    0
------- Hunterdon(34019)    4    0    0
------- Gloucester(34015)    2    0    0
----- NV    56    1    0
------- Clark(32003)    42    1    0
------- Washoe(32031)    12    0    0
+------ Spalding(13255)    1    0    0
+---- TX    131    2    0
+------ Dallas(48113)    28    0    0
+------ Travis(48453)    17    0    0
+------ Harris(48201)    16    0    0
+------ Bexar(48029)    11    0    0
+------ Fort Bend(48157)    10    0    0
+------ Collin(48085)    8    0    0
+------ Tarrant(48439)    6    1    0
+------ Smith(48423)    5    0    0
+------ Montgomery(48339)    4    0    0
+------ Bell(48027)    3    0    0
+------ El Paso(48141)    3    0    0
+------ Hays(48209)    3    0    0
+------ Brazoria(48039)    2    0    0
+------ Galveston(48167)    2    0    0
+------ Lubbock(48303)    2    0    0
+------ Matagorda(48321)    3    1    0
+------ Bowie(48037)    1    0    0
+------ Brazos(48041)    1    0    0
+------ Denton(48121)    1    0    0
+------ Ellis(48139)    1    0    0
+------ Gregg(48183)    1    0    0
+------ Lavaca(48285)    1    0    0
+------ Rusk(48401)    1    0    0
+------ Webb(48479)    1    0    0
+---- PA    115    0    0
+------ Montgomery(42091)    34    0    0
+------ Philadelphia(42101)    19    0    0
+------ Allegheny(42003)    10    0    0
+------ Cumberland(42041)    10    0    0
+------ Delaware(42045)    9    0    0
+------ Bucks(42017)    8    0    0
+------ Monroe(42089)    8    0    0
+------ Chester(42029)    6    0    0
+------ Washington(42125)    2    0    0
+------ Beaver(42007)    1    0    0
+------ Lehigh(42077)    1    0    0
+------ Luzerne(42079)    1    0    0
+------ Northampton(42095)    1    0    0
+------ Pike(42103)    1    0    0
+------ Wayne(42127)    1    0    0
+---- WI    90    0    1
+------ Milwaukee(55079)    40    0    0
+------ Dane(55025)    19    0    0
+------ Kenosha(55059)    4    0    0
+------ Waukesha(55133)    4    0    0
+------ Sheboygan(55117)    3    0    0
+------ Winnebago(55139)    3    0    0
+------ Outagamie(55087)    1    0    0
+------ Pierce(55093)    1    0    0
+------ Racine(55101)    1    0    0
+------ Washington(55131)    1    0    0
+------ Wood(55141)    1    0    0
 ---- TN    78    0    0
------- Williamson(47187)    21    0    0
 ------ Davidson(47037)    46    0    0
+------ Williamson(47187)    21    0    0
 ------ Shelby(47157)    3    0    0
------- Sullivan(47163)    1    0    0
 ------ Knox(47093)    2    0    0
+------ Campbell(47013)    1    0    0
 ------ Hamilton(47065)    1    0    0
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    1    0    0
------- Campbell(47013)    1    0    0
 ------ Sevier(47155)    1    0    0
+------ Sullivan(47163)    1    0    0
+---- CT    68    0    0
+------ Fairfield(09001)    48    0    0
+------ New Haven(09009)    8    0    0
+------ Hartford(09003)    7    0    0
+------ Litchfield(09005)    5    0    0
+---- OH    67    0    0
+------ Cuyahoga(39035)    31    0    0
+------ Butler(39017)    6    0    0
+------ Franklin(39049)    4    0    0
+------ Lorain(39093)    4    0    0
+------ Summit(39153)    4    0    0
+------ Medina(39103)    3    0    0
+------ Stark(39151)    3    0    0
+------ Belmont(39013)    2    0    0
+------ Coshocton(39031)    2    0    0
+------ Trumbull(39155)    2    0    0
+------ Darke(39037)    1    0    0
+------ Geauga(39055)    1    0    0
+------ Lake(39085)    1    0    0
+------ Lucas(39095)    1    0    0
+------ Mahoning(39099)    1    0    0
+------ Tuscarawas(39157)    1    0    0
+---- OR    67    1    0
+------ Washington(41067)    21    0    0
+------ Linn(41043)    15    0    0
+------ Clackamas(41005)    6    0    0
+------ Deschutes(41017)    6    0    0
+------ Marion(41047)    4    0    0
+------ Multnomah(41051)    3    1    0
+------ Benton(41003)    2    0    0
+------ Jackson(41029)    2    0    0
+------ Polk(41053)    2    0    0
+------ Umatilla(41059)    2    0    0
+------ Douglas(41019)    1    0    0
+------ Klamath(41035)    1    0    0
+------ Lane(41039)    1    0    0
+------ Yamhill(41071)    1    0    0
+---- VA    67    2    1
+------ Arlington(51013)    13    0    0
+------ Fairfax(51059)    12    0    0
+------ Loudoun(51107)    5    0    0
+------ Chesterfield(51041)    4    0    0
+------ Prince William(51153)    4    0    0
+------ Henrico(51087)    2    0    0
+------ Goochland(51075)    1    0    0
+------ Hanover(51085)    1    0    0
+------ Prince Edward(51147)    1    0    0
+------ Spotsylvania(51177)    1    0    0
+------ Stafford(51179)    1    0    0
+------ York(51199)    1    1    0
+---- NC    66    0    0
+------ Wake(37183)    17    0    0
+------ Durham(37063)    16    0    0
+------ Mecklenburg(37119)    11    0    0
+------ Chatham(37037)    3    0    0
+------ Harnett(37085)    3    0    0
+------ Forsyth(37067)    2    0    0
+------ Johnston(37101)    2    0    0
+------ Brunswick(37019)    1    0    0
+------ Cabarrus(37025)    1    0    0
+------ Craven(37049)    1    0    0
+------ Guilford(37081)    1    0    0
+------ Iredell(37097)    1    0    0
+------ Lincoln(37109)    1    0    0
+------ Onslow(37133)    1    0    0
+------ Orange(37135)    1    0    0
+------ Sampson(37163)    1    0    0
+------ Watauga(37189)    1    0    0
+------ Wayne(37191)    1    0    0
+------ Wilson(37195)    1    0    0
+---- MI    65    0    0
+------ Oakland(26125)    16    0    0
+------ Wayne(26163)    14    0    0
+------ Macomb(26099)    8    0    0
+------ Washtenaw(26161)    7    0    0
+------ Kent(26081)    5    0    0
+------ Ingham(26065)    3    0    0
+------ Bay(26017)    1    0    0
+------ Charlevoix(26029)    1    0    0
+------ Jackson(26075)    1    0    0
+------ Leelanau(26089)    1    0    0
+------ Monroe(26115)    1    0    0
+------ Montcalm(26117)    1    0    0
+------ Otsego(26137)    1    0    0
+------ Ottawa(26139)    1    0    0
+---- MN    62    0    0
+------ Hennepin(27053)    24    0    0
+------ Ramsey(27123)    11    0    0
+------ Dakota(27037)    6    0    0
+------ Olmsted(27109)    5    0    0
+------ Anoka(27003)    3    0    0
+------ Stearns(27145)    3    0    0
+------ Benton(27009)    2    0    0
+------ Washington(27163)    2    0    0
+------ Blue Earth(27013)    1    0    0
+------ Carver(27019)    1    0    0
+------ Renville(27129)    1    0    0
+------ Sherburne(27141)    1    0    0
+------ Waseca(27161)    1    0    0
+------ Wright(27171)    1    0    0
 ---- MD    60    0    4
------- Montgomery(24031)    24    0    4
------- Harford(24025)    2    0    4
------- Prince George's(24033)    14    0    4
------- Baltimore(24005)    6    0    4
------- Charles(24017)    1    0    4
------- Anne Arundel(24003)    3    0    4
------- Carroll(24013)    2    0    4
------- Howard(24027)    4    0    4
------- Talbot(24041)    1    0    4
------- Frederick(24021)    1    0    4
----- CO    186    2    0
------- Denver(08031)    38    0    0
------- Summit(08117)    5    0    0
------- Douglas(08035)    10    0    0
------- El Paso(08041)    6    1    0
------- Eagle(08037)    34    0    0
------- Larimer(08069)    3    0    0
------- Arapahoe(08005)    18    0    0
------- Gunnison(08051)    11    0    0
------- Jefferson(08059)    17    0    0
------- Pitkin(08097)    11    0    0
------- Adams(08001)    8    0    0
------- Boulder(08013)    11    0    0
------- Weld(08123)    6    1    0
------- Pueblo(08101)    1    0    0
------- Routt(08107)    2    0    0
------- Mesa(08077)    1    0    0
------- Garfield(08045)    2    0    0
------- Clear Creek(08019)    2    0    0
----- PA    115    1    0
------- Delaware(42045)    9    0    0
------- Wayne(42127)    1    0    0
------- Montgomery(42091)    34    0    0
------- Monroe(42089)    8    0    0
------- Philadelphia(42101)    19    0    0
------- Bucks(42017)    8    0    0
------- Northampton(42095)    1    0    0
------- Pike(42103)    1    0    0
------- Chester(42029)    6    0    0
------- Washington(42125)    2    0    0
------- Cumberland(42041)    10    0    0
------- Allegheny(42003)    10    0    0
------- Lehigh(42077)    1    0    0
------- Luzerne(42079)    1    0    0
------- Beaver(42007)    1    0    0
+------ Montgomery(24031)    24    0    0
+------ Prince George's(24033)    14    0    0
+------ Baltimore(24005)    6    0    0
+------ Howard(24027)    4    0    0
+------ Anne Arundel(24003)    3    0    0
+------ Carroll(24013)    2    0    0
+------ Harford(24025)    2    0    0
+------ Charles(24017)    1    0    0
+------ Frederick(24021)    1    0    0
+------ Talbot(24041)    1    0    0
+---- NV    56    1    0
+------ Clark(32003)    42    1    0
+------ Washoe(32031)    12    0    0
+---- UT    51    0    0
+------ Salt Lake(49035)    20    0    0
+------ Summit(49043)    8    0    0
+------ Davis(49011)    4    0    0
+------ Wasatch(49051)    2    0    0
+------ Tooele(49045)    1    0    0
+---- SC    47    2    0
+------ Kershaw(45055)    22    0    0
+------ Beaufort(45013)    4    0    0
+------ Horry(45051)    4    0    0
+------ Charleston(45019)    3    0    0
+------ Lexington(45063)    3    1    0
+------ Anderson(45007)    2    0    0
+------ Greenville(45045)    2    0    0
+------ Lancaster(45057)    2    0    0
+------ Calhoun(45017)    1    0    0
+------ Fairfield(45039)    1    1    0
+------ Richland(45079)    1    0    0
+------ Spartanburg(45083)    1    0    0
+------ York(45091)    1    0    0
+---- AL    39    0    0
+------ Jefferson(01073)    21    0    0
+------ Shelby(01117)    4    0    0
+------ Lee(01081)    3    0    0
+------ Tuscaloosa(01125)    3    0    0
+------ Elmore(01051)    2    0    0
+------ Montgomery(01101)    2    0    0
+------ Baldwin(01003)    1    0    0
+------ Limestone(01083)    1    0    0
+------ Madison(01089)    1    0    0
+---- ME    32    0    0
+------ Cumberland(23005)    18    0    0
+------ Androscoggin(23001)    3    0    0
+------ Kennebec(23011)    1    0    0
+------ Knox(23013)    1    0    0
+------ Oxford(23017)    1    0    0
+------ York(23031)    1    0    0
+---- DC    31    0    0
+---- IN    30    2    0
+------ Marion(18097)    9    1    0
+------ Hendricks(18063)    3    0    0
+------ Johnson(18081)    3    1    0
+------ Franklin(18047)    2    0    0
+------ Howard(18067)    2    0    0
+------ Lake(18089)    2    0    0
+------ Adams(18001)    1    0    0
+------ Bartholomew(18005)    1    0    0
+------ Boone(18011)    1    0    0
+------ Floyd(18043)    1    0    0
+------ Hamilton(18057)    1    0    0
+------ Noble(18113)    1    0    0
+------ Wells(18179)    1    0    0
+---- IA    29    0    0
+------ Johnson(19103)    18    0    0
+------ Dallas(19049)    3    0    0
+------ Allamakee(19005)    2    0    0
+------ Adair(19001)    1    0    0
+------ Black Hawk(19013)    1    0    0
+------ Carroll(19027)    1    0    0
+------ Harrison(19085)    1    0    0
+------ Polk(19153)    1    0    0
+------ Pottawattamie(19155)    1    0    0
+---- KY    27    1    0
+------ Jefferson(21111)    8    0    0
+------ Fayette(21067)    7    0    0
+------ Harrison(21097)    6    0    0
+------ Montgomery(21173)    2    0    0
+------ Bourbon(21017)    1    1    0
+------ Clark(21049)    1    0    0
+------ Lyon(21143)    1    0    0
+------ Nelson(21179)    1    0    0
+---- NH    26    0    0
+------ Rockingham(33015)    14    0    0
+------ Grafton(33009)    7    0    0
+------ Hillsborough(33011)    4    0    0
+------ Carroll(33003)    1    0    0
 ---- NE    23    0    0
 ------ Douglas(31055)    19    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
 ------ Sarpy(31153)    1    0    0
----- KY    27    1    0
------- Fayette(21067)    7    0    0
------- Harrison(21097)    6    0    0
------- Jefferson(21111)    8    0    0
------- Montgomery(21173)    2    0    0
------- Nelson(21179)    1    0    0
------- Clark(21049)    1    0    0
------- Bourbon(21017)    1    1    0
------- Lyon(21143)    1    0    0
----- IN    31    2    0
------- Marion(18097)    9    1    0
------- Hendricks(18063)    3    0    0
------- Noble(18113)    1    0    0
------- Adams(18001)    1    0    0
------- Boone(18011)    1    0    0
------- Johnson(18081)    3    1    0
------- Howard(18067)    2    0    0
------- St Joseph(18141)    1    0    0
------- Hancock(18059)    1    0    0
------- LaPorte(18091)    1    0    0
------- Wells(18179)    1    0    0
------- Hamilton(18057)    1    0    0
------- Floyd(18043)    1    0    0
------- Bartholomew(18005)    1    0    0
------- Franklin(18047)    2    0    0
------- Lake(18089)    2    0    0
----- MN    62    0    0
------- Ramsey(27123)    11    0    0
------- Jefferson(21111)    1    0    0
------- Anoka(27003)    3    0    0
------- Olmsted(27109)    5    0    0
------- Carver(27019)    1    0    0
------- Dakota(27037)    6    0    0
------- Hennepin(27053)    24    0    0
------- Stearns(27145)    3    0    0
------- Wright(27171)    1    0    0
------- Renville(27129)    1    0    0
------- Waseca(27161)    1    0    0
------- Washington(27163)    2    0    0
------- Benton(27009)    2    0    0
------- Blue Earth(27013)    1    0    0
------- Sherburne(27141)    1    0    0
----- RI    23    0    0
------- Providence(44007)    23    0    0
----- CT    68    0    0
------- Fairfield(09001)    48    0    0
------- Litchfield(09005)    5    0    0
------- Hartford(09003)    7    0    0
------- New Haven(09009)    8    0    0
----- SC    48    2    0
------- Charleston(45019)    3    0    0
------- Kershaw(45055)    22    0    0
------- Spartanburg(45083)    1    0    0
------- Lancaster(45057)    2    0    0
------- Beaufort(45013)    4    0    0
------- Lexington(45063)    3    1    0
------- Horry(45051)    4    0    0
------- Anderson(45007)    2    0    0
------- Greenville(45045)    2    0    0
------- Georgetown(45043)    1    0    0
------- Calhoun(45017)    1    0    0
------- Richland(45079)    1    0    0
------- York(45091)    1    0    0
------- Fairfield(45039)    1    1    0
----- UT    51    0    0
------- Davis(49011)    4    0    0
------- Weber(49057)    1    0    0
------- Summit(49043)    8    0    0
------- Salt Lake(49035)    20    0    0
------- Tooele(49045)    1    0    0
------- Wasatch(49051)    2    0    0
----- HI    14    0    0
------- Honolulu(15003)    8    0    0
------- Kauai(15007)    2    0    0
------- Maui(15009)    3    0    0
------- Hawaii(15001)    1    0    0
----- OK    19    0    1
------- Tulsa(40143)    3    0    1
------- Jackson(40065)    1    0    1
------- Oklahoma(40109)    6    0    1
------- Cleveland(40027)    2    0    1
------- Payne(40119)    1    0    1
------- Kay(40071)    2    0    1
------- Canadian(40017)    1    0    1
------- Pawnee(40117)    1    0    1
----- VA    67    2    1
------- Fairfax(51059)    12    0    1
------- Norfolk City(51710)    2    0    0
------- Arlington(51013)    13    0    1
------- Spotsylvania(51177)    1    0    1
------- Loudoun(51107)    5    0    1
------- Hanover(51085)    1    0    1
------- Harrisonburg(51660)    1    0    0
------- Prince Edward(51147)    1    0    1
------- Prince William(51153)    4    0    1
------- Chesterfield(51041)    4    0    1
------- Albemarle(51003)    1    0    0
------- York(51199)    1    1    1
------- Henrico(51087)    2    0    1
------- Stafford(51179)    1    0    1
------- Goochland(51075)    1    0    1
----- KS    18    1    0
------- Johnson(20091)    10    0    0
------- Wyandotte(20209)    4    1    0
------- Butler(20015)    1    0    0
------- Sedgwick(20173)    1    0    0
------- Franklin(20059)    1    0    0
------- Ford(20057)    1    0    0
------- Douglas(20045)    1    0    0
----- MO    15    0    0
------- St Louis(29189)    1    0    0
------- Greene(29077)    4    0    0
------- Henry(29083)    1    0    0
------- Cass(29037)    2    0    0
------- Jackson(29095)    1    0    0
------- Cole(29051)    1    0    0
------- Boone(29019)    1    0    0
----- IA    29    0    0
------- Johnson(19103)    18    0    0
------- Pottawattamie(19155)    1    0    0
------- Carroll(19027)    1    0    0
------- Harrison(19085)    1    0    0
------- Dallas(19049)    3    0    0
------- Allamakee(19005)    2    0    0
------- Polk(19153)    1    0    0
------- Adair(19001)    1    0    0
------- Black Hawk(19013)    1    0    0
----- VT    17    0    0
------- Bennington(50003)    3    0    0
------- Chittenden(50007)    4    0    0
------- Windsor(50027)    3    0    0
------- Washington(50023)    1    0    0
------- Orange(50017)    1    0    0
----- LA    200    4    0
------- Jefferson(22051)    31    4    0
------- Orleans(22071)    116    3    0
------- Iberia(22045)    1    0    0
------- Caddo(22017)    4    0    0
------- Terrebonne(22109)    3    0    0
------- Bossier(22015)    1    0    0
------- Lafourche(22057)    2    0    0
------- Ascension(22005)    3    0    0
------- Washington(22117)    3    0    0
----- Unassigned Location (From Diamond Princess)    47    0    0
----- Grand Princess Cruise Ship    21    0    0
----- SD    11    1    0
------- Pennington(46103)    1    1    0
------- Beadle(46005)    1    0    0
------- Charles Mix(46023)    1    0    0
------- Davison(46035)    1    0    0
------- Minnehaha(46099)    5    0    0
------- Bon Homme(46009)    1    0    0
------- McCook(46087)    1    0    0
----- OH    68    0    0
------- Cuyahoga(39035)    31    0    0
------- Stark(39151)    3    0    0
------- Trumbull(39155)    2    0    0
------- Butler(39017)    6    0    0
------- Belmont(39013)    2    0    0
------- Summit(39153)    4    0    0
------- Franklin(39049)    4    0    0
------- Lorain(39093)    4    0    0
------- Lucas(39095)    1    0    0
------- Tuscarawas(39157)    1    0    0
------- Medina(39103)    3    0    0
------- Geauga(39055)    1    0    0
------- Lake(39085)    1    0    0
------- Coshocton(39031)    2    0    0
------- Darke(39037)    1    0    0
------- Mahoning(39099)    1    0    0
----- MI    65    0    0
------- Oakland(26125)    16    0    0
------- Wayne(26163)    14    0    0
------- Kent(26081)    5    0    0
------- Washtenaw(26161)    7    0    0
------- Ingham(26065)    3    0    0
------- Montcalm(26117)    1    0    0
------- Bay(26017)    1    0    0
------- Charlevoix(26029)    1    0    0
------- Macomb(26099)    8    0    0
------- Monroe(26115)    1    0    0
------- Ottawa(26139)    1    0    0
------- Grand Traverse(26055)    1    0    0
------- Otsego(26137)    1    0    0
------- Jackson(26075)    1    0    0
------- Leelanau(26089)    1    0    0
 ---- NM    23    0    0
------- Socorro(35053)    2    0    0
 ------ Bernalillo(35001)    14    0    0
 ------ Santa Fe(35049)    4    0    0
 ------ Sandoval(35043)    2    0    0
+------ Socorro(35053)    2    0    0
 ------ Taos(35055)    1    0    0
+---- RI    23    0    0
+------ Providence(44007)    23    0    0
 ---- AR    22    0    0
 ------ Jefferson(05069)    5    0    0
 ------ Pulaski(05119)    5    0    0
@@ -1129,74 +648,101 @@
 ------ Garland(05051)    1    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
----- MT    9    0    0
------- Gallatin(30031)    1    0    0
------- Lewis and Clark(30049)    1    0    0
------- Silver Bow(30093)    1    0    0
------- Yellowstone(30111)    2    0    0
------- Missoula(30063)    3    0    0
------- Broadwater(30007)    1    0    0
----- DE    16    0    0
------- New Castle(10003)    15    0    0
------- Sussex(10005)    1    0    0
 ---- MS    21    0    0
------- Forrest(28035)    3    0    0
+------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
+------ Forrest(28035)    3    0    0
 ------ Copiah(28029)    2    0    0
 ------ Pearl River(28109)    2    0    0
------- Hinds(28049)    6    0    0
------- Monroe(28095)    1    0    0
 ------ Hancock(28045)    1    0    0
 ------ Harrison(28047)    1    0    0
 ------ Jackson(28059)    1    0    0
+------ Monroe(28095)    1    0    0
+---- AZ    20    0    1
+------ Maricopa(04013)    9    0    0
+------ Pinal(04021)    5    0    0
+------ Pima(04019)    4    0    0
+------ Graham(04009)    1    0    0
+------ Navajo(04017)    1    0    0
+---- OK    19    0    1
+------ Oklahoma(40109)    6    0    0
+------ Tulsa(40143)    3    0    0
+------ Cleveland(40027)    2    0    0
+------ Kay(40071)    2    0    0
+------ Canadian(40017)    1    0    0
+------ Jackson(40065)    1    0    0
+------ Pawnee(40117)    1    0    0
+------ Payne(40119)    1    0    0
+---- KS    18    1    0
+------ Johnson(20091)    10    0    0
+------ Wyandotte(20209)    4    1    0
+------ Butler(20015)    1    0    0
+------ Douglas(20045)    1    0    0
+------ Ford(20057)    1    0    0
+------ Franklin(20059)    1    0    0
+---- VT    17    0    0
+------ Chittenden(50007)    4    0    0
+------ Bennington(50003)    3    0    0
+------ Windsor(50027)    3    0    0
+------ Orange(50017)    1    0    0
+------ Washington(50023)    1    0    0
+---- DE    16    0    0
+------ New Castle(10003)    15    0    0
+------ Sussex(10005)    1    0    0
+---- MO    16    0    0
+------ Greene(29077)    4    0    0
+------ Cass(29037)    2    0    0
+------ Boone(29019)    1    0    0
+------ Cole(29051)    1    0    0
+------ Henry(29083)    1    0    0
+------ Jackson(29095)    2    0    0
+---- HI    14    0    0
+------ Honolulu(15003)    8    0    0
+------ Maui(15009)    3    0    0
+------ Kauai(15007)    2    0    0
+------ Hawaii(15001)    1    0    0
+---- SD    11    1    0
+------ Minnehaha(46099)    5    0    0
+------ Beadle(46005)    1    0    0
+------ Bon Homme(46009)    1    0    0
+------ Charles Mix(46023)    1    0    0
+------ Davison(46035)    1    0    0
+------ Pennington(46103)    1    1    0
 ---- WY    11    0    0
------- Sheridan(56033)    2    0    0
 ------ Fremont(56013)    8    0    0
+------ Sheridan(56033)    2    0    0
 ------ Laramie(56021)    1    0    0
----- ND    5    0    0
------- Ward(38101)    2    0    0
------- Cass(38017)    1    0    0
------- Burleigh(38015)    2    0    0
----- ME    32    0    0
------- Androscoggin(23001)    3    0    0
------- Cumberland(23005)    18    0    0
------- Knox(23013)    1    0    0
------- Kennebec(23011)    1    0    0
------- Oxford(23017)    1    0    0
------- York(23031)    1    0    0
----- AK    4    0    0
------- Anchorage(02020)    1    0    0
------- Fairbanks North Star(02090)    2    0    0
----- DC    31    0    0
----- Others    18    0    0
----- AL    39    0    0
------- Montgomery(01101)    2    0    0
------- Jefferson(01073)    21    0    0
------- Tuscaloosa(01125)    3    0    0
------- Elmore(01051)    2    0    0
------- Limestone(01083)    1    0    0
------- Baldwin(01003)    1    0    0
------- Shelby(01117)    4    0    0
------- Lee(01081)    3    0    0
------- Madison(01089)    1    0    0
+---- MT    10    0    0
+------ Missoula(30063)    3    0    0
+------ Yellowstone(30111)    2    0    0
+------ Broadwater(30007)    1    0    0
+------ Gallatin(30031)    2    0    0
+------ Silver Bow(30093)    1    0    0
 ---- ID    8    0    0
 ------ Ada(16001)    3    0    0
 ------ Blaine(16013)    3    0    0
------- Teton(16081)    1    0    0
 ------ Madison(16065)    1    0    0
----- PR    5    0    0
+------ Teton(16081)    1    0    0
+---- ND    5    0    0
+------ Burleigh(38015)    2    0    0
+------ Ward(38101)    2    0    0
+------ Cass(38017)    1    0    0
+---- AK    3    0    0
+------ Fairbanks North Star(02090)    2    0    0
+------ Anchorage(02020)    1    0    0
 ---- WV    1    0    0
----- VI    2    0    0
------- St Thomas(78030)    1    0    0
----- US    1    0    0
------- St Thomas(78030)    1    0    0
+---- Unassigned Location (From Diamond Princess)    47    0    0
+---- Grand Princess Cruise Ship    21    0    0
+---- Others    18    0    0
 ---- GU    8    0    0
+---- PR    5    0    0
+---- VI    2    0    0
 -- Switzerland    2742    27    15
 -- United Kingdom of Great Britain and Northern Ireland    1960    71    65
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    1196    34    0
+---- England    1196    48    0
 ---- Northern Ireland    52    0    0
 ---- Wales    124    0    0
 ---- Scotland    153    10    0
@@ -1265,7 +811,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    7    0    0
--- Australia    452    6    27
+-- Australia    539    6    27
 ---- New South Wales    210    4    4
 ---- Victoria    94    0    8
 ---- Queensland    78    0    8
