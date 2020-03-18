@@ -103,7 +103,7 @@
 ---- North Khorasan    100    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    42    0    0
--- Spain    13716    616    1081
+-- Spain    13910    623    1081
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -124,7 +124,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    10082    26    71
+-- Germany    10082    27    73
 ---- Saxony    247    0    0
 ---- Mecklenburg-Vorpommern    69    0    0
 ---- Free State of Bavaria    1352    5    14
@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6533    116    106
+-- United States of America    6535    116    106
 ---- NY    1717    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -391,6 +391,7 @@
 ------ Polk(13233)    1    0    0
 ------ Rockdale(13247)    1    0    0
 ------ Spalding(13255)    1    0    0
+------ Whitfield(13313)    1    0    0
 ---- TX    132    2    0
 ------ Dallas(48113)    28    0    0
 ------ Travis(48453)    17    0    0
@@ -525,9 +526,9 @@
 ------ Watauga(37189)    1    0    0
 ------ Wayne(37191)    1    0    0
 ------ Wilson(37195)    1    0    0
----- MI    65    0    0
+---- MI    66    0    0
 ------ Oakland(26125)    16    0    0
------- Wayne(26163)    14    0    0
+------ Wayne(26163)    17    0    0
 ------ Macomb(26099)    8    0    0
 ------ Washtenaw(26161)    7    0    0
 ------ Kent(26081)    5    0    0
@@ -668,7 +669,7 @@
 ------ Garland(05051)    1    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
----- MS    21    0    0
+---- MS    22    0    0
 ------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
 ------ Forrest(28035)    3    0    0
@@ -676,7 +677,7 @@
 ------ Pearl River(28109)    2    0    0
 ------ Hancock(28045)    1    0    0
 ------ Harrison(28047)    1    0    0
------- Jackson(28059)    1    0    0
+------ Jackson(28059)    2    0    0
 ------ Monroe(28095)    1    0    0
 ---- AZ    21    0    1
 ------ Maricopa(04013)    9    0    0
@@ -752,6 +753,7 @@
 ------ Fairbanks North Star(02090)    3    0    0
 ------ Anchorage(02020)    2    0    0
 ---- WV    1    0    0
+------ Jefferson(54037)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- Others    18    0    0
@@ -759,6 +761,9 @@
 ---- PR    5    0    0
 ---- VI    2    0    0
 -- Switzerland    2742    27    15
+-- Netherlands    2051    58    2
+---- Netherlands    1705    43    2
+---- Curacao    3    0    0
 -- United Kingdom of Great Britain and Northern Ireland    1960    71    65
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -808,10 +813,7 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    2    0    0
 ---- Kagawa    1    0    0
--- Netherlands    1708    43    2
----- Netherlands    1705    43    2
----- Curacao    3    0    0
--- Norway    1527    4    1
+-- Norway    1527    5    1
 -- Belgium    1486    14    14
 -- Austria    1471    7    9
 -- Sweden    1196    8    1
@@ -850,19 +852,19 @@
 -- Brazil    350    2    2
 -- Ireland    292    2    5
 -- Slovenia    275    1    0
+-- Pakistan    272    1    2
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
 -- Estonia    258    0    1
--- Pakistan    256    1    2
 -- Bahrain    255    1    88
+-- Poland    251    5    13
 -- Iceland    250    5    8
 -- Romania    246    0    19
--- Poland    246    5    13
+-- Chile    238    0    0
 -- Indonesia    227    19    11
 -- Thailand    212    1    41
 -- Luxembourg    203    2    0
 -- Philippines    202    17    5
--- Chile    201    0    0
 -- Egypt    196    6    32
 -- Hong Kong    181    4    92
 -- Saudi Arabia    171    0    6
