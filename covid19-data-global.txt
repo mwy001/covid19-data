@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    7411    116    106
+-- United States of America    7554    117    106
 ---- NY    2480    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -241,10 +241,10 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    732    13    6
+---- CA    749    13    6
 ------ Santa Clara(06085)    155    5    0
 ------ Los Angeles(06037)    144    1    0
------- San Mateo(06081)    64    1    0
+------ San Mateo(06081)    80    1    0
 ------ San Diego(06073)    60    0    0
 ------ San Francisco(06075)    43    0    0
 ------ Sacramento(06067)    40    2    0
@@ -256,7 +256,7 @@
 ------ Santa Cruz(06087)    13    0    0
 ------ Marin(06041)    15    0    0
 ------ Ventura(06111)    10    0    0
------- Placer(06061)    8    1    0
+------ Placer(06061)    9    1    0
 ------ Solano(06095)    8    0    0
 ------ San Luis Obispo(06079)    6    0    0
 ------ Sonoma(06097)    6    0    0
@@ -304,7 +304,7 @@
 ------ Plymouth(25023)    5    0    0
 ------ Barnstable(25001)    2    0    0
 ------ Hampden(25013)    1    0    0
----- FL    217    7    0
+---- FL    314    7    0
 ------ Broward(12011)    48    0    0
 ------ Palm Beach(12099)    13    0    0
 ------ Duval(12031)    10    0    0
@@ -330,7 +330,7 @@
 ------ Nassau(12089)    1    0    0
 ------ Polk(12105)    1    0    0
 ------ Santa Rosa(12113)    1    1    0
----- LA    242    4    0
+---- LA    242    5    0
 ---- CO    186    2    0
 ------ Denver(08031)    38    0    0
 ------ Eagle(08037)    34    0    0
@@ -394,8 +394,8 @@
 ------ Spalding(13255)    1    0    0
 ------ Whitfield(13313)    1    0    0
 ------ Murray(13213)    1    0    0
----- TX    139    2    0
------- Dallas(48113)    28    0    0
+---- TX    150    2    0
+------ Dallas(48113)    39    0    0
 ------ Travis(48453)    17    0    0
 ------ Harris(48201)    16    0    0
 ------ Bexar(48029)    11    0    0
@@ -420,7 +420,7 @@
 ------ Rusk(48401)    1    0    0
 ------ Webb(48479)    1    0    0
 ------ Wichita(48485)    1    0    0
----- PA    115    0    0
+---- PA    134    0    0
 ------ Montgomery(42091)    34    0    0
 ------ Philadelphia(42101)    19    0    0
 ------ Allegheny(42003)    12    0    0
@@ -498,7 +498,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    1    0    0
----- VA    67    2    1
+---- VA    77    2    1
 ------ Arlington(51013)    13    0    0
 ------ Fairfax(51059)    12    0    0
 ------ Loudoun(51107)    5    0    0
@@ -511,12 +511,12 @@
 ------ Spotsylvania(51177)    1    0    0
 ------ Stafford(51179)    1    0    0
 ------ York(51199)    1    1    0
----- NC    69    0    0
+---- NC    70    0    0
 ------ Wake(37183)    17    0    0
 ------ Durham(37063)    16    0    0
 ------ Mecklenburg(37119)    14    0    0
 ------ Chatham(37037)    3    0    0
------- Harnett(37085)    3    0    0
+------ Harnett(37085)    4    0    0
 ------ Forsyth(37067)    2    0    0
 ------ Johnston(37101)    2    0    0
 ------ Brunswick(37019)    1    0    0
@@ -630,6 +630,7 @@
 ------ Clark(18019)    1    0    0
 ------ Fayette(18041)    1    0    0
 ------ Jennings(18079)    1    0    0
+------ Madison(18095)    1    0    0
 ---- IA    29    0    0
 ------ Johnson(19103)    18    0    0
 ------ Dallas(19049)    3    0    0
@@ -712,12 +713,13 @@
 ------ Douglas(20045)    1    0    0
 ------ Ford(20057)    1    0    0
 ------ Franklin(20059)    1    0    0
----- VT    17    0    0
+---- VT    18    0    0
 ------ Chittenden(50007)    4    0    0
 ------ Bennington(50003)    3    0    0
 ------ Windsor(50027)    3    0    0
 ------ Orange(50017)    1    0    0
 ------ Washington(50023)    1    0    0
+------ Addison(50001)    1    0    0
 ---- DE    19    0    0
 ------ New Castle(10003)    17    0    0
 ------ Sussex(10005)    1    0    0
@@ -826,6 +828,7 @@
 ---- Nagasaki    1    0    0
 ---- Ibaraki    2    0    0
 ---- Kagawa    1    0    0
+---- Fukui    1    0    0
 -- Austria    1646    7    9
 -- Norway    1550    6    1
 -- Belgium    1486    14    31
@@ -860,7 +863,7 @@
 -- Czechia    464    0    3
 -- Qatar    442    0    4
 -- Israel    433    0    11
--- Greece    387    5    14
+-- Greece    418    5    14
 -- Brazil    367    2    2
 -- Finland    359    0    10
 -- Singapore    313    0    114
@@ -885,10 +888,10 @@
 -- India    155    3    14
 -- Ecuador    155    2    0
 -- Russian Federation    147    0    8
+-- Peru    145    0    1
 -- Kuwait    142    0    15
 -- Lebanon    133    4    4
 -- San Marino    119    11    4
--- Peru    117    0    1
 -- South Africa    116    0    0
 -- United Arab Emirates    113    0    26
 -- Slovakia    105    1    0
@@ -985,6 +988,7 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Liberia    2    0    0
+-- Greenland    2    0    0
 -- Benin    2    0    0
 -- Barbados    2    0    0
 -- Montenegro    2    0    0
@@ -1005,7 +1009,6 @@
 -- Bahamas    1    0    0
 -- Central African Republic    1    0    0
 -- Somalia    1    0    0
--- Greenland    1    0    0
 -- Gambia    1    0    0
 -- Montserrat    1    0    0
 -- Djibouti    1    0    0
