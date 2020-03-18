@@ -811,8 +811,8 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    1471    4    9
 -- Norway    1471    3    1
--- Austria    1332    4    9
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
 -- Denmark    1024    4    1
@@ -832,7 +832,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    7    0    0
--- Australia    560    6    43
+-- Australia    565    6    43
 ---- New South Wales    210    4    4
 ---- Victoria    94    0    8
 ---- Queensland    78    0    8
@@ -854,8 +854,8 @@
 ---- Central Singapore Community Development Council    200    0    97
 -- Pakistan    247    1    2
 -- Iceland    247    5    8
+-- Poland    246    5    13
 -- Bahrain    241    1    88
--- Poland    238    5    13
 -- Estonia    225    0    1
 -- Romania    222    0    19
 -- Thailand    212    1    41
@@ -867,33 +867,33 @@
 -- Hong Kong    168    4    81
 -- Iraq    154    11    41
 -- India    153    3    14
+-- Kuwait    142    0    12
 -- Luxembourg    140    1    0
--- Kuwait    130    0    12
 -- Lebanon    124    4    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
 -- Russian Federation    114    0    8
 -- United Arab Emirates    113    0    26
 -- Ecuador    111    2    0
+-- Taiwan    100    1    22
 -- Turkey    98    1    0
 -- Slovakia    97    0    0
 -- Mexico    93    0    4
+-- Panama    86    1    0
 -- South Africa    85    0    0
 -- Serbia    83    0    1
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Armenia    78    0    1
--- Taiwan    77    1    22
 -- Colombia    75    0    1
 -- Croatia    69    0    5
 -- Nigeria    69    0    1
--- Panama    69    1    0
 -- Viet Nam    68    0    16
 -- Algeria    61    5    12
 -- Latvia    60    0    1
 -- Hungary    58    1    2
 -- Brunei Darussalam    56    0    0
--- Albania    55    1    0
+-- Albania    55    2    0
 -- Costa Rica    50    0    0
 -- Uruguay    50    0    0
 -- Cyprus    49    0    0
@@ -906,14 +906,14 @@
 -- Georgia    38    0    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
+-- Cambodia    35    0    1
 -- Kazakhstan    35    0    0
 -- Azerbaijan    34    1    6
 -- Bosnia and Herzegovina    34    0    2
--- Cambodia    33    0    1
 -- Oman    33    0    12
 -- Venezuela, Bolivarian Republic of    33    0    0
 -- North Macedonia    31    0    1
--- Moldova, Republic of    30    0    1
+-- Moldova, Republic of    30    1    1
 -- Senegal    27    0    2
 -- Tunisia    27    0    1
 -- Lithuania    26    0    1
