@@ -103,7 +103,7 @@
 ---- North Khorasan    100    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    32    0    0
 ---- Bushehr    42    0    0
--- Spain    13716    533    1028
+-- Spain    13716    598    1081
 ---- Andalusia    683    7    0
 ---- Aragon    207    11    0
 ---- Balearic Islands    92    1    2
@@ -813,7 +813,7 @@
 ---- Curacao    3    0    0
 -- Norway    1523    4    1
 -- Belgium    1486    10    14
--- Austria    1471    4    9
+-- Austria    1471    7    9
 -- Sweden    1196    8    1
 -- Denmark    1044    4    1
 ---- Denmark    977    4    1
@@ -866,14 +866,14 @@
 -- Egypt    196    6    32
 -- Hong Kong    181    4    92
 -- Saudi Arabia    171    0    6
--- Iraq    154    11    41
+-- Iraq    164    12    41
 -- India    153    3    14
+-- Russian Federation    147    0    8
 -- Kuwait    142    0    12
 -- Lebanon    133    4    4
 -- San Marino    119    11    4
 -- Peru    117    0    1
 -- South Africa    116    0    0
--- Russian Federation    114    0    8
 -- United Arab Emirates    113    0    26
 -- Ecuador    111    2    0
 -- Slovakia    105    0    0
@@ -896,9 +896,9 @@
 -- Hungary    58    1    2
 -- Faroe Islands    58    0    1
 -- Belarus    51    0    5
+-- Sri Lanka    50    0    3
 -- Costa Rica    50    0    0
 -- Uruguay    50    0    0
--- Sri Lanka    49    0    3
 -- Morocco    49    2    1
 -- Cyprus    49    0    0
 -- Jordan    48    0    1
@@ -992,3 +992,4 @@
 -- Benin    1    0    0
 -- Gambia    1    0    0
 -- Montserrat    1    0    0
+-- Djibouti    1    0    0
