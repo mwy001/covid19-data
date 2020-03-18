@@ -1,5 +1,22 @@
 -- China    81058    3230    68798
 ---- Hubei    67799    3111    56003
+------ Wuhan    50005    2490    40032
+------ Xiaogan    3518    128    3297
+------ Ezhou    1394    57    1290
+------ Suizhou    1307    45    1222
+------ Jingzhou    1580    50    1499
+------ Jingmen    928    39    870
+------ Shiyan    672    8    645
+------ Xiantao    575    22    535
+------ Huangshi    1015    38    963
+------ Yichang    931    36    881
+------ Xiangyang    1175    38    1131
+------ Qianjiang    198    9    184
+------ Tianmen    496    15    478
+------ Huanggang    2907    125    2782
+------ Xianning    836    15    821
+------ Enshi Tujia and Miao Autonomous Prefecture    252    7    245
+------ Shennongjia    11    0    11
 ---- Guangdong    1364    8    1307
 ---- Henan    1273    22    1250
 ---- Zhejiang    1232    1    1216
@@ -168,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6509    115    106
+-- United States of America    6514    115    106
 ---- NY    1708    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -200,7 +217,7 @@
 ------ Sullivan(36105)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    1    0    0
----- WA    1012    55    89
+---- WA    1013    55    89
 ------ King(53033)    569    46    0
 ------ Snohomish(53061)    266    6    0
 ------ Pierce(53053)    45    0    0
@@ -222,6 +239,7 @@
 ------ Klickitat(53039)    1    0    0
 ------ Lewis(53041)    1    0    0
 ------ Lincoln(53043)    1    0    0
+------ Franklin(53021)    1    0    0
 ---- CA    726    13    6
 ------ Santa Clara(06085)    155    5    0
 ------ Los Angeles(06037)    144    1    0
@@ -718,18 +736,18 @@
 ------ Broadwater(30007)    1    0    0
 ------ Gallatin(30031)    2    0    0
 ------ Silver Bow(30093)    1    0    0
----- ID    8    0    0
+---- ID    9    0    0
 ------ Ada(16001)    3    0    0
------- Blaine(16013)    3    0    0
+------ Blaine(16013)    4    0    0
 ------ Madison(16065)    1    0    0
 ------ Teton(16081)    1    0    0
 ---- ND    5    0    0
 ------ Burleigh(38015)    2    0    0
 ------ Ward(38101)    2    0    0
 ------ Cass(38017)    1    0    0
----- AK    3    0    0
------- Fairbanks North Star(02090)    2    0    0
------- Anchorage(02020)    1    0    0
+---- AK    6    0    0
+------ Fairbanks North Star(02090)    3    0    0
+------ Anchorage(02020)    2    0    0
 ---- WV    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
@@ -936,6 +954,7 @@
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
 -- Congo, Democratic Republic of the    3    0    0
+-- Kyrgyzstan    3    0    0
 -- Saint Martin (French part)    2    0    0
 -- Saint Lucia    2    0    0
 -- Namibia    2    0    0
