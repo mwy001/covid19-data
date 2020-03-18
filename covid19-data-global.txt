@@ -185,7 +185,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    3    0    0
 ---- Reunion    9    0    0
--- United States of America    6522    116    106
+-- United States of America    6524    116    106
 ---- NY    1708    16    0
 ------ Westchester(36119)    380    0    0
 ------ Nassau(36059)    140    1    0
@@ -217,7 +217,7 @@
 ------ Sullivan(36105)    1    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    1    0    0
----- WA    1013    55    89
+---- WA    1014    55    89
 ------ King(53033)    569    46    0
 ------ Snohomish(53061)    266    6    0
 ------ Pierce(53053)    45    0    0
@@ -879,12 +879,12 @@
 -- Slovakia    97    0    0
 -- Mexico    93    0    4
 -- South Africa    85    0    0
+-- Serbia    83    0    1
 -- Bulgaria    81    2    0
 -- Argentina    79    2    3
 -- Armenia    78    0    1
 -- Taiwan    77    1    22
 -- Colombia    75    0    1
--- Serbia    72    0    1
 -- Croatia    69    0    5
 -- Nigeria    69    0    1
 -- Panama    69    1    0
@@ -935,8 +935,8 @@
 -- Cameroon    10    0    0
 -- Monaco    9    0    0
 -- Paraguay    9    0    0
+-- Honduras    9    0    0
 -- Réunion    9    0    0
--- Honduras    8    0    0
 -- Guatemala    8    1    0
 -- Rwanda    8    0    0
 -- Cuba    7    0    0
@@ -957,6 +957,7 @@
 -- Mayotte    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    0    0
+-- Tanzania, United Republic of    3    0    0
 -- Congo, Democratic Republic of the    3    0    0
 -- Kyrgyzstan    3    0    0
 -- Saint Martin (French part)    2    0    0
@@ -985,7 +986,6 @@
 -- Guernsey    1    0    0
 -- Bahamas    1    0    0
 -- Central African Republic    1    0    0
--- Tanzania, United Republic of    1    0    0
 -- Somalia    1    0    0
 -- Greenland    1    0    0
 -- Benin    1    0    0
