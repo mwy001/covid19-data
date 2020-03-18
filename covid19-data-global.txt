@@ -811,11 +811,11 @@
 -- Netherlands    1708    43    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Norway    1476    4    1
 -- Austria    1471    4    9
--- Norway    1471    4    1
 -- Belgium    1243    10    14
 -- Sweden    1196    8    1
--- Denmark    1024    4    1
+-- Denmark    1044    4    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    673    2    49
@@ -846,18 +846,18 @@
 -- Qatar    442    0    4
 -- Israel    427    0    11
 -- Greece    387    5    14
--- Brazil    349    1    2
+-- Brazil    349    2    2
 -- Finland    322    0    10
 -- Ireland    292    2    5
 -- Slovenia    275    1    0
 -- Singapore    266    0    114
 ---- Central Singapore Community Development Council    200    0    97
--- Pakistan    247    1    2
+-- Estonia    258    0    1
+-- Pakistan    254    1    2
 -- Iceland    247    5    8
 -- Romania    246    0    19
 -- Poland    246    5    13
 -- Bahrain    241    1    88
--- Estonia    225    0    1
 -- Thailand    212    1    41
 -- Luxembourg    203    2    0
 -- Chile    201    0    0
@@ -906,24 +906,24 @@
 -- Georgia    38    0    1
 -- Malta    38    0    2
 -- Belarus    36    0    3
+-- Venezuela, Bolivarian Republic of    36    0    0
 -- Cambodia    35    0    1
 -- Kazakhstan    35    0    0
 -- Azerbaijan    34    1    6
 -- Bosnia and Herzegovina    34    0    2
 -- Oman    33    0    12
--- Venezuela, Bolivarian Republic of    33    0    0
 -- North Macedonia    31    0    1
+-- Senegal    31    0    2
 -- Moldova, Republic of    30    1    1
--- Senegal    27    0    2
 -- Tunisia    27    0    1
 -- Guadeloupe    27    0    0
 -- Lithuania    26    0    1
 -- Afghanistan    22    0    1
 -- Dominican Republic    21    1    0
 -- New Zealand    20    0    0
+-- Burkina Faso    20    0    0
 -- Liechtenstein    19    0    0
 -- Martinique    19    1    0
--- Burkina Faso    15    0    0
 -- Jamaica    15    0    2
 -- Ukraine    14    2    0
 -- Macao    14    0    10
