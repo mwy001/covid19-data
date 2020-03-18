@@ -141,8 +141,8 @@
 ---- Baden-Württemberg    1641    6    14
 ---- Saxony-Anhalt    105    0    0
 ---- Saarland    101    0    0
--- United States of America    8990    150    106
----- NY    3031    21    0
+-- United States of America    9014    150    106
+---- NY    3040    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
 ------ Suffolk(36103)    116    3    0
@@ -155,7 +155,7 @@
 ------ Saratoga(36091)    14    0    0
 ------ Ulster(36111)    9    0    0
 ------ Schenectady(36093)    14    0    0
------- Tompkins(36109)    3    0    0
+------ Tompkins(36109)    6    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Onondaga(36067)    3    0    0
@@ -189,7 +189,7 @@
 ------ Thurston(53067)    5    0    0
 ------ Yakima(53077)    7    0    0
 ------ Clark(53011)    4    2    0
------- Spokane(53063)    4    0    0
+------ Spokane(53063)    5    0    0
 ------ Jefferson(53031)    3    0    0
 ------ Kittitas(53037)    3    0    0
 ------ Chelan(53007)    2    0    0
@@ -267,7 +267,7 @@
 ------ Barnstable(25001)    2    0    0
 ------ Hampden(25013)    2    0    0
 ------ Franklin(25011)    1    0    0
----- FL    317    8    0
+---- FL    325    8    0
 ------ Broward(12011)    80    0    0
 ------ Palm Beach(12099)    19    0    0
 ------ Duval(12031)    13    0    0
@@ -446,8 +446,8 @@
 ------ Sumner(47165)    2    0    0
 ------ Cheatham(47021)    1    0    0
 ------ Robertson(47147)    1    0    0
----- CT    96    0    0
------- Fairfield(09001)    69    0    0
+---- CT    97    1    0
+------ Fairfield(09001)    69    1    0
 ------ New Haven(09009)    10    0    0
 ------ Hartford(09003)    11    0    0
 ------ Litchfield(09005)    5    0    0
@@ -502,8 +502,8 @@
 ------ Stafford(51179)    2    0    0
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
----- NC    74    0    0
------- Wake(37183)    17    0    0
+---- NC    78    0    0
+------ Wake(37183)    22    0    0
 ------ Durham(37063)    16    0    0
 ------ Mecklenburg(37119)    14    0    0
 ------ Chatham(37037)    3    0    0
@@ -695,8 +695,8 @@
 ------ Coahoma(28027)    2    0    0
 ------ Perry(28111)    1    0    0
 ------ Madison(28089)    1    0    0
----- AZ    27    0    1
------- Maricopa(04013)    11    0    0
+---- AZ    28    0    1
+------ Maricopa(04013)    12    0    0
 ------ Pinal(04021)    8    0    0
 ------ Pima(04019)    5    0    0
 ------ Graham(04009)    1    0    0
@@ -886,9 +886,9 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    790    2    60
--- Canada    655    9    12
----- British Columbia    186    7    4
----- Ontario    211    1    5
+-- Canada    701    9    12
+---- British Columbia    231    7    4
+---- Ontario    212    1    5
 ---- Alberta    97    0    0
 ---- Quebec    94    1    0
 ---- New Brunswick    11    0    0
