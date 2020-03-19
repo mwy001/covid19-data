@@ -930,7 +930,7 @@
 ---- Seoul    282    0    58
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
--- Switzerland    3115    33    15
+-- Switzerland    3219    35    15
 -- United Kingdom of Great Britain and Northern Ireland    2642    104    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -985,8 +985,8 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
--- Norway    1606    6    1
--- Belgium    1486    14    31
+-- Belgium    1759    21    31
+-- Norway    1623    6    1
 -- Sweden    1301    10    15
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
@@ -1005,7 +1005,7 @@
 ---- Prince Edward Island    1    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    12    0    0
--- Australia    687    6    43
+-- Australia    709    6    46
 ---- New South Wales    267    5    4
 ---- Victoria    121    0    8
 ---- Queensland    94    0    8
@@ -1020,12 +1020,12 @@
 -- Brazil    529    4    2
 -- Qatar    452    0    4
 -- Greece    418    6    14
+-- Finland    387    0    10
 -- Ireland    366    2    5
--- Finland    359    0    10
 -- Luxembourg    335    4    0
 -- Singapore    313    0    117
 ---- Central Singapore Community Development Council    200    0    97
--- Indonesia    311    25    11
+-- Indonesia    311    25    15
 -- Pakistan    307    2    13
 -- Poland    305    5    13
 -- Slovenia    286    1    0
@@ -1048,9 +1048,9 @@
 -- Peru    145    0    1
 -- San Marino    140    14    4
 -- Lebanon    139    4    4
+-- Armenia    122    0    1
 -- Mexico    118    1    4
 -- South Africa    116    0    0
--- Armenia    115    0    1
 -- United Arab Emirates    113    0    26
 -- Slovakia    111    1    0
 -- Panama    109    1    0
@@ -1084,10 +1084,10 @@
 -- Georgia    40    0    1
 -- Oman    39    0    13
 -- Cambodia    37    0    1
+-- Lithuania    36    0    1
 -- Senegal    36    0    2
 -- Moldova, Republic of    36    1    1
 -- Venezuela, Bolivarian Republic of    36    0    0
--- Lithuania    34    0    1
 -- Azerbaijan    34    1    7
 -- Dominican Republic    34    2    0
 -- Guadeloupe    33    0    0
