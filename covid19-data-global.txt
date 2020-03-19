@@ -473,37 +473,37 @@
 ---- Veneto    3214    94    167
 ---- Bolzano    376    9    1
 -- Iran, Islamic Republic of    18407    1284    5710
----- Qom    1074    30    0
----- Tehran    4260    0    0
----- Fars    386    2    0
----- Markazi    782    11    0
----- Mazandaran    1494    13    0
----- Ardabil    213    3    0
----- South Khorasan    140    1    0
----- Ilam    120    0    0
----- Isfahan    1538    2    0
----- Hamadan    155    1    0
----- Razavi Khorasan    661    8    0
----- Hormozgan    124    2    0
----- Kurdistan    189    0    0
----- Qazvin    526    7    0
----- Yazd    471    3    0
----- West Azerbaijan    300    0    0
----- Gilan    924    0    0
----- Golestan    351    6    0
----- Khuzestan    359    12    0
----- Alborz    906    7    0
----- Semnan    577    0    0
----- Lorestan    363    4    0
----- East Azerbaijan    571    6    0
----- Kermanshah    152    2    0
----- Sistan and Baluchestan    88    0    0
----- Kerman    127    0    0
----- Zanjan    261    0    0
----- Chaharmahal and Bakhtiari    58    0    0
----- North Khorasan    100    0    0
----- Kohgiluyeh and Boyer-Ahmad    45    0    0
----- Bushehr    46    0    0
+---- Qom    1105    30    0
+---- Tehran    4397    0    0
+---- Fars    407    2    0
+---- Markazi    829    11    0
+---- Mazandaran    1552    13    0
+---- Ardabil    229    3    0
+---- South Khorasan    145    1    0
+---- Ilam    128    0    0
+---- Isfahan    1646    2    0
+---- Hamadan    175    1    0
+---- Razavi Khorasan    711    8    0
+---- Hormozgan    129    2    0
+---- Kurdistan    200    0    0
+---- Qazvin    573    7    0
+---- Yazd    540    3    0
+---- West Azerbaijan    326    0    0
+---- Gilan    997    0    0
+---- Golestan    360    6    0
+---- Khuzestan    381    12    0
+---- Alborz    967    7    0
+---- Semnan    593    0    0
+---- Lorestan    400    4    0
+---- East Azerbaijan    629    6    0
+---- Kermanshah    158    2    0
+---- Sistan and Baluchestan    106    0    0
+---- Kerman    141    0    0
+---- Zanjan    287    0    0
+---- Chaharmahal and Bakhtiari    61    0    0
+---- North Khorasan    121    0    0
+---- Kohgiluyeh and Boyer-Ahmad    60    0    0
+---- Bushehr    54    0    0
 -- Spain    17147    767    1107
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
@@ -525,7 +525,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    13632    33    113
+-- Germany    13632    36    113
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -542,7 +542,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    9479    155    108
+-- United States of America    9494    157    108
 ---- NY    3086    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -730,7 +730,7 @@
 ------ Sangamon(17167)    4    0    0
 ------ Kane(17089)    4    0    0
 ------ Clinton(17027)    3    0    0
------- Will(17197)    3    0    0
+------ Will(17197)    8    0    0
 ------ Champaign(17019)    1    0    0
 ------ Cumberland(17035)    1    0    0
 ------ Peoria(17143)    3    0    0
@@ -862,7 +862,7 @@
 ------ Sumner(47165)    2    0    0
 ------ Cheatham(47021)    1    0    0
 ------ Robertson(47147)    1    0    0
----- CT    97    1    0
+---- CT    97    2    0
 ------ Fairfield(09001)    69    1    0
 ------ New Haven(09009)    10    0    0
 ------ Hartford(09003)    11    0    0
@@ -920,7 +920,7 @@
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    13    1    0
----- NC    94    0    0
+---- NC    102    0    0
 ------ Wake(37183)    22    0    0
 ------ Durham(37063)    27    0    0
 ------ Mecklenburg(37119)    14    0    0
@@ -946,9 +946,9 @@
 ------ Moore(37125)    1    0    0
 ------ Buncombe(37021)    1    0    0
 ------ Hoke(37093)    1    0    0
----- MI    147    1    0
------- Oakland(26125)    77    0    0
------- Wayne(26163)    23    1    0
+---- MI    147    3    0
+------ Oakland(26125)    77    1    0
+------ Wayne(26163)    23    2    0
 ------ Macomb(26099)    20    0    0
 ------ Washtenaw(26161)    7    0    0
 ------ Kent(26081)    5    0    0
@@ -1040,7 +1040,7 @@
 ------ Penobscot(23019)    1    0    0
 ------ Lincoln(23015)    3    0    0
 ---- DC    40    0    0
----- IN    39    2    0
+---- IN    56    2    0
 ------ Marion(18097)    11    1    0
 ------ Hendricks(18063)    4    0    0
 ------ Johnson(18081)    3    1    0
@@ -1135,7 +1135,7 @@
 ------ Graham(04009)    1    0    0
 ------ Navajo(04017)    3    0    0
 ------ Coconino(04005)    1    0    0
----- OK    31    0    1
+---- OK    31    1    1
 ------ Oklahoma(40109)    14    0    0
 ------ Tulsa(40143)    4    0    0
 ------ Cleveland(40027)    4    0    0
@@ -1173,6 +1173,7 @@
 ------ St Louis(29189)    5    0    0
 ------ St Charles(29183)    1    0    0
 ------ St Louis City(29510)    5    0    0
+------ Christian(29043)    2    0    0
 ---- HI    16    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -1218,7 +1219,7 @@
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    22    0    0
 ---- Others    18    0    0
----- GU    8    0    0
+---- GU    12    0    0
 ---- PR    5    0    0
 ---- VI    2    0    0
 -- France    9134    264    602
@@ -1279,8 +1280,9 @@
 -- Netherlands    2460    76    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    2013    7    9
 -- Japan    1848    32    191
----- Hokkaido    156    6    66
+---- Hokkaido    157    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    24    0    0
@@ -1288,24 +1290,24 @@
 ---- Nagano    4    0    0
 ---- Tochigi    3    0    0
 ---- Kumamoto    6    0    0
----- Saitama    35    0    0
+---- Saitama    39    0    0
 ---- Ishikawa    7    0    0
----- Fukuoka    4    0    0
----- Tokyo    111    2    0
----- Wakayama    16    1    2
+---- Fukuoka    5    0    0
+---- Tokyo    118    2    0
+---- Wakayama    17    1    2
 ---- Kyoto    21    0    2
----- Osaka    117    1    1
+---- Osaka    119    1    1
 ---- Chiba    36    0    0
----- Kanagawa    60    4    1
+---- Kanagawa    66    4    1
 ---- Shizuoka    3    0    0
----- Aichi    130    15    2
+---- Aichi    134    15    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    92    3    0
----- oita    2    0    0
+---- hyogo    92    4    0
+---- oita    3    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    4    0    0
@@ -1319,9 +1321,8 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Austria    1843    7    9
 -- Belgium    1795    21    165
--- Norway    1704    6    1
+-- Norway    1707    7    1
 -- Sweden    1423    10    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
@@ -1358,7 +1359,7 @@
 -- Finland    400    0    10
 -- Pakistan    380    2    13
 -- Ireland    366    2    5
--- Singapore    345    0    117
+-- Singapore    345    0    124
 ---- Central Singapore Community Development Council    200    0    97
 -- Chile    342    0    0
 -- Luxembourg    335    4    0
@@ -1370,20 +1371,20 @@
 -- Thailand    272    1    42
 -- Bahrain    268    1    100
 -- Estonia    267    0    1
--- Saudi Arabia    238    0    6
+-- Saudi Arabia    238    0    8
 -- Philippines    217    19    8
 -- Egypt    210    6    32
 -- Hong Kong    208    4    98
 -- Russian Federation    199    1    8
 -- India    197    4    20
--- Turkey    191    2    0
+-- Turkey    192    3    0
 -- Iraq    177    12    49
 -- Ecuador    168    3    1
 -- Peru    155    0    1
 -- South Africa    150    0    0
 -- Lebanon    149    4    4
 -- Kuwait    148    0    18
--- United Arab Emirates    140    0    26
+-- United Arab Emirates    140    0    31
 -- San Marino    140    14    4
 -- Armenia    122    0    1
 -- Mexico    118    1    4
@@ -1395,8 +1396,8 @@
 -- Argentina    97    3    3
 -- Serbia    97    0    1
 -- Bulgaria    94    3    0
+-- Algeria    87    9    32
 -- Latvia    86    0    1
--- Algeria    82    9    32
 -- Uruguay    79    0    0
 -- Viet Nam    76    0    16
 -- Hungary    73    1    2
@@ -1412,8 +1413,8 @@
 -- Andorra    53    0    1
 -- Malta    53    0    2
 -- Belarus    51    0    5
+-- Bosnia and Herzegovina    49    0    2
 -- Palestine    47    0    0
--- Bosnia and Herzegovina    45    0    2
 -- Azerbaijan    44    1    7
 -- Kazakhstan    44    0    0
 -- North Macedonia    43    0    1
