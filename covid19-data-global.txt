@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    10700    160    108
+-- United States of America    10781    160    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -587,7 +587,7 @@
 ------ Hamilton(36041)    1    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    1871    11    0
+------ New York(36061)    2469    11    0
 ------ Niagara(36063)    1    0    0
 ------ Schoharie(36095)    1    0    0
 ---- WA    1188    68    89
@@ -681,18 +681,18 @@
 ------ Barnstable(25001)    2    0    0
 ------ Hampden(25013)    2    0    0
 ------ Franklin(25011)    1    0    0
----- FL    344    9    0
------- Broward(12011)    80    1    0
+---- FL    360    9    0
+------ Broward(12011)    96    1    0
 ------ Palm Beach(12099)    21    0    0
------- Duval(12031)    14    0    0
+------ Duval(12031)    15    0    0
 ------ Volusia(12127)    9    0    0
------- Hillsborough(12057)    14    0    0
------- Manatee(12081)    8    1    0
------- Collier(12021)    13    0    0
+------ Hillsborough(12057)    17    0    0
+------ Manatee(12081)    9    1    0
+------ Collier(12021)    18    0    0
 ------ Orange(12095)    11    2    0
 ------ Osceola(12097)    8    0    0
 ------ Lee(12071)    11    2    0
------- Alachua(12001)    7    0    0
+------ Alachua(12001)    10    0    0
 ------ Clay(12019)    4    2    0
 ------ Pinellas(12103)    12    0    0
 ------ Seminole(12117)    7    0    0
@@ -820,10 +820,10 @@
 ------ Potter(48375)    2    0    0
 ------ Houston(48225)    10    0    0
 ------ Van Zandt(48467)    1    0    0
----- PA    157    1    0
+---- PA    163    1    0
 ------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    34    0    0
------- Allegheny(42003)    13    0    0
+------ Allegheny(42003)    18    0    0
 ------ Cumberland(42041)    10    0    0
 ------ Delaware(42045)    14    0    0
 ------ Bucks(42017)    12    0    0
@@ -857,6 +857,7 @@
 ------ Brown(55009)    2    0    0
 ------ Walworth(55127)    1    0    0
 ------ Ozaukee(55089)    1    0    0
+------ Eau Claire(55035)    1    0    0
 ---- TN    100    0    0
 ------ Davidson(47037)    58    0    0
 ------ Williamson(47187)    24    0    0
@@ -929,10 +930,10 @@
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    13    1    0
----- NC    102    0    0
+---- NC    119    0    0
 ------ Wake(37183)    22    0    0
 ------ Durham(37063)    32    0    0
------- Mecklenburg(37119)    14    0    0
+------ Mecklenburg(37119)    30    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    4    0    0
 ------ Forsyth(37067)    2    0    0
@@ -991,16 +992,17 @@
 ------ Nicollet(27103)    2    0    0
 ------ Scott(27139)    1    0    0
 ---- MD    107    1    4
------- Montgomery(24031)    31    0    0
+------ Montgomery(24031)    33    0    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    10    0    0
------- Howard(24027)    8    0    0
------- Anne Arundel(24003)    4    0    0
+------ Baltimore(24005)    12    0    0
+------ Howard(24027)    16    0    0
+------ Anne Arundel(24003)    5    0    0
 ------ Carroll(24013)    2    0    0
 ------ Harford(24025)    3    0    0
 ------ Charles(24017)    2    0    0
 ------ Frederick(24021)    1    0    0
 ------ Talbot(24041)    1    0    0
+------ Calvert(24009)    1    0    0
 ---- NV    84    1    0
 ------ Clark(32003)    69    1    0
 ------ Washoe(32031)    14    0    0
@@ -1029,17 +1031,20 @@
 ------ Dorchester(45035)    1    0    0
 ------ Lee(45061)    1    1    0
 ---- AL    68    0    0
------- Jefferson(01073)    25    0    0
------- Shelby(01117)    4    0    0
------- Lee(01081)    8    0    0
------- Tuscaloosa(01125)    3    0    0
------- Elmore(01051)    4    0    0
+------ Jefferson(01073)    31    0    0
+------ Shelby(01117)    8    0    0
+------ Lee(01081)    10    0    0
+------ Tuscaloosa(01125)    4    0    0
+------ Elmore(01051)    5    0    0
 ------ Montgomery(01101)    2    0    0
 ------ Baldwin(01003)    1    0    0
 ------ Limestone(01083)    1    0    0
 ------ Madison(01089)    1    0    0
 ------ Calhoun(01015)    1    0    0
 ------ St Clair(01115)    1    0    0
+------ Chambers(01017)    1    0    0
+------ Talladega(01121)    1    0    0
+------ Walker(01127)    1    0    0
 ---- ME    43    0    0
 ------ Cumberland(23005)    24    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1130,17 +1135,24 @@
 ---- MS    50    0    0
 ------ Hinds(28049)    6    0    0
 ------ Leflore(28083)    4    0    0
------- Forrest(28035)    3    0    0
+------ Forrest(28035)    4    0    0
 ------ Copiah(28029)    2    0    0
------- Pearl River(28109)    4    0    0
+------ Pearl River(28109)    7    0    0
 ------ Hancock(28045)    2    0    0
------- Harrison(28047)    4    0    0
+------ Harrison(28047)    7    0    0
 ------ Jackson(28059)    2    0    0
 ------ Monroe(28095)    1    0    0
 ------ Bolivar(28011)    2    0    0
 ------ Coahoma(28027)    2    0    0
 ------ Perry(28111)    1    0    0
 ------ Madison(28089)    1    0    0
+------ Holmes(28051)    1    0    0
+------ Jones(28067)    1    0    0
+------ Smith(28129)    1    0    0
+------ Walthall(28147)    1    0    0
+------ Wilkinson(28157)    1    0    0
+------ Winston(28159)    1    0    0
+------ Yazoo(28163)    1    0    0
 ---- AZ    31    0    1
 ------ Maricopa(04013)    13    0    0
 ------ Pinal(04021)    8    0    0
@@ -1231,10 +1243,10 @@
 ------ Mercer(54055)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    22    0    0
----- Others    22    0    0
+---- Others    23    0    0
 ---- GU    12    0    0
 ---- PR    5    0    0
----- VI    2    0    0
+---- VI    3    0    0
 -- France    9134    264    602
 ---- France    7652    148    12
 ---- St Martin    4    0    0
@@ -1280,7 +1292,7 @@
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
 -- Switzerland    3939    36    15
--- United Kingdom of Great Britain and Northern Ireland    2689    128    67
+-- United Kingdom of Great Britain and Northern Ireland    2692    137    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1335,7 +1347,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1738    7    1
+-- Norway    1739    7    1
 -- Sweden    1439    11    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
@@ -1419,7 +1431,7 @@
 -- Nigeria    69    0    1
 -- Costa Rica    69    1    0
 -- Albania    64    2    0
--- Morocco    61    2    1
+-- Morocco    61    2    2
 -- Sri Lanka    60    0    3
 -- Cyprus    58    0    0
 -- Jordan    56    0    1
@@ -1427,6 +1439,7 @@
 -- Malta    53    0    2
 -- Belarus    51    0    5
 -- Bosnia and Herzegovina    49    0    2
+-- Moldova, Republic of    49    1    1
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
 -- Kazakhstan    44    0    0
@@ -1437,7 +1450,6 @@
 -- Cambodia    37    0    1
 -- Lithuania    36    0    1
 -- Senegal    36    0    2
--- Moldova, Republic of    36    1    1
 -- Venezuela, Bolivarian Republic of    36    0    0
 -- Dominican Republic    34    2    0
 -- Burkina Faso    33    1    0
@@ -1476,7 +1488,7 @@
 -- Puerto Rico    6    0    0
 -- Seychelles    6    0    0
 -- Tanzania, United Republic of    6    0    0
--- Aruba    5    0    0
+-- Aruba    5    0    1
 -- Equatorial Guinea    4    0    0
 -- Congo, Democratic Republic of the    4    0    0
 -- Saint Martin (French part)    3    0    0
