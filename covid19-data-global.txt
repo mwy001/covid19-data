@@ -169,7 +169,7 @@
 ---- North Khorasan    100    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    45    0    0
 ---- Bushehr    46    0    0
--- Spain    14769    638    1081
+-- Spain    15014    640    1081
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -190,7 +190,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    12824    31    113
+-- Germany    13083    31    113
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -985,9 +985,9 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
--- Belgium    1759    21    31
--- Norway    1623    6    1
--- Sweden    1301    10    15
+-- Belgium    1795    21    31
+-- Norway    1626    6    1
+-- Sweden    1302    10    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1023,16 +1023,16 @@
 -- Finland    387    0    10
 -- Ireland    366    2    5
 -- Luxembourg    335    4    0
+-- Pakistan    329    2    13
 -- Singapore    313    0    117
 ---- Central Singapore Community Development Council    200    0    97
 -- Indonesia    311    25    15
--- Pakistan    307    2    13
 -- Poland    305    5    13
 -- Slovenia    286    1    0
 -- Thailand    272    1    42
+-- Bahrain    268    1    100
+-- Estonia    267    0    1
 -- Romania    260    0    19
--- Estonia    258    0    1
--- Bahrain    256    1    95
 -- Iceland    250    5    8
 -- Saudi Arabia    238    0    6
 -- Chile    238    0    0
@@ -1043,9 +1043,9 @@
 -- India    174    3    15
 -- Ecuador    168    3    1
 -- Iraq    164    12    43
+-- Peru    155    0    1
 -- Kuwait    148    0    18
 -- Russian Federation    147    1    8
--- Peru    145    0    1
 -- San Marino    140    14    4
 -- Lebanon    139    4    4
 -- Armenia    122    0    1
@@ -1072,8 +1072,8 @@
 -- Albania    59    2    0
 -- Morocco    58    2    1
 -- Cyprus    58    0    0
+-- Sri Lanka    56    0    3
 -- Jordan    56    0    1
--- Sri Lanka    53    0    3
 -- Andorra    53    0    1
 -- Belarus    51    0    5
 -- Malta    48    0    2
@@ -1083,6 +1083,7 @@
 -- North Macedonia    43    0    1
 -- Georgia    40    0    1
 -- Oman    39    0    13
+-- Tunisia    39    0    1
 -- Cambodia    37    0    1
 -- Lithuania    36    0    1
 -- Senegal    36    0    2
@@ -1091,7 +1092,6 @@
 -- Azerbaijan    34    1    7
 -- Dominican Republic    34    2    0
 -- Guadeloupe    33    0    0
--- Tunisia    29    0    1
 -- New Zealand    28    0    0
 -- Liechtenstein    28    0    0
 -- Burkina Faso    27    1    0
