@@ -1,7 +1,7 @@
--- 中国    81247    3250    70555
----- 四川    540    3    534
------- 成都    145    3    140
------- 甘孜州    78    0    77
+-- 中国    81263    3250    70561
+---- 四川    540    3    536
+------ 成都    145    3    141
+------ 甘孜州    78    0    78
 ------ 达州    42    0    42
 ------ 南充    39    0    39
 ------ 广安    30    0    30
@@ -229,8 +229,8 @@
 ------ 中卫    4    0    4
 ------ 宁东    1    0    1
 ------ 石嘴山    1    0    1
----- 甘肃    133    2    91
------- 境外输入人员    42    0    2
+---- 甘肃    134    2    91
+------ 境外输入人员    43    0    2
 ------ 兰州    36    2    34
 ------ 天水    12    0    12
 ------ 平凉    9    0    9
@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    10816    161    108
+-- United States of America    11189    161    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -560,7 +560,7 @@
 ------ Rockland(36087)    53    1    0
 ------ Dutchess(36027)    31    0    0
 ------ Orange(36071)    51    0    0
------- Monroe(36055)    27    1    0
+------ Monroe(36055)    30    1    0
 ------ Erie(36029)    28    0    0
 ------ Saratoga(36091)    14    0    0
 ------ Ulster(36111)    9    0    0
@@ -588,7 +588,7 @@
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
 ------ New York(36061)    2469    11    0
------- Niagara(36063)    1    0    0
+------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    1    0    0
 ---- WA    1188    68    89
 ------ King(53033)    569    56    0
@@ -651,7 +651,7 @@
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
 ------ Siskiyou(06093)    9    0    0
----- NJ    427    5    1
+---- NJ    742    5    1
 ------ Bergen(34003)    114    2    0
 ------ Essex(34013)    45    1    0
 ------ Hudson(34017)    34    1    0
@@ -915,7 +915,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    2    0    0
----- VA    79    2    1
+---- VA    91    2    1
 ------ Arlington(51013)    14    0    0
 ------ Fairfax(51059)    14    0    0
 ------ Loudoun(51107)    5    0    0
@@ -930,7 +930,7 @@
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    13    1    0
----- NC    119    0    0
+---- NC    120    0    0
 ------ Wake(37183)    22    0    0
 ------ Durham(37063)    32    0    0
 ------ Mecklenburg(37119)    30    0    0
@@ -957,11 +957,12 @@
 ------ Buncombe(37021)    1    0    0
 ------ Hoke(37093)    1    0    0
 ------ Pitt(37147)    1    0    0
----- MI    164    3    0
+------ Davidson(37057)    1    0    0
+---- MI    171    3    0
 ------ Oakland(26125)    94    1    0
 ------ Wayne(26163)    23    2    0
 ------ Macomb(26099)    20    0    0
------- Washtenaw(26161)    7    0    0
+------ Washtenaw(26161)    14    0    0
 ------ Kent(26081)    5    0    0
 ------ Ingham(26065)    5    0    0
 ------ Bay(26017)    1    0    0
@@ -1122,7 +1123,7 @@
 ------ Taos(35055)    1    0    0
 ---- RI    33    0    0
 ------ Providence(44007)    33    0    0
----- AR    37    0    0
+---- AR    46    0    0
 ------ Jefferson(05069)    5    0    0
 ------ Pulaski(05119)    5    0    0
 ------ Cleburne(05023)    1    0    0
@@ -1153,10 +1154,10 @@
 ------ Wilkinson(28157)    1    0    0
 ------ Winston(28159)    1    0    0
 ------ Yazoo(28163)    1    0    0
----- AZ    31    0    1
------- Maricopa(04013)    13    0    0
+---- AZ    44    0    1
+------ Maricopa(04013)    22    0    0
 ------ Pinal(04021)    8    0    0
------- Pima(04019)    5    0    0
+------ Pima(04019)    7    0    0
 ------ Graham(04009)    1    0    0
 ------ Navajo(04017)    3    0    0
 ------ Coconino(04005)    1    0    0
@@ -1169,7 +1170,7 @@
 ------ Jackson(40065)    1    0    0
 ------ Pawnee(40117)    1    0    0
 ------ Payne(40119)    1    0    0
----- KS    23    1    0
+---- KS    25    1    0
 ------ Johnson(20091)    12    0    0
 ------ Wyandotte(20209)    5    1    0
 ------ Butler(20015)    1    0    0
@@ -1177,6 +1178,8 @@
 ------ Ford(20057)    1    0    0
 ------ Franklin(20059)    1    0    0
 ------ Leavenworth(20103)    2    0    0
+------ Cherokee(20021)    1    0    0
+------ Jackson(20085)    1    0    0
 ---- VT    19    0    0
 ------ Chittenden(50007)    4    0    0
 ------ Bennington(50003)    3    0    0
@@ -1229,11 +1232,11 @@
 ------ Madison(16065)    1    0    0
 ------ Teton(16081)    1    0    0
 ------ Twin Falls(16083)    1    0    0
----- ND    7    0    0
------- Burleigh(38015)    2    0    0
+---- ND    15    0    0
+------ Burleigh(38015)    9    0    0
 ------ Ward(38101)    2    0    0
 ------ Cass(38017)    1    0    0
------- Morton(38059)    2    0    0
+------ Morton(38059)    3    0    0
 ---- AK    9    0    0
 ------ Fairbanks North Star(02090)    3    0    0
 ------ Anchorage(02020)    4    0    0
@@ -1347,7 +1350,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1746    7    1
+-- Norway    1747    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
@@ -1379,10 +1382,10 @@
 -- Czechia    631    0    3
 -- Brazil    534    6    2
 -- Israel    529    0    13
+-- Greece    464    6    19
 -- Qatar    452    0    4
--- Greece    418    6    14
+-- Pakistan    448    2    13
 -- Finland    400    0    10
--- Pakistan    384    2    13
 -- Ireland    366    2    5
 -- Singapore    345    0    124
 ---- Central Singapore Community Development Council    200    0    97
@@ -1415,10 +1418,10 @@
 -- Armenia    122    0    1
 -- Mexico    118    1    4
 -- Panama    109    1    0
+-- Colombia    108    0    1
 -- Taiwan    108    1    26
 -- Croatia    105    1    5
 -- Bulgaria    105    3    0
--- Colombia    102    0    1
 -- Argentina    97    3    3
 -- Serbia    97    0    1
 -- Algeria    87    9    32
@@ -1430,16 +1433,16 @@
 -- Faroe Islands    72    0    1
 -- Nigeria    69    0    1
 -- Costa Rica    69    1    0
+-- Cyprus    67    0    0
 -- Albania    64    2    0
+-- Bosnia and Herzegovina    63    0    2
 -- Morocco    61    2    2
 -- Sri Lanka    60    0    3
--- Cyprus    58    0    0
 -- Jordan    56    0    1
 -- Andorra    53    0    1
 -- Malta    53    0    2
 -- Belarus    51    0    5
 -- North Macedonia    49    0    1
--- Bosnia and Herzegovina    49    0    2
 -- Moldova, Republic of    49    1    1
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
