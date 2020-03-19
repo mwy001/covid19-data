@@ -860,7 +860,7 @@
 ------ Jefferson(54037)    1    0    0
 ------ Mercer(54055)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
----- Grand Princess Cruise Ship    21    0    0
+---- Grand Princess Cruise Ship    22    0    0
 ---- Others    18    0    0
 ---- GU    8    0    0
 ---- PR    5    0    0
