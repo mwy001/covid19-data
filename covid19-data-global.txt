@@ -985,10 +985,10 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
--- Norway    1598    6    1
+-- Norway    1599    6    1
 -- Belgium    1486    14    31
 -- Sweden    1301    10    15
--- Denmark    1115    4    1
+-- Denmark    1132    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
@@ -1036,8 +1036,8 @@
 -- Iceland    250    5    8
 -- Saudi Arabia    238    0    6
 -- Chile    238    0    0
+-- Philippines    217    19    7
 -- Egypt    210    6    32
--- Philippines    202    19    7
 -- Hong Kong    193    4    95
 -- Turkey    191    2    0
 -- India    174    3    15
@@ -1061,9 +1061,9 @@
 -- Serbia    97    0    1
 -- Bulgaria    94    3    0
 -- Latvia    86    0    1
+-- Algeria    82    8    32
 -- Uruguay    79    0    0
 -- Viet Nam    76    0    16
--- Algeria    75    7    32
 -- Hungary    73    1    2
 -- Faroe Islands    72    0    1
 -- Nigeria    69    0    1
@@ -1113,12 +1113,12 @@
 -- Guyana    11    1    0
 -- Rwanda    11    0    0
 -- Monaco    9    0    0
+-- Ghana    9    0    0
 -- Trinidad and Tobago    9    0    0
 -- Gibraltar    8    0    2
 -- Guatemala    8    1    0
 -- Guam    8    0    0
 -- Montenegro    8    0    0
--- Ghana    7    0    0
 -- Kenya    7    0    0
 -- Mongolia    6    0    0
 -- Côte d'Ivoire    6    0    1
