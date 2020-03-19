@@ -930,7 +930,7 @@
 ---- Seoul    282    0    58
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
--- Switzerland    3220    36    15
+-- Switzerland    3347    36    15
 -- United Kingdom of Great Britain and Northern Ireland    2642    104    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -960,7 +960,7 @@
 ---- Wakayama    16    1    2
 ---- Kyoto    21    0    2
 ---- Osaka    117    1    1
----- Chiba    33    0    0
+---- Chiba    36    0    0
 ---- Kanagawa    60    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    130    15    2
@@ -986,12 +986,13 @@
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
 -- Belgium    1795    21    31
--- Norway    1633    6    1
+-- Norway    1679    6    1
 -- Sweden    1302    10    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
+-- Portugal    785    2    4
 -- Canada    727    9    12
 ---- British Columbia    231    7    4
 ---- Ontario    221    1    5
@@ -1014,7 +1015,6 @@
 ---- Tasmania    10    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    3    0    0
--- Portugal    642    2    4
 -- Czechia    572    0    3
 -- Israel    529    0    13
 -- Brazil    529    4    2
@@ -1039,18 +1039,18 @@
 -- Philippines    217    19    8
 -- Egypt    210    6    32
 -- Hong Kong    208    4    98
+-- India    197    4    20
 -- Turkey    191    2    0
--- India    174    3    20
 -- Ecuador    168    3    1
 -- Iraq    164    12    43
 -- Peru    155    0    1
+-- South Africa    150    0    0
 -- Lebanon    149    4    4
 -- Kuwait    148    0    18
 -- Russian Federation    147    1    8
 -- San Marino    140    14    4
 -- Armenia    122    0    1
 -- Mexico    118    1    4
--- South Africa    116    0    0
 -- United Arab Emirates    113    0    26
 -- Slovakia    111    1    0
 -- Panama    109    1    0
