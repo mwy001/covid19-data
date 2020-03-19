@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    11838    175    108
+-- United States of America    12966    176    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -617,30 +617,30 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    950    18    6
+---- CA    971    19    6
 ------ Santa Clara(06085)    175    6    0
------- Los Angeles(06037)    192    1    0
------- San Mateo(06081)    80    1    0
+------ Los Angeles(06037)    231    2    0
+------ San Mateo(06081)    89    1    0
 ------ San Diego(06073)    80    0    0
------- San Francisco(06075)    51    0    0
------- Sacramento(06067)    40    2    0
------- Contra Costa(06013)    41    0    0
+------ San Francisco(06075)    70    0    0
+------ Sacramento(06067)    45    3    0
+------ Contra Costa(06013)    42    0    0
 ------ Orange(06059)    42    0    0
 ------ Alameda(06001)    34    0    0
 ------ Riverside(06065)    16    3    0
------- San Joaquin(06077)    14    2    0
------- Santa Cruz(06087)    13    0    0
------- Marin(06041)    15    0    0
+------ San Joaquin(06077)    15    2    0
+------ Santa Cruz(06087)    14    0    0
+------ Marin(06041)    16    0    0
 ------ Ventura(06111)    13    0    0
 ------ Placer(06061)    9    1    0
 ------ Solano(06095)    8    0    0
------- San Luis Obispo(06079)    7    0    0
+------ San Luis Obispo(06079)    10    0    0
 ------ Sonoma(06097)    8    0    0
 ------ San Benito(06069)    5    1    0
 ------ Yolo(06113)    5    0    0
 ------ San Bernardino(06071)    5    0    0
 ------ Stanislaus(06099)    5    0    0
------- Tulare(06107)    5    0    0
+------ Tulare(06107)    7    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    3    0    0
 ------ Imperial(06025)    2    0    0
@@ -981,7 +981,7 @@
 ------ Hoke(37093)    1    0    0
 ------ Pitt(37147)    1    0    0
 ------ Davidson(37057)    1    0    0
----- MI    336    3    0
+---- MI    338    3    0
 ------ Oakland(26125)    105    1    0
 ------ Wayne(26163)    44    2    0
 ------ Macomb(26099)    55    0    0
@@ -1046,7 +1046,7 @@
 ------ Tooele(49045)    1    0    0
 ------ Utah(49049)    3    0    0
 ------ Cache(49005)    2    0    0
----- SC    61    3    0
+---- SC    62    3    0
 ------ Kershaw(45055)    25    0    0
 ------ Beaufort(45013)    6    0    0
 ------ Horry(45051)    5    0    0
@@ -1062,7 +1062,7 @@
 ------ York(45091)    1    0    0
 ------ Dorchester(45035)    1    0    0
 ------ Lee(45061)    1    1    0
----- AL    68    0    0
+---- AL    69    0    0
 ------ Jefferson(01073)    31    0    0
 ------ Shelby(01117)    8    0    0
 ------ Lee(01081)    10    0    0
@@ -1158,7 +1158,7 @@
 ------ San Miguel(35047)    1    0    0
 ---- RI    44    0    0
 ------ Providence(44007)    33    0    0
----- AR    46    0    0
+---- AR    62    0    0
 ------ Jefferson(05069)    10    0    0
 ------ Pulaski(05119)    10    0    0
 ------ Cleburne(05023)    5    0    0
@@ -1342,7 +1342,7 @@
 ---- Seoul    282    0    58
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
--- Switzerland    3944    41    15
+-- Switzerland    4131    41    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    144    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1356,7 +1356,7 @@
 -- Netherlands    2460    76    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2157    7    9
+-- Austria    2179    7    9
 -- Japan    1848    32    191
 ---- Hokkaido    157    6    66
 ---- kochi    12    0    0
@@ -1398,7 +1398,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1784    7    1
+-- Norway    1786    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
@@ -1443,12 +1443,12 @@
 -- Iceland    330    5    8
 -- Slovenia    319    1    0
 -- Indonesia    311    25    15
--- Bahrain    277    1    100
+-- Bahrain    278    1    110
 -- Romania    277    0    25
 -- Saudi Arabia    274    0    8
 -- Thailand    272    1    42
 -- Estonia    267    0    1
--- Egypt    256    7    32
+-- Egypt    256    7    42
 -- Peru    234    0    1
 -- Philippines    217    19    8
 -- Hong Kong    208    4    98
@@ -1486,11 +1486,11 @@
 -- Cyprus    67    0    0
 -- Bosnia and Herzegovina    64    0    2
 -- Albania    64    2    0
--- Morocco    62    2    2
+-- Morocco    63    2    2
 -- Sri Lanka    60    0    3
 -- Malta    53    0    2
 -- Belarus    51    0    5
--- North Macedonia    49    0    1
+-- North Macedonia    50    0    1
 -- Moldova, Republic of    49    1    1
 -- Oman    48    0    13
 -- Palestine    47    0    0
@@ -1539,10 +1539,10 @@
 -- French Polynesia    6    0    0
 -- Puerto Rico    6    0    0
 -- Seychelles    6    0    0
+-- Equatorial Guinea    6    0    0
 -- Tanzania, United Republic of    6    0    0
 -- Aruba    5    0    1
 -- Barbados    5    0    0
--- Equatorial Guinea    4    0    0
 -- Congo, Democratic Republic of the    4    0    0
 -- Congo    3    0    0
 -- Saint Martin (French part)    3    0    0
