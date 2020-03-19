@@ -18,6 +18,26 @@
 ------ Enshi Tujia and Miao Autonomous Prefecture    252    7    245
 ------ Shennongjia    11    0    11
 ---- Guangdong    1370    8    1313
+------ Guangzhou    359    1    331
+------ Shenzhen    427    3    403
+------ Foshan    85    0    81
+------ Zhongshan    68    0    64
+------ Dongguan    100    1    98
+------ Zhaoqing    20    1    18
+------ Meizhou    17    0    16
+------ Zhuhai    98    1    97
+------ Huizhou    62    0    62
+------ Shantou    25    0    25
+------ Jiangmen    23    0    23
+------ Zhanjiang    22    0    22
+------ Yangjiang    14    0    14
+------ Maoming    14    0    14
+------ Qingyuan    12    0    12
+------ Shaoguan    10    1    9
+------ Jieyang    8    0    8
+------ Shanwei    5    0    5
+------ Chaozhou    5    0    5
+------ Heyuan    4    0    4
 ---- Henan    1273    22    1250
 ---- Zhejiang    1232    1    1216
 ------ Lishui    29    0    18
@@ -40,6 +60,19 @@
 ---- Chongqing    576    6    570
 ---- Sichuan    540    3    525
 ---- Heilongjiang    482    13    463
+------ Harbin    199    4    190
+------ Shuangyashan    52    3    48
+------ Qiqihar    43    1    41
+------ Daqing    26    1    24
+------ Heihe    14    0    13
+------ Daxinganling    3    0    2
+------ Suihua    47    4    43
+------ Jixi    46    0    46
+------ Qitaihe    17    0    17
+------ Jiamusi    15    0    15
+------ Mudanjiang    15    0    15
+------ Hegang    5    0    5
+------ Yichun    1    0    1
 ---- Beijing    469    8    378
 ---- Shanghai    361    3    326
 ---- Hebei    318    6    310
@@ -154,7 +187,7 @@
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
 -- United States of America    9458    155    108
----- NY    3083    21    0
+---- NY    3086    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
 ------ Suffolk(36103)    152    3    0
@@ -162,7 +195,7 @@
 ------ Rockland(36087)    31    1    0
 ------ Dutchess(36027)    20    0    0
 ------ Orange(36071)    32    0    0
------- Monroe(36055)    19    1    0
+------ Monroe(36055)    22    1    0
 ------ Erie(36029)    27    0    0
 ------ Saratoga(36091)    14    0    0
 ------ Ulster(36111)    9    0    0
@@ -291,7 +324,7 @@
 ------ Hillsborough(12057)    14    0    0
 ------ Manatee(12081)    8    1    0
 ------ Collier(12021)    13    0    0
------- Orange(12095)    11    1    0
+------ Orange(12095)    11    2    0
 ------ Osceola(12097)    8    0    0
 ------ Lee(12071)    11    2    0
 ------ Alachua(12001)    7    0    0
@@ -443,7 +476,7 @@
 ------ Berks(42011)    1    0    0
 ------ Lackawanna(42069)    1    0    0
 ------ Erie(42049)    1    0    0
----- WI    111    0    1
+---- WI    114    0    1
 ------ Milwaukee(55079)    47    0    0
 ------ Dane(55025)    23    0    0
 ------ Kenosha(55059)    4    0    0
