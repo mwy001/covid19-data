@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    11348    165    108
+-- United States of America    11354    171    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -651,24 +651,26 @@
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
 ------ Siskiyou(06093)    9    0    0
----- NJ    742    5    1
------- Bergen(34003)    114    2    0
------- Essex(34013)    45    1    0
------- Hudson(34017)    34    1    0
------- Middlesex(34023)    40    0    0
------- Monmouth(34025)    32    1    0
------- Union(34039)    26    0    0
------- Passaic(34031)    18    0    0
------- Mercer(34021)    15    0    0
------- Morris(34027)    19    0    0
------- Somerset(34035)    16    0    0
------- Burlington(34005)    10    0    0
------- Hunterdon(34019)    6    0    0
+---- NJ    742    9    1
+------ Bergen(34003)    195    2    0
+------ Essex(34013)    63    1    0
+------ Hudson(34017)    55    1    0
+------ Middlesex(34023)    64    0    0
+------ Monmouth(34025)    43    1    0
+------ Union(34039)    29    0    0
+------ Passaic(34031)    38    0    0
+------ Mercer(34021)    20    0    0
+------ Morris(34027)    26    0    0
+------ Somerset(34035)    21    0    0
+------ Burlington(34005)    14    0    0
+------ Hunterdon(34019)    8    0    0
 ------ Ocean(34029)    8    0    0
------- Camden(34007)    8    0    0
------- Gloucester(34015)    2    0    0
+------ Camden(34007)    13    0    0
+------ Gloucester(34015)    3    0    0
 ------ Atlantic(34001)    3    0    0
------- Warren(34041)    1    0    0
+------ Warren(34041)    3    0    0
+------ Sussex(34037)    2    0    0
+------ Cape May(34009)    1    0    0
 ---- MA    256    0    1
 ------ Middlesex(25017)    100    0    0
 ------ Norfolk(25021)    45    0    0
@@ -786,7 +788,9 @@
 ------ Glynn(13127)    2    0    0
 ------ Laurens(13175)    2    0    0
 ------ Bibb(13021)    1    0    0
----- TX    224    3    0
+------ Muscogee(13215)    1    0    0
+------ Peach(13225)    1    0    0
+---- TX    229    3    0
 ------ Dallas(48113)    39    0    0
 ------ Travis(48453)    23    0    0
 ------ Harris(48201)    29    0    0
@@ -812,10 +816,10 @@
 ------ Rusk(48401)    1    0    0
 ------ Webb(48479)    1    0    0
 ------ Wichita(48485)    1    0    0
------- Johnson(48251)    1    0    0
+------ Johnson(48251)    2    0    0
 ------ Comal(48091)    1    0    0
 ------ Grimes(48185)    1    0    0
------- Medina(48325)    1    0    0
+------ Medina(48325)    6    0    0
 ------ Williamson(48491)    4    0    0
 ------ Fannin(48147)    1    0    0
 ------ Jefferson(48245)    1    0    0
@@ -937,7 +941,7 @@
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    13    1    0
----- NC    120    0    0
+---- NC    121    0    0
 ------ Wake(37183)    22    0    0
 ------ Durham(37063)    32    0    0
 ------ Mecklenburg(37119)    30    0    0
@@ -948,7 +952,7 @@
 ------ Brunswick(37019)    1    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Craven(37049)    1    0    0
------- Guilford(37081)    1    0    0
+------ Guilford(37081)    2    0    0
 ------ Iredell(37097)    2    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    1    0    0
@@ -956,7 +960,7 @@
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    1    0    0
------- Wilson(37195)    1    0    0
+------ Wilson(37195)    2    0    0
 ------ Gaston(37071)    1    0    0
 ------ New Hanover(37129)    1    0    0
 ------ Union(37179)    1    0    0
@@ -1372,15 +1376,15 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1748    7    1
+-- Norway    1751    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
--- Canada    797    9    12
+-- Canada    800    10    12
 ---- British Columbia    231    7    4
----- Ontario    257    1    5
+---- Ontario    257    2    5
 ---- Alberta    119    0    0
 ---- Quebec    121    1    0
 ---- New Brunswick    11    0    0
@@ -1401,12 +1405,12 @@
 ---- Tasmania    10    0    0
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    3    0    0
--- Czechia    631    0    3
+-- Czechia    694    0    3
 -- Brazil    534    6    2
 -- Israel    529    0    13
 -- Greece    464    6    19
+-- Pakistan    453    2    13
 -- Qatar    452    0    4
--- Pakistan    448    2    13
 -- Finland    400    0    10
 -- Ireland    366    2    5
 -- Singapore    345    0    124
@@ -1422,6 +1426,7 @@
 -- Thailand    272    1    42
 -- Estonia    267    0    1
 -- Saudi Arabia    238    0    8
+-- Peru    234    0    1
 -- Philippines    217    19    8
 -- Egypt    210    6    32
 -- Hong Kong    208    4    98
@@ -1430,7 +1435,6 @@
 -- India    197    4    20
 -- Turkey    192    3    0
 -- Iraq    177    12    49
--- Peru    155    0    1
 -- South Africa    150    0    0
 -- Lebanon    149    4    4
 -- Kuwait    148    0    18
@@ -1442,11 +1446,11 @@
 -- Panama    109    1    0
 -- Colombia    108    0    1
 -- Taiwan    108    1    26
+-- Bulgaria    107    3    0
 -- Croatia    105    1    5
--- Bulgaria    105    3    0
+-- Serbia    103    0    1
 -- Argentina    97    3    3
--- Serbia    97    0    1
--- Algeria    87    9    32
+-- Algeria    90    9    32
 -- Latvia    86    0    1
 -- Uruguay    79    0    0
 -- Viet Nam    76    0    16
@@ -1454,13 +1458,13 @@
 -- Brunei Darussalam    73    0    0
 -- Faroe Islands    72    0    1
 -- Nigeria    69    0    1
+-- Jordan    69    0    1
 -- Costa Rica    69    1    0
 -- Cyprus    67    0    0
 -- Albania    64    2    0
 -- Bosnia and Herzegovina    63    0    2
 -- Morocco    61    2    2
 -- Sri Lanka    60    0    3
--- Jordan    56    0    1
 -- Andorra    53    0    1
 -- Malta    53    0    2
 -- Belarus    51    0    5
@@ -1469,11 +1473,11 @@
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
 -- Kazakhstan    44    0    0
+-- Lithuania    41    0    1
 -- Georgia    40    0    1
 -- Oman    39    0    13
 -- Tunisia    39    1    1
 -- Cambodia    37    0    1
--- Lithuania    36    0    1
 -- Senegal    36    0    2
 -- Venezuela, Bolivarian Republic of    36    0    0
 -- Dominican Republic    34    2    0
