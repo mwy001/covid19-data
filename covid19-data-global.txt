@@ -190,7 +190,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    13083    31    113
+-- Germany    13632    31    113
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -931,7 +931,7 @@
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
 -- Switzerland    3347    36    15
--- United Kingdom of Great Britain and Northern Ireland    2642    104    67
+-- United Kingdom of Great Britain and Northern Ireland    2642    108    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -986,13 +986,13 @@
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
 -- Belgium    1795    21    31
--- Norway    1679    6    1
--- Sweden    1302    10    16
+-- Norway    1691    6    1
+-- Sweden    1331    10    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
--- Portugal    785    2    4
+-- Portugal    785    3    4
 -- Canada    727    9    12
 ---- British Columbia    231    7    4
 ---- Ontario    221    1    5
@@ -1020,14 +1020,14 @@
 -- Brazil    529    4    2
 -- Qatar    452    0    4
 -- Greece    418    6    14
--- Finland    387    0    10
+-- Finland    400    0    10
+-- Pakistan    380    2    13
 -- Ireland    366    2    5
--- Pakistan    335    2    13
+-- Singapore    345    0    117
+---- Central Singapore Community Development Council    200    0    97
 -- Luxembourg    335    4    0
 -- Iceland    330    5    8
 -- Poland    325    5    13
--- Singapore    313    0    117
----- Central Singapore Community Development Council    200    0    97
 -- Indonesia    311    25    15
 -- Slovenia    286    1    0
 -- Romania    277    0    25
@@ -1061,7 +1061,7 @@
 -- Serbia    97    0    1
 -- Bulgaria    94    3    0
 -- Latvia    86    0    1
--- Algeria    82    8    32
+-- Algeria    82    9    32
 -- Uruguay    79    0    0
 -- Viet Nam    76    0    16
 -- Hungary    73    1    2
@@ -1070,9 +1070,9 @@
 -- Nigeria    69    0    1
 -- Costa Rica    69    1    0
 -- Albania    64    2    0
+-- Sri Lanka    59    0    3
 -- Morocco    58    2    1
 -- Cyprus    58    0    0
--- Sri Lanka    56    0    3
 -- Jordan    56    0    1
 -- Andorra    53    0    1
 -- Malta    53    0    2
@@ -1102,11 +1102,11 @@
 -- Macao    17    0    10
 -- Ukraine    16    2    0
 -- French Guiana    15    0    0
+-- Bolivia, Plurinational State of    15    0    0
 -- Jamaica    15    1    2
 -- Réunion    14    0    0
 -- Cameroon    13    0    0
 -- Maldives    13    0    0
--- Bolivia, Plurinational State of    12    0    0
 -- Honduras    12    0    0
 -- Guam    12    0    0
 -- Paraguay    11    0    0
