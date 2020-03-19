@@ -534,7 +534,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    13979    42    113
+-- Germany    14366    43    113
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -551,17 +551,17 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    10781    160    108
+-- United States of America    10816    161    108
 ---- NY    5921    21    0
------- Westchester(36119)    538    0    0
------- Nassau(36059)    278    1    0
------- Suffolk(36103)    152    3    0
------- Albany(36001)    36    0    0
------- Rockland(36087)    31    1    0
------- Dutchess(36027)    20    0    0
------- Orange(36071)    32    0    0
------- Monroe(36055)    22    1    0
------- Erie(36029)    27    0    0
+------ Westchester(36119)    798    0    0
+------ Nassau(36059)    372    1    0
+------ Suffolk(36103)    178    3    0
+------ Albany(36001)    43    0    0
+------ Rockland(36087)    53    1    0
+------ Dutchess(36027)    31    0    0
+------ Orange(36071)    51    0    0
+------ Monroe(36055)    27    1    0
+------ Erie(36029)    28    0    0
 ------ Saratoga(36091)    14    0    0
 ------ Ulster(36111)    9    0    0
 ------ Schenectady(36093)    14    0    0
@@ -582,7 +582,7 @@
 ------ Rensselaer(36083)    4    0    0
 ------ Sullivan(36105)    1    0    0
 ------ Tioga(36107)    1    0    0
------- Wyoming(36121)    1    0    0
+------ Wyoming(36121)    2    0    0
 ------ Chenango(36017)    1    0    0
 ------ Hamilton(36041)    1    0    0
 ------ Warren(36113)    1    0    0
@@ -681,32 +681,32 @@
 ------ Barnstable(25001)    2    0    0
 ------ Hampden(25013)    2    0    0
 ------ Franklin(25011)    1    0    0
----- FL    360    9    0
+---- FL    390    9    0
 ------ Broward(12011)    96    1    0
------- Palm Beach(12099)    21    0    0
+------ Palm Beach(12099)    29    0    0
 ------ Duval(12031)    15    0    0
 ------ Volusia(12127)    9    0    0
------- Hillsborough(12057)    17    0    0
+------ Hillsborough(12057)    19    0    0
 ------ Manatee(12081)    9    1    0
 ------ Collier(12021)    18    0    0
------- Orange(12095)    11    2    0
------- Osceola(12097)    8    0    0
+------ Orange(12095)    15    2    0
+------ Osceola(12097)    9    0    0
 ------ Lee(12071)    11    2    0
 ------ Alachua(12001)    10    0    0
 ------ Clay(12019)    4    2    0
------- Pinellas(12103)    12    0    0
------- Seminole(12117)    7    0    0
+------ Pinellas(12103)    14    0    0
+------ Seminole(12117)    8    0    0
 ------ Sarasota(12115)    5    0    0
 ------ Citrus(12017)    3    0    0
 ------ Okaloosa(12091)    4    0    0
------- Pasco(12101)    3    0    0
+------ Pasco(12101)    4    0    0
 ------ Brevard(12009)    2    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Escambia(12033)    1    0    0
 ------ Lake(12069)    2    0    0
 ------ Nassau(12089)    1    0    0
 ------ Polk(12105)    2    0    0
------- Santa Rosa(12113)    1    1    0
+------ Santa Rosa(12113)    2    1    0
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    4    1    0
 ------ Sumter(12119)    1    0    0
@@ -858,10 +858,10 @@
 ------ Walworth(55127)    1    0    0
 ------ Ozaukee(55089)    1    0    0
 ------ Eau Claire(55035)    1    0    0
----- TN    100    0    0
+---- TN    106    0    0
 ------ Davidson(47037)    58    0    0
 ------ Williamson(47187)    24    0    0
------- Shelby(47157)    4    0    0
+------ Shelby(47157)    10    0    0
 ------ Knox(47093)    2    0    0
 ------ Campbell(47013)    1    0    0
 ------ Hamilton(47065)    3    0    0
@@ -1347,9 +1347,9 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1739    7    1
+-- Norway    1746    7    1
 -- Sweden    1439    11    16
--- Denmark    1132    6    1
+-- Denmark    1151    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
@@ -1377,7 +1377,7 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    3    0    0
 -- Czechia    631    0    3
--- Brazil    533    4    2
+-- Brazil    534    6    2
 -- Israel    529    0    13
 -- Qatar    452    0    4
 -- Greece    418    6    14
@@ -1392,19 +1392,19 @@
 -- Poland    325    5    13
 -- Slovenia    319    1    0
 -- Indonesia    311    25    15
+-- Bahrain    277    1    100
 -- Romania    277    0    25
 -- Thailand    272    1    42
--- Bahrain    268    1    100
 -- Estonia    267    0    1
 -- Saudi Arabia    238    0    8
 -- Philippines    217    19    8
 -- Egypt    210    6    32
 -- Hong Kong    208    4    98
+-- Ecuador    199    3    1
 -- Russian Federation    199    1    8
 -- India    197    4    20
 -- Turkey    192    3    0
 -- Iraq    177    12    49
--- Ecuador    168    3    1
 -- Peru    155    0    1
 -- South Africa    150    0    0
 -- Lebanon    149    4    4
@@ -1416,11 +1416,11 @@
 -- Mexico    118    1    4
 -- Panama    109    1    0
 -- Taiwan    108    1    26
--- Croatia    102    1    5
+-- Croatia    105    1    5
+-- Bulgaria    105    3    0
 -- Colombia    102    0    1
 -- Argentina    97    3    3
 -- Serbia    97    0    1
--- Bulgaria    94    3    0
 -- Algeria    87    9    32
 -- Latvia    86    0    1
 -- Uruguay    79    0    0
@@ -1438,12 +1438,12 @@
 -- Andorra    53    0    1
 -- Malta    53    0    2
 -- Belarus    51    0    5
+-- North Macedonia    49    0    1
 -- Bosnia and Herzegovina    49    0    2
 -- Moldova, Republic of    49    1    1
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
 -- Kazakhstan    44    0    0
--- North Macedonia    43    0    1
 -- Georgia    40    0    1
 -- Oman    39    0    13
 -- Tunisia    39    0    1
@@ -1473,13 +1473,13 @@
 -- Paraguay    11    0    0
 -- Cuba    11    1    0
 -- Guyana    11    1    0
+-- Ghana    11    0    0
 -- Rwanda    11    0    0
 -- Montenegro    10    0    0
 -- Monaco    9    0    0
--- Ghana    9    0    0
+-- Guatemala    9    1    0
 -- Trinidad and Tobago    9    0    0
 -- Gibraltar    8    0    2
--- Guatemala    8    1    0
 -- Ethiopia    7    0    0
 -- Kenya    7    0    0
 -- Mongolia    6    0    0
