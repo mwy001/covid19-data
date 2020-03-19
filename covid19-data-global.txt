@@ -945,10 +945,10 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Japan    1848    29    144
----- Hokkaido    154    6    66
+---- Hokkaido    156    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    22    0    0
+---- Niigata    24    0    0
 ---- Gifu    3    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    3    0    0
@@ -970,7 +970,7 @@
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
 ---- hyogo    92    3    0
----- oita    1    0    0
+---- oita    2    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    4    0    0
