@@ -141,7 +141,7 @@
 ---- Baden-Württemberg    1641    6    14
 ---- Saxony-Anhalt    105    0    0
 ---- Saarland    101    0    0
--- United States of America    9269    151    108
+-- United States of America    9301    152    108
 ---- NY    3041    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -202,11 +202,11 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    848    16    6
+---- CA    870    16    6
 ------ Santa Clara(06085)    175    6    0
 ------ Los Angeles(06037)    192    1    0
 ------ San Mateo(06081)    80    1    0
------- San Diego(06073)    60    0    0
+------ San Diego(06073)    80    0    0
 ------ San Francisco(06075)    51    0    0
 ------ Sacramento(06067)    40    2    0
 ------ Contra Costa(06013)    41    0    0
@@ -222,10 +222,10 @@
 ------ San Luis Obispo(06079)    7    0    0
 ------ Sonoma(06097)    8    0    0
 ------ San Benito(06069)    4    0    0
------- Yolo(06113)    4    0    0
+------ Yolo(06113)    5    0    0
 ------ San Bernardino(06071)    3    0    0
 ------ Stanislaus(06099)    5    0    0
------- Tulare(06107)    4    0    0
+------ Tulare(06107)    5    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    2    0    0
 ------ Imperial(06025)    2    0    0
@@ -271,14 +271,14 @@
 ---- FL    338    8    0
 ------ Broward(12011)    80    1    0
 ------ Palm Beach(12099)    19    0    0
------- Duval(12031)    13    0    0
+------ Duval(12031)    14    0    0
 ------ Volusia(12127)    9    0    0
 ------ Hillsborough(12057)    14    0    0
 ------ Manatee(12081)    8    1    0
 ------ Collier(12021)    13    0    0
 ------ Orange(12095)    9    1    0
 ------ Osceola(12097)    8    0    0
------- Lee(12071)    10    2    0
+------ Lee(12071)    11    2    0
 ------ Alachua(12001)    7    0    0
 ------ Clay(12019)    4    2    0
 ------ Pinellas(12103)    10    0    0
@@ -367,7 +367,7 @@
 ------ Whitfield(13313)    1    0    0
 ------ Murray(13213)    1    0    0
 ------ Houston(13153)    1    0    0
----- TX    200    3    0
+---- TX    202    3    0
 ------ Dallas(48113)    39    0    0
 ------ Travis(48453)    23    0    0
 ------ Harris(48201)    23    0    0
@@ -380,7 +380,7 @@
 ------ Bell(48027)    5    0    0
 ------ El Paso(48141)    3    0    0
 ------ Hays(48209)    5    0    0
------- Brazoria(48039)    3    0    0
+------ Brazoria(48039)    4    0    0
 ------ Galveston(48167)    4    0    0
 ------ Lubbock(48303)    3    0    0
 ------ Matagorda(48321)    3    1    0
@@ -402,6 +402,7 @@
 ------ Jefferson(48245)    1    0    0
 ------ Cameron(48061)    2    0    0
 ------ Brown(48049)    1    0    0
+------ Potter(48375)    2    0    0
 ---- PA    155    1    0
 ------ Montgomery(42091)    42    0    0
 ------ Philadelphia(42101)    34    0    0
@@ -570,7 +571,7 @@
 ------ Scott(27139)    1    0    0
 ---- MD    85    1    4
 ------ Montgomery(24031)    31    0    0
------- Prince George's(24033)    20    0    0
+------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    10    0    0
 ------ Howard(24027)    8    0    0
 ------ Anne Arundel(24003)    4    0    0
@@ -589,6 +590,7 @@
 ------ Wasatch(49051)    2    0    0
 ------ Tooele(49045)    1    0    0
 ------ Utah(49049)    1    0    0
+------ Cache(49005)    2    0    0
 ---- SC    61    3    0
 ------ Kershaw(45055)    25    0    0
 ------ Beaufort(45013)    6    0    0
@@ -657,7 +659,7 @@
 ------ Pottawattamie(19155)    1    0    0
 ------ Washington(19183)    1    0    0
 ------ Winneshiek(19191)    1    0    0
----- KY    36    1    1
+---- KY    36    1    2
 ------ Jefferson(21111)    8    0    0
 ------ Fayette(21067)    8    0    0
 ------ Harrison(21097)    6    0    0
@@ -674,12 +676,13 @@
 ------ Carroll(33003)    4    0    0
 ------ Belknap(33001)    2    0    0
 ------ Merrimack(33013)    1    0    0
----- NE    25    0    0
------- Douglas(31055)    19    0    0
+---- NE    29    0    0
+------ Douglas(31055)    23    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
 ------ Sarpy(31153)    1    0    0
 ------ Lincoln(31111)    1    0    0
+------ Adams(31001)    1    0    0
 ---- NM    28    0    0
 ------ Bernalillo(35001)    16    0    0
 ------ Santa Fe(35049)    5    0    0
@@ -746,14 +749,15 @@
 ------ New Castle(10003)    17    0    0
 ------ Sussex(10005)    1    0    0
 ------ Kent(10001)    1    0    0
----- MO    22    1    0
+---- MO    23    1    0
 ------ Greene(29077)    4    0    0
 ------ Cass(29037)    2    0    0
 ------ Boone(29019)    1    1    0
 ------ Cole(29051)    1    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    3    0    0
------- St Louis(29189)    4    0    0
+------ St Louis(29189)    5    0    0
+------ St Charles(29183)    1    0    0
 ---- HI    16    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -789,9 +793,11 @@
 ------ Morton(38059)    2    0    0
 ---- AK    9    0    0
 ------ Fairbanks North Star(02090)    3    0    0
------- Anchorage(02020)    2    0    0
+------ Anchorage(02020)    4    0    0
+------ Ketchikan Gateway(02130)    1    0    0
 ---- WV    2    0    0
 ------ Jefferson(54037)    1    0    0
+------ Mercer(54055)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    21    0    0
 ---- Others    18    0    0
