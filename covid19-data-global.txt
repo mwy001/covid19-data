@@ -59,6 +59,27 @@
 ---- Jiangsu    631    0    631
 ---- Chongqing    576    6    570
 ---- Sichuan    540    3    525
+------ Chengdu    145    3    140
+------ Garzê Tibetan Autonomous Prefecture    78    0    77
+------ Dazhou    42    0    42
+------ Nanchong    39    0    39
+------ Guang'an    30    0    30
+------ Luzhou    24    0    24
+------ Bazhong    24    0    24
+------ Mianyang    22    0    22
+------ Neijiang    22    0    22
+------ Deyang    18    0    18
+------ Suining    17    0    17
+------ Panzhihua    16    0    16
+------ Liangshan Yi Autonomous Prefecture    13    0    13
+------ Yibin    12    0    12
+------ Zigong    9    0    9
+------ Meishan    8    0    8
+------ Ya'an    7    0    7
+------ Guangyuan    6    0    6
+------ Ziyang    4    0    4
+------ Leshan    3    0    3
+------ Ngawa Tibetan and Qiang Autonomous Prefecture    1    0    1
 ---- Heilongjiang    482    13    463
 ------ Harbin    199    4    190
 ------ Shuangyashan    52    3    48
