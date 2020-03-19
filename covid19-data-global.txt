@@ -1,18 +1,18 @@
 -- China    81102    3245    70420
 ---- Hubei    67800    3122    56927
------- Wuhan    50005    2490    40073
------- Xiaogan    3518    128    3297
------- Ezhou    1394    57    1290
------- Suizhou    1307    45    1222
------- Jingzhou    1580    50    1499
------- Jingmen    928    39    870
------- Shiyan    672    8    645
------- Xiantao    575    22    535
------- Huangshi    1015    38    963
------- Yichang    931    36    881
------- Xiangyang    1175    38    1131
------- Qianjiang    198    9    184
------- Tianmen    496    15    478
+------ Wuhan    50005    2496    40765
+------ Xiaogan    3518    128    3321
+------ Ezhou    1394    58    1298
+------ Suizhou    1307    45    1226
+------ Jingzhou    1580    50    1502
+------ Jingmen    928    39    871
+------ Shiyan    672    8    655
+------ Xiantao    575    22    538
+------ Huangshi    1015    38    964
+------ Yichang    931    36    882
+------ Xiangyang    1175    39    1131
+------ Qianjiang    198    9    187
+------ Tianmen    496    15    479
 ------ Huanggang    2907    125    2782
 ------ Xianning    836    15    821
 ------ Enshi Tujia and Miao Autonomous Prefecture    252    7    245
@@ -39,6 +39,24 @@
 ------ Chaozhou    5    0    5
 ------ Heyuan    4    0    4
 ---- Henan    1273    22    1250
+------ Xinyang    274    2    272
+------ Zhengzhou    157    5    152
+------ Nanyang    156    3    153
+------ Zhumadian    139    0    139
+------ Shangqiu    91    3    88
+------ Zhoukou    76    1    75
+------ Pingdingshan    58    1    57
+------ Xinxiang    57    3    54
+------ Anyang    53    0    53
+------ Xuchang    39    1    38
+------ Luohe    35    0    35
+------ Jiaozuo    32    1    31
+------ Luoyang    31    1    30
+------ Kaifeng    26    0    26
+------ Hebi    19    0    19
+------ Puyang    17    0    17
+------ Sanmenxia    7    1    6
+------ Jiyuan    5    0    5
 ---- Zhejiang    1232    1    1216
 ------ Lishui    29    0    18
 ------ Hangzhou    183    0    181
@@ -53,11 +71,120 @@
 ------ Quzhou    14    0    14
 ------ Zhoushan    10    0    10
 ---- Hunan    1018    4    1014
+------ Changsha    242    2    240
+------ Yueyang    156    1    155
+------ Shaoyang    102    1    101
+------ Changde    82    0    82
+------ Zhuzhou    80    0    80
+------ Loudi    76    0    76
+------ Yiyang    60    0    60
+------ Hengyang    48    0    48
+------ Yongzhou    44    0    44
+------ Huaihua    40    0    40
+------ Chenzhou    39    0    39
+------ Xiangtan    36    0    36
+------ Xiangxi    8    0    8
+------ Zhangjiajie    5    0    5
 ---- Anhui    990    6    984
+------ Hefei    174    1    173
+------ Bengbu    160    5    155
+------ Fuyang    155    0    155
+------ Bozhou    108    0    108
+------ Anqing    83    0    83
+------ Lu'an    69    0    69
+------ Suzhou    41    0    41
+------ Ma'anshan    38    0    38
+------ Wuhu    34    0    34
+------ Tongling    29    0    29
+------ Huaibei    27    0    27
+------ Huainan    27    0    27
+------ Chizhou    17    0    17
+------ Chuzhou    13    0    13
+------ Huangshan    9    0    9
+------ Xuancheng    6    0    6
 ---- Jiangxi    935    1    934
+------ Nanchang    230    0    230
+------ Xinyu    130    0    130
+------ Shangrao    123    0    123
+------ Jiujiang    118    0    118
+------ Yichun    106    0    106
+------ Ganzhou    76    1    75
+------ Fuzhou    72    0    72
+------ Pingxiang    33    0    33
+------ Ji'an    22    0    22
+------ Yingtan    18    0    18
+------ Jingdezhen    6    0    6
+------ Ganjiang New District    1    0    1
 ---- Shandong    761    7    746
+------ Jining    260    0    257
+------ Qingdao    61    1    59
+------ Jinan    47    0    46
+------ Linyi    49    0    49
+------ Yantai    47    0    47
+------ Weifang    44    0    44
+------ Weihai    38    1    37
+------ Liaocheng    38    0    38
+------ Dezhou    37    2    35
+------ Tai'an    35    2    33
+------ Zibo    30    1    29
+------ Zaozhuang    24    0    24
+------ Heze    18    0    18
+------ Rizhao    16    0    16
+------ Binzhou    15    0    15
 ---- Jiangsu    631    0    631
+------ Nanjing    93    0    93
+------ Suzhou    87    0    87
+------ Xuzhou    79    0    79
+------ Huainan    66    0    66
+------ Wuxi    55    0    55
+------ Changzhou    51    0    51
+------ Lianyungang    48    0    48
+------ Nantong    40    0    40
+------ Taizhou    37    0    37
+------ Yancheng    27    0    27
+------ Yangzhou    23    0    23
+------ Suqian    13    0    13
+------ Zhenjiang    12    0    12
 ---- Chongqing    576    6    570
+------ Wanzhou District    118    4    114
+------ Jiangbei District    28    0    28
+------ Yunyang County    25    0    25
+------ Hechuan District    23    0    23
+------ Qijiang District    23    0    23
+------ Changshou District    22    0    22
+------ Fengjie County    22    0    22
+------ Jiulongpo District    21    1    20
+------ Kaizhou District    21    1    20
+------ Zhong County    21    0    21
+------ Yuzhong District    20    0    20
+------ Dianjiang County    20    0    20
+------ Tongnan District    18    0    18
+------ Yubei District    17    0    17
+------ Liangjiang New Area    17    0    17
+------ Nan'an District    15    0    15
+------ Shizhu Tujia Autonomous County    15    0    15
+------ Dazu District    14    0    14
+------ Wuxi County    14    0    14
+------ Tongliang District    10    0    10
+------ Fengdu County    10    0    10
+------ Wushan County    10    0    10
+------ Shapingba District    9    0    9
+------ Bishan District    9    0    9
+------ Rongchang District    9    0    9
+------ Dadukou District    7    0    7
+------ Banan District    6    0    6
+------ Fuling District    5    0    5
+------ Yongchuan District    5    0    5
+------ Jiangjin District    4    0    4
+------ Liangping District    4    0    4
+------ Chongqing High-tech Zone    4    0    4
+------ Qianjiang Tujia and Miao Autonomous County    2    0    2
+------ Chengkou County    2    0    2
+------ Pengshui Miao and Tujia Autonomous County    2    0    2
+------ Wulong District    1    0    1
+------ Xiushan Tujia and Miao Autonomous County    1    0    1
+------ Youyang Tujia and Miao Autonomous County    1    0    1
+------ Wansheng District    1    0    1
 ---- Sichuan    540    3    525
 ------ Chengdu    145    3    140
 ------ Garzê Tibetan Autonomous Prefecture    78    0    77
@@ -95,26 +222,234 @@
 ------ Hegang    5    0    5
 ------ Yichun    1    0    1
 ---- Beijing    469    8    378
+------ Chaoyang District    72    0    0
+------ Haidian District    63    0    0
+------ Xicheng District    53    0    0
+------ Fengtai District    43    0    3
+------ Daxing District    39    0    16
+------ People from other cities    25    0    2
+------ Changping District    29    0    10
+------ Tongzhou District    19    0    1
+------ Fangshan District    16    0    3
+------ Dongcheng District    14    0    1
+------ Shijingshan District    14    0    1
+------ Shunyi District    10    0    0
+------ Huairou District    7    0    0
+------ Miyun District    7    0    0
+------ Mentougou District    3    0    2
+------ Yanqing District    1    0    0
 ---- Shanghai    361    3    326
+------ People from other cities    111    1    106
+------ Baoshan District    21    0    19
+------ Jiading District    9    0    7
+------ Pudong District    61    0    60
+------ Xuhui District    18    0    17
+------ Jing'an District    16    0    15
+------ Huangpu District    6    0    5
+------ Minhang District    19    0    19
+------ Songjiang District    14    0    14
+------ Changning District    13    0    13
+------ Putuo District    11    0    11
+------ Yangpu District    9    0    9
+------ Fengxian District    9    0    9
+------ Hongkou District    7    0    7
+------ Qingpu District    6    0    6
+------ Jinshan District    4    0    4
+------ Chongming District    4    0    4
 ---- Hebei    318    6    310
+------ Tangshan    58    1    55
+------ Cangzhou    48    3    45
+------ Zhangjiakou    41    0    41
+------ Baoding    32    0    32
+------ Handan    32    0    32
+------ Langfang    30    0    30
+------ Shijiazhuang    29    0    29
+------ Xingtai    23    1    22
+------ Qinhuangdao    10    1    9
+------ Hengshui    8    0    8
+------ Chengde    7    0    7
 ---- Fujian    296    1    295
+------ Fuzhou    72    1    71
+------ Putian    56    0    56
+------ Quanzhou    47    0    47
+------ Xiamen    35    0    35
+------ Ningde    26    0    26
+------ Zhangzhou    20    0    20
+------ Nanping    20    0    20
+------ Sanming    14    0    14
+------ Longyan    6    0    6
 ---- Guangxi    253    2    250
+------ Nanning    55    0    55
+------ Beihai    44    1    43
+------ Guilin    32    0    32
+------ Hechi    28    1    27
+------ Liuzhou    24    0    24
+------ Fangchenggang    19    0    19
+------ Yulin    11    0    11
+------ Laibin    11    0    11
+------ Qinzhou    8    0    8
+------ Guigang    8    0    8
+------ Wuzhou    5    0    5
+------ Hezhou    4    0    4
+------ Baise    3    0    3
 ---- Shaanxi    246    3    237
+------ Xi'an    120    3    114
+------ Xianyang    17    0    16
+------ Weinan    15    0    14
+------ Ankang    26    0    26
+------ Hanzhong    26    0    26
+------ Baoji    13    0    13
+------ Yan'an    8    0    8
+------ Tongchuan    8    0    8
+------ Shangluo    7    0    7
+------ Yulin    3    0    3
+------ Hancheng    1    0    1
+------ Yangling District in Xianyang    1    0    1
 ---- Yunnan    176    2    172
+------ Kunming    53    0    53
+------ Zhaotong    25    0    25
+------ Xishuangbanna    15    1    14
+------ Yuxi    14    1    13
+------ Qujing    13    0    13
+------ Dali    13    0    13
+------ Honghe    9    0    9
+------ Baoshan    9    0    9
+------ Lijiang    7    0    7
+------ Dehong    5    0    5
+------ Pu'er    4    0    4
+------ Chuxiong    4    0    4
+------ Wenshan    2    0    2
+------ Lincang    1    0    1
 ---- Hainan    168    6    161
+------ Haikou    39    0    38
+------ Danzhou    15    1    13
+------ Sanya    54    1    53
+------ Wanning    13    0    13
+------ Chengmai County    9    1    8
+------ Changjiang Li Autonomous County    7    0    7
+------ Qionghai    6    1    5
+------ Lingao County    6    0    6
+------ Lingshui Li Autonomous County    4    0    4
+------ Ding'an County    3    1    2
+------ Wenchang    3    0    3
+------ Dongfang    3    1    2
+------ Baoting Li and Miao Autonomous County    3    0    3
+------ Ledong Li Autonomous County    2    0    2
+------ Qiongzhong Li and Miao Autonomous County    1    0    1
 ---- Guizhou    147    2    144
+------ Guiyang    36    1    35
+------ Zunyi    32    0    32
+------ Bijie    23    0    23
+------ Qiannan    17    0    17
+------ Liupanshui    10    1    9
+------ Tongren    10    0    10
+------ Qiandongnan    10    0    10
+------ Anshun    4    0    4
+------ Qianxinan    4    0    4
 ---- Tianjin    136    3    133
+------ Baodi District    60    2    58
+------ Hedong District    15    1    14
+------ Hebei District    12    0    12
+------ Beichen District    6    0    6
+------ Nankai District    6    0    6
+------ Heping District    6    0    6
+------ People from other cities    6    0    6
+------ Dongli District    4    0    4
+------ Ninghe District    4    0    4
+------ Hexi District    4    0    4
+------ Xiqing District    4    0    4
+------ Binhai New Area    3    0    3
+------ Wuqing District    2    0    2
+------ Hongqiao District    2    0    2
+------ Jinnan District    2    0    2
 ---- Shanxi    133    0    133
+------ Jinzhong    37    0    37
+------ Taiyuan    20    0    20
+------ Yuncheng    19    0    19
+------ Datong    12    0    12
+------ Jincheng    10    0    10
+------ Changzhi    8    0    8
+------ Shuozhou    8    0    8
+------ Xinzhou    7    0    7
+------ Lüliang    6    0    6
+------ Yangquan    4    0    4
+------ Linfen    2    0    2
 ---- Gansu    133    2    91
+------ Lanzhou    36    2    34
+------ Tianshui    12    0    12
+------ Pingliang    9    0    9
+------ Dingxi    9    0    9
+------ Gannan    8    0    8
+------ Baiyin    4    0    4
+------ Longnan    4    0    4
+------ Qingyang    3    0    3
+------ Linxia    3    0    3
+------ Zhangye    2    0    2
+------ Jinchang    1    0    1
 ---- Hong Kong    181    4    92
 ---- Liaoning    125    1    122
+------ Dandong    11    0    9
+------ Shenyang    28    0    27
+------ Chaoyang    6    0    5
+------ Dalian    19    0    19
+------ Jinzhou    12    0    12
+------ Huludao    12    1    11
+------ Panjin    11    0    11
+------ Fuxin    8    0    8
+------ Tieling    7    0    7
+------ Anshan    4    0    4
+------ Benxi    3    0    3
+------ Liaoyang    3    0    3
+------ Yingkou    1    0    1
 ---- Jilin    93    1    92
+------ Changchun    45    0    45
+------ Siping    15    1    14
+------ Liaoyuan    7    0    7
+------ Gongzhuling    6    0    6
+------ Tonghua    6    0    6
+------ Jilin    5    0    5
+------ Yanbian    5    0    5
+------ Songyuan    2    0    2
+------ Meihekou    1    0    1
+------ Baicheng    1    0    1
 ---- Xinjiang    76    3    73
+------ Urumqi    23    0    23
+------ Yili    18    0    18
+------ Xinjiang Production and Construction Corps 4th Division    10    1    9
+------ Shihezi, Xinjiang Production and Construction Corps 8th Division    4    1    3
+------ Xinjiang Production and Construction Corps 9th Division    4    1    3
+------ Changji    4    0    4
+------ Turpan    3    0    3
+------ Bayingolin Mongol Autonomous Prefecture    3    0    3
+------ Xinjiang Production and Construction Corps 12th Division    3    0    3
+------ Wujiaqu, Xinjiang Production and Construction Corps 5th Division    2    0    2
+------ Xinjiang Production and Construction Corps 7th Division    1    0    1
+------ Akesu    1    0    1
 ---- Inner Mongolia    75    1    73
+------ Ordos    11    0    11
+------ Baotou    11    0    11
+------ Chifeng    9    0    9
+------ Linguolexi    9    0    9
+------ Bayannur    8    1    7
+------ Hohhot    7    0    7
+------ Tongliao    7    0    7
+------ Hulunbuir    7    0    7
+------ Ulanqab    3    0    3
+------ Wuhai    2    0    2
+------ Xinganmeng    1    0    1
 ---- Ningxia    75    0    75
+------ Yinchuan    36    0    36
+------ Wuzhong    28    0    28
+------ Guyuan    5    0    5
+------ Zhongwei    4    0    4
+------ Ningdong County    1    0    1
+------ Shizuishan    1    0    1
 ---- Qinghai    18    0    18
+------ Xining    15    0    15
+------ Haibei    3    0    3
 ---- Macau    15    0    10
 ---- Tibet    1    0    1
+------ Lhasa    1    0    1
 -- Italy    35713    2978    4025
 ---- Abruzzo    263    7    7
 ---- Aosta Valley    165    3    0
@@ -190,7 +525,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    13632    31    113
+-- Germany    13632    33    113
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -207,7 +542,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    9464    155    108
+-- United States of America    9477    155    108
 ---- NY    3086    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -497,7 +832,7 @@
 ------ Berks(42011)    1    0    0
 ------ Lackawanna(42069)    1    0    0
 ------ Erie(42049)    1    0    0
----- WI    114    0    1
+---- WI    115    0    1
 ------ Milwaukee(55079)    47    0    0
 ------ Dane(55025)    23    0    0
 ------ Kenosha(55059)    4    0    0
@@ -509,7 +844,7 @@
 ------ Racine(55101)    1    0    0
 ------ Washington(55131)    2    0    0
 ------ Wood(55141)    1    0    0
------- La Crosse(55063)    2    0    0
+------ La Crosse(55063)    3    0    0
 ------ Brown(55009)    2    0    0
 ------ Walworth(55127)    1    0    0
 ------ Ozaukee(55089)    1    0    0
@@ -611,10 +946,10 @@
 ------ Moore(37125)    1    0    0
 ------ Buncombe(37021)    1    0    0
 ------ Hoke(37093)    1    0    0
----- MI    119    1    0
------- Oakland(26125)    59    0    0
+---- MI    147    1    0
+------ Oakland(26125)    77    0    0
 ------ Wayne(26163)    23    1    0
------- Macomb(26099)    10    0    0
+------ Macomb(26099)    20    0    0
 ------ Washtenaw(26161)    7    0    0
 ------ Kent(26081)    5    0    0
 ------ Ingham(26065)    5    0    0
@@ -930,7 +1265,7 @@
 ---- Seoul    282    0    58
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
--- Switzerland    3347    36    15
+-- Switzerland    3438    36    15
 -- United Kingdom of Great Britain and Northern Ireland    2642    108    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -985,9 +1320,9 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Austria    1843    7    9
--- Belgium    1795    21    31
--- Norway    1691    6    1
--- Sweden    1331    10    16
+-- Belgium    1795    21    155
+-- Norway    1704    6    1
+-- Sweden    1352    10    16
 -- Denmark    1132    6    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1039,15 +1374,15 @@
 -- Philippines    217    19    8
 -- Egypt    210    6    32
 -- Hong Kong    208    4    98
+-- Russian Federation    199    1    8
 -- India    197    4    20
 -- Turkey    191    2    0
+-- Iraq    177    12    49
 -- Ecuador    168    3    1
--- Iraq    164    12    43
 -- Peru    155    0    1
 -- South Africa    150    0    0
 -- Lebanon    149    4    4
 -- Kuwait    148    0    18
--- Russian Federation    147    1    8
 -- San Marino    140    14    4
 -- Armenia    122    0    1
 -- Mexico    118    1    4
@@ -1070,7 +1405,7 @@
 -- Nigeria    69    0    1
 -- Costa Rica    69    1    0
 -- Albania    64    2    0
--- Sri Lanka    59    0    3
+-- Sri Lanka    60    0    3
 -- Morocco    58    2    1
 -- Cyprus    58    0    0
 -- Jordan    56    0    1
