@@ -534,7 +534,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    15309    44    114
+-- Germany    15320    44    115
 ---- Saxony    296    0    0
 ---- Mecklenburg-Vorpommern    100    0    0
 ---- Free State of Bavaria    1798    5    14
@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    11598    171    108
+-- United States of America    11838    175    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -617,7 +617,7 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    910    17    6
+---- CA    950    18    6
 ------ Santa Clara(06085)    175    6    0
 ------ Los Angeles(06037)    192    1    0
 ------ San Mateo(06081)    80    1    0
@@ -674,7 +674,7 @@
 ------ Warren(34041)    3    0    0
 ------ Sussex(34037)    2    0    0
 ------ Cape May(34009)    1    0    0
----- MA    256    0    1
+---- MA    328    0    1
 ------ Middlesex(25017)    100    0    0
 ------ Norfolk(25021)    45    0    0
 ------ Suffolk(25025)    51    0    0
@@ -738,7 +738,7 @@
 ------ Mesa(08077)    1    0    0
 ------ Pueblo(08101)    1    0    0
 ------ Grand(08049)    2    0    0
----- IL    295    1    2
+---- IL    295    4    2
 ------ Cook(17031)    178    1    0
 ------ Lake(17097)    18    0    0
 ------ Sangamon(17167)    4    0    0
@@ -874,9 +874,9 @@
 ------ Eau Claire(55035)    1    0    0
 ------ Bayfield(55007)    1    0    0
 ------ Calumet(55015)    1    0    0
----- TN    106    0    0
------- Davidson(47037)    58    0    0
------- Williamson(47187)    24    0    0
+---- TN    154    0    0
+------ Davidson(47037)    75    0    0
+------ Williamson(47187)    30    0    0
 ------ Shelby(47157)    10    0    0
 ------ Knox(47093)    2    0    0
 ------ Campbell(47013)    1    0    0
@@ -885,9 +885,13 @@
 ------ Rutherford(47149)    1    0    0
 ------ Sevier(47155)    1    0    0
 ------ Sullivan(47163)    1    0    0
------- Sumner(47165)    2    0    0
+------ Sumner(47165)    3    0    0
 ------ Cheatham(47021)    1    0    0
------- Robertson(47147)    1    0    0
+------ Robertson(47147)    2    0    0
+------ Cumberland(47035)    1    0    0
+------ Dyer(47045)    1    0    0
+------ Montgomery(47125)    1    0    0
+------ Wilson(47189)    1    0    0
 ---- CT    97    2    0
 ------ Fairfield(09001)    69    2    0
 ------ New Haven(09009)    10    0    0
@@ -896,13 +900,13 @@
 ------ Middlesex(09007)    1    0    0
 ------ Tolland(09013)    1    0    0
 ---- OH    119    0    0
------- Cuyahoga(39035)    38    0    0
+------ Cuyahoga(39035)    53    0    0
 ------ Butler(39017)    8    0    0
------- Franklin(39049)    7    0    0
+------ Franklin(39049)    10    0    0
 ------ Lorain(39093)    6    0    0
------- Summit(39153)    4    0    0
------- Medina(39103)    4    0    0
------- Stark(39151)    3    0    0
+------ Summit(39153)    6    0    0
+------ Medina(39103)    5    0    0
+------ Stark(39151)    5    0    0
 ------ Belmont(39013)    2    0    0
 ------ Coshocton(39031)    2    0    0
 ------ Trumbull(39155)    2    0    0
@@ -910,19 +914,22 @@
 ------ Geauga(39055)    1    0    0
 ------ Lake(39085)    2    0    0
 ------ Lucas(39095)    1    0    0
------- Mahoning(39099)    3    0    0
+------ Mahoning(39099)    5    0    0
 ------ Tuscarawas(39157)    1    0    0
 ------ Huron(39077)    1    0    0
 ------ Ashland(39005)    1    0    0
------- Delaware(39041)    1    0    0
+------ Delaware(39041)    2    0    0
 ------ Montgomery(39113)    1    0    0
+------ Hamilton(39061)    1    0    0
+------ Miami(39109)    1    0    0
+------ Richland(39139)    1    0    0
 ---- OR    88    3    0
------- Washington(41067)    23    1    0
------- Linn(41043)    15    0    0
+------ Washington(41067)    25    1    0
+------ Linn(41043)    18    0    0
 ------ Clackamas(41005)    6    0    0
 ------ Deschutes(41017)    6    0    0
------- Marion(41047)    8    0    0
------- Multnomah(41051)    3    1    0
+------ Marion(41047)    13    0    0
+------ Multnomah(41051)    7    1    0
 ------ Benton(41003)    3    0    0
 ------ Jackson(41029)    2    0    0
 ------ Polk(41053)    2    0    0
@@ -1080,7 +1087,7 @@
 ------ Penobscot(23019)    1    0    0
 ------ Lincoln(23015)    3    0    0
 ------ Hancock(23009)    1    0    0
----- DC    40    0    0
+---- DC    40    3    0
 ---- IN    56    2    0
 ------ Marion(18097)    19    1    0
 ------ Hendricks(18063)    4    0    0
@@ -1208,9 +1215,9 @@
 ------ Logan(40083)    1    0    0
 ------ Stephens(40137)    1    0    0
 ------ Washington(40147)    1    0    0
----- KS    34    1    0
------- Johnson(20091)    12    0    0
------- Wyandotte(20209)    5    1    0
+---- KS    36    1    0
+------ Johnson(20091)    16    0    0
+------ Wyandotte(20209)    8    1    0
 ------ Butler(20015)    1    0    0
 ------ Douglas(20045)    1    0    0
 ------ Ford(20057)    1    0    0
@@ -1219,6 +1226,8 @@
 ------ Cherokee(20021)    1    0    0
 ------ Jackson(20085)    1    0    0
 ------ Linn(20107)    1    0    0
+------ Morris(20127)    2    0    0
+------ Miami(20121)    1    0    0
 ---- VT    22    0    0
 ------ Chittenden(50007)    4    0    0
 ------ Bennington(50003)    3    0    0
@@ -1293,26 +1302,26 @@
 ---- France    7652    148    12
 ---- St Martin    4    0    0
 ---- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    665    7    4
----- Ile-de-France    2693    2    2
----- Alsace–Champagne-Ardenne–Lorraine    2163    0    0
----- Normandy    208    1    0
----- Brittany    273    1    6
----- Pays de la Loire    128    0    0
----- Centre-Val de Loire    128    0    0
----- Bourgogne-Franche-Comté    593    0    0
----- Aquitaine-Limousin-Poitou-Charentes    237    0    0
----- Auvergne-Rhône-Alpes    858    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    371    0    0
----- Provence-Alpes-Côte d'Azur    574    0    0
----- Corsica    152    0    0
----- Martinique    23    0    0
----- French Guiana    11    0    0
----- Réunion    14    0    0
----- Guadeloupe    33    0    0
+---- Nord-Pas-de-Calais and Picardy    700    7    4
+---- Ile-de-France    3384    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    2643    0    0
+---- Normandy    241    1    0
+---- Brittany    297    1    6
+---- Pays de la Loire    160    0    0
+---- Centre-Val de Loire    157    0    0
+---- Bourgogne-Franche-Comté    696    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    280    0    0
+---- Auvergne-Rhône-Alpes    1014    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    444    0    0
+---- Provence-Alpes-Côte d'Azur    693    0    0
+---- Corsica    162    0    0
+---- Martinique    32    0    0
+---- French Guiana    15    0    0
+---- Réunion    19    0    0
+---- Guadeloupe    45    0    0
 ---- French Polynesia    3    0    0
 ---- Fench Guiana    5    0    0
----- Mayotte    3    0    0
+---- Mayotte    6    0    0
 ---- Reunion    12    0    0
 -- Korea, Republic of    8565    91    1947
 ---- Busan    107    1    58
@@ -1389,7 +1398,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1761    7    1
+-- Norway    1784    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
@@ -1407,8 +1416,8 @@
 ---- Grand Princess Cruise Ship    9    0    0
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    3    0    0
----- Nova Scotia    12    0    0
--- Portugal    785    3    4
+---- Nova Scotia    14    0    0
+-- Portugal    785    4    4
 -- Australia    709    6    46
 ---- New South Wales    267    5    4
 ---- Victoria    121    0    8
@@ -1419,9 +1428,9 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    3    0    0
 -- Czechia    694    0    3
--- Israel    573    0    14
+-- Israel    677    0    14
+-- Brazil    621    7    2
 -- Ireland    557    3    5
--- Brazil    540    7    2
 -- Greece    464    6    19
 -- Qatar    460    0    10
 -- Pakistan    454    2    13
@@ -1468,6 +1477,7 @@
 -- Latvia    86    0    1
 -- Viet Nam    85    0    16
 -- Uruguay    79    0    0
+-- Andorra    74    0    1
 -- Hungary    73    1    2
 -- Brunei Darussalam    73    0    0
 -- Faroe Islands    72    0    1
@@ -1476,9 +1486,8 @@
 -- Cyprus    67    0    0
 -- Bosnia and Herzegovina    64    0    2
 -- Albania    64    2    0
--- Morocco    61    2    2
+-- Morocco    62    2    2
 -- Sri Lanka    60    0    3
--- Andorra    53    0    1
 -- Malta    53    0    2
 -- Belarus    51    0    5
 -- North Macedonia    49    0    1
@@ -1486,7 +1495,7 @@
 -- Oman    48    0    13
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
--- Kazakhstan    44    0    0
+-- Kazakhstan    44    3    0
 -- Venezuela, Bolivarian Republic of    42    0    0
 -- Lithuania    41    0    1
 -- Georgia    40    0    1
@@ -1498,11 +1507,11 @@
 -- Guadeloupe    33    0    0
 -- New Zealand    28    0    0
 -- Liechtenstein    28    0    0
+-- Réunion    28    0    0
 -- Martinique    23    1    0
 -- Uzbekistan    23    0    0
 -- Afghanistan    22    0    1
 -- Ukraine    21    3    0
--- Réunion    19    0    0
 -- Bangladesh    18    1    3
 -- Macao    17    0    10
 -- French Guiana    15    0    0
@@ -1576,3 +1585,4 @@
 -- Fiji    1    0    0
 -- Nicaragua    1    0    0
 -- Chad    1    0    0
+-- Niger    1    0    0
