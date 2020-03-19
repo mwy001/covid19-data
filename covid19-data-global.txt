@@ -460,27 +460,27 @@
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
 -- Italy    41035    3405    4440
----- Abruzzo    263    7    7
----- Aosta Valley    165    3    0
----- Apulia    383    19    3
----- Basilicata    27    0    0
----- Calabria    129    1    2
----- Campania    460    9    28
----- Emilia-Romagna    4525    458    152
----- Friuli Venezia Giulia    462    31    18
----- Lazio    724    32    42
----- Lombardy    17713    1959    3488
----- Marche    1568    92    0
----- Molise    28    1    6
----- Piemont    2341    154    0
----- Sardinia    134    2    0
----- Sicily    282    3    12
----- Trentino-Alto Adige - Südtirol    455    7    12
----- Tuscany    1330    22    17
----- Umbria    247    2    4
----- Liguria    887    73    70
----- Veneto    3214    94    167
----- Bolzano    376    9    1
+---- Abruzzo    385    11    8
+---- Aosta Valley    215    6    0
+---- Apulia    478    25    4
+---- Basilicata    37    0    0
+---- Calabria    169    3    2
+---- Campania    652    17    30
+---- Emilia-Romagna    5214    531    177
+---- Friuli Venezia Giulia    599    36    41
+---- Lazio    823    38    44
+---- Lombardy    19884    2168    3778
+---- Marche    1737    115    0
+---- Molise    46    2    6
+---- Piemont    2932    175    3
+---- Sardinia    206    2    0
+---- Sicily    340    4    15
+---- Trentino-Alto Adige - Südtirol    523    12    20
+---- Tuscany    1482    38    22
+---- Umbria    334    2    4
+---- Liguria    1059    91    85
+---- Veneto    3484    115    200
+---- Bolzano    436    14    1
 -- Iran, Islamic Republic of    18407    1284    5979
 ---- Qom    1105    30    0
 ---- Tehran    4397    0    0
@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    11354    171    108
+-- United States of America    11364    171    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -614,7 +614,7 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    890    17    6
+---- CA    904    17    6
 ------ Santa Clara(06085)    175    6    0
 ------ Los Angeles(06037)    192    1    0
 ------ San Mateo(06081)    80    1    0
@@ -852,7 +852,7 @@
 ------ Westmoreland(42129)    2    0    0
 ------ Adams(42001)    1    0    0
 ------ Lebanon(42075)    1    0    0
----- WI    116    0    1
+---- WI    117    0    1
 ------ Milwaukee(55079)    47    0    0
 ------ Dane(55025)    23    0    0
 ------ Kenosha(55059)    4    0    0
@@ -926,7 +926,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    2    0    0
----- VA    91    2    1
+---- VA    96    2    1
 ------ Arlington(51013)    14    0    0
 ------ Fairfax(51059)    14    0    0
 ------ Loudoun(51107)    5    0    0
@@ -985,13 +985,13 @@
 ------ Otsego(26137)    1    0    0
 ------ Ottawa(26139)    1    0    0
 ------ St Clair(26147)    2    0    0
----- MN    90    0    0
------- Hennepin(27053)    32    0    0
+---- MN    91    0    0
+------ Hennepin(27053)    33    0    0
 ------ Ramsey(27123)    12    0    0
 ------ Dakota(27037)    8    0    0
 ------ Olmsted(27109)    6    0    0
 ------ Anoka(27003)    6    0    0
------- Stearns(27145)    3    0    0
+------ Stearns(27145)    4    0    0
 ------ Benton(27009)    2    0    0
 ------ Washington(27163)    3    0    0
 ------ Blue Earth(27013)    2    0    0
@@ -1106,7 +1106,7 @@
 ------ Washington(19183)    1    0    0
 ------ Winneshiek(19191)    1    0    0
 ------ Scott(19163)    1    0    0
----- KY    36    1    2
+---- KY    37    1    2
 ------ Jefferson(21111)    8    0    0
 ------ Fayette(21067)    8    0    0
 ------ Harrison(21097)    6    0    0
@@ -1271,7 +1271,7 @@
 ------ Jefferson(54037)    1    0    0
 ------ Mercer(54055)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
----- Grand Princess Cruise Ship    22    0    0
+---- Grand Princess Cruise Ship    22    1    0
 ---- Others    23    0    0
 ---- GU    12    0    0
 ---- PR    5    0    0
@@ -1320,7 +1320,7 @@
 ---- Seoul    282    0    58
 ---- Ulsan    36    0    9
 ---- 未确定地区    16    0    0
--- Switzerland    3939    36    15
+-- Switzerland    3944    41    15
 -- United Kingdom of Great Britain and Northern Ireland    2692    137    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1376,7 +1376,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1751    7    1
+-- Norway    1754    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
@@ -1392,7 +1392,7 @@
 ---- Saskatchewan    16    0    0
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    9    0    0
----- Prince Edward Island    1    0    0
+---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    12    0    0
 -- Portugal    785    3    4
@@ -1406,13 +1406,13 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    3    0    0
 -- Czechia    694    0    3
+-- Ireland    557    3    5
 -- Brazil    534    6    2
 -- Israel    529    0    13
 -- Greece    464    6    19
 -- Pakistan    453    2    13
 -- Qatar    452    0    4
 -- Finland    400    0    10
--- Ireland    366    2    5
 -- Singapore    345    0    124
 ---- Central Singapore Community Development Council    200    0    97
 -- Chile    342    0    0
