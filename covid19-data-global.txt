@@ -186,7 +186,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    9458    155    108
+-- United States of America    9464    155    108
 ---- NY    3086    21    0
 ------ Westchester(36119)    538    0    0
 ------ Nassau(36059)    278    1    0
@@ -318,7 +318,7 @@
 ------ Franklin(25011)    1    0    0
 ---- FL    344    8    0
 ------ Broward(12011)    80    1    0
------- Palm Beach(12099)    19    0    0
+------ Palm Beach(12099)    21    0    0
 ------ Duval(12031)    14    0    0
 ------ Volusia(12127)    9    0    0
 ------ Hillsborough(12057)    14    0    0
@@ -329,7 +329,7 @@
 ------ Lee(12071)    11    2    0
 ------ Alachua(12001)    7    0    0
 ------ Clay(12019)    4    2    0
------- Pinellas(12103)    10    0    0
+------ Pinellas(12103)    12    0    0
 ------ Seminole(12117)    7    0    0
 ------ Sarasota(12115)    5    0    0
 ------ Citrus(12017)    3    0    0
@@ -340,7 +340,7 @@
 ------ Escambia(12033)    1    0    0
 ------ Lake(12069)    2    0    0
 ------ Nassau(12089)    1    0    0
------- Polk(12105)    1    0    0
+------ Polk(12105)    2    0    0
 ------ Santa Rosa(12113)    1    1    0
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    1    0    0
@@ -489,8 +489,9 @@
 ------ Washington(55131)    2    0    0
 ------ Wood(55141)    1    0    0
 ------ La Crosse(55063)    2    0    0
------- Brown(55009)    1    0    0
+------ Brown(55009)    2    0    0
 ------ Walworth(55127)    1    0    0
+------ Ozaukee(55089)    1    0    0
 ---- TN    100    0    0
 ------ Davidson(47037)    58    0    0
 ------ Williamson(47187)    24    0    0
