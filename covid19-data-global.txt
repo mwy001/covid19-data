@@ -513,7 +513,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Spain    17395    803    1107
+-- Spain    17963    830    1107
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    11536    171    108
+-- United States of America    11598    171    108
 ---- NY    5921    21    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    1    0
@@ -562,16 +562,16 @@
 ------ Orange(36071)    51    0    0
 ------ Monroe(36055)    30    1    0
 ------ Erie(36029)    28    0    0
------- Saratoga(36091)    14    0    0
------- Ulster(36111)    9    0    0
------- Schenectady(36093)    14    0    0
+------ Saratoga(36091)    18    0    0
+------ Ulster(36111)    10    0    0
+------ Schenectady(36093)    18    0    0
 ------ Tompkins(36109)    6    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Onondaga(36067)    9    0    0
------- Putnam(36079)    2    0    0
------- Broome(36007)    1    0    0
------- Clinton(36019)    1    0    0
+------ Putnam(36079)    5    0    0
+------ Broome(36007)    2    0    0
+------ Clinton(36019)    2    0    0
 ------ Delaware(36025)    1    0    0
 ------ Essex(36031)    1    0    0
 ------ Genesee(36037)    1    0    0
@@ -579,17 +579,20 @@
 ------ Montgomery(36057)    2    0    0
 ------ Oneida(36065)    2    0    0
 ------ Ontario(36069)    1    0    0
------- Rensselaer(36083)    4    0    0
------- Sullivan(36105)    1    0    0
+------ Rensselaer(36083)    6    0    0
+------ Sullivan(36105)    3    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    2    0    0
------- Chenango(36017)    1    0    0
------- Hamilton(36041)    1    0    0
+------ Chenango(36017)    2    0    0
+------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
 ------ New York(36061)    2469    11    0
 ------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    1    0    0
+------ Fulton(36035)    1    0    0
+------ Jefferson(36045)    1    0    0
+------ Wayne(36117)    1    0    0
 ---- WA    1188    68    89
 ------ King(53033)    569    56    0
 ------ Snohomish(53061)    310    6    0
@@ -614,7 +617,7 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    1    0    0
 ------ Mason(53045)    1    0    0
----- CA    904    17    6
+---- CA    910    17    6
 ------ Santa Clara(06085)    175    6    0
 ------ Los Angeles(06037)    192    1    0
 ------ San Mateo(06081)    80    1    0
@@ -971,22 +974,27 @@
 ------ Hoke(37093)    1    0    0
 ------ Pitt(37147)    1    0    0
 ------ Davidson(37057)    1    0    0
----- MI    181    3    0
------- Oakland(26125)    94    1    0
------- Wayne(26163)    23    2    0
------- Macomb(26099)    20    0    0
+---- MI    336    3    0
+------ Oakland(26125)    105    1    0
+------ Wayne(26163)    44    2    0
+------ Macomb(26099)    55    0    0
 ------ Washtenaw(26161)    14    0    0
------- Kent(26081)    5    0    0
------- Ingham(26065)    5    0    0
+------ Kent(26081)    7    0    0
+------ Ingham(26065)    6    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    1    0    0
 ------ Jackson(26075)    1    0    0
 ------ Leelanau(26089)    1    0    0
------- Monroe(26115)    1    0    0
+------ Monroe(26115)    2    0    0
 ------ Montcalm(26117)    1    0    0
 ------ Otsego(26137)    1    0    0
 ------ Ottawa(26139)    1    0    0
 ------ St Clair(26147)    2    0    0
+------ Clinton(26037)    1    0    0
+------ Livingston(26093)    1    0    0
+------ Midland(26111)    1    0    0
+------ Eaton(26045)    2    0    0
+------ Genesee(26049)    1    0    0
 ---- MN    91    0    0
 ------ Hennepin(27053)    33    0    0
 ------ Ramsey(27123)    12    0    0
@@ -1020,7 +1028,7 @@
 ------ Frederick(24021)    1    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    1    0    0
----- NV    84    1    0
+---- NV    95    1    0
 ------ Clark(32003)    69    1    0
 ------ Washoe(32031)    14    0    0
 ---- UT    79    0    0
@@ -1118,6 +1126,8 @@
 ------ Lyon(21143)    1    0    0
 ------ Nelson(21179)    1    0    0
 ------ Kenton(21117)    1    0    0
+------ Franklin(21073)    1    0    0
+------ Warren(21227)    1    0    0
 ---- NH    41    0    0
 ------ Rockingham(33015)    17    0    0
 ------ Grafton(33009)    7    0    0
@@ -1132,12 +1142,13 @@
 ------ Sarpy(31153)    1    0    0
 ------ Lincoln(31111)    1    0    0
 ------ Adams(31001)    1    0    0
----- NM    28    0    0
------- Bernalillo(35001)    16    0    0
------- Santa Fe(35049)    5    0    0
+---- NM    35    0    0
+------ Bernalillo(35001)    20    0    0
+------ Santa Fe(35049)    7    0    0
 ------ Sandoval(35043)    4    0    0
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    1    0    0
+------ San Miguel(35047)    1    0    0
 ---- RI    44    0    0
 ------ Providence(44007)    33    0    0
 ---- AR    46    0    0
@@ -1219,7 +1230,7 @@
 ------ New Castle(10003)    23    0    0
 ------ Sussex(10005)    4    0    0
 ------ Kent(10001)    3    0    0
----- MO    60    1    0
+---- MO    87    1    0
 ------ Greene(29077)    4    0    0
 ------ Cass(29037)    2    0    0
 ------ Boone(29019)    1    1    0
@@ -1248,7 +1259,7 @@
 ------ Laramie(56021)    4    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    1    0    0
----- MT    11    0    0
+---- MT    12    0    0
 ------ Missoula(30063)    3    0    0
 ------ Yellowstone(30111)    2    0    0
 ------ Broadwater(30007)    1    0    0
@@ -1378,7 +1389,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1759    7    1
+-- Norway    1761    7    1
 -- Sweden    1439    11    16
 -- Denmark    1151    6    1
 ---- Denmark    977    4    1
@@ -1410,12 +1421,12 @@
 -- Czechia    694    0    3
 -- Israel    573    0    14
 -- Ireland    557    3    5
--- Brazil    534    6    2
+-- Brazil    540    7    2
 -- Greece    464    6    19
 -- Qatar    460    0    10
 -- Pakistan    454    2    13
 -- Finland    400    0    10
--- Poland    355    5    13
+-- Poland    357    5    13
 -- Singapore    345    0    124
 ---- Central Singapore Community Development Council    200    0    97
 -- Chile    342    0    0
@@ -1435,8 +1446,8 @@
 -- Ecuador    199    3    1
 -- Russian Federation    199    1    8
 -- India    197    4    20
+-- Iraq    192    13    49
 -- Turkey    192    3    0
--- Iraq    177    12    49
 -- Lebanon    157    4    4
 -- South Africa    150    0    0
 -- Kuwait    148    0    18
@@ -1507,10 +1518,10 @@
 -- Ghana    11    0    0
 -- Rwanda    11    0    0
 -- Monaco    10    0    0
+-- Gibraltar    10    0    2
 -- Montenegro    10    0    0
 -- Guatemala    9    1    0
 -- Trinidad and Tobago    9    0    0
--- Gibraltar    8    0    2
 -- Ethiopia    7    0    0
 -- Kenya    7    0    0
 -- Mauritius    7    0    0
@@ -1526,6 +1537,7 @@
 -- Congo, Democratic Republic of the    4    0    0
 -- Congo    3    0    0
 -- Saint Martin (French part)    3    0    0
+-- Cayman Islands    3    1    0
 -- Gabon    3    0    0
 -- Namibia    3    0    0
 -- Mayotte    3    0    0
@@ -1550,7 +1562,6 @@
 -- Togo    1    0    0
 -- Holy See    1    0    0
 -- Antigua and Barbuda    1    0    0
--- Cayman Islands    1    1    0
 -- Guinea    1    0    0
 -- Suriname    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
