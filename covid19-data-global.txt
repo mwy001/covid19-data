@@ -538,7 +538,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    15439    44    115
+-- Germany    16046    44    115
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -1468,12 +1468,12 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Belgium    1795    21    165
--- Norway    1791    7    1
--- Sweden    1446    11    16
+-- Norway    1794    7    1
+-- Sweden    1452    11    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    915    2    75
+-- Malaysia    1030    2    87
 -- Australia    876    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
@@ -1515,22 +1515,22 @@
 -- Iceland    330    5    8
 -- Thailand    322    1    42
 -- Slovenia    319    1    0
+-- Estonia    283    0    1
 -- Bahrain    279    1    110
 -- Romania    277    0    25
 -- Saudi Arabia    274    0    8
--- Estonia    267    0    1
--- Ecuador    260    3    1
+-- Ecuador    260    4    1
 -- Egypt    256    7    42
 -- Hong Kong    256    4    98
 -- Peru    234    3    1
 -- Philippines    230    19    8
 -- India    206    5    20
+-- South Africa    202    0    0
 -- Russian Federation    199    1    9
 -- Iraq    192    13    49
 -- Mexico    164    1    4
--- Kuwait    159    0    18
--- Lebanon    158    4    4
--- South Africa    150    0    0
+-- Lebanon    163    4    4
+-- Kuwait    159    0    22
 -- San Marino    144    14    4
 -- United Arab Emirates    140    0    31
 -- Panama    137    1    1
@@ -1544,7 +1544,7 @@
 -- Bulgaria    112    3    0
 -- Latvia    111    0    1
 -- Uruguay    94    0    0
--- Algeria    90    9    32
+-- Algeria    90    10    32
 -- Costa Rica    89    2    0
 -- Viet Nam    87    0    16
 -- Hungary    85    1    7
@@ -1554,20 +1554,20 @@
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
+-- Bosnia and Herzegovina    69    0    2
+-- North Macedonia    67    0    1
 -- Cyprus    67    0    0
 -- Sri Lanka    66    0    3
 -- Morocco    66    3    2
--- Bosnia and Herzegovina    64    0    2
 -- Albania    64    2    0
 -- Malta    53    0    2
--- North Macedonia    50    0    1
 -- Tunisia    50    1    1
 -- Moldova, Republic of    49    1    1
 -- Kazakhstan    49    3    0
 -- Oman    48    0    13
 -- Lithuania    48    0    1
 -- Cambodia    47    0    1
--- Palestine    47    0    0
+-- Palestine    47    0    17
 -- Guadeloupe    45    0    0
 -- Azerbaijan    44    1    7
 -- Georgia    43    0    1
@@ -1590,11 +1590,11 @@
 -- Jamaica    16    1    2
 -- Cuba    16    1    0
 -- French Guiana    15    0    0
+-- Guam    14    0    0
 -- Congo, Democratic Republic of the    14    0    0
 -- Maldives    13    0    0
 -- Paraguay    13    0    0
 -- Montenegro    13    0    0
--- Guam    12    0    0
 -- Monaco    11    0    0
 -- Guyana    11    1    0
 -- French Polynesia    11    0    0
@@ -1616,6 +1616,7 @@
 -- Kyrgyzstan    6    0    0
 -- Aruba    5    0    1
 -- Barbados    5    0    0
+-- Suriname    4    0    0
 -- Mayotte    4    0    0
 -- Congo    3    0    0
 -- Saint Martin (French part)    3    0    0
@@ -1643,7 +1644,6 @@
 -- Holy See    1    0    0
 -- Antigua and Barbuda    1    0    0
 -- Guinea    1    0    0
--- Suriname    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Eswatini    1    0    0
 -- Guernsey    1    0    0
