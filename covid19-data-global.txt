@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    13801    207    108
+-- United States of America    13847    209    108
 ---- NY    5921    34    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -619,7 +619,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    1    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1009    19    6
+---- CA    1011    19    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    89    1    0
@@ -651,7 +651,7 @@
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    1    0    0
------- Kern(06029)    1    0    0
+------ Kern(06029)    3    0    0
 ------ Madera(06039)    1    0    0
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
@@ -690,7 +690,7 @@
 ------ Hampden(25013)    3    0    0
 ------ Franklin(25011)    1    0    0
 ------ Hampshire(25015)    1    0    0
----- FL    417    9    0
+---- FL    432    9    0
 ------ Broward(12011)    96    1    0
 ------ Palm Beach(12099)    29    0    0
 ------ Duval(12031)    15    0    0
@@ -698,27 +698,27 @@
 ------ Hillsborough(12057)    20    0    0
 ------ Manatee(12081)    9    1    0
 ------ Collier(12021)    18    0    0
------- Orange(12095)    15    2    0
------- Osceola(12097)    9    0    0
+------ Orange(12095)    19    2    0
+------ Osceola(12097)    13    0    0
 ------ Lee(12071)    11    2    0
 ------ Alachua(12001)    11    0    0
 ------ Clay(12019)    4    2    0
------- Pinellas(12103)    14    0    0
+------ Pinellas(12103)    16    0    0
 ------ Seminole(12117)    8    0    0
------- Sarasota(12115)    5    0    0
+------ Sarasota(12115)    6    0    0
 ------ Citrus(12017)    3    0    0
 ------ Okaloosa(12091)    5    0    0
------- Pasco(12101)    4    0    0
+------ Pasco(12101)    5    0    0
 ------ Brevard(12009)    3    0    0
 ------ Charlotte(12015)    1    0    0
 ------ Escambia(12033)    1    0    0
 ------ Lake(12069)    3    0    0
 ------ Nassau(12089)    1    0    0
------- Polk(12105)    2    0    0
+------ Polk(12105)    4    0    0
 ------ Santa Rosa(12113)    2    1    0
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    4    1    0
------- Sumter(12119)    1    0    0
+------ Sumter(12119)    2    0    0
 ------ Walton(12131)    1    0    0
 ------ St Johns(12109)    4    0    0
 ------ Hernando(12053)    4    0    0
@@ -806,7 +806,7 @@
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
----- TX    284    5    0
+---- TX    294    5    0
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    23    0    0
 ------ Harris(48201)    30    1    0
@@ -958,7 +958,7 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    2    0    0
----- VA    99    2    1
+---- VA    102    2    1
 ------ Arlington(51013)    17    0    0
 ------ Fairfax(51059)    16    0    0
 ------ Loudoun(51107)    5    0    0
@@ -974,7 +974,9 @@
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    14    1    0
 ------ Albemarle(51003)    1    0    0
----- NC    124    0    0
+------ Gloucester(51073)    1    0    0
+------ Roanoke(51161)    1    0    0
+---- NC    128    0    0
 ------ Wake(37183)    22    0    0
 ------ Durham(37063)    32    0    0
 ------ Mecklenburg(37119)    30    0    0
@@ -996,13 +998,15 @@
 ------ Wilson(37195)    2    0    0
 ------ Gaston(37071)    1    0    0
 ------ New Hanover(37129)    1    0    0
------- Union(37179)    1    0    0
+------ Union(37179)    2    0    0
 ------ Moore(37125)    1    0    0
 ------ Buncombe(37021)    1    0    0
 ------ Hoke(37093)    1    0    0
 ------ Pitt(37147)    1    0    0
 ------ Davidson(37057)    1    0    0
 ------ Rowan(37159)    1    0    0
+------ Cumberland(37051)    2    0    0
+------ Pasquotank(37139)    1    0    0
 ---- MI    338    3    0
 ------ Oakland(26125)    105    1    0
 ------ Wayne(26163)    44    2    0
@@ -1155,7 +1159,7 @@
 ------ Dubuque(19061)    1    0    0
 ------ Muscatine(19139)    1    0    0
 ---- KY    37    2    2
------- Jefferson(21111)    8    0    0
+------ Jefferson(21111)    8    1    0
 ------ Fayette(21067)    8    0    0
 ------ Harrison(21097)    6    0    0
 ------ Montgomery(21173)    2    0    0
@@ -1262,10 +1266,10 @@
 ------ Linn(20107)    1    0    0
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
----- VT    22    0    0
+---- VT    22    2    0
 ------ Chittenden(50007)    4    0    0
 ------ Bennington(50003)    3    0    0
------- Windsor(50027)    3    0    0
+------ Windsor(50027)    3    1    0
 ------ Orange(50017)    1    0    0
 ------ Washington(50023)    1    0    0
 ------ Addison(50001)    1    0    0
@@ -1276,8 +1280,8 @@
 ---- MO    87    1    0
 ------ Greene(29077)    6    0    0
 ------ Cass(29037)    2    0    0
------- Boone(29019)    1    1    0
------- Cole(29051)    1    0    0
+------ Boone(29019)    3    1    0
+------ Cole(29051)    2    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    3    0    0
 ------ St Louis(29189)    5    0    0
@@ -1285,7 +1289,7 @@
 ------ St Louis City(29510)    8    0    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    0    0
----- HI    22    0    0
+---- HI    26    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
@@ -1316,11 +1320,11 @@
 ------ Teton(16081)    1    0    0
 ------ Twin Falls(16083)    1    0    0
 ------ Kootenai(16055)    1    0    0
----- ND    18    0    0
------- Burleigh(38015)    9    0    0
------- Ward(38101)    2    0    0
+---- ND    19    0    0
+------ Burleigh(38015)    11    0    0
+------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
------- Morton(38059)    3    0    0
+------ Morton(38059)    4    0    0
 ---- AK    9    0    0
 ------ Fairbanks North Star(02090)    3    0    0
 ------ Anchorage(02020)    4    0    0
@@ -1454,7 +1458,7 @@
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
 -- Portugal    786    4    4
--- Australia    756    6    46
+-- Australia    756    7    46
 ---- New South Wales    267    5    4
 ---- Victoria    121    0    8
 ---- Queensland    94    0    8
@@ -1465,7 +1469,7 @@
 ---- Australian Capital Territory    3    0    0
 -- Czechia    694    0    3
 -- Israel    677    0    14
--- Brazil    635    7    2
+-- Brazil    640    7    2
 -- Ireland    557    3    5
 -- Greece    464    6    19
 -- Qatar    460    0    10
@@ -1499,10 +1503,10 @@
 -- San Marino    144    14    4
 -- United Arab Emirates    140    0    31
 -- Panama    137    1    1
+-- Argentina    128    3    3
 -- Slovakia    124    1    0
 -- Armenia    122    0    1
 -- Mexico    118    1    4
--- Argentina    111    3    3
 -- Croatia    110    1    5
 -- Colombia    108    0    1
 -- Taiwan    108    1    26
@@ -1555,10 +1559,10 @@
 -- Jamaica    15    1    2
 -- Cameroon    13    0    0
 -- Maldives    13    0    0
+-- Paraguay    13    0    0
 -- Montenegro    13    0    0
 -- Honduras    12    0    0
 -- Guam    12    0    0
--- Paraguay    11    0    0
 -- Cuba    11    1    0
 -- Guyana    11    1    0
 -- Ghana    11    0    0
