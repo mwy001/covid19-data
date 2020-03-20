@@ -485,7 +485,7 @@
 ---- Liguria    1059    91    85
 ---- Veneto    3484    115    200
 ---- Bolzano    436    14    1
--- Spain    20412    1041    1588
+-- Spain    20412    1043    1588
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -555,10 +555,10 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    16489    223    129
----- NY    7239    38    0
+-- United States of America    16491    224    129
+---- NY    7239    39    0
 ------ Westchester(36119)    1091    0    0
------- Nassau(36059)    754    3    0
+------ Nassau(36059)    754    4    0
 ------ Suffolk(36103)    371    3    0
 ------ Albany(36001)    61    0    0
 ------ Rockland(36087)    101    1    0
@@ -840,7 +840,7 @@
 ------ Glynn(13127)    2    0    0
 ------ Laurens(13175)    2    0    0
 ------ Bibb(13021)    1    0    0
------- Muscogee(13215)    1    0    0
+------ Muscogee(13215)    2    0    0
 ------ Peach(13225)    1    0    0
 ------ Effingham(13103)    1    0    0
 ------ DeKalb(13089)    22    0    0
@@ -848,6 +848,11 @@
 ------ Chatham(13051)    1    0    0
 ------ Miller(13201)    1    0    0
 ------ Tift(13277)    1    0    0
+------ Oconee(13219)    2    0    0
+------ Worth(13321)    2    0    0
+------ Dawson(13085)    1    0    0
+------ Heard(13149)    1    0    0
+------ Turner(13287)    1    0    0
 ---- TX    342    5    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
@@ -1019,14 +1024,14 @@
 ------ Fairfax(51059)    16    0    0
 ------ Loudoun(51107)    9    0    0
 ------ Chesterfield(51041)    6    0    0
------- Prince William(51153)    11    0    0
+------ Prince William(51153)    12    0    0
 ------ Henrico(51087)    3    0    0
 ------ Goochland(51075)    1    0    0
 ------ Hanover(51085)    1    0    0
 ------ Prince Edward(51147)    1    0    0
 ------ Spotsylvania(51177)    1    0    0
 ------ Stafford(51179)    2    0    0
------- York(51199)    1    1    0
+------ York(51199)    3    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    19    1    0
 ------ Albemarle(51003)    1    0    0
@@ -1035,7 +1040,7 @@
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    3    0    0
 ------ Accomack(51001)    1    0    0
----- NC    155    0    0
+---- NC    159    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
 ------ Mecklenburg(37119)    43    0    0
@@ -1050,7 +1055,7 @@
 ------ Iredell(37097)    2    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    1    0    0
------- Orange(37135)    1    0    0
+------ Orange(37135)    4    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    2    0    0
@@ -1156,9 +1161,9 @@
 ------ Lee(45061)    1    1    0
 ------ Abbeville(45001)    1    0    0
 ------ Saluda(45081)    1    0    0
----- AL    78    0    0
------- Jefferson(01073)    34    0    0
------- Shelby(01117)    9    0    0
+---- AL    81    0    0
+------ Jefferson(01073)    36    0    0
+------ Shelby(01117)    10    0    0
 ------ Lee(01081)    10    0    0
 ------ Tuscaloosa(01125)    4    0    0
 ------ Elmore(01051)    5    0    0
@@ -1375,6 +1380,7 @@
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    0    0
 ------ Scott(29201)    1    0    0
+------ Dunklin(29069)    1    0    0
 ---- HI    26    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -1474,7 +1480,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    5164    54    15
+-- Switzerland    5365    56    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1490,7 +1496,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1908    7    1
+-- Norway    1914    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1537,11 +1543,11 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Canada    925    13    12
+-- Canada    943    13    12
 ---- British Columbia    271    8    4
 ---- Ontario    308    2    5
 ---- Alberta    146    1    0
----- Quebec    121    1    0
+---- Quebec    139    1    0
 ---- New Brunswick    11    0    0
 ---- Manitoba    17    0    0
 ---- Saskatchewan    20    0    0
@@ -1576,17 +1582,17 @@
 -- Indonesia    369    32    17
 -- Ecuador    367    5    3
 -- Turkey    359    4    0
+-- Saudi Arabia    344    0    8
 -- Slovenia    341    1    0
 -- Thailand    322    1    42
 -- Romania    308    0    31
 -- Bahrain    291    1    112
 -- Estonia    283    0    1
--- Saudi Arabia    274    0    8
 -- Egypt    256    7    42
 -- Hong Kong    256    4    98
 -- Russian Federation    253    1    12
 -- India    249    5    23
--- Peru    234    3    1
+-- Peru    234    4    1
 -- Philippines    230    19    8
 -- South Africa    202    0    0
 -- Iraq    192    13    49
@@ -1599,7 +1605,7 @@
 -- Slovakia    137    1    0
 -- Panama    137    1    1
 -- Armenia    136    0    1
--- Serbia    135    0    2
+-- Serbia    135    1    2
 -- Taiwan    135    2    28
 -- Bulgaria    129    3    1
 -- Croatia    128    1    5
@@ -1610,6 +1616,7 @@
 -- Algeria    90    11    32
 -- Costa Rica    89    2    0
 -- Hungary    85    3    7
+-- Bosnia and Herzegovina    83    0    2
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Andorra    75    0    1
@@ -1622,13 +1629,12 @@
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
--- Bosnia and Herzegovina    69    0    2
 -- Moldova, Republic of    66    1    1
 -- Malta    64    0    2
+-- Lithuania    63    0    1
 -- Tunisia    54    1    1
 -- Kazakhstan    52    3    0
 -- Cambodia    51    0    1
--- Lithuania    51    0    1
 -- Oman    48    0    13
 -- Palestine    48    0    17
 -- Guadeloupe    45    0    0
@@ -1654,11 +1660,12 @@
 -- Ghana    16    0    8
 -- French Guiana    15    0    0
 -- Guyana    15    1    0
+-- Puerto Rico    14    0    0
 -- Guam    14    0    0
 -- Congo, Democratic Republic of the    14    0    0
+-- Montenegro    14    0    0
 -- Maldives    13    0    0
 -- Paraguay    13    0    0
--- Montenegro    13    0    0
 -- Guatemala    12    1    0
 -- Mauritius    12    0    0
 -- Monaco    11    0    0
@@ -1669,7 +1676,6 @@
 -- Côte d'Ivoire    9    0    1
 -- Ethiopia    9    0    0
 -- Trinidad and Tobago    9    0    0
--- Puerto Rico    8    0    0
 -- Kenya    7    0    0
 -- Seychelles    7    0    0
 -- Mongolia    6    0    0
