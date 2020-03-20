@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    19711    59    180
+-- Germany    19848    59    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -555,8 +555,8 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    16638    225    129
----- NY    7245    39    0
+-- United States of America    16834    230    129
+---- NY    7246    39    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
 ------ Suffolk(36103)    371    3    0
@@ -573,7 +573,7 @@
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Onondaga(36067)    13    0    0
------- Putnam(36079)    5    0    0
+------ Putnam(36079)    6    0    0
 ------ Broome(36007)    2    0    0
 ------ Clinton(36019)    2    0    0
 ------ Delaware(36025)    1    0    0
@@ -625,18 +625,18 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1085    19    6
+---- CA    1095    21    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    100    1    0
 ------ San Diego(06073)    105    0    0
 ------ San Francisco(06075)    76    0    0
 ------ Sacramento(06067)    45    3    0
------- Contra Costa(06013)    42    0    0
+------ Contra Costa(06013)    42    1    0
 ------ Orange(06059)    53    0    0
------- Alameda(06001)    38    0    0
------- Riverside(06065)    22    3    0
------- San Joaquin(06077)    17    2    0
+------ Alameda(06001)    45    0    0
+------ Riverside(06065)    22    4    0
+------ San Joaquin(06077)    20    2    0
 ------ Santa Cruz(06087)    14    0    0
 ------ Marin(06041)    25    0    0
 ------ Ventura(06111)    17    0    0
@@ -663,25 +663,25 @@
 ------ Shasta(06089)    1    0    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    1    0    0
----- NJ    824    9    1
------- Bergen(34003)    195    2    0
------- Essex(34013)    63    1    0
------- Hudson(34017)    55    1    0
------- Middlesex(34023)    64    0    0
------- Monmouth(34025)    43    1    0
------- Union(34039)    29    0    0
------- Passaic(34031)    38    0    0
------- Mercer(34021)    20    0    0
------- Morris(34027)    26    0    0
------- Somerset(34035)    21    0    0
------- Burlington(34005)    14    0    0
------- Hunterdon(34019)    8    0    0
------- Ocean(34029)    33    0    0
+---- NJ    890    11    1
+------ Bergen(34003)    249    2    0
+------ Essex(34013)    73    1    0
+------ Hudson(34017)    66    1    0
+------ Middlesex(34023)    76    0    0
+------ Monmouth(34025)    53    1    0
+------ Union(34039)    43    0    0
+------ Passaic(34031)    49    0    0
+------ Mercer(34021)    22    0    0
+------ Morris(34027)    35    0    0
+------ Somerset(34035)    28    0    0
+------ Burlington(34005)    17    0    0
+------ Hunterdon(34019)    11    0    0
+------ Ocean(34029)    49    0    0
 ------ Camden(34007)    13    0    0
 ------ Gloucester(34015)    3    0    0
 ------ Atlantic(34001)    3    0    0
 ------ Warren(34041)    3    0    0
------- Sussex(34037)    2    0    0
+------ Sussex(34037)    3    0    0
 ------ Cape May(34009)    1    0    0
 ------ Cumberland(34011)    1    0    0
 ---- MA    328    0    1
@@ -857,7 +857,7 @@
 ------ Douglas(13097)    1    0    0
 ------ Monroe(13207)    1    0    0
 ------ Randolph(13243)    1    0    0
----- TX    352    5    8
+---- TX    353    5    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    36    1    0
@@ -904,8 +904,10 @@
 ------ McLennan(48309)    7    0    0
 ------ DeWitt(48123)    1    0    0
 ------ Hockley(48219)    1    0    0
----- PA    272    1    0
------- Montgomery(42091)    59    0    0
+------ Milam(48331)    1    0    0
+------ Kendall(48259)    1    0    0
+---- PA    281    1    0
+------ Montgomery(42091)    68    0    0
 ------ Philadelphia(42101)    44    0    0
 ------ Allegheny(42003)    28    0    0
 ------ Cumberland(42041)    11    0    0
@@ -987,7 +989,7 @@
 ------ Middlesex(09007)    3    0    0
 ------ Tolland(09013)    4    0    0
 ------ Windham(09015)    2    0    0
----- OH    169    1    0
+---- OH    178    2    0
 ------ Cuyahoga(39035)    69    0    0
 ------ Butler(39017)    12    0    0
 ------ Franklin(39049)    14    0    0
@@ -1009,13 +1011,14 @@
 ------ Delaware(39041)    2    0    0
 ------ Montgomery(39113)    1    0    0
 ------ Hamilton(39061)    7    0    0
------- Miami(39109)    1    0    0
+------ Miami(39109)    2    1    0
 ------ Richland(39139)    1    0    0
 ------ Clark(39023)    1    0    0
 ------ Warren(39165)    2    0    0
 ------ Ashtabula(39007)    1    0    0
 ------ Marion(39101)    1    0    0
 ------ Union(39159)    1    0    0
+------ Licking(39089)    1    0    0
 ---- OR    88    3    0
 ------ Washington(41067)    25    1    0
 ------ Linn(41043)    18    0    0
@@ -1088,6 +1091,8 @@
 ------ Franklin(37069)    4    0    0
 ------ Catawba(37035)    1    0    0
 ------ Lee(37105)    1    0    0
+------ Chowan(37041)    1    0    0
+------ Cleveland(37045)    1    0    0
 ---- MI    338    3    0
 ------ Oakland(26125)    105    1    0
 ------ Wayne(26163)    44    2    0
@@ -1162,10 +1167,10 @@
 ------ Utah(49049)    3    0    0
 ------ Cache(49005)    2    0    0
 ------ Box Elder(49003)    1    0    0
----- SC    81    3    0
+---- SC    82    3    0
 ------ Kershaw(45055)    29    0    0
 ------ Beaufort(45013)    7    0    0
------- Horry(45051)    6    0    0
+------ Horry(45051)    7    0    0
 ------ Charleston(45019)    6    0    0
 ------ Lexington(45063)    5    1    0
 ------ Anderson(45007)    3    0    0
@@ -1180,7 +1185,7 @@
 ------ Lee(45061)    1    1    0
 ------ Abbeville(45001)    1    0    0
 ------ Saluda(45081)    1    0    0
----- AL    81    0    0
+---- AL    83    0    0
 ------ Jefferson(01073)    36    0    0
 ------ Shelby(01117)    10    0    0
 ------ Lee(01081)    10    0    0
@@ -1195,7 +1200,7 @@
 ------ Chambers(01017)    1    0    0
 ------ Talladega(01121)    1    0    0
 ------ Walker(01127)    1    0    0
------- Mobile(01097)    1    0    0
+------ Mobile(01097)    3    0    0
 ---- ME    56    0    0
 ------ Cumberland(23005)    35    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1373,9 +1378,9 @@
 ------ Washington(40147)    1    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    1    0    0
----- KS    38    1    0
------- Johnson(20091)    16    0    0
------- Wyandotte(20209)    8    1    0
+---- KS    46    1    0
+------ Johnson(20091)    23    0    0
+------ Wyandotte(20209)    9    1    0
 ------ Butler(20015)    2    0    0
 ------ Douglas(20045)    1    0    0
 ------ Ford(20057)    1    0    0
@@ -1401,7 +1406,7 @@
 ---- MO    87    1    0
 ------ Greene(29077)    6    0    0
 ------ Cass(29037)    4    0    0
------- Boone(29019)    3    1    0
+------ Boone(29019)    8    1    0
 ------ Cole(29051)    2    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    3    0    0
@@ -1512,7 +1517,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    5369    56    15
+-- Switzerland    5381    56    15
 -- United Kingdom of Great Britain and Northern Ireland    3983    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1651,9 +1656,9 @@
 -- Bosnia and Herzegovina    84    0    2
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
+-- Morocco    77    3    2
 -- Andorra    75    0    1
 -- Cyprus    75    0    0
--- Morocco    74    3    2
 -- Sri Lanka    73    0    3
 -- Dominican Republic    72    2    0
 -- North Macedonia    70    0    1
