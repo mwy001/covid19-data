@@ -485,7 +485,7 @@
 ---- Liguria    1221    119    101
 ---- Veneto    4031    131    223
 ---- Bolzano    548    17    1
--- Spain    20412    1050    1588
+-- Spain    20412    1052    1588
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -555,7 +555,7 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    18737    236    129
+-- United States of America    18755    237    129
 ---- NY    8307    42    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -857,7 +857,7 @@
 ------ Douglas(13097)    1    0    0
 ------ Monroe(13207)    1    0    0
 ------ Randolph(13243)    1    0    0
----- TX    366    5    8
+---- TX    366    6    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    36    1    0
@@ -956,7 +956,7 @@
 ------ Columbia(55021)    5    0    0
 ------ Sauk(55111)    2    0    0
 ------ Dunn(55033)    1    0    0
------- St Croix(55109)    1    0    0
+------ St Croix(55109)    2    0    0
 ------ Rock(55105)    2    0    0
 ------ Fond du Lac(55039)    14    1    0
 ------ Chippewa(55017)    1    0    0
@@ -964,7 +964,7 @@
 ------ Marathon(55073)    1    0    0
 ------ Douglas(55031)    1    0    0
 ------ Green(55045)    1    0    0
----- TN    232    0    0
+---- TN    233    0    0
 ------ Davidson(47037)    101    0    0
 ------ Williamson(47187)    35    0    0
 ------ Shelby(47157)    10    0    0
@@ -1176,7 +1176,7 @@
 ------ Washoe(32031)    14    0    0
 ------ Carson City(32510)    1    0    0
 ------ Elko(32007)    1    0    0
----- UT    93    0    0
+---- UT    112    0    0
 ------ Salt Lake(49035)    44    0    0
 ------ Summit(49043)    26    0    0
 ------ Davis(49011)    6    0    0
@@ -1553,7 +1553,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1932    7    1
+-- Norway    1948    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1600,7 +1600,7 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Canada    945    13    12
+-- Canada    951    13    12
 ---- British Columbia    271    8    4
 ---- Ontario    308    2    5
 ---- Alberta    146    1    0
@@ -1613,6 +1613,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
+-- Brazil    904    11    2
 -- Australia    876    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
@@ -1623,10 +1624,9 @@
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    4    0    0
 -- Czechia    833    0    4
--- Brazil    819    11    2
 -- Israel    705    1    15
 -- Ireland    683    3    5
--- Turkey    670    4    0
+-- Turkey    670    9    0
 -- Luxembourg    618    5    6
 -- Pakistan    501    3    13
 -- Greece    495    10    19
@@ -1658,7 +1658,7 @@
 -- Kuwait    159    0    22
 -- Colombia    145    0    1
 -- San Marino    144    14    4
--- United Arab Emirates    140    0    31
+-- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
 -- Panama    137    1    1
 -- Armenia    136    0    1
@@ -1678,12 +1678,12 @@
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Morocco    77    3    2
+-- North Macedonia    76    0    1
 -- Andorra    75    0    1
 -- Cyprus    75    0    0
 -- Sri Lanka    73    0    3
 -- Dominican Republic    72    2    0
--- North Macedonia    70    0    1
--- Albania    70    2    0
+-- Albania    70    2    2
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Moldova, Republic of    66    1    1
@@ -1698,9 +1698,9 @@
 -- Georgia    44    0    1
 -- Azerbaijan    44    1    7
 -- Venezuela, Bolivarian Republic of    42    0    0
+-- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
 -- New Zealand    39    0    0
--- Ukraine    39    3    1
 -- Senegal    38    0    2
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
@@ -1722,7 +1722,7 @@
 -- Guam    14    0    0
 -- Congo, Democratic Republic of the    14    0    0
 -- Montenegro    14    0    0
--- Maldives    13    0    0
+-- Maldives    13    0    2
 -- Paraguay    13    0    0
 -- Guatemala    12    1    0
 -- Mauritius    12    0    0
@@ -1787,3 +1787,4 @@
 -- Angola    1    0    0
 -- Papua New Guinea    1    0    0
 -- Cabo Verde    1    0    0
+-- Zimbabwe    1    0    0
