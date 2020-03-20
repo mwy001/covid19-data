@@ -535,23 +535,23 @@
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Germany    15320    44    115
----- Saxony    296    0    0
----- Mecklenburg-Vorpommern    100    0    0
----- Free State of Bavaria    1798    5    14
----- Berlin    519    0    6
----- Brandenburg    171    0    1
----- Thuringia    114    0    1
----- Schleswig-Holstein    196    0    0
----- Lower Saxony    740    0    1
----- Bremen    75    0    3
----- Hamburg    414    1    1
----- Rhineland-Palatinate    603    0    1
----- North Rhine-Westphalia    4268    13    67
----- Hesse    547    1    2
----- Baden-Württemberg    2184    8    14
----- Saxony-Anhalt    133    0    0
----- Saarland    169    0    0
--- United States of America    14267    218    121
+---- Saxony    389    0    0
+---- Mecklenburg-Vorpommern    133    0    0
+---- Free State of Bavaria    2282    13    14
+---- Berlin    688    0    6
+---- Brandenburg    204    0    1
+---- Thuringia    166    0    2
+---- Schleswig-Holstein    253    1    0
+---- Lower Saxony    981    0    1
+---- Bremen    119    0    3
+---- Hamburg    506    1    1
+---- Rhineland-Palatinate    749    0    1
+---- North Rhine-Westphalia    4971    17    75
+---- Hesse    740    1    3
+---- Baden-Württemberg    2748    11    14
+---- Saxony-Anhalt    174    0    0
+---- Saarland    217    0    0
+-- United States of America    14299    218    121
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -562,7 +562,7 @@
 ------ Orange(36071)    51    0    0
 ------ Monroe(36055)    30    1    0
 ------ Erie(36029)    28    0    0
------- Saratoga(36091)    18    0    0
+------ Saratoga(36091)    21    0    0
 ------ Ulster(36111)    10    0    0
 ------ Schenectady(36093)    18    0    0
 ------ Tompkins(36109)    6    0    0
@@ -619,11 +619,11 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    1    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1021    19    6
+---- CA    1047    19    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    89    1    0
------- San Diego(06073)    80    0    0
+------ San Diego(06073)    105    0    0
 ------ San Francisco(06075)    70    0    0
 ------ Sacramento(06067)    45    3    0
 ------ Contra Costa(06013)    42    0    0
@@ -651,7 +651,7 @@
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    1    0    0
------- Kern(06029)    3    0    0
+------ Kern(06029)    4    0    0
 ------ Madera(06039)    1    0    0
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
@@ -806,7 +806,7 @@
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
----- TX    310    5    0
+---- TX    312    5    0
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    30    1    0
@@ -845,6 +845,7 @@
 ------ Houston(48225)    10    0    0
 ------ Van Zandt(48467)    1    0    0
 ------ Crane(48103)    1    0    0
+------ Lamar(48277)    1    0    0
 ---- PA    207    1    0
 ------ Montgomery(42091)    55    0    0
 ------ Philadelphia(42101)    44    0    0
@@ -920,7 +921,7 @@
 ------ Middlesex(09007)    3    0    0
 ------ Tolland(09013)    4    0    0
 ------ Windham(09015)    2    0    0
----- OH    119    1    0
+---- OH    120    1    0
 ------ Cuyahoga(39035)    53    0    0
 ------ Butler(39017)    8    0    0
 ------ Franklin(39049)    10    0    0
@@ -941,7 +942,7 @@
 ------ Ashland(39005)    1    0    0
 ------ Delaware(39041)    2    0    0
 ------ Montgomery(39113)    1    0    0
------- Hamilton(39061)    1    0    0
+------ Hamilton(39061)    2    0    0
 ------ Miami(39109)    1    0    0
 ------ Richland(39139)    1    0    0
 ------ Clark(39023)    1    0    0
@@ -979,10 +980,10 @@
 ------ Gloucester(51073)    1    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
----- NC    137    0    0
+---- NC    138    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
------- Mecklenburg(37119)    30    0    0
+------ Mecklenburg(37119)    31    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    6    0    0
 ------ Forsyth(37067)    5    0    0
@@ -1334,9 +1335,10 @@
 ------ Fairbanks North Star(02090)    3    0    0
 ------ Anchorage(02020)    4    0    0
 ------ Ketchikan Gateway(02130)    1    0    0
----- WV    2    0    0
+---- WV    4    0    0
 ------ Jefferson(54037)    1    0    0
 ------ Mercer(54055)    1    0    0
+------ Tucker(54093)    2    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    22    1    0
 ---- Others    23    0    0
@@ -1367,38 +1369,38 @@
 ---- French Polynesia    6    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    6    0    0
----- Reunion    12    0    0
+---- Reunion    14    0    0
 -- Korea, Republic of    8652    94    2233
----- Busan    107    1    58
+---- Busan    108    1    60
 ---- Chungcheongbuk-do    33    0    6
----- Chungcheongnam-do    118    0    31
----- Daegu    6241    65    1382
----- Daejeon    22    0    4
----- Gangwon-do    30    1    9
----- Gwangju    17    0    7
----- Gyeonggi-do    295    3    64
----- Gyeongsangbuk-do    1190    21    275
----- Gyeongsangnam-do    86    0    29
----- Incheon    32    0    6
+---- Chungcheongnam-do    119    0    32
+---- Daegu    6275    67    1577
+---- Daejeon    22    0    5
+---- Gangwon-do    30    1    10
+---- Gwangju    18    0    10
+---- Gyeonggi-do    309    3    66
+---- Gyeongsangbuk-do    1203    22    340
+---- Gyeongsangnam-do    87    0    33
+---- Incheon    36    0    7
 ---- Jeju-do    4    0    2
----- Jeollabuk-do    10    0    5
+---- Jeollabuk-do    10    0    7
 ---- Jeollanam-do    5    0    3
 ---- Sejong    41    0    0
----- Seoul    282    0    58
----- Ulsan    36    0    9
----- 未确定地区    16    0    0
+---- Seoul    299    0    64
+---- Ulsan    36    0    11
+---- 未确定地区    17    0    0
 -- Switzerland    4222    43    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    144    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    2182    48    0
----- Northern Ireland    68    0    0
----- Wales    149    0    0
----- Scotland    227    10    0
+---- England    2756    128    0
+---- Northern Ireland    77    1    0
+---- Wales    170    2    0
+---- Scotland    266    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    2465    77    2
+-- Netherlands    2467    77    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    2179    7    9
@@ -1483,7 +1485,7 @@
 -- Turkey    359    4    0
 -- Poland    357    5    13
 -- Singapore    345    0    124
----- Central Singapore Community Development Council    200    0    97
+---- Central Singapore Community Development Council    345    0    124
 -- Chile    342    0    0
 -- Luxembourg    335    4    6
 -- Iceland    330    5    8
