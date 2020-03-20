@@ -1446,7 +1446,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    4222    43    15
+-- Switzerland    4898    43    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    144    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1502,7 +1502,7 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Norway    1802    7    1
+-- Norway    1808    7    1
 -- Sweden    1456    11    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
@@ -1536,9 +1536,9 @@
 -- Brazil    647    7    2
 -- Luxembourg    618    4    6
 -- Ireland    557    3    5
+-- Pakistan    467    3    13
 -- Greece    464    6    19
 -- Qatar    460    0    10
--- Pakistan    456    3    13
 -- Finland    430    0    10
 -- Iceland    409    5    8
 -- Singapore    385    0    124
@@ -1558,7 +1558,7 @@
 -- Hong Kong    256    4    98
 -- Peru    234    3    1
 -- Philippines    230    19    8
--- India    206    5    20
+-- India    223    5    23
 -- South Africa    202    0    0
 -- Russian Federation    199    1    9
 -- Iraq    192    13    49
@@ -1584,7 +1584,8 @@
 -- Hungary    85    3    7
 -- Faroe Islands    80    0    3
 -- Andorra    75    0    1
--- Brunei Darussalam    75    0    0
+-- Brunei Darussalam    75    0    1
+-- Albania    70    2    0
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
@@ -1594,7 +1595,6 @@
 -- Sri Lanka    66    0    3
 -- Morocco    66    3    2
 -- Malta    64    0    2
--- Albania    64    2    0
 -- Tunisia    54    1    1
 -- Moldova, Republic of    49    1    1
 -- Kazakhstan    49    3    0
@@ -1630,6 +1630,7 @@
 -- Maldives    13    0    0
 -- Paraguay    13    0    0
 -- Montenegro    13    0    0
+-- Mauritius    12    0    0
 -- Monaco    11    0    0
 -- Guyana    11    1    0
 -- French Polynesia    11    0    0
@@ -1642,7 +1643,6 @@
 -- Trinidad and Tobago    9    0    0
 -- Puerto Rico    8    0    0
 -- Kenya    7    0    0
--- Mauritius    7    0    0
 -- Mongolia    6    0    0
 -- Seychelles    6    0    0
 -- Equatorial Guinea    6    0    0
