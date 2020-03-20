@@ -1415,7 +1415,7 @@
 -- Netherlands    2467    77    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2179    7    9
+-- Austria    2196    7    9
 -- Japan    1848    33    191
 ---- Hokkaido    157    6    66
 ---- kochi    12    0    0
@@ -1533,7 +1533,7 @@
 -- Serbia    103    0    1
 -- Uruguay    94    0    0
 -- Algeria    90    9    32
--- Costa Rica    87    1    0
+-- Costa Rica    89    1    0
 -- Latvia    86    0    1
 -- Viet Nam    85    0    16
 -- Brunei Darussalam    75    0    0
@@ -1590,9 +1590,9 @@
 -- Monaco    10    0    0
 -- Gibraltar    10    0    2
 -- Côte d'Ivoire    9    0    1
+-- Ethiopia    9    0    0
 -- Guatemala    9    1    0
 -- Trinidad and Tobago    9    0    0
--- Ethiopia    7    0    0
 -- Kenya    7    0    0
 -- Mauritius    7    0    0
 -- Mongolia    6    0    0
@@ -1601,6 +1601,7 @@
 -- Seychelles    6    0    0
 -- Equatorial Guinea    6    0    0
 -- Tanzania, United Republic of    6    0    0
+-- Kyrgyzstan    6    0    0
 -- Aruba    5    0    1
 -- Barbados    5    0    0
 -- Mayotte    4    0    0
@@ -1613,7 +1614,6 @@
 -- Virgin Islands, U.S.    3    0    0
 -- Curaçao    3    1    0
 -- Bahamas    3    0    0
--- Kyrgyzstan    3    0    0
 -- Mauritania    2    0    0
 -- Saint Lucia    2    0    0
 -- Sudan    2    1    0
