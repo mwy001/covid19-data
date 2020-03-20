@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14299    218    121
+-- United States of America    14316    218    121
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -806,16 +806,16 @@
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
----- TX    312    5    0
+---- TX    320    5    0
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    41    0    0
------- Harris(48201)    30    1    0
+------ Harris(48201)    34    1    0
 ------ Bexar(48029)    29    0    0
 ------ Fort Bend(48157)    19    0    0
 ------ Collin(48085)    18    1    0
 ------ Tarrant(48439)    19    1    0
 ------ Smith(48423)    5    0    0
------- Montgomery(48339)    7    0    0
+------ Montgomery(48339)    9    0    0
 ------ Bell(48027)    6    0    0
 ------ El Paso(48141)    6    0    0
 ------ Hays(48209)    5    0    0
@@ -846,6 +846,7 @@
 ------ Van Zandt(48467)    1    0    0
 ------ Crane(48103)    1    0    0
 ------ Lamar(48277)    1    0    0
+------ Midland(48329)    1    0    0
 ---- PA    207    1    0
 ------ Montgomery(42091)    55    0    0
 ------ Philadelphia(42101)    44    0    0
@@ -1185,7 +1186,7 @@
 ------ Carroll(33003)    4    0    0
 ------ Belknap(33001)    3    0    0
 ------ Merrimack(33013)    1    0    0
----- NE    29    0    0
+---- NE    30    0    0
 ------ Douglas(31055)    23    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
@@ -1259,7 +1260,7 @@
 ------ Logan(40083)    1    0    0
 ------ Stephens(40137)    1    0    0
 ------ Washington(40147)    1    0    0
----- KS    37    1    0
+---- KS    38    1    0
 ------ Johnson(20091)    16    0    0
 ------ Wyandotte(20209)    8    1    0
 ------ Butler(20015)    2    0    0
@@ -1272,6 +1273,7 @@
 ------ Linn(20107)    1    0    0
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
+------ Sedgwick(20173)    1    0    0
 ---- VT    22    2    0
 ------ Chittenden(50007)    4    0    0
 ------ Bennington(50003)    3    0    0
@@ -1313,12 +1315,13 @@
 ------ Laramie(56021)    4    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    1    0    0
----- MT    12    0    0
+---- MT    15    0    0
 ------ Missoula(30063)    3    0    0
------- Yellowstone(30111)    2    0    0
+------ Yellowstone(30111)    5    0    0
 ------ Broadwater(30007)    1    0    0
 ------ Gallatin(30031)    3    0    0
 ------ Silver Bow(30093)    1    0    0
+------ Roosevelt(30085)    1    0    0
 ---- ID    23    0    0
 ------ Ada(16001)    3    0    0
 ------ Blaine(16013)    16    0    0
@@ -1331,20 +1334,22 @@
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
 ------ Morton(38059)    4    0    0
----- AK    9    0    0
------- Fairbanks North Star(02090)    3    0    0
+---- AK    12    0    0
+------ Fairbanks North Star(02090)    5    0    0
 ------ Anchorage(02020)    4    0    0
------- Ketchikan Gateway(02130)    1    0    0
----- WV    4    0    0
+------ Ketchikan Gateway(02130)    2    0    0
+---- WV    5    0    0
 ------ Jefferson(54037)    1    0    0
 ------ Mercer(54055)    1    0    0
 ------ Tucker(54093)    2    0    0
+------ Monongalia(54061)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    47    0    0
 ---- Grand Princess Cruise Ship    22    1    0
 ---- Others    23    0    0
 ---- GU    12    0    0
 ---- PR    5    0    0
 ---- VI    3    0    0
+---- Wuhan Evacuee    3    0    0
 -- France    10995    372    1295
 ---- France    7652    148    12
 ---- St Martin    4    0    0
@@ -1452,15 +1457,15 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    900    2    75
 -- Canada    873    13    12
----- British Columbia    231    7    4
+---- British Columbia    271    8    4
 ---- Ontario    257    2    5
----- Alberta    119    0    0
+---- Alberta    146    1    0
 ---- Quebec    121    1    0
 ---- New Brunswick    11    0    0
 ---- Manitoba    17    0    0
----- Saskatchewan    16    0    0
+---- Saskatchewan    20    0    0
 ---- Grand Princess    8    0    0
----- Grand Princess Cruise Ship    9    0    0
+---- Grand Princess Cruise Ship    10    0    0
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
