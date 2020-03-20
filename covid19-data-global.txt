@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14365    218    129
+-- United States of America    14366    218    129
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -900,7 +900,7 @@
 ------ Dunn(55033)    1    0    0
 ------ St Croix(55109)    1    0    0
 ------ Rock(55105)    1    0    0
----- TN    154    0    0
+---- TN    155    0    0
 ------ Davidson(47037)    75    0    0
 ------ Williamson(47187)    30    0    0
 ------ Shelby(47157)    10    0    0
@@ -919,6 +919,7 @@
 ------ Montgomery(47125)    1    0    0
 ------ Wilson(47189)    1    0    0
 ------ Fayette(47047)    1    0    0
+------ Carroll(47017)    1    0    0
 ---- CT    199    3    0
 ------ Fairfield(09001)    102    3    0
 ------ New Haven(09009)    23    0    0
@@ -1538,10 +1539,10 @@
 -- Algeria    90    9    32
 -- Costa Rica    89    2    0
 -- Latvia    86    0    1
+-- Hungary    85    1    2
 -- Viet Nam    85    0    16
 -- Brunei Darussalam    75    0    0
 -- Andorra    74    0    1
--- Hungary    73    1    2
 -- Faroe Islands    72    0    1
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
