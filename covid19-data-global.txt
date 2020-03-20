@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2184    8    14
 ---- Saxony-Anhalt    133    0    0
 ---- Saarland    169    0    0
--- United States of America    13795    207    108
+-- United States of America    13801    207    108
 ---- NY    5921    34    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -1139,19 +1139,21 @@
 ------ Allen(18003)    2    0    0
 ------ Monroe(18105)    1    0    0
 ------ Vigo(18167)    1    0    0
----- IA    45    0    0
------- Johnson(19103)    21    0    0
+---- IA    50    0    0
+------ Johnson(19103)    22    0    0
 ------ Dallas(19049)    5    0    0
 ------ Allamakee(19005)    2    0    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    1    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    1    0    0
------- Polk(19153)    3    0    0
+------ Polk(19153)    6    0    0
 ------ Pottawattamie(19155)    1    0    0
 ------ Washington(19183)    1    0    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    1    0    0
+------ Dubuque(19061)    1    0    0
+------ Muscatine(19139)    1    0    0
 ---- KY    37    2    2
 ------ Jefferson(21111)    8    0    0
 ------ Fayette(21067)    8    0    0
@@ -1452,7 +1454,7 @@
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
 -- Portugal    786    4    4
--- Australia    709    6    46
+-- Australia    756    6    46
 ---- New South Wales    267    5    4
 ---- Victoria    121    0    8
 ---- Queensland    94    0    8
@@ -1496,12 +1498,12 @@
 -- Kuwait    148    0    18
 -- San Marino    144    14    4
 -- United Arab Emirates    140    0    31
+-- Panama    137    1    1
 -- Slovakia    124    1    0
 -- Armenia    122    0    1
 -- Mexico    118    1    4
 -- Argentina    111    3    3
 -- Croatia    110    1    5
--- Panama    109    1    0
 -- Colombia    108    0    1
 -- Taiwan    108    1    26
 -- Bulgaria    107    3    0
