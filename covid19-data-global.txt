@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14316    218    121
+-- United States of America    14322    218    121
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -645,7 +645,7 @@
 ------ Tulare(06107)    7    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    3    0    0
------- Imperial(06025)    2    0    0
+------ Imperial(06025)    3    0    0
 ------ Monterey(06053)    4    0    0
 ------ Santa Barbara(06083)    8    0    0
 ------ Amador(06005)    1    0    0
@@ -770,13 +770,13 @@
 ------ Washington(17189)    1    0    0
 ------ Kankakee(17091)    1    0    0
 ---- GA    287    10    0
------- Fulton(13121)    66    0    0
+------ Fulton(13121)    66    2    0
 ------ Cobb(13067)    37    1    0
 ------ Bartow(13015)    26    0    0
 ------ Cherokee(13057)    16    0    0
 ------ Gwinnett(13135)    12    0    0
------- Dougherty(13095)    20    2    0
------- Floyd(13115)    6    0    0
+------ Dougherty(13095)    21    4    0
+------ Floyd(13115)    6    1    0
 ------ Clayton(13063)    6    0    0
 ------ Fayette(13113)    10    1    0
 ------ Lowndes(13185)    8    0    0
@@ -806,10 +806,10 @@
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
----- TX    320    5    0
+---- TX    321    5    0
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    41    0    0
------- Harris(48201)    34    1    0
+------ Harris(48201)    35    1    0
 ------ Bexar(48029)    29    0    0
 ------ Fort Bend(48157)    19    0    0
 ------ Collin(48085)    18    1    0
@@ -1193,6 +1193,7 @@
 ------ Sarpy(31153)    1    0    0
 ------ Lincoln(31111)    1    0    0
 ------ Adams(31001)    1    0    0
+------ Nemaha(31127)    1    0    0
 ---- NM    35    0    0
 ------ Bernalillo(35001)    20    0    0
 ------ Santa Fe(35049)    7    0    0
@@ -1239,13 +1240,15 @@
 ------ Winston(28159)    1    0    0
 ------ Yazoo(28163)    1    0    0
 ------ Lafayette(28071)    1    0    0
----- AZ    46    0    1
+---- AZ    47    0    1
 ------ Maricopa(04013)    22    0    0
 ------ Pinal(04021)    10    0    0
 ------ Pima(04019)    7    0    0
 ------ Graham(04009)    1    0    0
 ------ Navajo(04017)    3    0    0
 ------ Coconino(04005)    2    0    0
+------ Santa Cruz(04023)    1    0    0
+------ Yavapai(04025)    1    0    0
 ---- OK    46    1    1
 ------ Oklahoma(40109)    18    0    0
 ------ Tulsa(40143)    5    1    0
@@ -1287,7 +1290,7 @@
 ------ Kent(10001)    4    0    0
 ---- MO    87    1    0
 ------ Greene(29077)    6    0    0
------- Cass(29037)    2    0    0
+------ Cass(29037)    4    0    0
 ------ Boone(29019)    3    1    0
 ------ Cole(29051)    2    0    0
 ------ Henry(29083)    1    0    0
@@ -1503,7 +1506,7 @@
 -- Estonia    267    0    1
 -- Ecuador    260    3    1
 -- Egypt    256    7    42
--- Peru    234    1    1
+-- Peru    234    3    1
 -- Philippines    217    19    8
 -- Hong Kong    208    4    98
 -- Russian Federation    199    1    9
@@ -1561,21 +1564,21 @@
 -- Liechtenstein    28    0    0
 -- Réunion    28    0    0
 -- Ukraine    26    3    0
+-- Honduras    24    0    0
 -- Martinique    23    1    0
 -- Uzbekistan    23    0    0
 -- Afghanistan    22    0    1
 -- Bangladesh    18    1    3
+-- Bolivia, Plurinational State of    17    0    0
 -- Macao    17    0    10
 -- Cuba    16    1    0
 -- French Guiana    15    0    0
--- Bolivia, Plurinational State of    15    0    0
 -- Jamaica    15    1    2
 -- Congo, Democratic Republic of the    14    0    0
 -- Cameroon    13    0    0
 -- Maldives    13    0    0
 -- Paraguay    13    0    0
 -- Montenegro    13    0    0
--- Honduras    12    0    0
 -- Guam    12    0    0
 -- Guyana    11    1    0
 -- Ghana    11    0    0
@@ -1618,6 +1621,7 @@
 -- New Caledonia    2    0    0
 -- Zambia    2    0    0
 -- Bermuda    2    0    0
+-- Haiti    2    0    0
 -- Nepal    1    0    1
 -- Bhutan    1    0    0
 -- Togo    1    0    0
