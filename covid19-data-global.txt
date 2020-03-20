@@ -463,7 +463,7 @@
 ------ 咸宁    836    15    821
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
--- Italy    41035    3405    4440
+-- Italy    47021    4032    5129
 ---- Abruzzo    385    11    8
 ---- Aosta Valley    215    6    0
 ---- Apulia    478    25    4
@@ -538,7 +538,7 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- Germany    18756    53    180
+-- Germany    18794    53    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -555,16 +555,16 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    16162    220    129
----- NY    7102    38    0
+-- United States of America    16489    223    129
+---- NY    7239    38    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    3    0
------- Suffolk(36103)    239    3    0
+------ Suffolk(36103)    371    3    0
 ------ Albany(36001)    61    0    0
 ------ Rockland(36087)    101    1    0
 ------ Dutchess(36027)    36    0    0
 ------ Orange(36071)    84    0    0
------- Monroe(36055)    32    1    0
+------ Monroe(36055)    34    1    0
 ------ Erie(36029)    31    0    0
 ------ Saratoga(36091)    21    0    0
 ------ Ulster(36111)    10    0    0
@@ -598,7 +598,8 @@
 ------ Jefferson(36045)    1    0    0
 ------ Wayne(36117)    1    0    0
 ------ Steuben(36101)    2    0    0
----- WA    1377    74    102
+------ Columbia(36021)    1    0    0
+---- WA    1378    74    102
 ------ King(53033)    693    60    0
 ------ Snohomish(53061)    348    7    0
 ------ Pierce(53053)    75    1    0
@@ -610,7 +611,7 @@
 ------ Thurston(53067)    6    0    0
 ------ Yakima(53077)    7    0    0
 ------ Clark(53011)    4    3    0
------- Spokane(53063)    9    0    0
+------ Spokane(53063)    10    0    0
 ------ Jefferson(53031)    4    0    0
 ------ Kittitas(53037)    4    0    0
 ------ Chelan(53007)    2    0    0
@@ -804,35 +805,35 @@
 ------ DuPage(17043)    54    0    0
 ------ McHenry(17111)    6    0    0
 ------ McLean(17113)    1    0    0
----- GA    288    10    0
------- Fulton(13121)    66    2    0
------- Cobb(13067)    37    1    0
------- Bartow(13015)    26    0    0
+---- GA    420    13    0
+------ Fulton(13121)    79    2    0
+------ Cobb(13067)    45    1    0
+------ Bartow(13015)    40    0    0
 ------ Cherokee(13057)    16    0    0
------- Gwinnett(13135)    12    0    0
------- Dougherty(13095)    21    4    0
+------ Gwinnett(13135)    20    0    0
+------ Dougherty(13095)    38    4    0
 ------ Floyd(13115)    6    1    0
------- Clayton(13063)    6    0    0
+------ Clayton(13063)    9    0    0
 ------ Fayette(13113)    10    1    0
 ------ Lowndes(13185)    8    0    0
------- Clarke(13059)    8    0    0
+------ Clarke(13059)    9    0    0
 ------ Coweta(13077)    3    0    0
------- Richmond(13245)    3    0    0
+------ Richmond(13245)    7    0    0
 ------ Gordon(13129)    4    0    0
------- Henry(13151)    3    0    0
------- Lee(13177)    3    0    0
+------ Henry(13151)    6    0    0
+------ Lee(13177)    8    0    0
 ------ Troup(13285)    4    0    0
 ------ Barrow(13013)    1    0    0
 ------ Charlton(13049)    1    0    0
------- Columbia(13073)    1    0    0
+------ Columbia(13073)    2    0    0
 ------ Forsyth(13117)    3    0    0
 ------ Hall(13139)    5    0    0
------- Newton(13217)    3    0    0
+------ Newton(13217)    4    0    0
 ------ Paulding(13223)    3    0    0
 ------ Polk(13233)    1    0    0
 ------ Rockdale(13247)    1    0    0
 ------ Spalding(13255)    1    0    0
------- Whitfield(13313)    1    0    0
+------ Whitfield(13313)    8    0    0
 ------ Murray(13213)    1    0    0
 ------ Houston(13153)    1    0    0
 ------ Early(13099)    3    1    0
@@ -843,8 +844,12 @@
 ------ Peach(13225)    1    0    0
 ------ Effingham(13103)    1    0    0
 ------ DeKalb(13089)    22    0    0
----- TX    327    5    8
------- Dallas(48113)    59    1    0
+------ Carroll(13045)    7    0    0
+------ Chatham(13051)    1    0    0
+------ Miller(13201)    1    0    0
+------ Tift(13277)    1    0    0
+---- TX    342    5    8
+------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    35    1    0
 ------ Bexar(48029)    29    0    0
@@ -913,7 +918,7 @@
 ------ Westmoreland(42129)    2    0    0
 ------ Adams(42001)    1    0    0
 ------ Lebanon(42075)    1    0    0
----- WI    189    4    1
+---- WI    191    4    1
 ------ Milwaukee(55079)    88    1    0
 ------ Dane(55025)    27    0    0
 ------ Kenosha(55059)    4    0    0
@@ -939,6 +944,8 @@
 ------ Rock(55105)    1    0    0
 ------ Fond du Lac(55039)    14    1    0
 ------ Chippewa(55017)    1    0    0
+------ Jefferson(55055)    1    0    0
+------ Marathon(55073)    1    0    0
 ---- TN    155    0    0
 ------ Davidson(47037)    75    0    0
 ------ Williamson(47187)    30    0    0
@@ -1007,10 +1014,10 @@
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    2    1    0
 ------ Yamhill(41071)    2    0    0
----- VA    105    2    1
+---- VA    123    2    1
 ------ Arlington(51013)    17    0    0
 ------ Fairfax(51059)    16    0    0
------- Loudoun(51107)    5    0    0
+------ Loudoun(51107)    9    0    0
 ------ Chesterfield(51041)    6    0    0
 ------ Prince William(51153)    11    0    0
 ------ Henrico(51087)    3    0    0
@@ -1021,12 +1028,13 @@
 ------ Stafford(51179)    2    0    0
 ------ York(51199)    1    1    0
 ------ Charles City(51036)    1    0    0
------- James City(51095)    14    1    0
+------ James City(51095)    19    1    0
 ------ Albemarle(51003)    1    0    0
 ------ Gloucester(51073)    1    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    3    0    0
+------ Accomack(51001)    1    0    0
 ---- NC    155    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
@@ -1079,9 +1087,9 @@
 ------ Livingston(26093)    1    0    0
 ------ Midland(26111)    1    0    0
 ------ Eaton(26045)    2    0    0
------- Genesee(26049)    1    0    0
+------ Genesee(26049)    4    0    0
 ------ Isabella(26073)    1    0    0
----- MN    91    0    0
+---- MN    115    0    0
 ------ Hennepin(27053)    33    0    0
 ------ Ramsey(27123)    12    0    0
 ------ Dakota(27037)    8    0    0
@@ -1466,7 +1474,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    4906    51    15
+-- Switzerland    5164    54    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1482,7 +1490,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1906    7    1
+-- Norway    1908    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1529,7 +1537,7 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Canada    924    13    12
+-- Canada    925    13    12
 ---- British Columbia    271    8    4
 ---- Ontario    308    2    5
 ---- Alberta    146    1    0
@@ -1540,8 +1548,8 @@
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    10    0    0
 ---- Prince Edward Island    2    0    0
----- Newfoundland and Labrador    3    0    0
----- Nova Scotia    14    0    0
+---- Newfoundland and Labrador    4    0    0
+---- Nova Scotia    15    0    0
 -- Australia    876    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
@@ -1551,7 +1559,7 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    4    0    0
--- Czechia    774    0    4
+-- Czechia    833    0    4
 -- Israel    705    0    15
 -- Brazil    654    7    2
 -- Luxembourg    618    5    6
@@ -1591,11 +1599,11 @@
 -- Slovakia    137    1    0
 -- Panama    137    1    1
 -- Armenia    136    0    1
+-- Serbia    135    0    2
 -- Taiwan    135    2    28
 -- Bulgaria    129    3    1
 -- Croatia    128    1    5
 -- Argentina    128    3    3
--- Serbia    118    0    2
 -- Latvia    111    0    1
 -- Uruguay    94    0    0
 -- Viet Nam    91    0    17
@@ -1620,7 +1628,7 @@
 -- Tunisia    54    1    1
 -- Kazakhstan    52    3    0
 -- Cambodia    51    0    1
--- Lithuania    49    0    1
+-- Lithuania    51    0    1
 -- Oman    48    0    13
 -- Palestine    48    0    17
 -- Guadeloupe    45    0    0
