@@ -538,7 +538,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Germany    17372    47    180
+-- Germany    17653    48    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -555,7 +555,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14372    218    129
+-- United States of America    14373    218    129
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -1024,7 +1024,7 @@
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    3    0    0
----- NC    140    0    0
+---- NC    141    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
 ------ Mecklenburg(37119)    32    0    0
@@ -1035,7 +1035,7 @@
 ------ Brunswick(37019)    2    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Craven(37049)    2    0    0
------- Guilford(37081)    3    0    0
+------ Guilford(37081)    4    0    0
 ------ Iredell(37097)    2    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    1    0    0
@@ -1449,7 +1449,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    4898    43    15
+-- Switzerland    4905    50    15
 -- United Kingdom of Great Britain and Northern Ireland    3269    144    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1463,7 +1463,7 @@
 -- Netherlands    2994    106    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2333    7    9
+-- Austria    2388    7    9
 -- Belgium    2257    37    204
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
@@ -1474,38 +1474,38 @@
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
 ---- Kumamoto    7    0    0
----- Saitama    40    0    0
+---- Saitama    42    0    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    5    0    0
----- Tokyo    118    2    0
+---- Tokyo    129    2    0
 ---- Wakayama    17    1    2
----- Kyoto    21    0    2
----- Osaka    119    1    1
+---- Kyoto    22    0    2
+---- Osaka    123    1    1
 ---- Chiba    41    0    0
----- Kanagawa    66    4    1
+---- Kanagawa    68    4    1
 ---- Shizuoka    3    0    0
----- Aichi    134    16    2
+---- Aichi    139    16    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    100    4    0
----- oita    5    0    0
+---- hyogo    101    4    0
+---- oita    8    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    4    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    2    0    0
----- Gunma    11    0    0
+---- Gunma    12    0    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Norway    1835    7    1
+-- Norway    1848    7    1
 -- Sweden    1639    16    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
@@ -1545,7 +1545,7 @@
 -- Finland    450    0    10
 -- Chile    434    0    6
 -- Iceland    409    5    8
--- Singapore    385    0    124
+-- Singapore    385    0    131
 ---- Central Singapore Community Development Council    345    0    124
 -- Poland    378    6    13
 -- Indonesia    369    32    17
@@ -1559,10 +1559,10 @@
 -- Ecuador    260    4    1
 -- Egypt    256    7    42
 -- Hong Kong    256    4    98
+-- Russian Federation    253    1    12
 -- Peru    234    3    1
 -- Philippines    230    19    8
 -- India    223    5    23
--- Russian Federation    206    1    9
 -- South Africa    202    0    0
 -- Iraq    192    13    49
 -- Mexico    164    1    4
