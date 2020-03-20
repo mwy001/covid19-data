@@ -538,7 +538,7 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- Germany    18588    52    180
+-- Germany    18756    53    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -555,7 +555,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    16073    219    129
+-- United States of America    16162    220    129
 ---- NY    7102    38    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    3    0
@@ -889,7 +889,7 @@
 ------ Oldham(48359)    1    0    0
 ------ McLennan(48309)    7    0    0
 ------ DeWitt(48123)    1    0    0
----- PA    214    1    0
+---- PA    268    1    0
 ------ Montgomery(42091)    55    0    0
 ------ Philadelphia(42101)    44    0    0
 ------ Allegheny(42003)    25    0    0
@@ -913,8 +913,8 @@
 ------ Westmoreland(42129)    2    0    0
 ------ Adams(42001)    1    0    0
 ------ Lebanon(42075)    1    0    0
----- WI    161    4    1
------- Milwaukee(55079)    62    0    0
+---- WI    189    4    1
+------ Milwaukee(55079)    88    1    0
 ------ Dane(55025)    27    0    0
 ------ Kenosha(55059)    4    0    0
 ------ Waukesha(55133)    12    0    0
@@ -928,7 +928,7 @@
 ------ La Crosse(55063)    4    0    0
 ------ Brown(55009)    2    0    0
 ------ Walworth(55127)    2    0    0
------- Ozaukee(55089)    3    2    0
+------ Ozaukee(55089)    4    2    0
 ------ Eau Claire(55035)    1    0    0
 ------ Bayfield(55007)    1    0    0
 ------ Calumet(55015)    1    0    0
@@ -1350,10 +1350,10 @@
 ------ Orange(50017)    1    0    0
 ------ Washington(50023)    1    0    0
 ------ Addison(50001)    1    0    0
----- DE    31    0    0
------- New Castle(10003)    23    0    0
------- Sussex(10005)    4    0    0
------- Kent(10001)    4    0    0
+---- DE    38    0    0
+------ New Castle(10003)    27    0    0
+------ Sussex(10005)    6    0    0
+------ Kent(10001)    5    0    0
 ---- MO    87    1    0
 ------ Greene(29077)    6    0    0
 ------ Cass(29037)    4    0    0
@@ -1482,7 +1482,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1900    7    1
+-- Norway    1906    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1553,11 +1553,11 @@
 ---- Australian Capital Territory    4    0    0
 -- Czechia    774    0    4
 -- Israel    705    0    15
--- Brazil    651    7    2
+-- Brazil    654    7    2
 -- Luxembourg    618    5    6
 -- Ireland    557    3    5
+-- Pakistan    500    3    13
 -- Greece    495    9    19
--- Pakistan    478    3    13
 -- Qatar    460    0    10
 -- Finland    450    0    10
 -- Chile    434    0    6
@@ -1577,9 +1577,9 @@
 -- Egypt    256    7    42
 -- Hong Kong    256    4    98
 -- Russian Federation    253    1    12
+-- India    249    5    23
 -- Peru    234    3    1
 -- Philippines    230    19    8
--- India    223    5    23
 -- South Africa    202    0    0
 -- Iraq    192    13    49
 -- Mexico    164    1    4
@@ -1605,6 +1605,7 @@
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Andorra    75    0    1
+-- Cyprus    75    0    0
 -- Morocco    74    3    2
 -- Sri Lanka    73    0    3
 -- Dominican Republic    72    2    0
@@ -1614,7 +1615,6 @@
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
 -- Bosnia and Herzegovina    69    0    2
--- Cyprus    67    0    0
 -- Moldova, Republic of    66    1    1
 -- Malta    64    0    2
 -- Tunisia    54    1    1
@@ -1694,6 +1694,7 @@
 -- New Caledonia    2    0    0
 -- Zambia    2    0    0
 -- Bermuda    2    0    0
+-- Isle of Man    2    0    0
 -- Haiti    2    0    0
 -- Nepal    1    0    1
 -- Holy See    1    0    0
@@ -1711,7 +1712,6 @@
 -- Nicaragua    1    0    0
 -- Chad    1    0    0
 -- Niger    1    0    0
--- Isle of Man    1    0    0
 -- Angola    1    0    0
 -- Papua New Guinea    1    0    0
 -- Cabo Verde    1    0    0
