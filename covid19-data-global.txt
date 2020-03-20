@@ -538,7 +538,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Germany    16626    44    115
+-- Germany    17372    44    115
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -1487,7 +1487,7 @@
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    95    4    0
+---- hyogo    100    4    0
 ---- oita    5    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
@@ -1502,12 +1502,13 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Norway    1808    7    1
+-- Norway    1835    7    1
 -- Sweden    1456    11    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    2    87
+-- Portugal    1020    6    5
 -- Australia    876    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
@@ -1530,8 +1531,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
--- Portugal    786    5    4
--- Czechia    774    0    3
+-- Czechia    774    0    4
 -- Israel    705    0    15
 -- Brazil    647    7    2
 -- Luxembourg    618    4    6
@@ -1585,6 +1585,7 @@
 -- Faroe Islands    80    0    3
 -- Andorra    75    0    1
 -- Brunei Darussalam    75    0    1
+-- Sri Lanka    70    0    3
 -- Albania    70    2    0
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
@@ -1592,14 +1593,13 @@
 -- Bosnia and Herzegovina    69    0    2
 -- North Macedonia    67    0    1
 -- Cyprus    67    0    0
--- Sri Lanka    66    0    3
 -- Morocco    66    3    2
 -- Malta    64    0    2
 -- Tunisia    54    1    1
+-- Lithuania    49    0    1
 -- Moldova, Republic of    49    1    1
 -- Kazakhstan    49    3    0
 -- Oman    48    0    13
--- Lithuania    48    0    1
 -- Palestine    48    0    17
 -- Cambodia    47    0    1
 -- Guadeloupe    45    0    0
@@ -1608,7 +1608,7 @@
 -- Venezuela, Bolivarian Republic of    42    0    0
 -- Burkina Faso    40    1    4
 -- New Zealand    39    0    0
--- Senegal    36    0    2
+-- Senegal    38    0    2
 -- Dominican Republic    34    2    0
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
@@ -1643,8 +1643,8 @@
 -- Trinidad and Tobago    9    0    0
 -- Puerto Rico    8    0    0
 -- Kenya    7    0    0
+-- Seychelles    7    0    0
 -- Mongolia    6    0    0
--- Seychelles    6    0    0
 -- Equatorial Guinea    6    0    0
 -- Tanzania, United Republic of    6    0    0
 -- Kyrgyzstan    6    0    0
