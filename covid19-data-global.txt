@@ -507,38 +507,38 @@
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Iran, Islamic Republic of    19644    1433    6745
----- Qom    1105    30    0
----- Tehran    4397    0    0
----- Fars    407    2    0
----- Markazi    829    11    0
----- Mazandaran    1552    13    0
----- Ardabil    229    3    0
----- South Khorasan    145    1    0
----- Ilam    128    0    0
----- Isfahan    1646    2    0
----- Hamadan    175    1    0
----- Razavi Khorasan    711    8    0
----- Hormozgan    129    2    0
----- Kurdistan    200    0    0
----- Qazvin    573    7    0
----- Yazd    540    3    0
----- West Azerbaijan    326    0    0
----- Gilan    997    0    0
----- Golestan    360    6    0
----- Khuzestan    381    12    0
----- Alborz    967    7    0
----- Semnan    593    0    0
----- Lorestan    400    4    0
----- East Azerbaijan    629    6    0
----- Kermanshah    158    2    0
----- Sistan and Baluchestan    106    0    0
----- Kerman    141    0    0
----- Zanjan    287    0    0
----- Chaharmahal and Bakhtiari    61    0    0
----- North Khorasan    121    0    0
----- Kohgiluyeh and Boyer-Ahmad    60    0    0
----- Bushehr    54    0    0
--- Germany    18328    52    180
+---- Qom    1141    30    0
+---- Tehran    4617    0    0
+---- Fars    457    2    0
+---- Markazi    846    11    0
+---- Mazandaran    1636    13    0
+---- Ardabil    264    3    0
+---- South Khorasan    163    1    0
+---- Ilam    148    0    0
+---- Isfahan    1791    2    0
+---- Hamadan    197    1    0
+---- Razavi Khorasan    759    8    0
+---- Hormozgan    146    2    0
+---- Kurdistan    215    0    0
+---- Qazvin    581    7    0
+---- Yazd    589    3    0
+---- West Azerbaijan    353    0    0
+---- Gilan    1096    0    0
+---- Golestan    375    6    0
+---- Khuzestan    391    12    0
+---- Alborz    1062    7    0
+---- Semnan    645    0    0
+---- Lorestan    409    4    0
+---- East Azerbaijan    684    6    0
+---- Kermanshah    163    2    0
+---- Sistan and Baluchestan    114    0    0
+---- Kerman    153    0    0
+---- Zanjan    331    0    0
+---- Chaharmahal and Bakhtiari    64    0    0
+---- North Khorasan    138    0    0
+---- Kohgiluyeh and Boyer-Ahmad    61    0    0
+---- Bushehr    55    0    0
+-- Germany    18588    52    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -555,7 +555,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    16058    219    129
+-- United States of America    16073    219    129
 ---- NY    7102    38    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    3    0
@@ -624,12 +624,12 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1067    19    6
+---- CA    1074    19    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    89    1    0
 ------ San Diego(06073)    105    0    0
------- San Francisco(06075)    70    0    0
+------ San Francisco(06075)    76    0    0
 ------ Sacramento(06067)    45    3    0
 ------ Contra Costa(06013)    42    0    0
 ------ Orange(06059)    53    0    0
@@ -652,7 +652,7 @@
 ------ Fresno(06019)    3    0    0
 ------ Imperial(06025)    4    0    0
 ------ Monterey(06053)    4    0    0
------- Santa Barbara(06083)    8    0    0
+------ Santa Barbara(06083)    9    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    1    0    0
@@ -682,6 +682,7 @@
 ------ Warren(34041)    3    0    0
 ------ Sussex(34037)    2    0    0
 ------ Cape May(34009)    1    0    0
+------ Cumberland(34011)    1    0    0
 ---- MA    328    0    1
 ------ Middlesex(25017)    119    0    0
 ------ Norfolk(25021)    52    0    0
@@ -1026,13 +1027,13 @@
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    3    0    0
----- NC    152    0    0
+---- NC    155    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
 ------ Mecklenburg(37119)    43    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    6    0    0
------- Forsyth(37067)    5    0    0
+------ Forsyth(37067)    7    0    0
 ------ Johnston(37101)    2    0    0
 ------ Brunswick(37019)    2    0    0
 ------ Cabarrus(37025)    1    0    0
@@ -1057,6 +1058,7 @@
 ------ Rowan(37159)    1    0    0
 ------ Cumberland(37051)    2    0    0
 ------ Pasquotank(37139)    2    0    0
+------ Alamance(37001)    1    0    0
 ---- MI    338    3    0
 ------ Oakland(26125)    105    1    0
 ------ Wayne(26163)    44    2    0
@@ -1303,12 +1305,12 @@
 ------ Marshall(28093)    1    0    0
 ------ Pike(28113)    1    0    0
 ------ Webster(28155)    1    0    0
----- AZ    53    0    1
+---- AZ    58    0    1
 ------ Maricopa(04013)    22    0    0
 ------ Pinal(04021)    10    0    0
 ------ Pima(04019)    7    0    0
 ------ Graham(04009)    1    0    0
------- Navajo(04017)    3    0    0
+------ Navajo(04017)    8    0    0
 ------ Coconino(04005)    8    0    0
 ------ Santa Cruz(04023)    1    0    0
 ------ Yavapai(04025)    1    0    0
@@ -1364,6 +1366,7 @@
 ------ St Louis City(29510)    10    0    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    0    0
+------ Scott(29201)    1    0    0
 ---- HI    26    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -1477,9 +1480,9 @@
 -- Netherlands    2994    106    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2388    7    9
+-- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1895    7    1
+-- Norway    1900    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1492,7 +1495,7 @@
 ---- Saitama    42    0    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    5    0    0
----- Tokyo    129    2    0
+---- Tokyo    129    3    0
 ---- Wakayama    17    1    2
 ---- Kyoto    22    0    2
 ---- Osaka    123    1    1
@@ -1521,7 +1524,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Sweden    1639    16    16
--- Denmark    1226    9    1
+-- Denmark    1255    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    3    87
@@ -1553,8 +1556,8 @@
 -- Brazil    651    7    2
 -- Luxembourg    618    5    6
 -- Ireland    557    3    5
+-- Greece    495    9    19
 -- Pakistan    478    3    13
--- Greece    464    6    19
 -- Qatar    460    0    10
 -- Finland    450    0    10
 -- Chile    434    0    6
@@ -1568,7 +1571,7 @@
 -- Slovenia    341    1    0
 -- Thailand    322    1    42
 -- Romania    308    0    31
--- Bahrain    284    1    110
+-- Bahrain    291    1    112
 -- Estonia    283    0    1
 -- Saudi Arabia    274    0    8
 -- Egypt    256    7    42
@@ -1582,6 +1585,7 @@
 -- Mexico    164    1    4
 -- Lebanon    163    4    4
 -- Kuwait    159    0    22
+-- Colombia    145    0    1
 -- San Marino    144    14    4
 -- United Arab Emirates    140    0    31
 -- Slovakia    137    1    0
@@ -1591,7 +1595,6 @@
 -- Bulgaria    129    3    1
 -- Croatia    128    1    5
 -- Argentina    128    3    3
--- Colombia    128    0    1
 -- Serbia    118    0    2
 -- Latvia    111    0    1
 -- Uruguay    94    0    0
@@ -1615,9 +1618,9 @@
 -- Moldova, Republic of    66    1    1
 -- Malta    64    0    2
 -- Tunisia    54    1    1
+-- Kazakhstan    52    3    0
 -- Cambodia    51    0    1
 -- Lithuania    49    0    1
--- Kazakhstan    49    3    0
 -- Oman    48    0    13
 -- Palestine    48    0    17
 -- Guadeloupe    45    0    0
