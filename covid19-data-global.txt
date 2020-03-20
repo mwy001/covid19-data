@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Iran, Islamic Republic of    19644    1433    5979
+-- Iran, Islamic Republic of    19644    1433    6745
 ---- Qom    1105    30    0
 ---- Tehran    4397    0    0
 ---- Fars    407    2    0
@@ -538,7 +538,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Germany    17372    47    115
+-- Germany    17372    47    180
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -1098,7 +1098,7 @@
 ------ Mower(27099)    1    0    0
 ------ Rice(27131)    1    0    0
 ------ Wadena(27159)    1    0    0
----- MD    107    1    4
+---- MD    108    1    4
 ------ Montgomery(24031)    33    0    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    12    0    0
@@ -1111,6 +1111,7 @@
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    1    0    0
 ------ Baltimore City(24510)    8    0    0
+------ Wicomico(24045)    1    0    0
 ---- NV    95    1    0
 ------ Clark(32003)    69    1    0
 ------ Washoe(32031)    14    0    0
@@ -1505,7 +1506,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Norway    1835    7    1
--- Sweden    1623    12    16
+-- Sweden    1639    16    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1535,20 +1536,20 @@
 ---- Nova Scotia    14    0    0
 -- Czechia    774    0    4
 -- Israel    705    0    15
--- Brazil    647    7    2
--- Luxembourg    618    4    6
+-- Brazil    650    7    2
+-- Luxembourg    618    5    6
 -- Ireland    557    3    5
 -- Pakistan    467    3    13
 -- Greece    464    6    19
 -- Qatar    460    0    10
 -- Finland    450    0    10
+-- Chile    434    0    6
 -- Iceland    409    5    8
 -- Singapore    385    0    124
 ---- Central Singapore Community Development Council    345    0    124
 -- Poland    378    6    13
 -- Indonesia    369    32    17
 -- Turkey    359    4    0
--- Chile    342    0    0
 -- Slovenia    341    1    0
 -- Thailand    322    1    42
 -- Romania    308    0    31
@@ -1580,14 +1581,14 @@
 -- Bulgaria    112    3    1
 -- Latvia    111    0    1
 -- Uruguay    94    0    0
+-- Viet Nam    91    0    17
 -- Algeria    90    11    32
 -- Costa Rica    89    2    0
--- Viet Nam    87    0    16
 -- Hungary    85    3    7
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Andorra    75    0    1
--- Sri Lanka    70    0    3
+-- Sri Lanka    71    0    3
 -- Albania    70    2    0
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
