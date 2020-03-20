@@ -538,7 +538,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Germany    17372    44    115
+-- Germany    17372    47    115
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -729,7 +729,7 @@
 ------ Indian River(12061)    1    0    0
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    1    0    0
----- LA    392    10    0
+---- LA    392    11    0
 ------ Orleans(22071)    249    8    0
 ------ Jefferson(22051)    69    1    0
 ------ Caddo(22017)    10    0    0
@@ -1024,15 +1024,15 @@
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    3    0    0
----- NC    139    0    0
+---- NC    140    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
------- Mecklenburg(37119)    31    0    0
+------ Mecklenburg(37119)    32    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    6    0    0
 ------ Forsyth(37067)    5    0    0
 ------ Johnston(37101)    2    0    0
------- Brunswick(37019)    1    0    0
+------ Brunswick(37019)    2    0    0
 ------ Cabarrus(37025)    1    0    0
 ------ Craven(37049)    2    0    0
 ------ Guilford(37081)    3    0    0
@@ -1123,6 +1123,7 @@
 ------ Tooele(49045)    1    0    0
 ------ Utah(49049)    3    0    0
 ------ Cache(49005)    2    0    0
+------ Box Elder(49003)    1    0    0
 ---- SC    81    3    0
 ------ Kershaw(45055)    29    0    0
 ------ Beaufort(45013)    7    0    0
@@ -1458,7 +1459,7 @@
 ---- Scotland    266    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    2467    77    2
+-- Netherlands    2994    106    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    2333    7    9
@@ -1504,7 +1505,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Norway    1835    7    1
--- Sweden    1456    11    16
+-- Sweden    1623    12    16
 -- Denmark    1226    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1540,7 +1541,7 @@
 -- Pakistan    467    3    13
 -- Greece    464    6    19
 -- Qatar    460    0    10
--- Finland    430    0    10
+-- Finland    450    0    10
 -- Iceland    409    5    8
 -- Singapore    385    0    124
 ---- Central Singapore Community Development Council    345    0    124
@@ -1548,8 +1549,8 @@
 -- Indonesia    369    32    17
 -- Turkey    359    4    0
 -- Chile    342    0    0
+-- Slovenia    341    1    0
 -- Thailand    322    1    42
--- Slovenia    319    1    0
 -- Romania    308    0    31
 -- Bahrain    284    1    110
 -- Estonia    283    0    1
@@ -1560,8 +1561,8 @@
 -- Peru    234    3    1
 -- Philippines    230    19    8
 -- India    223    5    23
+-- Russian Federation    206    1    9
 -- South Africa    202    0    0
--- Russian Federation    199    1    9
 -- Iraq    192    13    49
 -- Mexico    164    1    4
 -- Lebanon    163    4    4
@@ -1579,7 +1580,7 @@
 -- Bulgaria    112    3    1
 -- Latvia    111    0    1
 -- Uruguay    94    0    0
--- Algeria    90    10    32
+-- Algeria    90    11    32
 -- Costa Rica    89    2    0
 -- Viet Nam    87    0    16
 -- Hungary    85    3    7
