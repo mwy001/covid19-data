@@ -1,4 +1,4 @@
--- 中国    81307    3253    71299
+-- 中国    81385    3255    71292
 ---- 四川    541    3    536
 ------ 成都    146    3    141
 ------ 甘孜州    78    0    78
@@ -68,9 +68,9 @@
 ------ 鹤岗    5    0    5
 ------ 伊春    1    0    1
 ------ 境外输入人员    2    0    0
----- 广东    1392    8    1331
------- 广州    364    1    334
------- 深圳    432    3    409
+---- 广东    1395    8    1323
+------ 广州    366    1    334
+------ 深圳    433    3    409
 ------ 佛山    87    0    81
 ------ 中山    68    0    64
 ------ 东莞    100    1    98
@@ -444,9 +444,9 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 香港    208    4    98
----- 湖北    67800    3132    58381
------- 武汉    50005    2498    41389
+---- 香港    256    4    98
+---- 湖北    67800    3133    58382
+------ 武汉    50005    2499    41390
 ------ 孝感    3518    128    3349
 ------ 鄂州    1394    58    1303
 ------ 随州    1307    45    1236
@@ -485,6 +485,27 @@
 ---- Liguria    1059    91    85
 ---- Veneto    3484    115    200
 ---- Bolzano    436    14    1
+-- Spain    19980    1002    1588
+---- Andalusia    859    7    0
+---- Aragon    226    11    0
+---- Balearic Islands    112    1    2
+---- Basque Country    973    22    9
+---- Canary Islands    181    1    7
+---- Cantabria    68    0    10
+---- Castile and León    668    9    2
+---- Castile-La Mancha    675    17    13
+---- Catalonia    1866    12    3
+---- Community of Madrid    5637    253    109
+---- Comunidad Foral de Navarra    386    1    0
+---- Extremadura    194    2    5
+---- Galicia    341    2    3
+---- Principality of Asturias    242    1    3
+---- Región de Murcia    145    0    0
+---- Rioja    419    4    1
+---- Valencian Community    726    5    1
+---- Melilla    20    0    0
+---- Navarre    130    0    0
+---- Ceuta    1    0    0
 -- Iran, Islamic Republic of    18407    1284    5979
 ---- Qom    1105    30    0
 ---- Tehran    4397    0    0
@@ -517,28 +538,7 @@
 ---- North Khorasan    121    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    60    0    0
 ---- Bushehr    54    0    0
--- Spain    18077    831    1107
----- Andalusia    859    7    0
----- Aragon    226    11    0
----- Balearic Islands    112    1    2
----- Basque Country    973    22    9
----- Canary Islands    181    1    7
----- Cantabria    68    0    10
----- Castile and León    668    9    2
----- Castile-La Mancha    675    17    13
----- Catalonia    1866    12    3
----- Community of Madrid    5637    253    109
----- Comunidad Foral de Navarra    386    1    0
----- Extremadura    194    2    5
----- Galicia    341    2    3
----- Principality of Asturias    242    1    3
----- Región de Murcia    145    0    0
----- Rioja    419    4    1
----- Valencian Community    726    5    1
----- Melilla    20    0    0
----- Navarre    130    0    0
----- Ceuta    1    0    0
--- Germany    16046    44    115
+-- Germany    16626    44    115
 ---- Saxony    389    0    0
 ---- Mecklenburg-Vorpommern    133    0    0
 ---- Free State of Bavaria    2282    13    14
@@ -1506,8 +1506,8 @@
 -- Qatar    460    0    10
 -- Pakistan    456    3    13
 -- Finland    400    0    10
+-- Poland    378    6    13
 -- Indonesia    369    32    17
--- Poland    367    5    13
 -- Turkey    359    4    0
 -- Singapore    345    0    124
 ---- Central Singapore Community Development Council    345    0    124
@@ -1515,8 +1515,8 @@
 -- Iceland    330    5    8
 -- Thailand    322    1    42
 -- Slovenia    319    1    0
+-- Bahrain    284    1    110
 -- Estonia    283    0    1
--- Bahrain    279    1    110
 -- Romania    277    0    25
 -- Saudi Arabia    274    0    8
 -- Ecuador    260    4    1
@@ -1547,10 +1547,10 @@
 -- Algeria    90    10    32
 -- Costa Rica    89    2    0
 -- Viet Nam    87    0    16
--- Hungary    85    1    7
+-- Hungary    85    3    7
 -- Faroe Islands    80    0    2
+-- Andorra    75    0    1
 -- Brunei Darussalam    75    0    0
--- Andorra    74    0    1
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
@@ -1560,8 +1560,8 @@
 -- Sri Lanka    66    0    3
 -- Morocco    66    3    2
 -- Albania    64    2    0
+-- Tunisia    54    1    1
 -- Malta    53    0    2
--- Tunisia    50    1    1
 -- Moldova, Republic of    49    1    1
 -- Kazakhstan    49    3    0
 -- Oman    48    0    13
