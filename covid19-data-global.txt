@@ -555,7 +555,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14439    218    129
+-- United States of America    14549    218    129
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -730,7 +730,7 @@
 ------ Indian River(12061)    1    0    0
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    1    0    0
----- LA    392    11    0
+---- LA    479    11    0
 ------ Orleans(22071)    249    8    0
 ------ Jefferson(22051)    69    1    0
 ------ Caddo(22017)    10    0    0
@@ -1271,21 +1271,21 @@
 ------ Grant(05053)    1    0    0
 ------ Pope(05115)    1    0    0
 ------ Van Buren(05141)    1    0    0
----- MS    56    1    0
------- Hinds(28049)    6    0    0
------- Leflore(28083)    4    0    0
+---- MS    80    1    0
+------ Hinds(28049)    7    0    0
+------ Leflore(28083)    7    0    0
 ------ Forrest(28035)    4    0    0
 ------ Copiah(28029)    2    0    0
 ------ Pearl River(28109)    7    0    0
------- Hancock(28045)    2    1    0
------- Harrison(28047)    7    0    0
------- Jackson(28059)    2    0    0
------- Monroe(28095)    1    0    0
+------ Hancock(28045)    3    1    0
+------ Harrison(28047)    8    0    0
+------ Jackson(28059)    3    0    0
+------ Monroe(28095)    2    0    0
 ------ Bolivar(28011)    2    0    0
 ------ Coahoma(28027)    3    0    0
 ------ Perry(28111)    1    0    0
------- Madison(28089)    1    0    0
------- Holmes(28051)    1    0    0
+------ Madison(28089)    3    0    0
+------ Holmes(28051)    3    0    0
 ------ Jones(28067)    1    0    0
 ------ Smith(28129)    1    0    0
 ------ Walthall(28147)    1    0    0
@@ -1293,8 +1293,16 @@
 ------ Winston(28159)    1    0    0
 ------ Yazoo(28163)    1    0    0
 ------ Lafayette(28071)    1    0    0
------- Tippah(28139)    1    0    0
+------ Tippah(28139)    3    0    0
 ------ Adams(28001)    1    0    0
+------ Rankin(28121)    3    0    0
+------ Franklin(28037)    1    0    0
+------ Humphreys(28053)    1    0    0
+------ Lawrence(28077)    1    0    0
+------ Lee(28081)    1    0    0
+------ Marshall(28093)    1    0    0
+------ Pike(28113)    1    0    0
+------ Webster(28155)    1    0    0
 ---- AZ    53    0    1
 ------ Maricopa(04013)    22    0    0
 ------ Pinal(04021)    10    0    0
@@ -1456,7 +1464,7 @@
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
 -- Switzerland    4905    50    15
--- United Kingdom of Great Britain and Northern Ireland    3269    144    67
+-- United Kingdom of Great Britain and Northern Ireland    3269    145    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1471,7 +1479,7 @@
 ---- Curacao    3    0    0
 -- Austria    2388    7    9
 -- Belgium    2257    37    204
--- Norway    1858    7    1
+-- Norway    1881    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1545,7 +1553,7 @@
 -- Brazil    651    7    2
 -- Luxembourg    618    5    6
 -- Ireland    557    3    5
--- Pakistan    467    3    13
+-- Pakistan    478    3    13
 -- Greece    464    6    19
 -- Qatar    460    0    10
 -- Finland    450    0    10
@@ -1594,13 +1602,14 @@
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Andorra    75    0    1
+-- Dominican Republic    72    2    0
 -- Sri Lanka    71    0    3
+-- North Macedonia    70    0    1
 -- Albania    70    2    0
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Jordan    69    0    1
 -- Bosnia and Herzegovina    69    0    2
--- North Macedonia    67    0    1
 -- Cyprus    67    0    0
 -- Morocco    66    3    2
 -- Malta    64    0    2
@@ -1612,13 +1621,12 @@
 -- Oman    48    0    13
 -- Palestine    48    0    17
 -- Guadeloupe    45    0    0
+-- Georgia    44    0    1
 -- Azerbaijan    44    1    7
--- Georgia    43    0    1
 -- Venezuela, Bolivarian Republic of    42    0    0
 -- Burkina Faso    40    1    4
 -- New Zealand    39    0    0
 -- Senegal    38    0    2
--- Dominican Republic    34    2    0
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
 -- Liechtenstein    28    0    0
