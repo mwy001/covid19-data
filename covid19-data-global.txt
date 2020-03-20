@@ -1561,8 +1561,8 @@
 -- Palestine    47    0    0
 -- Guadeloupe    45    0    0
 -- Azerbaijan    44    1    7
+-- Georgia    43    0    1
 -- Venezuela, Bolivarian Republic of    42    0    0
--- Georgia    40    0    1
 -- New Zealand    39    0    0
 -- Tunisia    39    1    1
 -- Cambodia    37    0    1
