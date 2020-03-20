@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14329    218    129
+-- United States of America    14340    218    129
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -617,9 +617,9 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    2    0    0
 ------ Mason(53045)    1    0    0
------- Benton(53005)    1    1    0
+------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1048    19    6
+---- CA    1057    19    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    89    1    0
@@ -632,7 +632,7 @@
 ------ Riverside(06065)    22    3    0
 ------ San Joaquin(06077)    17    2    0
 ------ Santa Cruz(06087)    14    0    0
------- Marin(06041)    16    0    0
+------ Marin(06041)    25    0    0
 ------ Ventura(06111)    17    0    0
 ------ Placer(06061)    9    1    0
 ------ Solano(06095)    8    0    0
@@ -769,7 +769,7 @@
 ------ Williamson(17199)    1    0    0
 ------ Washington(17189)    1    0    0
 ------ Kankakee(17091)    1    0    0
----- GA    287    10    0
+---- GA    288    10    0
 ------ Fulton(13121)    66    2    0
 ------ Cobb(13067)    37    1    0
 ------ Bartow(13015)    26    0    0
@@ -806,7 +806,8 @@
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
----- TX    321    5    8
+------ Effingham(13103)    1    0    0
+---- TX    323    5    8
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    35    1    0
@@ -841,12 +842,15 @@
 ------ Jefferson(48245)    1    0    0
 ------ Cameron(48061)    2    0    0
 ------ Brown(48049)    1    0    0
------- Potter(48375)    2    0    0
+------ Potter(48375)    4    0    0
 ------ Houston(48225)    10    0    0
 ------ Van Zandt(48467)    1    0    0
 ------ Crane(48103)    1    0    0
 ------ Lamar(48277)    1    0    0
 ------ Midland(48329)    1    0    0
+------ Randall(48381)    2    0    0
+------ Castro(48069)    1    0    0
+------ Oldham(48359)    1    0    0
 ---- PA    207    1    0
 ------ Montgomery(42091)    55    0    0
 ------ Philadelphia(42101)    44    0    0
@@ -1437,7 +1441,7 @@
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    92    4    0
+---- hyogo    95    4    0
 ---- oita    3    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
@@ -1473,7 +1477,7 @@
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
 -- Portugal    786    4    4
--- Australia    756    7    46
+-- Australia    785    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
 ---- Queensland    144    0    8
@@ -1520,10 +1524,10 @@
 -- United Arab Emirates    140    0    31
 -- Panama    137    1    1
 -- Argentina    128    3    3
+-- Colombia    128    0    1
 -- Slovakia    124    1    0
 -- Armenia    122    0    1
 -- Croatia    110    1    5
--- Colombia    108    0    1
 -- Taiwan    108    1    26
 -- Bulgaria    107    3    0
 -- Serbia    103    0    1
@@ -1547,11 +1551,11 @@
 -- Belarus    51    0    5
 -- North Macedonia    50    0    1
 -- Moldova, Republic of    49    1    1
+-- Kazakhstan    49    3    0
 -- Oman    48    0    13
 -- Lithuania    48    0    1
 -- Palestine    47    0    0
 -- Azerbaijan    44    1    7
--- Kazakhstan    44    3    0
 -- Venezuela, Bolivarian Republic of    42    0    0
 -- Georgia    40    0    1
 -- New Zealand    39    0    0
