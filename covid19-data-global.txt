@@ -555,8 +555,8 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    16834    230    129
----- NY    7246    39    0
+-- United States of America    18090    230    129
+---- NY    8299    42    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
 ------ Suffolk(36103)    371    3    0
@@ -591,7 +591,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    4408    26    0
+------ New York(36061)    5151    26    0
 ------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -857,14 +857,14 @@
 ------ Douglas(13097)    1    0    0
 ------ Monroe(13207)    1    0    0
 ------ Randolph(13243)    1    0    0
----- TX    353    5    8
+---- TX    364    5    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    36    1    0
 ------ Bexar(48029)    29    0    0
 ------ Fort Bend(48157)    19    0    0
 ------ Collin(48085)    18    1    0
------- Tarrant(48439)    19    1    0
+------ Tarrant(48439)    29    1    0
 ------ Smith(48423)    5    0    0
 ------ Montgomery(48339)    9    0    0
 ------ Bell(48027)    7    0    0
@@ -961,7 +961,7 @@
 ------ Chippewa(55017)    1    0    0
 ------ Jefferson(55055)    1    0    0
 ------ Marathon(55073)    1    0    0
----- TN    155    0    0
+---- TN    229    0    0
 ------ Davidson(47037)    75    0    0
 ------ Williamson(47187)    30    0    0
 ------ Shelby(47157)    10    0    0
@@ -1093,7 +1093,7 @@
 ------ Lee(37105)    1    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    1    0    0
----- MI    338    3    0
+---- MI    453    3    0
 ------ Oakland(26125)    105    1    0
 ------ Wayne(26163)    44    2    0
 ------ Macomb(26099)    55    0    0
@@ -1212,7 +1212,7 @@
 ------ Lincoln(23015)    4    0    0
 ------ Hancock(23009)    1    0    0
 ---- DC    71    3    0
----- IN    83    2    0
+---- IN    85    2    0
 ------ Marion(18097)    25    1    0
 ------ Hendricks(18063)    4    0    0
 ------ Johnson(18081)    4    1    0
@@ -1234,7 +1234,7 @@
 ------ Owen(18119)    1    0    0
 ------ Tippecanoe(18157)    2    0    0
 ------ Wayne(18177)    1    0    0
------- Allen(18003)    2    0    0
+------ Allen(18003)    4    0    0
 ------ Monroe(18105)    1    0    0
 ------ Vigo(18167)    1    0    0
 ------ Vanderburgh(18163)    1    0    0
@@ -1278,7 +1278,7 @@
 ------ Carroll(33003)    4    0    0
 ------ Belknap(33001)    3    0    0
 ------ Merrimack(33013)    1    0    0
----- NE    32    0    0
+---- NE    33    0    0
 ------ Douglas(31055)    23    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
@@ -1286,7 +1286,8 @@
 ------ Lincoln(31111)    3    0    0
 ------ Adams(31001)    1    0    0
 ------ Nemaha(31127)    1    0    0
----- NM    35    0    0
+------ Lancaster(31109)    1    0    0
+---- NM    38    0    0
 ------ Bernalillo(35001)    20    0    0
 ------ Santa Fe(35049)    7    0    0
 ------ Sandoval(35043)    4    0    0
@@ -1295,7 +1296,7 @@
 ------ San Miguel(35047)    1    0    0
 ---- RI    54    0    0
 ------ Providence(44007)    44    0    0
----- AR    65    0    0
+---- AR    96    0    0
 ------ Jefferson(05069)    10    0    0
 ------ Pulaski(05119)    20    0    0
 ------ Cleburne(05023)    10    0    0
@@ -1470,7 +1471,7 @@
 ---- Others    28    0    0
 ---- GU    14    0    0
 ------ Guam(66010)    12    0    0
----- PR    8    0    0
+---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
 -- France    12612    450    1295
@@ -1517,7 +1518,7 @@
 ---- Seoul    299    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    17    3    0
--- Switzerland    5381    56    15
+-- Switzerland    5407    56    15
 -- United Kingdom of Great Britain and Northern Ireland    3983    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1533,7 +1534,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1922    7    1
+-- Norway    1923    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1580,7 +1581,7 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Canada    943    13    12
+-- Canada    944    13    12
 ---- British Columbia    271    8    4
 ---- Ontario    308    2    5
 ---- Alberta    146    1    0
@@ -1589,7 +1590,7 @@
 ---- Manitoba    17    0    0
 ---- Saskatchewan    20    0    0
 ---- Grand Princess    8    0    0
----- Grand Princess Cruise Ship    10    0    0
+---- Grand Princess Cruise Ship    12    0    0
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
@@ -1604,15 +1605,15 @@
 ---- Australian Capital Territory    4    0    0
 -- Czechia    833    0    4
 -- Israel    705    0    15
+-- Brazil    691    7    2
 -- Ireland    683    3    5
--- Brazil    654    7    2
 -- Luxembourg    618    5    6
 -- Pakistan    500    3    13
 -- Greece    495    9    19
 -- Qatar    470    0    10
 -- Finland    450    0    10
 -- Chile    434    0    6
--- Poland    411    6    13
+-- Poland    425    6    13
 -- Iceland    409    5    8
 -- Singapore    385    0    131
 ---- Central Singapore Community Development Council    345    0    124
@@ -1624,15 +1625,15 @@
 -- Thailand    322    1    42
 -- Romania    308    0    31
 -- Bahrain    291    1    112
+-- Egypt    285    8    42
 -- Estonia    283    0    1
--- Egypt    256    7    42
 -- Hong Kong    256    4    98
 -- Russian Federation    253    1    12
 -- India    249    5    23
 -- Peru    234    4    1
 -- Philippines    230    19    8
+-- Iraq    208    17    49
 -- South Africa    202    0    0
--- Iraq    192    13    49
 -- Lebanon    177    4    4
 -- Mexico    164    1    4
 -- Kuwait    159    0    22
@@ -1652,6 +1653,7 @@
 -- Viet Nam    91    0    17
 -- Algeria    90    11    32
 -- Costa Rica    89    2    0
+-- Jordan    85    0    1
 -- Hungary    85    4    7
 -- Bosnia and Herzegovina    84    0    2
 -- Faroe Islands    80    0    3
@@ -1665,7 +1667,6 @@
 -- Albania    70    2    0
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
--- Jordan    69    0    1
 -- Moldova, Republic of    66    1    1
 -- Malta    64    0    2
 -- Lithuania    63    0    1
