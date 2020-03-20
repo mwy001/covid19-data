@@ -485,7 +485,7 @@
 ---- Liguria    1221    119    101
 ---- Veneto    4031    131    223
 ---- Bolzano    548    17    1
--- Spain    21510    1092    1588
+-- Spain    21510    1093    1588
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -555,7 +555,7 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    18876    237    147
+-- United States of America    19106    250    147
 ---- NY    8310    42    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -600,19 +600,19 @@
 ------ Steuben(36101)    2    0    0
 ------ Columbia(36021)    1    0    0
 ------ Livingston(36051)    1    0    0
----- WA    1423    75    124
------- King(53033)    693    60    0
+---- WA    1524    89    124
+------ King(53033)    793    67    0
 ------ Snohomish(53061)    385    8    0
 ------ Pierce(53053)    83    1    0
------- Island(53029)    17    1    0
------- Skagit(53057)    18    0    0
+------ Island(53029)    19    1    0
+------ Skagit(53057)    25    0    0
 ------ Grant(53025)    8    1    0
 ------ Kitsap(53035)    12    0    0
------- Whatcom(53073)    7    0    0
+------ Whatcom(53073)    10    1    0
 ------ Thurston(53067)    6    0    0
 ------ Yakima(53077)    7    0    0
------- Clark(53011)    4    3    0
------- Spokane(53063)    10    0    0
+------ Clark(53011)    6    3    0
+------ Spokane(53063)    11    0    0
 ------ Jefferson(53031)    4    0    0
 ------ Kittitas(53037)    4    0    0
 ------ Chelan(53007)    2    0    0
@@ -626,15 +626,15 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1178    21    6
------- Santa Clara(06085)    196    6    0
+---- CA    1193    23    6
+------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    2    0
 ------ San Mateo(06081)    100    1    0
 ------ San Diego(06073)    105    0    0
 ------ San Francisco(06075)    76    0    0
 ------ Sacramento(06067)    53    3    0
 ------ Contra Costa(06013)    42    1    0
------- Orange(06059)    53    0    0
+------ Orange(06059)    65    0    0
 ------ Alameda(06001)    48    0    0
 ------ Riverside(06065)    28    4    0
 ------ San Joaquin(06077)    20    2    0
@@ -642,7 +642,7 @@
 ------ Marin(06041)    25    0    0
 ------ Ventura(06111)    17    0    0
 ------ Placer(06061)    9    1    0
------- Solano(06095)    10    0    0
+------ Solano(06095)    13    0    0
 ------ San Luis Obispo(06079)    13    0    0
 ------ Sonoma(06097)    11    0    0
 ------ San Benito(06069)    5    1    0
@@ -698,14 +698,14 @@
 ------ Hampden(25013)    3    0    0
 ------ Franklin(25011)    1    0    0
 ------ Hampshire(25015)    2    0    0
----- FL    520    11    0
------- Broward(12011)    124    1    0
+---- FL    525    11    0
+------ Broward(12011)    128    1    0
 ------ Palm Beach(12099)    34    0    0
 ------ Duval(12031)    15    0    0
 ------ Volusia(12127)    9    0    0
 ------ Hillsborough(12057)    30    0    0
 ------ Manatee(12081)    9    1    0
------- Collier(12021)    24    0    0
+------ Collier(12021)    25    0    0
 ------ Orange(12095)    22    2    0
 ------ Osceola(12097)    13    0    0
 ------ Lee(12071)    13    2    0
@@ -759,29 +759,31 @@
 ------ Livingston(22063)    1    0    0
 ------ Rapides(22079)    1    0    0
 ------ Webster(22119)    1    0    0
----- CO    278    4    0
------- Denver(08031)    49    0    0
------- Eagle(08037)    51    0    0
------- Arapahoe(08005)    22    0    0
------- Jefferson(08059)    36    0    0
------- Boulder(08013)    11    0    0
+---- CO    363    4    0
+------ Denver(08031)    67    0    0
+------ Eagle(08037)    61    0    0
+------ Arapahoe(08005)    29    0    0
+------ Jefferson(08059)    37    0    0
+------ Boulder(08013)    16    0    0
 ------ Gunnison(08051)    13    0    0
------- Pitkin(08097)    12    0    0
------- Douglas(08035)    14    0    0
------- Adams(08001)    10    0    0
------- El Paso(08041)    15    2    0
------- Weld(08123)    9    1    0
------- Summit(08117)    5    0    0
------- Larimer(08069)    5    0    0
+------ Pitkin(08097)    14    0    0
+------ Douglas(08035)    17    0    0
+------ Adams(08001)    12    0    0
+------ El Paso(08041)    27    2    0
+------ Weld(08123)    15    1    0
+------ Summit(08117)    7    0    0
+------ Larimer(08069)    7    0    0
 ------ Clear Creek(08019)    2    0    0
------- Garfield(08045)    3    0    0
+------ Garfield(08045)    4    0    0
 ------ Routt(08107)    2    0    0
 ------ Mesa(08077)    1    0    0
 ------ Pueblo(08101)    2    0    0
------- Grand(08049)    2    0    0
------- Morgan(08087)    1    0    0
+------ Grand(08049)    3    0    0
+------ Morgan(08087)    2    0    0
 ------ Crowley(08025)    1    1    0
 ------ Yuma(08125)    1    0    0
+------ Broomfield(08014)    2    0    0
+------ Park(08093)    1    0    0
 ---- IL    585    5    2
 ------ Cook(17031)    411    2    0
 ------ Lake(17097)    53    0    0
@@ -859,7 +861,7 @@
 ------ Douglas(13097)    1    0    0
 ------ Monroe(13207)    1    0    0
 ------ Randolph(13243)    1    0    0
----- TX    388    6    8
+---- TX    394    6    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    36    1    0
@@ -878,7 +880,7 @@
 ------ Matagorda(48321)    3    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    6    0    0
------- Denton(48121)    9    0    0
+------ Denton(48121)    15    0    0
 ------ Ellis(48139)    2    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
@@ -1215,22 +1217,25 @@
 ------ Florence(45041)    1    0    0
 ------ Pickens(45077)    1    0    0
 ------ Sumter(45085)    1    0    0
----- AL    85    0    0
------- Jefferson(01073)    36    0    0
+---- AL    105    0    0
+------ Jefferson(01073)    50    0    0
 ------ Shelby(01117)    10    0    0
------- Lee(01081)    10    0    0
+------ Lee(01081)    11    0    0
 ------ Tuscaloosa(01125)    4    0    0
 ------ Elmore(01051)    5    0    0
 ------ Montgomery(01101)    3    0    0
 ------ Baldwin(01003)    3    0    0
 ------ Limestone(01083)    1    0    0
------- Madison(01089)    5    0    0
+------ Madison(01089)    7    0    0
 ------ Calhoun(01015)    1    0    0
 ------ St Clair(01115)    1    0    0
 ------ Chambers(01017)    1    0    0
 ------ Talladega(01121)    1    0    0
 ------ Walker(01127)    1    0    0
 ------ Mobile(01097)    3    0    0
+------ Jackson(01071)    1    0    0
+------ Lamar(01075)    1    0    0
+------ Lauderdale(01077)    1    0    0
 ---- ME    56    0    0
 ------ Cumberland(23005)    35    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1302,13 +1307,14 @@
 ------ Henderson(21101)    1    0    0
 ------ Christian(21047)    1    0    0
 ------ Pulaski(21199)    1    0    0
----- NH    44    0    0
------- Rockingham(33015)    18    0    0
------- Grafton(33009)    9    0    0
+---- NH    55    0    0
+------ Rockingham(33015)    20    0    0
+------ Grafton(33009)    12    0    0
 ------ Hillsborough(33011)    8    0    0
------- Carroll(33003)    4    0    0
+------ Carroll(33003)    5    0    0
 ------ Belknap(33001)    3    0    0
------- Merrimack(33013)    1    0    0
+------ Merrimack(33013)    3    0    0
+------ Coos(33007)    1    0    0
 ---- NE    37    0    0
 ------ Douglas(31055)    23    0    0
 ------ Knox(31107)    2    0    0
@@ -1426,12 +1432,13 @@
 ------ Sedgwick(20173)    1    0    0
 ------ Riley(20161)    1    0    0
 ---- VT    29    2    0
------- Chittenden(50007)    9    1    0
------- Bennington(50003)    3    0    0
------- Windsor(50027)    3    1    0
------- Orange(50017)    1    0    0
------- Washington(50023)    1    0    0
+------ Chittenden(50007)    12    1    0
+------ Bennington(50003)    4    0    0
+------ Windsor(50027)    6    1    0
+------ Orange(50017)    3    0    0
+------ Washington(50023)    2    0    0
 ------ Addison(50001)    1    0    0
+------ Rutland(50021)    1    0    0
 ---- DE    38    0    0
 ------ New Castle(10003)    27    0    0
 ------ Sussex(10005)    6    0    0
@@ -1469,13 +1476,14 @@
 ------ Laramie(56021)    4    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    1    0    0
----- MT    16    0    0
+---- MT    17    0    0
 ------ Missoula(30063)    3    0    0
 ------ Yellowstone(30111)    5    0    0
 ------ Broadwater(30007)    1    0    0
 ------ Gallatin(30031)    3    0    0
 ------ Silver Bow(30093)    1    0    0
 ------ Roosevelt(30085)    1    0    0
+------ Madison(30057)    1    0    0
 ---- ID    23    0    0
 ------ Ada(16001)    3    0    0
 ------ Blaine(16013)    16    0    0
@@ -1568,7 +1576,7 @@
 ---- Curacao    3    0    0
 -- Austria    2649    7    9
 -- Belgium    2257    37    204
--- Norway    1949    7    1
+-- Norway    1950    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1613,12 +1621,10 @@
 -- Denmark    1255    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    1030    3    87
--- Portugal    1020    6    5
--- Canada    951    13    12
+-- Canada    1077    13    14
 ---- British Columbia    271    8    4
 ---- Ontario    308    2    5
----- Alberta    146    1    0
+---- Alberta    195    1    0
 ---- Quebec    139    1    0
 ---- New Brunswick    11    0    0
 ---- Manitoba    17    0    0
@@ -1628,6 +1634,8 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
+-- Malaysia    1030    3    87
+-- Portugal    1020    6    5
 -- Brazil    904    11    2
 -- Australia    877    7    46
 ---- New South Wales    307    5    4
@@ -1648,12 +1656,12 @@
 -- Qatar    470    0    10
 -- Finland    450    0    10
 -- Chile    434    0    6
+-- Ecuador    426    7    3
 -- Poland    425    6    13
 -- Iceland    409    5    8
 -- Singapore    385    0    131
 ---- Central Singapore Community Development Council    345    0    124
 -- Indonesia    369    32    17
--- Ecuador    367    5    3
 -- Saudi Arabia    344    0    8
 -- Slovenia    341    1    0
 -- Thailand    322    1    42
@@ -1710,13 +1718,13 @@
 -- Cambodia    51    0    1
 -- Oman    48    0    13
 -- Palestine    48    0    17
+-- Senegal    47    0    5
 -- Guadeloupe    45    0    0
 -- Georgia    44    0    1
 -- Azerbaijan    44    1    7
 -- Venezuela, Bolivarian Republic of    42    0    0
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
--- Senegal    38    0    2
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
 -- Liechtenstein    28    0    0
