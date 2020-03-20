@@ -551,7 +551,7 @@
 ---- Baden-Württemberg    2748    11    14
 ---- Saxony-Anhalt    174    0    0
 ---- Saarland    217    0    0
--- United States of America    14340    218    129
+-- United States of America    14363    218    129
 ---- NY    5921    38    0
 ------ Westchester(36119)    798    0    0
 ------ Nassau(36059)    372    3    0
@@ -589,7 +589,7 @@
 ------ Washington(36115)    1    0    0
 ------ New York(36061)    3954    26    0
 ------ Niagara(36063)    4    0    0
------- Schoharie(36095)    1    0    0
+------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
 ------ Jefferson(36045)    1    0    0
 ------ Wayne(36117)    1    0    0
@@ -619,7 +619,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1057    19    6
+---- CA    1060    19    6
 ------ Santa Clara(06085)    189    6    0
 ------ Los Angeles(06037)    231    2    0
 ------ San Mateo(06081)    89    1    0
@@ -645,14 +645,14 @@
 ------ Tulare(06107)    7    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    3    0    0
------- Imperial(06025)    3    0    0
+------ Imperial(06025)    4    0    0
 ------ Monterey(06053)    4    0    0
 ------ Santa Barbara(06083)    8    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    1    0    0
 ------ Kern(06029)    4    0    0
------- Madera(06039)    1    0    0
+------ Madera(06039)    3    0    0
 ------ Nevada(06057)    1    0    0
 ------ Shasta(06089)    1    0    0
 ------ Siskiyou(06093)    9    0    0
@@ -749,7 +749,7 @@
 ------ Morgan(08087)    1    0    0
 ------ Crowley(08025)    1    1    0
 ------ Yuma(08125)    1    0    0
----- IL    422    4    2
+---- IL    423    4    2
 ------ Cook(17031)    278    2    0
 ------ Lake(17097)    37    0    0
 ------ Sangamon(17167)    4    1    0
@@ -769,6 +769,7 @@
 ------ Williamson(17199)    1    0    0
 ------ Washington(17189)    1    0    0
 ------ Kankakee(17091)    1    0    0
+------ Adams(17001)    1    0    0
 ---- GA    288    10    0
 ------ Fulton(13121)    66    2    0
 ------ Cobb(13067)    37    1    0
@@ -807,7 +808,7 @@
 ------ Muscogee(13215)    1    0    0
 ------ Peach(13225)    1    0    0
 ------ Effingham(13103)    1    0    0
----- TX    323    5    8
+---- TX    325    5    8
 ------ Dallas(48113)    59    1    0
 ------ Travis(48453)    41    0    0
 ------ Harris(48201)    35    1    0
@@ -832,7 +833,7 @@
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    1    0    0
 ------ Webb(48479)    1    0    0
------- Wichita(48485)    1    0    0
+------ Wichita(48485)    3    0    0
 ------ Johnson(48251)    2    0    0
 ------ Comal(48091)    1    0    0
 ------ Grimes(48185)    1    0    0
@@ -985,7 +986,7 @@
 ------ Gloucester(51073)    1    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
----- NC    138    0    0
+---- NC    139    0    0
 ------ Wake(37183)    25    0    0
 ------ Durham(37063)    35    0    0
 ------ Mecklenburg(37119)    31    0    0
@@ -1003,7 +1004,7 @@
 ------ Orange(37135)    1    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
------- Wayne(37191)    1    0    0
+------ Wayne(37191)    2    0    0
 ------ Wilson(37195)    2    0    0
 ------ Gaston(37071)    1    0    0
 ------ New Hanover(37129)    1    0    0
@@ -1244,13 +1245,13 @@
 ------ Winston(28159)    1    0    0
 ------ Yazoo(28163)    1    0    0
 ------ Lafayette(28071)    1    0    0
----- AZ    47    0    1
+---- AZ    53    0    1
 ------ Maricopa(04013)    22    0    0
 ------ Pinal(04021)    10    0    0
 ------ Pima(04019)    7    0    0
 ------ Graham(04009)    1    0    0
 ------ Navajo(04017)    3    0    0
------- Coconino(04005)    2    0    0
+------ Coconino(04005)    8    0    0
 ------ Santa Cruz(04023)    1    0    0
 ------ Yavapai(04025)    1    0    0
 ---- OK    46    1    1
@@ -1282,7 +1283,7 @@
 ------ Miami(20121)    1    0    0
 ------ Sedgwick(20173)    1    0    0
 ---- VT    22    2    0
------- Chittenden(50007)    4    0    0
+------ Chittenden(50007)    4    1    0
 ------ Bennington(50003)    3    0    0
 ------ Windsor(50027)    3    1    0
 ------ Orange(50017)    1    0    0
@@ -1350,8 +1351,8 @@
 ------ Mercer(54055)    1    0    0
 ------ Tucker(54093)    2    0    0
 ------ Monongalia(54061)    1    0    0
----- Unassigned Location (From Diamond Princess)    47    0    0
----- Grand Princess Cruise Ship    22    1    0
+---- Unassigned Location (From Diamond Princess)    55    0    0
+---- Grand Princess Cruise Ship    23    1    0
 ---- Others    23    0    0
 ---- GU    12    0    0
 ---- PR    5    0    0
@@ -1476,8 +1477,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    3    0    0
 ---- Nova Scotia    14    0    0
--- Portugal    786    4    4
--- Australia    785    7    46
+-- Australia    814    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
 ---- Queensland    144    0    8
@@ -1486,6 +1486,7 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    1    0    0
 ---- Australian Capital Territory    4    0    0
+-- Portugal    786    4    4
 -- Czechia    694    0    3
 -- Israel    677    0    14
 -- Brazil    647    7    2
@@ -1501,12 +1502,12 @@
 -- Chile    342    0    0
 -- Luxembourg    335    4    6
 -- Iceland    330    5    8
+-- Thailand    322    1    42
 -- Slovenia    319    1    0
 -- Indonesia    311    25    15
--- Bahrain    278    1    110
+-- Bahrain    279    1    110
 -- Romania    277    0    25
 -- Saudi Arabia    274    0    8
--- Thailand    272    1    42
 -- Estonia    267    0    1
 -- Ecuador    260    3    1
 -- Egypt    256    7    42
@@ -1533,7 +1534,7 @@
 -- Serbia    103    0    1
 -- Uruguay    94    0    0
 -- Algeria    90    9    32
--- Costa Rica    89    1    0
+-- Costa Rica    89    2    0
 -- Latvia    86    0    1
 -- Viet Nam    85    0    16
 -- Brunei Darussalam    75    0    0
@@ -1585,6 +1586,7 @@
 -- Montenegro    13    0    0
 -- Guam    12    0    0
 -- Guyana    11    1    0
+-- French Polynesia    11    0    0
 -- Ghana    11    0    0
 -- Rwanda    11    0    0
 -- Monaco    10    0    0
@@ -1596,7 +1598,6 @@
 -- Kenya    7    0    0
 -- Mauritius    7    0    0
 -- Mongolia    6    0    0
--- French Polynesia    6    0    0
 -- Puerto Rico    6    0    0
 -- Seychelles    6    0    0
 -- Equatorial Guinea    6    0    0
