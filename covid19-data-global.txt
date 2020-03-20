@@ -555,7 +555,7 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    16609    225    129
+-- United States of America    16638    225    129
 ---- NY    7245    39    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -857,17 +857,17 @@
 ------ Douglas(13097)    1    0    0
 ------ Monroe(13207)    1    0    0
 ------ Randolph(13243)    1    0    0
----- TX    342    5    8
+---- TX    352    5    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    41    0    0
------- Harris(48201)    35    1    0
+------ Harris(48201)    36    1    0
 ------ Bexar(48029)    29    0    0
 ------ Fort Bend(48157)    19    0    0
 ------ Collin(48085)    18    1    0
 ------ Tarrant(48439)    19    1    0
 ------ Smith(48423)    5    0    0
 ------ Montgomery(48339)    9    0    0
------- Bell(48027)    6    0    0
+------ Bell(48027)    7    0    0
 ------ El Paso(48141)    6    0    0
 ------ Hays(48209)    6    0    0
 ------ Brazoria(48039)    5    0    0
@@ -1149,7 +1149,7 @@
 ------ Baltimore City(24510)    8    0    0
 ------ Wicomico(24045)    1    0    0
 ------ Worcester(24047)    1    0    0
----- NV    95    1    0
+---- NV    96    1    0
 ------ Clark(32003)    69    1    0
 ------ Washoe(32031)    14    0    0
 ------ Carson City(32510)    1    0    0
@@ -1288,15 +1288,15 @@
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    1    0    0
 ------ San Miguel(35047)    1    0    0
----- RI    44    0    0
+---- RI    54    0    0
 ------ Providence(44007)    44    0    0
----- AR    62    0    0
+---- AR    65    0    0
 ------ Jefferson(05069)    10    0    0
------- Pulaski(05119)    10    0    0
------- Cleburne(05023)    5    0    0
+------ Pulaski(05119)    20    0    0
+------ Cleburne(05023)    10    0    0
 ------ Cleveland(05025)    1    0    0
 ------ Desha(05041)    1    0    0
------- Garland(05051)    1    0    0
+------ Garland(05051)    5    0    0
 ------ Lincoln(05079)    1    0    0
 ------ Saline(05125)    1    0    0
 ------ Washington(05143)    1    0    0
@@ -1305,6 +1305,16 @@
 ------ Grant(05053)    1    0    0
 ------ Pope(05115)    1    0    0
 ------ Van Buren(05141)    1    0    0
+------ Boone(05009)    1    0    0
+------ Clark(05019)    1    0    0
+------ Craighead(05031)    1    0    0
+------ Crittenden(05035)    1    0    0
+------ Greene(05055)    1    0    0
+------ Independence(05063)    1    0    0
+------ Poinsett(05111)    1    0    0
+------ Polk(05113)    1    0    0
+------ Searcy(05129)    1    0    0
+------ Sevier(05133)    1    0    0
 ---- MS    80    1    0
 ------ Hinds(28049)    7    0    0
 ------ Leflore(28083)    7    0    0
@@ -1377,8 +1387,8 @@
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
 ------ Sedgwick(20173)    1    0    0
----- VT    22    2    0
------- Chittenden(50007)    4    1    0
+---- VT    29    2    0
+------ Chittenden(50007)    9    1    0
 ------ Bennington(50003)    3    0    0
 ------ Windsor(50027)    3    1    0
 ------ Orange(50017)    1    0    0
@@ -1458,7 +1468,7 @@
 ---- PR    8    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- France    10995    372    1295
+-- France    12612    450    1295
 ---- France    7652    148    12
 ---- St Martin    4    0    0
 ---- Saint Barthelemy    3    0    0
@@ -1518,7 +1528,7 @@
 ---- Curacao    3    0    0
 -- Austria    2491    7    9
 -- Belgium    2257    37    204
--- Norway    1921    7    1
+-- Norway    1922    7    1
 -- Japan    1848    33    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1589,12 +1599,12 @@
 ---- Australian Capital Territory    4    0    0
 -- Czechia    833    0    4
 -- Israel    705    0    15
+-- Ireland    683    3    5
 -- Brazil    654    7    2
 -- Luxembourg    618    5    6
--- Ireland    557    3    5
 -- Pakistan    500    3    13
 -- Greece    495    9    19
--- Qatar    460    0    10
+-- Qatar    470    0    10
 -- Finland    450    0    10
 -- Chile    434    0    6
 -- Poland    411    6    13
@@ -1618,8 +1628,8 @@
 -- Philippines    230    19    8
 -- South Africa    202    0    0
 -- Iraq    192    13    49
+-- Lebanon    177    4    4
 -- Mexico    164    1    4
--- Lebanon    163    4    4
 -- Kuwait    159    0    22
 -- Colombia    145    0    1
 -- San Marino    144    14    4
@@ -1637,8 +1647,8 @@
 -- Viet Nam    91    0    17
 -- Algeria    90    11    32
 -- Costa Rica    89    2    0
--- Hungary    85    3    7
--- Bosnia and Herzegovina    83    0    2
+-- Hungary    85    4    7
+-- Bosnia and Herzegovina    84    0    2
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- Andorra    75    0    1
@@ -1668,9 +1678,9 @@
 -- Senegal    38    0    2
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
+-- Ukraine    29    3    1
 -- Liechtenstein    28    0    0
 -- Réunion    28    0    0
--- Ukraine    26    3    1
 -- Afghanistan    24    0    1
 -- Honduras    24    0    0
 -- Cameroon    20    0    2
@@ -1717,6 +1727,7 @@
 -- Virgin Islands, U.S.    3    0    0
 -- Curaçao    3    1    0
 -- Bahamas    3    0    0
+-- Madagascar    3    0    0
 -- Bhutan    2    0    0
 -- Guinea    2    0    0
 -- Mauritania    2    0    0
