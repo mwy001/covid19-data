@@ -1070,6 +1070,10 @@
 ------ Rockbridge(51163)    1    0    0
 ------ Franklin(51067)    1    0    0
 ------ Isle of Wight(51093)    1    0    0
+------ City of Alexandria(51510)    3    0    0
+------ City of Charlottesville(51540)    3    0    0
+------ City of Harrisonburg(51660)    1    0    0
+------ City of Norfolk(51710)    1    0    0
 ---- NC    190    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
@@ -1169,6 +1173,7 @@
 ------ Baltimore City(24510)    11    0    0
 ------ Wicomico(24045)    1    0    0
 ------ Worcester(24047)    1    0    0
+------ Prince Georges(24033)    31    1    0
 ---- NV    165    2    0
 ------ Clark(32003)    126    2    0
 ------ Washoe(32031)    22    0    0
@@ -1592,7 +1597,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    5616    57    15
+-- Switzerland    5711    57    15
 -- United Kingdom of Great Britain and Northern Ireland    4014    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1606,7 +1611,7 @@
 -- Netherlands    3003    107    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Belgium    2815    67    204
+-- Belgium    2815    67    263
 -- Austria    2695    7    9
 -- Norway    1995    7    1
 -- Japan    1848    35    215
@@ -1650,7 +1655,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 -- Sweden    1657    16    16
--- Denmark    1337    9    1
+-- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    1183    4    114
@@ -1686,23 +1691,23 @@
 -- Pakistan    588    4    13
 -- Finland    503    0    10
 -- Greece    495    10    19
+-- Iceland    473    5    8
 -- Qatar    470    0    10
 -- Indonesia    450    38    20
 -- Poland    439    6    13
 -- Chile    434    0    6
 -- Ecuador    426    7    3
 -- Thailand    411    1    42
--- Iceland    409    5    8
 -- Singapore    385    2    131
 ---- Central Singapore Community Development Council    345    0    124
+-- Romania    367    0    52
 -- Saudi Arabia    344    0    8
 -- Slovenia    341    1    0
--- Romania    308    0    31
 -- Philippines    307    19    13
 -- Estonia    306    0    1
 -- Bahrain    298    1    125
 -- Egypt    285    8    42
--- India    275    5    23
+-- India    283    5    23
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
 -- Russian Federation    253    1    12
@@ -1710,7 +1715,7 @@
 -- Iraq    208    17    49
 -- Mexico    203    2    4
 -- Panama    200    1    1
--- Lebanon    187    4    4
+-- Lebanon    187    4    8
 -- Kuwait    176    0    27
 -- Croatia    168    1    5
 -- Armenia    160    0    1
@@ -1726,7 +1731,7 @@
 -- Costa Rica    113    2    2
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
--- Algeria    94    11    32
+-- Algeria    95    11    32
 -- Viet Nam    92    0    17
 -- Faroe Islands    92    0    3
 -- Bosnia and Herzegovina    90    0    2
@@ -1734,10 +1739,10 @@
 -- Jordan    85    0    1
 -- Brunei Darussalam    83    0    1
 -- North Macedonia    77    0    1
+-- Sri Lanka    76    0    3
 -- Albania    76    2    2
 -- Andorra    75    0    1
 -- Cyprus    75    0    0
--- Sri Lanka    73    0    3
 -- Dominican Republic    72    2    0
 -- Belarus    69    0    15
 -- Lithuania    69    1    1
@@ -1745,6 +1750,7 @@
 -- Moldova, Republic of    66    1    1
 -- Venezuela, Bolivarian Republic of    65    0    1
 -- Malta    64    0    2
+-- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
 -- New Zealand    53    0    0
 -- Kazakhstan    53    3    0
@@ -1757,7 +1763,6 @@
 -- Réunion    45    0    0
 -- Azerbaijan    44    1    7
 -- Ukraine    41    3    1
--- Burkina Faso    40    1    4
 -- Liechtenstein    37    0    0
 -- Uzbekistan    37    0    0
 -- Martinique    32    1    0
@@ -1781,7 +1786,7 @@
 -- Montenegro    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    2
--- Guatemala    12    1    0
+-- Guatemala    13    1    0
 -- Kyrgyzstan    12    0    0
 -- Monaco    11    0    0
 -- Mongolia    10    0    0
@@ -1802,6 +1807,7 @@
 -- Gabon    4    1    0
 -- Suriname    4    0    0
 -- Bahamas    4    0    0
+-- New Caledonia    4    0    0
 -- Congo    3    0    0
 -- Cayman Islands    3    1    0
 -- Namibia    3    0    0
@@ -1821,7 +1827,6 @@
 -- Kosovo    2    0    0
 -- Greenland    2    0    0
 -- Benin    2    0    0
--- New Caledonia    2    0    0
 -- Zambia    2    0    0
 -- Bermuda    2    0    0
 -- Fiji    2    0    0
