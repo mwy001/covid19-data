@@ -555,11 +555,11 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- United States of America    19285    250    147
----- NY    8310    42    0
+-- United States of America    19387    256    147
+---- NY    8398    46    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
------- Suffolk(36103)    371    3    0
+------ Suffolk(36103)    459    7    0
 ------ Albany(36001)    70    0    0
 ------ Rockland(36087)    101    1    0
 ------ Dutchess(36027)    36    0    0
@@ -626,7 +626,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    2    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1200    23    6
+---- CA    1207    23    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    2    0
 ------ San Mateo(06081)    100    1    0
@@ -637,10 +637,10 @@
 ------ Orange(06059)    65    0    0
 ------ Alameda(06001)    48    0    0
 ------ Riverside(06065)    28    4    0
------- San Joaquin(06077)    20    2    0
+------ San Joaquin(06077)    25    2    0
 ------ Santa Cruz(06087)    15    0    0
 ------ Marin(06041)    25    0    0
------- Ventura(06111)    17    0    0
+------ Ventura(06111)    19    0    0
 ------ Placer(06061)    9    1    0
 ------ Solano(06095)    13    0    0
 ------ San Luis Obispo(06079)    16    0    0
@@ -942,7 +942,7 @@
 ------ Centre(42027)    1    0    0
 ------ Franklin(42055)    1    0    0
 ------ Potter(42105)    1    0    0
----- WI    207    4    1
+---- WI    210    4    1
 ------ Milwaukee(55079)    88    1    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
@@ -958,7 +958,7 @@
 ------ Brown(55009)    2    0    0
 ------ Walworth(55127)    3    0    0
 ------ Ozaukee(55089)    7    2    0
------- Eau Claire(55035)    1    0    0
+------ Eau Claire(55035)    4    0    0
 ------ Bayfield(55007)    1    0    0
 ------ Calumet(55015)    1    0    0
 ------ Columbia(55021)    5    0    0
@@ -1001,8 +1001,8 @@
 ------ Hamblen(47063)    1    0    0
 ------ Maury(47119)    1    0    0
 ------ Tipton(47167)    1    0    0
----- CT    199    3    0
------- Fairfield(09001)    122    3    0
+---- CT    199    4    0
+------ Fairfield(09001)    122    4    0
 ------ New Haven(09009)    23    0    0
 ------ Hartford(09003)    29    0    0
 ------ Litchfield(09005)    8    0    0
@@ -1180,8 +1180,8 @@
 ------ Baltimore City(24510)    8    0    0
 ------ Wicomico(24045)    1    0    0
 ------ Worcester(24047)    1    0    0
----- NV    114    1    0
------- Clark(32003)    74    1    0
+---- NV    114    2    0
+------ Clark(32003)    74    2    0
 ------ Washoe(32031)    14    0    0
 ------ Carson City(32510)    1    0    0
 ------ Elko(32007)    1    0    0
@@ -1296,9 +1296,9 @@
 ------ Dubuque(19061)    1    0    0
 ------ Muscatine(19139)    1    0    0
 ---- KY    50    2    2
------- Jefferson(21111)    8    1    0
+------ Jefferson(21111)    12    1    0
 ------ Fayette(21067)    8    0    0
------- Harrison(21097)    6    0    0
+------ Harrison(21097)    7    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Bourbon(21017)    2    1    0
 ------ Clark(21049)    2    0    0
@@ -1311,6 +1311,7 @@
 ------ Henderson(21101)    1    0    0
 ------ Christian(21047)    1    0    0
 ------ Pulaski(21199)    1    0    0
+------ Calloway(21035)    1    0    0
 ---- NH    56    0    0
 ------ Rockingham(33015)    20    0    0
 ------ Grafton(33009)    12    0    0
@@ -1421,14 +1422,14 @@
 ------ Washington(40147)    1    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    1    0    0
----- KS    47    1    0
+---- KS    49    1    0
 ------ Johnson(20091)    23    0    0
 ------ Wyandotte(20209)    9    1    0
 ------ Butler(20015)    2    0    0
 ------ Douglas(20045)    1    0    0
 ------ Ford(20057)    1    0    0
 ------ Franklin(20059)    1    0    0
------- Leavenworth(20103)    2    0    0
+------ Leavenworth(20103)    4    0    0
 ------ Cherokee(20021)    1    0    0
 ------ Jackson(20085)    1    0    0
 ------ Linn(20107)    1    0    0
@@ -1450,7 +1451,7 @@
 ------ Kent(10001)    5    0    0
 ---- MO    87    2    0
 ------ Greene(29077)    6    0    0
------- Cass(29037)    4    0    0
+------ Cass(29037)    6    0    0
 ------ Boone(29019)    8    1    0
 ------ Cole(29051)    2    0    0
 ------ Henry(29083)    1    0    0
@@ -1628,9 +1629,9 @@
 -- Denmark    1255    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1077    13    14
+-- Canada    1087    13    14
 ---- British Columbia    348    8    4
----- Ontario    308    2    5
+---- Ontario    318    2    5
 ---- Alberta    195    1    0
 ---- Quebec    139    1    0
 ---- New Brunswick    11    0    0
@@ -1643,7 +1644,7 @@
 ---- Nova Scotia    15    0    0
 -- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Brazil    904    11    2
+-- Brazil    970    11    2
 -- Australia    877    7    46
 ---- New South Wales    307    5    4
 ---- Victoria    121    0    8
@@ -1683,24 +1684,24 @@
 -- Philippines    230    19    8
 -- Iraq    208    17    49
 -- South Africa    202    0    0
+-- Panama    200    1    1
 -- Lebanon    177    4    4
 -- Mexico    164    1    4
 -- Kuwait    159    0    22
+-- Argentina    158    3    3
 -- Colombia    145    0    1
 -- San Marino    144    14    4
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
--- Panama    137    1    1
 -- Armenia    136    0    1
 -- Serbia    135    1    2
 -- Taiwan    135    2    28
 -- Croatia    130    1    5
 -- Bulgaria    129    3    1
--- Argentina    128    3    3
 -- Costa Rica    113    2    2
 -- Latvia    111    0    1
+-- Uruguay    110    0    0
 -- Algeria    94    11    32
--- Uruguay    94    0    0
 -- Viet Nam    91    0    17
 -- Bosnia and Herzegovina    89    0    2
 -- Jordan    85    0    1
@@ -1717,6 +1718,7 @@
 -- Belarus    69    0    15
 -- Nigeria    69    0    1
 -- Moldova, Republic of    66    1    1
+-- Venezuela, Bolivarian Republic of    65    0    1
 -- Malta    64    0    2
 -- Lithuania    63    0    1
 -- Tunisia    54    1    1
@@ -1729,7 +1731,6 @@
 -- Guadeloupe    45    0    0
 -- Georgia    44    0    1
 -- Azerbaijan    44    1    7
--- Venezuela, Bolivarian Republic of    42    0    0
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
 -- Uzbekistan    33    0    0
@@ -1740,10 +1741,11 @@
 -- Honduras    24    0    0
 -- Cameroon    20    0    2
 -- Bangladesh    20    1    3
+-- Jamaica    19    1    2
+-- Paraguay    18    0    0
 -- Bolivia, Plurinational State of    17    0    0
 -- Rwanda    17    0    0
 -- Macao    17    0    10
--- Jamaica    16    1    2
 -- Cuba    16    1    0
 -- Ghana    16    0    8
 -- French Guiana    15    0    0
@@ -1753,7 +1755,6 @@
 -- Congo, Democratic Republic of the    14    0    0
 -- Montenegro    14    0    0
 -- Maldives    13    0    2
--- Paraguay    13    0    0
 -- Guatemala    12    1    0
 -- Mauritius    12    0    0
 -- Monaco    11    0    0
