@@ -485,7 +485,7 @@
 ---- Liguria    1221    119    101
 ---- Veneto    4031    131    223
 ---- Bolzano    548    17    1
--- Spain    21571    1093    1588
+-- Spain    24926    1326    2125
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -1531,7 +1531,7 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    20046    69    180
+-- Germany    20142    70    180
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1649,7 +1649,7 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Sweden    1639    16    16
+-- Sweden    1657    16    16
 -- Denmark    1337    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1721,7 +1721,7 @@
 -- Serbia    149    1    2
 -- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
--- Slovakia    137    1    0
+-- Slovakia    137    1    7
 -- Latvia    124    0    1
 -- Costa Rica    113    2    2
 -- Uruguay    110    0    0
@@ -1745,7 +1745,7 @@
 -- Moldova, Republic of    66    1    1
 -- Venezuela, Bolivarian Republic of    65    0    1
 -- Malta    64    0    2
--- Tunisia    54    1    1
+-- Tunisia    60    1    1
 -- New Zealand    53    0    0
 -- Kazakhstan    53    3    0
 -- Oman    52    0    13
@@ -1769,7 +1769,7 @@
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
 -- Ghana    19    0    8
--- Paraguay    18    0    0
+-- Paraguay    18    1    0
 -- Congo, Democratic Republic of the    18    0    0
 -- Rwanda    17    0    0
 -- Macao    17    0    10
