@@ -1516,7 +1516,7 @@
 ---- Baden-Württemberg    3665    17    14
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
--- Iran, Islamic Republic of    19644    1433    6745
+-- Iran, Islamic Republic of    19644    1556    6745
 ---- Qom    1141    30    0
 ---- Tehran    4617    0    0
 ---- Fars    457    2    0
@@ -1608,7 +1608,7 @@
 ---- Curacao    3    0    0
 -- Austria    2690    7    9
 -- Belgium    2257    37    204
--- Norway    1980    7    1
+-- Norway    1993    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1679,14 +1679,14 @@
 -- Portugal    1020    7    5
 -- Brazil    977    11    2
 -- Czechia    904    0    4
--- Israel    705    1    15
+-- Israel    705    1    36
 -- Ireland    683    3    5
 -- Turkey    670    9    0
 -- Luxembourg    618    5    6
 -- Pakistan    588    4    13
+-- Finland    503    0    10
 -- Greece    495    10    19
 -- Qatar    470    0    10
--- Finland    450    0    10
 -- Indonesia    450    38    20
 -- Poland    439    6    13
 -- Chile    434    0    6
@@ -1706,11 +1706,11 @@
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
 -- Russian Federation    253    1    12
--- South Africa    240    0    0
+-- South Africa    240    0    1
 -- Iraq    208    17    49
 -- Mexico    203    2    4
 -- Panama    200    1    1
--- Lebanon    177    4    4
+-- Lebanon    187    4    4
 -- Kuwait    176    0    27
 -- Croatia    168    1    5
 -- Armenia    160    0    1
@@ -1732,7 +1732,7 @@
 -- Bosnia and Herzegovina    90    0    2
 -- Morocco    86    3    2
 -- Jordan    85    0    1
--- Brunei Darussalam    78    0    1
+-- Brunei Darussalam    83    0    1
 -- North Macedonia    76    0    1
 -- Andorra    75    0    1
 -- Cyprus    75    0    0
@@ -1754,10 +1754,10 @@
 -- Guadeloupe    51    1    0
 -- Georgia    47    0    1
 -- Senegal    47    0    5
+-- Réunion    45    0    0
 -- Azerbaijan    44    1    7
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
--- Réunion    38    0    0
 -- Liechtenstein    37    0    0
 -- Uzbekistan    37    0    0
 -- Martinique    32    1    0
@@ -1811,6 +1811,7 @@
 -- Liberia    3    0    0
 -- El Salvador    3    0    0
 -- Madagascar    3    0    0
+-- Zimbabwe    3    0    0
 -- Bhutan    2    0    0
 -- Guinea    2    0    0
 -- Mauritania    2    0    0
@@ -1842,5 +1843,4 @@
 -- Niger    1    0    0
 -- Papua New Guinea    1    0    0
 -- Cabo Verde    1    0    0
--- Zimbabwe    1    0    0
 -- Timor-Leste    1    0    0
