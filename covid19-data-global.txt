@@ -1666,8 +1666,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
--- Malaysia    1030    3    87
--- Australia    1023    7    46
+-- Australia    1051    7    46
 ---- New South Wales    353    6    4
 ---- Victoria    121    0    8
 ---- Queensland    184    0    8
@@ -1676,6 +1675,7 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
+-- Malaysia    1030    3    87
 -- Portugal    1020    6    5
 -- Brazil    970    11    2
 -- Czechia    833    0    4
@@ -1690,22 +1690,22 @@
 -- Chile    434    0    6
 -- Ecuador    426    7    3
 -- Poland    425    6    13
+-- Thailand    411    1    42
 -- Iceland    409    5    8
 -- Singapore    385    2    131
 ---- Central Singapore Community Development Council    345    0    124
 -- Indonesia    369    32    17
 -- Saudi Arabia    344    0    8
 -- Slovenia    341    1    0
--- Thailand    322    1    42
 -- Romania    308    0    31
 -- Bahrain    298    1    125
 -- Egypt    285    8    42
 -- Estonia    283    0    1
+-- India    270    5    23
 -- Peru    263    4    1
--- India    258    5    23
+-- Philippines    262    19    8
 -- Hong Kong    256    4    98
 -- Russian Federation    253    1    12
--- Philippines    230    19    8
 -- Iraq    208    17    49
 -- Mexico    203    2    4
 -- South Africa    202    0    0
@@ -1721,7 +1721,7 @@
 -- Serbia    135    1    2
 -- Taiwan    135    2    28
 -- Croatia    130    1    5
--- Bulgaria    129    3    1
+-- Bulgaria    129    3    3
 -- Costa Rica    113    2    2
 -- Latvia    111    0    1
 -- Uruguay    110    0    0
@@ -1783,6 +1783,7 @@
 -- Mauritius    12    0    0
 -- Monaco    11    0    0
 -- French Polynesia    11    0    0
+-- Mongolia    10    0    0
 -- Gibraltar    10    0    2
 -- Togo    9    0    1
 -- Côte d'Ivoire    9    0    1
@@ -1791,7 +1792,6 @@
 -- Kenya    7    0    0
 -- Mayotte    7    0    0
 -- Seychelles    7    0    0
--- Mongolia    6    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
 -- Tanzania, United Republic of    6    0    0
@@ -1808,6 +1808,7 @@
 -- Saint Barthélemy    3    0    0
 -- Curaçao    3    1    0
 -- Central African Republic    3    0    0
+-- El Salvador    3    0    0
 -- Madagascar    3    0    0
 -- Bhutan    2    0    0
 -- Guinea    2    0    0
@@ -1822,6 +1823,7 @@
 -- New Caledonia    2    0    0
 -- Zambia    2    0    0
 -- Bermuda    2    0    0
+-- Fiji    2    0    0
 -- Nicaragua    2    0    0
 -- Isle of Man    2    0    0
 -- Haiti    2    0    0
@@ -1835,8 +1837,6 @@
 -- Gambia    1    0    0
 -- Montserrat    1    0    0
 -- Djibouti    1    0    0
--- El Salvador    1    0    0
--- Fiji    1    0    0
 -- Chad    1    0    0
 -- Niger    1    0    0
 -- Angola    1    0    0
