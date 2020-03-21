@@ -485,7 +485,7 @@
 ---- Liguria    1221    119    101
 ---- Veneto    4031    131    223
 ---- Bolzano    548    17    1
--- Spain    21510    1093    1588
+-- Spain    21571    1093    1588
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -507,55 +507,23 @@
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
 -- Germany    19848    68    180
----- Saxony    389    0    0
----- Mecklenburg-Vorpommern    133    0    0
----- Free State of Bavaria    2282    13    14
----- Berlin    688    0    6
----- Brandenburg    232    0    1
----- Thuringia    189    0    2
+---- Saxony    562    1    2
+---- Mecklenburg-Vorpommern    167    0    0
+---- Free State of Bavaria    3107    20    15
+---- Berlin    868    1    6
+---- Brandenburg    265    0    1
+---- Thuringia    215    1    3
 ---- Schleswig-Holstein    321    1    0
----- Lower Saxony    981    0    1
----- Bremen    119    0    3
----- Hamburg    506    1    1
----- Rhineland-Palatinate    749    0    1
----- North Rhine-Westphalia    4971    17    75
----- Hesse    740    1    3
----- Baden-Württemberg    2748    11    14
----- Saxony-Anhalt    174    0    0
----- Saarland    217    0    0
--- Iran, Islamic Republic of    19644    1433    6745
----- Qom    1141    30    0
----- Tehran    4617    0    0
----- Fars    457    2    0
----- Markazi    846    11    0
----- Mazandaran    1636    13    0
----- Ardabil    264    3    0
----- South Khorasan    163    1    0
----- Ilam    148    0    0
----- Isfahan    1791    2    0
----- Hamadan    197    1    0
----- Razavi Khorasan    759    8    0
----- Hormozgan    146    2    0
----- Kurdistan    215    0    0
----- Qazvin    581    7    0
----- Yazd    589    3    0
----- West Azerbaijan    353    0    0
----- Gilan    1096    0    0
----- Golestan    375    6    0
----- Khuzestan    391    12    0
----- Alborz    1062    7    0
----- Semnan    645    0    0
----- Lorestan    409    4    0
----- East Azerbaijan    684    6    0
----- Kermanshah    163    2    0
----- Sistan and Baluchestan    114    0    0
----- Kerman    153    0    0
----- Zanjan    331    0    0
----- Chaharmahal and Bakhtiari    64    0    0
----- North Khorasan    138    0    0
----- Kohgiluyeh and Boyer-Ahmad    61    0    0
----- Bushehr    55    0    0
--- United States of America    19627    263    147
+---- Lower Saxony    1262    0    4
+---- Bremen    127    0    3
+---- Hamburg    664    1    1
+---- Rhineland-Palatinate    890    2    1
+---- North Rhine-Westphalia    6301    22    127
+---- Hesse    962    2    3
+---- Baden-Württemberg    3665    17    14
+---- Saxony-Anhalt    217    0    0
+---- Saarland    255    0    0
+-- United States of America    19648    263    147
 ---- NY    8403    46    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -565,7 +533,7 @@
 ------ Dutchess(36027)    36    0    0
 ------ Orange(36071)    84    0    0
 ------ Monroe(36055)    36    1    0
------- Erie(36029)    31    0    0
+------ Erie(36029)    47    0    0
 ------ Saratoga(36091)    24    0    0
 ------ Ulster(36111)    12    0    0
 ------ Schenectady(36093)    21    0    0
@@ -942,8 +910,8 @@
 ------ Centre(42027)    1    0    0
 ------ Franklin(42055)    1    0    0
 ------ Potter(42105)    1    0    0
----- WI    210    4    1
------- Milwaukee(55079)    88    1    0
+---- WI    219    4    1
+------ Milwaukee(55079)    95    1    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
 ------ Waukesha(55133)    15    0    0
@@ -1222,12 +1190,12 @@
 ------ Florence(45041)    1    1    0
 ------ Pickens(45077)    1    0    0
 ------ Sumter(45085)    1    0    0
----- AL    107    0    0
+---- AL    108    0    0
 ------ Jefferson(01073)    50    0    0
 ------ Shelby(01117)    10    0    0
 ------ Lee(01081)    11    0    0
 ------ Tuscaloosa(01125)    4    0    0
------- Elmore(01051)    5    0    0
+------ Elmore(01051)    6    0    0
 ------ Montgomery(01101)    3    0    0
 ------ Baldwin(01003)    3    0    0
 ------ Limestone(01083)    1    0    0
@@ -1242,6 +1210,7 @@
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    1    0    0
 ------ Washington(01129)    1    0    0
+------ Cullman(01043)    1    0    0
 ---- ME    56    0    0
 ------ Cumberland(23005)    35    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1344,10 +1313,10 @@
 ------ San Miguel(35047)    1    0    0
 ---- RI    54    0    0
 ------ Providence(44007)    44    0    0
----- AR    96    0    0
------- Jefferson(05069)    10    0    0
------- Pulaski(05119)    20    0    0
------- Cleburne(05023)    10    0    0
+---- AR    100    0    0
+------ Jefferson(05069)    12    0    0
+------ Pulaski(05119)    24    0    0
+------ Cleburne(05023)    17    0    0
 ------ Cleveland(05025)    1    0    0
 ------ Desha(05041)    1    0    0
 ------ Garland(05051)    5    0    0
@@ -1483,14 +1452,15 @@
 ------ Davison(46035)    1    0    0
 ------ Pennington(46103)    1    1    0
 ------ McCook(46087)    1    0    0
----- WY    21    0    0
+---- WY    22    0    0
 ------ Fremont(56013)    9    0    0
 ------ Sheridan(56033)    4    0    0
 ------ Laramie(56021)    4    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    2    0    0
 ------ Campbell(56005)    1    0    0
----- MT    20    0    0
+------ Natrona(56025)    1    0    0
+---- MT    21    0    0
 ------ Missoula(30063)    3    0    0
 ------ Yellowstone(30111)    5    0    0
 ------ Broadwater(30007)    1    0    0
@@ -1526,6 +1496,7 @@
 ------ Tucker(54093)    2    0    0
 ------ Monongalia(54061)    1    0    0
 ------ Jackson(54035)    1    0    0
+------ Kanawha(54039)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    23    1    0
 ---- Others    34    0    0
@@ -1534,7 +1505,39 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- France    12632    450    1587
+-- Iran, Islamic Republic of    19644    1433    6745
+---- Qom    1141    30    0
+---- Tehran    4617    0    0
+---- Fars    457    2    0
+---- Markazi    846    11    0
+---- Mazandaran    1636    13    0
+---- Ardabil    264    3    0
+---- South Khorasan    163    1    0
+---- Ilam    148    0    0
+---- Isfahan    1791    2    0
+---- Hamadan    197    1    0
+---- Razavi Khorasan    759    8    0
+---- Hormozgan    146    2    0
+---- Kurdistan    215    0    0
+---- Qazvin    581    7    0
+---- Yazd    589    3    0
+---- West Azerbaijan    353    0    0
+---- Gilan    1096    0    0
+---- Golestan    375    6    0
+---- Khuzestan    391    12    0
+---- Alborz    1062    7    0
+---- Semnan    645    0    0
+---- Lorestan    409    4    0
+---- East Azerbaijan    684    6    0
+---- Kermanshah    163    2    0
+---- Sistan and Baluchestan    114    0    0
+---- Kerman    153    0    0
+---- Zanjan    331    0    0
+---- Chaharmahal and Bakhtiari    64    0    0
+---- North Khorasan    138    0    0
+---- Kohgiluyeh and Boyer-Ahmad    61    0    0
+---- Bushehr    55    0    0
+-- France    12726    450    1587
 ---- France    7652    148    12
 ---- St Martin    4    0    0
 ---- Saint Barthelemy    3    0    0
@@ -1558,35 +1561,35 @@
 ---- French Polynesia    11    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    7    0    0
----- Reunion    14    0    0
+---- Reunion    28    0    0
 -- Korea, Republic of    8799    102    2612
----- Busan    108    1    60
----- Chungcheongbuk-do    33    0    6
----- Chungcheongnam-do    119    0    32
----- Daegu    6275    69    1577
+---- Busan    108    1    67
+---- Chungcheongbuk-do    34    0    8
+---- Chungcheongnam-do    119    0    39
+---- Daegu    6344    73    1861
 ---- Daejeon    22    0    5
----- Gangwon-do    30    1    10
+---- Gangwon-do    30    1    12
 ---- Gwangju    18    0    10
----- Gyeonggi-do    309    3    66
----- Gyeongsangbuk-do    1203    23    340
----- Gyeongsangnam-do    87    0    33
----- Incheon    36    0    7
+---- Gyeonggi-do    321    3    79
+---- Gyeongsangbuk-do    1243    24    395
+---- Gyeongsangnam-do    87    0    40
+---- Incheon    40    0    7
 ---- Jeju-do    4    0    2
 ---- Jeollabuk-do    10    0    7
 ---- Jeollanam-do    5    0    3
----- Sejong    41    0    0
----- Seoul    299    0    64
+---- Sejong    41    0    2
+---- Seoul    314    0    64
 ---- Ulsan    36    0    11
----- 未确定地区    17    3    0
+---- 未确定地区    23    3    0
 -- Switzerland    5615    56    15
 -- United Kingdom of Great Britain and Northern Ireland    4014    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    2756    128    0
----- Northern Ireland    77    1    0
----- Wales    170    2    0
----- Scotland    266    10    0
+---- England    3384    128    0
+---- Northern Ireland    86    1    0
+---- Wales    191    2    0
+---- Scotland    322    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Netherlands    3003    107    2
@@ -1699,8 +1702,8 @@
 -- Mexico    164    1    4
 -- Kuwait    159    0    22
 -- Argentina    158    3    3
+-- San Marino    151    14    4
 -- Colombia    145    0    1
--- San Marino    144    14    4
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
 -- Armenia    136    0    1
@@ -1747,10 +1750,10 @@
 -- Martinique    32    1    0
 -- Liechtenstein    28    0    0
 -- Réunion    28    0    0
+-- Cameroon    27    0    2
 -- Afghanistan    24    0    1
 -- Honduras    24    0    0
 -- Cuba    21    1    0
--- Cameroon    20    0    2
 -- Bangladesh    20    1    3
 -- Jamaica    19    1    2
 -- Paraguay    18    0    0
