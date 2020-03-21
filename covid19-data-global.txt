@@ -524,36 +524,36 @@
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
 -- Iran, Islamic Republic of    20610    1556    7635
----- Qom    1141    30    0
----- Tehran    4617    0    0
----- Fars    457    2    0
+---- Qom    1161    30    0
+---- Tehran    4849    0    0
+---- Fars    479    2    0
 ---- Markazi    846    11    0
----- Mazandaran    1636    13    0
----- Ardabil    264    3    0
+---- Mazandaran    1664    13    0
+---- Ardabil    270    3    0
 ---- South Khorasan    163    1    0
----- Ilam    148    0    0
----- Isfahan    1791    2    0
----- Hamadan    197    1    0
----- Razavi Khorasan    759    8    0
+---- Ilam    166    0    0
+---- Isfahan    1892    2    0
+---- Hamadan    224    1    0
+---- Razavi Khorasan    816    8    0
 ---- Hormozgan    146    2    0
----- Kurdistan    215    0    0
----- Qazvin    581    7    0
----- Yazd    589    3    0
----- West Azerbaijan    353    0    0
----- Gilan    1096    0    0
----- Golestan    375    6    0
----- Khuzestan    391    12    0
----- Alborz    1062    7    0
+---- Kurdistan    222    0    0
+---- Qazvin    640    7    0
+---- Yazd    641    3    0
+---- West Azerbaijan    367    0    0
+---- Gilan    1153    0    0
+---- Golestan    381    6    0
+---- Khuzestan    422    12    0
+---- Alborz    1117    7    0
 ---- Semnan    645    0    0
----- Lorestan    409    4    0
----- East Azerbaijan    684    6    0
----- Kermanshah    163    2    0
----- Sistan and Baluchestan    114    0    0
----- Kerman    153    0    0
----- Zanjan    331    0    0
----- Chaharmahal and Bakhtiari    64    0    0
----- North Khorasan    138    0    0
----- Kohgiluyeh and Boyer-Ahmad    61    0    0
+---- Lorestan    443    4    0
+---- East Azerbaijan    756    6    0
+---- Kermanshah    168    2    0
+---- Sistan and Baluchestan    119    0    0
+---- Kerman    161    0    0
+---- Zanjan    366    0    0
+---- Chaharmahal and Bakhtiari    66    0    0
+---- North Khorasan    139    0    0
+---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
 -- United States of America    20193    280    147
 ---- NY    8935    60    0
@@ -1098,7 +1098,7 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    190    0    0
+---- NC    193    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    43    0    0
@@ -1136,6 +1136,7 @@
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    1    0    0
 ------ Carteret(37031)    1    0    0
+------ Cherokee(37039)    4    0    0
 ---- MI    552    4    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
@@ -1526,7 +1527,7 @@
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    1    0    0
 ------ Flathead(30029)    2    0    0
------- Lewis and Clark(30049)    2    0    0
+------ Lewis and Clark(30049)    3    0    0
 ---- ID    36    0    0
 ------ Ada(16001)    8    0    0
 ------ Blaine(16013)    19    0    0
@@ -1608,7 +1609,7 @@
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
 -- Switzerland    6186    58    15
--- United Kingdom of Great Britain and Northern Ireland    4014    184    67
+-- United Kingdom of Great Britain and Northern Ireland    4072    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1622,8 +1623,8 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    2815    67    263
--- Austria    2785    7    9
--- Norway    1999    7    1
+-- Austria    2814    8    9
+-- Norway    2003    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1650,7 +1651,7 @@
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
 ---- hyogo    107    4    0
----- oita    9    0    0
+---- oita    13    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    4    0    0
@@ -1692,20 +1693,20 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Brazil    986    12    2
--- Czechia    925    0    4
+-- Brazil    987    12    2
+-- Czechia    925    0    5
 -- Israel    883    1    36
 -- Ireland    683    3    5
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
 -- Pakistan    666    4    13
+-- Chile    537    0    6
 -- Finland    521    1    10
 -- Greece    495    13    19
 -- Iceland    473    5    8
 -- Qatar    470    0    10
 -- Poland    452    6    13
 -- Indonesia    450    38    20
--- Chile    434    0    6
 -- Singapore    432    2    140
 ---- Central Singapore Community Development Council    345    0    124
 -- Ecuador    426    7    3
@@ -1715,12 +1716,12 @@
 -- Romania    367    0    52
 -- Philippines    307    19    13
 -- Estonia    306    0    1
+-- Russian Federation    306    1    16
 -- Bahrain    305    1    125
 -- Egypt    285    8    42
 -- India    283    5    23
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
--- Russian Federation    253    1    12
 -- South Africa    240    0    2
 -- Iraq    214    17    51
 -- Lebanon    206    4    8
@@ -1741,7 +1742,7 @@
 -- Costa Rica    113    2    2
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
--- Algeria    95    12    32
+-- Algeria    95    12    43
 -- Viet Nam    94    0    17
 -- Faroe Islands    92    0    3
 -- Bosnia and Herzegovina    91    0    2
@@ -1773,8 +1774,8 @@
 -- Réunion    45    0    0
 -- Azerbaijan    44    1    7
 -- Ukraine    41    3    1
+-- Uzbekistan    41    0    0
 -- Liechtenstein    37    0    0
--- Uzbekistan    37    0    0
 -- Martinique    32    1    0
 -- Cameroon    27    0    2
 -- Afghanistan    24    0    1
