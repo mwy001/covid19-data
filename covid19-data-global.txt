@@ -463,7 +463,7 @@
 ------ 咸宁    836    15    821
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
--- Italy    47021    4032    5129
+-- Italy    53578    4825    6072
 ---- Abruzzo    449    17    10
 ---- Aosta Valley    264    7    0
 ---- Apulia    581    26    4
@@ -577,12 +577,12 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1265    25    6
+---- CA    1273    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
 ------ San Diego(06073)    131    0    0
------- San Francisco(06075)    76    0    0
+------ San Francisco(06075)    84    0    0
 ------ Sacramento(06067)    53    3    0
 ------ Contra Costa(06013)    46    1    0
 ------ Orange(06059)    65    0    0
@@ -771,23 +771,23 @@
 ------ McLean(17113)    4    0    0
 ------ Christian(17021)    1    0    0
 ------ La Salle(17099)    1    0    0
----- GA    485    14    0
------- Fulton(13121)    88    2    0
------- Cobb(13067)    47    1    0
------- Bartow(13015)    54    0    0
------- Cherokee(13057)    16    0    0
+---- GA    507    14    0
+------ Fulton(13121)    92    2    0
+------ Cobb(13067)    49    1    0
+------ Bartow(13015)    56    0    0
+------ Cherokee(13057)    17    0    0
 ------ Gwinnett(13135)    23    0    0
------- Dougherty(13095)    44    4    0
------- Floyd(13115)    7    1    0
------- Clayton(13063)    10    0    0
+------ Dougherty(13095)    46    4    0
+------ Floyd(13115)    8    1    0
+------ Clayton(13063)    11    0    0
 ------ Fayette(13113)    10    1    0
 ------ Lowndes(13185)    8    0    0
 ------ Clarke(13059)    10    0    0
------- Coweta(13077)    6    0    0
------- Richmond(13245)    8    0    0
+------ Coweta(13077)    7    0    0
+------ Richmond(13245)    9    0    0
 ------ Gordon(13129)    4    0    0
 ------ Henry(13151)    6    0    0
------- Lee(13177)    13    0    0
+------ Lee(13177)    14    0    0
 ------ Troup(13285)    4    0    0
 ------ Barrow(13013)    1    0    0
 ------ Charlton(13049)    1    0    0
@@ -807,7 +807,7 @@
 ------ Laurens(13175)    2    0    0
 ------ Bibb(13021)    1    0    0
 ------ Muscogee(13215)    2    0    0
------- Peach(13225)    1    0    0
+------ Peach(13225)    2    0    0
 ------ Effingham(13103)    1    0    0
 ------ DeKalb(13089)    36    0    0
 ------ Carroll(13045)    7    0    0
@@ -826,7 +826,9 @@
 ------ Pickens(13227)    2    0    0
 ------ Sumter(13261)    2    0    0
 ------ Lamar(13171)    1    0    0
----- TX    434    6    8
+------ Baldwin(13009)    2    0    0
+------ Lincoln(13181)    1    0    0
+---- TX    439    6    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -837,14 +839,14 @@
 ------ Smith(48423)    5    0    0
 ------ Montgomery(48339)    10    0    0
 ------ Bell(48027)    7    0    0
------- El Paso(48141)    6    0    0
+------ El Paso(48141)    7    0    0
 ------ Hays(48209)    6    0    0
 ------ Brazoria(48039)    10    0    0
 ------ Galveston(48167)    6    0    0
 ------ Lubbock(48303)    3    0    0
 ------ Matagorda(48321)    3    1    0
 ------ Bowie(48037)    1    0    0
------- Brazos(48041)    6    0    0
+------ Brazos(48041)    10    0    0
 ------ Denton(48121)    18    0    0
 ------ Ellis(48139)    2    0    0
 ------ Gregg(48183)    1    0    0
@@ -877,7 +879,7 @@
 ------ Kendall(48259)    1    0    0
 ------ Guadalupe(48187)    1    0    0
 ------ Fayette(48149)    1    0    0
----- PA    314    2    0
+---- PA    374    2    0
 ------ Montgomery(42091)    68    0    0
 ------ Philadelphia(42101)    67    0    0
 ------ Allegheny(42003)    31    1    0
@@ -1055,8 +1057,8 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    240    0    0
------- Wake(37183)    32    0    0
+---- NC    246    0    0
+------ Wake(37183)    33    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    77    0    0
 ------ Chatham(37037)    3    0    0
@@ -1070,7 +1072,7 @@
 ------ Iredell(37097)    2    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    1    0    0
------- Orange(37135)    4    0    0
+------ Orange(37135)    6    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    2    0    0
@@ -1095,6 +1097,9 @@
 ------ Carteret(37031)    1    0    0
 ------ Cherokee(37039)    4    0    0
 ------ Robeson(37155)    1    0    0
+------ Granville(37077)    1    0    0
+------ Hyde(37095)    1    0    0
+------ Scotland(37165)    1    0    0
 ---- MI    554    4    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
@@ -1119,30 +1124,33 @@
 ------ Isabella(26073)    1    0    0
 ------ Barry(26015)    1    0    0
 ------ Wexford(26165)    1    0    0
----- MN    139    1    0
------- Hennepin(27053)    45    0    0
------- Ramsey(27123)    17    0    0
+---- MN    140    1    0
+------ Hennepin(27053)    52    0    0
+------ Ramsey(27123)    17    1    0
 ------ Dakota(27037)    8    0    0
 ------ Olmsted(27109)    12    0    0
 ------ Anoka(27003)    6    0    0
 ------ Stearns(27145)    4    0    0
 ------ Benton(27009)    2    0    0
------- Washington(27163)    3    0    0
------- Blue Earth(27013)    2    0    0
+------ Washington(27163)    4    0    0
+------ Blue Earth(27013)    3    0    0
 ------ Carver(27019)    3    0    0
 ------ Renville(27129)    1    0    0
 ------ Sherburne(27141)    1    0    0
 ------ Waseca(27161)    1    0    0
------- Wright(27171)    2    0    0
------- Martin(27091)    4    0    0
+------ Wright(27171)    3    0    0
+------ Martin(27091)    5    0    0
 ------ Nicollet(27103)    2    0    0
 ------ Scott(27139)    2    0    0
------- Mower(27099)    1    0    0
+------ Mower(27099)    3    0    0
 ------ Rice(27131)    1    0    0
 ------ Wadena(27159)    1    0    0
 ------ Fillmore(27045)    2    0    0
 ------ Chisago(27025)    1    0    0
 ------ Clay(27027)    1    0    0
+------ Jackson(27063)    2    0    0
+------ Dodge(27039)    1    0    0
+------ St Louis(27137)    1    0    0
 ---- MD    190    2    4
 ------ Montgomery(24031)    68    0    0
 ------ Prince George's(24033)    20    1    0
@@ -1231,7 +1239,7 @@
 ------ Lincoln(23015)    4    0    0
 ------ Hancock(23009)    1    0    0
 ---- DC    77    3    0
----- IN    127    3    0
+---- IN    129    3    0
 ------ Marion(18097)    46    2    0
 ------ Hendricks(18063)    6    0    0
 ------ Johnson(18081)    7    1    0
@@ -1264,6 +1272,8 @@
 ------ Elkhart(18039)    1    0    0
 ------ Greene(18055)    1    0    0
 ------ Hancock(18059)    1    0    0
+------ Harrison(18061)    1    0    0
+------ Miami(18103)    1    0    0
 ---- IA    50    0    0
 ------ Johnson(19103)    22    0    0
 ------ Dallas(19049)    5    0    0
@@ -1405,7 +1415,7 @@
 ------ Yuma(04027)    1    0    0
 ------ Cochise(04003)    1    0    0
 ------ Apache(04001)    3    0    0
----- OK    49    1    1
+---- OK    53    1    1
 ------ Oklahoma(40109)    19    0    0
 ------ Tulsa(40143)    5    1    0
 ------ Cleveland(40027)    11    0    0
@@ -1525,13 +1535,13 @@
 ------ Kanawha(54039)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    23    1    0
----- Others    38    0    0
+---- Others    41    0    0
 ---- GU    15    0    0
 ------ Guam(66010)    14    0    0
----- PR    17    0    0
----- VI    3    0    0
+---- PR    21    1    0
+---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    21828    75    209
+-- Germany    21854    77    209
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1624,7 +1634,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    6192    64    15
+-- Switzerland    6371    72    15
 -- United Kingdom of Great Britain and Northern Ireland    4094    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1640,7 +1650,7 @@
 ---- Curacao    3    0    0
 -- Austria    2847    8    9
 -- Belgium    2815    67    263
--- Norway    2082    7    1
+-- Norway    2118    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1687,13 +1697,13 @@
 ---- Faroe Islands    47    0    0
 -- Portugal    1280    12    5
 -- Malaysia    1183    8    114
--- Canada    1146    14    14
+-- Canada    1147    14    14
 ---- British Columbia    348    9    4
 ---- Ontario    377    2    5
 ---- Alberta    195    1    0
 ---- Quebec    139    1    0
 ---- New Brunswick    11    0    0
----- Manitoba    17    0    0
+---- Manitoba    18    0    0
 ---- Saskatchewan    26    0    0
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    12    0    0
@@ -1731,10 +1741,10 @@
 -- Slovenia    383    1    0
 -- Romania    367    0    52
 -- India    329    5    23
+-- Bahrain    309    1    125
 -- Philippines    307    19    13
 -- Estonia    306    0    2
 -- Russian Federation    306    1    16
--- Bahrain    305    1    125
 -- Egypt    285    8    42
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
@@ -1746,13 +1756,13 @@
 -- Panama    200    1    1
 -- Colombia    196    0    1
 -- Kuwait    176    0    27
+-- Serbia    171    1    2
 -- Bulgaria    163    3    3
 -- Armenia    160    0    1
 -- Argentina    158    4    3
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
 -- San Marino    151    20    4
--- Serbia    149    1    2
 -- Slovakia    146    1    7
 -- Algeria    139    15    65
 -- Latvia    124    0    1
