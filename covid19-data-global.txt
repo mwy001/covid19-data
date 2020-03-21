@@ -545,7 +545,7 @@
 ---- Berlin    868    1    6
 ---- Brandenburg    265    0    1
 ---- Thuringia    215    1    3
----- Schleswig-Holstein    338    1    0
+---- Schleswig-Holstein    383    1    0
 ---- Lower Saxony    1262    0    4
 ---- Bremen    127    0    3
 ---- Hamburg    664    1    1
@@ -762,6 +762,7 @@
 ------ De Soto(22031)    2    0    0
 ------ Catahoula(22025)    1    1    0
 ------ Tangipahoa(22105)    1    0    0
+------ St John The Baptist(22095)    6    0    0
 ---- CO    363    4    0
 ------ Denver(08031)    67    0    0
 ------ Eagle(08037)    61    0    0
@@ -812,6 +813,7 @@
 ------ McHenry(17111)    8    0    0
 ------ McLean(17113)    4    0    0
 ------ Christian(17021)    1    0    0
+------ La Salle(17099)    1    0    0
 ---- GA    485    14    0
 ------ Fulton(13121)    88    2    0
 ------ Cobb(13067)    47    1    0
@@ -1091,6 +1093,11 @@
 ------ City of Charlottesville(51540)    3    0    0
 ------ City of Harrisonburg(51660)    1    0    0
 ------ City of Norfolk(51710)    1    0    0
+------ City of Virginia Beach(51810)    5    0    0
+------ City of Williamsburg(51830)    4    0    0
+------ City of Portsmouth(51740)    1    0    0
+------ City of Suffolk(51800)    1    0    0
+------ City of Newport News(51700)    1    0    0
 ---- NC    190    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
@@ -1355,6 +1362,7 @@
 ------ Taos(35055)    2    0    0
 ------ San Miguel(35047)    1    0    0
 ------ McKinley(35031)    1    0    0
+------ Dona Ana(35013)    1    0    0
 ---- RI    56    0    0
 ------ Providence(44007)    44    0    0
 ------ Washington(44009)    8    0    0
@@ -1598,7 +1606,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    5712    58    15
+-- Switzerland    6186    58    15
 -- United Kingdom of Great Britain and Northern Ireland    4014    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1613,34 +1621,34 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    2815    67    263
--- Austria    2695    7    9
--- Norway    1995    7    1
+-- Austria    2719    7    9
+-- Norway    1997    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    26    0    0
+---- Niigata    27    0    0
 ---- Gifu    3    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
 ---- Kumamoto    7    0    0
----- Saitama    42    0    0
+---- Saitama    45    0    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    5    0    0
----- Tokyo    129    3    0
+---- Tokyo    136    4    0
 ---- Wakayama    17    1    2
----- Kyoto    22    0    2
----- Osaka    123    1    1
----- Chiba    41    0    0
----- Kanagawa    71    4    1
+---- Kyoto    23    0    2
+---- Osaka    125    1    1
+---- Chiba    42    0    0
+---- Kanagawa    72    4    1
 ---- Shizuoka    3    0    0
----- Aichi    139    16    2
+---- Aichi    141    16    2
 ---- Nara    8    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    102    4    0
+---- hyogo    107    4    0
 ---- oita    9    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
@@ -1655,10 +1663,11 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Sweden    1657    16    16
+-- Sweden    1674    17    16
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Portugal    1280    12    5
 -- Malaysia    1183    4    114
 -- Canada    1087    13    14
 ---- British Columbia    348    8    4
@@ -1682,24 +1691,23 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Portugal    1020    7    5
--- Brazil    977    11    2
+-- Brazil    978    11    2
 -- Czechia    925    0    4
 -- Israel    883    1    36
 -- Ireland    683    3    5
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
 -- Pakistan    588    4    13
--- Finland    503    0    10
--- Greece    495    10    19
+-- Finland    512    0    10
+-- Greece    495    13    19
 -- Iceland    473    5    8
 -- Qatar    470    0    10
 -- Indonesia    450    38    20
 -- Poland    439    6    13
 -- Chile    434    0    6
 -- Ecuador    426    7    3
--- Thailand    411    1    42
--- Singapore    385    2    131
+-- Thailand    411    1    44
+-- Singapore    385    2    140
 ---- Central Singapore Community Development Council    345    0    124
 -- Romania    367    0    52
 -- Saudi Arabia    344    0    8
