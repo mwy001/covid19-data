@@ -756,7 +756,7 @@
 ------ Broomfield(08014)    2    0    0
 ------ Park(08093)    1    0    0
 ---- IL    585    5    2
------- Cook(17031)    411    2    0
+------ Cook(17031)    411    3    0
 ------ Lake(17097)    53    0    0
 ------ Sangamon(17167)    4    1    0
 ------ Kane(17089)    8    0    0
@@ -1300,14 +1300,15 @@
 ------ Coos(33007)    1    0    0
 ------ Cheshire(33005)    1    0    0
 ---- NE    38    0    0
------- Douglas(31055)    23    0    0
+------ Douglas(31055)    25    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
 ------ Sarpy(31153)    2    0    0
 ------ Lincoln(31111)    3    0    0
 ------ Adams(31001)    1    0    0
 ------ Nemaha(31127)    1    0    0
------- Lancaster(31109)    1    0    0
+------ Lancaster(31109)    2    0    0
+------ Buffalo(31019)    1    0    0
 ---- NM    43    0    0
 ------ Bernalillo(35001)    23    0    0
 ------ Santa Fe(35049)    7    0    0
@@ -1666,9 +1667,7 @@
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
 -- Malaysia    1030    3    87
--- Portugal    1020    6    5
--- Brazil    970    11    2
--- Australia    928    7    46
+-- Australia    1023    7    46
 ---- New South Wales    353    6    4
 ---- Victoria    121    0    8
 ---- Queensland    184    0    8
@@ -1677,6 +1676,8 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
+-- Portugal    1020    6    5
+-- Brazil    970    11    2
 -- Czechia    833    0    4
 -- Israel    705    1    15
 -- Ireland    683    3    5
@@ -1701,9 +1702,9 @@
 -- Egypt    285    8    42
 -- Estonia    283    0    1
 -- Peru    263    4    1
+-- India    258    5    23
 -- Hong Kong    256    4    98
 -- Russian Federation    253    1    12
--- India    249    5    23
 -- Philippines    230    19    8
 -- Iraq    208    17    49
 -- South Africa    202    0    0
@@ -1712,8 +1713,8 @@
 -- Mexico    164    1    4
 -- Kuwait    159    0    22
 -- Argentina    158    3    3
+-- Colombia    158    0    1
 -- San Marino    151    14    4
--- Colombia    145    0    1
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
 -- Armenia    136    0    1
