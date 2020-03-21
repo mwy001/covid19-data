@@ -538,6 +538,23 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
+-- Germany    20581    72    209
+---- Saxony    562    1    2
+---- Mecklenburg-Vorpommern    167    0    0
+---- Free State of Bavaria    3107    20    15
+---- Berlin    868    1    6
+---- Brandenburg    265    0    1
+---- Thuringia    215    1    3
+---- Schleswig-Holstein    338    1    0
+---- Lower Saxony    1262    0    4
+---- Bremen    127    0    3
+---- Hamburg    664    1    1
+---- Rhineland-Palatinate    890    2    1
+---- North Rhine-Westphalia    6301    22    127
+---- Hesse    962    2    3
+---- Baden-Württemberg    3665    17    14
+---- Saxony-Anhalt    217    0    0
+---- Saarland    255    0    0
 -- United States of America    20193    280    147
 ---- NY    8935    60    0
 ------ Westchester(36119)    1091    0    0
@@ -1112,7 +1129,7 @@
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    1    0    0
 ------ Carteret(37031)    1    0    0
----- MI    552    3    0
+---- MI    552    4    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
 ------ Macomb(26099)    86    0    0
@@ -1246,7 +1263,7 @@
 ------ Lincoln(23015)    4    0    0
 ------ Hancock(23009)    1    0    0
 ---- DC    77    3    0
----- IN    86    3    0
+---- IN    87    3    0
 ------ Marion(18097)    25    2    0
 ------ Hendricks(18063)    4    0    0
 ------ Johnson(18081)    4    1    0
@@ -1275,6 +1292,7 @@
 ------ Grant(18053)    1    0    0
 ------ Shelby(18145)    1    0    0
 ------ Delaware(18035)    1    0    0
+------ Scott(18143)    1    0    0
 ---- IA    50    0    0
 ------ Johnson(19103)    22    0    0
 ------ Dallas(19049)    5    0    0
@@ -1536,23 +1554,6 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    20142    70    180
----- Saxony    562    1    2
----- Mecklenburg-Vorpommern    167    0    0
----- Free State of Bavaria    3107    20    15
----- Berlin    868    1    6
----- Brandenburg    265    0    1
----- Thuringia    215    1    3
----- Schleswig-Holstein    338    1    0
----- Lower Saxony    1262    0    4
----- Bremen    127    0    3
----- Hamburg    664    1    1
----- Rhineland-Palatinate    890    2    1
----- North Rhine-Westphalia    6301    22    127
----- Hesse    962    2    3
----- Baden-Württemberg    3665    17    14
----- Saxony-Anhalt    217    0    0
----- Saarland    255    0    0
 -- France    12726    450    1587
 ---- France    7652    148    12
 ---- St Martin    4    0    0
@@ -1597,7 +1598,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    5711    57    15
+-- Switzerland    5712    58    15
 -- United Kingdom of Great Britain and Northern Ireland    4014    184    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1683,11 +1684,11 @@
 ---- Australian Capital Territory    6    0    0
 -- Portugal    1020    7    5
 -- Brazil    977    11    2
--- Czechia    904    0    4
+-- Czechia    925    0    4
 -- Israel    883    1    36
 -- Ireland    683    3    5
+-- Luxembourg    670    8    6
 -- Turkey    670    9    0
--- Luxembourg    618    5    6
 -- Pakistan    588    4    13
 -- Finland    503    0    10
 -- Greece    495    10    19
@@ -1705,7 +1706,7 @@
 -- Slovenia    341    1    0
 -- Philippines    307    19    13
 -- Estonia    306    0    1
--- Bahrain    298    1    125
+-- Bahrain    305    1    125
 -- Egypt    285    8    42
 -- India    283    5    23
 -- Hong Kong    273    4    98
@@ -1735,21 +1736,21 @@
 -- Viet Nam    92    0    17
 -- Faroe Islands    92    0    3
 -- Bosnia and Herzegovina    90    0    2
+-- Andorra    88    0    1
 -- Morocco    86    3    2
 -- Jordan    85    0    1
 -- Brunei Darussalam    83    0    1
 -- North Macedonia    77    0    1
 -- Sri Lanka    76    0    3
 -- Albania    76    2    2
--- Andorra    75    0    1
 -- Cyprus    75    0    0
+-- Malta    73    0    2
 -- Dominican Republic    72    2    0
 -- Belarus    69    0    15
 -- Lithuania    69    1    1
 -- Nigeria    69    0    1
 -- Moldova, Republic of    66    1    1
 -- Venezuela, Bolivarian Republic of    65    0    1
--- Malta    64    0    2
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
 -- New Zealand    53    0    0
@@ -1758,7 +1759,7 @@
 -- Palestine    52    0    17
 -- Cambodia    51    0    1
 -- Guadeloupe    51    1    0
--- Georgia    47    0    1
+-- Georgia    48    0    1
 -- Senegal    47    0    5
 -- Réunion    45    0    0
 -- Azerbaijan    44    1    7
@@ -1781,8 +1782,8 @@
 -- French Guiana    15    0    0
 -- Guyana    15    1    0
 -- French Polynesia    15    0    0
+-- Guam    15    0    0
 -- Puerto Rico    14    0    0
--- Guam    14    0    0
 -- Montenegro    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    2
