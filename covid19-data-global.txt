@@ -523,7 +523,7 @@
 ---- Baden-Württemberg    3665    17    14
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
--- United States of America    19648    263    147
+-- United States of America    19650    263    147
 ---- NY    8403    46    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -1051,7 +1051,7 @@
 ------ Mecklenburg(51117)    1    0    0
 ------ Rockbridge(51163)    1    0    0
 ------ Franklin(51067)    1    0    0
----- NC    188    0    0
+---- NC    190    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    43    0    0
@@ -1059,7 +1059,7 @@
 ------ Harnett(37085)    6    0    0
 ------ Forsyth(37067)    7    0    0
 ------ Johnston(37101)    3    0    0
------- Brunswick(37019)    2    0    0
+------ Brunswick(37019)    4    0    0
 ------ Cabarrus(37025)    2    0    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    4    0    0
@@ -1426,7 +1426,7 @@
 ------ Sussex(10005)    7    0    0
 ------ Kent(10001)    5    0    0
 ---- MO    87    3    0
------- Greene(29077)    6    0    0
+------ Greene(29077)    8    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    8    1    0
 ------ Cole(29051)    2    0    0
@@ -1598,7 +1598,7 @@
 -- Austria    2649    7    9
 -- Belgium    2257    37    204
 -- Norway    1959    7    1
--- Japan    1848    33    215
+-- Japan    1848    35    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1738,18 +1738,18 @@
 -- New Zealand    53    0    0
 -- Kazakhstan    52    3    0
 -- Cambodia    51    0    1
+-- Guadeloupe    51    1    0
 -- Oman    48    0    13
 -- Palestine    48    0    17
 -- Senegal    47    0    5
--- Guadeloupe    45    0    0
 -- Georgia    44    0    1
 -- Azerbaijan    44    1    7
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
+-- Réunion    38    0    0
 -- Uzbekistan    33    0    0
 -- Martinique    32    1    0
 -- Liechtenstein    28    0    0
--- Réunion    28    0    0
 -- Cameroon    27    0    2
 -- Afghanistan    24    0    1
 -- Honduras    24    0    0
@@ -1778,9 +1778,9 @@
 -- Ethiopia    9    0    0
 -- Trinidad and Tobago    9    0    0
 -- Kenya    7    0    0
+-- Mayotte    7    0    0
 -- Seychelles    7    0    0
 -- Mongolia    6    0    0
--- Mayotte    6    0    0
 -- Equatorial Guinea    6    0    0
 -- Tanzania, United Republic of    6    0    0
 -- Barbados    6    0    0
