@@ -506,24 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    19848    68    180
----- Saxony    562    1    2
----- Mecklenburg-Vorpommern    167    0    0
----- Free State of Bavaria    3107    20    15
----- Berlin    868    1    6
----- Brandenburg    265    0    1
----- Thuringia    215    1    3
----- Schleswig-Holstein    321    1    0
----- Lower Saxony    1262    0    4
----- Bremen    127    0    3
----- Hamburg    664    1    1
----- Rhineland-Palatinate    890    2    1
----- North Rhine-Westphalia    6301    22    127
----- Hesse    962    2    3
----- Baden-Württemberg    3665    17    14
----- Saxony-Anhalt    217    0    0
----- Saarland    255    0    0
--- United States of America    19658    277    147
+-- United States of America    20193    280    147
 ---- NY    8935    60    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -559,7 +542,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    5151    29    0
+------ New York(36061)    5683    43    0
 ------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -594,9 +577,9 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1254    24    6
+---- CA    1254    25    6
 ------ Santa Clara(06085)    196    8    0
------- Los Angeles(06037)    292    2    0
+------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    100    1    0
 ------ San Diego(06073)    131    0    0
 ------ San Francisco(06075)    76    0    0
@@ -835,7 +818,7 @@
 ------ Pickens(13227)    2    0    0
 ------ Sumter(13261)    2    0    0
 ------ Lamar(13171)    1    0    0
----- TX    429    6    8
+---- TX    430    6    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -1018,7 +1001,7 @@
 ------ Linn(41043)    19    0    0
 ------ Clackamas(41005)    10    0    0
 ------ Deschutes(41017)    8    0    0
------- Marion(41047)    17    0    0
+------ Marion(41047)    17    1    0
 ------ Multnomah(41051)    12    1    0
 ------ Benton(41003)    3    0    0
 ------ Jackson(41029)    2    0    0
@@ -1516,6 +1499,23 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
+-- Germany    19848    68    180
+---- Saxony    562    1    2
+---- Mecklenburg-Vorpommern    167    0    0
+---- Free State of Bavaria    3107    20    15
+---- Berlin    868    1    6
+---- Brandenburg    265    0    1
+---- Thuringia    215    1    3
+---- Schleswig-Holstein    321    1    0
+---- Lower Saxony    1262    0    4
+---- Bremen    127    0    3
+---- Hamburg    664    1    1
+---- Rhineland-Palatinate    890    2    1
+---- North Rhine-Westphalia    6301    22    127
+---- Hesse    962    2    3
+---- Baden-Württemberg    3665    17    14
+---- Saxony-Anhalt    217    0    0
+---- Saarland    255    0    0
 -- Iran, Islamic Republic of    19644    1433    6745
 ---- Qom    1141    30    0
 ---- Tehran    4617    0    0
