@@ -523,7 +523,7 @@
 ---- Baden-Württemberg    3665    17    14
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
--- United States of America    19650    263    147
+-- United States of America    19650    264    147
 ---- NY    8403    46    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -702,31 +702,34 @@
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    1    0    0
 ---- LA    538    14    0
------- Orleans(22071)    249    8    0
------- Jefferson(22051)    69    1    0
------- Caddo(22017)    10    0    0
------- St Tammany(22103)    10    0    0
------- East Baton Rouge(22033)    6    0    0
------- Lafourche(22057)    4    0    0
------- St Charles(22089)    4    0    0
------- Terrebonne(22109)    4    0    0
------- Bossier(22015)    4    0    0
------- St Bernard(22087)    4    0    0
------- Lafayette(22055)    3    0    0
------- Ascension(22005)    2    0    0
+------ Orleans(22071)    326    10    0
+------ Jefferson(22051)    104    2    0
+------ Caddo(22017)    12    0    0
+------ St Tammany(22103)    12    0    0
+------ East Baton Rouge(22033)    7    0    0
+------ Lafourche(22057)    5    0    0
+------ St Charles(22089)    7    0    0
+------ Terrebonne(22109)    7    0    0
+------ Bossier(22015)    5    0    0
+------ St Bernard(22087)    5    0    0
+------ Lafayette(22055)    6    0    0
+------ Ascension(22005)    3    0    0
 ------ Washington(22117)    2    0    0
------- West Baton Rouge(22121)    2    0    0
+------ West Baton Rouge(22121)    3    0    0
 ------ St Landry(22097)    2    0    0
 ------ St James(22093)    1    1    0
 ------ Plaquemines(22075)    1    0    0
 ------ Acadia(22001)    1    0    0
 ------ Assumption(22007)    1    0    0
------- Calcasieu(22019)    1    0    0
------- Iberia(22045)    1    0    0
+------ Calcasieu(22019)    3    0    0
+------ Iberia(22045)    2    0    0
 ------ Iberville(22047)    1    0    0
 ------ Livingston(22063)    1    0    0
------- Rapides(22079)    1    0    0
+------ Rapides(22079)    3    0    0
 ------ Webster(22119)    1    0    0
+------ De Soto(22031)    2    0    0
+------ Catahoula(22025)    1    1    0
+------ Tangipahoa(22105)    1    0    0
 ---- CO    363    4    0
 ------ Denver(08031)    67    0    0
 ------ Eagle(08037)    61    0    0
@@ -815,7 +818,7 @@
 ------ Muscogee(13215)    2    0    0
 ------ Peach(13225)    1    0    0
 ------ Effingham(13103)    1    0    0
------- DeKalb(13089)    22    0    0
+------ DeKalb(13089)    36    0    0
 ------ Carroll(13045)    7    0    0
 ------ Chatham(13051)    2    0    0
 ------ Miller(13201)    1    0    0
@@ -876,7 +879,7 @@
 ------ Randall(48381)    2    0    0
 ------ Castro(48069)    1    0    0
 ------ Oldham(48359)    1    0    0
------- McLennan(48309)    7    0    0
+------ McLennan(48309)    13    0    0
 ------ DeWitt(48123)    1    0    0
 ------ Hockley(48219)    1    0    0
 ------ Milam(48331)    1    0    0
@@ -1046,11 +1049,12 @@
 ------ Gloucester(51073)    1    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
------- Richmond(51159)    3    0    0
+------ Richmond(51159)    5    0    0
 ------ Accomack(51001)    1    0    0
 ------ Mecklenburg(51117)    1    0    0
 ------ Rockbridge(51163)    1    0    0
 ------ Franklin(51067)    1    0    0
+------ Isle of Wight(51093)    1    0    0
 ---- NC    190    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
@@ -1147,13 +1151,13 @@
 ------ Frederick(24021)    1    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    1    0    0
------- Baltimore City(24510)    8    0    0
+------ Baltimore City(24510)    11    0    0
 ------ Wicomico(24045)    1    0    0
 ------ Worcester(24047)    1    0    0
 ---- NV    161    2    0
 ------ Clark(32003)    126    2    0
------- Washoe(32031)    14    0    0
------- Carson City(32510)    1    0    0
+------ Washoe(32031)    18    0    0
+------ Carson City(32510)    2    0    0
 ------ Elko(32007)    1    0    0
 ---- UT    112    0    0
 ------ Salt Lake(49035)    46    0    0
@@ -1295,7 +1299,7 @@
 ------ Merrimack(33013)    3    0    0
 ------ Coos(33007)    1    0    0
 ------ Cheshire(33005)    1    0    0
----- NE    37    0    0
+---- NE    38    0    0
 ------ Douglas(31055)    23    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
@@ -1311,8 +1315,13 @@
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    2    0    0
 ------ San Miguel(35047)    1    0    0
+------ McKinley(35031)    1    0    0
 ---- RI    54    0    0
 ------ Providence(44007)    44    0    0
+------ Washington(44009)    7    0    0
+------ Newport(44005)    6    0    0
+------ Bristol(44001)    4    0    0
+------ Kent(44003)    4    0    0
 ---- AR    100    0    0
 ------ Jefferson(05069)    12    0    0
 ------ Pulaski(05119)    24    0    0
@@ -1370,8 +1379,8 @@
 ------ Marshall(28093)    1    0    0
 ------ Pike(28113)    1    0    0
 ------ Webster(28155)    1    0    0
----- AZ    79    0    1
------- Maricopa(04013)    34    0    0
+---- AZ    79    1    1
+------ Maricopa(04013)    34    1    0
 ------ Pinal(04021)    10    0    0
 ------ Pima(04019)    8    0    0
 ------ Graham(04009)    1    0    0
@@ -1432,9 +1441,9 @@
 ------ Cole(29051)    2    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    8    1    0
------- St Louis(29189)    8    0    0
+------ St Louis(29189)    10    0    0
 ------ St Charles(29183)    1    0    0
------- St Louis City(29510)    10    0    0
+------ St Louis City(29510)    10    1    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    0    0
 ------ Scott(29201)    1    0    0
@@ -1469,6 +1478,7 @@
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    1    0    0
 ------ Flathead(30029)    2    0    0
+------ Lewis and Clark(30049)    2    0    0
 ---- ID    36    0    0
 ------ Ada(16001)    8    0    0
 ------ Blaine(16013)    19    0    0
@@ -1501,7 +1511,7 @@
 ---- Grand Princess Cruise Ship    23    1    0
 ---- Others    34    0    0
 ---- GU    14    0    0
------- Guam(66010)    12    0    0
+------ Guam(66010)    14    0    0
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
