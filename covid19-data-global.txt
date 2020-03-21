@@ -506,8 +506,8 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    24717    293    171
----- NY    11646    60    0
+-- United States of America    25011    296    171
+---- NY    11696    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    7    0
@@ -577,7 +577,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1285    25    6
+---- CA    1297    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -637,7 +637,7 @@
 ------ Sussex(34037)    6    0    0
 ------ Cape May(34009)    2    0    0
 ------ Cumberland(34011)    1    0    0
----- MA    417    1    1
+---- MA    525    1    1
 ------ Middlesex(25017)    144    0    0
 ------ Norfolk(25021)    64    0    0
 ------ Suffolk(25025)    86    1    0
@@ -829,7 +829,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    492    6    8
+---- TX    513    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -940,7 +940,7 @@
 ------ Marathon(55073)    1    0    0
 ------ Douglas(55031)    1    0    0
 ------ Green(55045)    1    0    0
----- TN    300    1    0
+---- TN    384    1    0
 ------ Davidson(47037)    133    1    0
 ------ Williamson(47187)    35    0    0
 ------ Shelby(47157)    42    0    0
@@ -1012,7 +1012,7 @@
 ------ Erie(39043)    1    1    0
 ------ Clermont(39025)    2    0    0
 ------ Gallia(39053)    1    0    0
----- OR    114    4    0
+---- OR    114    5    0
 ------ Washington(41067)    31    1    0
 ------ Linn(41043)    19    0    0
 ------ Clackamas(41005)    10    0    0
@@ -1063,7 +1063,7 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    246    0    0
+---- NC    249    0    0
 ------ Wake(37183)    33    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    77    0    0
@@ -1106,7 +1106,7 @@
 ------ Granville(37077)    1    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
----- MI    787    5    0
+---- MI    788    5    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
 ------ Macomb(26099)    86    0    0
@@ -1159,7 +1159,7 @@
 ------ St Louis(27137)    1    0    0
 ------ Steele(27147)    2    0    0
 ------ Wabasha(27157)    1    0    0
----- MD    192    2    4
+---- MD    193    2    4
 ------ Montgomery(24031)    68    0    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    19    1    0
@@ -1303,7 +1303,7 @@
 ------ Fayette(19065)    1    0    0
 ------ Henry(19087)    1    0    0
 ------ Story(19169)    1    0    0
----- KY    64    2    2
+---- KY    68    2    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
 ------ Harrison(21097)    7    0    0
@@ -1674,7 +1674,7 @@
 -- Netherlands    3631    136    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2953    8    9
+-- Austria    2955    8    9
 -- Belgium    2815    67    263
 -- Norway    2150    7    6
 -- Japan    1848    36    215
@@ -1717,25 +1717,26 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Sweden    1764    20    16
+-- Sweden    1770    20    16
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1280    20    14
+-- Canada    1321    20    14
 ---- British Columbia    424    10    4
 ---- Ontario    377    3    5
 ---- Alberta    195    1    0
 ---- Quebec    181    5    0
 ---- New Brunswick    17    0    0
 ---- Manitoba    18    0    0
----- Saskatchewan    26    0    0
+---- Saskatchewan    44    0    0
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    12    0    0
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    6    0    0
----- Nova Scotia    21    0    0
+---- Nova Scotia    44    0    0
 -- Portugal    1280    12    5
 -- Malaysia    1183    8    114
+-- Brazil    1128    18    2
 -- Australia    1072    7    46
 ---- New South Wales    353    6    4
 ---- Victoria    121    0    8
@@ -1745,7 +1746,6 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Brazil    1028    18    2
 -- Czechia    995    0    6
 -- Turkey    947    21    0
 -- Israel    883    1    36
@@ -1791,10 +1791,10 @@
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
 -- Algeria    139    15    65
+-- Uruguay    126    0    0
 -- Latvia    124    0    1
 -- Costa Rica    117    2    2
 -- Dominican Republic    112    3    0
--- Uruguay    110    0    0
 -- Hungary    103    4    7
 -- Lithuania    99    1    1
 -- Jordan    99    0    1
@@ -1804,7 +1804,7 @@
 -- Faroe Islands    92    0    3
 -- Andorra    88    0    1
 -- North Macedonia    85    0    1
--- Cyprus    84    0    0
+-- Cyprus    84    0    3
 -- Brunei Darussalam    83    0    1
 -- Moldova, Republic of    80    1    1
 -- Sri Lanka    77    0    3
@@ -1815,16 +1815,16 @@
 -- Nigeria    69    0    1
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
+-- Senegal    56    0    5
 -- Kazakhstan    54    3    0
 -- Cambodia    53    0    2
 -- New Zealand    53    0    0
 -- Azerbaijan    53    1    11
+-- Palestine    53    0    17
 -- Oman    52    0    13
--- Palestine    52    0    17
 -- Guadeloupe    51    1    0
 -- Georgia    49    0    1
 -- Trinidad and Tobago    49    0    0
--- Senegal    47    0    5
 -- Ukraine    47    3    1
 -- Réunion    45    0    0
 -- Uzbekistan    41    0    0
@@ -1913,3 +1913,4 @@
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
 -- Eritrea    1    0    0
+-- Uganda    1    0    0
