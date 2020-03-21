@@ -523,7 +523,7 @@
 ---- Baden-Württemberg    3665    17    14
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
--- United States of America    19650    264    147
+-- United States of America    19652    264    147
 ---- NY    8403    46    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
@@ -1317,12 +1317,12 @@
 ------ Taos(35055)    2    0    0
 ------ San Miguel(35047)    1    0    0
 ------ McKinley(35031)    1    0    0
----- RI    54    0    0
+---- RI    56    0    0
 ------ Providence(44007)    44    0    0
------- Washington(44009)    7    0    0
------- Newport(44005)    6    0    0
------- Bristol(44001)    4    0    0
------- Kent(44003)    4    0    0
+------ Washington(44009)    8    0    0
+------ Newport(44005)    8    0    0
+------ Bristol(44001)    5    0    0
+------ Kent(44003)    5    0    0
 ---- AR    100    0    0
 ------ Jefferson(05069)    12    0    0
 ------ Pulaski(05119)    24    0    0
@@ -1691,7 +1691,7 @@
 -- Ecuador    426    7    3
 -- Poland    425    6    13
 -- Iceland    409    5    8
--- Singapore    385    0    131
+-- Singapore    385    2    131
 ---- Central Singapore Community Development Council    345    0    124
 -- Indonesia    369    32    17
 -- Saudi Arabia    344    0    8
