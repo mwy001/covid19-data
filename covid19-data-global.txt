@@ -1608,7 +1608,7 @@
 ---- Curacao    3    0    0
 -- Austria    2649    7    9
 -- Belgium    2257    37    204
--- Norway    1965    7    1
+-- Norway    1967    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1701,7 +1701,7 @@
 -- Bahrain    298    1    125
 -- Egypt    285    8    42
 -- Estonia    283    0    1
--- India    270    5    23
+-- India    275    5    23
 -- Peru    263    4    1
 -- Philippines    262    19    8
 -- Hong Kong    256    4    98
@@ -1711,17 +1711,17 @@
 -- South Africa    202    0    0
 -- Panama    200    1    1
 -- Lebanon    177    4    4
+-- Armenia    160    0    1
 -- Kuwait    159    0    22
 -- Argentina    158    3    3
 -- Colombia    158    0    1
 -- San Marino    151    14    4
+-- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
--- Armenia    136    0    1
 -- Serbia    135    1    2
 -- Taiwan    135    2    28
 -- Croatia    130    1    5
--- Bulgaria    129    3    3
 -- Costa Rica    113    2    2
 -- Latvia    111    0    1
 -- Uruguay    110    0    0
@@ -1752,8 +1752,8 @@
 -- Guadeloupe    51    1    0
 -- Oman    48    0    13
 -- Palestine    48    0    17
+-- Georgia    47    0    1
 -- Senegal    47    0    5
--- Georgia    44    0    1
 -- Azerbaijan    44    1    7
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
