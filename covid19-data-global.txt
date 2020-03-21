@@ -485,7 +485,7 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- Spain    25374    1378    2125
+-- Spain    25496    1378    2125
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -506,39 +506,39 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    25084    298    176
----- NY    11696    60    0
------- Westchester(36119)    1385    0    0
+-- United States of America    25433    308    176
+---- NY    11705    60    0
+------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    7    0
------- Albany(36001)    70    0    0
+------ Albany(36001)    88    0    0
 ------ Rockland(36087)    262    1    0
------- Dutchess(36027)    36    0    0
------- Orange(36071)    84    0    0
+------ Dutchess(36027)    49    0    0
+------ Orange(36071)    163    0    0
 ------ Monroe(36055)    46    1    0
 ------ Erie(36029)    47    0    0
------- Saratoga(36091)    24    0    0
------- Ulster(36111)    12    0    0
------- Schenectady(36093)    21    0    0
+------ Saratoga(36091)    35    0    0
+------ Ulster(36111)    18    0    0
+------ Schenectady(36093)    32    0    0
 ------ Tompkins(36109)    11    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    2    0    0
------- Onondaga(36067)    13    0    0
------- Putnam(36079)    12    0    0
+------ Onondaga(36067)    17    0    0
+------ Putnam(36079)    22    0    0
 ------ Broome(36007)    2    0    0
 ------ Clinton(36019)    3    0    0
 ------ Delaware(36025)    1    0    0
------- Essex(36031)    1    0    0
+------ Essex(36031)    2    0    0
 ------ Genesee(36037)    1    0    0
------- Herkimer(36043)    2    0    0
------- Montgomery(36057)    2    0    0
------- Oneida(36065)    2    0    0
------- Ontario(36069)    3    0    0
------- Rensselaer(36083)    15    0    0
------- Sullivan(36105)    8    0    0
+------ Herkimer(36043)    3    0    0
+------ Montgomery(36057)    3    0    0
+------ Oneida(36065)    4    0    0
+------ Ontario(36069)    4    0    0
+------ Rensselaer(36083)    20    0    0
+------ Sullivan(36105)    12    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    2    0    0
------- Chenango(36017)    2    0    0
+------ Chenango(36017)    4    0    0
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
@@ -547,11 +547,11 @@
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
 ------ Jefferson(36045)    1    0    0
------- Wayne(36117)    1    0    0
+------ Wayne(36117)    3    0    0
 ------ Steuben(36101)    2    0    0
 ------ Columbia(36021)    3    0    0
------- Livingston(36051)    1    0    0
----- WA    1540    89    124
+------ Livingston(36051)    2    0    0
+---- WA    1793    94    124
 ------ King(53033)    793    67    0
 ------ Snohomish(53061)    385    8    0
 ------ Pierce(53053)    83    1    0
@@ -577,7 +577,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1297    25    6
+---- CA    1364    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -829,7 +829,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    575    6    8
+---- TX    578    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -1069,7 +1069,7 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    250    0    0
+---- NC    252    0    0
 ------ Wake(37183)    33    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    77    0    0
@@ -1232,7 +1232,7 @@
 ------ Edgefield(45037)    1    0    0
 ------ Marlboro(45069)    1    0    0
 ------ Newberry(45071)    1    0    0
----- AL    125    0    0
+---- AL    131    0    0
 ------ Jefferson(01073)    60    0    0
 ------ Shelby(01117)    16    0    0
 ------ Lee(01081)    12    0    0
@@ -1320,7 +1320,7 @@
 ------ Fayette(19065)    1    0    0
 ------ Henry(19087)    1    0    0
 ------ Story(19169)    1    0    0
----- KY    68    2    2
+---- KY    87    3    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
 ------ Harrison(21097)    7    0    0
@@ -1590,7 +1590,7 @@
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
----- Berlin    868    1    6
+---- Berlin    1025    1    6
 ---- Brandenburg    265    0    1
 ---- Thuringia    215    1    3
 ---- Schleswig-Holstein    383    1    0
@@ -1693,9 +1693,9 @@
 -- Netherlands    3631    136    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2970    8    9
+-- Austria    2992    8    9
 -- Belgium    2815    67    263
--- Norway    2157    7    6
+-- Norway    2164    7    6
 -- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1740,10 +1740,10 @@
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1321    20    14
+-- Canada    1329    20    14
 ---- British Columbia    424    10    4
 ---- Ontario    377    3    5
----- Alberta    195    1    0
+---- Alberta    226    1    0
 ---- Quebec    181    5    0
 ---- New Brunswick    17    0    0
 ---- Manitoba    18    0    0
@@ -1773,9 +1773,9 @@
 -- Luxembourg    670    8    6
 -- Chile    537    1    8
 -- Poland    536    6    13
+-- Ecuador    532    7    3
 -- Greece    530    13    19
 -- Finland    523    1    10
--- Ecuador    506    7    3
 -- Qatar    481    0    27
 -- Iceland    473    5    8
 -- Indonesia    450    38    20
@@ -1815,15 +1815,15 @@
 -- Costa Rica    117    2    2
 -- Dominican Republic    112    3    0
 -- Hungary    103    4    7
+-- Jordan    100    0    1
 -- Lithuania    99    1    1
--- Jordan    99    0    1
 -- Morocco    96    3    3
 -- Viet Nam    94    0    17
 -- Bosnia and Herzegovina    93    1    2
 -- Faroe Islands    92    0    3
 -- Andorra    88    0    1
 -- North Macedonia    85    0    1
--- Cyprus    84    0    3
+-- Cyprus    84    1    3
 -- Brunei Darussalam    83    0    1
 -- Moldova, Republic of    80    1    1
 -- Sri Lanka    77    0    3
@@ -1835,13 +1835,13 @@
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
 -- Senegal    56    0    5
+-- Guadeloupe    56    1    0
 -- Kazakhstan    54    3    0
 -- Cambodia    53    0    2
 -- New Zealand    53    0    0
 -- Azerbaijan    53    1    11
 -- Palestine    53    0    17
 -- Oman    52    0    13
--- Guadeloupe    51    1    0
 -- Georgia    49    0    1
 -- Trinidad and Tobago    49    0    0
 -- Ukraine    47    3    1
@@ -1855,21 +1855,22 @@
 -- Honduras    24    0    0
 -- Cuba    21    1    0
 -- Puerto Rico    21    0    0
+-- Ghana    21    1    8
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
--- Ghana    19    1    8
 -- Monaco    18    0    1
 -- French Guiana    18    0    0
 -- Paraguay    18    1    0
+-- Guyana    18    1    0
 -- Macao    18    0    10
 -- Congo, Democratic Republic of the    18    0    0
 -- Guatemala    17    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
 -- Montenegro    16    0    0
--- Guyana    15    1    0
 -- French Polynesia    15    0    0
 -- Guam    15    0    0
+-- Barbados    14    0    0
 -- Kyrgyzstan    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    3
@@ -1883,11 +1884,10 @@
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
 -- Tanzania, United Republic of    6    0    0
--- Barbados    6    0    0
 -- Aruba    5    0    1
+-- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
--- Saint Martin (French part)    4    0    0
 -- Bahamas    4    0    0
 -- New Caledonia    4    0    0
 -- Congo    3    0    0
