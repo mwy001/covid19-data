@@ -506,13 +506,13 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    21852    280    147
----- NY    10356    60    0
------- Westchester(36119)    1091    0    0
------- Nassau(36059)    754    4    0
------- Suffolk(36103)    459    7    0
+-- United States of America    22708    281    147
+---- NY    11178    60    0
+------ Westchester(36119)    1385    0    0
+------ Nassau(36059)    1234    4    0
+------ Suffolk(36103)    662    7    0
 ------ Albany(36001)    70    0    0
------- Rockland(36087)    101    1    0
+------ Rockland(36087)    262    1    0
 ------ Dutchess(36027)    36    0    0
 ------ Orange(36071)    84    0    0
 ------ Monroe(36055)    46    1    0
@@ -542,7 +542,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    5683    43    0
+------ New York(36061)    6211    43    0
 ------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -577,10 +577,10 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1255    25    6
+---- CA    1265    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
------- San Mateo(06081)    100    1    0
+------ San Mateo(06081)    110    1    0
 ------ San Diego(06073)    131    0    0
 ------ San Francisco(06075)    76    0    0
 ------ Sacramento(06067)    53    3    0
@@ -649,41 +649,45 @@
 ------ Hampden(25013)    3    0    0
 ------ Franklin(25011)    1    0    0
 ------ Hampshire(25015)    2    0    0
----- FL    563    11    0
------- Broward(12011)    128    1    0
------- Palm Beach(12099)    42    0    0
------- Duval(12031)    17    0    0
+---- FL    652    12    0
+------ Broward(12011)    151    1    0
+------ Palm Beach(12099)    45    0    0
+------ Duval(12031)    20    0    0
 ------ Volusia(12127)    10    0    0
------- Hillsborough(12057)    32    0    0
------- Manatee(12081)    10    1    0
------- Collier(12021)    25    0    0
+------ Hillsborough(12057)    42    0    0
+------ Manatee(12081)    11    1    0
+------ Collier(12021)    27    0    0
 ------ Orange(12095)    23    2    0
------- Osceola(12097)    13    0    0
+------ Osceola(12097)    14    0    0
 ------ Lee(12071)    14    2    0
------- Alachua(12001)    15    0    0
------- Clay(12019)    4    2    0
------- Pinellas(12103)    22    0    0
+------ Alachua(12001)    21    0    0
+------ Clay(12019)    5    2    0
+------ Pinellas(12103)    27    0    0
 ------ Seminole(12117)    10    0    0
 ------ Sarasota(12115)    8    0    0
------- Citrus(12017)    3    0    0
------- Okaloosa(12091)    7    0    0
------- Pasco(12101)    7    1    0
+------ Citrus(12017)    7    0    0
+------ Okaloosa(12091)    9    0    0
+------ Pasco(12101)    8    1    0
 ------ Brevard(12009)    4    0    0
 ------ Charlotte(12015)    2    0    0
 ------ Escambia(12033)    1    0    0
------- Lake(12069)    3    0    0
+------ Lake(12069)    4    0    0
 ------ Nassau(12089)    1    0    0
 ------ Polk(12105)    9    0    0
 ------ Santa Rosa(12113)    3    1    0
 ------ Gadsden(12039)    1    0    0
------- Leon(12073)    4    1    0
+------ Leon(12073)    5    1    0
 ------ Sumter(12119)    2    0    0
 ------ Walton(12131)    3    0    0
 ------ St Johns(12109)    7    0    0
------- Hernando(12053)    4    0    0
------- Indian River(12061)    3    0    0
+------ Hernando(12053)    5    0    0
+------ Indian River(12061)    4    0    0
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    1    0    0
+------ Marion(12083)    1    0    0
+------ Baker(12003)    1    0    0
+------ Bay(12005)    1    0    0
+------ Highlands(12055)    1    0    0
 ---- LA    585    16    0
 ------ Orleans(22071)    326    10    0
 ------ Jefferson(22051)    104    2    0
@@ -820,7 +824,7 @@
 ------ Pickens(13227)    2    0    0
 ------ Sumter(13261)    2    0    0
 ------ Lamar(13171)    1    0    0
----- TX    430    6    8
+---- TX    434    6    8
 ------ Dallas(48113)    74    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -839,7 +843,7 @@
 ------ Matagorda(48321)    3    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    6    0    0
------- Denton(48121)    15    0    0
+------ Denton(48121)    18    0    0
 ------ Ellis(48139)    2    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
@@ -848,7 +852,7 @@
 ------ Wichita(48485)    4    0    0
 ------ Johnson(48251)    2    0    0
 ------ Comal(48091)    2    0    0
------- Grimes(48185)    1    0    0
+------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
 ------ Williamson(48491)    8    0    0
 ------ Fannin(48147)    1    0    0
@@ -871,10 +875,10 @@
 ------ Kendall(48259)    1    0    0
 ------ Guadalupe(48187)    1    0    0
 ------ Fayette(48149)    1    0    0
----- PA    311    1    0
+---- PA    314    2    0
 ------ Montgomery(42091)    68    0    0
 ------ Philadelphia(42101)    67    0    0
------- Allegheny(42003)    28    0    0
+------ Allegheny(42003)    31    1    0
 ------ Cumberland(42041)    11    0    0
 ------ Delaware(42045)    23    0    0
 ------ Bucks(42017)    24    0    0
@@ -928,10 +932,10 @@
 ------ Marathon(55073)    1    0    0
 ------ Douglas(55031)    1    0    0
 ------ Green(55045)    1    0    0
----- TN    281    1    0
------- Davidson(47037)    101    1    0
+---- TN    300    1    0
+------ Davidson(47037)    133    1    0
 ------ Williamson(47187)    35    0    0
------- Shelby(47157)    10    0    0
+------ Shelby(47157)    42    0    0
 ------ Knox(47093)    3    0    0
 ------ Campbell(47013)    1    0    0
 ------ Hamilton(47065)    5    0    0
@@ -1049,18 +1053,18 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    230    0    0
+---- NC    235    0    0
 ------ Wake(37183)    32    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    77    0    0
 ------ Chatham(37037)    3    0    0
------- Harnett(37085)    6    0    0
+------ Harnett(37085)    7    0    0
 ------ Forsyth(37067)    7    0    0
 ------ Johnston(37101)    3    0    0
 ------ Brunswick(37019)    4    0    0
 ------ Cabarrus(37025)    5    0    0
 ------ Craven(37049)    3    0    0
------- Guilford(37081)    4    0    0
+------ Guilford(37081)    7    0    0
 ------ Iredell(37097)    2    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    1    0    0
@@ -1088,6 +1092,7 @@
 ------ Cleveland(37045)    1    0    0
 ------ Carteret(37031)    1    0    0
 ------ Cherokee(37039)    4    0    0
+------ Robeson(37155)    1    0    0
 ---- MI    554    4    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
@@ -1192,10 +1197,10 @@
 ------ Florence(45041)    1    1    0
 ------ Pickens(45077)    1    0    0
 ------ Sumter(45085)    1    0    0
----- AL    108    0    0
------- Jefferson(01073)    50    0    0
------- Shelby(01117)    10    0    0
------- Lee(01081)    11    0    0
+---- AL    124    0    0
+------ Jefferson(01073)    60    0    0
+------ Shelby(01117)    16    0    0
+------ Lee(01081)    12    0    0
 ------ Tuscaloosa(01125)    4    0    0
 ------ Elmore(01051)    6    0    0
 ------ Montgomery(01101)    3    0    0
@@ -1212,7 +1217,7 @@
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    1    0    0
 ------ Washington(01129)    1    0    0
------- Cullman(01043)    1    0    0
+------ Cullman(01043)    2    0    0
 ---- ME    56    0    0
 ------ Cumberland(23005)    35    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1517,13 +1522,13 @@
 ------ Kanawha(54039)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    23    1    0
----- Others    34    0    0
+---- Others    37    0    0
 ---- GU    14    0    0
 ------ Guam(66010)    14    0    0
----- PR    14    0    0
+---- PR    17    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    21652    75    209
+-- Germany    21682    75    209
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1632,7 +1637,7 @@
 ---- Curacao    3    0    0
 -- Belgium    2815    67    263
 -- Austria    2814    8    9
--- Norway    2044    7    1
+-- Norway    2050    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1709,8 +1714,8 @@
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
 -- Chile    537    0    8
+-- Greece    530    13    19
 -- Finland    521    1    10
--- Greece    495    13    19
 -- Iceland    473    5    8
 -- Qatar    470    0    10
 -- Poland    452    6    13
@@ -1722,12 +1727,12 @@
 -- Saudi Arabia    392    0    16
 -- Slovenia    383    1    0
 -- Romania    367    0    52
+-- India    321    5    23
 -- Philippines    307    19    13
 -- Estonia    306    0    2
 -- Russian Federation    306    1    16
 -- Bahrain    305    1    125
 -- Egypt    285    8    42
--- India    283    5    23
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
 -- South Africa    240    0    2
@@ -1736,11 +1741,11 @@
 -- Croatia    206    1    5
 -- Mexico    203    2    4
 -- Panama    200    1    1
+-- Colombia    196    0    1
 -- Kuwait    176    0    27
 -- Bulgaria    163    3    3
 -- Armenia    160    0    1
 -- Argentina    158    4    3
--- Colombia    158    0    1
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
 -- San Marino    151    20    4
@@ -1751,9 +1756,9 @@
 -- Dominican Republic    112    3    0
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
--- Algeria    95    12    43
+-- Algeria    102    12    43
 -- Viet Nam    94    0    17
--- Bosnia and Herzegovina    93    0    2
+-- Bosnia and Herzegovina    93    1    2
 -- Faroe Islands    92    0    3
 -- Andorra    88    0    1
 -- Morocco    86    3    2
@@ -1771,7 +1776,7 @@
 -- Venezuela, Bolivarian Republic of    65    0    1
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
--- Cambodia    53    0    1
+-- Cambodia    53    0    2
 -- New Zealand    53    0    0
 -- Azerbaijan    53    1    11
 -- Kazakhstan    53    3    0
