@@ -506,8 +506,8 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    22813    288    171
----- NY    11178    60    0
+-- United States of America    24221    288    171
+---- NY    11645    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    7    0
@@ -542,7 +542,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    6211    43    0
+------ New York(36061)    7530    43    0
 ------ Niagara(36063)    4    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -577,7 +577,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1274    25    6
+---- CA    1283    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -829,7 +829,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    473    6    8
+---- TX    487    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -881,7 +881,7 @@
 ------ Guadalupe(48187)    1    0    0
 ------ Fayette(48149)    1    0    0
 ------ Deaf Smith(48117)    1    0    0
----- PA    391    2    0
+---- PA    394    2    0
 ------ Montgomery(42091)    71    0    0
 ------ Philadelphia(42101)    85    0    0
 ------ Allegheny(42003)    31    1    0
@@ -910,7 +910,7 @@
 ------ Potter(42105)    1    0    0
 ------ Butler(42019)    1    0    0
 ------ Montour(42093)    1    0    0
----- WI    220    4    1
+---- WI    221    4    1
 ------ Milwaukee(55079)    95    2    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
@@ -978,7 +978,7 @@
 ------ Tolland(09013)    4    0    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    1    0    0
----- OH    247    3    0
+---- OH    248    3    0
 ------ Cuyahoga(39035)    92    0    0
 ------ Butler(39017)    16    0    0
 ------ Franklin(39049)    21    0    0
@@ -1029,7 +1029,7 @@
 ------ Yamhill(41071)    4    0    0
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
----- VA    152    2    1
+---- VA    156    2    1
 ------ Arlington(51013)    22    0    0
 ------ Fairfax(51059)    22    0    0
 ------ Loudoun(51107)    14    0    0
@@ -1106,7 +1106,7 @@
 ------ Granville(37077)    1    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
----- MI    554    4    0
+---- MI    568    4    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
 ------ Macomb(26099)    86    0    0
@@ -1180,7 +1180,7 @@
 ------ Washoe(32031)    22    0    0
 ------ Carson City(32510)    2    0    0
 ------ Elko(32007)    1    0    0
----- UT    112    0    0
+---- UT    135    0    0
 ------ Salt Lake(49035)    46    0    0
 ------ Summit(49043)    35    0    0
 ------ Davis(49011)    12    0    0
@@ -1237,16 +1237,17 @@
 ------ Washington(01129)    1    0    0
 ------ Cullman(01043)    2    0    0
 ------ Marion(01093)    1    0    0
----- ME    56    0    0
------- Cumberland(23005)    35    0    0
+---- ME    70    0    0
+------ Cumberland(23005)    41    0    0
 ------ Androscoggin(23001)    4    0    0
 ------ Kennebec(23011)    4    0    0
 ------ Knox(23013)    1    0    0
------- Oxford(23017)    1    0    0
------- York(23031)    5    0    0
+------ Oxford(23017)    4    0    0
+------ York(23031)    8    0    0
 ------ Penobscot(23019)    2    0    0
 ------ Lincoln(23015)    4    0    0
 ------ Hancock(23009)    1    0    0
+------ Sagadahoc(23023)    1    0    0
 ---- DC    77    3    0
 ---- IN    129    3    0
 ------ Marion(18097)    46    2    0
@@ -1349,13 +1350,13 @@
 ------ San Miguel(35047)    1    0    0
 ------ McKinley(35031)    1    0    0
 ------ Dona Ana(35013)    1    0    0
----- RI    56    0    0
+---- RI    66    0    0
 ------ Providence(44007)    44    0    0
 ------ Washington(44009)    8    0    0
 ------ Newport(44005)    8    0    0
 ------ Bristol(44001)    5    0    0
 ------ Kent(44003)    5    0    0
----- AR    100    0    0
+---- AR    122    0    0
 ------ Jefferson(05069)    12    0    0
 ------ Pulaski(05119)    24    0    0
 ------ Cleburne(05023)    17    0    0
@@ -1425,7 +1426,7 @@
 ------ Union(28145)    1    0    0
 ------ Washington(28151)    1    0    0
 ------ Panola(28107)    1    0    0
----- AZ    108    1    1
+---- AZ    118    1    1
 ------ Maricopa(04013)    49    1    0
 ------ Pinal(04021)    14    0    0
 ------ Pima(04019)    12    0    0
@@ -1453,7 +1454,7 @@
 ------ Washington(40147)    1    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    2    0    0
----- KS    52    1    0
+---- KS    52    2    0
 ------ Johnson(20091)    23    0    0
 ------ Wyandotte(20209)    9    1    0
 ------ Butler(20015)    2    0    0
@@ -1673,7 +1674,7 @@
 ---- Curacao    3    0    0
 -- Austria    2847    8    9
 -- Belgium    2815    67    263
--- Norway    2128    7    1
+-- Norway    2132    7    1
 -- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1718,20 +1719,20 @@
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Portugal    1280    12    5
--- Canada    1189    18    14
----- British Columbia    348    9    4
+-- Canada    1280    19    14
+---- British Columbia    424    10    4
 ---- Ontario    377    2    5
 ---- Alberta    195    1    0
 ---- Quebec    181    5    0
----- New Brunswick    11    0    0
+---- New Brunswick    17    0    0
 ---- Manitoba    18    0    0
 ---- Saskatchewan    26    0    0
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    12    0    0
 ---- Prince Edward Island    2    0    0
----- Newfoundland and Labrador    4    0    0
----- Nova Scotia    15    0    0
+---- Newfoundland and Labrador    6    0    0
+---- Nova Scotia    21    0    0
+-- Portugal    1280    12    5
 -- Malaysia    1183    8    114
 -- Australia    1072    7    46
 ---- New South Wales    353    6    4
@@ -1745,13 +1746,13 @@
 -- Brazil    1021    18    2
 -- Czechia    995    0    6
 -- Israel    883    1    36
--- Pakistan    720    4    13
--- Ireland    683    3    5
+-- Ireland    785    3    5
+-- Pakistan    734    4    13
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
 -- Chile    537    0    8
 -- Greece    530    13    19
--- Finland    521    1    10
+-- Finland    523    1    10
 -- Ecuador    506    7    3
 -- Poland    492    6    13
 -- Qatar    481    0    27
@@ -1763,7 +1764,7 @@
 -- Saudi Arabia    392    0    16
 -- Slovenia    383    1    0
 -- Romania    367    0    52
--- India    329    5    23
+-- India    332    5    23
 -- Bahrain    310    1    125
 -- Philippines    307    19    13
 -- Estonia    306    0    2
@@ -1789,7 +1790,7 @@
 -- San Marino    151    20    4
 -- Algeria    139    15    65
 -- Latvia    124    0    1
--- Costa Rica    113    2    2
+-- Costa Rica    117    2    2
 -- Dominican Republic    112    3    0
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
@@ -1808,8 +1809,8 @@
 -- Belarus    76    0    15
 -- Albania    76    2    2
 -- Malta    73    0    2
+-- Venezuela, Bolivarian Republic of    70    0    15
 -- Nigeria    69    0    1
--- Venezuela, Bolivarian Republic of    65    0    1
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
 -- Cambodia    53    0    2
@@ -1909,3 +1910,4 @@
 -- Niger    1    0    0
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
+-- Eritrea    1    0    0
