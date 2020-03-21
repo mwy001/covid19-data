@@ -506,6 +506,23 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
+-- Germany    20705    72    209
+---- Saxony    562    1    2
+---- Mecklenburg-Vorpommern    167    0    0
+---- Free State of Bavaria    3107    20    15
+---- Berlin    868    1    6
+---- Brandenburg    265    0    1
+---- Thuringia    215    1    3
+---- Schleswig-Holstein    383    1    0
+---- Lower Saxony    1262    0    4
+---- Bremen    127    0    3
+---- Hamburg    664    1    1
+---- Rhineland-Palatinate    890    2    1
+---- North Rhine-Westphalia    6301    22    127
+---- Hesse    962    2    3
+---- Baden-Württemberg    3665    17    14
+---- Saxony-Anhalt    217    0    0
+---- Saarland    255    0    0
 -- Iran, Islamic Republic of    20610    1556    7635
 ---- Qom    1141    30    0
 ---- Tehran    4617    0    0
@@ -538,23 +555,6 @@
 ---- North Khorasan    138    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    61    0    0
 ---- Bushehr    55    0    0
--- Germany    20581    72    209
----- Saxony    562    1    2
----- Mecklenburg-Vorpommern    167    0    0
----- Free State of Bavaria    3107    20    15
----- Berlin    868    1    6
----- Brandenburg    265    0    1
----- Thuringia    215    1    3
----- Schleswig-Holstein    383    1    0
----- Lower Saxony    1262    0    4
----- Bremen    127    0    3
----- Hamburg    664    1    1
----- Rhineland-Palatinate    890    2    1
----- North Rhine-Westphalia    6301    22    127
----- Hesse    962    2    3
----- Baden-Württemberg    3665    17    14
----- Saxony-Anhalt    217    0    0
----- Saarland    255    0    0
 -- United States of America    20193    280    147
 ---- NY    8935    60    0
 ------ Westchester(36119)    1091    0    0
@@ -1697,18 +1697,18 @@
 -- Ireland    683    3    5
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
--- Pakistan    588    4    13
--- Finland    512    0    10
+-- Pakistan    625    4    13
+-- Finland    521    0    10
 -- Greece    495    13    19
 -- Iceland    473    5    8
 -- Qatar    470    0    10
+-- Poland    452    6    13
 -- Indonesia    450    38    20
--- Poland    439    6    13
 -- Chile    434    0    6
+-- Singapore    432    2    140
+---- Central Singapore Community Development Council    345    0    124
 -- Ecuador    426    7    3
 -- Thailand    411    1    44
--- Singapore    385    2    140
----- Central Singapore Community Development Council    345    0    124
 -- Romania    367    0    52
 -- Saudi Arabia    344    0    8
 -- Slovenia    341    1    0
@@ -1720,7 +1720,7 @@
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
 -- Russian Federation    253    1    12
--- South Africa    240    0    1
+-- South Africa    240    0    2
 -- Iraq    208    17    49
 -- Mexico    203    2    4
 -- Panama    200    1    1
@@ -1735,15 +1735,15 @@
 -- Serbia    149    1    2
 -- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
--- Slovakia    137    1    7
+-- Slovakia    138    1    7
 -- Latvia    124    0    1
 -- Costa Rica    113    2    2
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
 -- Algeria    95    11    32
--- Viet Nam    92    0    17
+-- Viet Nam    94    0    17
 -- Faroe Islands    92    0    3
--- Bosnia and Herzegovina    90    0    2
+-- Bosnia and Herzegovina    91    0    2
 -- Andorra    88    0    1
 -- Morocco    86    3    2
 -- Jordan    85    0    1
@@ -1793,10 +1793,10 @@
 -- Guam    15    0    0
 -- Puerto Rico    14    0    0
 -- Montenegro    14    0    0
+-- Kyrgyzstan    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    2
 -- Guatemala    13    1    0
--- Kyrgyzstan    12    0    0
 -- Monaco    11    0    0
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
