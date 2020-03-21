@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    24221    288    171
+-- United States of America    24349    290    171
 ---- NY    11645    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
@@ -616,7 +616,7 @@
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    1    0    0
 ------ Mono(06051)    1    0    0
----- NJ    1327    16    1
+---- NJ    1328    16    1
 ------ Bergen(34003)    363    3    0
 ------ Essex(34013)    107    2    0
 ------ Hudson(34017)    97    1    0
@@ -910,7 +910,7 @@
 ------ Potter(42105)    1    0    0
 ------ Butler(42019)    1    0    0
 ------ Montour(42093)    1    0    0
----- WI    221    4    1
+---- WI    240    4    1
 ------ Milwaukee(55079)    95    2    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
@@ -1106,7 +1106,7 @@
 ------ Granville(37077)    1    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
----- MI    568    4    0
+---- MI    674    5    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
 ------ Macomb(26099)    86    0    0
@@ -1180,7 +1180,7 @@
 ------ Washoe(32031)    22    0    0
 ------ Carson City(32510)    2    0    0
 ------ Elko(32007)    1    0    0
----- UT    135    0    0
+---- UT    137    0    0
 ------ Salt Lake(49035)    46    0    0
 ------ Summit(49043)    35    0    0
 ------ Davis(49011)    12    0    0
@@ -1293,8 +1293,8 @@
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    1    0    0
 ------ Polk(19153)    10    0    0
------- Pottawattamie(19155)    1    0    0
------- Washington(19183)    1    0    0
+------ Pottawattamie(19155)    2    0    0
+------ Washington(19183)    2    0    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    1    0    0
 ------ Dubuque(19061)    2    0    0
@@ -1302,6 +1302,7 @@
 ------ Linn(19113)    3    0    0
 ------ Fayette(19065)    1    0    0
 ------ Henry(19087)    1    0    0
+------ Story(19169)    1    0    0
 ---- KY    64    2    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
@@ -1454,9 +1455,9 @@
 ------ Washington(40147)    1    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    2    0    0
----- KS    52    2    0
------- Johnson(20091)    23    0    0
------- Wyandotte(20209)    9    1    0
+---- KS    57    2    0
+------ Johnson(20091)    25    0    0
+------ Wyandotte(20209)    13    1    0
 ------ Butler(20015)    2    0    0
 ------ Douglas(20045)    3    0    0
 ------ Ford(20057)    1    0    0
@@ -1470,6 +1471,7 @@
 ------ Sedgwick(20173)    1    0    0
 ------ Riley(20161)    1    0    0
 ------ Reno(20155)    1    0    0
+------ Mitchell(20123)    1    0    0
 ---- VT    29    2    0
 ------ Chittenden(50007)    12    1    0
 ------ Bennington(50003)    4    0    0
@@ -1546,7 +1548,7 @@
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    1    0    0
 ------ Ramsey(38071)    1    0    0
----- AK    14    0    0
+---- AK    15    0    0
 ------ Fairbanks North Star(02090)    6    0    0
 ------ Anchorage(02020)    4    0    0
 ------ Ketchikan Gateway(02130)    3    0    0
@@ -1658,7 +1660,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    6489    74    15
+-- Switzerland    6665    75    15
 -- United Kingdom of Great Britain and Northern Ireland    5018    233    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1674,7 +1676,7 @@
 ---- Curacao    3    0    0
 -- Austria    2847    8    9
 -- Belgium    2815    67    263
--- Norway    2132    7    1
+-- Norway    2141    7    1
 -- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1765,13 +1767,13 @@
 -- Slovenia    383    1    0
 -- Romania    367    0    52
 -- India    332    5    23
+-- Peru    318    5    1
 -- Bahrain    310    1    125
 -- Philippines    307    19    13
 -- Estonia    306    0    2
 -- Russian Federation    306    1    16
--- Egypt    285    8    42
+-- Egypt    294    10    42
 -- Hong Kong    273    4    98
--- Peru    263    4    1
 -- South Africa    240    0    2
 -- Lebanon    230    4    8
 -- Iraq    214    17    51
@@ -1794,13 +1796,13 @@
 -- Dominican Republic    112    3    0
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
+-- Jordan    99    0    1
+-- Morocco    96    3    3
 -- Viet Nam    94    0    17
 -- Bosnia and Herzegovina    93    1    2
 -- Faroe Islands    92    0    3
 -- Andorra    88    0    1
--- Morocco    86    3    2
 -- North Macedonia    85    0    1
--- Jordan    85    0    1
 -- Cyprus    84    0    0
 -- Lithuania    83    1    1
 -- Brunei Darussalam    83    0    1
@@ -1823,8 +1825,8 @@
 -- Georgia    49    0    1
 -- Trinidad and Tobago    49    0    0
 -- Senegal    47    0    5
+-- Ukraine    47    3    1
 -- Réunion    45    0    0
--- Ukraine    41    3    1
 -- Uzbekistan    41    0    0
 -- Liechtenstein    37    0    0
 -- Martinique    32    1    0
