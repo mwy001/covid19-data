@@ -506,6 +506,38 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
+-- Iran, Islamic Republic of    20610    1556    7635
+---- Qom    1141    30    0
+---- Tehran    4617    0    0
+---- Fars    457    2    0
+---- Markazi    846    11    0
+---- Mazandaran    1636    13    0
+---- Ardabil    264    3    0
+---- South Khorasan    163    1    0
+---- Ilam    148    0    0
+---- Isfahan    1791    2    0
+---- Hamadan    197    1    0
+---- Razavi Khorasan    759    8    0
+---- Hormozgan    146    2    0
+---- Kurdistan    215    0    0
+---- Qazvin    581    7    0
+---- Yazd    589    3    0
+---- West Azerbaijan    353    0    0
+---- Gilan    1096    0    0
+---- Golestan    375    6    0
+---- Khuzestan    391    12    0
+---- Alborz    1062    7    0
+---- Semnan    645    0    0
+---- Lorestan    409    4    0
+---- East Azerbaijan    684    6    0
+---- Kermanshah    163    2    0
+---- Sistan and Baluchestan    114    0    0
+---- Kerman    153    0    0
+---- Zanjan    331    0    0
+---- Chaharmahal and Bakhtiari    64    0    0
+---- North Khorasan    138    0    0
+---- Kohgiluyeh and Boyer-Ahmad    61    0    0
+---- Bushehr    55    0    0
 -- United States of America    20193    280    147
 ---- NY    8935    60    0
 ------ Westchester(36119)    1091    0    0
@@ -1499,14 +1531,14 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    19848    68    180
+-- Germany    20046    69    180
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
 ---- Berlin    868    1    6
 ---- Brandenburg    265    0    1
 ---- Thuringia    215    1    3
----- Schleswig-Holstein    321    1    0
+---- Schleswig-Holstein    338    1    0
 ---- Lower Saxony    1262    0    4
 ---- Bremen    127    0    3
 ---- Hamburg    664    1    1
@@ -1516,38 +1548,6 @@
 ---- Baden-Württemberg    3665    17    14
 ---- Saxony-Anhalt    217    0    0
 ---- Saarland    255    0    0
--- Iran, Islamic Republic of    19644    1556    6745
----- Qom    1141    30    0
----- Tehran    4617    0    0
----- Fars    457    2    0
----- Markazi    846    11    0
----- Mazandaran    1636    13    0
----- Ardabil    264    3    0
----- South Khorasan    163    1    0
----- Ilam    148    0    0
----- Isfahan    1791    2    0
----- Hamadan    197    1    0
----- Razavi Khorasan    759    8    0
----- Hormozgan    146    2    0
----- Kurdistan    215    0    0
----- Qazvin    581    7    0
----- Yazd    589    3    0
----- West Azerbaijan    353    0    0
----- Gilan    1096    0    0
----- Golestan    375    6    0
----- Khuzestan    391    12    0
----- Alborz    1062    7    0
----- Semnan    645    0    0
----- Lorestan    409    4    0
----- East Azerbaijan    684    6    0
----- Kermanshah    163    2    0
----- Sistan and Baluchestan    114    0    0
----- Kerman    153    0    0
----- Zanjan    331    0    0
----- Chaharmahal and Bakhtiari    64    0    0
----- North Khorasan    138    0    0
----- Kohgiluyeh and Boyer-Ahmad    61    0    0
----- Bushehr    55    0    0
 -- France    12726    450    1587
 ---- France    7652    148    12
 ---- St Martin    4    0    0
@@ -1597,7 +1597,7 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    3384    128    0
+---- England    3384    167    0
 ---- Northern Ireland    86    1    0
 ---- Wales    191    2    0
 ---- Scotland    322    10    0
@@ -1606,9 +1606,9 @@
 -- Netherlands    3003    107    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2690    7    9
--- Belgium    2257    37    204
--- Norway    1993    7    1
+-- Belgium    2815    67    204
+-- Austria    2695    7    9
+-- Norway    1995    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1626,7 +1626,7 @@
 ---- Kyoto    22    0    2
 ---- Osaka    123    1    1
 ---- Chiba    41    0    0
----- Kanagawa    68    4    1
+---- Kanagawa    71    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    139    16    2
 ---- Nara    8    0    1
@@ -1634,7 +1634,7 @@
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    101    4    0
+---- hyogo    102    4    0
 ---- oita    9    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
@@ -1679,7 +1679,7 @@
 -- Portugal    1020    7    5
 -- Brazil    977    11    2
 -- Czechia    904    0    4
--- Israel    705    1    36
+-- Israel    883    1    36
 -- Ireland    683    3    5
 -- Turkey    670    9    0
 -- Luxembourg    618    5    6
@@ -1699,9 +1699,9 @@
 -- Slovenia    341    1    0
 -- Romania    308    0    31
 -- Philippines    307    19    13
+-- Estonia    306    0    1
 -- Bahrain    298    1    125
 -- Egypt    285    8    42
--- Estonia    283    0    1
 -- India    275    5    23
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
@@ -1733,12 +1733,12 @@
 -- Morocco    86    3    2
 -- Jordan    85    0    1
 -- Brunei Darussalam    83    0    1
--- North Macedonia    76    0    1
+-- North Macedonia    77    0    1
+-- Albania    76    2    2
 -- Andorra    75    0    1
 -- Cyprus    75    0    0
 -- Sri Lanka    73    0    3
 -- Dominican Republic    72    2    0
--- Albania    70    2    2
 -- Belarus    69    0    15
 -- Lithuania    69    1    1
 -- Nigeria    69    0    1
@@ -1768,11 +1768,11 @@
 -- Cuba    21    1    0
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
+-- Ghana    19    0    8
 -- Paraguay    18    0    0
 -- Congo, Democratic Republic of the    18    0    0
 -- Rwanda    17    0    0
 -- Macao    17    0    10
--- Ghana    16    0    8
 -- French Guiana    15    0    0
 -- Guyana    15    1    0
 -- French Polynesia    15    0    0
