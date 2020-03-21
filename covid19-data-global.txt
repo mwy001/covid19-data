@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    22738    288    171
+-- United States of America    22813    288    171
 ---- NY    11178    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
@@ -617,25 +617,25 @@
 ------ Mendocino(06045)    1    0    0
 ------ Mono(06051)    1    0    0
 ---- NJ    1327    16    1
------- Bergen(34003)    249    3    0
------- Essex(34013)    73    2    0
------- Hudson(34017)    66    1    0
------- Middlesex(34023)    76    0    0
------- Monmouth(34025)    53    1    0
------- Union(34039)    43    0    0
------- Passaic(34031)    49    0    0
------- Mercer(34021)    22    0    0
------- Morris(34027)    35    0    0
------- Somerset(34035)    28    0    0
------- Burlington(34005)    17    0    0
------- Hunterdon(34019)    11    0    0
------- Ocean(34029)    49    0    0
------- Camden(34007)    13    0    0
------- Gloucester(34015)    5    0    0
------- Atlantic(34001)    3    0    0
------- Warren(34041)    3    0    0
------- Sussex(34037)    3    0    0
------- Cape May(34009)    1    0    0
+------ Bergen(34003)    363    3    0
+------ Essex(34013)    107    2    0
+------ Hudson(34017)    97    1    0
+------ Middlesex(34023)    116    0    0
+------ Monmouth(34025)    92    1    0
+------ Union(34039)    81    0    0
+------ Passaic(34031)    67    0    0
+------ Mercer(34021)    30    0    0
+------ Morris(34027)    64    0    0
+------ Somerset(34035)    34    0    0
+------ Burlington(34005)    21    0    0
+------ Hunterdon(34019)    14    0    0
+------ Ocean(34029)    62    0    0
+------ Camden(34007)    15    0    0
+------ Gloucester(34015)    6    0    0
+------ Atlantic(34001)    4    0    0
+------ Warren(34041)    5    0    0
+------ Sussex(34037)    6    0    0
+------ Cape May(34009)    2    0    0
 ------ Cumberland(34011)    1    0    0
 ---- MA    413    1    1
 ------ Middlesex(25017)    144    0    0
@@ -978,29 +978,29 @@
 ------ Tolland(09013)    4    0    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    1    0    0
----- OH    178    3    0
------- Cuyahoga(39035)    69    0    0
------- Butler(39017)    12    0    0
------- Franklin(39049)    14    0    0
------- Lorain(39093)    10    0    0
------- Summit(39153)    10    0    0
------- Medina(39103)    6    0    0
------- Stark(39151)    6    0    0
+---- OH    247    3    0
+------ Cuyahoga(39035)    92    0    0
+------ Butler(39017)    16    0    0
+------ Franklin(39049)    21    0    0
+------ Lorain(39093)    14    0    0
+------ Summit(39153)    15    0    0
+------ Medina(39103)    9    0    0
+------ Stark(39151)    8    0    0
 ------ Belmont(39013)    2    0    0
 ------ Coshocton(39031)    2    0    0
 ------ Trumbull(39155)    3    0    0
 ------ Darke(39037)    1    0    0
 ------ Geauga(39055)    1    0    0
------- Lake(39085)    3    0    0
------- Lucas(39095)    2    1    0
------- Mahoning(39099)    7    0    0
+------ Lake(39085)    4    0    0
+------ Lucas(39095)    4    1    0
+------ Mahoning(39099)    14    0    0
 ------ Tuscarawas(39157)    1    0    0
 ------ Huron(39077)    1    0    0
 ------ Ashland(39005)    1    0    0
------- Delaware(39041)    2    0    0
+------ Delaware(39041)    4    0    0
 ------ Montgomery(39113)    1    0    0
------- Hamilton(39061)    7    0    0
------- Miami(39109)    2    1    0
+------ Hamilton(39061)    8    0    0
+------ Miami(39109)    11    1    0
 ------ Richland(39139)    1    0    0
 ------ Clark(39023)    1    0    0
 ------ Warren(39165)    2    0    0
@@ -1008,8 +1008,10 @@
 ------ Marion(39101)    1    0    0
 ------ Union(39159)    1    0    0
 ------ Licking(39089)    1    0    0
------- Defiance(39039)    1    0    0
+------ Defiance(39039)    2    0    0
 ------ Erie(39043)    1    1    0
+------ Clermont(39025)    2    0    0
+------ Gallia(39053)    1    0    0
 ---- OR    114    4    0
 ------ Washington(41067)    31    1    0
 ------ Linn(41043)    19    0    0
@@ -1028,12 +1030,12 @@
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
 ---- VA    152    2    1
------- Arlington(51013)    17    0    0
------- Fairfax(51059)    16    0    0
------- Loudoun(51107)    9    0    0
------- Chesterfield(51041)    6    0    0
------- Prince William(51153)    12    0    0
------- Henrico(51087)    3    0    0
+------ Arlington(51013)    22    0    0
+------ Fairfax(51059)    22    0    0
+------ Loudoun(51107)    14    0    0
+------ Chesterfield(51041)    7    0    0
+------ Prince William(51153)    14    0    0
+------ Henrico(51087)    7    0    0
 ------ Goochland(51075)    1    0    0
 ------ Hanover(51085)    1    0    0
 ------ Prince Edward(51147)    1    0    0
@@ -1041,9 +1043,9 @@
 ------ Stafford(51179)    2    0    0
 ------ York(51199)    3    1    0
 ------ Charles City(51036)    1    0    0
------- James City(51095)    19    1    0
+------ James City(51095)    20    1    0
 ------ Albemarle(51003)    1    0    0
------- Gloucester(51073)    1    0    0
+------ Gloucester(51073)    2    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
 ------ Richmond(51159)    5    0    0
@@ -1536,8 +1538,8 @@
 ------ Canyon(16027)    1    0    0
 ------ Fremont(16043)    1    0    0
 ------ Bingham(16011)    1    0    0
----- ND    26    0    0
------- Burleigh(38015)    13    0    0
+---- ND    28    0    0
+------ Burleigh(38015)    15    0    0
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
 ------ Morton(38059)    7    0    0
@@ -1562,7 +1564,7 @@
 ---- PR    21    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    21854    77    209
+-- Germany    22084    83    209
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1655,8 +1657,8 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    6373    74    15
--- United Kingdom of Great Britain and Northern Ireland    4145    233    67
+-- Switzerland    6489    74    15
+-- United Kingdom of Great Britain and Northern Ireland    5018    233    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1671,8 +1673,8 @@
 ---- Curacao    3    0    0
 -- Austria    2847    8    9
 -- Belgium    2815    67    263
--- Norway    2119    7    1
--- Japan    1848    35    215
+-- Norway    2128    7    1
+-- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
