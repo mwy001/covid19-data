@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    24349    290    171
+-- United States of America    24700    291    171
 ---- NY    11645    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
@@ -551,7 +551,7 @@
 ------ Steuben(36101)    2    0    0
 ------ Columbia(36021)    3    0    0
 ------ Livingston(36051)    1    0    0
----- WA    1527    89    124
+---- WA    1530    89    124
 ------ King(53033)    793    67    0
 ------ Snohomish(53061)    385    8    0
 ------ Pierce(53053)    83    1    0
@@ -577,7 +577,7 @@
 ------ Mason(53045)    1    0    0
 ------ Benton(53005)    3    1    0
 ------ Clallam(53009)    1    0    0
----- CA    1283    25    6
+---- CA    1285    25    6
 ------ Santa Clara(06085)    196    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -650,7 +650,7 @@
 ------ Hampden(25013)    3    0    0
 ------ Franklin(25011)    1    0    0
 ------ Hampshire(25015)    2    0    0
----- FL    659    12    0
+---- FL    659    13    0
 ------ Broward(12011)    151    1    0
 ------ Palm Beach(12099)    45    0    0
 ------ Duval(12031)    20    0    0
@@ -746,7 +746,7 @@
 ------ Yuma(08125)    1    0    0
 ------ Broomfield(08014)    2    0    0
 ------ Park(08093)    1    0    0
----- IL    585    5    2
+---- IL    752    5    2
 ------ Cook(17031)    411    3    0
 ------ Lake(17097)    53    0    0
 ------ Sangamon(17167)    4    1    0
@@ -829,7 +829,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    487    6    8
+---- TX    488    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -910,7 +910,7 @@
 ------ Potter(42105)    1    0    0
 ------ Butler(42019)    1    0    0
 ------ Montour(42093)    1    0    0
----- WI    240    4    1
+---- WI    282    4    1
 ------ Milwaukee(55079)    95    2    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
@@ -1106,7 +1106,7 @@
 ------ Granville(37077)    1    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
----- MI    674    5    0
+---- MI    787    5    0
 ------ Oakland(26125)    184    1    0
 ------ Wayne(26163)    67    2    0
 ------ Macomb(26099)    86    0    0
@@ -1342,7 +1342,7 @@
 ------ Nemaha(31127)    1    0    0
 ------ Lancaster(31109)    2    0    0
 ------ Buffalo(31019)    1    0    0
----- NM    43    0    0
+---- NM    57    0    0
 ------ Bernalillo(35001)    23    0    0
 ------ Santa Fe(35049)    7    0    0
 ------ Sandoval(35043)    6    0    0
@@ -1480,7 +1480,7 @@
 ------ Washington(50023)    2    0    0
 ------ Addison(50001)    1    0    0
 ------ Rutland(50021)    1    0    0
----- DE    40    0    0
+---- DE    45    0    0
 ------ New Castle(10003)    28    0    0
 ------ Sussex(10005)    7    0    0
 ------ Kent(10001)    5    0    0
@@ -1567,7 +1567,7 @@
 ---- PR    21    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    22084    83    209
+-- Germany    22213    84    209
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1661,7 +1661,7 @@
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
 -- Switzerland    6665    75    15
--- United Kingdom of Great Britain and Northern Ireland    5018    233    67
+-- United Kingdom of Great Britain and Northern Ireland    5018    233    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1674,9 +1674,9 @@
 -- Netherlands    3631    136    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2847    8    9
+-- Austria    2953    8    9
 -- Belgium    2815    67    263
--- Norway    2141    7    1
+-- Norway    2142    7    6
 -- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1721,9 +1721,9 @@
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1280    19    14
+-- Canada    1280    20    14
 ---- British Columbia    424    10    4
----- Ontario    377    2    5
+---- Ontario    377    3    5
 ---- Alberta    195    1    0
 ---- Quebec    181    5    0
 ---- New Brunswick    17    0    0
@@ -1745,18 +1745,18 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Brazil    1021    18    2
+-- Brazil    1028    18    2
 -- Czechia    995    0    6
+-- Turkey    947    21    0
 -- Israel    883    1    36
 -- Ireland    785    3    5
 -- Pakistan    734    4    13
 -- Luxembourg    670    8    6
--- Turkey    670    9    0
--- Chile    537    0    8
+-- Chile    537    1    8
+-- Poland    536    6    13
 -- Greece    530    13    19
 -- Finland    523    1    10
 -- Ecuador    506    7    3
--- Poland    492    6    13
 -- Qatar    481    0    27
 -- Iceland    473    5    8
 -- Indonesia    450    38    20
@@ -1796,6 +1796,7 @@
 -- Dominican Republic    112    3    0
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
+-- Lithuania    99    1    1
 -- Jordan    99    0    1
 -- Morocco    96    3    3
 -- Viet Nam    94    0    17
@@ -1804,7 +1805,6 @@
 -- Andorra    88    0    1
 -- North Macedonia    85    0    1
 -- Cyprus    84    0    0
--- Lithuania    83    1    1
 -- Brunei Darussalam    83    0    1
 -- Moldova, Republic of    80    1    1
 -- Sri Lanka    77    0    3
@@ -1838,6 +1838,7 @@
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
 -- Ghana    19    0    8
+-- Monaco    18    0    1
 -- French Guiana    18    0    0
 -- Paraguay    18    1    0
 -- Macao    18    0    10
@@ -1853,7 +1854,6 @@
 -- Kyrgyzstan    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    3
--- Monaco    11    0    0
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
 -- Côte d'Ivoire    9    0    1
