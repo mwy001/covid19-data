@@ -485,7 +485,7 @@
 ---- Liguria    1221    119    101
 ---- Veneto    4031    131    223
 ---- Bolzano    548    17    1
--- Spain    24926    1326    2125
+-- Spain    25374    1378    2125
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
 ---- Balearic Islands    112    1    2
@@ -506,57 +506,8 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- Germany    21652    75    209
----- Saxony    562    1    2
----- Mecklenburg-Vorpommern    167    0    0
----- Free State of Bavaria    3107    20    15
----- Berlin    868    1    6
----- Brandenburg    265    0    1
----- Thuringia    215    1    3
----- Schleswig-Holstein    383    1    0
----- Lower Saxony    1262    0    4
----- Bremen    127    0    3
----- Hamburg    664    1    1
----- Rhineland-Palatinate    890    2    1
----- North Rhine-Westphalia    6301    22    127
----- Hesse    962    2    3
----- Baden-Württemberg    3665    17    14
----- Saxony-Anhalt    217    0    0
----- Saarland    255    0    0
--- Iran, Islamic Republic of    20610    1556    7635
----- Qom    1161    30    0
----- Tehran    4849    0    0
----- Fars    479    2    0
----- Markazi    846    11    0
----- Mazandaran    1664    13    0
----- Ardabil    270    3    0
----- South Khorasan    163    1    0
----- Ilam    166    0    0
----- Isfahan    1892    2    0
----- Hamadan    224    1    0
----- Razavi Khorasan    816    8    0
----- Hormozgan    146    2    0
----- Kurdistan    222    0    0
----- Qazvin    640    7    0
----- Yazd    641    3    0
----- West Azerbaijan    367    0    0
----- Gilan    1153    0    0
----- Golestan    381    6    0
----- Khuzestan    422    12    0
----- Alborz    1117    7    0
----- Semnan    645    0    0
----- Lorestan    443    4    0
----- East Azerbaijan    756    6    0
----- Kermanshah    168    2    0
----- Sistan and Baluchestan    119    0    0
----- Kerman    161    0    0
----- Zanjan    366    0    0
----- Chaharmahal and Bakhtiari    66    0    0
----- North Khorasan    139    0    0
----- Kohgiluyeh and Boyer-Ahmad    73    0    0
----- Bushehr    55    0    0
--- United States of America    20193    280    147
----- NY    8935    60    0
+-- United States of America    21852    280    147
+---- NY    10356    60    0
 ------ Westchester(36119)    1091    0    0
 ------ Nassau(36059)    754    4    0
 ------ Suffolk(36103)    459    7    0
@@ -564,7 +515,7 @@
 ------ Rockland(36087)    101    1    0
 ------ Dutchess(36027)    36    0    0
 ------ Orange(36071)    84    0    0
------- Monroe(36055)    36    1    0
+------ Monroe(36055)    46    1    0
 ------ Erie(36029)    47    0    0
 ------ Saratoga(36091)    24    0    0
 ------ Ulster(36111)    12    0    0
@@ -1400,18 +1351,18 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    1    0    0
 ------ Sevier(05133)    1    0    0
----- MS    81    1    0
+---- MS    140    1    0
 ------ Hinds(28049)    7    0    0
 ------ Leflore(28083)    7    0    0
------- Forrest(28035)    4    0    0
+------ Forrest(28035)    5    0    0
 ------ Copiah(28029)    2    0    0
 ------ Pearl River(28109)    7    0    0
------- Hancock(28045)    3    1    0
+------ Hancock(28045)    4    1    0
 ------ Harrison(28047)    8    0    0
 ------ Jackson(28059)    3    0    0
 ------ Monroe(28095)    2    0    0
 ------ Bolivar(28011)    2    0    0
------- Coahoma(28027)    3    0    0
+------ Coahoma(28027)    5    0    0
 ------ Perry(28111)    1    0    0
 ------ Madison(28089)    3    0    0
 ------ Holmes(28051)    3    0    0
@@ -1423,15 +1374,18 @@
 ------ Yazoo(28163)    1    0    0
 ------ Lafayette(28071)    1    0    0
 ------ Tippah(28139)    3    0    0
------- Adams(28001)    1    0    0
+------ Adams(28001)    2    0    0
 ------ Rankin(28121)    3    0    0
------- Franklin(28037)    1    0    0
+------ Franklin(28037)    2    0    0
 ------ Humphreys(28053)    1    0    0
 ------ Lawrence(28077)    1    0    0
 ------ Lee(28081)    1    0    0
 ------ Marshall(28093)    1    0    0
 ------ Pike(28113)    1    0    0
 ------ Webster(28155)    1    0    0
+------ Clay(28025)    1    0    0
+------ George(28039)    1    0    0
+------ Grenada(28043)    1    0    0
 ---- AZ    79    1    1
 ------ Maricopa(04013)    34    1    0
 ------ Pinal(04021)    10    0    0
@@ -1459,11 +1413,11 @@
 ------ Washington(40147)    1    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    1    0    0
----- KS    50    1    0
+---- KS    52    1    0
 ------ Johnson(20091)    23    0    0
 ------ Wyandotte(20209)    9    1    0
 ------ Butler(20015)    2    0    0
------- Douglas(20045)    1    0    0
+------ Douglas(20045)    3    0    0
 ------ Ford(20057)    1    0    0
 ------ Franklin(20059)    1    0    0
 ------ Leavenworth(20103)    4    0    0
@@ -1569,6 +1523,55 @@
 ---- PR    14    0    0
 ---- VI    3    0    0
 ---- Wuhan Evacuee    3    0    0
+-- Germany    21652    75    209
+---- Saxony    562    1    2
+---- Mecklenburg-Vorpommern    167    0    0
+---- Free State of Bavaria    3107    20    15
+---- Berlin    868    1    6
+---- Brandenburg    265    0    1
+---- Thuringia    215    1    3
+---- Schleswig-Holstein    383    1    0
+---- Lower Saxony    1262    0    4
+---- Bremen    127    0    3
+---- Hamburg    664    1    1
+---- Rhineland-Palatinate    890    2    1
+---- North Rhine-Westphalia    6301    22    127
+---- Hesse    962    2    3
+---- Baden-Württemberg    3665    17    14
+---- Saxony-Anhalt    217    0    0
+---- Saarland    255    0    0
+-- Iran, Islamic Republic of    20610    1556    7635
+---- Qom    1161    30    0
+---- Tehran    4849    0    0
+---- Fars    479    2    0
+---- Markazi    846    11    0
+---- Mazandaran    1664    13    0
+---- Ardabil    270    3    0
+---- South Khorasan    163    1    0
+---- Ilam    166    0    0
+---- Isfahan    1892    2    0
+---- Hamadan    224    1    0
+---- Razavi Khorasan    816    8    0
+---- Hormozgan    146    2    0
+---- Kurdistan    222    0    0
+---- Qazvin    640    7    0
+---- Yazd    641    3    0
+---- West Azerbaijan    367    0    0
+---- Gilan    1153    0    0
+---- Golestan    381    6    0
+---- Khuzestan    422    12    0
+---- Alborz    1117    7    0
+---- Semnan    645    0    0
+---- Lorestan    443    4    0
+---- East Azerbaijan    756    6    0
+---- Kermanshah    168    2    0
+---- Sistan and Baluchestan    119    0    0
+---- Kerman    161    0    0
+---- Zanjan    366    0    0
+---- Chaharmahal and Bakhtiari    66    0    0
+---- North Khorasan    139    0    0
+---- Kohgiluyeh and Boyer-Ahmad    73    0    0
+---- Bushehr    55    0    0
 -- France    12726    450    1587
 ---- France    7652    148    12
 ---- St Martin    4    0    0
@@ -1629,7 +1632,7 @@
 ---- Curacao    3    0    0
 -- Belgium    2815    67    263
 -- Austria    2814    8    9
--- Norway    2040    7    1
+-- Norway    2044    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1698,7 +1701,7 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Brazil    999    12    2
+-- Brazil    1021    12    2
 -- Czechia    925    0    5
 -- Israel    883    1    36
 -- Pakistan    720    4    13
@@ -1730,10 +1733,10 @@
 -- South Africa    240    0    2
 -- Iraq    214    17    51
 -- Lebanon    206    4    8
+-- Croatia    206    1    5
 -- Mexico    203    2    4
 -- Panama    200    1    1
 -- Kuwait    176    0    27
--- Croatia    168    1    5
 -- Bulgaria    163    3    3
 -- Armenia    160    0    1
 -- Argentina    158    4    3
@@ -1756,15 +1759,15 @@
 -- Morocco    86    3    2
 -- North Macedonia    85    0    1
 -- Jordan    85    0    1
+-- Cyprus    84    0    0
 -- Lithuania    83    1    1
 -- Brunei Darussalam    83    0    1
+-- Moldova, Republic of    80    1    1
 -- Sri Lanka    77    0    3
 -- Belarus    76    0    15
 -- Albania    76    2    2
--- Cyprus    75    0    0
 -- Malta    73    0    2
 -- Nigeria    69    0    1
--- Moldova, Republic of    66    1    1
 -- Venezuela, Bolivarian Republic of    65    0    1
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
@@ -1776,6 +1779,7 @@
 -- Palestine    52    0    17
 -- Guadeloupe    51    1    0
 -- Georgia    49    0    1
+-- Trinidad and Tobago    49    0    0
 -- Senegal    47    0    5
 -- Réunion    45    0    0
 -- Ukraine    41    3    1
@@ -1810,7 +1814,6 @@
 -- Gibraltar    10    0    2
 -- Côte d'Ivoire    9    0    1
 -- Ethiopia    9    0    0
--- Trinidad and Tobago    9    0    0
 -- Kenya    7    0    0
 -- Mayotte    7    0    0
 -- Seychelles    7    0    0
