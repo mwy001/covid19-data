@@ -506,8 +506,8 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    24700    291    171
----- NY    11645    60    0
+-- United States of America    24717    293    171
+---- NY    11646    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    7    0
@@ -551,7 +551,7 @@
 ------ Steuben(36101)    2    0    0
 ------ Columbia(36021)    3    0    0
 ------ Livingston(36051)    1    0    0
----- WA    1530    89    124
+---- WA    1536    89    124
 ------ King(53033)    793    67    0
 ------ Snohomish(53061)    385    8    0
 ------ Pierce(53053)    83    1    0
@@ -637,7 +637,7 @@
 ------ Sussex(34037)    6    0    0
 ------ Cape May(34009)    2    0    0
 ------ Cumberland(34011)    1    0    0
----- MA    413    1    1
+---- MA    417    1    1
 ------ Middlesex(25017)    144    0    0
 ------ Norfolk(25021)    64    0    0
 ------ Suffolk(25025)    86    1    0
@@ -746,7 +746,7 @@
 ------ Yuma(08125)    1    0    0
 ------ Broomfield(08014)    2    0    0
 ------ Park(08093)    1    0    0
----- IL    752    5    2
+---- IL    753    6    2
 ------ Cook(17031)    411    3    0
 ------ Lake(17097)    53    0    0
 ------ Sangamon(17167)    4    1    0
@@ -829,7 +829,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    488    6    8
+---- TX    492    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -1159,7 +1159,7 @@
 ------ St Louis(27137)    1    0    0
 ------ Steele(27147)    2    0    0
 ------ Wabasha(27157)    1    0    0
----- MD    190    2    4
+---- MD    192    2    4
 ------ Montgomery(24031)    68    0    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    19    1    0
@@ -1249,7 +1249,7 @@
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    1    0    0
 ---- DC    77    3    0
----- IN    129    3    0
+---- IN    129    4    0
 ------ Marion(18097)    46    2    0
 ------ Hendricks(18063)    6    0    0
 ------ Johnson(18081)    7    1    0
@@ -1660,7 +1660,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    6665    75    15
+-- Switzerland    6746    79    15
 -- United Kingdom of Great Britain and Northern Ireland    5018    233    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1676,7 +1676,7 @@
 ---- Curacao    3    0    0
 -- Austria    2953    8    9
 -- Belgium    2815    67    263
--- Norway    2142    7    6
+-- Norway    2150    7    6
 -- Japan    1848    36    215
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
@@ -1785,11 +1785,11 @@
 -- Kuwait    176    0    27
 -- Serbia    171    1    2
 -- Bulgaria    163    3    3
+-- San Marino    160    20    4
 -- Armenia    160    0    1
 -- Argentina    158    4    3
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
--- San Marino    151    20    4
 -- Algeria    139    15    65
 -- Latvia    124    0    1
 -- Costa Rica    117    2    2
@@ -1815,10 +1815,10 @@
 -- Nigeria    69    0    1
 -- Burkina Faso    64    3    5
 -- Tunisia    60    1    1
+-- Kazakhstan    54    3    0
 -- Cambodia    53    0    2
 -- New Zealand    53    0    0
 -- Azerbaijan    53    1    11
--- Kazakhstan    53    3    0
 -- Oman    52    0    13
 -- Palestine    52    0    17
 -- Guadeloupe    51    1    0
@@ -1835,22 +1835,22 @@
 -- Bangladesh    24    2    3
 -- Honduras    24    0    0
 -- Cuba    21    1    0
+-- Puerto Rico    21    0    0
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
--- Ghana    19    0    8
+-- Ghana    19    1    8
 -- Monaco    18    0    1
 -- French Guiana    18    0    0
 -- Paraguay    18    1    0
 -- Macao    18    0    10
 -- Congo, Democratic Republic of the    18    0    0
--- Puerto Rico    17    0    0
 -- Guatemala    17    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
+-- Montenegro    16    0    0
 -- Guyana    15    1    0
 -- French Polynesia    15    0    0
 -- Guam    15    0    0
--- Montenegro    14    0    0
 -- Kyrgyzstan    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    3
@@ -1866,9 +1866,9 @@
 -- Tanzania, United Republic of    6    0    0
 -- Barbados    6    0    0
 -- Aruba    5    0    1
+-- Gabon    5    1    0
+-- Suriname    5    0    0
 -- Saint Martin (French part)    4    0    0
--- Gabon    4    1    0
--- Suriname    4    0    0
 -- Bahamas    4    0    0
 -- New Caledonia    4    0    0
 -- Congo    3    0    0
