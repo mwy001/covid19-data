@@ -1606,9 +1606,9 @@
 -- Netherlands    3003    107    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2649    7    9
+-- Austria    2666    7    9
 -- Belgium    2257    37    204
--- Norway    1967    7    1
+-- Norway    1974    7    1
 -- Japan    1848    35    215
 ---- Hokkaido    158    6    66
 ---- kochi    12    0    0
@@ -1666,7 +1666,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
--- Australia    1051    7    46
+-- Australia    1068    7    46
 ---- New South Wales    353    6    4
 ---- Victoria    121    0    8
 ---- Queensland    184    0    8
@@ -1687,9 +1687,9 @@
 -- Greece    495    10    19
 -- Qatar    470    0    10
 -- Finland    450    0    10
+-- Poland    439    6    13
 -- Chile    434    0    6
 -- Ecuador    426    7    3
--- Poland    425    6    13
 -- Thailand    411    1    42
 -- Iceland    409    5    8
 -- Singapore    385    2    131
@@ -1715,15 +1715,15 @@
 -- Kuwait    159    0    22
 -- Argentina    158    3    3
 -- Colombia    158    0    1
+-- Taiwan    153    2    28
 -- San Marino    151    14    4
 -- Serbia    149    1    2
 -- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
--- Taiwan    135    2    28
 -- Croatia    130    1    5
+-- Latvia    124    0    1
 -- Costa Rica    113    2    2
--- Latvia    111    0    1
 -- Uruguay    110    0    0
 -- Hungary    103    4    7
 -- Algeria    94    11    32
@@ -1749,9 +1749,9 @@
 -- New Zealand    53    0    0
 -- Kazakhstan    53    3    0
 -- Oman    52    0    13
+-- Palestine    52    0    17
 -- Cambodia    51    0    1
 -- Guadeloupe    51    1    0
--- Palestine    48    0    17
 -- Georgia    47    0    1
 -- Senegal    47    0    5
 -- Azerbaijan    44    1    7
@@ -1775,15 +1775,15 @@
 -- Ghana    16    0    8
 -- French Guiana    15    0    0
 -- Guyana    15    1    0
+-- French Polynesia    15    0    0
 -- Puerto Rico    14    0    0
 -- Guam    14    0    0
 -- Montenegro    14    0    0
+-- Mauritius    14    1    0
 -- Maldives    13    0    2
 -- Guatemala    12    1    0
 -- Kyrgyzstan    12    0    0
--- Mauritius    12    1    0
 -- Monaco    11    0    0
--- French Polynesia    11    0    0
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
 -- Togo    9    0    1
@@ -1843,3 +1843,4 @@
 -- Papua New Guinea    1    0    0
 -- Cabo Verde    1    0    0
 -- Zimbabwe    1    0    0
+-- Timor-Leste    1    0    0
