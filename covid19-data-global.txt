@@ -1137,9 +1137,9 @@
 ------ Baltimore City(24510)    11    0    0
 ------ Wicomico(24045)    1    0    0
 ------ Worcester(24047)    1    0    0
----- NV    161    2    0
+---- NV    165    2    0
 ------ Clark(32003)    126    2    0
------- Washoe(32031)    18    0    0
+------ Washoe(32031)    22    0    0
 ------ Carson City(32510)    2    0    0
 ------ Elko(32007)    1    0    0
 ---- UT    112    0    0
@@ -1683,7 +1683,7 @@
 -- Ireland    683    3    5
 -- Turkey    670    9    0
 -- Luxembourg    618    5    6
--- Pakistan    501    3    13
+-- Pakistan    519    4    13
 -- Greece    495    10    19
 -- Qatar    470    0    10
 -- Finland    450    0    10
@@ -1716,21 +1716,21 @@
 -- Argentina    158    3    3
 -- Colombia    158    0    1
 -- San Marino    151    14    4
+-- Serbia    149    1    2
 -- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
--- Serbia    135    1    2
 -- Taiwan    135    2    28
 -- Croatia    130    1    5
 -- Costa Rica    113    2    2
 -- Latvia    111    0    1
 -- Uruguay    110    0    0
+-- Hungary    103    4    7
 -- Algeria    94    11    32
 -- Viet Nam    91    0    17
--- Bosnia and Herzegovina    89    0    2
+-- Bosnia and Herzegovina    90    0    2
 -- Morocco    86    3    2
 -- Jordan    85    0    1
--- Hungary    85    4    7
 -- Faroe Islands    80    0    3
 -- Brunei Darussalam    78    0    1
 -- North Macedonia    76    0    1
@@ -1747,10 +1747,10 @@
 -- Malta    64    0    2
 -- Tunisia    54    1    1
 -- New Zealand    53    0    0
--- Kazakhstan    52    3    0
+-- Kazakhstan    53    3    0
+-- Oman    52    0    13
 -- Cambodia    51    0    1
 -- Guadeloupe    51    1    0
--- Oman    48    0    13
 -- Palestine    48    0    17
 -- Georgia    47    0    1
 -- Senegal    47    0    5
@@ -1758,18 +1758,18 @@
 -- Ukraine    41    3    1
 -- Burkina Faso    40    1    4
 -- Réunion    38    0    0
--- Uzbekistan    33    0    0
+-- Liechtenstein    37    0    0
+-- Uzbekistan    37    0    0
 -- Martinique    32    1    0
--- Liechtenstein    28    0    0
 -- Cameroon    27    0    2
 -- Afghanistan    24    0    1
 -- Honduras    24    0    0
 -- Cuba    21    1    0
 -- Bangladesh    20    1    3
+-- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
 -- Paraguay    18    0    0
 -- Congo, Democratic Republic of the    18    0    0
--- Bolivia, Plurinational State of    17    0    0
 -- Rwanda    17    0    0
 -- Macao    17    0    10
 -- Ghana    16    0    8
@@ -1780,7 +1780,8 @@
 -- Montenegro    14    0    0
 -- Maldives    13    0    2
 -- Guatemala    12    1    0
--- Mauritius    12    0    0
+-- Kyrgyzstan    12    0    0
+-- Mauritius    12    1    0
 -- Monaco    11    0    0
 -- French Polynesia    11    0    0
 -- Mongolia    10    0    0
@@ -1796,7 +1797,6 @@
 -- Virgin Islands, U.S.    6    0    0
 -- Tanzania, United Republic of    6    0    0
 -- Barbados    6    0    0
--- Kyrgyzstan    6    0    0
 -- Aruba    5    0    1
 -- Saint Martin (French part)    4    0    0
 -- Gabon    4    1    0
