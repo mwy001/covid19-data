@@ -716,7 +716,7 @@
 ------ Sarasota(12115)    8    0    0
 ------ Citrus(12017)    3    0    0
 ------ Okaloosa(12091)    7    0    0
------- Pasco(12101)    7    0    0
+------ Pasco(12101)    7    1    0
 ------ Brevard(12009)    4    0    0
 ------ Charlotte(12015)    2    0    0
 ------ Escambia(12033)    1    0    0
@@ -947,7 +947,7 @@
 ------ Centre(42027)    1    0    0
 ------ Franklin(42055)    1    0    0
 ------ Potter(42105)    1    0    0
----- WI    219    4    1
+---- WI    220    4    1
 ------ Milwaukee(55079)    95    1    0
 ------ Dane(55025)    32    0    0
 ------ Kenosha(55059)    4    0    0
@@ -959,7 +959,7 @@
 ------ Racine(55101)    3    0    0
 ------ Washington(55131)    3    0    0
 ------ Wood(55141)    1    0    0
------- La Crosse(55063)    4    0    0
+------ La Crosse(55063)    5    0    0
 ------ Brown(55009)    2    0    0
 ------ Walworth(55127)    3    0    0
 ------ Ozaukee(55089)    7    2    0
@@ -1495,6 +1495,7 @@
 ------ Pulaski(29169)    1    0    0
 ------ Scott(29201)    1    0    0
 ------ Dunklin(29069)    1    0    0
+------ Jasper(29097)    1    0    0
 ---- HI    37    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -1543,10 +1544,10 @@
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    1    0    0
 ------ Ramsey(38071)    1    0    0
----- AK    12    0    0
------- Fairbanks North Star(02090)    5    0    0
+---- AK    14    0    0
+------ Fairbanks North Star(02090)    6    0    0
 ------ Anchorage(02020)    4    0    0
------- Ketchikan Gateway(02130)    2    0    0
+------ Ketchikan Gateway(02130)    3    0    0
 ---- WV    8    0    0
 ------ Jefferson(54037)    2    0    0
 ------ Mercer(54055)    1    0    0
@@ -1617,7 +1618,7 @@
 ---- Scotland    322    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    3003    107    2
+-- Netherlands    3631    136    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    2815    67    263
@@ -1663,7 +1664,7 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Sweden    1674    17    16
+-- Sweden    1746    20    16
 -- Denmark    1337    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1691,13 +1692,13 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Brazil    978    11    2
+-- Brazil    986    11    2
 -- Czechia    925    0    4
 -- Israel    883    1    36
 -- Ireland    683    3    5
 -- Luxembourg    670    8    6
 -- Turkey    670    9    0
--- Pakistan    625    4    13
+-- Pakistan    666    4    13
 -- Finland    521    0    10
 -- Greece    495    13    19
 -- Iceland    473    5    8
@@ -1709,9 +1710,9 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Ecuador    426    7    3
 -- Thailand    411    1    44
+-- Saudi Arabia    392    0    16
+-- Slovenia    383    1    0
 -- Romania    367    0    52
--- Saudi Arabia    344    0    8
--- Slovenia    341    1    0
 -- Philippines    307    19    13
 -- Estonia    306    0    1
 -- Bahrain    305    1    125
@@ -1722,9 +1723,9 @@
 -- Russian Federation    253    1    12
 -- South Africa    240    0    2
 -- Iraq    208    17    49
+-- Lebanon    206    4    8
 -- Mexico    203    2    4
 -- Panama    200    1    1
--- Lebanon    187    4    8
 -- Kuwait    176    0    27
 -- Croatia    168    1    5
 -- Armenia    160    0    1
@@ -1746,15 +1747,15 @@
 -- Bosnia and Herzegovina    91    0    2
 -- Andorra    88    0    1
 -- Morocco    86    3    2
+-- North Macedonia    85    0    1
 -- Jordan    85    0    1
 -- Brunei Darussalam    83    0    1
--- North Macedonia    77    0    1
 -- Sri Lanka    76    0    3
+-- Belarus    76    0    15
 -- Albania    76    2    2
 -- Cyprus    75    0    0
 -- Malta    73    0    2
 -- Dominican Republic    72    2    0
--- Belarus    69    0    15
 -- Lithuania    69    1    1
 -- Nigeria    69    0    1
 -- Moldova, Republic of    66    1    1
