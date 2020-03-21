@@ -485,29 +485,8 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- Spain    25496    1378    2125
----- Andalusia    859    7    0
----- Aragon    226    11    0
----- Balearic Islands    112    1    2
----- Basque Country    973    22    9
----- Canary Islands    181    1    7
----- Cantabria    68    0    10
----- Castile and León    668    9    2
----- Castile-La Mancha    675    17    13
----- Catalonia    1866    12    3
----- Community of Madrid    5637    253    109
----- Comunidad Foral de Navarra    386    1    0
----- Extremadura    194    2    5
----- Galicia    341    2    3
----- Principality of Asturias    242    1    3
----- Región de Murcia    145    0    0
----- Rioja    419    4    1
----- Valencian Community    726    5    1
----- Melilla    20    0    0
----- Navarre    130    0    0
----- Ceuta    1    0    0
--- United States of America    25433    308    176
----- NY    11705    60    0
+-- United States of America    25628    308    176
+---- NY    11727    60    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    7    0
@@ -552,49 +531,51 @@
 ------ Columbia(36021)    3    0    0
 ------ Livingston(36051)    2    0    0
 ---- WA    1793    94    124
------- King(53033)    793    67    0
------- Snohomish(53061)    385    8    0
------- Pierce(53053)    83    1    0
+------ King(53033)    934    74    0
+------ Snohomish(53061)    447    10    0
+------ Pierce(53053)    95    1    0
 ------ Island(53029)    19    1    0
------- Skagit(53057)    25    0    0
------- Grant(53025)    8    1    0
------- Kitsap(53035)    12    0    0
------- Whatcom(53073)    10    1    0
------- Thurston(53067)    8    0    0
------- Yakima(53077)    10    0    0
------- Clark(53011)    6    3    0
------- Spokane(53063)    11    0    0
+------ Skagit(53057)    28    0    0
+------ Grant(53025)    11    1    0
+------ Kitsap(53035)    15    0    0
+------ Whatcom(53073)    14    2    0
+------ Thurston(53067)    9    0    0
+------ Yakima(53077)    13    0    0
+------ Clark(53011)    9    3    0
+------ Spokane(53063)    16    0    0
 ------ Jefferson(53031)    4    0    0
 ------ Kittitas(53037)    4    0    0
------- Chelan(53007)    2    0    0
+------ Chelan(53007)    3    0    0
 ------ Columbia(53013)    1    0    0
------- Cowlitz(53015)    1    0    0
+------ Cowlitz(53015)    2    0    0
 ------ Grays Harbor(53027)    1    0    0
------- Klickitat(53039)    2    0    0
------- Lewis(53041)    1    0    0
+------ Klickitat(53039)    4    0    0
+------ Lewis(53041)    2    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    2    0    0
 ------ Mason(53045)    1    0    0
------- Benton(53005)    3    1    0
------- Clallam(53009)    1    0    0
----- CA    1364    25    6
------- Santa Clara(06085)    196    8    0
+------ Benton(53005)    7    2    0
+------ Clallam(53009)    2    0    0
+------ San Juan(53055)    1    0    0
+------ Stevens(53065)    1    0    0
+---- CA    1386    25    6
+------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
 ------ San Diego(06073)    131    0    0
 ------ San Francisco(06075)    84    0    0
 ------ Sacramento(06067)    53    3    0
------- Contra Costa(06013)    46    1    0
------- Orange(06059)    65    0    0
------- Alameda(06001)    48    0    0
+------ Contra Costa(06013)    51    1    0
+------ Orange(06059)    78    0    0
+------ Alameda(06001)    65    0    0
 ------ Riverside(06065)    28    4    0
------- San Joaquin(06077)    25    2    0
+------ San Joaquin(06077)    29    2    0
 ------ Santa Cruz(06087)    15    0    0
 ------ Marin(06041)    38    0    0
 ------ Ventura(06111)    19    0    0
 ------ Placer(06061)    9    1    0
------- Solano(06095)    13    0    0
------- San Luis Obispo(06079)    16    0    0
+------ Solano(06095)    14    0    0
+------ San Luis Obispo(06079)    21    0    0
 ------ Sonoma(06097)    11    1    0
 ------ San Benito(06069)    5    1    0
 ------ Yolo(06113)    6    0    0
@@ -721,7 +702,7 @@
 ------ Catahoula(22025)    1    1    0
 ------ Tangipahoa(22105)    1    0    0
 ------ St John The Baptist(22095)    6    0    0
----- CO    363    4    0
+---- CO    465    4    0
 ------ Denver(08031)    67    0    0
 ------ Eagle(08037)    61    0    0
 ------ Arapahoe(08005)    29    0    0
@@ -829,7 +810,7 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    578    6    8
+---- TX    581    6    8
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
@@ -881,7 +862,7 @@
 ------ Guadalupe(48187)    1    0    0
 ------ Fayette(48149)    1    0    0
 ------ Deaf Smith(48117)    1    0    0
----- PA    395    2    0
+---- PA    398    2    0
 ------ Montgomery(42091)    71    0    0
 ------ Philadelphia(42101)    85    0    0
 ------ Allegheny(42003)    31    1    0
@@ -1069,7 +1050,7 @@
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    1    0    0
----- NC    252    0    0
+---- NC    255    0    0
 ------ Wake(37183)    33    0    0
 ------ Durham(37063)    39    0    0
 ------ Mecklenburg(37119)    77    0    0
@@ -1200,7 +1181,7 @@
 ------ Utah(49049)    4    0    0
 ------ Cache(49005)    2    0    0
 ------ Box Elder(49003)    1    0    0
----- SC    173    3    0
+---- SC    174    3    0
 ------ Kershaw(45055)    43    0    0
 ------ Beaufort(45013)    8    0    0
 ------ Horry(45051)    9    0    0
@@ -1340,15 +1321,16 @@
 ------ Anderson(21005)    1    0    0
 ------ Hardin(21093)    1    0    0
 ------ Oldham(21185)    1    0    0
----- NH    56    0    0
------- Rockingham(33015)    20    0    0
------- Grafton(33009)    12    0    0
+---- NH    65    0    0
+------ Rockingham(33015)    25    0    0
+------ Grafton(33009)    13    0    0
 ------ Hillsborough(33011)    11    0    0
 ------ Carroll(33003)    5    0    0
 ------ Belknap(33001)    3    0    0
------- Merrimack(33013)    3    0    0
+------ Merrimack(33013)    4    0    0
 ------ Coos(33007)    1    0    0
 ------ Cheshire(33005)    1    0    0
+------ Strafford(33017)    1    0    0
 ---- NE    38    0    0
 ------ Douglas(31055)    25    0    0
 ------ Knox(31107)    2    0    0
@@ -1490,14 +1472,16 @@
 ------ Riley(20161)    1    0    0
 ------ Reno(20155)    1    0    0
 ------ Mitchell(20123)    1    0    0
----- VT    29    2    0
------- Chittenden(50007)    12    1    0
+---- VT    49    2    0
+------ Chittenden(50007)    22    1    0
 ------ Bennington(50003)    4    0    0
------- Windsor(50027)    6    1    0
------- Orange(50017)    3    0    0
+------ Windsor(50027)    9    1    0
+------ Orange(50017)    4    0    0
 ------ Washington(50023)    2    0    0
------- Addison(50001)    1    0    0
------- Rutland(50021)    1    0    0
+------ Addison(50001)    3    0    0
+------ Rutland(50021)    2    0    0
+------ Franklin(50011)    2    0    0
+------ Windham(50025)    1    0    0
 ---- DE    45    0    0
 ------ New Castle(10003)    28    0    0
 ------ Sussex(10005)    7    0    0
@@ -1517,7 +1501,7 @@
 ------ Scott(29201)    1    0    0
 ------ Dunklin(29069)    1    0    0
 ------ Jasper(29097)    1    0    0
----- HI    37    0    0
+---- HI    48    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
@@ -1539,16 +1523,17 @@
 ------ Campbell(56005)    1    0    0
 ------ Natrona(56025)    1    0    0
 ------ Carbon(56007)    1    0    0
----- MT    21    0    0
------- Missoula(30063)    3    0    0
+---- MT    27    0    0
+------ Missoula(30063)    4    0    0
 ------ Yellowstone(30111)    5    0    0
 ------ Broadwater(30007)    1    0    0
------- Gallatin(30031)    3    0    0
------- Silver Bow(30093)    1    0    0
+------ Gallatin(30031)    7    0    0
+------ Silver Bow(30093)    2    0    0
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    1    0    0
 ------ Flathead(30029)    2    0    0
 ------ Lewis and Clark(30049)    3    0    0
+------ Ravalli(30081)    1    0    0
 ---- ID    36    0    0
 ------ Ada(16001)    8    0    0
 ------ Blaine(16013)    19    0    0
@@ -1586,7 +1571,28 @@
 ---- PR    21    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    22255    84    209
+-- Spain    25496    1378    2125
+---- Andalusia    859    7    0
+---- Aragon    226    11    0
+---- Balearic Islands    112    1    2
+---- Basque Country    973    22    9
+---- Canary Islands    181    1    7
+---- Cantabria    68    0    10
+---- Castile and León    668    9    2
+---- Castile-La Mancha    675    17    13
+---- Catalonia    1866    12    3
+---- Community of Madrid    5637    253    109
+---- Comunidad Foral de Navarra    386    1    0
+---- Extremadura    194    2    5
+---- Galicia    341    2    3
+---- Principality of Asturias    242    1    3
+---- Región de Murcia    145    0    0
+---- Rioja    419    4    1
+---- Valencian Community    726    5    1
+---- Melilla    20    0    0
+---- Navarre    130    0    0
+---- Ceuta    1    0    0
+-- Germany    22364    84    209
 ---- Saxony    562    1    2
 ---- Mecklenburg-Vorpommern    167    0    0
 ---- Free State of Bavaria    3107    20    15
@@ -1679,7 +1685,7 @@
 ---- Seoul    314    0    64
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
--- Switzerland    6747    80    15
+-- Switzerland    6863    80    131
 -- United Kingdom of Great Britain and Northern Ireland    5018    233    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1845,11 +1851,11 @@
 -- Georgia    49    0    1
 -- Trinidad and Tobago    49    0    0
 -- Ukraine    47    3    1
--- Réunion    45    0    0
+-- Réunion    47    0    0
 -- Uzbekistan    41    0    0
 -- Cameroon    40    0    2
 -- Liechtenstein    37    0    0
--- Martinique    32    1    0
+-- Martinique    37    1    0
 -- Afghanistan    24    0    1
 -- Bangladesh    24    2    3
 -- Honduras    24    0    0
@@ -1874,12 +1880,12 @@
 -- Kyrgyzstan    14    0    0
 -- Mauritius    14    1    0
 -- Maldives    13    0    3
+-- Mayotte    11    0    0
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
 -- Côte d'Ivoire    9    0    1
 -- Ethiopia    9    0    0
 -- Kenya    7    0    0
--- Mayotte    7    0    0
 -- Seychelles    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
