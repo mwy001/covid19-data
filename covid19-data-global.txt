@@ -464,27 +464,27 @@
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
 -- Italy    53578    4825    6072
----- Abruzzo    449    17    10
----- Aosta Valley    264    7    0
----- Apulia    581    26    4
----- Basilicata    52    0    0
----- Calabria    207    4    2
----- Campania    749    17    30
----- Emilia-Romagna    5968    640    239
----- Friuli Venezia Giulia    656    38    63
----- Lazio    1008    43    53
----- Lombardy    22264    2549    4295
----- Marche    1981    137    0
----- Molise    50    5    6
----- Piemont    3461    209    8
----- Sardinia    293    2    3
----- Sicily    408    4    25
----- Trentino-Alto Adige - Südtirol    642    13    29
----- Tuscany    1793    47    33
----- Umbria    395    7    4
----- Liguria    1221    119    101
----- Veneto    4031    131    223
----- Bolzano    548    17    1
+---- Abruzzo    529    22    13
+---- Aosta Valley    313    8    1
+---- Apulia    675    29    4
+---- Basilicata    66    0    0
+---- Calabria    235    5    5
+---- Campania    844    22    30
+---- Emilia-Romagna    6705    715    329
+---- Friuli Venezia Giulia    790    42    82
+---- Lazio    1190    50    54
+---- Lombardy    25515    3095    5050
+---- Marche    2153    154    2
+---- Molise    61    7    7
+---- Piemont    3752    238    8
+---- Sardinia    330    4    5
+---- Sicily    490    6    26
+---- Trentino-Alto Adige - Südtirol    782    28    34
+---- Tuscany    2012    72    35
+---- Umbria    462    10    5
+---- Liguria    1436    152    125
+---- Veneto    4617    146    257
+---- Bolzano    621    20    1
 -- Spain    25374    1378    2125
 ---- Andalusia    859    7    0
 ---- Aragon    226    11    0
@@ -506,7 +506,7 @@
 ---- Melilla    20    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    1    0    0
--- United States of America    22708    283    171
+-- United States of America    22738    288    171
 ---- NY    11178    60    0
 ------ Westchester(36119)    1385    0    0
 ------ Nassau(36059)    1234    4    0
@@ -616,7 +616,7 @@
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    1    0    0
 ------ Mono(06051)    1    0    0
----- NJ    890    11    1
+---- NJ    1327    16    1
 ------ Bergen(34003)    249    3    0
 ------ Essex(34013)    73    2    0
 ------ Hudson(34017)    66    1    0
@@ -829,14 +829,14 @@
 ------ Lamar(13171)    1    0    0
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
----- TX    439    6    8
------- Dallas(48113)    74    1    0
+---- TX    473    6    8
+------ Dallas(48113)    95    1    0
 ------ Travis(48453)    58    0    0
 ------ Harris(48201)    36    1    0
 ------ Bexar(48029)    29    0    0
 ------ Fort Bend(48157)    24    0    0
 ------ Collin(48085)    27    1    0
------- Tarrant(48439)    29    1    0
+------ Tarrant(48439)    42    1    0
 ------ Smith(48423)    5    0    0
 ------ Montgomery(48339)    10    0    0
 ------ Bell(48027)    7    0    0
@@ -1027,7 +1027,7 @@
 ------ Yamhill(41071)    4    0    0
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
----- VA    125    2    1
+---- VA    152    2    1
 ------ Arlington(51013)    17    0    0
 ------ Fairfax(51059)    16    0    0
 ------ Loudoun(51107)    9    0    0
@@ -1281,22 +1281,24 @@
 ------ Hancock(18059)    1    0    0
 ------ Harrison(18061)    1    0    0
 ------ Miami(18103)    1    0    0
----- IA    50    0    0
------- Johnson(19103)    22    0    0
+---- IA    68    0    0
+------ Johnson(19103)    27    0    0
 ------ Dallas(19049)    5    0    0
------- Allamakee(19005)    3    0    0
+------ Allamakee(19005)    5    0    0
 ------ Adair(19001)    1    0    0
------- Black Hawk(19013)    1    0    0
+------ Black Hawk(19013)    3    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    1    0    0
------- Polk(19153)    6    0    0
+------ Polk(19153)    10    0    0
 ------ Pottawattamie(19155)    1    0    0
 ------ Washington(19183)    1    0    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    1    0    0
------- Dubuque(19061)    1    0    0
------- Muscatine(19139)    1    0    0
------- Linn(19113)    1    0    0
+------ Dubuque(19061)    2    0    0
+------ Muscatine(19139)    2    0    0
+------ Linn(19113)    3    0    0
+------ Fayette(19065)    1    0    0
+------ Henry(19087)    1    0    0
 ---- KY    64    2    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
@@ -1376,7 +1378,7 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    1    0    0
 ------ Sevier(05133)    1    0    0
----- MS    140    1    0
+---- MS    141    1    0
 ------ Hinds(28049)    14    0    0
 ------ Leflore(28083)    7    0    0
 ------ Forrest(28035)    5    0    0
@@ -1420,6 +1422,7 @@
 ------ Tunica(28143)    1    0    0
 ------ Union(28145)    1    0    0
 ------ Washington(28151)    1    0    0
+------ Panola(28107)    1    0    0
 ---- AZ    108    1    1
 ------ Maricopa(04013)    49    1    0
 ------ Pinal(04021)    14    0    0
@@ -1608,7 +1611,7 @@
 ---- North Khorasan    139    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- France    12726    450    1587
+-- France    14459    562    1587
 ---- France    7652    148    12
 ---- St Martin    4    0    0
 ---- Saint Barthelemy    3    0    0
@@ -1653,7 +1656,7 @@
 ---- Ulsan    36    0    11
 ---- 未确定地区    23    3    0
 -- Switzerland    6373    74    15
--- United Kingdom of Great Britain and Northern Ireland    4094    233    67
+-- United Kingdom of Great Britain and Northern Ireland    4145    233    67
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1714,12 +1717,11 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Portugal    1280    12    5
--- Malaysia    1183    8    114
--- Canada    1147    14    14
+-- Canada    1189    18    14
 ---- British Columbia    348    9    4
 ---- Ontario    377    2    5
 ---- Alberta    195    1    0
----- Quebec    139    1    0
+---- Quebec    181    5    0
 ---- New Brunswick    11    0    0
 ---- Manitoba    18    0    0
 ---- Saskatchewan    26    0    0
@@ -1728,6 +1730,7 @@
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    4    0    0
 ---- Nova Scotia    15    0    0
+-- Malaysia    1183    8    114
 -- Australia    1072    7    46
 ---- New South Wales    353    6    4
 ---- Victoria    121    0    8
@@ -1738,7 +1741,7 @@
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
 -- Brazil    1021    18    2
--- Czechia    925    0    6
+-- Czechia    995    0    6
 -- Israel    883    1    36
 -- Pakistan    720    4    13
 -- Ireland    683    3    5
@@ -1748,9 +1751,9 @@
 -- Greece    530    13    19
 -- Finland    521    1    10
 -- Ecuador    506    7    3
+-- Poland    492    6    13
 -- Qatar    481    0    27
 -- Iceland    473    5    8
--- Poland    452    6    13
 -- Indonesia    450    38    20
 -- Singapore    432    2    140
 ---- Central Singapore Community Development Council    345    0    124
@@ -1767,12 +1770,13 @@
 -- Hong Kong    273    4    98
 -- Peru    263    4    1
 -- South Africa    240    0    2
+-- Lebanon    230    4    8
 -- Iraq    214    17    51
--- Lebanon    206    4    8
 -- Croatia    206    1    5
 -- Mexico    203    2    4
 -- Panama    200    1    1
 -- Colombia    196    0    1
+-- Slovakia    178    1    7
 -- Kuwait    176    0    27
 -- Serbia    171    1    2
 -- Bulgaria    163    3    3
@@ -1781,7 +1785,6 @@
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
 -- San Marino    151    20    4
--- Slovakia    146    1    7
 -- Algeria    139    15    65
 -- Latvia    124    0    1
 -- Costa Rica    113    2    2
@@ -1830,6 +1833,7 @@
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
 -- Ghana    19    0    8
+-- French Guiana    18    0    0
 -- Paraguay    18    1    0
 -- Macao    18    0    10
 -- Congo, Democratic Republic of the    18    0    0
@@ -1837,7 +1841,6 @@
 -- Guatemala    17    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
--- French Guiana    15    0    0
 -- Guyana    15    1    0
 -- French Polynesia    15    0    0
 -- Guam    15    0    0
