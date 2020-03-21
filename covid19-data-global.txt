@@ -1606,14 +1606,14 @@
 -- Netherlands    3003    107    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    2666    7    9
+-- Austria    2672    7    9
 -- Belgium    2257    37    204
--- Norway    1974    7    1
+-- Norway    1975    7    1
 -- Japan    1848    35    215
----- Hokkaido    158    6    66
+---- Hokkaido    159    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
----- Niigata    25    0    0
+---- Niigata    26    0    0
 ---- Gifu    3    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
@@ -1635,7 +1635,7 @@
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
 ---- hyogo    101    4    0
----- oita    8    0    0
+---- oita    9    0    0
 ---- Yamaguchi    3    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    4    0    0
@@ -1653,6 +1653,7 @@
 -- Denmark    1337    9    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Malaysia    1183    4    114
 -- Canada    1087    13    14
 ---- British Columbia    348    8    4
 ---- Ontario    318    2    5
@@ -1675,15 +1676,14 @@
 ---- Tasmania    10    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    6    0    0
--- Malaysia    1030    3    87
 -- Portugal    1020    6    5
--- Brazil    970    11    2
--- Czechia    833    0    4
+-- Brazil    977    11    2
+-- Czechia    904    0    4
 -- Israel    705    1    15
 -- Ireland    683    3    5
 -- Turkey    670    9    0
 -- Luxembourg    618    5    6
--- Pakistan    519    4    13
+-- Pakistan    588    4    13
 -- Greece    495    10    19
 -- Qatar    470    0    10
 -- Finland    450    0    10
@@ -1715,13 +1715,13 @@
 -- Kuwait    159    0    22
 -- Argentina    158    3    3
 -- Colombia    158    0    1
+-- Croatia    157    1    5
 -- Taiwan    153    2    28
 -- San Marino    151    14    4
 -- Serbia    149    1    2
 -- Bulgaria    142    3    3
 -- United Arab Emirates    140    2    31
 -- Slovakia    137    1    0
--- Croatia    130    1    5
 -- Latvia    124    0    1
 -- Costa Rica    113    2    2
 -- Uruguay    110    0    0
