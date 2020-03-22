@@ -1741,9 +1741,9 @@
 ---- Curacao    3    0    0
 -- Austria    3024    8    9
 -- Belgium    2815    67    263
--- Norway    2167    7    6
+-- Norway    2169    7    6
 -- Japan    1848    36    232
----- Hokkaido    159    6    66
+---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    27    0    0
@@ -1762,7 +1762,7 @@
 ---- Kanagawa    75    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    141    16    2
----- Nara    8    0    1
+---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
@@ -1775,7 +1775,7 @@
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    3    0    0
----- Gunma    12    0    0
+---- Gunma    12    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
