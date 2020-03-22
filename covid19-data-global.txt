@@ -746,7 +746,7 @@
 ------ Montrose(08085)    1    0    0
 ------ San Miguel(08113)    1    0    0
 ---- IL    753    6    2
------- Cook(17031)    548    3    0
+------ Cook(17031)    548    4    0
 ------ Lake(17097)    63    0    0
 ------ Sangamon(17167)    4    1    0
 ------ Kane(17089)    8    0    0
@@ -1849,9 +1849,9 @@
 -- Colombia    210    1    3
 -- Croatia    206    1    5
 -- Armenia    190    0    2
+-- Serbia    188    1    2
 -- Slovakia    178    1    7
 -- Kuwait    176    0    27
--- Serbia    171    1    2
 -- Bulgaria    163    3    3
 -- San Marino    160    20    4
 -- United Arab Emirates    153    2    38
