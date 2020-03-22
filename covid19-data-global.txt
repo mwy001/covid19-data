@@ -485,7 +485,7 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    26110    320    176
+-- United States of America    26111    324    176
 ---- NY    11729    60    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -676,7 +676,7 @@
 ------ Miami-Dade(12086)    169    0    0
 ---- LA    763    20    0
 ------ Orleans(22071)    418    15    0
------- Jefferson(22051)    156    3    0
+------ Jefferson(22051)    166    3    0
 ------ Caddo(22017)    15    0    0
 ------ St Tammany(22103)    22    0    0
 ------ East Baton Rouge(22033)    18    0    0
@@ -706,6 +706,11 @@
 ------ St John The Baptist(22095)    9    0    0
 ------ Evangeline(22039)    2    0    0
 ------ Ouachita(22073)    2    0    0
+------ Avoyelles(22009)    1    0    0
+------ Beauregard(22011)    1    0    0
+------ Bienville(22013)    1    0    0
+------ Claiborne(22027)    1    0    0
+------ St Mary(22101)    1    0    0
 ---- CO    487    6    0
 ------ Denver(08031)    97    0    0
 ------ Eagle(08037)    74    1    0
@@ -762,7 +767,7 @@
 ------ McLean(17113)    6    0    0
 ------ Christian(17021)    1    0    0
 ------ La Salle(17099)    1    0    0
----- GA    555    16    0
+---- GA    555    20    0
 ------ Fulton(13121)    99    2    0
 ------ Cobb(13067)    50    2    0
 ------ Bartow(13015)    56    0    0
@@ -1516,7 +1521,7 @@
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    8    1    0
 ------ St Louis(29189)    17    1    0
------- St Charles(29183)    1    0    0
+------ St Charles(29183)    2    0    0
 ------ St Louis City(29510)    17    1    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    0    0
@@ -1578,13 +1583,13 @@
 ------ Fairbanks North Star(02090)    6    0    0
 ------ Anchorage(02020)    4    0    0
 ------ Ketchikan Gateway(02130)    3    0    0
----- WV    11    0    0
+---- WV    12    0    0
 ------ Jefferson(54037)    2    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
 ------ Monongalia(54061)    1    0    0
 ------ Jackson(54035)    1    0    0
------- Kanawha(54039)    1    0    0
+------ Kanawha(54039)    2    0    0
 ------ Marshall(54051)    2    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    23    1    0
