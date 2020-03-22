@@ -465,28 +465,28 @@
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
 -- Italy    59138    5476    7024
----- Abruzzo    529    22    13
----- Aosta Valley    313    8    1
----- Apulia    675    29    4
----- Basilicata    66    0    0
----- Calabria    235    5    5
----- Campania    844    22    30
----- Emilia-Romagna    6705    715    329
----- Friuli Venezia Giulia    790    42    82
----- Lazio    1190    50    54
----- Lombardy    25515    3095    5050
----- Marche    2153    154    2
----- Molise    61    7    7
----- Piemont    3752    238    8
----- Sardinia    330    4    5
----- Sicily    490    6    26
----- Trentino-Alto Adige - Südtirol    782    28    34
----- Tuscany    2012    72    35
----- Umbria    462    10    5
----- Liguria    1436    152    125
----- Veneto    4617    146    257
----- Bolzano    621    20    1
--- United States of America    39242    414    182
+---- Abruzzo    587    33    15
+---- Aosta Valley    364    9    1
+---- Apulia    786    31    7
+---- Basilicata    81    0    0
+---- Calabria    273    8    5
+---- Campania    936    29    41
+---- Emilia-Romagna    7555    816    349
+---- Friuli Venezia Giulia    874    47    89
+---- Lazio    1383    53    58
+---- Lombardy    27206    3456    5865
+---- Marche    2421    184    6
+---- Molise    66    7    7
+---- Piemont    4420    283    10
+---- Sardinia    339    7    5
+---- Sicily    630    8    26
+---- Trentino-Alto Adige - Südtirol    954    35    34
+---- Tuscany    2277    91    42
+---- Umbria    521    16    5
+---- Liguria    1665    171    143
+---- Veneto    5122    169    309
+---- Bolzano    678    23    7
+-- United States of America    39242    418    182
 ---- NY    22768    114    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -566,14 +566,14 @@
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
----- CA    1558    29    6
+---- CA    1565    29    6
 ------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    351    4    0
 ------ San Mateo(06081)    117    1    0
 ------ San Diego(06073)    155    0    0
 ------ San Francisco(06075)    108    0    0
 ------ Sacramento(06067)    53    3    0
------- Contra Costa(06013)    51    1    0
+------ Contra Costa(06013)    61    1    0
 ------ Orange(06059)    78    0    0
 ------ Alameda(06001)    71    0    0
 ------ Riverside(06065)    34    6    0
@@ -753,7 +753,7 @@
 ------ Hinsdale(08053)    1    0    0
 ------ Montrose(08085)    1    0    0
 ------ San Miguel(08113)    1    0    0
----- IL    753    6    2
+---- IL    1049    6    2
 ------ Cook(17031)    548    4    0
 ------ Lake(17097)    63    0    0
 ------ Sangamon(17167)    4    1    0
@@ -841,7 +841,7 @@
 ------ Butts(13035)    1    0    0
 ------ Chattooga(13055)    1    0    0
 ------ Twiggs(13289)    1    0    0
----- TX    618    6    15
+---- TX    619    6    15
 ------ Dallas(48113)    131    2    0
 ------ Travis(48453)    62    0    0
 ------ Harris(48201)    68    1    0
@@ -900,7 +900,7 @@
 ------ Chambers(48071)    1    0    0
 ------ Liberty(48291)    1    0    0
 ------ Burnet(48053)    1    0    0
------- Hardin(48199)    1    0    0
+------ Hardin(48199)    2    0    0
 ---- PA    481    4    0
 ------ Montgomery(42091)    87    0    0
 ------ Philadelphia(42101)    91    0    0
@@ -984,12 +984,12 @@
 ------ Montgomery(47125)    3    0    0
 ------ Wilson(47189)    3    0    0
 ------ Fayette(47047)    1    0    0
------- Carroll(47017)    1    0    0
+------ Carroll(47017)    2    0    0
 ------ Dickson(47043)    3    0    0
 ------ Washington(47179)    2    0    0
 ------ Anderson(47001)    1    0    0
 ------ Blount(47009)    1    0    0
------- Bradley(47011)    1    0    0
+------ Bradley(47011)    2    0    0
 ------ Greene(47059)    1    0    0
 ------ Hamblen(47063)    2    0    0
 ------ Maury(47119)    1    0    0
@@ -1157,12 +1157,12 @@
 ------ Montgomery(37123)    1    0    0
 ------ Nash(37127)    1    0    0
 ------ Henderson(37089)    1    0    0
----- MI    1035    11    0
+---- MI    1058    14    0
 ------ Oakland(26125)    277    2    0
------- Wayne(26163)    426    4    0
------- Macomb(26099)    140    1    0
+------ Wayne(26163)    477    5    0
+------ Macomb(26099)    160    2    0
 ------ Washtenaw(26161)    35    0    0
------- Kent(26081)    21    1    0
+------ Kent(26081)    21    2    0
 ------ Ingham(26065)    11    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    2    0    0
@@ -1250,7 +1250,7 @@
 ---- UT    137    1    0
 ------ Salt Lake(49035)    60    0    0
 ------ Summit(49043)    39    0    0
------- Davis(49011)    14    1    0
+------ Davis(49011)    19    1    0
 ------ Wasatch(49051)    7    0    0
 ------ Tooele(49045)    2    0    0
 ------ Utah(49049)    4    0    0
@@ -1323,8 +1323,8 @@
 ------ Sagadahoc(23023)    3    0    0
 ---- DC    102    3    0
 ------ District of Columbia(11001)    98    1    0
----- IN    202    5    0
------- Marion(18097)    82    2    0
+---- IN    202    6    0
+------ Marion(18097)    82    3    0
 ------ Hendricks(18063)    8    0    0
 ------ Johnson(18081)    12    1    0
 ------ Franklin(18047)    4    0    0
@@ -1582,7 +1582,7 @@
 ------ New Castle(10003)    33    0    0
 ------ Sussex(10005)    9    0    0
 ------ Kent(10001)    5    0    0
----- MO    96    5    0
+---- MO    100    5    0
 ------ Greene(29077)    10    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    15    1    0
@@ -1745,30 +1745,30 @@
 ---- Bushehr    55    0    0
 -- France    16018    674    2200
 ---- France    7652    148    12
----- St Martin    5    0    0
+---- St Martin    6    0    0
 ---- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    791    7    4
----- Ile-de-France    4695    2    2
----- Alsace–Champagne-Ardenne–Lorraine    3089    0    0
----- Normandy    345    1    0
----- Brittany    359    1    6
----- Pays de la Loire    234    0    0
----- Centre-Val de Loire    254    0    0
----- Bourgogne-Franche-Comté    903    0    0
----- Aquitaine-Limousin-Poitou-Charentes    521    0    0
----- Auvergne-Rhône-Alpes    1266    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    611    0    0
----- Provence-Alpes-Côte d'Azur    1041    0    0
----- Corsica    173    0    0
----- Martinique    37    0    0
+---- Nord-Pas-de-Calais and Picardy    936    7    4
+---- Ile-de-France    5283    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    3365    0    0
+---- Normandy    462    1    0
+---- Brittany    397    1    6
+---- Pays de la Loire    270    0    0
+---- Centre-Val de Loire    291    0    0
+---- Bourgogne-Franche-Comté    1178    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    612    0    0
+---- Auvergne-Rhône-Alpes    1431    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    671    0    0
+---- Provence-Alpes-Côte d'Azur    1372    0    0
+---- Corsica    183    0    0
+---- Martinique    44    0    0
 ---- French Guiana    18    0    0
----- Réunion    47    0    0
----- Guadeloupe    56    0    0
+---- Réunion    64    0    0
+---- Guadeloupe    58    0    0
 ---- French Polynesia    15    0    0
 ---- Fench Guiana    5    0    0
----- Mayotte    11    0    0
+---- Mayotte    14    0    0
 ---- Reunion    45    0    0
----- SCGF0594    18    0    0
+---- SCGF0594    19    0    0
 -- Korea, Republic of    8897    104    2909
 ---- Busan    108    1    69
 ---- Chungcheongbuk-do    35    0    9
@@ -1882,9 +1882,9 @@
 -- Ireland    906    4    5
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
--- Pakistan    734    4    13
+-- Pakistan    776    4    13
+-- Poland    634    7    13
 -- Chile    632    1    8
--- Poland    627    7    13
 -- Finland    626    1    10
 -- Greece    624    15    19
 -- Thailand    599    1    44
@@ -1894,7 +1894,7 @@
 -- Qatar    481    0    27
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
--- Romania    433    2    64
+-- Romania    433    3    64
 -- Slovenia    414    2    0
 -- India    396    7    24
 -- Philippines    380    25    15
@@ -1928,11 +1928,11 @@
 -- Lithuania    131    1    1
 -- Hungary    131    6    16
 -- North Macedonia    115    1    1
+-- Morocco    115    4    3
 -- Faroe Islands    115    0    3
 -- Andorra    113    1    1
 -- Viet Nam    113    0    17
 -- Jordan    112    0    1
--- Morocco    109    3    3
 -- Cyprus    95    1    3
 -- Bosnia and Herzegovina    94    1    2
 -- Moldova, Republic of    94    1    1
@@ -1949,13 +1949,13 @@
 -- Senegal    67    0    5
 -- New Zealand    66    0    0
 -- Azerbaijan    65    1    11
+-- Ukraine    63    3    8
 -- Kazakhstan    59    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    56    1    0
 -- Oman    55    0    17
 -- Georgia    54    0    1
 -- Trinidad and Tobago    50    0    1
--- Ukraine    47    3    8
 -- Réunion    47    0    1
 -- Uzbekistan    43    0    0
 -- Afghanistan    40    1    1
@@ -1970,15 +1970,15 @@
 -- Mauritius    24    2    0
 -- Monaco    23    0    1
 -- Puerto Rico    23    1    0
+-- Ghana    23    1    8
 -- Congo, Democratic Republic of the    23    1    0
 -- Paraguay    22    1    0
 -- Macao    22    0    10
--- Ghana    21    1    8
 -- Montenegro    21    0    0
 -- Jamaica    19    1    2
 -- French Guiana    18    0    0
 -- Guyana    18    1    0
--- Guatemala    17    1    0
+-- Guatemala    18    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
 -- French Polynesia    15    0    0
