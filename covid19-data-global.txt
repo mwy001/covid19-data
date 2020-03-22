@@ -485,8 +485,8 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    26685    340    176
----- NY    12314    75    0
+-- United States of America    27072    340    176
+---- NY    12699    75    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    9    0
@@ -521,7 +521,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    8115    60    0
+------ New York(36061)    8500    60    0
 ------ Niagara(36063)    9    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -559,7 +559,7 @@
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
----- CA    1416    26    6
+---- CA    1418    26    6
 ------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -582,7 +582,7 @@
 ------ Yolo(06113)    6    0    0
 ------ San Bernardino(06071)    10    0    0
 ------ Stanislaus(06099)    5    0    0
------- Tulare(06107)    11    0    0
+------ Tulare(06107)    12    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    6    0    0
 ------ Imperial(06025)    4    0    0
@@ -598,6 +598,7 @@
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    1    0    0
 ------ Mono(06051)    1    0    0
+------ Butte(06007)    1    0    0
 ---- NJ    1328    16    1
 ------ Bergen(34003)    363    6    0
 ------ Essex(34013)    107    4    0
@@ -831,7 +832,7 @@
 ------ Harris(48201)    68    1    0
 ------ Bexar(48029)    39    0    0
 ------ Fort Bend(48157)    29    0    0
------- Collin(48085)    27    1    0
+------ Collin(48085)    28    1    0
 ------ Tarrant(48439)    42    1    0
 ------ Smith(48423)    6    0    0
 ------ Montgomery(48339)    13    0    0
@@ -857,7 +858,7 @@
 ------ Medina(48325)    6    0    0
 ------ Williamson(48491)    9    0    0
 ------ Fannin(48147)    1    0    0
------- Jefferson(48245)    1    0    0
+------ Jefferson(48245)    2    0    0
 ------ Cameron(48061)    2    0    0
 ------ Brown(48049)    2    0    0
 ------ Potter(48375)    4    0    0
@@ -1417,7 +1418,7 @@
 ------ Pearl River(28109)    9    0    0
 ------ Hancock(28045)    4    1    0
 ------ Harrison(28047)    10    0    0
------- Jackson(28059)    5    0    0
+------ Jackson(28059)    7    0    0
 ------ Monroe(28095)    2    0    0
 ------ Bolivar(28011)    2    0    0
 ------ Coahoma(28027)    5    0    0
@@ -1826,7 +1827,7 @@
 -- Estonia    306    0    2
 -- Russian Federation    306    1    16
 -- Egypt    294    10    42
--- Hong Kong    273    4    98
+-- Hong Kong    274    4    100
 -- Panama    245    3    1
 -- South Africa    240    0    2
 -- Lebanon    230    4    8
@@ -1889,7 +1890,7 @@
 -- Honduras    24    0    0
 -- Paraguay    22    1    0
 -- Cuba    21    1    0
--- Puerto Rico    21    0    0
+-- Puerto Rico    21    1    0
 -- Ghana    21    1    8
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
