@@ -1,4 +1,4 @@
--- 中国    81562    3267    72389
+-- 中国    81563    3267    72389
 ---- 四川    543    3    536
 ------ 成都    148    3    141
 ------ 甘孜州    78    0    78
@@ -261,7 +261,7 @@
 ------ 红桥区    2    0    2
 ------ 津南区    2    0    2
 ------ 境外输入人员    1    0    0
----- 重庆    576    6    570
+---- 重庆    577    6    570
 ------ 万州区    118    4    114
 ------ 江北区    28    0    28
 ------ 云阳县    25    0    25
@@ -301,6 +301,7 @@
 ------ 秀山县    1    0    1
 ------ 酉阳县    1    0    1
 ------ 万盛经开区    1    0    1
+------ 境外输入人员    1    0    0
 ---- 江苏    633    0    631
 ------ 南京    93    0    93
 ------ 苏州    88    0    87
@@ -506,7 +507,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- United States of America    27072    348    182
+-- United States of America    27072    349    182
 ---- NY    12699    76    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -1528,7 +1529,7 @@
 ------ Linn(20107)    1    0    0
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
------- Sedgwick(20173)    1    0    0
+------ Sedgwick(20173)    2    0    0
 ------ Riley(20161)    1    0    0
 ------ Reno(20155)    1    0    0
 ------ Mitchell(20123)    1    0    0
@@ -1628,13 +1629,13 @@
 ------ Putnam(54079)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    30    1    0
----- Others    47    1    0
----- GU    15    0    0
+---- Others    47    2    0
+---- GU    15    1    0
 ------ Guam(66010)    15    0    0
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    23129    93    233
+-- Germany    23129    93    266
 ---- Saxony    650    1    2
 ---- Mecklenburg-Vorpommern    182    0    0
 ---- Free State of Bavaria    3695    21    15
@@ -1739,14 +1740,14 @@
 ---- Scotland    373    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    3640    137    2
+-- Netherlands    4204    179    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    3401    75    263
 -- Austria    3214    9    9
--- Norway    2246    7    6
+-- Norway    2247    7    6
 -- Sweden    1906    21    16
--- Japan    1848    36    232
+-- Japan    1848    36    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1837,11 +1838,11 @@
 -- Romania    433    2    64
 -- Slovenia    414    1    0
 -- Philippines    380    25    15
+-- Russian Federation    367    1    16
 -- India    360    7    24
 -- Bahrain    332    1    149
 -- Estonia    326    0    4
 -- Peru    318    5    1
--- Russian Federation    306    1    16
 -- Egypt    294    10    42
 -- Hong Kong    274    4    100
 -- Mexico    251    2    4
@@ -1867,10 +1868,10 @@
 -- Costa Rica    117    2    2
 -- North Macedonia    114    0    1
 -- Dominican Republic    112    3    0
--- Morocco    108    3    3
+-- Morocco    109    3    3
+-- Viet Nam    106    0    17
 -- Lithuania    105    1    1
 -- Jordan    100    0    1
--- Viet Nam    99    0    17
 -- Bosnia and Herzegovina    94    1    2
 -- Faroe Islands    92    0    3
 -- Malta    90    0    2
@@ -1890,12 +1891,12 @@
 -- Kazakhstan    57    3    0
 -- Senegal    56    0    5
 -- Guadeloupe    56    1    0
--- Oman    55    0    13
+-- Oman    55    0    17
 -- Georgia    54    0    1
 -- Cambodia    53    0    2
 -- Azerbaijan    53    1    11
 -- Trinidad and Tobago    50    0    1
--- Ukraine    47    3    1
+-- Ukraine    47    3    8
 -- Réunion    47    0    0
 -- Uzbekistan    43    0    0
 -- Cameroon    40    0    2
@@ -1967,6 +1968,7 @@
 -- Bermuda    2    0    0
 -- Fiji    2    0    0
 -- Nicaragua    2    0    0
+-- Niger    2    0    0
 -- Haiti    2    0    0
 -- Angola    2    0    0
 -- Nepal    1    0    1
@@ -1979,7 +1981,6 @@
 -- Montserrat    1    0    0
 -- Djibouti    1    0    0
 -- Chad    1    0    0
--- Niger    1    0    0
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
 -- Eritrea    1    0    0
