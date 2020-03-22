@@ -486,7 +486,7 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    38165    396    182
+-- United States of America    38167    396    182
 ---- NY    22717    114    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -851,7 +851,7 @@
 ------ Montgomery(48339)    13    0    0
 ------ Bell(48027)    8    0    0
 ------ El Paso(48141)    8    0    0
------- Hays(48209)    6    0    0
+------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    14    0    0
 ------ Galveston(48167)    11    0    0
 ------ Lubbock(48303)    9    0    0
@@ -871,7 +871,7 @@
 ------ Medina(48325)    6    0    0
 ------ Williamson(48491)    9    0    0
 ------ Fannin(48147)    1    0    0
------- Jefferson(48245)    2    0    0
+------ Jefferson(48245)    3    0    0
 ------ Cameron(48061)    6    0    0
 ------ Brown(48049)    2    0    0
 ------ Potter(48375)    4    0    0
@@ -1569,7 +1569,7 @@
 ------ New Castle(10003)    33    0    0
 ------ Sussex(10005)    9    0    0
 ------ Kent(10001)    5    0    0
----- MO    90    5    0
+---- MO    91    5    0
 ------ Greene(29077)    10    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    15    1    0
@@ -1578,7 +1578,7 @@
 ------ Jackson(29095)    8    1    0
 ------ St Louis(29189)    17    1    0
 ------ St Charles(29183)    2    0    0
------- St Louis City(29510)    17    1    0
+------ St Louis City(29510)    22    1    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    1    1    0
 ------ Scott(29201)    1    0    0
@@ -1681,7 +1681,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    24714    93    266
+-- Germany    24806    93    266
 ---- Saxony    650    1    2
 ---- Mecklenburg-Vorpommern    182    0    0
 ---- Free State of Bavaria    3695    21    15
@@ -1775,7 +1775,7 @@
 ---- Seoul    324    0    64
 ---- Ulsan    36    0    12
 ---- 未确定地区    23    3    0
--- Switzerland    7230    85    131
+-- Switzerland    7474    98    131
 -- United Kingdom of Great Britain and Northern Ireland    5683    281    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1868,7 +1868,7 @@
 -- Israel    945    1    37
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
--- Ireland    785    3    5
+-- Ireland    785    4    5
 -- Pakistan    734    4    13
 -- Chile    632    1    8
 -- Poland    627    7    13
@@ -1918,8 +1918,8 @@
 -- Faroe Islands    115    0    3
 -- Andorra    113    1    1
 -- Viet Nam    113    0    17
+-- Jordan    112    0    1
 -- Morocco    109    3    3
--- Jordan    100    0    1
 -- Cyprus    95    1    3
 -- Bosnia and Herzegovina    94    1    2
 -- Moldova, Republic of    94    1    1
