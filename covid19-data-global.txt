@@ -1589,9 +1589,9 @@
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    1    0    0
 ------ Ramsey(38071)    1    0    0
----- AK    17    0    0
------- Fairbanks North Star(02090)    6    0    0
------- Anchorage(02020)    4    0    0
+---- AK    21    0    0
+------ Fairbanks North Star(02090)    7    0    0
+------ Anchorage(02020)    5    0    0
 ------ Ketchikan Gateway(02130)    6    0    0
 ---- WV    12    0    0
 ------ Jefferson(54037)    2    0    0
@@ -1741,7 +1741,7 @@
 ---- Curacao    3    0    0
 -- Austria    3024    8    9
 -- Belgium    2815    67    263
--- Norway    2164    7    6
+-- Norway    2167    7    6
 -- Japan    1848    36    232
 ---- Hokkaido    159    6    66
 ---- kochi    12    0    0
