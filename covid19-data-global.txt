@@ -485,7 +485,7 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    27072    348    178
+-- United States of America    27072    348    182
 ---- NY    12699    76    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -828,7 +828,7 @@
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
 ------ Lumpkin(13187)    1    0    0
----- TX    583    6    11
+---- TX    583    6    15
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    62    0    0
 ------ Harris(48201)    68    1    0
@@ -885,6 +885,7 @@
 ------ Wharton(48481)    1    0    0
 ------ Hidalgo(48215)    2    0    0
 ------ Chambers(48071)    1    0    0
+------ Liberty(48291)    1    0    0
 ---- PA    399    2    0
 ------ Montgomery(42091)    77    0    0
 ------ Philadelphia(42101)    85    0    0
@@ -1365,16 +1366,16 @@
 ------ Coos(33007)    1    0    0
 ------ Cheshire(33005)    1    0    0
 ------ Strafford(33017)    1    0    0
----- NE    40    0    0
------- Douglas(31055)    25    0    0
+---- NE    50    0    0
+------ Douglas(31055)    33    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
 ------ Sarpy(31153)    4    0    0
 ------ Lincoln(31111)    3    0    0
 ------ Adams(31001)    1    0    0
 ------ Nemaha(31127)    1    0    0
------- Lancaster(31109)    2    0    0
------- Buffalo(31019)    1    0    0
+------ Lancaster(31109)    3    0    0
+------ Buffalo(31019)    2    0    0
 ---- NM    57    0    0
 ------ Bernalillo(35001)    32    0    0
 ------ Santa Fe(35049)    8    0    0
@@ -1784,7 +1785,7 @@
 -- Denmark    1420    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1330    20    14
+-- Canada    1331    20    14
 ---- British Columbia    424    10    4
 ---- Ontario    377    3    6
 ---- Alberta    226    1    0
@@ -1793,7 +1794,7 @@
 ---- Manitoba    19    0    0
 ---- Saskatchewan    44    0    0
 ---- Grand Princess    8    0    0
----- Grand Princess Cruise Ship    12    0    0
+---- Grand Princess Cruise Ship    13    0    0
 ---- Prince Edward Island    2    0    0
 ---- Newfoundland and Labrador    6    0    0
 ---- Nova Scotia    44    0    0
@@ -1816,6 +1817,7 @@
 -- Ireland    785    3    5
 -- Pakistan    734    4    13
 -- Luxembourg    670    8    6
+-- Thailand    599    1    44
 -- Chile    537    1    8
 -- Poland    536    6    13
 -- Ecuador    532    7    3
@@ -1826,7 +1828,6 @@
 -- Indonesia    450    38    20
 -- Singapore    432    2    140
 ---- Central Singapore Community Development Council    345    0    124
--- Thailand    411    1    44
 -- Saudi Arabia    392    0    16
 -- Slovenia    383    1    0
 -- Philippines    380    25    15
