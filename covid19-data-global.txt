@@ -507,7 +507,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- United States of America    27142    349    182
+-- United States of America    27151    349    182
 ---- NY    12699    76    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -1273,10 +1273,10 @@
 ------ Edgefield(45037)    1    0    0
 ------ Marlboro(45069)    1    0    0
 ------ Newberry(45071)    1    0    0
----- AL    131    0    0
+---- AL    133    0    0
 ------ Jefferson(01073)    61    0    0
 ------ Shelby(01117)    16    0    0
------- Lee(01081)    12    0    0
+------ Lee(01081)    14    0    0
 ------ Tuscaloosa(01125)    6    0    0
 ------ Elmore(01051)    6    0    0
 ------ Montgomery(01101)    3    0    0
@@ -1444,11 +1444,11 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    1    0    0
 ------ Sevier(05133)    1    0    0
----- MS    145    1    0
+---- MS    157    1    0
 ------ Hinds(28049)    14    0    0
 ------ Leflore(28083)    7    0    0
------- Forrest(28035)    5    0    0
------- Copiah(28029)    3    0    0
+------ Forrest(28035)    11    0    0
+------ Copiah(28029)    4    0    0
 ------ Pearl River(28109)    9    0    0
 ------ Hancock(28045)    4    1    0
 ------ Harrison(28047)    10    0    0
@@ -1637,7 +1637,7 @@
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    3    0    0
--- Germany    23937    93    266
+-- Germany    23974    93    266
 ---- Saxony    650    1    2
 ---- Mecklenburg-Vorpommern    182    0    0
 ---- Free State of Bavaria    3695    21    15
@@ -1732,7 +1732,7 @@
 ---- Ulsan    36    0    12
 ---- 未确定地区    23    3    0
 -- Switzerland    7225    80    131
--- United Kingdom of Great Britain and Northern Ireland    5067    243    93
+-- United Kingdom of Great Britain and Northern Ireland    5067    244    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1746,7 +1746,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    3401    75    263
--- Austria    3302    9    9
+-- Austria    3302    16    9
 -- Norway    2251    7    6
 -- Sweden    1906    21    16
 -- Japan    1848    36    235
@@ -1827,11 +1827,11 @@
 -- Pakistan    734    4    13
 -- Chile    632    1    8
 -- Finland    626    1    10
+-- Greece    624    15    19
 -- Thailand    599    1    44
 -- Iceland    568    5    22
 -- Poland    563    7    13
 -- Ecuador    532    7    3
--- Greece    530    13    19
 -- Indonesia    514    48    29
 -- Saudi Arabia    511    0    17
 -- Qatar    481    0    27
@@ -1847,14 +1847,14 @@
 -- Peru    318    5    1
 -- Hong Kong    317    4    100
 -- Egypt    294    10    42
+-- Croatia    254    1    5
 -- Mexico    251    2    4
 -- Lebanon    248    4    8
 -- Panama    245    3    1
 -- South Africa    240    0    2
--- Croatia    235    1    5
 -- Iraq    233    20    57
+-- Colombia    231    2    3
 -- Argentina    225    4    27
--- Colombia    210    1    3
 -- Dominican Republic    202    3    0
 -- Armenia    190    0    2
 -- Kuwait    188    0    27
@@ -1877,12 +1877,13 @@
 -- Morocco    109    3    3
 -- Jordan    100    0    1
 -- Bosnia and Herzegovina    94    1    2
+-- Moldova, Republic of    94    1    1
 -- Malta    90    0    2
 -- Albania    89    2    2
 -- Brunei Darussalam    88    0    2
+-- Cambodia    84    0    2
 -- Cyprus    84    1    3
 -- Sri Lanka    82    0    3
--- Moldova, Republic of    80    1    1
 -- Belarus    76    0    15
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
@@ -1890,13 +1891,12 @@
 -- Nigeria    69    0    2
 -- New Zealand    66    0    0
 -- Azerbaijan    65    1    11
+-- Kazakhstan    59    3    0
 -- Palestine    59    0    17
--- Kazakhstan    58    3    0
 -- Senegal    56    0    5
 -- Guadeloupe    56    1    0
 -- Oman    55    0    17
 -- Georgia    54    0    1
--- Cambodia    53    0    2
 -- Trinidad and Tobago    50    0    1
 -- Ukraine    47    3    8
 -- Réunion    47    0    1
@@ -1904,11 +1904,12 @@
 -- Cameroon    40    0    2
 -- Liechtenstein    37    0    0
 -- Martinique    37    1    0
--- Afghanistan    34    0    1
+-- Afghanistan    34    1    1
 -- Bangladesh    27    2    3
 -- Guam    27    1    0
 -- Honduras    26    0    0
 -- Bolivia, Plurinational State of    24    0    0
+-- Mauritius    24    2    0
 -- Puerto Rico    23    1    0
 -- Congo, Democratic Republic of the    23    1    0
 -- Paraguay    22    1    0
@@ -1919,7 +1920,6 @@
 -- Monaco    18    0    1
 -- French Guiana    18    0    0
 -- Guyana    18    1    0
--- Mauritius    18    1    0
 -- Guatemala    17    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
