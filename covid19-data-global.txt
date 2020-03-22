@@ -485,8 +485,8 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    26111    324    176
----- NY    11729    60    0
+-- United States of America    26685    340    176
+---- NY    12314    75    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
 ------ Suffolk(36103)    662    9    0
@@ -521,7 +521,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
 ------ Washington(36115)    1    0    0
------- New York(36061)    7530    45    0
+------ New York(36061)    8115    60    0
 ------ Niagara(36063)    9    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -559,7 +559,7 @@
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
----- CA    1413    25    6
+---- CA    1416    26    6
 ------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    292    3    0
 ------ San Mateo(06081)    110    1    0
@@ -569,7 +569,7 @@
 ------ Contra Costa(06013)    51    1    0
 ------ Orange(06059)    78    0    0
 ------ Alameda(06001)    68    0    0
------- Riverside(06065)    28    4    0
+------ Riverside(06065)    30    5    0
 ------ San Joaquin(06077)    31    2    0
 ------ Santa Cruz(06087)    15    0    0
 ------ Marin(06041)    38    0    0
@@ -590,7 +590,7 @@
 ------ Santa Barbara(06083)    9    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
------- Humboldt(06023)    1    0    0
+------ Humboldt(06023)    2    0    0
 ------ Kern(06029)    5    0    0
 ------ Madera(06039)    3    0    0
 ------ Nevada(06057)    1    0    0
@@ -867,7 +867,7 @@
 ------ Lamar(48277)    1    0    0
 ------ Midland(48329)    1    0    0
 ------ Randall(48381)    2    0    0
------- Castro(48069)    1    0    0
+------ Castro(48069)    2    0    0
 ------ Oldham(48359)    1    0    0
 ------ McLennan(48309)    16    0    0
 ------ DeWitt(48123)    1    0    0
@@ -974,17 +974,17 @@
 ------ Scott(47151)    2    0    0
 ------ Cocke(47029)    1    0    0
 ------ Roane(47145)    1    0    0
----- CT    199    4    0
------- Fairfield(09001)    122    4    0
------- New Haven(09009)    23    0    0
------- Hartford(09003)    29    0    0
------- Litchfield(09005)    8    0    0
------- Middlesex(09007)    5    0    0
------- Tolland(09013)    4    0    0
+---- CT    224    4    0
+------ Fairfield(09001)    140    4    0
+------ New Haven(09009)    24    0    0
+------ Hartford(09003)    35    0    0
+------ Litchfield(09005)    11    0    0
+------ Middlesex(09007)    6    0    0
+------ Tolland(09013)    5    0    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    1    0    0
 ---- OH    248    3    0
------- Cuyahoga(39035)    92    0    0
+------ Cuyahoga(39035)    92    1    0
 ------ Butler(39017)    16    0    0
 ------ Franklin(39049)    21    0    0
 ------ Lorain(39093)    14    0    0
@@ -1409,7 +1409,7 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    1    0    0
 ------ Sevier(05133)    1    0    0
----- MS    141    1    0
+---- MS    144    1    0
 ------ Hinds(28049)    14    0    0
 ------ Leflore(28083)    7    0    0
 ------ Forrest(28035)    5    0    0
@@ -1694,7 +1694,7 @@
 ---- Fench Guiana    5    0    0
 ---- Mayotte    7    0    0
 ---- Reunion    28    0    0
--- Korea, Republic of    8799    102    2612
+-- Korea, Republic of    8897    104    2909
 ---- Busan    108    1    67
 ---- Chungcheongbuk-do    34    0    8
 ---- Chungcheongnam-do    119    0    39
