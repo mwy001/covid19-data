@@ -486,7 +486,7 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    39242    422    182
+-- United States of America    39242    425    182
 ---- NY    22768    117    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -781,6 +781,8 @@
 ------ La Salle(17099)    1    0    0
 ------ Jo Daviess(17085)    1    0    0
 ------ Stephenson(17177)    1    0    0
+------ Livingston(17105)    1    0    0
+------ Rock Island(17161)    1    0    0
 ---- GA    600    23    0
 ------ Fulton(13121)    108    2    0
 ------ Cobb(13067)    61    2    0
@@ -843,7 +845,7 @@
 ------ Butts(13035)    1    0    0
 ------ Chattooga(13055)    1    0    0
 ------ Twiggs(13289)    1    0    0
----- TX    625    6    15
+---- TX    627    6    15
 ------ Dallas(48113)    131    2    0
 ------ Travis(48453)    62    0    0
 ------ Harris(48201)    74    1    0
@@ -853,7 +855,7 @@
 ------ Tarrant(48439)    47    1    0
 ------ Smith(48423)    10    0    0
 ------ Montgomery(48339)    13    0    0
------- Bell(48027)    8    0    0
+------ Bell(48027)    10    0    0
 ------ El Paso(48141)    8    0    0
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    14    0    0
@@ -903,9 +905,9 @@
 ------ Liberty(48291)    1    0    0
 ------ Burnet(48053)    1    0    0
 ------ Hardin(48199)    2    0    0
----- PA    504    4    0
+---- PA    509    4    0
 ------ Montgomery(42091)    110    0    0
------- Philadelphia(42101)    91    0    0
+------ Philadelphia(42101)    96    0    0
 ------ Allegheny(42003)    40    1    0
 ------ Cumberland(42041)    11    0    0
 ------ Delaware(42045)    43    0    0
@@ -967,23 +969,23 @@
 ------ Marathon(55073)    1    0    0
 ------ Douglas(55031)    1    0    0
 ------ Green(55045)    1    0    0
----- TN    412    2    0
+---- TN    506    2    0
 ------ Davidson(47037)    167    2    0
------- Williamson(47187)    47    0    0
------- Shelby(47157)    42    0    0
------- Knox(47093)    4    0    0
+------ Williamson(47187)    48    0    0
+------ Shelby(47157)    66    0    0
+------ Knox(47093)    5    0    0
 ------ Campbell(47013)    2    0    0
 ------ Hamilton(47065)    8    0    0
------- Jefferson(47089)    1    0    0
------- Rutherford(47149)    5    0    0
+------ Jefferson(47089)    2    0    0
+------ Rutherford(47149)    8    0    0
 ------ Sevier(47155)    2    0    0
 ------ Sullivan(47163)    1    0    0
------- Sumner(47165)    11    0    0
+------ Sumner(47165)    22    0    0
 ------ Cheatham(47021)    4    0    0
------- Robertson(47147)    2    0    0
+------ Robertson(47147)    3    0    0
 ------ Cumberland(47035)    2    0    0
 ------ Dyer(47045)    2    0    0
------- Montgomery(47125)    3    0    0
+------ Montgomery(47125)    4    0    0
 ------ Wilson(47189)    3    0    0
 ------ Fayette(47047)    3    0    0
 ------ Carroll(47017)    2    0    0
@@ -994,9 +996,9 @@
 ------ Bradley(47011)    2    0    0
 ------ Greene(47059)    2    0    0
 ------ Hamblen(47063)    2    0    0
------- Maury(47119)    1    0    0
------- Tipton(47167)    2    0    0
------- Putnam(47141)    5    0    0
+------ Maury(47119)    2    0    0
+------ Tipton(47167)    5    0    0
+------ Putnam(47141)    6    0    0
 ------ Monroe(47123)    3    0    0
 ------ Scott(47151)    2    0    0
 ------ Cocke(47029)    1    0    0
@@ -1005,6 +1007,9 @@
 ------ Chester(47023)    1    0    0
 ------ Franklin(47051)    1    0    0
 ------ Houston(47083)    1    0    0
+------ Loudon(47105)    1    0    0
+------ Marion(47115)    1    0    0
+------ Perry(47135)    1    0    0
 ---- CT    224    5    0
 ------ Fairfield(09001)    140    4    0
 ------ New Haven(09009)    24    0    0
@@ -1075,7 +1080,7 @@
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
 ------ Josephine(41033)    1    0    0
----- VA    221    4    1
+---- VA    221    6    1
 ------ Arlington(51013)    26    0    0
 ------ Fairfax(51059)    31    2    0
 ------ Loudoun(51107)    15    0    0
@@ -1089,7 +1094,7 @@
 ------ Stafford(51179)    5    0    0
 ------ York(51199)    5    1    0
 ------ Charles City(51036)    1    0    0
------- James City(51095)    32    1    0
+------ James City(51095)    32    2    0
 ------ Albemarle(51003)    2    0    0
 ------ Gloucester(51073)    2    0    0
 ------ Roanoke(51161)    2    0    0
@@ -1857,7 +1862,7 @@
 ---- Okayama    1    0    0
 -- Portugal    1600    14    5
 -- Brazil    1546    25    2
--- Canada    1427    20    14
+-- Canada    1435    20    14
 ---- British Columbia    424    10    4
 ---- Ontario    377    3    6
 ---- Alberta    226    1    0
@@ -1908,7 +1913,7 @@
 -- Philippines    380    25    15
 -- Russian Federation    367    1    16
 -- Peru    363    5    1
--- Bahrain    332    2    149
+-- Bahrain    334    2    149
 -- Egypt    327    14    56
 -- Estonia    326    0    4
 -- Hong Kong    317    4    100
@@ -1925,8 +1930,8 @@
 -- Algeria    201    17    65
 -- Armenia    194    0    2
 -- Kuwait    188    0    30
+-- Bulgaria    187    3    3
 -- Slovakia    185    1    7
--- Bulgaria    185    3    3
 -- San Marino    175    20    4
 -- Taiwan    169    2    28
 -- United Arab Emirates    153    2    38
@@ -1952,12 +1957,12 @@
 -- Belarus    76    0    15
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
+-- Ukraine    73    3    8
 -- Venezuela, Bolivarian Republic of    70    0    15
 -- Nigeria    69    0    2
 -- Senegal    67    0    5
 -- New Zealand    66    0    0
 -- Azerbaijan    65    1    11
--- Ukraine    63    3    8
 -- Kazakhstan    59    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    56    1    0
@@ -2054,3 +2059,4 @@
 -- Uganda    1    0    0
 -- Mozambique    1    0    0
 -- Grenada    1    0    0
+-- Dominica    1    0    0
