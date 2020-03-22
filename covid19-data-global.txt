@@ -485,7 +485,7 @@
 ---- Liguria    1436    152    125
 ---- Veneto    4617    146    257
 ---- Bolzano    621    20    1
--- United States of America    27072    344    176
+-- United States of America    27072    348    178
 ---- NY    12699    76    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -495,11 +495,11 @@
 ------ Dutchess(36027)    49    0    0
 ------ Orange(36071)    163    0    0
 ------ Monroe(36055)    46    1    0
------- Erie(36029)    50    0    0
+------ Erie(36029)    56    0    0
 ------ Saratoga(36091)    35    0    0
 ------ Ulster(36111)    18    0    0
 ------ Schenectady(36093)    32    0    0
------- Tompkins(36109)    11    0    0
+------ Tompkins(36109)    12    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    2    0    0
 ------ Onondaga(36067)    34    0    0
@@ -560,11 +560,11 @@
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
----- CA    1479    28    6
+---- CA    1509    28    6
 ------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    351    4    0
 ------ San Mateo(06081)    110    1    0
------- San Diego(06073)    131    0    0
+------ San Diego(06073)    155    0    0
 ------ San Francisco(06075)    84    0    0
 ------ Sacramento(06067)    53    3    0
 ------ Contra Costa(06013)    51    1    0
@@ -574,7 +574,7 @@
 ------ San Joaquin(06077)    31    2    0
 ------ Santa Cruz(06087)    15    0    0
 ------ Marin(06041)    38    0    0
------- Ventura(06111)    19    0    0
+------ Ventura(06111)    25    0    0
 ------ Placer(06061)    12    1    0
 ------ Solano(06095)    14    0    0
 ------ San Luis Obispo(06079)    21    0    0
@@ -622,8 +622,8 @@
 ------ Sussex(34037)    6    0    0
 ------ Cape May(34009)    2    0    0
 ------ Cumberland(34011)    1    0    0
----- MA    529    1    1
------- Middlesex(25017)    177    0    0
+---- MA    529    2    1
+------ Middlesex(25017)    177    1    0
 ------ Norfolk(25021)    69    0    0
 ------ Suffolk(25025)    108    1    0
 ------ Berkshire(25003)    21    0    0
@@ -828,7 +828,7 @@
 ------ Baldwin(13009)    2    0    0
 ------ Lincoln(13181)    1    0    0
 ------ Lumpkin(13187)    1    0    0
----- TX    583    6    9
+---- TX    583    6    11
 ------ Dallas(48113)    95    1    0
 ------ Travis(48453)    62    0    0
 ------ Harris(48201)    68    1    0
@@ -883,6 +883,7 @@
 ------ Nueces(48355)    1    0    0
 ------ Upshur(48459)    1    0    0
 ------ Wharton(48481)    1    0    0
+------ Hidalgo(48215)    2    0    0
 ---- PA    399    2    0
 ------ Montgomery(42091)    77    0    0
 ------ Philadelphia(42101)    85    0    0
@@ -977,13 +978,13 @@
 ------ Scott(47151)    2    0    0
 ------ Cocke(47029)    1    0    0
 ------ Roane(47145)    1    0    0
----- CT    224    4    0
+---- CT    224    5    0
 ------ Fairfield(09001)    140    4    0
 ------ New Haven(09009)    24    0    0
 ------ Hartford(09003)    35    0    0
 ------ Litchfield(09005)    11    0    0
 ------ Middlesex(09007)    6    0    0
------- Tolland(09013)    5    0    0
+------ Tolland(09013)    5    1    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    1    0    0
 ---- OH    248    3    0
@@ -1073,15 +1074,15 @@
 ------ City of Suffolk(51800)    1    0    0
 ------ City of Newport News(51700)    2    0    0
 ------ Lee(51105)    2    0    0
----- NC    264    0    0
------- Wake(37183)    33    0    0
+---- NC    283    0    0
+------ Wake(37183)    49    0    0
 ------ Durham(37063)    40    0    0
 ------ Mecklenburg(37119)    77    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    7    0    0
 ------ Forsyth(37067)    12    0    0
 ------ Johnston(37101)    3    0    0
------- Brunswick(37019)    4    0    0
+------ Brunswick(37019)    6    0    0
 ------ Cabarrus(37025)    5    0    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    7    0    0
@@ -1118,10 +1119,11 @@
 ------ Scotland(37165)    1    0    0
 ------ Davie(37059)    1    0    0
 ------ Montgomery(37123)    1    0    0
----- MI    790    7    0
+------ Nash(37127)    1    0    0
+---- MI    809    8    0
 ------ Oakland(26125)    230    2    0
 ------ Wayne(26163)    102    2    0
------- Macomb(26099)    101    0    0
+------ Macomb(26099)    121    1    0
 ------ Washtenaw(26161)    29    0    0
 ------ Kent(26081)    21    1    0
 ------ Ingham(26065)    11    0    0
@@ -1177,8 +1179,8 @@
 ------ St Louis(27137)    1    0    0
 ------ Steele(27147)    2    0    0
 ------ Wabasha(27157)    1    0    0
----- MD    193    2    4
------- Montgomery(24031)    68    0    0
+---- MD    193    3    4
+------ Montgomery(24031)    68    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    19    1    0
 ------ Howard(24027)    19    0    0
@@ -1793,10 +1795,7 @@
 ---- Newfoundland and Labrador    6    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
--- Portugal    1280    12    5
--- Malaysia    1183    8    114
--- Brazil    1178    18    2
--- Australia    1072    7    46
+-- Australia    1286    7    46
 ---- New South Wales    436    6    4
 ---- Victoria    229    0    8
 ---- Queensland    221    0    8
@@ -1805,6 +1804,9 @@
 ---- Tasmania    16    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    9    0    0
+-- Portugal    1280    12    5
+-- Malaysia    1183    8    114
+-- Brazil    1178    18    2
 -- Czechia    995    0    6
 -- Turkey    947    21    0
 -- Israel    883    1    36
@@ -1824,33 +1826,33 @@
 -- Thailand    411    1    44
 -- Saudi Arabia    392    0    16
 -- Slovenia    383    1    0
+-- Philippines    380    25    15
 -- Romania    367    0    52
 -- India    332    5    23
 -- Peru    318    5    1
 -- Bahrain    310    1    125
--- Philippines    307    19    13
 -- Estonia    306    0    2
 -- Russian Federation    306    1    16
 -- Egypt    294    10    42
 -- Hong Kong    274    4    100
+-- Mexico    251    2    4
 -- Panama    245    3    1
 -- South Africa    240    0    2
 -- Lebanon    230    4    8
+-- Argentina    225    4    27
 -- Iraq    214    17    51
 -- Croatia    206    1    5
--- Mexico    203    2    4
--- Colombia    196    0    1
+-- Colombia    196    0    2
 -- Slovakia    178    1    7
 -- Kuwait    176    0    27
 -- Serbia    171    1    2
 -- Bulgaria    163    3    3
 -- San Marino    160    20    4
 -- Armenia    160    0    1
--- Argentina    158    4    3
 -- United Arab Emirates    153    2    38
 -- Taiwan    153    2    28
 -- Algeria    139    15    65
--- Uruguay    126    0    0
+-- Uruguay    135    0    0
 -- Latvia    124    0    1
 -- Costa Rica    117    2    2
 -- Dominican Republic    112    3    0
