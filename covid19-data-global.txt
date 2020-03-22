@@ -1650,35 +1650,35 @@
 ---- Saxony-Anhalt    253    1    0
 ---- Saarland    301    1    0
 -- Iran, Islamic Republic of    21638    1685    7635
----- Qom    1161    30    0
----- Tehran    4849    0    0
----- Fars    479    2    0
----- Markazi    846    11    0
----- Mazandaran    1664    13    0
----- Ardabil    270    3    0
----- South Khorasan    163    1    0
----- Ilam    166    0    0
----- Isfahan    1892    2    0
----- Hamadan    224    1    0
----- Razavi Khorasan    816    8    0
----- Hormozgan    146    2    0
----- Kurdistan    222    0    0
----- Qazvin    640    7    0
----- Yazd    641    3    0
----- West Azerbaijan    367    0    0
----- Gilan    1153    0    0
----- Golestan    381    6    0
----- Khuzestan    422    12    0
----- Alborz    1117    7    0
+---- Qom    1178    30    0
+---- Tehran    5098    0    0
+---- Fars    505    2    0
+---- Markazi    882    11    0
+---- Mazandaran    1700    13    0
+---- Ardabil    289    3    0
+---- South Khorasan    178    1    0
+---- Ilam    183    0    0
+---- Isfahan    1979    2    0
+---- Hamadan    243    1    0
+---- Razavi Khorasan    858    8    0
+---- Hormozgan    148    2    0
+---- Kurdistan    238    0    0
+---- Qazvin    669    7    0
+---- Yazd    725    3    0
+---- West Azerbaijan    395    0    0
+---- Gilan    1191    0    0
+---- Golestan    391    6    0
+---- Khuzestan    444    12    0
+---- Alborz    1177    7    0
 ---- Semnan    645    0    0
----- Lorestan    443    4    0
----- East Azerbaijan    756    6    0
----- Kermanshah    168    2    0
----- Sistan and Baluchestan    119    0    0
----- Kerman    161    0    0
----- Zanjan    366    0    0
----- Chaharmahal and Bakhtiari    66    0    0
----- North Khorasan    139    0    0
+---- Lorestan    476    4    0
+---- East Azerbaijan    813    6    0
+---- Kermanshah    175    2    0
+---- Sistan and Baluchestan    134    0    0
+---- Kerman    169    0    0
+---- Zanjan    394    0    0
+---- Chaharmahal and Bakhtiari    68    0    0
+---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
 -- France    14459    562    1587
@@ -1727,7 +1727,7 @@
 ---- Ulsan    36    0    12
 ---- 未确定地区    23    3    0
 -- Switzerland    7225    80    131
--- United Kingdom of Great Britain and Northern Ireland    5067    234    93
+-- United Kingdom of Great Britain and Northern Ireland    5067    240    93
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1741,24 +1741,24 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    3401    75    263
--- Austria    3024    8    9
+-- Austria    3026    9    9
 -- Norway    2234    7    6
 -- Japan    1848    36    232
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    27    0    0
----- Gifu    3    0    0
+---- Gifu    5    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
 ---- Kumamoto    7    0    0
----- Saitama    49    0    0
+---- Saitama    51    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    5    0    0
 ---- Tokyo    138    4    0
 ---- Wakayama    17    1    2
----- Kyoto    23    0    2
----- Osaka    125    2    1
+---- Kyoto    24    0    2
+---- Osaka    131    2    1
 ---- Chiba    44    0    0
 ---- Kanagawa    75    4    1
 ---- Shizuoka    3    0    0
@@ -1768,7 +1768,7 @@
 ---- Mie    9    0    1
 ---- Okinawa    3    0    1
 ---- Ehime    3    0    0
----- hyogo    108    4    0
+---- hyogo    111    6    0
 ---- oita    17    0    0
 ---- Yamaguchi    4    0    0
 ---- Miyazaki    3    0    0
@@ -1783,7 +1783,9 @@
 ---- Ibaraki    3    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
--- Sweden    1770    20    16
+---- Okayama    1    0    0
+-- Sweden    1770    21    16
+-- Portugal    1600    14    5
 -- Denmark    1420    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1810,17 +1812,16 @@
 ---- Tasmania    16    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    9    0    0
--- Portugal    1280    12    5
+-- Brazil    1201    18    2
 -- Malaysia    1183    9    114
--- Brazil    1178    18    2
 -- Czechia    1047    0    6
 -- Turkey    947    21    0
 -- Israel    945    1    37
+-- Luxembourg    798    8    6
 -- Ireland    785    3    5
 -- Pakistan    734    4    13
--- Luxembourg    670    8    6
+-- Finland    626    1    10
 -- Thailand    599    1    44
--- Finland    594    1    10
 -- Iceland    568    5    22
 -- Poland    563    7    13
 -- Chile    537    1    8
@@ -1836,17 +1837,17 @@
 -- Philippines    380    25    15
 -- India    341    5    24
 -- Bahrain    332    1    149
+-- Estonia    326    0    4
 -- Peru    318    5    1
--- Estonia    306    0    2
 -- Russian Federation    306    1    16
 -- Egypt    294    10    42
 -- Hong Kong    274    4    100
 -- Mexico    251    2    4
+-- Lebanon    248    4    8
 -- Panama    245    3    1
 -- South Africa    240    0    2
 -- Croatia    235    1    5
 -- Iraq    233    20    57
--- Lebanon    230    4    8
 -- Argentina    225    4    27
 -- Colombia    210    1    3
 -- Armenia    190    0    2
@@ -1864,32 +1865,32 @@
 -- Costa Rica    117    2    2
 -- North Macedonia    114    0    1
 -- Dominican Republic    112    3    0
+-- Morocco    108    3    3
 -- Lithuania    105    1    1
--- Morocco    104    3    3
 -- Jordan    100    0    1
--- Viet Nam    94    0    17
+-- Viet Nam    99    0    17
 -- Bosnia and Herzegovina    93    1    2
 -- Faroe Islands    92    0    3
+-- Albania    89    2    2
 -- Andorra    88    1    1
 -- Cyprus    84    1    3
 -- Brunei Darussalam    83    0    2
+-- Sri Lanka    80    0    3
 -- Moldova, Republic of    80    1    1
--- Sri Lanka    77    0    3
 -- Belarus    76    0    15
--- Albania    76    2    2
 -- Tunisia    75    3    1
 -- Malta    73    0    2
 -- Venezuela, Bolivarian Republic of    70    0    15
 -- Nigeria    69    0    1
 -- New Zealand    66    0    0
 -- Burkina Faso    64    3    5
+-- Palestine    59    0    17
 -- Senegal    56    0    5
 -- Guadeloupe    56    1    0
 -- Georgia    54    0    1
 -- Kazakhstan    54    3    0
 -- Cambodia    53    0    2
 -- Azerbaijan    53    1    11
--- Palestine    53    0    17
 -- Oman    52    0    13
 -- Trinidad and Tobago    49    0    1
 -- Ukraine    47    3    1
@@ -1902,17 +1903,18 @@
 -- Guam    27    1    0
 -- Honduras    26    0    0
 -- Afghanistan    24    0    1
+-- Puerto Rico    23    1    0
 -- Congo, Democratic Republic of the    23    1    0
 -- Paraguay    22    1    0
 -- Cuba    21    1    0
--- Puerto Rico    21    1    0
 -- Ghana    21    1    8
+-- Macao    20    0    10
 -- Bolivia, Plurinational State of    19    0    0
 -- Jamaica    19    1    2
--- Macao    19    0    10
 -- Monaco    18    0    1
 -- French Guiana    18    0    0
 -- Guyana    18    1    0
+-- Mauritius    18    1    0
 -- Guatemala    17    1    0
 -- Rwanda    17    0    0
 -- Togo    16    0    1
@@ -1921,8 +1923,8 @@
 -- Côte d'Ivoire    14    0    1
 -- Barbados    14    0    0
 -- Kyrgyzstan    14    0    0
--- Mauritius    14    1    0
 -- Maldives    13    0    3
+-- Tanzania, United Republic of    12    0    0
 -- Mayotte    11    0    0
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
@@ -1932,7 +1934,6 @@
 -- Seychelles    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
--- Tanzania, United Republic of    6    0    0
 -- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
