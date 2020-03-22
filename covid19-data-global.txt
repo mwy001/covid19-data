@@ -560,7 +560,7 @@
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
----- CA    1511    28    6
+---- CA    1519    28    6
 ------ Santa Clara(06085)    263    8    0
 ------ Los Angeles(06037)    351    4    0
 ------ San Mateo(06081)    110    1    0
@@ -586,9 +586,9 @@
 ------ Tulare(06107)    12    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    6    0    0
------- Imperial(06025)    4    0    0
+------ Imperial(06025)    6    0    0
 ------ Monterey(06053)    11    1    0
------- Santa Barbara(06083)    9    0    0
+------ Santa Barbara(06083)    13    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    2    0    0
@@ -601,6 +601,7 @@
 ------ Mono(06051)    1    0    0
 ------ Butte(06007)    1    0    0
 ------ El Dorado(06017)    2    0    0
+------ Yuba(06115)    2    0    0
 ---- NJ    1328    16    1
 ------ Bergen(34003)    363    6    0
 ------ Essex(34013)    107    4    0
@@ -731,7 +732,7 @@
 ------ Clear Creek(08019)    3    0    0
 ------ Garfield(08045)    7    0    0
 ------ Routt(08107)    2    0    0
------- Mesa(08077)    1    0    0
+------ Mesa(08077)    2    0    0
 ------ Pueblo(08101)    3    0    0
 ------ Grand(08049)    3    0    0
 ------ Morgan(08087)    2    0    0
@@ -1366,8 +1367,8 @@
 ------ Coos(33007)    1    0    0
 ------ Cheshire(33005)    1    0    0
 ------ Strafford(33017)    1    0    0
----- NE    50    0    0
------- Douglas(31055)    33    0    0
+---- NE    51    0    0
+------ Douglas(31055)    34    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    1    0    0
 ------ Sarpy(31153)    4    0    0
@@ -1809,7 +1810,7 @@
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    9    0    0
 -- Portugal    1280    12    5
--- Malaysia    1183    8    114
+-- Malaysia    1183    9    114
 -- Brazil    1178    18    2
 -- Czechia    995    0    6
 -- Turkey    947    21    0
@@ -1860,9 +1861,9 @@
 -- Latvia    124    0    1
 -- Costa Rica    117    2    2
 -- Dominican Republic    112    3    0
+-- Lithuania    105    1    1
 -- Hungary    103    4    7
 -- Jordan    100    0    1
--- Lithuania    99    1    1
 -- Morocco    96    3    3
 -- Viet Nam    94    0    17
 -- Bosnia and Herzegovina    93    1    2
