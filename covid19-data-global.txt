@@ -507,7 +507,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- United States of America    27072    349    182
+-- United States of America    27142    349    182
 ---- NY    12699    76    0
 ------ Westchester(36119)    1387    0    0
 ------ Nassau(36059)    1234    4    0
@@ -700,7 +700,7 @@
 ------ Putnam(12107)    1    0    0
 ------ St Lucie(12111)    1    0    0
 ------ Miami-Dade(12086)    169    0    0
----- LA    763    20    0
+---- LA    837    20    0
 ------ Orleans(22071)    418    15    0
 ------ Jefferson(22051)    166    3    0
 ------ Caddo(22017)    15    0    0
@@ -975,7 +975,7 @@
 ------ Shelby(47157)    42    0    0
 ------ Knox(47093)    4    0    0
 ------ Campbell(47013)    2    0    0
------- Hamilton(47065)    7    0    0
+------ Hamilton(47065)    8    0    0
 ------ Jefferson(47089)    1    0    0
 ------ Rutherford(47149)    5    0    0
 ------ Sevier(47155)    2    0    0
@@ -1003,6 +1003,7 @@
 ------ Scott(47151)    2    0    0
 ------ Cocke(47029)    1    0    0
 ------ Roane(47145)    1    0    0
+------ Gibson(47053)    1    0    0
 ---- CT    224    5    0
 ------ Fairfield(09001)    140    4    0
 ------ New Haven(09009)    24    0    0
@@ -1362,7 +1363,7 @@
 ------ Henry(19087)    1    0    0
 ------ Story(19169)    1    0    0
 ------ Woodbury(19193)    1    0    0
----- KY    87    3    2
+---- KY    99    3    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
 ------ Harrison(21097)    7    0    0
@@ -1443,18 +1444,18 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    1    0    0
 ------ Sevier(05133)    1    0    0
----- MS    144    1    0
+---- MS    145    1    0
 ------ Hinds(28049)    14    0    0
 ------ Leflore(28083)    7    0    0
 ------ Forrest(28035)    5    0    0
------- Copiah(28029)    2    0    0
+------ Copiah(28029)    3    0    0
 ------ Pearl River(28109)    9    0    0
 ------ Hancock(28045)    4    1    0
 ------ Harrison(28047)    10    0    0
 ------ Jackson(28059)    7    0    0
 ------ Monroe(28095)    2    0    0
------- Bolivar(28011)    2    0    0
------- Coahoma(28027)    5    0    0
+------ Bolivar(28011)    3    0    0
+------ Coahoma(28027)    7    0    0
 ------ Perry(28111)    1    0    0
 ------ Madison(28089)    7    0    0
 ------ Holmes(28051)    3    0    0
@@ -1488,6 +1489,7 @@
 ------ Union(28145)    1    0    0
 ------ Washington(28151)    1    0    0
 ------ Panola(28107)    1    0    0
+------ Chickasaw(28017)    1    0    0
 ---- AZ    118    1    1
 ------ Maricopa(04013)    49    1    0
 ------ Pinal(04021)    14    0    0
@@ -1629,8 +1631,8 @@
 ------ Putnam(54079)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    30    1    0
----- Others    47    2    0
----- GU    15    1    0
+---- Others    59    2    0
+---- GU    27    1    0
 ------ Guam(66010)    15    0    0
 ---- PR    23    1    0
 ---- VI    6    0    0
@@ -1744,8 +1746,8 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    3401    75    263
--- Austria    3289    9    9
--- Norway    2250    7    6
+-- Austria    3302    9    9
+-- Norway    2251    7    6
 -- Sweden    1906    21    16
 -- Japan    1848    36    235
 ---- Hokkaido    162    6    66
@@ -1792,16 +1794,7 @@
 -- Denmark    1420    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Australia    1353    7    46
----- New South Wales    436    6    4
----- Victoria    229    0    8
----- Queensland    221    0    8
----- South Australia    67    0    3
----- Western Australia    90    1    0
----- Tasmania    16    0    3
----- Northern Territory    3    0    0
----- Australian Capital Territory    9    0    0
--- Canada    1338    20    14
+-- Canada    1385    20    14
 ---- British Columbia    424    10    4
 ---- Ontario    377    3    6
 ---- Alberta    226    1    0
@@ -1815,6 +1808,15 @@
 ---- Newfoundland and Labrador    6    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
+-- Australia    1353    7    46
+---- New South Wales    436    6    4
+---- Victoria    229    0    8
+---- Queensland    221    0    8
+---- South Australia    67    0    3
+---- Western Australia    90    1    0
+---- Tasmania    16    0    3
+---- Northern Territory    3    0    0
+---- Australian Capital Territory    9    0    0
 -- Malaysia    1306    10    139
 -- Brazil    1209    18    2
 -- Czechia    1047    0    6
@@ -1840,11 +1842,11 @@
 -- India    391    7    24
 -- Philippines    380    25    15
 -- Russian Federation    367    1    16
--- Bahrain    332    1    149
+-- Bahrain    332    2    149
 -- Estonia    326    0    4
 -- Peru    318    5    1
+-- Hong Kong    317    4    100
 -- Egypt    294    10    42
--- Hong Kong    274    4    100
 -- Mexico    251    2    4
 -- Lebanon    248    4    8
 -- Panama    245    3    1
@@ -1857,9 +1859,9 @@
 -- Armenia    190    0    2
 -- Kuwait    188    0    27
 -- Serbia    188    2    2
+-- Bulgaria    185    3    3
 -- Slovakia    178    1    7
 -- San Marino    175    20    4
--- Bulgaria    174    3    3
 -- Taiwan    169    2    28
 -- United Arab Emirates    153    2    38
 -- Algeria    139    15    65
@@ -1868,17 +1870,17 @@
 -- Lithuania    131    1    1
 -- Hungary    131    6    16
 -- Costa Rica    117    2    2
--- North Macedonia    115    0    1
+-- North Macedonia    115    1    1
 -- Faroe Islands    115    0    3
 -- Andorra    113    1    1
+-- Viet Nam    113    0    17
 -- Morocco    109    3    3
--- Viet Nam    106    0    17
 -- Jordan    100    0    1
 -- Bosnia and Herzegovina    94    1    2
 -- Malta    90    0    2
 -- Albania    89    2    2
+-- Brunei Darussalam    88    0    2
 -- Cyprus    84    1    3
--- Brunei Darussalam    83    0    2
 -- Sri Lanka    82    0    3
 -- Moldova, Republic of    80    1    1
 -- Belarus    76    0    15
@@ -1889,7 +1891,7 @@
 -- New Zealand    66    0    0
 -- Azerbaijan    65    1    11
 -- Palestine    59    0    17
--- Kazakhstan    57    3    0
+-- Kazakhstan    58    3    0
 -- Senegal    56    0    5
 -- Guadeloupe    56    1    0
 -- Oman    55    0    17
@@ -1897,7 +1899,7 @@
 -- Cambodia    53    0    2
 -- Trinidad and Tobago    50    0    1
 -- Ukraine    47    3    8
--- Réunion    47    0    0
+-- Réunion    47    0    1
 -- Uzbekistan    43    0    0
 -- Cameroon    40    0    2
 -- Liechtenstein    37    0    0
@@ -1923,6 +1925,7 @@
 -- Togo    16    0    1
 -- Montenegro    16    0    0
 -- French Polynesia    15    0    0
+-- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
 -- Barbados    14    0    0
 -- Kyrgyzstan    14    0    0
@@ -1933,7 +1936,6 @@
 -- Mongolia    10    0    0
 -- Gibraltar    10    0    2
 -- Aruba    8    0    1
--- Kenya    7    0    0
 -- Seychelles    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
