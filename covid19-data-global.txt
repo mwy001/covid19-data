@@ -1750,7 +1750,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    24904    94    266
+-- Germany    26159    106    266
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4457    22    21
@@ -1858,7 +1858,7 @@
 -- Netherlands    4216    180    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3631    16    9
+-- Austria    3663    16    9
 -- Belgium    3401    75    340
 -- Norway    2385    7    6
 -- Sweden    1934    24    16
@@ -1914,6 +1914,7 @@
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1604    25    2
 -- Portugal    1600    14    5
+-- Malaysia    1518    14    139
 -- Denmark    1514    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1931,7 +1932,6 @@
 ---- Newfoundland and Labrador    9    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
--- Malaysia    1306    11    139
 -- Israel    1238    1    37
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
@@ -1940,9 +1940,9 @@
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
 -- Thailand    721    1    52
+-- Finland    686    1    10
 -- Poland    649    7    13
 -- Chile    632    1    8
--- Finland    626    1    10
 -- Greece    624    15    19
 -- Indonesia    579    49    30
 -- Iceland    568    5    36
@@ -1983,7 +1983,7 @@
 -- United Arab Emirates    153    2    38
 -- Lithuania    143    1    1
 -- Costa Rica    134    2    2
--- Bosnia and Herzegovina    126    1    2
+-- Bosnia and Herzegovina    128    1    2
 -- Viet Nam    121    0    17
 -- Faroe Islands    118    0    14
 -- North Macedonia    115    1    1
@@ -1994,7 +1994,7 @@
 -- Cyprus    95    1    3
 -- Moldova, Republic of    94    1    2
 -- Malta    90    0    2
--- Albania    89    4    2
+-- Albania    89    5    2
 -- Brunei Darussalam    88    0    2
 -- Sri Lanka    87    0    3
 -- Cambodia    86    0    2
@@ -2005,14 +2005,14 @@
 -- Ukraine    73    3    8
 -- Nigeria    69    0    2
 -- Senegal    67    0    5
+-- Oman    66    0    17
 -- Azerbaijan    65    1    11
 -- Réunion    64    0    1
 -- Kazakhstan    62    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    58    1    0
 -- Cameroon    56    0    2
--- Oman    55    0    17
--- Georgia    54    0    3
+-- Georgia    54    0    8
 -- Trinidad and Tobago    50    0    1
 -- Liechtenstein    46    0    0
 -- Uzbekistan    46    0    0
@@ -2038,11 +2038,11 @@
 -- Rwanda    19    0    0
 -- French Guiana    18    0    0
 -- French Polynesia    18    0    0
+-- Barbados    17    0    0
 -- Togo    16    0    1
 -- Gibraltar    15    0    2
 -- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
--- Barbados    14    0    0
 -- Kyrgyzstan    14    0    0
 -- Maldives    13    0    3
 -- Tanzania, United Republic of    12    0    0
@@ -2059,6 +2059,7 @@
 -- Gabon    5    1    0
 -- Suriname    5    0    0
 -- Isle of Man    5    0    0
+-- Haiti    5    0    0
 -- Eswatini    4    0    0
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
@@ -2085,7 +2086,6 @@
 -- Benin    2    0    0
 -- Nicaragua    2    0    0
 -- Niger    2    0    0
--- Haiti    2    0    0
 -- Angola    2    0    0
 -- Holy See    1    0    0
 -- Antigua and Barbuda    1    0    0
