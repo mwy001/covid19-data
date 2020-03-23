@@ -995,7 +995,7 @@
 ------ Columbia(55021)    5    0    0
 ------ Sauk(55111)    3    0    0
 ------ Dunn(55033)    1    0    0
------- St Croix(55109)    2    0    0
+------ St Croix(55109)    3    0    0
 ------ Rock(55105)    3    0    0
 ------ Fond du Lac(55039)    16    1    0
 ------ Chippewa(55017)    1    0    0
@@ -1102,16 +1102,16 @@
 ------ Highland(39071)    1    0    0
 ------ Logan(39091)    1    0    0
 ------ Sandusky(39143)    1    0    0
----- OR    162    5    0
------- Washington(41067)    55    1    0
------- Linn(41043)    19    1    0
------- Clackamas(41005)    12    0    0
+---- OR    191    5    0
+------ Washington(41067)    69    1    0
+------ Linn(41043)    20    1    0
+------ Clackamas(41005)    14    0    0
 ------ Deschutes(41017)    10    0    0
------- Marion(41047)    22    1    0
------- Multnomah(41051)    19    1    0
+------ Marion(41047)    30    1    0
+------ Multnomah(41051)    21    1    0
 ------ Benton(41003)    4    0    0
 ------ Jackson(41029)    2    0    0
------- Polk(41053)    2    0    0
+------ Polk(41053)    3    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Douglas(41019)    1    0    0
 ------ Klamath(41035)    1    0    0
@@ -1214,32 +1214,32 @@
 ------ Vance(37181)    1    0    0
 ------ Randolph(37151)    1    0    0
 ------ Richmond(37153)    1    0    0
----- MI    1247    15    0
------- Oakland(26125)    277    2    0
+---- MI    1328    16    0
+------ Oakland(26125)    329    4    0
 ------ Wayne(26163)    638    8    0
 ------ Macomb(26099)    175    2    0
 ------ Washtenaw(26161)    42    2    0
------- Kent(26081)    22    2    0
------- Ingham(26065)    11    0    0
+------ Kent(26081)    28    2    0
+------ Ingham(26065)    12    0    0
 ------ Bay(26017)    1    0    0
 ------ Charlevoix(26029)    2    0    0
 ------ Jackson(26075)    1    0    0
 ------ Leelanau(26089)    1    0    0
------- Monroe(26115)    6    0    0
+------ Monroe(26115)    7    0    0
 ------ Montcalm(26117)    1    0    0
------- Otsego(26137)    1    0    0
------- Ottawa(26139)    6    0    0
+------ Otsego(26137)    3    0    0
+------ Ottawa(26139)    11    0    0
 ------ St Clair(26147)    7    0    0
 ------ Clinton(26037)    2    3    0
------- Livingston(26093)    8    0    0
+------ Livingston(26093)    9    0    0
 ------ Midland(26111)    5    0    0
 ------ Eaton(26045)    2    0    0
------- Genesee(26049)    14    0    0
+------ Genesee(26049)    23    0    0
 ------ Isabella(26073)    1    0    0
 ------ Barry(26015)    1    0    0
 ------ Wexford(26165)    1    0    0
 ------ Berrien(26021)    5    0    0
------- Calhoun(26025)    2    0    0
+------ Calhoun(26025)    3    0    0
 ------ Clare(26035)    1    0    0
 ------ Saginaw(26145)    2    0    0
 ------ Tuscola(26157)    1    0    0
@@ -1251,6 +1251,7 @@
 ------ Chippewa(26033)    1    0    0
 ------ Muskegon(26121)    1    0    0
 ------ Kalamazoo(26077)    3    0    0
+------ Newaygo(26123)    1    0    0
 ---- MN    235    1    24
 ------ Hennepin(27053)    89    0    0
 ------ Ramsey(27123)    24    1    0
@@ -1548,7 +1549,7 @@
 ------ Union(05139)    1    0    0
 ------ Woodruff(05147)    1    0    0
 ------ Lawrence(05075)    1    0    0
----- MS    249    1    0
+---- MS    265    1    0
 ------ Hinds(28049)    24    0    0
 ------ Leflore(28083)    9    0    0
 ------ Forrest(28035)    11    0    0
@@ -1653,6 +1654,7 @@
 ------ Lyon(20111)    2    0    0
 ------ Bourbon(20011)    1    0    0
 ------ Crawford(20037)    2    0    0
+------ Pottawatomie(20149)    1    0    0
 ---- VT    75    5    0
 ------ Chittenden(50007)    32    1    0
 ------ Bennington(50003)    4    0    0
@@ -1899,7 +1901,7 @@
 -- Netherlands    4749    213    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4306    21    9
+-- Austria    4468    21    9
 -- Belgium    3743    88    401
 -- Norway    2547    10    6
 -- Portugal    2060    23    14
@@ -1919,7 +1921,7 @@
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
--- Japan    1848    41    235
+-- Japan    1848    42    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -1975,18 +1977,18 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    1518    14    159
--- Israel    1238    1    37
+-- Israel    1442    1    41
 -- Czechia    1236    1    6
 -- Turkey    1236    30    0
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
 -- Luxembourg    875    8    6
 -- Pakistan    873    6    13
+-- Poland    749    8    13
 -- Chile    746    2    11
 -- Thailand    721    1    52
 -- Finland    700    1    10
--- Greece    695    17    19
--- Poland    692    8    13
+-- Greece    695    17    29
 -- Iceland    588    5    51
 -- Indonesia    579    49    30
 -- Romania    576    7    73
@@ -2032,7 +2034,7 @@
 -- Bosnia and Herzegovina    131    1    2
 -- Jordan    127    0    1
 -- Viet Nam    123    0    17
--- Faroe Islands    118    0    14
+-- Faroe Islands    118    0    23
 -- Cyprus    116    1    3
 -- Moldova, Republic of    109    1    2
 -- Malta    107    0    2
@@ -2044,22 +2046,22 @@
 -- Tunisia    89    3    1
 -- Cambodia    87    0    2
 -- Belarus    81    0    22
+-- Senegal    79    0    8
 -- Venezuela, Bolivarian Republic of    77    0    15
 -- Ukraine    73    3    8
 -- Azerbaijan    72    1    11
 -- Réunion    71    0    1
 -- Nigeria    69    1    2
--- Senegal    67    0    5
 -- Oman    66    0    17
 -- Kazakhstan    62    3    0
+-- Guadeloupe    62    1    0
 -- Georgia    61    0    8
 -- Palestine    59    0    17
--- Guadeloupe    58    1    0
 -- Cameroon    56    0    2
+-- Martinique    53    1    0
+-- Liechtenstein    51    0    0
 -- Trinidad and Tobago    51    0    1
--- Liechtenstein    46    0    0
 -- Uzbekistan    46    0    0
--- Martinique    44    1    0
 -- Afghanistan    40    1    1
 -- Cuba    40    1    0
 -- Mauritius    36    2    0
@@ -2072,13 +2074,13 @@
 -- Montenegro    27    1    0
 -- Macao    25    0    10
 -- Ghana    24    1    8
+-- Mayotte    24    0    0
 -- Monaco    23    0    1
 -- Paraguay    22    1    0
--- Mayotte    21    0    0
 -- French Guiana    20    0    6
+-- Guyana    20    1    0
 -- Guatemala    20    1    0
 -- Jamaica    19    1    2
--- Guyana    19    1    0
 -- Rwanda    19    0    0
 -- Togo    18    0    1
 -- French Polynesia    18    0    0
@@ -2096,22 +2098,23 @@
 -- Mongolia    10    0    0
 -- Aruba    9    0    1
 -- Equatorial Guinea    9    0    0
+-- Saint Martin (French part)    8    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
--- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
 -- Guinea    4    0    0
+-- Namibia    4    0    0
 -- Eswatini    4    0    0
 -- Curaçao    4    1    0
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
 -- Congo    3    0    0
+-- Antigua and Barbuda    3    0    0
 -- Cayman Islands    3    1    0
 -- Saint Lucia    3    0    0
--- Namibia    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Central African Republic    3    0    0
 -- Liberia    3    0    0
@@ -2133,7 +2136,6 @@
 -- Niger    2    0    0
 -- Myanmar    2    0    0
 -- Holy See    1    0    0
--- Antigua and Barbuda    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
 -- Somalia    1    0    0
