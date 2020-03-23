@@ -572,7 +572,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    1    0    0
----- CA    1829    35    6
+---- CA    1829    35    7
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
 ------ San Mateo(06081)    117    1    0
@@ -1581,7 +1581,7 @@
 ------ Yuma(04027)    1    0    0
 ------ Cochise(04003)    1    0    0
 ------ Apache(04001)    3    0    0
----- OK    67    2    1
+---- OK    68    2    1
 ------ Oklahoma(40109)    26    0    0
 ------ Tulsa(40143)    6    1    0
 ------ Cleveland(40027)    13    0    0
@@ -1599,6 +1599,7 @@
 ------ Garvin(40049)    2    0    0
 ------ Muskogee(40101)    1    0    0
 ------ Noble(40103)    1    0    0
+------ Pontotoc(40123)    1    0    0
 ---- KS    67    2    0
 ------ Johnson(20091)    28    1    0
 ------ Wyandotte(20209)    14    1    0
@@ -1632,7 +1633,7 @@
 ------ Sussex(10005)    12    0    0
 ------ Kent(10001)    5    0    0
 ---- MO    150    5    0
------- Greene(29077)    10    0    0
+------ Greene(29077)    14    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
 ------ Cole(29051)    4    0    0
@@ -1650,6 +1651,9 @@
 ------ Bates(29013)    1    0    0
 ------ Johnson(29101)    1    1    0
 ------ St Francois(29187)    1    0    0
+------ Camden(29029)    1    0    0
+------ Moniteau(29135)    1    0    0
+------ Perry(29157)    1    0    0
 ---- HI    56    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -1703,10 +1707,11 @@
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    1    0    0
----- AK    22    0    0
+---- AK    32    0    0
 ------ Fairbanks North Star(02090)    7    0    0
------- Anchorage(02020)    6    0    0
+------ Anchorage(02020)    13    0    0
 ------ Ketchikan Gateway(02130)    6    0    0
+------ Juneau(02110)    1    0    0
 ---- WV    16    0    0
 ------ Jefferson(54037)    3    0    0
 ------ Mercer(54055)    2    0    0
@@ -1898,7 +1903,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
--- Australia    1629    7    88
+-- Australia    1709    7    88
 ---- New South Wales    533    6    4
 ---- Victoria    296    0    70
 ---- Queensland    221    0    8
@@ -1931,9 +1936,9 @@
 -- Czechia    1120    1    6
 -- Israel    1071    1    37
 -- Ireland    906    4    5
+-- Pakistan    799    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
--- Pakistan    776    5    13
 -- Thailand    721    1    52
 -- Poland    634    7    13
 -- Chile    632    1    8
@@ -1945,11 +1950,11 @@
 -- Qatar    494    0    33
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
+-- Russian Federation    438    1    16
 -- Romania    433    3    64
 -- India    425    8    27
 -- Slovenia    414    2    0
--- Philippines    380    25    17
--- Russian Federation    367    1    16
+-- Philippines    396    33    18
 -- Peru    363    5    1
 -- Bahrain    334    2    149
 -- Egypt    327    14    56
@@ -1972,18 +1977,18 @@
 -- Slovakia    185    1    7
 -- San Marino    175    20    4
 -- Taiwan    169    2    28
+-- Hungary    167    7    16
 -- Uruguay    158    0    0
 -- United Arab Emirates    153    2    38
 -- Lithuania    143    1    1
 -- Latvia    139    0    1
 -- Costa Rica    134    2    2
--- Hungary    131    6    16
 -- Bosnia and Herzegovina    126    1    2
+-- Viet Nam    116    0    17
 -- North Macedonia    115    1    1
 -- Morocco    115    4    3
 -- Faroe Islands    115    0    3
 -- Andorra    113    1    1
--- Viet Nam    113    0    17
 -- Jordan    112    0    1
 -- New Zealand    102    0    0
 -- Cyprus    95    1    3
@@ -1991,13 +1996,13 @@
 -- Malta    90    0    2
 -- Albania    89    2    2
 -- Brunei Darussalam    88    0    2
+-- Cambodia    86    0    2
 -- Sri Lanka    86    0    3
--- Cambodia    84    0    2
+-- Venezuela, Bolivarian Republic of    77    0    15
 -- Belarus    76    0    15
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
 -- Ukraine    73    3    8
--- Venezuela, Bolivarian Republic of    70    0    15
 -- Nigeria    69    0    2
 -- Senegal    67    0    5
 -- Azerbaijan    65    1    11
@@ -2025,7 +2030,7 @@
 -- Puerto Rico    23    1    0
 -- Paraguay    22    1    0
 -- Macao    22    0    10
--- Montenegro    21    0    0
+-- Montenegro    22    1    0
 -- Jamaica    19    1    2
 -- Guyana    19    1    0
 -- Guatemala    19    1    0
@@ -2065,6 +2070,7 @@
 -- Liberia    3    0    0
 -- Zambia    3    0    0
 -- El Salvador    3    0    0
+-- Fiji    3    0    0
 -- Cabo Verde    3    0    0
 -- Madagascar    3    0    0
 -- Zimbabwe    3    0    0
@@ -2077,7 +2083,6 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Benin    2    0    0
--- Fiji    2    0    0
 -- Nicaragua    2    0    0
 -- Niger    2    0    0
 -- Haiti    2    0    0
