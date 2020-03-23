@@ -1750,24 +1750,24 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    26159    106    266
+-- Germany    26159    111    266
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
----- Free State of Bavaria    4457    22    21
----- Berlin    1071    1    6
+---- Free State of Bavaria    4892    26    21
+---- Berlin    1077    2    6
 ---- Brandenburg    353    1    1
 ---- Thuringia    328    1    27
----- Schleswig-Holstein    436    1    0
+---- Schleswig-Holstein    467    1    0
 ---- Lower Saxony    1586    4    6
 ---- Bremen    173    0    3
----- Hamburg    887    1    1
----- Rhineland-Palatinate    1149    2    1
----- North Rhine-Westphalia    7361    33    163
----- Hesse    1267    3    6
+---- Hamburg    943    1    1
+---- Rhineland-Palatinate    1177    2    1
+---- North Rhine-Westphalia    8011    40    163
+---- Hesse    1347    3    6
 ---- Baden-Württemberg    4300    23    29
 ---- Saxony-Anhalt    269    1    0
 ---- Saarland    318    1    0
--- Iran, Islamic Republic of    21638    1685    7931
+-- Iran, Islamic Republic of    21638    1812    7931
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -1858,16 +1858,16 @@
 -- Netherlands    4216    180    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3663    16    9
+-- Austria    3679    16    9
 -- Belgium    3401    75    340
--- Norway    2385    7    6
+-- Norway    2385    8    6
 -- Sweden    1934    24    16
 -- Japan    1848    41    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    27    0    0
----- Gifu    7    0    0
+---- Gifu    8    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
 ---- Kumamoto    7    0    0
@@ -1878,10 +1878,10 @@
 ---- Wakayama    17    1    2
 ---- Kyoto    24    0    2
 ---- Osaka    131    2    1
----- Chiba    44    0    0
+---- Chiba    47    0    0
 ---- Kanagawa    77    4    1
 ---- Shizuoka    3    0    0
----- Aichi    143    16    2
+---- Aichi    144    17    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -1891,7 +1891,7 @@
 ---- oita    21    0    0
 ---- Yamaguchi    4    0    0
 ---- Miyazaki    3    0    0
----- Shiga    4    0    0
+---- Shiga    5    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    3    0    0
@@ -1914,7 +1914,7 @@
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1604    25    2
 -- Portugal    1600    14    5
--- Malaysia    1518    14    139
+-- Malaysia    1518    14    159
 -- Denmark    1514    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1943,7 +1943,7 @@
 -- Finland    686    1    10
 -- Poland    649    7    13
 -- Chile    632    1    8
--- Greece    624    15    19
+-- Greece    624    16    19
 -- Indonesia    579    49    30
 -- Iceland    568    5    36
 -- Saudi Arabia    511    0    17
@@ -1952,7 +1952,7 @@
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
 -- Russian Federation    438    1    16
--- Romania    433    3    64
+-- Romania    433    4    64
 -- India    425    8    27
 -- Slovenia    414    3    0
 -- Peru    363    5    1
@@ -1980,22 +1980,22 @@
 -- San Marino    175    20    4
 -- Hungary    167    7    16
 -- Uruguay    158    0    0
+-- Lithuania    154    1    1
 -- United Arab Emirates    153    2    38
--- Lithuania    143    1    1
 -- Costa Rica    134    2    2
 -- Bosnia and Herzegovina    128    1    2
+-- Morocco    122    4    3
 -- Viet Nam    121    0    17
 -- Faroe Islands    118    0    14
 -- North Macedonia    115    1    1
--- Morocco    115    4    3
 -- Andorra    113    1    1
 -- Jordan    112    0    1
 -- New Zealand    102    0    0
 -- Cyprus    95    1    3
 -- Moldova, Republic of    94    1    2
+-- Brunei Darussalam    91    0    2
 -- Malta    90    0    2
 -- Albania    89    5    2
--- Brunei Darussalam    88    0    2
 -- Sri Lanka    87    0    3
 -- Cambodia    86    0    2
 -- Venezuela, Bolivarian Republic of    77    0    15
@@ -2003,7 +2003,7 @@
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
 -- Ukraine    73    3    8
--- Nigeria    69    0    2
+-- Nigeria    69    1    2
 -- Senegal    67    0    5
 -- Oman    66    0    17
 -- Azerbaijan    65    1    11
@@ -2019,9 +2019,9 @@
 -- Martinique    44    1    0
 -- Afghanistan    40    1    1
 -- Cuba    35    1    0
+-- Bangladesh    33    3    3
 -- Congo, Democratic Republic of the    30    1    0
 -- Mauritius    28    2    0
--- Bangladesh    27    2    3
 -- Bolivia, Plurinational State of    27    0    0
 -- Guam    27    1    0
 -- Honduras    26    0    0
@@ -2044,7 +2044,7 @@
 -- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
 -- Kyrgyzstan    14    0    0
--- Maldives    13    0    3
+-- Maldives    13    0    5
 -- Tanzania, United Republic of    12    0    0
 -- Madagascar    12    0    0
 -- Ethiopia    11    0    4
