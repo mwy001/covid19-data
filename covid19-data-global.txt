@@ -489,7 +489,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    43135    634    182
+-- United States of America    43181    634    182
 ---- NY    22768    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -574,7 +574,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    2    0    0
----- CA    2110    39    7
+---- CA    2113    39    7
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    536    7    0
 ------ San Mateo(06081)    142    1    0
@@ -601,7 +601,7 @@
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    6    0    0
 ------ Imperial(06025)    6    0    0
------- Monterey(06053)    11    1    0
+------ Monterey(06053)    14    1    0
 ------ Santa Barbara(06083)    18    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
@@ -871,17 +871,17 @@
 ------ Morgan(13211)    1    0    0
 ------ Pierce(13229)    1    0    0
 ------ Washington(13303)    1    0    0
----- TX    725    10    15
+---- TX    734    10    15
 ------ Dallas(48113)    155    5    0
 ------ Travis(48453)    79    0    0
------- Harris(48201)    74    1    0
+------ Harris(48201)    77    1    0
 ------ Bexar(48029)    46    1    0
 ------ Fort Bend(48157)    29    0    0
 ------ Collin(48085)    38    1    0
 ------ Tarrant(48439)    57    1    0
 ------ Smith(48423)    10    0    0
 ------ Montgomery(48339)    15    0    0
------- Bell(48027)    10    0    0
+------ Bell(48027)    16    0    0
 ------ El Paso(48141)    9    0    0
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    16    0    0
@@ -940,8 +940,8 @@
 ------ Gaines(48165)    1    0    0
 ------ Erath(48143)    1    0    0
 ------ Eastland(48133)    1    0    0
----- PA    645    6    0
------- Montgomery(42091)    129    1    0
+---- PA    651    6    0
+------ Montgomery(42091)    136    1    0
 ------ Philadelphia(42101)    128    0    0
 ------ Allegheny(42003)    48    1    0
 ------ Cumberland(42041)    12    0    0
@@ -1170,7 +1170,7 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    349    0    0
+---- NC    352    0    0
 ------ Wake(37183)    52    0    0
 ------ Durham(37063)    41    0    0
 ------ Mecklenburg(37119)    97    0    0
@@ -1189,7 +1189,7 @@
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    2    0    0
------- Wilson(37195)    3    0    0
+------ Wilson(37195)    4    0    0
 ------ Gaston(37071)    4    0    0
 ------ New Hanover(37129)    5    0    0
 ------ Union(37179)    13    0    0
@@ -1221,6 +1221,8 @@
 ------ Randolph(37151)    1    0    0
 ------ Richmond(37153)    1    0    0
 ------ Hertford(37091)    1    0    0
+------ Jackson(37099)    1    0    0
+------ Transylvania(37175)    1    0    0
 ---- MI    1328    16    0
 ------ Oakland(26125)    329    4    0
 ------ Wayne(26163)    638    8    0
@@ -1314,8 +1316,8 @@
 ------ Cecil(24015)    1    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    1    0    0
----- NV    245    2    0
------- Clark(32003)    126    2    0
+---- NV    245    4    0
+------ Clark(32003)    126    4    0
 ------ Washoe(32031)    25    0    0
 ------ Carson City(32510)    3    0    0
 ------ Elko(32007)    2    0    0
@@ -1468,7 +1470,7 @@
 ------ Poweshiek(19157)    1    0    0
 ------ Hancock(19081)    2    0    0
 ------ Wapello(19179)    1    0    0
----- KY    104    5    2
+---- KY    128    5    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    11    0    0
 ------ Harrison(21097)    7    0    0
@@ -1489,10 +1491,13 @@
 ------ Hardin(21093)    1    1    0
 ------ Oldham(21185)    1    0    0
 ------ Breathitt(21025)    1    0    0
------- Madison(21151)    1    0    0
+------ Madison(21151)    2    0    0
 ------ Menifee(21165)    1    1    0
 ------ Spencer(21215)    1    0    0
 ------ Woodford(21239)    1    0    0
+------ Jessamine(21113)    1    0    0
+------ Martin(21159)    1    0    0
+------ Muhlenberg(21177)    2    0    0
 ---- NH    101    1    0
 ------ Rockingham(33015)    28    0    0
 ------ Grafton(33009)    15    0    0
@@ -1808,7 +1813,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    29056    118    422
+-- Germany    29056    123    453
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1916,12 +1921,11 @@
 -- Netherlands    4749    213    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4468    21    9
+-- Austria    4474    21    9
 -- Belgium    3743    88    401
 -- Norway    2547    10    6
 -- Portugal    2060    23    14
--- Sweden    2046    25    16
--- Canada    2035    23    320
+-- Canada    2049    23    320
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
 ---- Alberta    259    1    0
@@ -1936,6 +1940,8 @@
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
+-- Sweden    2046    25    16
+-- Brazil    1891    34    2
 -- Japan    1848    42    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
@@ -1987,7 +1993,6 @@
 ---- Tasmania    22    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
--- Brazil    1696    34    2
 -- Denmark    1540    24    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2028,8 +2033,8 @@
 -- Lebanon    267    4    8
 -- Iraq    266    23    62
 -- Argentina    266    4    27
--- Serbia    249    2    3
--- Dominican Republic    245    3    0
+-- Serbia    249    3    3
+-- Dominican Republic    245    3    3
 -- Armenia    235    0    2
 -- Algeria    230    17    65
 -- Bulgaria    201    3    3
@@ -2086,9 +2091,9 @@
 -- Guam    29    1    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Honduras    27    0    0
+-- Ghana    27    2    8
 -- Montenegro    27    1    0
 -- Macao    25    0    10
--- Ghana    24    1    8
 -- Mayotte    24    0    0
 -- Monaco    23    0    1
 -- Paraguay    22    1    0
@@ -2113,11 +2118,13 @@
 -- Mongolia    10    0    0
 -- Aruba    9    0    1
 -- Equatorial Guinea    9    0    0
+-- Uganda    9    0    0
 -- Saint Martin (French part)    8    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
+-- Cayman Islands    5    1    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
 -- Congo    4    0    0
@@ -2128,7 +2135,6 @@
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
 -- Antigua and Barbuda    3    0    0
--- Cayman Islands    3    1    0
 -- Saint Lucia    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Central African Republic    3    0    0
@@ -2160,7 +2166,6 @@
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
 -- Eritrea    1    0    0
--- Uganda    1    0    0
 -- Mozambique    1    0    0
 -- Grenada    1    0    0
 -- Dominica    1    0    0
