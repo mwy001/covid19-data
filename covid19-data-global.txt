@@ -489,7 +489,7 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    41601    509    182
+-- United States of America    41725    509    182
 ---- NY    22768    153    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -867,7 +867,7 @@
 ------ Madison(13195)    1    0    0
 ------ Morgan(13211)    1    0    0
 ------ Pierce(13229)    1    0    0
----- TX    693    8    15
+---- TX    700    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
@@ -897,7 +897,7 @@
 ------ Comal(48091)    3    0    0
 ------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
------- Williamson(48491)    13    0    0
+------ Williamson(48491)    14    0    0
 ------ Fannin(48147)    1    0    0
 ------ Jefferson(48245)    3    0    0
 ------ Cameron(48061)    6    0    0
@@ -931,10 +931,11 @@
 ------ Walker(48471)    1    0    0
 ------ Maverick(48323)    1    0    0
 ------ Parker(48367)    1    0    0
------- Grayson(48181)    1    0    0
+------ Grayson(48181)    2    0    0
 ------ Orange(48361)    1    0    0
 ------ Gaines(48165)    1    0    0
 ------ Erath(48143)    1    0    0
+------ Eastland(48133)    1    0    0
 ---- PA    645    6    0
 ------ Montgomery(42091)    129    1    0
 ------ Philadelphia(42101)    128    0    0
@@ -1158,7 +1159,7 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    333    0    0
+---- NC    334    0    0
 ------ Wake(37183)    52    0    0
 ------ Durham(37063)    41    0    0
 ------ Mecklenburg(37119)    97    0    0
@@ -1180,7 +1181,7 @@
 ------ Wilson(37195)    3    0    0
 ------ Gaston(37071)    4    0    0
 ------ New Hanover(37129)    5    0    0
------- Union(37179)    12    0    0
+------ Union(37179)    13    0    0
 ------ Moore(37125)    2    0    0
 ------ Buncombe(37021)    4    0    0
 ------ Hoke(37093)    1    0    0
@@ -1424,22 +1425,22 @@
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    2    0    0
 ------ Ripley(18137)    1    0    0
----- IA    94    0    0
------- Johnson(19103)    32    0    0
+---- IA    100    0    0
+------ Johnson(19103)    35    0    0
 ------ Dallas(19049)    6    0    0
 ------ Allamakee(19005)    6    0    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    3    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    3    0    0
------- Polk(19153)    10    0    0
+------ Polk(19153)    11    0    0
 ------ Pottawattamie(19155)    2    0    0
 ------ Washington(19183)    3    0    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    1    0    0
 ------ Dubuque(19061)    5    0    0
------- Muscatine(19139)    2    0    0
------- Linn(19113)    4    0    0
+------ Muscatine(19139)    3    0    0
+------ Linn(19113)    5    0    0
 ------ Fayette(19065)    1    0    0
 ------ Henry(19087)    1    0    0
 ------ Story(19169)    1    0    0
@@ -1502,13 +1503,13 @@
 ------ Dona Ana(35013)    4    0    0
 ------ Lea(35025)    1    0    0
 ------ San Juan(35045)    1    0    0
----- RI    84    0    0
------- Providence(44007)    44    0    0
+---- RI    106    0    0
+------ Providence(44007)    52    0    0
 ------ Washington(44009)    9    0    0
------- Newport(44005)    8    0    0
------- Bristol(44001)    14    0    0
+------ Newport(44005)    9    0    0
+------ Bristol(44001)    24    0    0
 ------ Kent(44003)    7    0    0
----- AR    168    6    0
+---- AR    169    6    0
 ------ Jefferson(05069)    20    0    0
 ------ Pulaski(05119)    54    0    0
 ------ Cleburne(05023)    25    0    0
@@ -1539,6 +1540,7 @@
 ------ Sebastian(05131)    1    0    0
 ------ Union(05139)    1    0    0
 ------ Woodruff(05147)    1    0    0
+------ Lawrence(05075)    1    0    0
 ---- MS    249    1    0
 ------ Hinds(28049)    20    0    0
 ------ Leflore(28083)    8    0    0
@@ -1641,16 +1643,17 @@
 ------ Mitchell(20123)    1    0    0
 ------ Lyon(20111)    2    0    0
 ------ Bourbon(20011)    1    0    0
----- VT    54    2    0
------- Chittenden(50007)    22    1    0
+---- VT    72    5    0
+------ Chittenden(50007)    32    1    0
 ------ Bennington(50003)    4    0    0
------- Windsor(50027)    9    1    0
+------ Windsor(50027)    12    1    0
 ------ Orange(50017)    4    0    0
------- Washington(50023)    2    0    0
------- Addison(50001)    3    0    0
------- Rutland(50021)    3    0    0
+------ Washington(50023)    3    0    0
+------ Addison(50001)    6    0    0
+------ Rutland(50021)    4    0    0
 ------ Franklin(50011)    2    0    0
 ------ Windham(50025)    5    0    0
+------ Lamoille(50015)    1    0    0
 ---- DE    68    0    0
 ------ New Castle(10003)    44    0    0
 ------ Sussex(10005)    18    0    0
@@ -1738,14 +1741,14 @@
 ------ Anchorage(02020)    13    0    0
 ------ Ketchikan Gateway(02130)    6    0    0
 ------ Juneau(02110)    1    0    0
----- WV    16    0    0
+---- WV    82    0    0
 ------ Jefferson(54037)    3    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
 ------ Monongalia(54061)    2    0    0
 ------ Jackson(54035)    1    0    0
 ------ Kanawha(54039)    3    0    0
------- Marshall(54051)    2    0    0
+------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    31    1    0
@@ -1755,7 +1758,7 @@
 ---- PR    31    2    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
--- Spain    33089    2206    3355
+-- Spain    33089    2207    3355
 ---- Andalusia    1515    40    0
 ---- Aragon    424    22    0
 ---- Balearic Islands    246    4    2
@@ -1776,7 +1779,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    28798    116    422
+-- Germany    28865    118    422
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1941,7 +1944,7 @@
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1629    25    2
--- Canada    1563    21    18
+-- Canada    1610    23    18
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
 ---- Alberta    259    1    0
@@ -1974,11 +1977,11 @@
 -- Poland    692    8    13
 -- Iceland    588    5    51
 -- Indonesia    579    49    30
--- Romania    576    5    73
+-- Romania    576    6    73
 -- Saudi Arabia    562    0    19
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
--- Qatar    494    0    33
+-- Qatar    501    0    33
 -- India    468    9    34
 -- Philippines    462    33    18
 -- Slovenia    442    3    0
@@ -2010,8 +2013,8 @@
 -- Hungary    167    7    16
 -- Lithuania    160    1    1
 -- Uruguay    158    0    0
+-- Morocco    143    4    3
 -- North Macedonia    136    2    1
--- Morocco    134    4    3
 -- Costa Rica    134    2    2
 -- Andorra    133    1    1
 -- Bosnia and Herzegovina    130    1    2
@@ -2095,6 +2098,7 @@
 -- Greenland    4    0    0
 -- Congo    3    0    0
 -- Cayman Islands    3    1    0
+-- Saint Lucia    3    0    0
 -- Namibia    3    0    0
 -- Saint Barthélemy    3    0    0
 -- Central African Republic    3    0    0
@@ -2107,7 +2111,6 @@
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
--- Saint Lucia    2    0    0
 -- Sudan    2    1    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
@@ -2116,6 +2119,7 @@
 -- Nicaragua    2    0    0
 -- Niger    2    0    0
 -- Angola    2    0    0
+-- Myanmar    2    0    0
 -- Holy See    1    0    0
 -- Antigua and Barbuda    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
