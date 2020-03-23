@@ -858,7 +858,7 @@
 ------ Twiggs(13289)    1    0    0
 ------ Coffee(13069)    1    0    0
 ------ Tattnall(13267)    1    0    0
----- TX    670    8    15
+---- TX    674    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
@@ -867,14 +867,14 @@
 ------ Collin(48085)    38    1    0
 ------ Tarrant(48439)    47    1    0
 ------ Smith(48423)    10    0    0
------- Montgomery(48339)    13    0    0
+------ Montgomery(48339)    15    0    0
 ------ Bell(48027)    10    0    0
 ------ El Paso(48141)    9    0    0
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    14    0    0
------- Galveston(48167)    11    0    0
+------ Galveston(48167)    12    0    0
 ------ Lubbock(48303)    9    0    0
------- Matagorda(48321)    3    1    0
+------ Matagorda(48321)    4    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    12    0    0
 ------ Denton(48121)    30    0    0
@@ -1258,28 +1258,28 @@
 ------ Steele(27147)    3    0    0
 ------ Wabasha(27157)    1    0    0
 ------ Cass(27021)    1    0    0
----- MD    251    3    4
------- Montgomery(24031)    83    1    0
+---- MD    288    3    4
+------ Montgomery(24031)    94    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    28    1    0
------- Howard(24027)    24    0    0
+------ Baltimore(24005)    35    1    0
+------ Howard(24027)    26    0    0
 ------ Anne Arundel(24003)    20    0    0
------- Carroll(24013)    4    0    0
+------ Carroll(24013)    5    0    0
 ------ Harford(24025)    5    0    0
 ------ Charles(24017)    5    0    0
 ------ Frederick(24021)    2    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    2    0    0
 ------ Baltimore City(24510)    24    0    0
------- Wicomico(24045)    2    0    0
+------ Wicomico(24045)    4    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    40    1    0
+------ Prince Georges(24033)    47    1    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
 ------ Washington(24043)    2    0    0
 ------ Cecil(24015)    1    0    0
------- Garrett(24023)    2    0    0
+------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    1    0    0
 ---- NV    191    2    0
 ------ Clark(32003)    126    2    0
@@ -1364,7 +1364,7 @@
 ------ Sagadahoc(23023)    3    0    0
 ---- DC    120    3    0
 ------ District of Columbia(11001)    120    2    0
----- IN    205    7    0
+---- IN    260    7    0
 ------ Marion(18097)    82    3    0
 ------ Hendricks(18063)    8    0    0
 ------ Johnson(18081)    12    1    0
@@ -1488,9 +1488,9 @@
 ------ Newport(44005)    8    0    0
 ------ Bristol(44001)    14    0    0
 ------ Kent(44003)    7    0    0
----- AR    165    6    0
+---- AR    167    6    0
 ------ Jefferson(05069)    20    0    0
------- Pulaski(05119)    52    0    0
+------ Pulaski(05119)    54    0    0
 ------ Cleburne(05023)    25    0    0
 ------ Cleveland(05025)    3    0    0
 ------ Desha(05041)    2    0    0
@@ -1661,7 +1661,7 @@
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Hawaii(15001)    1    0    0
----- SD    21    1    0
+---- SD    28    1    0
 ------ Minnehaha(46099)    5    0    0
 ------ Beadle(46005)    10    0    0
 ------ Bon Homme(46009)    1    0    0
@@ -1728,7 +1728,7 @@
 ---- Others    68    3    0
 ---- GU    27    1    0
 ------ Guam(66010)    27    1    0
----- PR    23    1    0
+---- PR    31    2    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
 -- Spain    33089    2206    3355
@@ -1752,7 +1752,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    27181    113    422
+-- Germany    27289    115    422
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1860,11 +1860,11 @@
 -- Netherlands    4749    213    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3923    16    9
+-- Austria    3977    21    9
 -- Belgium    3743    88    401
--- Norway    2538    9    6
+-- Norway    2541    9    6
 -- Portugal    2060    23    14
--- Sweden    2038    25    16
+-- Sweden    2046    25    16
 -- Japan    1848    41    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
@@ -1917,10 +1917,10 @@
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1620    25    2
--- Malaysia    1518    14    159
--- Denmark    1514    24    1
+-- Denmark    1540    24    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Malaysia    1518    14    159
 -- Canada    1472    21    14
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
@@ -1935,6 +1935,7 @@
 ---- Newfoundland and Labrador    9    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
+---- Yukon    2    0    0
 -- Israel    1238    1    37
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
@@ -1942,7 +1943,7 @@
 -- Pakistan    873    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
--- Chile    746    2    8
+-- Chile    746    2    11
 -- Thailand    721    1    52
 -- Finland    700    1    10
 -- Poland    684    8    13
@@ -1958,7 +1959,7 @@
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
 -- India    433    8    27
--- South Africa    402    0    2
+-- South Africa    402    0    4
 -- Peru    363    5    1
 -- Hong Kong    356    4    100
 -- Estonia    352    0    4
@@ -1989,7 +1990,7 @@
 -- Morocco    134    4    3
 -- Costa Rica    134    2    2
 -- Andorra    133    1    1
--- Bosnia and Herzegovina    128    1    2
+-- Bosnia and Herzegovina    130    1    2
 -- Viet Nam    123    0    17
 -- Faroe Islands    118    0    14
 -- Jordan    112    0    1
@@ -2043,9 +2044,9 @@
 -- Togo    18    0    1
 -- French Polynesia    18    0    0
 -- Barbados    17    0    0
+-- Kenya    16    0    0
 -- Kyrgyzstan    16    0    0
 -- Gibraltar    15    0    5
--- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
 -- Maldives    13    0    5
 -- Tanzania, United Republic of    12    0    0
