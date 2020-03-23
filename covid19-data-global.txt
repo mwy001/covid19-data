@@ -1729,7 +1729,7 @@
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
--- Spain    29909    1813    2575
+-- Spain    33089    2182    3355
 ---- Andalusia    1515    40    0
 ---- Aragon    424    22    0
 ---- Balearic Islands    246    4    2
@@ -1750,7 +1750,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    26198    111    266
+-- Germany    26220    111    266
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1844,7 +1844,7 @@
 ---- Seoul    330    0    64
 ---- Ulsan    36    0    17
 ---- 未确定地区    23    3    0
--- Switzerland    7806    100    131
+-- Switzerland    8234    102    131
 -- United Kingdom of Great Britain and Northern Ireland    5741    282    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1858,8 +1858,8 @@
 -- Netherlands    4216    180    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    3759    16    9
 -- Belgium    3743    88    350
--- Austria    3679    16    9
 -- Norway    2415    8    6
 -- Sweden    1934    25    16
 -- Japan    1848    41    235
@@ -1912,7 +1912,7 @@
 ---- Tasmania    22    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
--- Brazil    1604    25    2
+-- Brazil    1619    25    2
 -- Portugal    1600    14    5
 -- Malaysia    1518    14    159
 -- Denmark    1514    13    1
@@ -1943,16 +1943,16 @@
 -- Finland    686    1    10
 -- Poland    649    7    13
 -- Chile    632    1    8
--- Greece    624    16    19
+-- Greece    624    17    19
 -- Indonesia    579    49    30
+-- Romania    576    4    73
 -- Iceland    568    5    36
 -- Saudi Arabia    511    0    17
 -- Qatar    494    0    33
 -- Philippines    462    33    18
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
--- Russian Federation    438    1    16
--- Romania    433    4    64
+-- Russian Federation    438    1    17
 -- India    425    8    27
 -- Slovenia    414    3    0
 -- Peru    363    5    1
@@ -1965,7 +1965,7 @@
 -- Croatia    306    1    5
 -- South Africa    274    0    2
 -- Argentina    266    4    27
--- Lebanon    248    4    8
+-- Lebanon    256    4    8
 -- Colombia    235    2    3
 -- Iraq    233    20    57
 -- Serbia    222    2    2
@@ -1975,7 +1975,7 @@
 -- Armenia    194    0    2
 -- Bulgaria    190    3    3
 -- Kuwait    189    0    30
--- Slovakia    185    1    7
+-- Slovakia    186    1    7
 -- Latvia    180    0    1
 -- San Marino    175    20    4
 -- Hungary    167    7    16
@@ -1998,8 +1998,8 @@
 -- Albania    89    5    2
 -- Sri Lanka    87    0    3
 -- Cambodia    86    0    2
+-- Belarus    81    0    22
 -- Venezuela, Bolivarian Republic of    77    0    15
--- Belarus    76    0    15
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
 -- Ukraine    73    3    8
@@ -2020,15 +2020,15 @@
 -- Afghanistan    40    1    1
 -- Cuba    35    1    0
 -- Bangladesh    33    3    3
+-- Puerto Rico    31    2    0
 -- Congo, Democratic Republic of the    30    1    0
 -- Guam    29    1    0
 -- Mauritius    28    2    0
 -- Bolivia, Plurinational State of    27    0    0
--- Honduras    26    0    0
+-- Honduras    27    0    0
 -- Ghana    24    1    8
 -- Macao    24    0    10
 -- Monaco    23    0    1
--- Puerto Rico    23    1    0
 -- Paraguay    22    1    0
 -- Montenegro    22    1    0
 -- Mayotte    21    0    0
@@ -2060,6 +2060,7 @@
 -- Suriname    5    0    0
 -- Isle of Man    5    0    0
 -- Haiti    5    0    0
+-- Guinea    4    0    0
 -- Eswatini    4    0    0
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
@@ -2077,7 +2078,6 @@
 -- Zimbabwe    3    0    0
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
--- Guinea    2    0    0
 -- Mauritania    2    0    0
 -- Saint Lucia    2    0    0
 -- Sudan    2    1    0
