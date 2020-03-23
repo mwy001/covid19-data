@@ -1,4 +1,4 @@
--- 中国    81604    3276    72842
+-- 中国    81649    3276    72846
 ---- 四川    543    3    536
 ------ 成都    148    3    141
 ------ 甘孜州    78    0    78
@@ -35,10 +35,10 @@
 ------ 省十里丰监狱    36    0    36
 ------ 衢州    14    0    14
 ------ 舟山    10    0    10
----- 北京    522    8    400
+---- 北京    537    8    400
 ------ 朝阳区    72    0    0
 ------ 海淀区    63    0    0
------- 境外输入人员    107    0    8
+------ 境外输入人员    122    0    8
 ------ 西城区    53    0    0
 ------ 丰台区    43    0    3
 ------ 大兴区    39    0    16
@@ -244,7 +244,7 @@
 ------ 临夏    3    0    3
 ------ 张掖    2    0    2
 ------ 金昌    1    0    1
----- 天津    137    3    133
+---- 天津    141    3    133
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
 ------ 河北区    12    0    12
@@ -260,7 +260,7 @@
 ------ 武清区    2    0    2
 ------ 红桥区    2    0    2
 ------ 津南区    2    0    2
------- 境外输入人员    1    0    0
+------ 境外输入人员    5    0    0
 ---- 重庆    577    6    570
 ------ 万州区    118    4    114
 ------ 江北区    28    0    28
@@ -449,10 +449,10 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 香港    317    4    100
----- 湖北    67800    3153    59879
+---- 湖北    67800    3153    59882
 ------ 武汉    50005    2517    42788
 ------ 孝感    3518    128    3369
------- 鄂州    1394    59    1323
+------ 鄂州    1394    59    1326
 ------ 随州    1307    45    1253
 ------ 荆州    1580    51    1525
 ------ 荆门    928    39    884
@@ -1729,7 +1729,7 @@
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
--- Spain    28768    1772    2575
+-- Spain    29909    1813    2575
 ---- Andalusia    1515    40    0
 ---- Aragon    424    22    0
 ---- Balearic Islands    246    4    2
@@ -1844,7 +1844,7 @@
 ---- Seoul    330    0    64
 ---- Ulsan    36    0    17
 ---- 未确定地区    23    3    0
--- Switzerland    7474    98    131
+-- Switzerland    7724    98    131
 -- United Kingdom of Great Britain and Northern Ireland    5741    282    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1858,7 +1858,7 @@
 -- Netherlands    4216    180    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3582    16    9
+-- Austria    3627    16    9
 -- Belgium    3401    75    340
 -- Norway    2385    7    6
 -- Sweden    1934    21    16
@@ -1931,7 +1931,7 @@
 ---- Newfoundland and Labrador    9    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
--- Malaysia    1306    10    139
+-- Malaysia    1306    11    139
 -- Israel    1238    1    37
 -- Turkey    1236    30    0
 -- Czechia    1120    1    6
@@ -1940,7 +1940,7 @@
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
 -- Thailand    721    1    52
--- Poland    634    7    13
+-- Poland    649    7    13
 -- Chile    632    1    8
 -- Finland    626    1    10
 -- Greece    624    15    19
@@ -1956,7 +1956,7 @@
 -- Slovenia    414    2    0
 -- Philippines    396    33    18
 -- Peru    363    5    1
--- Bahrain    334    2    149
+-- Bahrain    335    2    160
 -- Egypt    327    14    56
 -- Estonia    326    0    4
 -- Hong Kong    318    4    100
@@ -1971,12 +1971,12 @@
 -- Serbia    222    2    2
 -- Dominican Republic    202    3    0
 -- Algeria    201    17    65
+-- Taiwan    195    2    28
 -- Armenia    194    0    2
 -- Bulgaria    190    3    3
 -- Kuwait    188    0    30
 -- Slovakia    185    1    7
 -- San Marino    175    20    4
--- Taiwan    169    2    28
 -- Hungary    167    7    16
 -- Uruguay    158    0    0
 -- United Arab Emirates    153    2    38
@@ -2010,6 +2010,7 @@
 -- Kazakhstan    60    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    58    1    0
+-- Cameroon    56    0    2
 -- Oman    55    0    17
 -- Georgia    54    0    3
 -- Trinidad and Tobago    50    0    1
@@ -2017,14 +2018,13 @@
 -- Uzbekistan    46    0    0
 -- Martinique    44    1    0
 -- Afghanistan    40    1    1
--- Cameroon    40    0    2
 -- Cuba    35    1    0
 -- Congo, Democratic Republic of the    30    1    0
 -- Mauritius    28    2    0
 -- Bangladesh    27    2    3
+-- Bolivia, Plurinational State of    27    0    0
 -- Guam    27    1    0
 -- Honduras    26    0    0
--- Bolivia, Plurinational State of    24    0    0
 -- Ghana    24    1    8
 -- Monaco    23    0    1
 -- Puerto Rico    23    1    0
@@ -2051,6 +2051,7 @@
 -- Mongolia    10    0    0
 -- Aruba    9    0    1
 -- Seychelles    7    0    0
+-- New Caledonia    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
 -- Bermuda    6    0    0
@@ -2061,7 +2062,6 @@
 -- Eswatini    4    0    0
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
--- New Caledonia    4    0    0
 -- Congo    3    0    0
 -- Cayman Islands    3    1    0
 -- Namibia    3    0    0
