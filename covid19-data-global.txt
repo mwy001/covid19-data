@@ -489,15 +489,15 @@
 ---- Liguria    1924    171    143
 ---- Veneto    5505    169    309
 ---- Bolzano    724    23    7
--- United States of America    42241    510    182
----- NY    22768    153    0
+-- United States of America    42241    577    182
+---- NY    22768    154    0
 ------ Westchester(36119)    2894    0    0
------- Nassau(36059)    1900    4    0
+------ Nassau(36059)    2442    4    0
 ------ Suffolk(36103)    1458    12    0
------- Albany(36001)    123    0    0
------- Rockland(36087)    455    1    0
------- Dutchess(36027)    82    1    0
------- Orange(36071)    247    0    0
+------ Albany(36001)    127    0    0
+------ Rockland(36087)    592    1    0
+------ Dutchess(36027)    100    1    0
+------ Orange(36071)    389    0    0
 ------ Monroe(36055)    80    2    0
 ------ Erie(36029)    87    0    0
 ------ Saratoga(36091)    45    0    0
@@ -520,7 +520,7 @@
 ------ Rensselaer(36083)    26    0    0
 ------ Sullivan(36105)    16    0    0
 ------ Tioga(36107)    1    0    0
------- Wyoming(36121)    2    0    0
+------ Wyoming(36121)    2    1    0
 ------ Chenango(36017)    4    0    0
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    1    0    0
@@ -573,10 +573,10 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    2    0    0
----- CA    1853    35    7
+---- CA    1885    35    7
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
------- San Mateo(06081)    117    1    0
+------ San Mateo(06081)    142    1    0
 ------ San Diego(06073)    205    1    0
 ------ San Francisco(06075)    131    0    0
 ------ Sacramento(06067)    53    3    0
@@ -605,9 +605,9 @@
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    2    0    0
------- Kern(06029)    5    0    0
+------ Kern(06029)    11    0    0
 ------ Madera(06039)    3    0    0
------- Nevada(06057)    1    0    0
+------ Nevada(06057)    2    0    0
 ------ Shasta(06089)    2    0    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
@@ -617,20 +617,20 @@
 ------ Yuba(06115)    3    0    0
 ------ Napa(06055)    2    0    0
 ------ Merced(06047)    1    0    0
----- NJ    2844    27    1
------- Bergen(34003)    457    6    0
------- Essex(34013)    172    4    0
------- Hudson(34017)    126    1    0
------- Middlesex(34023)    147    0    0
------- Monmouth(34025)    158    3    0
------- Union(34039)    124    0    0
------- Passaic(34031)    95    0    0
+---- NJ    2909    90    1
+------ Bergen(34003)    609    6    0
+------ Essex(34013)    273    4    0
+------ Hudson(34017)    190    1    0
+------ Middlesex(34023)    210    63    0
+------ Monmouth(34025)    238    3    0
+------ Union(34039)    189    0    0
+------ Passaic(34031)    141    0    0
 ------ Mercer(34021)    40    0    0
 ------ Morris(34027)    119    1    0
 ------ Somerset(34035)    51    1    0
 ------ Burlington(34005)    26    0    0
 ------ Hunterdon(34019)    16    0    0
------- Ocean(34029)    102    1    0
+------ Ocean(34029)    144    1    0
 ------ Camden(34007)    22    1    0
 ------ Gloucester(34015)    8    0    0
 ------ Atlantic(34001)    5    0    0
@@ -697,23 +697,23 @@
 ------ Columbia(12023)    2    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    3    0    0
----- LA    1172    34    0
+---- LA    1172    35    0
 ------ Orleans(22071)    567    15    0
 ------ Jefferson(22051)    252    3    0
 ------ Caddo(22017)    34    0    0
------- St Tammany(22103)    25    0    0
+------ St Tammany(22103)    47    0    0
 ------ East Baton Rouge(22033)    43    0    0
 ------ Lafourche(22057)    15    0    0
------- St Charles(22089)    8    0    0
+------ St Charles(22089)    15    0    0
 ------ Terrebonne(22109)    14    0    0
 ------ Bossier(22015)    12    0    0
------- St Bernard(22087)    13    0    0
+------ St Bernard(22087)    15    0    0
 ------ Lafayette(22055)    9    0    0
------- Ascension(22005)    26    0    0
+------ Ascension(22005)    26    1    0
 ------ Washington(22117)    2    0    0
------- West Baton Rouge(22121)    4    0    0
+------ West Baton Rouge(22121)    5    0    0
 ------ St Landry(22097)    3    0    0
------- St James(22093)    1    1    0
+------ St James(22093)    8    1    0
 ------ Plaquemines(22075)    8    0    0
 ------ Acadia(22001)    1    0    0
 ------ Assumption(22007)    1    0    0
@@ -726,7 +726,7 @@
 ------ De Soto(22031)    5    0    0
 ------ Catahoula(22025)    1    1    0
 ------ Tangipahoa(22105)    3    0    0
------- St John The Baptist(22095)    10    0    0
+------ St John The Baptist(22095)    16    0    0
 ------ Evangeline(22039)    2    0    0
 ------ Ouachita(22073)    9    0    0
 ------ Avoyelles(22009)    1    0    0
@@ -868,6 +868,7 @@
 ------ Madison(13195)    1    0    0
 ------ Morgan(13211)    1    0    0
 ------ Pierce(13229)    1    0    0
+------ Washington(13303)    1    0    0
 ---- TX    724    10    15
 ------ Dallas(48113)    155    5    0
 ------ Travis(48453)    79    0    0
@@ -1054,14 +1055,14 @@
 ------ Tolland(09013)    14    2    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    3    0    0
----- OH    360    3    0
+---- OH    360    6    0
 ------ Cuyahoga(39035)    125    1    0
 ------ Butler(39017)    17    0    0
------- Franklin(39049)    34    0    0
+------ Franklin(39049)    34    2    0
 ------ Lorain(39093)    19    0    0
 ------ Summit(39153)    23    0    0
 ------ Medina(39103)    10    0    0
------- Stark(39151)    10    0    0
+------ Stark(39151)    10    1    0
 ------ Belmont(39013)    2    0    0
 ------ Coshocton(39031)    2    0    0
 ------ Trumbull(39155)    3    0    0
@@ -1302,7 +1303,7 @@
 ------ Cecil(24015)    1    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    1    0    0
----- NV    191    2    0
+---- NV    192    2    0
 ------ Clark(32003)    126    2    0
 ------ Washoe(32031)    25    0    0
 ------ Carson City(32510)    3    0    0
@@ -1385,7 +1386,7 @@
 ------ Sagadahoc(23023)    3    0    0
 ---- DC    120    3    0
 ------ District of Columbia(11001)    120    2    0
----- IN    260    7    0
+---- IN    261    7    0
 ------ Marion(18097)    110    3    0
 ------ Hendricks(18063)    12    0    0
 ------ Johnson(18081)    14    1    0
@@ -1426,6 +1427,7 @@
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    2    0    0
 ------ Ripley(18137)    1    0    0
+------ Starke(18149)    1    0    0
 ---- IA    105    0    0
 ------ Johnson(19103)    35    0    0
 ------ Dallas(19049)    6    0    0
@@ -1663,8 +1665,8 @@
 ------ New Castle(10003)    44    0    0
 ------ Sussex(10005)    18    0    0
 ------ Kent(10001)    6    0    0
----- MO    150    5    2
------- Greene(29077)    14    0    0
+---- MO    153    5    2
+------ Greene(29077)    17    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
 ------ Cole(29051)    4    0    0
@@ -1784,7 +1786,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    28865    118    422
+-- Germany    29056    118    422
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1897,7 +1899,7 @@
 -- Norway    2547    10    6
 -- Portugal    2060    23    14
 -- Sweden    2046    25    16
--- Canada    2020    23    18
+-- Canada    2035    23    320
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
 ---- Alberta    259    1    0
@@ -1971,7 +1973,7 @@
 -- Israel    1238    1    37
 -- Czechia    1236    1    6
 -- Turkey    1236    30    0
--- Ireland    1012    6    5
+-- Ireland    1125    6    5
 -- Ecuador    981    18    3
 -- Luxembourg    875    8    6
 -- Pakistan    873    6    13
@@ -1982,7 +1984,7 @@
 -- Poland    692    8    13
 -- Iceland    588    5    51
 -- Indonesia    579    49    30
--- Romania    576    6    73
+-- Romania    576    7    73
 -- Saudi Arabia    562    0    19
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
@@ -2018,21 +2020,21 @@
 -- Hungary    167    7    16
 -- Lithuania    160    1    1
 -- Uruguay    158    0    0
--- Morocco    143    4    3
+-- Morocco    143    4    5
 -- North Macedonia    136    2    1
 -- Costa Rica    134    2    2
 -- Andorra    133    1    1
 -- Bosnia and Herzegovina    131    1    2
+-- Jordan    127    0    1
 -- Viet Nam    123    0    17
 -- Faroe Islands    118    0    14
 -- Cyprus    116    1    3
--- Jordan    112    0    1
 -- Moldova, Republic of    109    1    2
 -- Malta    107    0    2
 -- Albania    104    5    2
 -- New Zealand    102    0    0
 -- Burkina Faso    99    4    5
--- Sri Lanka    95    0    3
+-- Sri Lanka    97    0    3
 -- Brunei Darussalam    91    0    2
 -- Tunisia    89    3    1
 -- Cambodia    87    0    2
@@ -2062,11 +2064,11 @@
 -- Mauritius    28    2    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Honduras    27    0    0
+-- Montenegro    27    1    0
 -- Macao    25    0    10
 -- Ghana    24    1    8
 -- Monaco    23    0    1
 -- Paraguay    22    1    0
--- Montenegro    22    1    0
 -- Mayotte    21    0    0
 -- French Guiana    20    0    6
 -- Guatemala    20    1    0
