@@ -651,27 +651,27 @@
 ------ Hampden(25013)    12    0    0
 ------ Franklin(25011)    6    0    0
 ------ Hampshire(25015)    4    0    0
----- FL    1007    15    0
------- Broward(12011)    217    3    0
+---- FL    1095    15    0
+------ Broward(12011)    258    3    0
 ------ Palm Beach(12099)    72    1    0
 ------ Duval(12031)    39    2    0
 ------ Volusia(12127)    14    0    0
 ------ Hillsborough(12057)    58    0    0
 ------ Manatee(12081)    13    1    0
------- Collier(12021)    33    0    0
+------ Collier(12021)    34    0    0
 ------ Orange(12095)    33    2    0
 ------ Osceola(12097)    24    0    0
 ------ Lee(12071)    26    2    0
------- Alachua(12001)    35    0    0
------- Clay(12019)    7    2    0
+------ Alachua(12001)    37    0    0
+------ Clay(12019)    8    2    0
 ------ Pinellas(12103)    38    0    0
 ------ Seminole(12117)    19    0    0
 ------ Sarasota(12115)    17    0    0
------- Citrus(12017)    8    0    0
+------ Citrus(12017)    9    0    0
 ------ Okaloosa(12091)    14    0    0
 ------ Pasco(12101)    11    1    0
 ------ Brevard(12009)    7    0    0
------- Charlotte(12015)    2    0    0
+------ Charlotte(12015)    3    0    0
 ------ Escambia(12033)    4    0    0
 ------ Lake(12069)    6    0    0
 ------ Nassau(12089)    2    0    0
@@ -687,12 +687,12 @@
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    2    0    0
 ------ Marion(12083)    3    0    0
------- Baker(12003)    2    0    0
+------ Baker(12003)    3    0    0
 ------ Bay(12005)    1    0    0
 ------ Highlands(12055)    1    0    0
 ------ Putnam(12107)    2    0    0
 ------ St Lucie(12111)    3    0    0
------- Miami-Dade(12086)    227    0    0
+------ Miami-Dade(12086)    267    0    0
 ------ Columbia(12023)    2    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    1    0    0
@@ -1488,7 +1488,7 @@
 ------ Newport(44005)    8    0    0
 ------ Bristol(44001)    14    0    0
 ------ Kent(44003)    7    0    0
----- AR    167    6    0
+---- AR    168    6    0
 ------ Jefferson(05069)    20    0    0
 ------ Pulaski(05119)    54    0    0
 ------ Cleburne(05023)    25    0    0
@@ -1499,7 +1499,7 @@
 ------ Saline(05125)    4    0    0
 ------ Washington(05143)    5    0    0
 ------ Bradley(05011)    4    0    0
------- Faulkner(05045)    7    0    0
+------ Faulkner(05045)    8    0    0
 ------ Grant(05053)    3    0    0
 ------ Pope(05115)    1    0    0
 ------ Van Buren(05141)    3    0    0
@@ -1663,13 +1663,16 @@
 ------ Hawaii(15001)    1    0    0
 ---- SD    28    1    0
 ------ Minnehaha(46099)    5    0    0
------- Beadle(46005)    10    0    0
+------ Beadle(46005)    12    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ Charles Mix(46023)    1    0    0
------- Davison(46035)    1    0    0
+------ Davison(46035)    2    0    0
 ------ Pennington(46103)    1    1    0
 ------ McCook(46087)    1    0    0
 ------ Brown(46013)    1    0    0
+------ Codington(46029)    1    0    0
+------ Hughes(46065)    1    0    0
+------ Lyman(46085)    1    0    0
 ---- WY    26    0    0
 ------ Fremont(56013)    10    0    0
 ------ Sheridan(56033)    4    0    0
@@ -1860,9 +1863,9 @@
 -- Netherlands    4749    213    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3977    21    9
+-- Austria    4018    21    9
 -- Belgium    3743    88    401
--- Norway    2541    9    6
+-- Norway    2547    10    6
 -- Portugal    2060    23    14
 -- Sweden    2046    25    16
 -- Japan    1848    41    235
@@ -1917,11 +1920,7 @@
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1620    25    2
--- Denmark    1540    24    1
----- Denmark    977    4    1
----- Faroe Islands    47    0    0
--- Malaysia    1518    14    159
--- Canada    1472    21    14
+-- Canada    1550    21    18
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
 ---- Alberta    259    1    0
@@ -1936,6 +1935,10 @@
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
+-- Denmark    1540    24    1
+---- Denmark    977    4    1
+---- Faroe Islands    47    0    0
+-- Malaysia    1518    14    159
 -- Israel    1238    1    37
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
@@ -1948,17 +1951,17 @@
 -- Finland    700    1    10
 -- Poland    684    8    13
 -- Greece    624    17    19
--- Iceland    588    5    36
+-- Iceland    588    5    51
 -- Indonesia    579    49    30
 -- Romania    576    5    73
 -- Saudi Arabia    562    0    19
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
 -- Qatar    494    0    33
+-- India    467    8    27
 -- Philippines    462    33    18
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
--- India    433    8    27
 -- South Africa    402    0    4
 -- Peru    363    5    1
 -- Hong Kong    356    4    100
@@ -1971,7 +1974,7 @@
 -- Lebanon    267    4    8
 -- Iraq    266    23    62
 -- Argentina    266    4    27
--- Serbia    249    2    2
+-- Serbia    249    2    3
 -- Dominican Republic    245    3    0
 -- Colombia    235    3    3
 -- Algeria    201    17    65
@@ -2017,7 +2020,7 @@
 -- Guadeloupe    58    1    0
 -- Cameroon    56    0    2
 -- Georgia    54    0    8
--- Trinidad and Tobago    50    0    1
+-- Trinidad and Tobago    51    0    1
 -- Liechtenstein    46    0    0
 -- Uzbekistan    46    0    0
 -- Martinique    44    1    0
@@ -2043,6 +2046,7 @@
 -- Rwanda    19    0    0
 -- Togo    18    0    1
 -- French Polynesia    18    0    0
+-- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
 -- Kenya    16    0    0
 -- Kyrgyzstan    16    0    0
@@ -2057,7 +2061,6 @@
 -- Equatorial Guinea    9    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
--- Virgin Islands, U.S.    6    0    0
 -- Bermuda    6    0    0
 -- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
