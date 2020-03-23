@@ -486,14 +486,14 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    39242    442    182
+-- United States of America    39242    445    182
 ---- NY    22768    117    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
------- Suffolk(36103)    1034    9    0
+------ Suffolk(36103)    1034    12    0
 ------ Albany(36001)    123    0    0
 ------ Rockland(36087)    455    1    0
------- Dutchess(36027)    82    0    0
+------ Dutchess(36027)    82    1    0
 ------ Orange(36071)    247    0    0
 ------ Monroe(36055)    68    1    0
 ------ Erie(36029)    56    0    0
@@ -537,6 +537,7 @@
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
 ------ Madison(36053)    1    0    0
+------ Oswego(36075)    2    0    0
 ---- WA    1996    95    124
 ------ King(53033)    1040    75    0
 ------ Snohomish(53061)    480    10    0
@@ -567,7 +568,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    1    0    0
----- CA    1735    32    6
+---- CA    1737    34    6
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
 ------ San Mateo(06081)    117    1    0
@@ -581,13 +582,13 @@
 ------ San Joaquin(06077)    34    2    0
 ------ Santa Cruz(06087)    15    0    0
 ------ Marin(06041)    38    0    0
------- Ventura(06111)    26    0    0
+------ Ventura(06111)    30    1    0
 ------ Placer(06061)    12    1    0
 ------ Solano(06095)    14    0    0
 ------ San Luis Obispo(06079)    27    0    0
 ------ Sonoma(06097)    23    1    0
 ------ San Benito(06069)    5    1    0
------- Yolo(06113)    6    0    0
+------ Yolo(06113)    6    1    0
 ------ San Bernardino(06071)    17    0    0
 ------ Stanislaus(06099)    6    0    0
 ------ Tulare(06107)    12    0    0
@@ -620,7 +621,7 @@
 ------ Passaic(34031)    95    0    0
 ------ Mercer(34021)    40    0    0
 ------ Morris(34027)    119    1    0
------- Somerset(34035)    51    0    0
+------ Somerset(34035)    51    1    0
 ------ Burlington(34005)    26    0    0
 ------ Hunterdon(34019)    16    0    0
 ------ Ocean(34029)    102    1    0
@@ -645,7 +646,7 @@
 ------ Hampden(25013)    12    0    0
 ------ Franklin(25011)    6    0    0
 ------ Hampshire(25015)    4    0    0
----- FL    1006    15    0
+---- FL    1007    15    0
 ------ Broward(12011)    217    3    0
 ------ Palm Beach(12099)    72    1    0
 ------ Duval(12031)    39    2    0
@@ -805,7 +806,7 @@
 ------ Henry(13151)    7    0    0
 ------ Lee(13177)    16    0    0
 ------ Troup(13285)    4    0    0
------- Barrow(13013)    1    0    0
+------ Barrow(13013)    2    0    0
 ------ Charlton(13049)    1    0    0
 ------ Columbia(13073)    3    0    0
 ------ Forsyth(13117)    5    0    0
@@ -851,9 +852,9 @@
 ------ Twiggs(13289)    1    0    0
 ------ Coffee(13069)    1    0    0
 ------ Tattnall(13267)    1    0    0
----- TX    644    7    15
------- Dallas(48113)    131    2    0
------- Travis(48453)    62    0    0
+---- TX    661    8    15
+------ Dallas(48113)    131    3    0
+------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
 ------ Bexar(48029)    46    1    0
 ------ Fort Bend(48157)    29    0    0
@@ -1130,7 +1131,7 @@
 ------ Culpeper(51047)    2    0    0
 ------ Fluvanna(51065)    1    0    0
 ------ Louisa(51109)    1    0    0
----- NC    328    0    0
+---- NC    329    0    0
 ------ Wake(37183)    52    0    0
 ------ Durham(37063)    41    0    0
 ------ Mecklenburg(37119)    77    0    0
@@ -1177,6 +1178,7 @@
 ------ Montgomery(37123)    1    0    0
 ------ Nash(37127)    1    0    0
 ------ Henderson(37089)    1    0    0
+------ Vance(37181)    1    0    0
 ---- MI    1058    14    0
 ------ Oakland(26125)    277    2    0
 ------ Wayne(26163)    477    5    0
@@ -1241,7 +1243,7 @@
 ------ Steele(27147)    3    0    0
 ------ Wabasha(27157)    1    0    0
 ------ Cass(27021)    1    0    0
----- MD    244    3    4
+---- MD    246    3    4
 ------ Montgomery(24031)    83    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    28    1    0
@@ -1250,7 +1252,7 @@
 ------ Carroll(24013)    4    0    0
 ------ Harford(24025)    5    0    0
 ------ Charles(24017)    5    0    0
------- Frederick(24021)    1    0    0
+------ Frederick(24021)    2    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    2    0    0
 ------ Baltimore City(24510)    15    0    0
@@ -1260,7 +1262,7 @@
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
------- Washington(24043)    1    0    0
+------ Washington(24043)    2    0    0
 ------ Cecil(24015)    1    0    0
 ---- NV    190    2    0
 ------ Clark(32003)    126    2    0
@@ -2011,8 +2013,8 @@
 -- Rwanda    19    0    0
 -- French Guiana    18    0    0
 -- Guyana    18    1    0
+-- French Polynesia    18    0    0
 -- Togo    16    0    1
--- French Polynesia    15    0    0
 -- Gibraltar    15    0    2
 -- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
@@ -2027,6 +2029,7 @@
 -- Seychelles    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
+-- Bermuda    6    0    0
 -- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
@@ -2056,7 +2059,6 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Benin    2    0    0
--- Bermuda    2    0    0
 -- Fiji    2    0    0
 -- Nicaragua    2    0    0
 -- Niger    2    0    0
