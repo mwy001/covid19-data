@@ -1631,7 +1631,7 @@
 ------ New Castle(10003)    39    0    0
 ------ Sussex(10005)    12    0    0
 ------ Kent(10001)    5    0    0
----- MO    144    5    0
+---- MO    148    5    0
 ------ Greene(29077)    10    0    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
@@ -1934,11 +1934,11 @@
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
 -- Pakistan    776    5    13
+-- Thailand    721    1    52
 -- Poland    634    7    13
 -- Chile    632    1    8
 -- Finland    626    1    10
 -- Greece    624    15    19
--- Thailand    599    1    44
 -- Iceland    568    5    36
 -- Indonesia    514    48    29
 -- Saudi Arabia    511    0    17
@@ -1946,8 +1946,8 @@
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
 -- Romania    433    3    64
+-- India    425    8    27
 -- Slovenia    414    2    0
--- India    396    7    27
 -- Philippines    380    25    17
 -- Russian Federation    367    1    16
 -- Peru    363    5    1
@@ -1955,11 +1955,11 @@
 -- Egypt    327    14    56
 -- Estonia    326    0    4
 -- Hong Kong    318    4    100
+-- Mexico    316    2    4
 -- Panama    313    3    1
 -- South Africa    274    0    2
 -- Argentina    266    4    27
 -- Croatia    254    1    5
--- Mexico    251    2    4
 -- Lebanon    248    4    8
 -- Iraq    233    20    57
 -- Colombia    231    2    3
@@ -1991,8 +1991,8 @@
 -- Malta    90    0    2
 -- Albania    89    2    2
 -- Brunei Darussalam    88    0    2
+-- Sri Lanka    86    0    3
 -- Cambodia    84    0    2
--- Sri Lanka    82    0    3
 -- Belarus    76    0    15
 -- Tunisia    75    3    1
 -- Burkina Faso    75    4    5
@@ -2008,8 +2008,8 @@
 -- Oman    55    0    17
 -- Georgia    54    0    3
 -- Trinidad and Tobago    50    0    1
+-- Uzbekistan    46    0    0
 -- Martinique    44    1    0
--- Uzbekistan    43    0    0
 -- Afghanistan    40    1    1
 -- Cameroon    40    0    2
 -- Liechtenstein    37    0    0
