@@ -1,4 +1,4 @@
--- 中国    81649    3276    72848
+-- 中国    81691    3276    72848
 ---- 四川    543    3    536
 ------ 成都    148    3    141
 ------ 甘孜州    78    0    78
@@ -68,12 +68,12 @@
 ------ 鹤岗    5    0    5
 ------ 伊春    1    0    1
 ------ 境外输入人员    2    0    0
----- 广东    1413    8    1332
------- 广州    372    1    334
------- 深圳    439    3    409
------- 佛山    89    0    81
+---- 广东    1415    8    1332
+------ 广州    373    1    336
+------ 深圳    440    3    413
+------ 佛山    89    0    84
 ------ 中山    68    0    64
------- 东莞    100    1    98
+------ 东莞    100    1    99
 ------ 肇庆    20    1    18
 ------ 梅州    17    0    16
 ------ 珠海    101    1    97
@@ -89,9 +89,9 @@
 ------ 汕尾    5    0    5
 ------ 潮州    6    0    5
 ------ 河源    4    0    4
----- 山东    767    7    752
+---- 山东    768    7    752
 ------ 济宁    260    0    260
------- 境外输入人员    8    0    0
+------ 境外输入人员    9    0    0
 ------ 青岛    61    1    60
 ------ 济南    47    0    47
 ------ 临沂    49    0    49
@@ -448,7 +448,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 香港    317    4    100
+---- 香港    356    4    100
 ---- 湖北    67800    3153    59882
 ------ 武汉    50005    2517    42788
 ------ 孝感    3518    128    3369
@@ -700,13 +700,13 @@
 ------ Orleans(22071)    451    15    0
 ------ Jefferson(22051)    184    3    0
 ------ Caddo(22017)    16    0    0
------- St Tammany(22103)    22    0    0
+------ St Tammany(22103)    25    0    0
 ------ East Baton Rouge(22033)    20    0    0
 ------ Lafourche(22057)    12    0    0
------- St Charles(22089)    7    0    0
+------ St Charles(22089)    8    0    0
 ------ Terrebonne(22109)    12    0    0
 ------ Bossier(22015)    5    0    0
------- St Bernard(22087)    12    0    0
+------ St Bernard(22087)    13    0    0
 ------ Lafayette(22055)    6    0    0
 ------ Ascension(22005)    17    0    0
 ------ Washington(22117)    2    0    0
@@ -725,9 +725,9 @@
 ------ De Soto(22031)    2    0    0
 ------ Catahoula(22025)    1    1    0
 ------ Tangipahoa(22105)    3    0    0
------- St John The Baptist(22095)    9    0    0
+------ St John The Baptist(22095)    10    0    0
 ------ Evangeline(22039)    2    0    0
------- Ouachita(22073)    3    0    0
+------ Ouachita(22073)    4    0    0
 ------ Avoyelles(22009)    1    0    0
 ------ Beauregard(22011)    1    0    0
 ------ Bienville(22013)    1    0    0
@@ -1040,7 +1040,7 @@
 ------ Tolland(09013)    14    2    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    3    0    0
----- OH    356    3    0
+---- OH    358    3    0
 ------ Cuyahoga(39035)    125    1    0
 ------ Butler(39017)    17    0    0
 ------ Franklin(39049)    34    0    0
@@ -1080,7 +1080,7 @@
 ------ Greene(39057)    1    0    0
 ------ Hancock(39063)    1    0    0
 ------ Portage(39133)    1    0    0
------- Wood(39173)    1    0    0
+------ Wood(39173)    3    0    0
 ------ Washington(39167)    1    0    0
 ------ Knox(39083)    1    0    0
 ------ Madison(39097)    1    0    0
@@ -1492,26 +1492,26 @@
 ------ Jefferson(05069)    20    0    0
 ------ Pulaski(05119)    52    0    0
 ------ Cleburne(05023)    25    0    0
------- Cleveland(05025)    1    0    0
------- Desha(05041)    1    0    0
+------ Cleveland(05025)    3    0    0
+------ Desha(05041)    2    0    0
 ------ Garland(05051)    9    0    0
------- Lincoln(05079)    1    0    0
------- Saline(05125)    1    0    0
+------ Lincoln(05079)    2    0    0
+------ Saline(05125)    4    0    0
 ------ Washington(05143)    5    0    0
------- Bradley(05011)    1    0    0
+------ Bradley(05011)    4    0    0
 ------ Faulkner(05045)    7    0    0
------- Grant(05053)    2    0    0
+------ Grant(05053)    3    0    0
 ------ Pope(05115)    1    0    0
------- Van Buren(05141)    1    0    0
+------ Van Buren(05141)    3    0    0
 ------ Boone(05009)    1    0    0
------- Clark(05019)    1    0    0
------- Craighead(05031)    1    0    0
+------ Clark(05019)    2    0    0
+------ Craighead(05031)    4    0    0
 ------ Crittenden(05035)    1    0    0
 ------ Greene(05055)    1    0    0
------- Independence(05063)    1    0    0
------- Poinsett(05111)    1    0    0
+------ Independence(05063)    3    0    0
+------ Poinsett(05111)    3    0    0
 ------ Polk(05113)    1    0    0
------- Searcy(05129)    1    0    0
+------ Searcy(05129)    2    0    0
 ------ Sevier(05133)    1    0    0
 ------ Benton(05007)    1    0    0
 ------ Columbia(05027)    1    0    0
@@ -1752,7 +1752,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    26220    111    422
+-- Germany    27181    113    422
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1857,7 +1857,7 @@
 ---- Scotland    416    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    4216    180    2
+-- Netherlands    4749    213    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    3923    16    9
@@ -1918,7 +1918,7 @@
 ---- Australian Capital Territory    19    0    0
 -- Brazil    1620    25    2
 -- Malaysia    1518    14    159
--- Denmark    1514    13    1
+-- Denmark    1514    24    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Canada    1472    21    14
@@ -1939,7 +1939,7 @@
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
 -- Ireland    906    4    5
--- Pakistan    824    6    13
+-- Pakistan    825    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
 -- Chile    746    1    8
@@ -1950,14 +1950,14 @@
 -- Iceland    588    5    36
 -- Indonesia    579    49    30
 -- Romania    576    5    73
--- Saudi Arabia    511    0    17
+-- Saudi Arabia    562    0    19
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
 -- Qatar    494    0    33
 -- Philippines    462    33    18
+-- Slovenia    442    3    0
 -- Russian Federation    438    1    17
--- India    425    8    27
--- Slovenia    414    3    0
+-- India    433    8    27
 -- South Africa    402    0    2
 -- Peru    363    5    1
 -- Hong Kong    356    4    100
@@ -1974,6 +1974,7 @@
 -- Serbia    222    2    2
 -- Dominican Republic    202    3    0
 -- Algeria    201    17    65
+-- United Arab Emirates    198    2    41
 -- Taiwan    195    2    28
 -- Armenia    194    0    2
 -- Bulgaria    190    3    3
@@ -1984,7 +1985,6 @@
 -- Hungary    167    7    16
 -- Uruguay    158    0    0
 -- Lithuania    154    1    1
--- United Arab Emirates    153    2    38
 -- North Macedonia    136    2    1
 -- Morocco    134    4    3
 -- Costa Rica    134    2    2
@@ -1994,6 +1994,7 @@
 -- Faroe Islands    118    0    14
 -- Jordan    112    0    1
 -- Malta    107    0    2
+-- Albania    104    5    2
 -- New Zealand    102    0    0
 -- Burkina Faso    99    4    5
 -- Cyprus    95    1    3
@@ -2001,7 +2002,6 @@
 -- Sri Lanka    92    0    3
 -- Brunei Darussalam    91    0    2
 -- Tunisia    89    3    1
--- Albania    89    5    2
 -- Cambodia    86    0    2
 -- Belarus    81    0    22
 -- Venezuela, Bolivarian Republic of    77    0    15
