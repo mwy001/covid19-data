@@ -486,7 +486,7 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    39242    484    182
+-- United States of America    39242    485    182
 ---- NY    22768    153    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -497,7 +497,7 @@
 ------ Orange(36071)    247    0    0
 ------ Monroe(36055)    68    1    0
 ------ Erie(36029)    56    0    0
------- Saratoga(36091)    41    0    0
+------ Saratoga(36091)    45    0    0
 ------ Ulster(36111)    26    0    0
 ------ Schenectady(36093)    39    0    0
 ------ Tompkins(36109)    15    0    0
@@ -569,7 +569,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    1    0    0
----- CA    1821    35    6
+---- CA    1824    35    6
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
 ------ San Mateo(06081)    117    1    0
@@ -591,7 +591,7 @@
 ------ San Benito(06069)    5    1    0
 ------ Yolo(06113)    6    1    0
 ------ San Bernardino(06071)    17    0    0
------- Stanislaus(06099)    6    0    0
+------ Stanislaus(06099)    8    0    0
 ------ Tulare(06107)    12    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    6    0    0
@@ -612,6 +612,7 @@
 ------ El Dorado(06017)    2    0    0
 ------ Yuba(06115)    2    0    0
 ------ Napa(06055)    2    0    0
+------ Merced(06047)    1    0    0
 ---- NJ    1926    21    1
 ------ Bergen(34003)    457    6    0
 ------ Essex(34013)    172    4    0
@@ -854,7 +855,7 @@
 ------ Twiggs(13289)    1    0    0
 ------ Coffee(13069)    1    0    0
 ------ Tattnall(13267)    1    0    0
----- TX    665    8    15
+---- TX    668    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
@@ -865,7 +866,7 @@
 ------ Smith(48423)    10    0    0
 ------ Montgomery(48339)    13    0    0
 ------ Bell(48027)    10    0    0
------- El Paso(48141)    8    0    0
+------ El Paso(48141)    9    0    0
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    14    0    0
 ------ Galveston(48167)    11    0    0
@@ -903,7 +904,7 @@
 ------ Hockley(48219)    3    0    0
 ------ Milam(48331)    1    0    0
 ------ Kendall(48259)    1    0    0
------- Guadalupe(48187)    1    0    0
+------ Guadalupe(48187)    2    0    0
 ------ Fayette(48149)    1    0    0
 ------ Deaf Smith(48117)    1    0    0
 ------ Nueces(48355)    1    0    0
@@ -918,14 +919,15 @@
 ------ Walker(48471)    1    0    0
 ------ Maverick(48323)    1    0    0
 ------ Parker(48367)    1    0    0
----- PA    509    5    0
+------ Grayson(48181)    1    0    0
+---- PA    516    6    0
 ------ Montgomery(42091)    110    1    0
 ------ Philadelphia(42101)    96    0    0
 ------ Allegheny(42003)    40    1    0
 ------ Cumberland(42041)    11    0    0
 ------ Delaware(42045)    43    0    0
------- Bucks(42017)    34    0    0
------- Monroe(42089)    31    0    0
+------ Bucks(42017)    41    0    0
+------ Monroe(42089)    31    1    0
 ------ Chester(42029)    23    0    0
 ------ Washington(42125)    7    0    0
 ------ Beaver(42007)    3    0    0
@@ -1835,13 +1837,13 @@
 ---- Ulsan    36    0    17
 ---- 未确定地区    23    3    0
 -- Switzerland    7474    98    131
--- United Kingdom of Great Britain and Northern Ireland    5741    282    93
+-- United Kingdom of Great Britain and Northern Ireland    5741    282    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    4792    220    0
----- Northern Ireland    128    1    0
----- Wales    347    5    0
+---- England    4792    257    0
+---- Northern Ireland    128    2    0
+---- Wales    347    12    0
 ---- Scotland    416    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
@@ -1849,7 +1851,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    3582    16    9
--- Belgium    3401    75    263
+-- Belgium    3401    75    340
 -- Norway    2385    7    6
 -- Sweden    1934    21    16
 -- Japan    1848    41    235
@@ -1857,7 +1859,7 @@
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    27    0    0
----- Gifu    5    0    0
+---- Gifu    6    0    0
 ---- Nagano    4    0    0
 ---- Tochigi    4    0    0
 ---- Kumamoto    7    0    0
