@@ -467,7 +467,7 @@
 ------ 咸宁    836    15    821
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
--- Italy    59138    5476    7024
+-- Italy    63928    6078    7432
 ---- Abruzzo    587    33    15
 ---- Aosta Valley    364    9    1
 ---- Apulia    786    31    7
@@ -489,7 +489,7 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    40238    489    182
+-- United States of America    41601    509    182
 ---- NY    22768    153    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -616,7 +616,7 @@
 ------ Yuba(06115)    3    0    0
 ------ Napa(06055)    2    0    0
 ------ Merced(06047)    1    0    0
----- NJ    1926    21    1
+---- NJ    2844    27    1
 ------ Bergen(34003)    457    6    0
 ------ Essex(34013)    172    4    0
 ------ Hudson(34017)    126    1    0
@@ -696,43 +696,48 @@
 ------ Columbia(12023)    2    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    3    0    0
----- LA    837    20    0
------- Orleans(22071)    451    15    0
------- Jefferson(22051)    184    3    0
------- Caddo(22017)    16    0    0
+---- LA    1172    34    0
+------ Orleans(22071)    567    15    0
+------ Jefferson(22051)    252    3    0
+------ Caddo(22017)    34    0    0
 ------ St Tammany(22103)    25    0    0
------- East Baton Rouge(22033)    20    0    0
------- Lafourche(22057)    12    0    0
+------ East Baton Rouge(22033)    43    0    0
+------ Lafourche(22057)    15    0    0
 ------ St Charles(22089)    8    0    0
------- Terrebonne(22109)    12    0    0
------- Bossier(22015)    5    0    0
+------ Terrebonne(22109)    14    0    0
+------ Bossier(22015)    12    0    0
 ------ St Bernard(22087)    13    0    0
------- Lafayette(22055)    6    0    0
------- Ascension(22005)    17    0    0
+------ Lafayette(22055)    9    0    0
+------ Ascension(22005)    26    0    0
 ------ Washington(22117)    2    0    0
------- West Baton Rouge(22121)    3    0    0
+------ West Baton Rouge(22121)    4    0    0
 ------ St Landry(22097)    3    0    0
 ------ St James(22093)    1    1    0
------- Plaquemines(22075)    5    0    0
+------ Plaquemines(22075)    8    0    0
 ------ Acadia(22001)    1    0    0
 ------ Assumption(22007)    1    0    0
 ------ Calcasieu(22019)    4    0    0
------- Iberia(22045)    2    0    0
------- Iberville(22047)    2    0    0
------- Livingston(22063)    2    0    0
------- Rapides(22079)    3    0    0
------- Webster(22119)    1    0    0
------- De Soto(22031)    2    0    0
+------ Iberia(22045)    3    0    0
+------ Iberville(22047)    10    0    0
+------ Livingston(22063)    5    0    0
+------ Rapides(22079)    8    0    0
+------ Webster(22119)    3    0    0
+------ De Soto(22031)    5    0    0
 ------ Catahoula(22025)    1    1    0
 ------ Tangipahoa(22105)    3    0    0
 ------ St John The Baptist(22095)    10    0    0
 ------ Evangeline(22039)    2    0    0
------- Ouachita(22073)    4    0    0
+------ Ouachita(22073)    9    0    0
 ------ Avoyelles(22009)    1    0    0
 ------ Beauregard(22011)    1    0    0
 ------ Bienville(22013)    1    0    0
------- Claiborne(22027)    1    0    0
+------ Claiborne(22027)    2    0    0
 ------ St Mary(22101)    1    0    0
+------ Allen(22003)    2    0    0
+------ Lincoln(22061)    2    0    0
+------ Natchitoches(22069)    2    0    0
+------ Richland(22083)    2    0    0
+------ Grant(22043)    1    1    0
 ---- CO    595    7    0
 ------ Denver(08031)    125    0    0
 ------ Eagle(08037)    80    1    0
@@ -862,14 +867,14 @@
 ------ Madison(13195)    1    0    0
 ------ Morgan(13211)    1    0    0
 ------ Pierce(13229)    1    0    0
----- TX    685    8    15
+---- TX    693    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
 ------ Bexar(48029)    46    1    0
 ------ Fort Bend(48157)    29    0    0
 ------ Collin(48085)    38    1    0
------- Tarrant(48439)    47    1    0
+------ Tarrant(48439)    57    1    0
 ------ Smith(48423)    10    0    0
 ------ Montgomery(48339)    15    0    0
 ------ Bell(48027)    10    0    0
@@ -928,6 +933,8 @@
 ------ Parker(48367)    1    0    0
 ------ Grayson(48181)    1    0    0
 ------ Orange(48361)    1    0    0
+------ Gaines(48165)    1    0    0
+------ Erath(48143)    1    0    0
 ---- PA    645    6    0
 ------ Montgomery(42091)    129    1    0
 ------ Philadelphia(42101)    128    0    0
@@ -963,8 +970,8 @@
 ------ Schuylkill(42107)    3    0    0
 ------ Mercer(42085)    1    1    0
 ------ Cambria(42021)    1    0    0
----- WI    383    5    1
------- Milwaukee(55079)    182    3    0
+---- WI    403    5    1
+------ Milwaukee(55079)    202    3    0
 ------ Dane(55025)    61    0    0
 ------ Kenosha(55059)    10    0    0
 ------ Waukesha(55133)    30    0    0
@@ -1045,7 +1052,7 @@
 ------ Tolland(09013)    14    2    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    3    0    0
----- OH    358    3    0
+---- OH    360    3    0
 ------ Cuyahoga(39035)    125    1    0
 ------ Butler(39017)    17    0    0
 ------ Franklin(39049)    34    0    0
@@ -1059,7 +1066,7 @@
 ------ Darke(39037)    1    0    0
 ------ Geauga(39055)    2    0    0
 ------ Lake(39085)    6    0    0
------- Lucas(39095)    7    1    0
+------ Lucas(39095)    9    1    0
 ------ Mahoning(39099)    18    0    0
 ------ Tuscarawas(39157)    2    0    0
 ------ Huron(39077)    1    0    0
@@ -1089,7 +1096,7 @@
 ------ Washington(39167)    1    0    0
 ------ Knox(39083)    1    0    0
 ------ Madison(39097)    1    0    0
----- OR    161    5    0
+---- OR    162    5    0
 ------ Washington(41067)    55    1    0
 ------ Linn(41043)    19    1    0
 ------ Clackamas(41005)    12    0    0
@@ -1107,21 +1114,22 @@
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
 ------ Josephine(41033)    1    0    0
+------ Hood River(41027)    1    0    0
 ---- VA    254    6    1
------- Arlington(51013)    26    0    0
------- Fairfax(51059)    31    2    0
+------ Arlington(51013)    34    0    0
+------ Fairfax(51059)    43    2    0
 ------ Loudoun(51107)    15    0    0
------- Chesterfield(51041)    8    0    0
+------ Chesterfield(51041)    9    0    0
 ------ Prince William(51153)    18    0    0
------- Henrico(51087)    8    0    0
+------ Henrico(51087)    11    0    0
 ------ Goochland(51075)    2    0    0
------- Hanover(51085)    1    0    0
+------ Hanover(51085)    2    0    0
 ------ Prince Edward(51147)    1    0    0
 ------ Spotsylvania(51177)    2    0    0
------- Stafford(51179)    5    0    0
+------ Stafford(51179)    6    0    0
 ------ York(51199)    5    1    0
 ------ Charles City(51036)    1    0    0
------- James City(51095)    32    2    0
+------ James City(51095)    34    2    0
 ------ Albemarle(51003)    2    0    0
 ------ Gloucester(51073)    2    0    0
 ------ Roanoke(51161)    2    0    0
@@ -1147,12 +1155,13 @@
 ------ Bedford(51019)    1    0    0
 ------ Culpeper(51047)    2    0    0
 ------ Fluvanna(51065)    1    0    0
------- Louisa(51109)    1    0    0
+------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
----- NC    332    0    0
+------ Alleghany(51005)    1    0    0
+---- NC    333    0    0
 ------ Wake(37183)    52    0    0
 ------ Durham(37063)    41    0    0
------- Mecklenburg(37119)    80    0    0
+------ Mecklenburg(37119)    97    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    9    0    0
 ------ Forsyth(37067)    12    0    0
@@ -1415,10 +1424,10 @@
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    2    0    0
 ------ Ripley(18137)    1    0    0
----- IA    90    0    0
+---- IA    94    0    0
 ------ Johnson(19103)    32    0    0
 ------ Dallas(19049)    6    0    0
------- Allamakee(19005)    5    0    0
+------ Allamakee(19005)    6    0    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    3    0    0
 ------ Carroll(19027)    1    0    0
@@ -1428,7 +1437,7 @@
 ------ Washington(19183)    3    0    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    1    0    0
------- Dubuque(19061)    4    0    0
+------ Dubuque(19061)    5    0    0
 ------ Muscatine(19139)    2    0    0
 ------ Linn(19113)    4    0    0
 ------ Fayette(19065)    1    0    0
@@ -1440,6 +1449,7 @@
 ------ Kossuth(19109)    1    0    0
 ------ Sioux(19167)    1    0    0
 ------ Poweshiek(19157)    1    0    0
+------ Hancock(19081)    2    0    0
 ---- KY    104    3    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
@@ -1529,7 +1539,7 @@
 ------ Sebastian(05131)    1    0    0
 ------ Union(05139)    1    0    0
 ------ Woodruff(05147)    1    0    0
----- MS    207    1    0
+---- MS    249    1    0
 ------ Hinds(28049)    20    0    0
 ------ Leflore(28083)    8    0    0
 ------ Forrest(28035)    11    0    0
@@ -1612,7 +1622,7 @@
 ------ Muskogee(40101)    1    0    0
 ------ Noble(40103)    1    0    0
 ------ Pontotoc(40123)    1    0    0
----- KS    67    2    0
+---- KS    68    2    0
 ------ Johnson(20091)    28    1    0
 ------ Wyandotte(20209)    14    1    0
 ------ Butler(20015)    3    0    0
@@ -1630,6 +1640,7 @@
 ------ Reno(20155)    1    0    0
 ------ Mitchell(20123)    1    0    0
 ------ Lyon(20111)    2    0    0
+------ Bourbon(20011)    1    0    0
 ---- VT    54    2    0
 ------ Chittenden(50007)    22    1    0
 ------ Bennington(50003)    4    0    0
@@ -1640,9 +1651,9 @@
 ------ Rutland(50021)    3    0    0
 ------ Franklin(50011)    2    0    0
 ------ Windham(50025)    5    0    0
----- DE    64    0    0
------- New Castle(10003)    43    0    0
------- Sussex(10005)    15    0    0
+---- DE    68    0    0
+------ New Castle(10003)    44    0    0
+------ Sussex(10005)    18    0    0
 ------ Kent(10001)    6    0    0
 ---- MO    150    5    2
 ------ Greene(29077)    14    0    0
@@ -1765,7 +1776,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    27558    115    422
+-- Germany    28798    116    422
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4892    26    21
@@ -1929,7 +1940,7 @@
 ---- Tasmania    22    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
--- Brazil    1620    25    2
+-- Brazil    1629    25    2
 -- Canada    1563    21    18
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
@@ -1950,8 +1961,8 @@
 ---- Faroe Islands    47    0    0
 -- Malaysia    1518    14    159
 -- Israel    1238    1    37
+-- Czechia    1236    1    6
 -- Turkey    1236    30    0
--- Czechia    1165    1    6
 -- Ecuador    981    18    3
 -- Ireland    906    4    5
 -- Luxembourg    875    8    6
@@ -2013,10 +2024,10 @@
 -- Albania    104    5    2
 -- New Zealand    102    0    0
 -- Burkina Faso    99    4    5
--- Sri Lanka    94    0    3
+-- Sri Lanka    95    0    3
 -- Brunei Darussalam    91    0    2
 -- Tunisia    89    3    1
--- Cambodia    86    0    2
+-- Cambodia    87    0    2
 -- Belarus    81    0    22
 -- Venezuela, Bolivarian Republic of    77    0    15
 -- Ukraine    73    3    8
@@ -2043,8 +2054,8 @@
 -- Mauritius    28    2    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Honduras    27    0    0
+-- Macao    25    0    10
 -- Ghana    24    1    8
--- Macao    24    0    10
 -- Monaco    23    0    1
 -- Paraguay    22    1    0
 -- Montenegro    22    1    0
@@ -2073,10 +2084,10 @@
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
 -- Bermuda    6    0    0
+-- Haiti    6    0    0
 -- Saint Martin (French part)    5    0    0
 -- Gabon    5    1    0
 -- Suriname    5    0    0
--- Haiti    5    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
 -- Curaçao    4    1    0
