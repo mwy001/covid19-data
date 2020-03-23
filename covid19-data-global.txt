@@ -1844,7 +1844,7 @@
 ---- Seoul    330    0    64
 ---- Ulsan    36    0    17
 ---- 未确定地区    23    3    0
--- Switzerland    7724    98    131
+-- Switzerland    7776    100    131
 -- United Kingdom of Great Britain and Northern Ireland    5741    282    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -1861,7 +1861,7 @@
 -- Austria    3631    16    9
 -- Belgium    3401    75    340
 -- Norway    2385    7    6
--- Sweden    1934    21    16
+-- Sweden    1934    24    16
 -- Japan    1848    41    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
@@ -1944,8 +1944,8 @@
 -- Chile    632    1    8
 -- Finland    626    1    10
 -- Greece    624    15    19
+-- Indonesia    579    49    30
 -- Iceland    568    5    36
--- Indonesia    514    48    29
 -- Saudi Arabia    511    0    17
 -- Qatar    494    0    33
 -- Philippines    462    33    18
@@ -1954,12 +1954,12 @@
 -- Russian Federation    438    1    16
 -- Romania    433    3    64
 -- India    425    8    27
--- Slovenia    414    2    0
+-- Slovenia    414    3    0
 -- Peru    363    5    1
+-- Hong Kong    356    4    100
+-- Estonia    352    0    4
 -- Bahrain    337    2    160
 -- Egypt    327    14    56
--- Estonia    326    0    4
--- Hong Kong    318    4    100
 -- Mexico    316    2    4
 -- Panama    313    3    1
 -- Croatia    306    1    5
@@ -1994,7 +1994,7 @@
 -- Cyprus    95    1    3
 -- Moldova, Republic of    94    1    2
 -- Malta    90    0    2
--- Albania    89    2    2
+-- Albania    89    4    2
 -- Brunei Darussalam    88    0    2
 -- Sri Lanka    87    0    3
 -- Cambodia    86    0    2
@@ -2007,7 +2007,7 @@
 -- Senegal    67    0    5
 -- Azerbaijan    65    1    11
 -- Réunion    64    0    1
--- Kazakhstan    60    3    0
+-- Kazakhstan    62    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    58    1    0
 -- Cameroon    56    0    2
@@ -2031,6 +2031,7 @@
 -- Paraguay    22    1    0
 -- Macao    22    0    10
 -- Montenegro    22    1    0
+-- Mayotte    21    0    0
 -- Jamaica    19    1    2
 -- Guyana    19    1    0
 -- Guatemala    19    1    0
@@ -2047,11 +2048,10 @@
 -- Tanzania, United Republic of    12    0    0
 -- Madagascar    12    0    0
 -- Ethiopia    11    0    4
--- Mayotte    11    0    0
 -- Mongolia    10    0    0
 -- Aruba    9    0    1
+-- New Caledonia    8    0    0
 -- Seychelles    7    0    0
--- New Caledonia    7    0    0
 -- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
 -- Bermuda    6    0    0
