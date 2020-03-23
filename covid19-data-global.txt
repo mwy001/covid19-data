@@ -1750,7 +1750,7 @@
 ---- Melilla    25    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
--- Germany    24873    94    266
+-- Germany    24904    94    266
 ---- Saxony    731    1    2
 ---- Mecklenburg-Vorpommern    187    0    0
 ---- Free State of Bavaria    4457    22    21
@@ -1912,8 +1912,8 @@
 ---- Tasmania    22    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
+-- Brazil    1604    25    2
 -- Portugal    1600    14    5
--- Brazil    1593    25    2
 -- Denmark    1514    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -1936,7 +1936,7 @@
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
 -- Ireland    906    4    5
--- Pakistan    803    6    13
+-- Pakistan    804    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
 -- Thailand    721    1    52
@@ -1948,15 +1948,15 @@
 -- Indonesia    514    48    29
 -- Saudi Arabia    511    0    17
 -- Qatar    494    0    33
+-- Philippines    462    33    18
 -- Singapore    455    2    144
 ---- Central Singapore Community Development Council    345    0    124
 -- Russian Federation    438    1    16
 -- Romania    433    3    64
 -- India    425    8    27
 -- Slovenia    414    2    0
--- Philippines    396    33    18
 -- Peru    363    5    1
--- Bahrain    335    2    160
+-- Bahrain    337    2    160
 -- Egypt    327    14    56
 -- Estonia    326    0    4
 -- Hong Kong    318    4    100
@@ -1984,7 +1984,7 @@
 -- Lithuania    143    1    1
 -- Costa Rica    134    2    2
 -- Bosnia and Herzegovina    126    1    2
--- Viet Nam    118    0    17
+-- Viet Nam    121    0    17
 -- Faroe Islands    118    0    14
 -- North Macedonia    115    1    1
 -- Morocco    115    4    3
@@ -2092,7 +2092,7 @@
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
 -- Somalia    1    0    0
--- Gambia    1    0    0
+-- Gambia    1    1    0
 -- Montserrat    1    0    0
 -- Djibouti    1    0    0
 -- Chad    1    0    0
