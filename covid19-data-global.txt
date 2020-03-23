@@ -569,7 +569,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    1    0    0
----- CA    1813    35    6
+---- CA    1819    35    6
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
 ------ San Mateo(06081)    117    1    0
@@ -597,7 +597,7 @@
 ------ Fresno(06019)    6    0    0
 ------ Imperial(06025)    6    0    0
 ------ Monterey(06053)    11    1    0
------- Santa Barbara(06083)    13    0    0
+------ Santa Barbara(06083)    18    0    0
 ------ Amador(06005)    1    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    2    0    0
@@ -611,7 +611,7 @@
 ------ Butte(06007)    1    0    0
 ------ El Dorado(06017)    2    0    0
 ------ Yuba(06115)    2    0    0
------- Napa(06055)    1    0    0
+------ Napa(06055)    2    0    0
 ---- NJ    1926    21    1
 ------ Bergen(34003)    457    6    0
 ------ Essex(34013)    172    4    0
@@ -854,7 +854,7 @@
 ------ Twiggs(13289)    1    0    0
 ------ Coffee(13069)    1    0    0
 ------ Tattnall(13267)    1    0    0
----- TX    663    8    15
+---- TX    664    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
@@ -874,7 +874,7 @@
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    12    0    0
 ------ Denton(48121)    30    0    0
------- Ellis(48139)    3    0    0
+------ Ellis(48139)    5    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    1    0    0
@@ -975,7 +975,7 @@
 ------ Dunn(55033)    1    0    0
 ------ St Croix(55109)    2    0    0
 ------ Rock(55105)    3    0    0
------- Fond du Lac(55039)    15    1    0
+------ Fond du Lac(55039)    16    1    0
 ------ Chippewa(55017)    1    0    0
 ------ Jefferson(55055)    2    0    0
 ------ Marathon(55073)    1    0    0
@@ -1023,6 +1023,7 @@
 ------ Loudon(47105)    1    0    0
 ------ Marion(47115)    1    0    0
 ------ Perry(47135)    1    0    0
+------ McMinn(47107)    1    0    0
 ---- CT    327    8    0
 ------ Fairfield(09001)    208    5    0
 ------ New Haven(09009)    29    0    0
@@ -1120,14 +1121,14 @@
 ------ Franklin(51067)    1    0    0
 ------ Isle of Wight(51093)    1    0    0
 ------ City of Alexandria(51510)    5    0    0
------- City of Charlottesville(51540)    3    0    0
+------ City of Charlottesville(51540)    4    0    0
 ------ City of Harrisonburg(51660)    1    0    0
 ------ City of Norfolk(51710)    3    0    0
------- City of Virginia Beach(51810)    5    0    0
------- City of Williamsburg(51830)    4    0    0
+------ City of Virginia Beach(51810)    17    0    0
+------ City of Williamsburg(51830)    5    1    0
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
------- City of Newport News(51700)    2    0    0
+------ City of Newport News(51700)    2    1    0
 ------ Lee(51105)    2    0    0
 ------ Rockingham(51165)    2    0    0
 ------ Amherst(51009)    1    0    0
@@ -1135,6 +1136,7 @@
 ------ Culpeper(51047)    2    0    0
 ------ Fluvanna(51065)    1    0    0
 ------ Louisa(51109)    1    0    0
+------ City of Danville(51590)    1    0    0
 ---- NC    332    0    0
 ------ Wake(37183)    52    0    0
 ------ Durham(37063)    41    0    0
@@ -1260,16 +1262,17 @@
 ------ Frederick(24021)    2    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    2    0    0
------- Baltimore City(24510)    15    0    0
+------ Baltimore City(24510)    24    0    0
 ------ Wicomico(24045)    2    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    36    1    0
+------ Prince Georges(24033)    40    1    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
 ------ Washington(24043)    2    0    0
 ------ Cecil(24015)    1    0    0
 ------ Garrett(24023)    2    0    0
+------ St Marys(24037)    1    0    0
 ---- NV    190    2    0
 ------ Clark(32003)    126    2    0
 ------ Washoe(32031)    25    0    0
@@ -1352,7 +1355,7 @@
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    3    0    0
 ---- DC    120    3    0
------- District of Columbia(11001)    98    1    0
+------ District of Columbia(11001)    120    2    0
 ---- IN    205    7    0
 ------ Marion(18097)    82    3    0
 ------ Hendricks(18063)    8    0    0
@@ -1467,8 +1470,8 @@
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    3    0    0
 ------ San Miguel(35047)    1    0    0
------- McKinley(35031)    1    0    0
------- Dona Ana(35013)    2    0    0
+------ McKinley(35031)    2    0    0
+------ Dona Ana(35013)    4    0    0
 ------ Lea(35025)    1    0    0
 ------ San Juan(35045)    1    0    0
 ---- RI    84    0    0
@@ -1590,7 +1593,7 @@
 ------ Garvin(40049)    2    0    0
 ------ Muskogee(40101)    1    0    0
 ------ Noble(40103)    1    0    0
----- KS    65    2    0
+---- KS    67    2    0
 ------ Johnson(20091)    28    1    0
 ------ Wyandotte(20209)    14    1    0
 ------ Butler(20015)    3    0    0
@@ -1607,6 +1610,7 @@
 ------ Riley(20161)    1    0    0
 ------ Reno(20155)    1    0    0
 ------ Mitchell(20123)    1    0    0
+------ Lyon(20111)    2    0    0
 ---- VT    54    2    0
 ------ Chittenden(50007)    22    1    0
 ------ Bennington(50003)    4    0    0
@@ -1621,14 +1625,14 @@
 ------ New Castle(10003)    39    0    0
 ------ Sussex(10005)    12    0    0
 ------ Kent(10001)    5    0    0
----- MO    139    5    0
+---- MO    142    5    0
 ------ Greene(29077)    10    0    0
 ------ Cass(29037)    6    0    0
------- Boone(29019)    15    1    0
+------ Boone(29019)    18    1    0
 ------ Cole(29051)    4    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    8    1    0
------- St Louis(29189)    17    1    0
+------ St Louis(29189)    55    1    0
 ------ St Charles(29183)    3    0    0
 ------ St Louis City(29510)    55    1    0
 ------ Christian(29043)    2    0    0
@@ -1710,7 +1714,7 @@
 ---- Grand Princess Cruise Ship    31    1    0
 ---- Others    60    2    0
 ---- GU    27    1    0
------- Guam(66010)    15    0    0
+------ Guam(66010)    27    1    0
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
@@ -1810,7 +1814,7 @@
 ---- Mayotte    14    0    0
 ---- Reunion    47    0    0
 ---- SCGF0594    19    0    0
--- Korea, Republic of    8897    104    2909
+-- Korea, Republic of    8961    111    3166
 ---- Busan    109    1    71
 ---- Chungcheongbuk-do    37    0    9
 ---- Chungcheongnam-do    120    0    44
@@ -1888,7 +1892,7 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
--- Australia    1609    7    88
+-- Australia    1629    7    88
 ---- New South Wales    533    6    4
 ---- Victoria    296    0    70
 ---- Queensland    221    0    8
@@ -1902,7 +1906,7 @@
 -- Denmark    1514    13    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Canada    1470    21    14
+-- Canada    1472    21    14
 ---- British Columbia    424    10    4
 ---- Ontario    425    5    6
 ---- Alberta    259    1    0
@@ -1991,18 +1995,18 @@
 -- Nigeria    69    0    2
 -- Senegal    67    0    5
 -- Azerbaijan    65    1    11
+-- Réunion    64    0    1
 -- Kazakhstan    60    3    0
 -- Palestine    59    0    17
--- Guadeloupe    56    1    0
+-- Guadeloupe    58    1    0
 -- Oman    55    0    17
 -- Georgia    54    0    3
 -- Trinidad and Tobago    50    0    1
--- Réunion    47    0    1
+-- Martinique    44    1    0
 -- Uzbekistan    43    0    0
 -- Afghanistan    40    1    1
 -- Cameroon    40    0    2
 -- Liechtenstein    37    0    0
--- Martinique    37    1    0
 -- Cuba    35    1    0
 -- Congo, Democratic Republic of the    30    1    0
 -- Mauritius    28    2    0
@@ -2017,10 +2021,10 @@
 -- Macao    22    0    10
 -- Montenegro    21    0    0
 -- Jamaica    19    1    2
+-- Guyana    19    1    0
 -- Guatemala    19    1    0
 -- Rwanda    19    0    0
 -- French Guiana    18    0    0
--- Guyana    18    1    0
 -- French Polynesia    18    0    0
 -- Togo    16    0    1
 -- Gibraltar    15    0    2
