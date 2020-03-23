@@ -489,7 +489,7 @@
 ---- Liguria    1665    171    143
 ---- Veneto    5122    169    309
 ---- Bolzano    678    23    7
--- United States of America    39242    485    182
+-- United States of America    39242    487    182
 ---- NY    22768    153    0
 ------ Westchester(36119)    1873    0    0
 ------ Nassau(36059)    1900    4    0
@@ -572,7 +572,7 @@
 ------ Stevens(53065)    1    0    0
 ------ Walla Walla(53071)    1    0    0
 ------ Whitman(53075)    1    0    0
----- CA    1829    35    7
+---- CA    1830    35    7
 ------ Santa Clara(06085)    302    10    0
 ------ Los Angeles(06037)    409    5    0
 ------ San Mateo(06081)    117    1    0
@@ -607,7 +607,7 @@
 ------ Kern(06029)    5    0    0
 ------ Madera(06039)    3    0    0
 ------ Nevada(06057)    1    0    0
------- Shasta(06089)    1    0    0
+------ Shasta(06089)    2    0    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    1    0    0
@@ -858,7 +858,7 @@
 ------ Twiggs(13289)    1    0    0
 ------ Coffee(13069)    1    0    0
 ------ Tattnall(13267)    1    0    0
----- TX    668    8    15
+---- TX    670    8    15
 ------ Dallas(48113)    131    3    0
 ------ Travis(48453)    79    0    0
 ------ Harris(48201)    74    1    0
@@ -885,7 +885,7 @@
 ------ Webb(48479)    4    0    0
 ------ Wichita(48485)    5    0    0
 ------ Johnson(48251)    2    0    0
------- Comal(48091)    2    0    0
+------ Comal(48091)    3    0    0
 ------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
 ------ Williamson(48491)    9    0    0
@@ -923,6 +923,7 @@
 ------ Maverick(48323)    1    0    0
 ------ Parker(48367)    1    0    0
 ------ Grayson(48181)    1    0    0
+------ Orange(48361)    1    0    0
 ---- PA    516    6    0
 ------ Montgomery(42091)    110    1    0
 ------ Philadelphia(42101)    96    0    0
@@ -1195,7 +1196,7 @@
 ------ Oakland(26125)    277    2    0
 ------ Wayne(26163)    477    5    0
 ------ Macomb(26099)    160    2    0
------- Washtenaw(26161)    35    0    0
+------ Washtenaw(26161)    35    1    0
 ------ Kent(26081)    22    2    0
 ------ Ingham(26065)    11    0    0
 ------ Bay(26017)    1    0    0
@@ -1226,6 +1227,7 @@
 ------ Grand Traverse(26055)    1    0    0
 ------ Roscommon(26143)    1    0    0
 ------ Chippewa(26033)    1    0    0
+------ Muskegon(26121)    1    0    0
 ---- MN    169    1    24
 ------ Hennepin(27053)    57    0    0
 ------ Ramsey(27123)    18    1    0
@@ -1723,13 +1725,13 @@
 ------ Putnam(54079)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    31    1    0
----- Others    60    2    0
+---- Others    68    3    0
 ---- GU    27    1    0
 ------ Guam(66010)    27    1    0
 ---- PR    23    1    0
 ---- VI    6    0    0
 ---- Wuhan Evacuee    4    0    0
--- Spain    33089    2182    3355
+-- Spain    33089    2206    3355
 ---- Andalusia    1515    40    0
 ---- Aragon    424    22    0
 ---- Balearic Islands    246    4    2
@@ -1799,7 +1801,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- France    16481    674    2206
+-- France    16689    674    2206
 ---- France    7652    148    12
 ---- St Martin    6    0    0
 ---- Saint Barthelemy    3    0    0
@@ -1844,8 +1846,8 @@
 ---- Seoul    330    0    64
 ---- Ulsan    36    0    17
 ---- 未确定地区    23    3    0
--- Switzerland    8234    107    131
--- United Kingdom of Great Britain and Northern Ireland    5741    285    135
+-- Switzerland    8547    118    131
+-- United Kingdom of Great Britain and Northern Ireland    5741    289    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1858,11 +1860,11 @@
 -- Netherlands    4216    180    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    3806    16    9
+-- Austria    3923    16    9
 -- Belgium    3743    88    401
--- Norway    2532    8    6
+-- Norway    2538    9    6
 -- Portugal    2060    23    14
--- Sweden    1934    25    16
+-- Sweden    2038    25    16
 -- Japan    1848    41    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
@@ -1914,7 +1916,7 @@
 ---- Tasmania    22    0    3
 ---- Northern Territory    3    0    0
 ---- Australian Capital Territory    19    0    0
--- Brazil    1619    25    2
+-- Brazil    1620    25    2
 -- Malaysia    1518    14    159
 -- Denmark    1514    13    1
 ---- Denmark    977    4    1
@@ -1940,14 +1942,14 @@
 -- Pakistan    824    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
+-- Chile    746    1    8
 -- Thailand    721    1    52
--- Finland    686    1    10
+-- Finland    700    1    10
 -- Poland    684    8    13
--- Chile    632    1    8
 -- Greece    624    17    19
+-- Iceland    588    5    36
 -- Indonesia    579    49    30
 -- Romania    576    5    73
--- Iceland    568    5    36
 -- Saudi Arabia    511    0    17
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
@@ -1976,9 +1978,9 @@
 -- Armenia    194    0    2
 -- Bulgaria    190    3    3
 -- Kuwait    189    0    30
+-- San Marino    187    20    4
 -- Slovakia    186    1    7
 -- Latvia    180    0    1
--- San Marino    175    20    4
 -- Hungary    167    7    16
 -- Uruguay    158    0    0
 -- Lithuania    154    1    1
@@ -1986,10 +1988,10 @@
 -- North Macedonia    136    2    1
 -- Morocco    134    4    3
 -- Costa Rica    134    2    2
+-- Andorra    133    1    1
 -- Bosnia and Herzegovina    128    1    2
 -- Viet Nam    122    0    17
 -- Faroe Islands    118    0    14
--- Andorra    113    1    1
 -- Jordan    112    0    1
 -- Malta    107    0    2
 -- New Zealand    102    0    0
