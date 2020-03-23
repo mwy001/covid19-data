@@ -1258,12 +1258,12 @@
 ------ Steele(27147)    3    0    0
 ------ Wabasha(27157)    1    0    0
 ------ Cass(27021)    1    0    0
----- MD    249    3    4
+---- MD    251    3    4
 ------ Montgomery(24031)    83    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    28    1    0
 ------ Howard(24027)    24    0    0
------- Anne Arundel(24003)    18    0    0
+------ Anne Arundel(24003)    20    0    0
 ------ Carroll(24013)    4    0    0
 ------ Harford(24025)    5    0    0
 ------ Charles(24017)    5    0    0
@@ -1430,7 +1430,7 @@
 ------ Kossuth(19109)    1    0    0
 ------ Sioux(19167)    1    0    0
 ------ Poweshiek(19157)    1    0    0
----- KY    103    3    2
+---- KY    104    3    2
 ------ Jefferson(21111)    25    1    0
 ------ Fayette(21067)    10    0    0
 ------ Harrison(21097)    7    0    0
@@ -1630,10 +1630,10 @@
 ------ Rutland(50021)    3    0    0
 ------ Franklin(50011)    2    0    0
 ------ Windham(50025)    5    0    0
----- DE    56    0    0
------- New Castle(10003)    39    0    0
------- Sussex(10005)    12    0    0
------- Kent(10001)    5    0    0
+---- DE    64    0    0
+------ New Castle(10003)    43    0    0
+------ Sussex(10005)    15    0    0
+------ Kent(10001)    6    0    0
 ---- MO    150    5    2
 ------ Greene(29077)    14    0    0
 ------ Cass(29037)    6    0    0
@@ -1877,20 +1877,20 @@
 ---- Saitama    52    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    5    0    0
----- Tokyo    153    4    0
+---- Tokyo    154    4    0
 ---- Wakayama    17    1    2
----- Kyoto    24    0    2
+---- Kyoto    25    0    2
 ---- Osaka    134    2    1
 ---- Chiba    47    0    0
 ---- Kanagawa    77    4    1
 ---- Shizuoka    3    0    0
----- Aichi    144    17    2
+---- Aichi    145    17    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    4    0    1
 ---- Ehime    3    0    0
----- hyogo    111    6    0
+---- hyogo    113    6    0
 ---- oita    21    0    0
 ---- Yamaguchi    4    0    0
 ---- Miyazaki    3    0    0
@@ -1902,7 +1902,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
----- Ibaraki    4    0    0
+---- Ibaraki    5    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
@@ -1939,10 +1939,10 @@
 -- Turkey    1236    30    0
 -- Czechia    1165    1    6
 -- Ireland    906    4    5
--- Pakistan    825    6    13
+-- Pakistan    873    6    13
 -- Luxembourg    798    8    6
 -- Ecuador    789    14    3
--- Chile    746    1    8
+-- Chile    746    2    8
 -- Thailand    721    1    52
 -- Finland    700    1    10
 -- Poland    684    8    13
@@ -1970,9 +1970,9 @@
 -- Lebanon    267    4    8
 -- Iraq    266    23    62
 -- Argentina    266    4    27
--- Colombia    235    2    3
--- Serbia    222    2    2
--- Dominican Republic    202    3    0
+-- Serbia    249    2    2
+-- Dominican Republic    245    3    0
+-- Colombia    235    3    3
 -- Algeria    201    17    65
 -- United Arab Emirates    198    2    41
 -- Taiwan    195    2    28
@@ -1990,7 +1990,7 @@
 -- Costa Rica    134    2    2
 -- Andorra    133    1    1
 -- Bosnia and Herzegovina    128    1    2
--- Viet Nam    122    0    17
+-- Viet Nam    123    0    17
 -- Faroe Islands    118    0    14
 -- Jordan    112    0    1
 -- Malta    107    0    2
@@ -2007,10 +2007,10 @@
 -- Venezuela, Bolivarian Republic of    77    0    15
 -- Ukraine    73    3    8
 -- Azerbaijan    72    1    11
+-- Réunion    71    0    1
 -- Nigeria    69    1    2
 -- Senegal    67    0    5
 -- Oman    66    0    17
--- Réunion    64    0    1
 -- Kazakhstan    62    3    0
 -- Palestine    59    0    17
 -- Guadeloupe    58    1    0
@@ -2023,7 +2023,7 @@
 -- Afghanistan    40    1    1
 -- Cuba    35    1    0
 -- Bangladesh    33    3    5
--- Puerto Rico    31    2    0
+-- Puerto Rico    31    2    1
 -- Congo, Democratic Republic of the    30    1    0
 -- Guam    29    1    0
 -- Mauritius    28    2    0
@@ -2035,16 +2035,16 @@
 -- Paraguay    22    1    0
 -- Montenegro    22    1    0
 -- Mayotte    21    0    0
+-- French Guiana    20    0    6
 -- Jamaica    19    1    2
 -- Guyana    19    1    0
 -- Guatemala    19    1    0
 -- Rwanda    19    0    0
 -- Togo    18    0    1
--- French Guiana    18    0    0
 -- French Polynesia    18    0    0
 -- Barbados    17    0    0
 -- Kyrgyzstan    16    0    0
--- Gibraltar    15    0    2
+-- Gibraltar    15    0    5
 -- Kenya    15    0    0
 -- Côte d'Ivoire    14    0    1
 -- Maldives    13    0    5
@@ -2053,9 +2053,9 @@
 -- Ethiopia    11    0    4
 -- Mongolia    10    0    0
 -- Aruba    9    0    1
+-- Equatorial Guinea    9    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
--- Equatorial Guinea    6    0    0
 -- Virgin Islands, U.S.    6    0    0
 -- Bermuda    6    0    0
 -- Saint Martin (French part)    5    0    0
