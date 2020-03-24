@@ -492,7 +492,7 @@
 ---- Bolzano    724    29    7
 -- United States of America    46467    634    333
 ---- NY    23230    213    0
------- Westchester(36119)    2894    0    0
+------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
 ------ Suffolk(36103)    1458    13    0
 ------ Albany(36001)    127    0    0
@@ -1985,9 +1985,9 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
 -- Portugal    2060    23    14
--- Sweden    2046    27    16
+-- Sweden    2059    33    16
 -- Brazil    1924    34    2
--- Japan    1848    42    235
+-- Japan    1848    42    285
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -2033,7 +2033,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Turkey    1529    37    0
--- Malaysia    1518    14    159
+-- Malaysia    1518    15    159
 -- Israel    1442    1    41
 -- Czechia    1236    1    7
 -- Ireland    1125    6    5
@@ -2047,7 +2047,7 @@
 -- Greece    695    17    29
 -- Iceland    588    5    51
 -- Indonesia    579    49    30
--- Romania    576    7    73
+-- Romania    576    8    73
 -- Saudi Arabia    562    0    19
 -- India    511    10    37
 -- Singapore    509    2    152
@@ -2074,7 +2074,7 @@
 -- Armenia    235    0    2
 -- Algeria    230    17    65
 -- Taiwan    215    2    29
--- Bulgaria    201    3    3
+-- Bulgaria    202    3    3
 -- United Arab Emirates    198    2    41
 -- Kuwait    189    0    30
 -- San Marino    187    20    4
@@ -2086,8 +2086,8 @@
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
 -- Morocco    143    4    5
+-- Bosnia and Herzegovina    137    1    2
 -- North Macedonia    136    2    1
--- Bosnia and Herzegovina    136    1    2
 -- Andorra    133    1    1
 -- Jordan    127    0    1
 -- Viet Nam    123    0    17
@@ -2119,6 +2119,7 @@
 -- Liechtenstein    51    0    0
 -- Uzbekistan    49    0    0
 -- Afghanistan    42    1    1
+-- Kyrgyzstan    42    0    0
 -- Cuba    40    1    0
 -- Rwanda    36    0    0
 -- Congo, Democratic Republic of the    36    1    0
@@ -2145,7 +2146,6 @@
 -- Barbados    17    0    0
 -- Madagascar    17    0    0
 -- Kenya    16    0    0
--- Kyrgyzstan    16    0    0
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
 -- Isle of Man    13    0    0
