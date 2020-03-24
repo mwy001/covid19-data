@@ -2129,10 +2129,10 @@
 -- Guam    33    1    0
 -- Puerto Rico    31    2    1
 -- Honduras    30    0    0
+-- Montenegro    29    1    0
 -- Bolivia, Plurinational State of    28    0    0
 -- Paraguay    27    2    0
 -- Ghana    27    2    8
--- Montenegro    27    1    0
 -- Côte d'Ivoire    25    0    1
 -- Macao    25    0    10
 -- Monaco    23    0    1
