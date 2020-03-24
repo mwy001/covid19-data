@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    52453    685    333
+-- United States of America    52525    690    333
 ---- NY    25665    213    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1288,10 +1288,10 @@
 ------ Bertie(37015)    1    0    0
 ------ Duplin(37061)    1    0    0
 ------ Lenoir(37107)    1    0    0
----- MI    1790    19    5
+---- MI    1791    24    5
 ------ Oakland(26125)    428    4    0
 ------ Wayne(26163)    876    9    0
------- Macomb(26099)    225    2    0
+------ Macomb(26099)    225    3    0
 ------ Washtenaw(26161)    50    3    0
 ------ Kent(26081)    31    2    0
 ------ Ingham(26065)    15    0    0
@@ -1326,6 +1326,10 @@
 ------ Muskegon(26121)    3    0    0
 ------ Kalamazoo(26077)    3    0    0
 ------ Newaygo(26123)    2    0    0
+------ Hillsdale(26059)    1    0    0
+------ Kalkaska(26079)    1    0    0
+------ Lapeer(26087)    1    0    0
+------ Manistee(26101)    1    0    0
 ---- MN    263    1    24
 ------ Hennepin(27053)    103    0    0
 ------ Ramsey(27123)    26    1    0
@@ -1397,32 +1401,32 @@
 ------ Utah(49049)    14    0    0
 ------ Cache(49005)    3    0    0
 ------ Box Elder(49003)    1    0    0
----- SC    301    5    0
------- Kershaw(45055)    54    1    0
------- Beaufort(45013)    21    0    0
------- Horry(45051)    16    0    0
------- Charleston(45019)    31    1    0
------- Lexington(45063)    17    1    0
------- Anderson(45007)    15    0    0
------- Greenville(45045)    31    0    0
+---- SC    342    5    0
+------ Kershaw(45055)    58    1    0
+------ Beaufort(45013)    22    0    0
+------ Horry(45051)    19    0    0
+------ Charleston(45019)    36    1    0
+------ Lexington(45063)    19    1    0
+------ Anderson(45007)    16    0    0
+------ Greenville(45045)    39    0    0
 ------ Lancaster(45057)    7    0    0
 ------ Calhoun(45017)    1    0    0
 ------ Fairfield(45039)    2    1    0
------- Richland(45079)    43    0    0
------- Spartanburg(45083)    3    0    0
------- York(45091)    7    0    0
------- Dorchester(45035)    2    0    0
+------ Richland(45079)    45    0    0
+------ Spartanburg(45083)    4    0    0
+------ York(45091)    11    0    0
+------ Dorchester(45035)    3    0    0
 ------ Lee(45061)    2    1    0
 ------ Abbeville(45001)    1    0    0
 ------ Saluda(45081)    1    0    0
 ------ Orangeburg(45075)    8    0    0
------- Aiken(45003)    1    0    0
+------ Aiken(45003)    2    0    0
 ------ Berkeley(45015)    4    0    0
------- Clarendon(45027)    4    1    0
------- Darlington(45031)    7    0    0
------- Florence(45041)    3    1    0
+------ Clarendon(45027)    5    1    0
+------ Darlington(45031)    8    0    0
+------ Florence(45041)    5    1    0
 ------ Pickens(45077)    1    0    0
------- Sumter(45085)    4    0    0
+------ Sumter(45085)    8    0    0
 ------ Greenwood(45047)    3    0    0
 ------ Colleton(45029)    1    0    0
 ------ Dillon(45033)    1    0    0
@@ -1430,10 +1434,11 @@
 ------ Marlboro(45069)    1    0    0
 ------ Newberry(45071)    1    0    0
 ------ Hampton(45049)    1    0    0
------- Jasper(45053)    1    0    0
+------ Jasper(45053)    2    0    0
 ------ Oconee(45073)    2    0    0
 ------ Chester(45023)    1    0    0
 ------ Georgetown(45043)    2    0    0
+------ Chesterfield(45025)    1    0    0
 ---- AL    215    0    0
 ------ Jefferson(01073)    90    0    0
 ------ Shelby(01117)    24    0    0
@@ -1796,7 +1801,7 @@
 ------ New Castle(10003)    60    0    0
 ------ Sussex(10005)    22    0    0
 ------ Kent(10001)    9    0    0
----- MO    228    7    2
+---- MO    255    7    2
 ------ Greene(29077)    17    1    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
@@ -1905,7 +1910,7 @@
 ------ Guam(66010)    29    1    0
 ---- PR    39    2    0
 ---- VI    17    0    0
--- Spain    39676    2800    3794
+-- Spain    39885    2808    3794
 ---- Andalusia    2471    40    0
 ---- Aragon    758    22    0
 ---- Balearic Islands    478    4    2
@@ -1926,7 +1931,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    32781    157    3243
+-- Germany    32986    157    3243
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -2053,6 +2058,7 @@
 ---- Yukon    2    0    0
 -- Portugal    2362    33    22
 -- Sweden    2286    36    16
+-- Brazil    2201    46    2
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
@@ -2062,7 +2068,6 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
--- Brazil    2100    46    2
 -- Israel    1930    3    53
 -- Turkey    1872    44    0
 -- Japan    1848    43    285
@@ -2111,7 +2116,7 @@
 -- Denmark    1591    32    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Czechia    1394    2    8
+-- Czechia    1394    3    10
 -- Ireland    1329    7    5
 -- Luxembourg    1099    8    6
 -- Ecuador    1049    27    3
@@ -2119,9 +2124,9 @@
 -- Chile    922    2    17
 -- Poland    901    10    13
 -- Thailand    827    4    52
+-- Romania    794    11    79
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
--- Romania    762    11    79
 -- Greece    743    20    29
 -- Indonesia    686    55    30
 -- Iceland    678    5    51
@@ -2164,7 +2169,7 @@
 -- Andorra    164    1    1
 -- Uruguay    162    0    0
 -- New Zealand    155    0    12
--- Jordan    153    0    1
+-- Jordan    154    0    1
 -- North Macedonia    148    2    1
 -- Viet Nam    134    0    17
 -- Moldova, Republic of    125    1    2
@@ -2191,8 +2196,8 @@
 -- Cameroon    66    0    2
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
+-- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
--- Martinique    53    1    0
 -- Ghana    53    2    8
 -- Liechtenstein    51    0    0
 -- Uzbekistan    50    0    0
@@ -2214,14 +2219,14 @@
 -- Kenya    25    0    0
 -- Monaco    23    0    1
 -- French Guiana    23    0    6
+-- Guyana    23    1    0
 -- French Polynesia    23    0    0
 -- Isle of Man    23    0    0
 -- Jamaica    21    1    2
 -- Guatemala    21    1    0
 -- Togo    20    0    1
--- Guyana    20    1    0
+-- Barbados    18    0    0
 -- Virgin Islands, U.S.    17    0    0
--- Barbados    17    0    0
 -- Madagascar    17    0    0
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
@@ -2236,12 +2241,12 @@
 -- Suriname    7    0    0
 -- Namibia    7    0    2
 -- Seychelles    7    0    0
+-- Haiti    7    0    0
 -- Cayman Islands    6    1    0
 -- Gabon    6    1    0
 -- Curaçao    6    1    0
 -- Benin    6    0    0
 -- Bermuda    6    0    0
--- Haiti    6    0    0
 -- Greenland    5    0    2
 -- El Salvador    5    0    0
 -- Holy See    4    0    0
