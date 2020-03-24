@@ -1824,35 +1824,31 @@
 ------ Kanawha(54039)    4    0    0
 ------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    1    0    0
----- Unassigned Location (From Diamond Princess)    55    0    0
----- Grand Princess Cruise Ship    31    1    0
----- Others    81    3    0
 ---- GU    29    1    0
 ------ Guam(66010)    29    1    0
 ---- PR    31    2    0
 ---- VI    17    0    0
----- Wuhan Evacuee    4    0    0
 -- Spain    39673    2696    3794
----- Andalusia    1515    40    0
----- Aragon    424    22    0
----- Balearic Islands    246    4    2
----- Basque Country    1725    85    9
----- Canary Islands    348    7    7
----- Cantabria    215    2    10
----- Castile and León    1466    55    2
----- Castile-La Mancha    1423    84    13
----- Catalonia    4203    122    3
----- Community of Madrid    8921    804    109
----- Comunidad Foral de Navarra    664    9    0
----- Extremadura    354    12    5
----- Galicia    739    9    3
----- Principality of Asturias    486    5    3
----- Región de Murcia    240    1    0
----- Rioja    564    15    1
----- Valencian Community    1363    50    1
----- Melilla    25    0    0
+---- Andalusia    2471    40    0
+---- Aragon    758    22    0
+---- Balearic Islands    478    4    2
+---- Basque Country    2728    85    9
+---- Canary Islands    557    7    7
+---- Cantabria    425    2    10
+---- Castile and León    2460    55    2
+---- Castile-La Mancha    2465    84    13
+---- Catalonia    7864    122    3
+---- Community of Madrid    12352    804    109
+---- Comunidad Foral de Navarra    1014    9    0
+---- Extremadura    636    12    5
+---- Galicia    1415    9    3
+---- Principality of Asturias    662    5    3
+---- Región de Murcia    385    1    0
+---- Rioja    802    15    1
+---- Valencian Community    2167    50    1
+---- Melilla    28    0    0
 ---- Navarre    130    0    0
----- Ceuta    5    0    0
+---- Ceuta    6    0    0
 -- Germany    30150    130    453
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
@@ -1860,12 +1856,12 @@
 ---- Berlin    1220    2    6
 ---- Brandenburg    385    1    1
 ---- Thuringia    377    1    33
----- Schleswig-Holstein    487    1    1
+---- Schleswig-Holstein    544    1    1
 ---- Lower Saxony    1779    6    28
 ---- Bremen    183    0    26
 ---- Hamburg    1043    1    1
 ---- Rhineland-Palatinate    1370    4    5
----- North Rhine-Westphalia    8224    41    187
+---- North Rhine-Westphalia    8745    45    187
 ---- Hesse    1620    3    6
 ---- Baden-Württemberg    5348    31    130
 ---- Saxony-Anhalt    321    1    0
@@ -1959,13 +1955,13 @@
 ---- Scotland    499    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Austria    4791    25    9
+-- Austria    4829    25    9
 -- Netherlands    4764    214    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    4269    122    461
 -- Norway    2647    11    6
--- Australia    2136    8    118
+-- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
 ---- Queensland    319    0    8
@@ -1982,8 +1978,6 @@
 ---- New Brunswick    17    0    0
 ---- Manitoba    20    0    0
 ---- Saskatchewan    66    0    0
----- Grand Princess    8    0    0
----- Grand Princess Cruise Ship    13    0    0
 ---- Prince Edward Island    3    0    0
 ---- Newfoundland and Labrador    24    0    0
 ---- Nova Scotia    44    0    0
@@ -1997,19 +1991,19 @@
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    28    0    0
----- Gifu    8    0    0
+---- Gifu    9    0    0
 ---- Nagano    4    0    0
----- Tochigi    4    0    0
+---- Tochigi    6    0    0
 ---- Kumamoto    7    0    0
----- Saitama    52    1    0
+---- Saitama    58    1    0
 ---- Ishikawa    8    0    0
----- Fukuoka    6    0    0
+---- Fukuoka    7    0    0
 ---- Tokyo    171    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    25    0    2
----- Osaka    134    2    1
----- Chiba    47    0    0
----- Kanagawa    77    4    1
+---- Osaka    142    2    1
+---- Chiba    48    0    0
+---- Kanagawa    82    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    145    17    2
 ---- Nara    9    0    1
@@ -2017,19 +2011,19 @@
 ---- Mie    9    0    1
 ---- Okinawa    5    0    1
 ---- Ehime    3    0    0
----- hyogo    113    6    0
----- oita    22    0    0
+---- hyogo    118    6    0
+---- oita    23    0    0
 ---- Yamaguchi    4    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    5    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    2    0    0
 ---- Hiroshima    3    0    0
----- Gunma    12    1    0
+---- Gunma    13    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    1    0    0
----- Ibaraki    5    0    0
+---- Ibaraki    10    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
@@ -2043,7 +2037,7 @@
 -- Czechia    1289    2    7
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
--- Pakistan    908    7    13
+-- Pakistan    916    7    13
 -- Luxembourg    875    8    6
 -- Thailand    827    4    52
 -- Finland    792    1    10
@@ -2063,7 +2057,7 @@
 -- Russian Federation    495    1    22
 -- Slovenia    442    3    0
 -- Peru    395    5    1
--- Bahrain    390    2    164
+-- Bahrain    390    3    164
 -- Hong Kong    386    4    102
 -- Estonia    369    0    7
 -- Mexico    367    4    4
@@ -2092,20 +2086,20 @@
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
 -- Bosnia and Herzegovina    150    1    2
+-- North Macedonia    148    2    1
 -- Morocco    143    4    5
--- North Macedonia    136    2    1
 -- Jordan    127    0    1
 -- Albania    123    5    10
 -- Viet Nam    123    0    17
 -- Faroe Islands    122    0    23
 -- Cyprus    116    1    3
+-- Tunisia    114    3    1
 -- Burkina Faso    114    4    7
 -- Malta    110    0    2
 -- Moldova, Republic of    109    1    2
 -- Brunei Darussalam    104    0    2
--- Sri Lanka    100    0    3
+-- Sri Lanka    101    0    3
 -- Ukraine    97    3    8
--- Tunisia    90    3    1
 -- Cambodia    87    0    2
 -- Senegal    86    0    8
 -- Oman    84    0    17
