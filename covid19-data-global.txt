@@ -489,7 +489,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    43936    634    182
+-- United States of America    44016    634    182
 ---- NY    22768    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -576,11 +576,11 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2168    40    7
------- Santa Clara(06085)    302    10    0
+---- CA    2208    43    7
+------ Santa Clara(06085)    321    13    0
 ------ Los Angeles(06037)    538    8    0
 ------ San Mateo(06081)    142    1    0
------- San Diego(06073)    205    1    0
+------ San Diego(06073)    226    1    0
 ------ San Francisco(06075)    131    0    0
 ------ Sacramento(06067)    88    4    0
 ------ Contra Costa(06013)    71    1    0
@@ -696,7 +696,7 @@
 ------ Highlands(12055)    2    0    0
 ------ Putnam(12107)    2    0    0
 ------ St Lucie(12111)    5    0    0
------- Miami-Dade(12086)    267    0    0
+------ Miami-Dade(12086)    278    0    0
 ------ Columbia(12023)    2    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    3    0    0
@@ -795,11 +795,11 @@
 ------ Washington(17189)    1    0    0
 ------ Kankakee(17091)    3    0    0
 ------ Adams(17001)    1    0    0
------- DuPage(17043)    79    0    0
+------ DuPage(17043)    95    0    0
 ------ McHenry(17111)    12    0    0
------- McLean(17113)    6    0    0
+------ McLean(17113)    7    1    0
 ------ Christian(17021)    1    0    0
------- La Salle(17099)    1    0    0
+------ La Salle(17099)    2    0    0
 ------ Jo Daviess(17085)    1    0    0
 ------ Stephenson(17177)    1    0    0
 ------ Livingston(17105)    1    0    0
@@ -843,7 +843,7 @@
 ------ Muscogee(13215)    2    0    0
 ------ Peach(13225)    3    0    0
 ------ Effingham(13103)    2    0    0
------- DeKalb(13089)    53    0    0
+------ DeKalb(13089)    74    0    0
 ------ Carroll(13045)    21    0    0
 ------ Chatham(13051)    4    0    0
 ------ Miller(13201)    1    0    0
@@ -1059,7 +1059,7 @@
 ------ Loudon(47105)    1    0    0
 ------ Marion(47115)    1    0    0
 ------ Perry(47135)    2    0    0
------- McMinn(47107)    1    0    0
+------ McMinn(47107)    2    0    0
 ------ Claiborne(47025)    1    0    0
 ------ Hardin(47071)    1    0    0
 ------ Lincoln(47103)    1    0    0
@@ -1158,7 +1158,7 @@
 ------ Gloucester(51073)    2    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    1    0    0
------- Richmond(51159)    6    0    0
+------ Richmond(51159)    8    0    0
 ------ Accomack(51001)    1    0    0
 ------ Mecklenburg(51117)    1    0    0
 ------ Rockbridge(51163)    1    0    0
@@ -1167,8 +1167,8 @@
 ------ City of Alexandria(51510)    5    0    0
 ------ City of Charlottesville(51540)    4    0    0
 ------ City of Harrisonburg(51660)    1    0    0
------- City of Norfolk(51710)    3    0    0
------- City of Virginia Beach(51810)    17    0    0
+------ City of Norfolk(51710)    4    0    0
+------ City of Virginia Beach(51810)    17    1    0
 ------ City of Williamsburg(51830)    5    1    0
 ------ City of Portsmouth(51740)    1    0    0
 ------ City of Suffolk(51800)    1    0    0
@@ -1182,8 +1182,8 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    393    0    0
------- Wake(37183)    52    0    0
+---- NC    407    0    0
+------ Wake(37183)    66    0    0
 ------ Durham(37063)    71    0    0
 ------ Mecklenburg(37119)    97    0    0
 ------ Chatham(37037)    3    0    0
@@ -1545,7 +1545,7 @@
 ------ Taos(35055)    3    0    0
 ------ San Miguel(35047)    1    0    0
 ------ McKinley(35031)    2    0    0
------- Dona Ana(35013)    4    0    0
+------ Dona Ana(35013)    10    0    0
 ------ Lea(35025)    1    0    0
 ------ San Juan(35045)    3    0    0
 ------ Chaves(35005)    4    0    0
@@ -1721,7 +1721,7 @@
 ------ Cole(29051)    5    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    10    1    0
------- St Louis(29189)    55    1    0
+------ St Louis(29189)    69    1    0
 ------ St Charles(29183)    4    0    0
 ------ St Louis City(29510)    69    1    0
 ------ Christian(29043)    2    0    0
@@ -1742,7 +1742,7 @@
 ------ Callaway(29027)    1    1    0
 ------ Lafayette(29107)    1    0    0
 ------ Taney(29213)    1    1    0
----- HI    56    0    0
+---- HI    77    0    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
@@ -1793,7 +1793,7 @@
 ------ Valley(16085)    1    0    0
 ------ Bannock(16005)    2    0    0
 ------ Cassia(16031)    1    0    0
----- ND    30    0    0
+---- ND    33    0    0
 ------ Burleigh(38015)    16    0    0
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
@@ -1817,10 +1817,10 @@
 ---- Unassigned Location (From Diamond Princess)    55    0    0
 ---- Grand Princess Cruise Ship    31    1    0
 ---- Others    81    3    0
----- GU    27    1    0
------- Guam(66010)    27    1    0
+---- GU    29    1    0
+------ Guam(66010)    29    1    0
 ---- PR    31    2    0
----- VI    6    0    0
+---- VI    17    0    0
 ---- Wuhan Evacuee    4    0    0
 -- Spain    35136    2311    3355
 ---- Andalusia    1515    40    0
@@ -1954,18 +1954,18 @@
 -- Austria    4474    21    9
 -- Belgium    3743    88    401
 -- Norway    2621    10    6
--- Canada    2091    24    320
----- British Columbia    424    10    4
----- Ontario    425    5    6
----- Alberta    259    1    0
----- Quebec    219    5    0
+-- Canada    2091    25    320
+---- British Columbia    472    13    4
+---- Ontario    503    6    6
+---- Alberta    301    1    0
+---- Quebec    628    5    0
 ---- New Brunswick    17    0    0
 ---- Manitoba    20    0    0
----- Saskatchewan    52    0    0
+---- Saskatchewan    66    0    0
 ---- Grand Princess    8    0    0
 ---- Grand Princess Cruise Ship    13    0    0
 ---- Prince Edward Island    3    0    0
----- Newfoundland and Labrador    9    0    0
+---- Newfoundland and Labrador    24    0    0
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
@@ -2201,3 +2201,4 @@
 -- Grenada    1    0    0
 -- Syrian Arab Republic    1    0    0
 -- Belize    1    0    0
+-- Turks and Caicos Islands    1    0    0
