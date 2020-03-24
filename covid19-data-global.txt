@@ -1,4 +1,4 @@
--- China    81803    3283    73301
+-- China    81803    3283    73302
 ---- 四川    545    3    536
 ------ 成都    150    3    141
 ------ 甘孜州    78    0    78
@@ -455,7 +455,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 香港    386    4    101
----- 湖北    67801    3160    60323
+---- 湖北    67801    3160    60324
 ------ 武汉    50006    2524    43214
 ------ 孝感    3518    128    3376
 ------ 鄂州    1394    59    1327
@@ -464,7 +464,7 @@
 ------ 荆门    928    39    885
 ------ 仙桃    575    22    547
 ------ 宜昌    931    36    892
------- 黄石    1015    38    973
+------ 黄石    1015    38    974
 ------ 十堰    672    8    664
 ------ 襄阳    1175    39    1134
 ------ 天门    496    15    481
@@ -495,7 +495,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46499    634    333
+-- United States of America    46501    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
@@ -505,7 +505,7 @@
 ------ Dutchess(36027)    100    1    0
 ------ Orange(36071)    389    0    0
 ------ Monroe(36055)    81    2    0
------- Erie(36029)    87    0    0
+------ Erie(36029)    92    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
 ------ Schenectady(36093)    44    0    0
@@ -514,7 +514,7 @@
 ------ Greene(36039)    4    0    0
 ------ Onondaga(36067)    53    0    0
 ------ Putnam(36079)    45    0    0
------- Broome(36007)    7    1    0
+------ Broome(36007)    9    1    0
 ------ Clinton(36019)    6    0    0
 ------ Delaware(36025)    3    0    0
 ------ Essex(36031)    3    0    0
@@ -1244,11 +1244,11 @@
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    1    0    0
 ------ Northampton(37131)    1    0    0
----- MI    1329    16    5
+---- MI    1329    18    5
 ------ Oakland(26125)    329    4    0
 ------ Wayne(26163)    638    8    0
 ------ Macomb(26099)    175    2    0
------- Washtenaw(26161)    42    2    0
+------ Washtenaw(26161)    42    3    0
 ------ Kent(26081)    28    2    0
 ------ Ingham(26065)    12    0    0
 ------ Bay(26017)    2    0    0
@@ -1826,6 +1826,7 @@
 ------ Kanawha(54039)    4    0    0
 ------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    1    0    0
+------ Harrison(54033)    2    0    0
 ---- GU    29    1    0
 ------ Guam(66010)    29    1    0
 ---- PR    39    2    0
@@ -1851,7 +1852,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    30649    132    749
+-- Germany    31260    132    749
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -1960,11 +1961,11 @@
 -- Netherlands    5560    276    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4839    25    9
+-- Austria    4876    25    9
 -- Belgium    4269    122    461
 -- Norway    2715    12    6
 -- Portugal    2362    29    22
--- Sweden    2272    33    16
+-- Sweden    2272    36    16
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
@@ -2030,7 +2031,7 @@
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
 ---- Aomori    2    0    0
--- Israel    1656    1    49
+-- Israel    1656    2    49
 -- Malaysia    1624    15    183
 -- Denmark    1577    32    1
 ---- Denmark    977    4    1
@@ -2039,17 +2040,17 @@
 -- Czechia    1289    2    8
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
+-- Chile    922    2    17
 -- Pakistan    918    7    13
 -- Luxembourg    875    8    6
 -- Thailand    827    4    52
+-- Poland    799    9    13
 -- Finland    792    1    10
--- Poland    774    9    13
 -- Saudi Arabia    767    1    28
 -- Romania    762    8    79
--- Chile    746    2    11
 -- Greece    695    19    29
 -- Indonesia    686    55    30
--- Iceland    588    5    51
+-- Iceland    678    5    51
 -- Singapore    558    2    156
 ---- Central Singapore Community Development Council    345    0    124
 -- South Africa    554    0    4
@@ -2057,7 +2058,7 @@
 -- India    519    10    40
 -- Qatar    501    0    37
 -- Russian Federation    495    1    22
--- Slovenia    442    4    0
+-- Slovenia    480    4    3
 -- Peru    395    5    1
 -- Bahrain    390    3    164
 -- Hong Kong    386    4    102
@@ -2066,7 +2067,7 @@
 -- Egypt    366    19    68
 -- Croatia    361    1    5
 -- Panama    345    6    1
--- Iraq    316    23    62
+-- Iraq    316    27    75
 -- Colombia    306    3    6
 -- Lebanon    304    4    8
 -- Argentina    301    4    51
@@ -2103,12 +2104,12 @@
 -- Sri Lanka    101    0    3
 -- Ukraine    97    3    8
 -- Cambodia    87    0    2
+-- Azerbaijan    87    1    11
 -- Senegal    86    0    8
 -- Oman    84    0    17
 -- Venezuela, Bolivarian Republic of    84    0    15
 -- Belarus    81    0    22
 -- Réunion    75    0    1
--- Azerbaijan    72    1    11
 -- Nigeria    69    1    2
 -- Kazakhstan    68    3    0
 -- Georgia    67    0    9
