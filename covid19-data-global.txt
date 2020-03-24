@@ -490,7 +490,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46389    634    314
+-- United States of America    46428    634    314
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -881,13 +881,13 @@
 ------ Harris(13145)    1    0    0
 ------ Liberty(13179)    1    0    0
 ------ Camden(13039)    1    0    0
----- TX    773    10    15
+---- TX    794    10    15
 ------ Dallas(48113)    155    5    0
 ------ Travis(48453)    86    0    0
 ------ Harris(48201)    78    1    0
 ------ Bexar(48029)    57    1    0
------- Fort Bend(48157)    29    0    0
------- Collin(48085)    38    1    0
+------ Fort Bend(48157)    42    0    0
+------ Collin(48085)    40    1    0
 ------ Tarrant(48439)    57    1    0
 ------ Smith(48423)    10    0    0
 ------ Montgomery(48339)    19    0    0
@@ -900,8 +900,8 @@
 ------ Matagorda(48321)    4    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    12    0    0
------- Denton(48121)    30    0    0
------- Ellis(48139)    5    0    0
+------ Denton(48121)    36    0    0
+------ Ellis(48139)    6    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    1    0    0
@@ -1331,9 +1331,9 @@
 ------ Cecil(24015)    1    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    1    0    0
----- NV    245    4    0
------- Clark(32003)    126    4    0
------- Washoe(32031)    25    0    0
+---- NV    263    4    0
+------ Clark(32003)    212    4    0
+------ Washoe(32031)    44    0    0
 ------ Carson City(32510)    3    0    0
 ------ Elko(32007)    2    0    0
 ---- UT    257    1    0
@@ -1649,10 +1649,10 @@
 ------ Lamar(28073)    1    0    0
 ------ Tallahatchie(28135)    1    0    0
 ------ Marion(28091)    1    0    0
----- AZ    235    2    1
+---- AZ    235    3    1
 ------ Maricopa(04013)    139    2    0
 ------ Pinal(04021)    17    0    0
------- Pima(04019)    24    0    0
+------ Pima(04019)    24    1    0
 ------ Graham(04009)    2    0    0
 ------ Navajo(04017)    25    0    0
 ------ Coconino(04005)    17    0    0
@@ -1680,7 +1680,7 @@
 ------ Muskogee(40101)    1    0    0
 ------ Noble(40103)    1    0    0
 ------ Pontotoc(40123)    1    0    0
----- KS    84    2    0
+---- KS    85    2    0
 ------ Johnson(20091)    32    1    0
 ------ Wyandotte(20209)    16    1    0
 ------ Butler(20015)    3    0    0
@@ -1693,7 +1693,7 @@
 ------ Linn(20107)    2    0    0
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
------- Sedgwick(20173)    2    0    0
+------ Sedgwick(20173)    3    0    0
 ------ Riley(20161)    1    0    0
 ------ Reno(20155)    2    0    0
 ------ Mitchell(20123)    2    0    0
@@ -1848,22 +1848,22 @@
 ---- Navarre    130    0    0
 ---- Ceuta    5    0    0
 -- Germany    29056    123    453
----- Saxony    731    1    2
----- Mecklenburg-Vorpommern    187    0    0
----- Free State of Bavaria    4892    26    21
----- Berlin    1077    2    6
----- Brandenburg    353    1    1
----- Thuringia    328    1    27
----- Schleswig-Holstein    467    1    0
----- Lower Saxony    1586    4    6
----- Bremen    173    0    3
----- Hamburg    943    1    1
----- Rhineland-Palatinate    1177    2    1
----- North Rhine-Westphalia    8011    40    163
----- Hesse    1347    3    6
----- Baden-Württemberg    4300    23    29
----- Saxony-Anhalt    269    1    0
----- Saarland    318    1    0
+---- Saxony    865    3    2
+---- Mecklenburg-Vorpommern    201    0    4
+---- Free State of Bavaria    5719    27    21
+---- Berlin    1219    2    6
+---- Brandenburg    385    1    1
+---- Thuringia    377    1    33
+---- Schleswig-Holstein    467    1    1
+---- Lower Saxony    1779    6    28
+---- Bremen    175    0    26
+---- Hamburg    989    1    1
+---- Rhineland-Palatinate    1285    4    5
+---- North Rhine-Westphalia    8224    41    187
+---- Hesse    1352    3    6
+---- Baden-Württemberg    5333    23    130
+---- Saxony-Anhalt    303    1    0
+---- Saarland    383    1    2
 -- Iran, Islamic Republic of    23049    1812    8376
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
@@ -1947,10 +1947,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    4792    257    0
----- Northern Ireland    128    2    0
----- Wales    347    12    0
----- Scotland    416    10    0
+---- England    5585    303    0
+---- Northern Ireland    148    3    0
+---- Wales    418    16    0
+---- Scotland    499    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Netherlands    4764    214    2
@@ -2009,7 +2009,7 @@
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
----- Okinawa    4    0    1
+---- Okinawa    5    0    1
 ---- Ehime    3    0    0
 ---- hyogo    113    6    0
 ---- oita    22    0    0
@@ -2039,9 +2039,9 @@
 -- Ecuador    981    18    3
 -- Pakistan    875    6    13
 -- Luxembourg    875    8    6
+-- Thailand    827    4    52
 -- Poland    749    8    13
 -- Chile    746    2    11
--- Thailand    721    1    52
 -- Finland    700    1    10
 -- Greece    695    17    29
 -- Iceland    588    5    51
@@ -2052,7 +2052,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Philippines    501    33    19
 -- Qatar    501    0    33
--- India    499    10    37
+-- India    500    10    37
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
 -- South Africa    402    0    4
@@ -2060,7 +2060,7 @@
 -- Bahrain    377    2    164
 -- Mexico    367    4    4
 -- Egypt    366    19    68
--- Hong Kong    356    4    100
+-- Hong Kong    357    4    100
 -- Estonia    352    0    4
 -- Panama    345    6    1
 -- Croatia    315    1    5
@@ -2114,10 +2114,10 @@
 -- Palestine    59    0    17
 -- Cameroon    56    0    2
 -- Martinique    53    1    0
+-- Trinidad and Tobago    52    0    1
 -- Liechtenstein    51    0    0
--- Trinidad and Tobago    51    0    1
 -- Uzbekistan    46    0    0
--- Afghanistan    40    1    1
+-- Afghanistan    42    1    1
 -- Cuba    40    1    0
 -- Rwanda    36    0    0
 -- Congo, Democratic Republic of the    36    1    0
@@ -2126,6 +2126,7 @@
 -- Puerto Rico    31    2    1
 -- Honduras    30    0    0
 -- Guam    29    1    0
+-- Paraguay    27    2    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Ghana    27    2    8
 -- Montenegro    27    1    0
@@ -2133,7 +2134,6 @@
 -- Macao    25    0    10
 -- Mayotte    24    0    0
 -- Monaco    23    0    1
--- Paraguay    22    1    0
 -- French Guiana    20    0    6
 -- Guyana    20    1    0
 -- Guatemala    20    1    0
@@ -2147,22 +2147,22 @@
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
 -- Isle of Man    13    0    0
+-- Aruba    12    0    1
 -- Tanzania, United Republic of    12    0    0
 -- Madagascar    12    0    0
 -- Ethiopia    11    0    4
 -- Mongolia    10    0    0
--- Aruba    9    0    1
 -- Equatorial Guinea    9    0    0
 -- Uganda    9    0    0
 -- Saint Martin (French part)    8    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
 -- Gabon    6    1    0
+-- Suriname    6    0    0
 -- Benin    6    0    0
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
 -- Cayman Islands    5    1    0
--- Suriname    5    0    0
 -- El Salvador    5    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
