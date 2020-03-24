@@ -495,17 +495,17 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46822    634    333
----- NY    23247    213    0
------- Westchester(36119)    2894    1    0
------- Nassau(36059)    2442    9    0
------- Suffolk(36103)    1458    13    0
------- Albany(36001)    127    0    0
------- Rockland(36087)    592    5    0
------- Dutchess(36027)    100    1    0
------- Orange(36071)    389    0    0
------- Monroe(36055)    95    3    0
------- Erie(36029)    101    0    0
+-- United States of America    49379    634    333
+---- NY    25665    213    0
+------ Westchester(36119)    3891    1    0
+------ Nassau(36059)    2869    9    0
+------ Suffolk(36103)    1880    13    0
+------ Albany(36001)    146    0    0
+------ Rockland(36087)    671    5    0
+------ Dutchess(36027)    124    1    0
+------ Orange(36071)    498    0    0
+------ Monroe(36055)    97    3    0
+------ Erie(36029)    107    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
 ------ Schenectady(36093)    44    0    0
@@ -531,7 +531,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    2    0    0
 ------ Washington(36115)    3    0    0
------- New York(36061)    13119    157    0
+------ New York(36061)    14904    157    0
 ------ Niagara(36063)    10    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -704,7 +704,7 @@
 ------ Highlands(12055)    4    0    0
 ------ Putnam(12107)    2    0    0
 ------ St Lucie(12111)    6    0    0
------- Miami-Dade(12086)    278    0    0
+------ Miami-Dade(12086)    338    0    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    4    0    0
@@ -961,10 +961,10 @@
 ------ Waller(48473)    1    0    0
 ------ Robertson(48395)    1    0    0
 ------ Terry(48445)    1    0    0
----- PA    698    7    0
+---- PA    708    8    0
 ------ Montgomery(42091)    136    1    0
 ------ Philadelphia(42101)    175    0    0
------- Allegheny(42003)    48    1    0
+------ Allegheny(42003)    58    2    0
 ------ Cumberland(42041)    12    0    0
 ------ Delaware(42045)    54    0    0
 ------ Bucks(42017)    43    0    0
@@ -1028,8 +1028,8 @@
 ------ Green(55045)    1    0    0
 ------ Dodge(55027)    2    0    0
 ------ Iowa(55049)    1    0    0
----- TN    615    2    0
------- Davidson(47037)    167    2    0
+---- TN    703    2    0
+------ Davidson(47037)    252    2    0
 ------ Williamson(47187)    53    0    0
 ------ Shelby(47157)    93    0    0
 ------ Knox(47093)    12    0    0
@@ -1193,7 +1193,7 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    430    0    0
+---- NC    442    0    0
 ------ Wake(37183)    66    0    0
 ------ Durham(37063)    71    0    0
 ------ Mecklenburg(37119)    106    0    0
@@ -1205,10 +1205,10 @@
 ------ Cabarrus(37025)    10    0    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    16    0    0
------- Iredell(37097)    8    0    0
+------ Iredell(37097)    9    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    3    0    0
------- Orange(37135)    6    0    0
+------ Orange(37135)    11    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    2    0    0
@@ -1218,14 +1218,14 @@
 ------ Union(37179)    13    0    0
 ------ Moore(37125)    2    0    0
 ------ Buncombe(37021)    8    0    0
------- Hoke(37093)    1    0    0
+------ Hoke(37093)    2    0    0
 ------ Pitt(37147)    6    0    0
 ------ Davidson(37057)    3    0    0
------- Rowan(37159)    4    0    0
+------ Rowan(37159)    5    0    0
 ------ Cumberland(37051)    5    0    0
 ------ Pasquotank(37139)    2    0    0
 ------ Alamance(37001)    3    0    0
------- Franklin(37069)    4    0    0
+------ Franklin(37069)    5    0    0
 ------ Catawba(37035)    4    0    0
 ------ Lee(37105)    1    0    0
 ------ Chowan(37041)    1    0    0
@@ -1240,16 +1240,18 @@
 ------ Montgomery(37123)    1    0    0
 ------ Nash(37127)    3    0    0
 ------ Henderson(37089)    2    0    0
------- Vance(37181)    1    0    0
+------ Vance(37181)    2    0    0
 ------ Randolph(37151)    2    0    0
 ------ Richmond(37153)    1    0    0
 ------ Hertford(37091)    1    0    0
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    1    0    0
 ------ Northampton(37131)    1    0    0
----- MI    1329    18    5
+------ Graham(37075)    1    0    0
+------ Stanly(37167)    1    0    0
+---- MI    1329    19    5
 ------ Oakland(26125)    329    4    0
------- Wayne(26163)    638    8    0
+------ Wayne(26163)    638    9    0
 ------ Macomb(26099)    175    2    0
 ------ Washtenaw(26161)    42    3    0
 ------ Kent(26081)    28    2    0
@@ -1391,19 +1393,19 @@
 ------ Oconee(45073)    2    0    0
 ------ Chester(45023)    1    0    0
 ------ Georgetown(45043)    2    0    0
----- AL    196    0    0
------- Jefferson(01073)    86    0    0
------- Shelby(01117)    22    0    0
------- Lee(01081)    19    0    0
+---- AL    215    0    0
+------ Jefferson(01073)    90    0    0
+------ Shelby(01117)    24    0    0
+------ Lee(01081)    21    0    0
 ------ Tuscaloosa(01125)    9    0    0
------- Elmore(01051)    6    0    0
------- Montgomery(01101)    4    0    0
+------ Elmore(01051)    8    0    0
+------ Montgomery(01101)    8    0    0
 ------ Baldwin(01003)    3    0    0
------- Limestone(01083)    1    0    0
+------ Limestone(01083)    2    0    0
 ------ Madison(01089)    21    0    0
 ------ Calhoun(01015)    2    0    0
------- St Clair(01115)    3    0    0
------- Chambers(01017)    2    0    0
+------ St Clair(01115)    4    0    0
+------ Chambers(01017)    3    0    0
 ------ Talladega(01121)    1    0    0
 ------ Walker(01127)    3    0    0
 ------ Mobile(01097)    3    0    0
@@ -1416,6 +1418,7 @@
 ------ Franklin(01059)    1    0    0
 ------ Houston(01069)    1    0    0
 ------ Tallapoosa(01123)    1    0    0
+------ Morgan(01103)    1    0    0
 ---- ME    107    0    0
 ------ Cumberland(23005)    66    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1568,10 +1571,10 @@
 ------ Newport(44005)    9    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    7    0    0
----- AR    197    6    0
+---- AR    206    6    0
 ------ Jefferson(05069)    21    0    0
------- Pulaski(05119)    61    0    0
------- Cleburne(05023)    27    0    0
+------ Pulaski(05119)    63    0    0
+------ Cleburne(05023)    28    0    0
 ------ Cleveland(05025)    3    0    0
 ------ Desha(05041)    2    0    0
 ------ Garland(05051)    9    0    0
@@ -1579,7 +1582,7 @@
 ------ Saline(05125)    4    0    0
 ------ Washington(05143)    5    0    0
 ------ Bradley(05011)    4    0    0
------- Faulkner(05045)    10    0    0
+------ Faulkner(05045)    13    0    0
 ------ Grant(05053)    3    0    0
 ------ Pope(05115)    1    0    0
 ------ Van Buren(05141)    3    0    0
@@ -1807,14 +1810,15 @@
 ------ Valley(16085)    1    0    0
 ------ Bannock(16005)    2    0    0
 ------ Cassia(16031)    1    0    0
----- ND    33    0    0
------- Burleigh(38015)    17    0    0
+---- ND    34    0    0
+------ Burleigh(38015)    18    0    0
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    1    0    0
 ------ Walsh(38099)    1    0    0
+------ Dunn(38025)    1    0    0
 ---- AK    36    0    0
 ------ Fairbanks North Star(02090)    7    0    0
 ------ Anchorage(02020)    17    0    0
@@ -1951,7 +1955,7 @@
 ---- Seoul    334    0    72
 ---- Ulsan    36    0    18
 ---- 未确定地区    23    3    0
--- United Kingdom of Great Britain and Northern Ireland    6795    338    135
+-- United Kingdom of Great Britain and Northern Ireland    8077    422    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1966,10 +1970,10 @@
 ---- Curacao    3    0    0
 -- Austria    5010    28    9
 -- Belgium    4269    122    461
--- Norway    2760    12    6
+-- Norway    2766    12    6
 -- Portugal    2362    30    22
 -- Sweden    2286    36    16
--- Canada    2176    25    320
+-- Canada    2177    25    320
 ---- British Columbia    472    13    4
 ---- Ontario    503    6    6
 ---- Alberta    301    1    0
@@ -2003,15 +2007,15 @@
 ---- Kumamoto    7    0    0
 ---- Saitama    59    1    0
 ---- Ishikawa    8    0    0
----- Fukuoka    7    0    0
+---- Fukuoka    9    0    0
 ---- Tokyo    171    4    0
 ---- Wakayama    17    1    2
----- Kyoto    25    0    2
+---- Kyoto    27    0    2
 ---- Osaka    142    2    1
 ---- Chiba    48    0    0
 ---- Kanagawa    83    4    1
 ---- Shizuoka    3    0    0
----- Aichi    145    17    2
+---- Aichi    148    17    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2076,12 +2080,12 @@
 -- Lebanon    304    4    8
 -- Serbia    303    3    15
 -- Argentina    301    5    51
--- Armenia    235    0    2
--- Algeria    230    17    65
+-- Algeria    264    19    65
+-- Armenia    249    0    4
+-- Bulgaria    218    3    3
 -- Taiwan    216    2    29
 -- Slovakia    204    1    7
 -- Lithuania    203    1    1
--- Bulgaria    202    3    3
 -- United Arab Emirates    198    2    41
 -- Latvia    197    0    1
 -- Kuwait    191    0    39
@@ -2114,9 +2118,9 @@
 -- Belarus    81    0    22
 -- Réunion    75    0    1
 -- Afghanistan    74    1    1
+-- Georgia    70    0    9
 -- Nigeria    69    1    2
 -- Kazakhstan    68    3    0
--- Georgia    67    0    9
 -- Cameroon    66    0    2
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
@@ -2170,13 +2174,13 @@
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
 -- Cayman Islands    5    1    0
+-- Greenland    5    0    2
 -- El Salvador    5    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
 -- Curaçao    4    1    0
 -- Bahamas    4    0    0
--- Greenland    4    0    2
 -- Fiji    4    0    0
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
