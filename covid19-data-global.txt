@@ -489,7 +489,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    44016    634    182
+-- United States of America    45528    634    297
 ---- NY    22768    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -544,7 +544,7 @@
 ------ Chemung(36015)    2    0    0
 ------ Otsego(36077)    1    0    0
 ------ Cayuga(36011)    2    0    0
----- WA    2233    111    124
+---- WA    2233    111    243
 ------ King(53033)    1170    87    0
 ------ Snohomish(53061)    519    11    0
 ------ Pierce(53053)    126    1    0
@@ -576,11 +576,11 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2208    43    7
+---- CA    2209    43    7
 ------ Santa Clara(06085)    321    13    0
------- Los Angeles(06037)    538    8    0
+------ Los Angeles(06037)    540    8    0
 ------ San Mateo(06081)    142    1    0
------- San Diego(06073)    226    1    0
+------ San Diego(06073)    230    1    0
 ------ San Francisco(06075)    131    0    0
 ------ Sacramento(06067)    88    4    0
 ------ Contra Costa(06013)    71    1    0
@@ -1182,10 +1182,10 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    407    0    0
+---- NC    416    0    0
 ------ Wake(37183)    66    0    0
 ------ Durham(37063)    71    0    0
------- Mecklenburg(37119)    97    0    0
+------ Mecklenburg(37119)    106    0    0
 ------ Chatham(37037)    3    0    0
 ------ Harnett(37085)    9    0    0
 ------ Forsyth(37067)    12    0    0
@@ -1416,7 +1416,7 @@
 ------ Lincoln(23015)    5    0    0
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    3    0    0
----- DC    120    3    0
+---- DC    141    3    0
 ------ District of Columbia(11001)    120    2    0
 ---- IN    270    7    0
 ------ Marion(18097)    110    3    0
@@ -1759,15 +1759,15 @@
 ------ Codington(46029)    1    0    0
 ------ Hughes(46065)    1    0    0
 ------ Lyman(46085)    1    0    0
----- WY    26    0    0
+---- WY    28    0    0
 ------ Fremont(56013)    10    0    0
 ------ Sheridan(56033)    4    0    0
------- Laramie(56021)    6    0    0
+------ Laramie(56021)    7    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    2    0    0
 ------ Campbell(56005)    1    0    0
 ------ Natrona(56025)    1    0    0
------- Carbon(56007)    1    0    0
+------ Carbon(56007)    2    0    0
 ---- MT    46    0    0
 ------ Missoula(30063)    6    0    0
 ------ Yellowstone(30111)    7    0    0
@@ -1809,9 +1809,9 @@
 ------ Jefferson(54037)    3    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
------- Monongalia(54061)    2    0    0
+------ Monongalia(54061)    5    0    0
 ------ Jackson(54035)    1    0    0
------- Kanawha(54039)    3    0    0
+------ Kanawha(54039)    4    0    0
 ------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    1    0    0
 ---- Unassigned Location (From Diamond Princess)    55    0    0
@@ -2095,9 +2095,9 @@
 -- Brunei Darussalam    91    0    2
 -- Tunisia    89    3    1
 -- Cambodia    87    0    2
+-- Venezuela, Bolivarian Republic of    84    0    15
 -- Belarus    81    0    22
 -- Senegal    79    0    8
--- Venezuela, Bolivarian Republic of    77    0    15
 -- Ukraine    73    3    8
 -- Azerbaijan    72    1    11
 -- Réunion    71    0    1
