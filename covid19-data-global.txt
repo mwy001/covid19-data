@@ -490,8 +490,8 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    45528    634    297
----- NY    22768    213    0
+-- United States of America    46365    634    314
+---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
 ------ Suffolk(36103)    1458    13    0
@@ -503,7 +503,7 @@
 ------ Erie(36029)    87    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
------- Schenectady(36093)    39    0    0
+------ Schenectady(36093)    44    0    0
 ------ Tompkins(36109)    15    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    4    0    0
@@ -519,14 +519,14 @@
 ------ Oneida(36065)    7    0    0
 ------ Ontario(36069)    6    0    0
 ------ Rensselaer(36083)    29    0    0
------- Sullivan(36105)    16    0    0
+------ Sullivan(36105)    23    0    0
 ------ Tioga(36107)    1    0    0
 ------ Wyoming(36121)    4    1    0
 ------ Chenango(36017)    4    0    0
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    2    0    0
 ------ Washington(36115)    3    0    0
------- New York(36061)    12305    157    0
+------ New York(36061)    13119    157    0
 ------ Niagara(36063)    10    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -559,7 +559,7 @@
 ------ Yakima(53077)    117    0    0
 ------ Clark(53011)    13    4    0
 ------ Spokane(53063)    29    0    0
------- Jefferson(53031)    7    0    0
+------ Jefferson(53031)    8    0    0
 ------ Kittitas(53037)    5    0    0
 ------ Chelan(53007)    6    0    0
 ------ Columbia(53013)    1    0    0
@@ -578,7 +578,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2209    43    7
+---- CA    2218    43    7
 ------ Santa Clara(06085)    321    13    0
 ------ Los Angeles(06037)    540    8    0
 ------ San Mateo(06081)    142    1    0
@@ -591,7 +591,7 @@
 ------ Riverside(06065)    48    6    0
 ------ San Joaquin(06077)    51    2    0
 ------ Santa Cruz(06087)    22    0    0
------- Marin(06041)    38    0    0
+------ Marin(06041)    47    0    0
 ------ Ventura(06111)    35    1    0
 ------ Placer(06061)    20    1    0
 ------ Solano(06095)    21    0    0
@@ -1418,9 +1418,9 @@
 ------ Lincoln(23015)    5    0    0
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    3    0    0
----- DC    141    3    0
+---- DC    141    3    17
 ------ District of Columbia(11001)    141    2    0
----- IN    270    7    0
+---- IN    271    7    0
 ------ Marion(18097)    110    3    0
 ------ Hendricks(18063)    12    0    0
 ------ Johnson(18081)    14    1    0
@@ -1712,10 +1712,10 @@
 ------ Lamoille(50015)    1    0    0
 ------ Caledonia(50005)    1    0    0
 ------ Orleans(50019)    2    0    0
----- DE    68    0    0
------- New Castle(10003)    44    0    0
------- Sussex(10005)    18    0    0
------- Kent(10001)    6    0    0
+---- DE    87    0    0
+------ New Castle(10003)    58    0    0
+------ Sussex(10005)    20    0    0
+------ Kent(10001)    9    0    0
 ---- MO    212    7    2
 ------ Greene(29077)    17    0    0
 ------ Cass(29037)    6    0    0
@@ -1802,9 +1802,9 @@
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    1    0    0
----- AK    32    0    0
+---- AK    36    0    0
 ------ Fairbanks North Star(02090)    7    0    0
------- Anchorage(02020)    13    0    0
+------ Anchorage(02020)    17    0    0
 ------ Ketchikan Gateway(02130)    6    0    0
 ------ Juneau(02110)    1    0    0
 ---- WV    82    0    0
@@ -1921,7 +1921,7 @@
 ---- Reunion    71    0    0
 ---- SCGF0594    19    0    0
 ---- New Caledonia    8    0    0
--- Korea, Republic of    8961    111    3166
+-- Korea, Republic of    9037    120    3507
 ---- Busan    111    1    71
 ---- Chungcheongbuk-do    38    0    11
 ---- Chungcheongnam-do    120    0    56
@@ -2048,19 +2048,19 @@
 -- Saudi Arabia    562    0    19
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
+-- Philippines    501    33    19
 -- Qatar    501    0    33
 -- India    499    10    34
--- Philippines    462    33    18
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
 -- South Africa    402    0    4
 -- Peru    395    5    1
 -- Bahrain    377    2    164
+-- Mexico    367    4    4
 -- Egypt    366    19    68
 -- Hong Kong    356    4    100
 -- Estonia    352    0    4
 -- Panama    345    6    1
--- Mexico    316    3    4
 -- Croatia    315    1    5
 -- Argentina    301    4    51
 -- Colombia    277    3    3
@@ -2081,6 +2081,7 @@
 -- Hungary    167    8    21
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
+-- New Zealand    155    0    12
 -- Morocco    143    4    5
 -- North Macedonia    136    2    1
 -- Bosnia and Herzegovina    136    1    2
@@ -2092,7 +2093,6 @@
 -- Moldova, Republic of    109    1    2
 -- Malta    107    0    2
 -- Albania    104    5    2
--- New Zealand    102    0    0
 -- Burkina Faso    99    4    5
 -- Sri Lanka    97    0    3
 -- Brunei Darussalam    91    0    2
@@ -2161,6 +2161,7 @@
 -- Haiti    6    0    0
 -- Cayman Islands    5    1    0
 -- Suriname    5    0    0
+-- El Salvador    5    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Namibia    4    0    0
@@ -2175,7 +2176,6 @@
 -- Liberia    3    0    0
 -- Djibouti    3    0    0
 -- Zambia    3    0    0
--- El Salvador    3    0    0
 -- Fiji    3    0    0
 -- Niger    3    0    0
 -- Angola    3    0    0
