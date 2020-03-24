@@ -490,7 +490,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46376    634    314
+-- United States of America    46389    634    314
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -1528,17 +1528,19 @@
 ------ Cheshire(33005)    1    0    0
 ------ Strafford(33017)    4    0    0
 ------ Sullivan(33019)    1    0    0
----- NE    52    0    0
------- Douglas(31055)    34    0    0
+---- NE    66    0    0
+------ Douglas(31055)    39    0    0
 ------ Knox(31107)    2    0    0
------- Cass(31025)    1    0    0
------- Sarpy(31153)    5    0    0
+------ Cass(31025)    4    0    0
+------ Sarpy(31153)    8    0    0
 ------ Lincoln(31111)    3    0    0
 ------ Adams(31001)    1    0    0
 ------ Nemaha(31127)    1    0    0
 ------ Lancaster(31109)    3    0    0
 ------ Buffalo(31019)    2    0    0
 ------ Gage(31067)    1    0    0
+------ Madison(31119)    1    0    0
+------ Washington(31177)    2    0    0
 ---- NM    83    0    0
 ------ Bernalillo(35001)    38    0    0
 ------ Santa Fe(35049)    12    0    0
@@ -1975,7 +1977,7 @@
 -- Portugal    2060    23    14
 -- Sweden    2046    27    16
 -- Brazil    1924    34    2
--- Australia    1887    7    118
+-- Australia    1895    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
 ---- Queensland    319    0    8
@@ -2050,7 +2052,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Philippines    501    33    19
 -- Qatar    501    0    33
--- India    499    10    34
+-- India    499    10    37
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
 -- South Africa    402    0    4
@@ -2062,8 +2064,8 @@
 -- Estonia    352    0    4
 -- Panama    345    6    1
 -- Croatia    315    1    5
+-- Colombia    306    3    6
 -- Argentina    301    4    51
--- Colombia    277    3    3
 -- Lebanon    267    4    8
 -- Iraq    266    23    62
 -- Serbia    249    3    3
@@ -2169,6 +2171,7 @@
 -- Curaçao    4    1    0
 -- Bahamas    4    0    0
 -- Greenland    4    0    0
+-- Fiji    4    0    0
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
 -- Saint Barthélemy    3    0    0
@@ -2176,7 +2179,6 @@
 -- Liberia    3    0    0
 -- Djibouti    3    0    0
 -- Zambia    3    0    0
--- Fiji    3    0    0
 -- Niger    3    0    0
 -- Angola    3    0    0
 -- Cabo Verde    3    0    0
