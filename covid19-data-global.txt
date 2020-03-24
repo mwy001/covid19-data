@@ -1,4 +1,4 @@
--- 中国    81748    3283    73300
+-- China    81773    3283    73300
 ---- 四川    545    3    536
 ------ 成都    150    3    141
 ------ 甘孜州    78    0    78
@@ -35,10 +35,10 @@
 ------ 省十里丰监狱    36    0    36
 ------ 衢州    14    0    14
 ------ 舟山    10    0    10
----- 北京    554    8    401
+---- 北京    558    8    401
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
------- 境外输入人员    138    0    9
+------ 境外输入人员    142    0    9
 ------ 西城区    53    0    0
 ------ 丰台区    43    0    3
 ------ 大兴区    39    0    16
@@ -53,6 +53,7 @@
 ------ 密云区    7    0    0
 ------ 门头沟区    3    0    2
 ------ 延庆区    1    0    0
+------ 外地来京    25    0    2
 ---- 黑龙江    484    13    468
 ------ 哈尔滨    198    4    194
 ------ 双鸭山    52    3    49
@@ -244,7 +245,7 @@
 ------ 临夏    3    0    3
 ------ 张掖    2    0    2
 ------ 金昌    1    0    1
----- 天津    141    3    133
+---- 天津    142    3    133
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
 ------ 河北区    12    0    12
@@ -261,6 +262,8 @@
 ------ 红桥区    2    0    2
 ------ 津南区    2    0    2
 ------ 境外输入人员    5    0    0
+------ 境外输入    6    0    0
+------ 外地来津    6    0    6
 ---- 重庆    578    6    570
 ------ 万州区    118    4    114
 ------ 江北区    28    0    28
@@ -1957,7 +1960,7 @@
 -- Netherlands    4764    214    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4517    25    9
+-- Austria    4578    25    9
 -- Belgium    3743    88    401
 -- Norway    2625    11    6
 -- Australia    2136    8    118
@@ -2045,10 +2048,11 @@
 -- Chile    746    2    11
 -- Finland    700    1    10
 -- Greece    695    17    29
+-- Indonesia    686    55    30
 -- Iceland    588    5    51
--- Indonesia    579    49    30
 -- Romania    576    8    73
 -- Saudi Arabia    562    0    19
+-- South Africa    554    0    4
 -- India    511    10    37
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
@@ -2056,14 +2060,13 @@
 -- Qatar    501    0    37
 -- Slovenia    442    3    0
 -- Russian Federation    438    1    17
--- South Africa    402    0    4
 -- Peru    395    5    1
+-- Hong Kong    386    4    102
 -- Bahrain    377    2    164
+-- Estonia    369    0    4
 -- Mexico    367    4    4
 -- Egypt    366    19    68
 -- Croatia    361    1    5
--- Hong Kong    357    4    100
--- Estonia    352    0    4
 -- Panama    345    6    1
 -- Colombia    306    3    6
 -- Argentina    301    4    51
@@ -2074,6 +2077,7 @@
 -- Armenia    235    0    2
 -- Algeria    230    17    65
 -- Taiwan    215    2    29
+-- Slovakia    204    1    7
 -- Bulgaria    202    3    3
 -- United Arab Emirates    198    2    41
 -- Latvia    197    0    1
@@ -2081,7 +2085,6 @@
 -- San Marino    187    20    4
 -- Lithuania    187    1    1
 -- Hungary    187    8    21
--- Slovakia    186    1    7
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
@@ -2106,8 +2109,8 @@
 -- Venezuela, Bolivarian Republic of    84    0    15
 -- Belarus    81    0    22
 -- Senegal    79    0    8
+-- Réunion    75    0    1
 -- Azerbaijan    72    1    11
--- Réunion    71    0    1
 -- Nigeria    69    1    2
 -- Kazakhstan    68    3    0
 -- Georgia    66    0    9
@@ -2136,9 +2139,9 @@
 -- Côte d'Ivoire    25    0    1
 -- Macao    25    0    10
 -- Monaco    23    0    1
+-- French Guiana    23    0    6
 -- French Polynesia    23    0    0
 -- Jamaica    21    1    2
--- French Guiana    20    0    6
 -- Guyana    20    1    0
 -- Guatemala    20    1    0
 -- Togo    18    0    1
