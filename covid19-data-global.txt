@@ -490,13 +490,13 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46459    634    317
+-- United States of America    46459    634    328
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
 ------ Suffolk(36103)    1458    13    0
 ------ Albany(36001)    127    0    0
------- Rockland(36087)    592    1    0
+------ Rockland(36087)    592    2    0
 ------ Dutchess(36027)    100    1    0
 ------ Orange(36071)    389    0    0
 ------ Monroe(36055)    81    2    0
@@ -644,7 +644,7 @@
 ------ Cape May(34009)    2    0    0
 ------ Cumberland(34011)    1    0    0
 ------ Salem(34033)    1    0    0
----- MA    777    9    1
+---- MA    777    9    10
 ------ Middlesex(25017)    232    1    0
 ------ Norfolk(25021)    82    0    0
 ------ Suffolk(25025)    154    1    0
@@ -925,7 +925,7 @@
 ------ Randall(48381)    2    0    0
 ------ Castro(48069)    2    0    0
 ------ Oldham(48359)    1    0    0
------- McLennan(48309)    16    0    0
+------ McLennan(48309)    20    0    0
 ------ DeWitt(48123)    1    0    0
 ------ Hockley(48219)    3    0    0
 ------ Milam(48331)    2    0    0
@@ -1141,7 +1141,7 @@
 ------ Union(41061)    1    0    0
 ------ Josephine(41033)    1    0    0
 ------ Hood River(41027)    1    0    0
----- VA    254    7    1
+---- VA    254    7    2
 ------ Arlington(51013)    34    0    0
 ------ Fairfax(51059)    43    2    0
 ------ Loudoun(51107)    15    0    0
@@ -2127,8 +2127,8 @@
 -- Guam    33    1    0
 -- Puerto Rico    31    2    1
 -- Honduras    30    0    0
+-- Bolivia, Plurinational State of    28    0    0
 -- Paraguay    27    2    0
--- Bolivia, Plurinational State of    27    0    0
 -- Ghana    27    2    8
 -- Montenegro    27    1    0
 -- Côte d'Ivoire    25    0    1
@@ -2143,6 +2143,7 @@
 -- Togo    18    0    1
 -- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
+-- Madagascar    17    0    0
 -- Kenya    16    0    0
 -- Kyrgyzstan    16    0    0
 -- Gibraltar    15    0    5
@@ -2150,7 +2151,6 @@
 -- Isle of Man    13    0    0
 -- Aruba    12    0    1
 -- Tanzania, United Republic of    12    0    0
--- Madagascar    12    0    0
 -- Ethiopia    11    0    4
 -- Mongolia    10    0    0
 -- Equatorial Guinea    9    0    0
