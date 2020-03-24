@@ -1854,19 +1854,19 @@
 -- Germany    29056    123    453
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
----- Free State of Bavaria    5719    27    21
----- Berlin    1219    2    6
+---- Free State of Bavaria    5754    30    21
+---- Berlin    1220    2    6
 ---- Brandenburg    385    1    1
 ---- Thuringia    377    1    33
----- Schleswig-Holstein    467    1    1
+---- Schleswig-Holstein    487    1    1
 ---- Lower Saxony    1779    6    28
----- Bremen    175    0    26
----- Hamburg    989    1    1
----- Rhineland-Palatinate    1285    4    5
+---- Bremen    183    0    26
+---- Hamburg    1043    1    1
+---- Rhineland-Palatinate    1370    4    5
 ---- North Rhine-Westphalia    8224    41    187
----- Hesse    1352    3    6
----- Baden-Württemberg    5333    23    130
----- Saxony-Anhalt    303    1    0
+---- Hesse    1620    3    6
+---- Baden-Württemberg    5348    31    130
+---- Saxony-Anhalt    321    1    0
 ---- Saarland    383    1    2
 -- Iran, Islamic Republic of    23049    1812    8376
 ---- Qom    1178    30    0
@@ -2002,7 +2002,7 @@
 ---- Saitama    52    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    6    0    0
----- Tokyo    154    4    0
+---- Tokyo    171    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    25    0    2
 ---- Osaka    134    2    1
