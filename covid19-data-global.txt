@@ -496,7 +496,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    51570    675    333
+-- United States of America    51585    678    333
 ---- NY    25665    213    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -630,26 +630,26 @@
 ------ Napa(06055)    2    0    0
 ------ Merced(06047)    1    0    0
 ---- NJ    3675    90    1
------- Bergen(34003)    609    6    0
------- Essex(34013)    273    4    0
------- Hudson(34017)    190    1    0
------- Middlesex(34023)    210    63    0
------- Monmouth(34025)    238    3    0
------- Union(34039)    189    0    0
------- Passaic(34031)    141    0    0
------- Mercer(34021)    50    0    0
------- Morris(34027)    177    1    0
------- Somerset(34035)    67    1    0
------- Burlington(34005)    36    0    0
------- Hunterdon(34019)    18    0    0
------- Ocean(34029)    144    1    0
------- Camden(34007)    33    1    0
------- Gloucester(34015)    13    0    0
+------ Bergen(34003)    701    6    0
+------ Essex(34013)    342    4    0
+------ Hudson(34017)    234    1    0
+------ Middlesex(34023)    277    63    0
+------ Monmouth(34025)    288    3    0
+------ Union(34039)    246    0    0
+------ Passaic(34031)    216    0    0
+------ Mercer(34021)    58    0    0
+------ Morris(34027)    204    1    0
+------ Somerset(34035)    102    1    0
+------ Burlington(34005)    42    0    0
+------ Hunterdon(34019)    25    0    0
+------ Ocean(34029)    180    1    0
+------ Camden(34007)    51    1    0
+------ Gloucester(34015)    19    0    0
 ------ Atlantic(34001)    6    0    0
------- Warren(34041)    12    0    0
------- Sussex(34037)    15    0    0
------- Cape May(34009)    2    0    0
------- Cumberland(34011)    1    0    0
+------ Warren(34041)    15    0    0
+------ Sussex(34037)    18    0    0
+------ Cape May(34009)    3    0    0
+------ Cumberland(34011)    2    0    0
 ------ Salem(34033)    1    0    0
 ---- MA    786    9    10
 ------ Middlesex(25017)    232    1    0
@@ -1162,15 +1162,15 @@
 ------ Fairfield(39045)    2    1    0
 ------ Champaign(39021)    1    0    0
 ------ Crawford(39033)    1    0    0
----- OR    193    5    0
------- Washington(41067)    69    1    0
+---- OR    210    8    0
+------ Washington(41067)    76    2    0
 ------ Linn(41043)    21    1    0
------- Clackamas(41005)    14    0    0
+------ Clackamas(41005)    17    1    0
 ------ Deschutes(41017)    10    0    0
------- Marion(41047)    30    1    0
------- Multnomah(41051)    21    1    0
+------ Marion(41047)    32    1    0
+------ Multnomah(41051)    25    2    0
 ------ Benton(41003)    4    0    0
------- Jackson(41029)    2    0    0
+------ Jackson(41029)    3    0    0
 ------ Polk(41053)    3    0    0
 ------ Umatilla(41059)    2    0    0
 ------ Douglas(41019)    1    0    0
@@ -1531,7 +1531,7 @@
 ------ Black Hawk(19013)    4    0    0
 ------ Carroll(19027)    1    0    0
 ------ Harrison(19085)    3    0    0
------- Polk(19153)    15    0    0
+------ Polk(19153)    17    0    0
 ------ Pottawattamie(19155)    2    0    0
 ------ Washington(19183)    4    0    0
 ------ Winneshiek(19191)    7    0    0
@@ -1852,7 +1852,7 @@
 ------ Yellowstone(30111)    7    0    0
 ------ Broadwater(30007)    1    0    0
 ------ Gallatin(30031)    16    0    0
------- Silver Bow(30093)    2    0    0
+------ Silver Bow(30093)    3    0    0
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    1    0    0
 ------ Flathead(30029)    4    0    0
@@ -2058,7 +2058,9 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
--- Brazil    1980    34    2
+-- Brazil    2018    34    2
+-- Israel    1930    3    49
+-- Turkey    1872    44    0
 -- Japan    1848    43    285
 ---- Hokkaido    163    6    66
 ---- kochi    12    0    0
@@ -2101,12 +2103,10 @@
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
 ---- Aomori    2    0    0
--- Israel    1656    3    49
 -- Malaysia    1624    16    183
 -- Denmark    1591    32    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Turkey    1529    37    0
 -- Czechia    1394    2    8
 -- Ireland    1125    6    5
 -- Luxembourg    1099    8    6
@@ -2117,7 +2117,7 @@
 -- Thailand    827    4    52
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
--- Romania    762    8    79
+-- Romania    762    11    79
 -- Greece    743    20    29
 -- Indonesia    686    55    30
 -- Iceland    678    5    51
@@ -2148,7 +2148,7 @@
 -- United Arab Emirates    248    2    45
 -- Bulgaria    218    3    3
 -- Taiwan    216    2    29
--- Lithuania    209    1    1
+-- Lithuania    209    2    1
 -- Slovakia    204    1    7
 -- Latvia    197    0    1
 -- Kuwait    191    0    39
@@ -2156,8 +2156,8 @@
 -- Hungary    187    9    21
 -- Costa Rica    177    2    2
 -- Morocco    170    5    6
+-- Bosnia and Herzegovina    166    3    2
 -- Andorra    164    1    1
--- Bosnia and Herzegovina    164    2    2
 -- Uruguay    162    0    0
 -- New Zealand    155    0    12
 -- Jordan    153    0    1
@@ -2173,12 +2173,12 @@
 -- Brunei Darussalam    104    0    2
 -- Sri Lanka    102    0    3
 -- Ukraine    97    3    8
+-- Réunion    94    0    1
 -- Cambodia    91    0    4
 -- Azerbaijan    87    1    11
 -- Senegal    86    0    8
 -- Oman    84    0    17
 -- Venezuela, Bolivarian Republic of    84    0    15
--- Réunion    83    0    1
 -- Belarus    81    0    22
 -- Afghanistan    74    1    1
 -- Kazakhstan    72    3    0
@@ -2188,17 +2188,17 @@
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
 -- Martinique    53    1    0
+-- Ghana    53    2    8
 -- Trinidad and Tobago    53    0    1
--- Ghana    52    2    8
 -- Liechtenstein    51    0    0
 -- Uzbekistan    50    0    0
--- Cuba    48    1    0
+-- Cuba    48    1    1
 -- Montenegro    47    1    0
 -- Kyrgyzstan    42    0    0
 -- Mauritius    42    2    0
+-- Rwanda    40    0    0
 -- Bangladesh    39    4    5
 -- Puerto Rico    39    2    1
--- Rwanda    36    0    0
 -- Mayotte    36    0    0
 -- Congo, Democratic Republic of the    36    1    0
 -- Guam    33    1    0
@@ -2229,10 +2229,10 @@
 -- Equatorial Guinea    9    0    0
 -- Uganda    9    0    0
 -- Saint Martin (French part)    8    0    0
+-- Suriname    7    0    0
 -- Seychelles    7    0    0
 -- Cayman Islands    6    1    0
 -- Gabon    6    1    0
--- Suriname    6    0    0
 -- Namibia    6    0    2
 -- Benin    6    0    0
 -- Bermuda    6    0    0
@@ -2261,6 +2261,7 @@
 -- Cabo Verde    3    1    0
 -- Zimbabwe    3    1    0
 -- Mozambique    3    0    0
+-- Myanmar    3    0    0
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
@@ -2268,7 +2269,6 @@
 -- Kosovo    2    0    0
 -- Nicaragua    2    0    0
 -- Dominica    2    0    0
--- Myanmar    2    0    0
 -- Lao People's Democratic Republic    2    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
