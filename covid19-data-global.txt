@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    51746    679    333
+-- United States of America    52453    685    333
 ---- NY    25665    213    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -651,7 +651,7 @@
 ------ Cape May(34009)    3    0    0
 ------ Cumberland(34011)    2    0    0
 ------ Salem(34033)    1    0    0
----- MA    786    9    10
+---- MA    786    11    10
 ------ Middlesex(25017)    232    1    0
 ------ Norfolk(25021)    82    0    0
 ------ Suffolk(25025)    154    1    0
@@ -785,26 +785,26 @@
 ------ San Miguel(08113)    1    0    0
 ------ Logan(08075)    2    0    0
 ------ Teller(08119)    3    0    0
----- IL    1285    13    2
+---- IL    1535    16    2
 ------ Cook(17031)    922    9    0
------- Lake(17097)    96    0    0
------- Sangamon(17167)    4    1    0
------- Kane(17089)    18    0    0
+------ Lake(17097)    111    0    0
+------ Sangamon(17167)    5    1    0
+------ Kane(17089)    24    0    0
 ------ Clinton(17027)    3    0    0
------- Will(17197)    24    1    0
+------ Will(17197)    28    1    0
 ------ Champaign(17019)    3    0    0
 ------ Cumberland(17035)    1    0    0
 ------ Peoria(17143)    3    0    0
 ------ Whiteside(17195)    1    0    0
 ------ Winnebago(17201)    5    0    0
------- Woodford(17203)    2    0    0
+------ Woodford(17203)    3    0    0
 ------ Madison(17119)    2    0    0
 ------ Kendall(17093)    4    0    0
------- St Clair(17163)    4    0    0
+------ St Clair(17163)    7    0    0
 ------ Jackson(17077)    1    0    0
 ------ Williamson(17199)    1    1    0
 ------ Washington(17189)    1    0    0
------- Kankakee(17091)    3    0    0
+------ Kankakee(17091)    4    0    0
 ------ Adams(17001)    1    0    0
 ------ DuPage(17043)    95    0    0
 ------ McHenry(17111)    12    0    0
@@ -816,6 +816,7 @@
 ------ Livingston(17105)    1    0    0
 ------ Rock Island(17161)    1    0    0
 ------ Monroe(17133)    1    0    0
+------ Grundy(17063)    1    0    0
 ---- GA    1027    32    0
 ------ Fulton(13121)    184    2    0
 ------ Cobb(13067)    86    2    0
@@ -1287,44 +1288,44 @@
 ------ Bertie(37015)    1    0    0
 ------ Duplin(37061)    1    0    0
 ------ Lenoir(37107)    1    0    0
----- MI    1335    19    5
------- Oakland(26125)    329    4    0
------- Wayne(26163)    638    9    0
------- Macomb(26099)    175    2    0
------- Washtenaw(26161)    42    3    0
------- Kent(26081)    28    2    0
------- Ingham(26065)    12    0    0
+---- MI    1790    19    5
+------ Oakland(26125)    428    4    0
+------ Wayne(26163)    876    9    0
+------ Macomb(26099)    225    2    0
+------ Washtenaw(26161)    50    3    0
+------ Kent(26081)    31    2    0
+------ Ingham(26065)    15    0    0
 ------ Bay(26017)    2    0    0
------- Charlevoix(26029)    2    0    0
------- Jackson(26075)    1    0    0
+------ Charlevoix(26029)    3    0    0
+------ Jackson(26075)    6    0    0
 ------ Leelanau(26089)    1    0    0
------- Monroe(26115)    7    0    0
+------ Monroe(26115)    12    0    0
 ------ Montcalm(26117)    1    0    0
------- Otsego(26137)    3    0    0
------- Ottawa(26139)    11    0    0
------- St Clair(26147)    7    0    0
------- Clinton(26037)    2    3    0
------- Livingston(26093)    9    0    0
+------ Otsego(26137)    5    0    0
+------ Ottawa(26139)    15    0    0
+------ St Clair(26147)    8    0    0
+------ Clinton(26037)    5    3    0
+------ Livingston(26093)    13    0    0
 ------ Midland(26111)    5    0    0
------- Eaton(26045)    2    0    0
------- Genesee(26049)    23    0    0
------- Isabella(26073)    1    0    0
+------ Eaton(26045)    3    0    0
+------ Genesee(26049)    34    0    0
+------ Isabella(26073)    2    0    0
 ------ Barry(26015)    1    0    0
 ------ Wexford(26165)    1    0    0
------- Berrien(26021)    5    0    0
------- Calhoun(26025)    3    0    0
+------ Berrien(26021)    8    0    0
+------ Calhoun(26025)    4    0    0
 ------ Clare(26035)    1    0    0
 ------ Saginaw(26145)    8    0    0
 ------ Tuscola(26157)    1    0    0
 ------ Allegan(26005)    2    0    0
 ------ Gladwin(26051)    2    0    0
------- Emmet(26047)    1    0    0
------- Grand Traverse(26055)    1    0    0
+------ Emmet(26047)    2    0    0
+------ Grand Traverse(26055)    3    0    0
 ------ Roscommon(26143)    1    0    0
 ------ Chippewa(26033)    1    0    0
------- Muskegon(26121)    1    0    0
+------ Muskegon(26121)    3    0    0
 ------ Kalamazoo(26077)    3    0    0
------- Newaygo(26123)    1    0    0
+------ Newaygo(26123)    2    0    0
 ---- MN    263    1    24
 ------ Hennepin(27053)    103    0    0
 ------ Ramsey(27123)    26    1    0
@@ -1791,11 +1792,11 @@
 ------ Lamoille(50015)    2    0    0
 ------ Caledonia(50005)    1    0    0
 ------ Orleans(50019)    2    0    0
----- DE    89    0    0
------- New Castle(10003)    58    0    0
+---- DE    91    0    0
+------ New Castle(10003)    60    0    0
 ------ Sussex(10005)    22    0    0
 ------ Kent(10001)    9    0    0
----- MO    227    7    2
+---- MO    228    7    2
 ------ Greene(29077)    17    1    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
@@ -1817,7 +1818,7 @@
 ------ Camden(29029)    1    0    0
 ------ Moniteau(29135)    1    0    0
 ------ Perry(29157)    1    0    0
------- Platte(29165)    1    0    0
+------ Platte(29165)    2    0    0
 ------ Clay(29047)    3    0    0
 ------ Clinton(29049)    1    0    0
 ------ Callaway(29027)    1    1    0
@@ -2061,7 +2062,7 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
--- Brazil    2100    34    2
+-- Brazil    2100    46    2
 -- Israel    1930    3    53
 -- Turkey    1872    44    0
 -- Japan    1848    43    285
@@ -2111,12 +2112,12 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Czechia    1394    2    8
--- Ireland    1125    6    5
+-- Ireland    1329    7    5
 -- Luxembourg    1099    8    6
 -- Ecuador    1049    27    3
 -- Pakistan    972    7    18
 -- Chile    922    2    17
--- Poland    884    10    13
+-- Poland    901    10    13
 -- Thailand    827    4    52
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
@@ -2190,9 +2191,9 @@
 -- Cameroon    66    0    2
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
+-- Trinidad and Tobago    57    0    1
 -- Martinique    53    1    0
 -- Ghana    53    2    8
--- Trinidad and Tobago    53    0    1
 -- Liechtenstein    51    0    0
 -- Uzbekistan    50    0    0
 -- Cuba    48    1    1
