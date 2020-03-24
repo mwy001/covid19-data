@@ -1419,7 +1419,7 @@
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    3    0    0
 ---- DC    141    3    0
------- District of Columbia(11001)    120    2    0
+------ District of Columbia(11001)    141    2    0
 ---- IN    270    7    0
 ------ Marion(18097)    110    3    0
 ------ Hendricks(18063)    12    0    0
@@ -1894,9 +1894,9 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- France    19856    860    2206
+-- France    20123    862    2206
 ---- France    7652    148    12
----- St Martin    6    0    0
+---- St Martin    8    0    0
 ---- Saint Barthelemy    3    0    0
 ---- Nord-Pas-de-Calais and Picardy    936    7    4
 ---- Ile-de-France    5283    2    2
@@ -1911,36 +1911,37 @@
 ---- Languedoc-Roussillon-Midi-Pyrénées    671    0    0
 ---- Provence-Alpes-Côte d'Azur    1372    0    0
 ---- Corsica    183    0    0
----- Martinique    44    0    0
----- French Guiana    18    0    6
+---- Martinique    53    1    0
+---- French Guiana    20    0    6
 ---- Réunion    64    0    0
----- Guadeloupe    58    0    0
----- French Polynesia    15    0    0
+---- Guadeloupe    62    1    0
+---- French Polynesia    18    0    0
 ---- Fench Guiana    5    0    0
----- Mayotte    14    0    0
----- Reunion    47    0    0
+---- Mayotte    24    0    0
+---- Reunion    71    0    0
 ---- SCGF0594    19    0    0
+---- New Caledonia    8    0    0
 -- Korea, Republic of    8961    111    3166
----- Busan    109    1    71
----- Chungcheongbuk-do    37    0    9
----- Chungcheongnam-do    120    0    44
----- Daegu    6411    82    2305
+---- Busan    111    1    71
+---- Chungcheongbuk-do    38    0    11
+---- Chungcheongnam-do    120    0    56
+---- Daegu    6442    88    2571
 ---- Daejeon    24    0    6
 ---- Gangwon-do    30    1    14
----- Gwangju    19    0    10
----- Gyeonggi-do    351    3    88
----- Gyeongsangbuk-do    1256    24    469
----- Gyeongsangnam-do    89    0    45
----- Incheon    40    0    8
----- Jeju-do    4    0    3
+---- Gwangju    19    0    11
+---- Gyeonggi-do    366    4    97
+---- Gyeongsangbuk-do    1257    26    507
+---- Gyeongsangnam-do    90    0    48
+---- Incheon    41    0    8
+---- Jeju-do    4    0    4
 ---- Jeollabuk-do    10    0    7
 ---- Jeollanam-do    6    0    3
 ---- Sejong    42    0    3
----- Seoul    330    0    64
----- Ulsan    36    0    17
+---- Seoul    334    0    72
+---- Ulsan    36    0    18
 ---- 未确定地区    23    3    0
 -- Switzerland    8795    120    131
--- United Kingdom of Great Britain and Northern Ireland    6650    335    135
+-- United Kingdom of Great Britain and Northern Ireland    6726    336    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1950,12 +1951,12 @@
 ---- Scotland    416    10    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    4749    213    2
+-- Netherlands    4764    214    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    4474    21    9
 -- Belgium    3743    88    401
--- Norway    2621    10    6
+-- Norway    2625    10    6
 -- Canada    2091    25    320
 ---- British Columbia    472    13    4
 ---- Ontario    503    6    6
@@ -1972,17 +1973,17 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
 -- Portugal    2060    23    14
--- Sweden    2046    25    16
+-- Sweden    2046    27    16
 -- Brazil    1924    34    2
 -- Australia    1887    7    118
----- New South Wales    533    6    4
----- Victoria    296    0    70
----- Queensland    221    0    8
----- South Australia    100    0    3
----- Western Australia    120    1    0
----- Tasmania    22    0    3
----- Northern Territory    3    0    0
----- Australian Capital Territory    19    0    0
+---- New South Wales    669    6    4
+---- Victoria    355    0    70
+---- Queensland    319    0    8
+---- South Australia    134    0    3
+---- Western Australia    140    1    0
+---- Tasmania    28    0    3
+---- Northern Territory    5    0    0
+---- Australian Capital Territory    32    0    0
 -- Japan    1848    42    235
 ---- Hokkaido    162    6    66
 ---- kochi    12    0    0
@@ -2025,7 +2026,7 @@
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
 ---- Aomori    2    0    0
--- Denmark    1540    24    1
+-- Denmark    1572    24    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Turkey    1529    37    0
@@ -2077,7 +2078,7 @@
 -- Slovakia    186    1    7
 -- Latvia    180    0    1
 -- Lithuania    179    1    1
--- Hungary    167    7    16
+-- Hungary    167    8    21
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- Morocco    143    4    5
@@ -2117,15 +2118,16 @@
 -- Afghanistan    40    1    1
 -- Cuba    40    1    0
 -- Rwanda    36    0    0
+-- Congo, Democratic Republic of the    36    1    0
 -- Mauritius    36    2    0
 -- Bangladesh    33    3    5
 -- Puerto Rico    31    2    1
 -- Honduras    30    0    0
--- Congo, Democratic Republic of the    30    1    0
 -- Guam    29    1    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Ghana    27    2    8
 -- Montenegro    27    1    0
+-- Côte d'Ivoire    25    0    1
 -- Macao    25    0    10
 -- Mayotte    24    0    0
 -- Monaco    23    0    1
@@ -2141,7 +2143,6 @@
 -- Kenya    16    0    0
 -- Kyrgyzstan    16    0    0
 -- Gibraltar    15    0    5
--- Côte d'Ivoire    14    0    1
 -- Maldives    13    0    5
 -- Isle of Man    13    0    0
 -- Tanzania, United Republic of    12    0    0
@@ -2154,12 +2155,12 @@
 -- Saint Martin (French part)    8    0    0
 -- New Caledonia    8    0    0
 -- Seychelles    7    0    0
+-- Gabon    6    1    0
+-- Benin    6    0    0
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
 -- Cayman Islands    5    1    0
--- Gabon    5    1    0
 -- Suriname    5    0    0
--- Benin    5    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Namibia    4    0    0
@@ -2188,6 +2189,7 @@
 -- Kosovo    2    0    0
 -- Gambia    2    1    0
 -- Nicaragua    2    0    0
+-- Chad    2    0    0
 -- Dominica    2    0    0
 -- Myanmar    2    0    0
 -- Holy See    1    0    0
@@ -2195,7 +2197,6 @@
 -- Guernsey    1    0    0
 -- Somalia    1    0    0
 -- Montserrat    1    0    0
--- Chad    1    0    0
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
 -- Eritrea    1    0    0
