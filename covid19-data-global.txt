@@ -496,7 +496,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    50408    634    333
+-- United States of America    50413    634    333
 ---- NY    25665    213    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1277,7 +1277,7 @@
 ------ Stanly(37167)    1    0    0
 ------ Bertie(37015)    1    0    0
 ------ Duplin(37061)    1    0    0
----- MI    1329    19    5
+---- MI    1335    19    5
 ------ Oakland(26125)    329    4    0
 ------ Wayne(26163)    638    9    0
 ------ Macomb(26099)    175    2    0
@@ -1304,7 +1304,7 @@
 ------ Berrien(26021)    5    0    0
 ------ Calhoun(26025)    3    0    0
 ------ Clare(26035)    1    0    0
------- Saginaw(26145)    2    0    0
+------ Saginaw(26145)    8    0    0
 ------ Tuscola(26157)    1    0    0
 ------ Allegan(26005)    2    0    0
 ------ Gladwin(26051)    2    0    0
@@ -1347,7 +1347,7 @@
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
 ------ Le Sueur(27079)    5    0    0
----- MD    349    3    4
+---- MD    349    4    4
 ------ Montgomery(24031)    107    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    42    1    0
@@ -1362,7 +1362,7 @@
 ------ Baltimore City(24510)    41    0    0
 ------ Wicomico(24045)    4    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    63    1    0
+------ Prince Georges(24033)    63    2    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
@@ -1376,6 +1376,7 @@
 ------ Carson City(32510)    3    0    0
 ------ Elko(32007)    2    0    0
 ------ Douglas(32005)    2    0    0
+------ Nye(32023)    1    0    0
 ---- UT    257    1    0
 ------ Salt Lake(49035)    112    0    0
 ------ Summit(49043)    73    0    0
@@ -1619,7 +1620,7 @@
 ---- AR    206    6    0
 ------ Jefferson(05069)    21    0    0
 ------ Pulaski(05119)    63    0    0
------- Cleburne(05023)    28    0    0
+------ Cleburne(05023)    28    1    0
 ------ Cleveland(05025)    3    0    0
 ------ Desha(05041)    2    0    0
 ------ Garland(05051)    9    0    0
@@ -2021,7 +2022,7 @@
 ---- Curacao    3    0    0
 -- Austria    5010    28    9
 -- Belgium    4269    122    461
--- Norway    2768    12    6
+-- Norway    2779    12    6
 -- Canada    2583    26    320
 ---- British Columbia    472    13    4
 ---- Ontario    588    7    6
@@ -2047,7 +2048,7 @@
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
 -- Brazil    1980    34    2
--- Japan    1848    42    285
+-- Japan    1848    43    285
 ---- Hokkaido    163    6    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
@@ -2099,7 +2100,7 @@
 -- Ireland    1125    6    5
 -- Luxembourg    1099    8    6
 -- Ecuador    1049    27    3
--- Pakistan    958    7    13
+-- Pakistan    972    7    18
 -- Chile    922    2    17
 -- Poland    848    9    13
 -- Thailand    827    4    52
@@ -2113,11 +2114,11 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- South Africa    554    0    4
 -- Philippines    552    35    20
--- India    519    10    40
--- Qatar    501    0    37
+-- India    536    10    40
+-- Qatar    526    0    41
 -- Russian Federation    495    1    22
 -- Slovenia    480    4    3
--- Peru    416    5    1
+-- Peru    416    7    1
 -- Bahrain    390    3    177
 -- Hong Kong    386    4    102
 -- Croatia    382    1    5
@@ -2148,13 +2149,13 @@
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
+-- Jordan    153    0    1
 -- North Macedonia    148    2    1
 -- Viet Nam    134    0    17
--- Jordan    127    0    1
 -- Moldova, Republic of    125    1    2
+-- Cyprus    124    3    3
 -- Albania    123    5    10
 -- Faroe Islands    122    0    23
--- Cyprus    116    3    3
 -- Tunisia    114    3    1
 -- Burkina Faso    114    4    7
 -- Malta    110    0    2
@@ -2169,9 +2170,9 @@
 -- Belarus    81    0    22
 -- Réunion    75    0    1
 -- Afghanistan    74    1    1
+-- Kazakhstan    72    3    0
 -- Georgia    70    0    9
 -- Nigeria    69    1    2
--- Kazakhstan    68    3    0
 -- Cameroon    66    0    2
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
@@ -2191,7 +2192,7 @@
 -- Congo, Democratic Republic of the    36    1    0
 -- Guam    33    1    0
 -- Honduras    30    0    0
--- Bolivia, Plurinational State of    28    0    0
+-- Bolivia, Plurinational State of    29    0    0
 -- Macao    28    0    10
 -- Paraguay    27    2    0
 -- Côte d'Ivoire    25    0    1
@@ -2201,9 +2202,9 @@
 -- French Polynesia    23    0    0
 -- Isle of Man    23    0    0
 -- Jamaica    21    1    2
+-- Guatemala    21    1    0
 -- Togo    20    0    1
 -- Guyana    20    1    0
--- Guatemala    20    1    0
 -- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
 -- Madagascar    17    0    0
@@ -2218,13 +2219,13 @@
 -- Uganda    9    0    0
 -- Saint Martin (French part)    8    0    0
 -- Seychelles    7    0    0
+-- Cayman Islands    6    1    0
 -- Gabon    6    1    0
 -- Suriname    6    0    0
 -- Namibia    6    0    2
 -- Benin    6    0    0
 -- Bermuda    6    0    0
 -- Haiti    6    0    0
--- Cayman Islands    5    1    0
 -- Greenland    5    0    2
 -- El Salvador    5    0    0
 -- Congo    4    0    0
