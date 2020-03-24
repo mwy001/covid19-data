@@ -490,13 +490,13 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46459    634    328
+-- United States of America    46467    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
------- Nassau(36059)    2442    4    0
+------ Nassau(36059)    2442    9    0
 ------ Suffolk(36103)    1458    13    0
 ------ Albany(36001)    127    0    0
------- Rockland(36087)    592    2    0
+------ Rockland(36087)    592    5    0
 ------ Dutchess(36027)    100    1    0
 ------ Orange(36071)    389    0    0
 ------ Monroe(36055)    81    2    0
@@ -578,7 +578,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2218    43    8
+---- CA    2226    43    8
 ------ Santa Clara(06085)    321    13    0
 ------ Los Angeles(06037)    540    8    0
 ------ San Mateo(06081)    142    1    0
@@ -598,14 +598,14 @@
 ------ San Luis Obispo(06079)    33    0    0
 ------ Sonoma(06097)    29    1    0
 ------ San Benito(06069)    6    1    0
------- Yolo(06113)    6    1    0
+------ Yolo(06113)    8    1    0
 ------ San Bernardino(06071)    17    0    0
 ------ Stanislaus(06099)    10    0    0
 ------ Tulare(06107)    16    0    0
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    6    0    0
 ------ Imperial(06025)    6    0    0
------- Monterey(06053)    14    1    0
+------ Monterey(06053)    20    1    0
 ------ Santa Barbara(06083)    18    0    0
 ------ Amador(06005)    2    0    0
 ------ Del Norte(06015)    1    0    0
@@ -1238,7 +1238,7 @@
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    1    0    0
 ------ Northampton(37131)    1    0    0
----- MI    1329    16    0
+---- MI    1329    16    5
 ------ Oakland(26125)    329    4    0
 ------ Wayne(26163)    638    8    0
 ------ Macomb(26099)    175    2    0
@@ -1957,9 +1957,18 @@
 -- Netherlands    4764    214    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4474    21    9
+-- Austria    4477    21    9
 -- Belgium    3743    88    401
 -- Norway    2625    10    6
+-- Australia    2136    8    118
+---- New South Wales    669    6    4
+---- Victoria    355    0    70
+---- Queensland    319    0    8
+---- South Australia    134    0    3
+---- Western Australia    140    1    0
+---- Tasmania    28    0    3
+---- Northern Territory    5    0    0
+---- Australian Capital Territory    32    0    0
 -- Canada    2091    25    320
 ---- British Columbia    472    13    4
 ---- Ontario    503    6    6
@@ -1977,15 +1986,6 @@
 ---- Yukon    2    0    0
 -- Portugal    2060    23    14
 -- Sweden    2046    27    16
--- Australia    1973    8    118
----- New South Wales    669    6    4
----- Victoria    355    0    70
----- Queensland    319    0    8
----- South Australia    134    0    3
----- Western Australia    140    1    0
----- Tasmania    28    0    3
----- Northern Territory    5    0    0
----- Australian Capital Territory    32    0    0
 -- Brazil    1924    34    2
 -- Japan    1848    42    235
 ---- Hokkaido    162    6    66
@@ -2038,7 +2038,7 @@
 -- Czechia    1236    1    7
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
--- Pakistan    875    6    13
+-- Pakistan    892    6    13
 -- Luxembourg    875    8    6
 -- Thailand    827    4    52
 -- Poland    749    8    13
@@ -2073,15 +2073,15 @@
 -- Dominican Republic    245    3    3
 -- Armenia    235    0    2
 -- Algeria    230    17    65
+-- Taiwan    215    2    29
 -- Bulgaria    201    3    3
 -- United Arab Emirates    198    2    41
--- Taiwan    195    2    28
 -- Kuwait    189    0    30
 -- San Marino    187    20    4
+-- Hungary    187    8    21
 -- Slovakia    186    1    7
 -- Latvia    180    0    1
 -- Lithuania    179    1    1
--- Hungary    167    8    21
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
@@ -2101,6 +2101,7 @@
 -- Brunei Darussalam    91    0    2
 -- Tunisia    89    3    1
 -- Cambodia    87    0    2
+-- Oman    84    0    17
 -- Venezuela, Bolivarian Republic of    84    0    15
 -- Belarus    81    0    22
 -- Senegal    79    0    8
@@ -2108,10 +2109,9 @@
 -- Azerbaijan    72    1    11
 -- Réunion    71    0    1
 -- Nigeria    69    1    2
--- Kazakhstan    67    3    0
--- Oman    66    0    17
+-- Kazakhstan    68    3    0
+-- Georgia    66    0    9
 -- Guadeloupe    62    1    0
--- Georgia    61    0    8
 -- Palestine    59    0    17
 -- Cameroon    56    0    2
 -- Martinique    53    1    0
