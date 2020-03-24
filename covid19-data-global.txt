@@ -495,7 +495,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46467    634    333
+-- United States of America    46497    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
@@ -886,7 +886,7 @@
 ------ Harris(13145)    1    0    0
 ------ Liberty(13179)    1    0    0
 ------ Camden(13039)    1    0    0
----- TX    804    10    15
+---- TX    826    10    15
 ------ Dallas(48113)    155    5    0
 ------ Travis(48453)    86    0    0
 ------ Harris(48201)    78    1    0
@@ -1826,7 +1826,7 @@
 ------ Putnam(54079)    1    0    0
 ---- GU    29    1    0
 ------ Guam(66010)    29    1    0
----- PR    31    2    0
+---- PR    39    2    0
 ---- VI    17    0    0
 -- Spain    39673    2696    3794
 ---- Andalusia    2471    40    0
@@ -1849,7 +1849,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    30150    130    453
+-- Germany    30344    130    472
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -1960,7 +1960,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    4269    122    461
--- Norway    2647    11    6
+-- Norway    2715    12    6
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
@@ -1970,6 +1970,7 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
+-- Sweden    2104    33    16
 -- Canada    2091    25    320
 ---- British Columbia    472    13    4
 ---- Ontario    503    6    6
@@ -1984,7 +1985,6 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
 -- Portugal    2060    23    14
--- Sweden    2059    33    16
 -- Brazil    1960    34    2
 -- Japan    1848    42    285
 ---- Hokkaido    163    6    66
@@ -2042,20 +2042,20 @@
 -- Thailand    827    4    52
 -- Finland    792    1    10
 -- Poland    774    9    13
+-- Saudi Arabia    767    0    19
 -- Romania    762    8    79
 -- Chile    746    2    11
 -- Greece    695    17    29
 -- Indonesia    686    55    30
 -- Iceland    588    5    51
--- Saudi Arabia    562    0    19
 -- Singapore    558    2    156
 ---- Central Singapore Community Development Council    345    0    124
 -- South Africa    554    0    4
 -- Philippines    552    35    20
--- India    511    10    37
+-- India    519    10    40
 -- Qatar    501    0    37
 -- Russian Federation    495    1    22
--- Slovenia    442    3    0
+-- Slovenia    442    4    0
 -- Peru    395    5    1
 -- Bahrain    390    3    164
 -- Hong Kong    386    4    102
@@ -2078,7 +2078,7 @@
 -- United Arab Emirates    198    2    41
 -- Latvia    197    0    1
 -- Kuwait    191    0    39
--- San Marino    187    20    4
+-- San Marino    187    21    4
 -- Lithuania    187    1    1
 -- Hungary    187    9    21
 -- Andorra    164    1    1
@@ -2138,10 +2138,10 @@
 -- French Guiana    23    0    6
 -- French Polynesia    23    0    0
 -- Jamaica    21    1    2
+-- Togo    20    0    1
 -- Guyana    20    1    0
 -- Guatemala    20    1    0
 -- Isle of Man    20    0    0
--- Togo    18    0    1
 -- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
 -- Madagascar    17    0    0
@@ -2174,6 +2174,7 @@
 -- Fiji    4    0    0
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
+-- Sudan    3    1    0
 -- Saint Barthélemy    3    0    0
 -- Central African Republic    3    0    0
 -- Liberia    3    0    0
@@ -2187,7 +2188,6 @@
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
--- Sudan    2    1    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Gambia    2    1    0
