@@ -1870,7 +1870,7 @@
 ---- Baden-Württemberg    5348    31    130
 ---- Saxony-Anhalt    321    1    0
 ---- Saarland    383    1    2
--- Iran, Islamic Republic of    24811    1934    8376
+-- Iran, Islamic Republic of    24811    1934    8913
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -1959,7 +1959,7 @@
 ---- Scotland    499    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Austria    4782    25    9
+-- Austria    4791    25    9
 -- Netherlands    4764    214    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2036,7 +2036,7 @@
 ---- Aomori    2    0    0
 -- Israel    1656    1    49
 -- Malaysia    1624    15    183
--- Denmark    1577    24    1
+-- Denmark    1577    32    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Turkey    1529    37    0
@@ -2054,13 +2054,13 @@
 -- Indonesia    686    55    30
 -- Iceland    588    5    51
 -- Saudi Arabia    562    0    19
+-- Singapore    558    2    156
+---- Central Singapore Community Development Council    345    0    124
 -- South Africa    554    0    4
 -- Philippines    552    35    20
 -- India    511    10    37
--- Singapore    509    2    152
----- Central Singapore Community Development Council    345    0    124
 -- Qatar    501    0    37
--- Russian Federation    444    1    20
+-- Russian Federation    495    1    22
 -- Slovenia    442    3    0
 -- Peru    395    5    1
 -- Bahrain    390    2    164
@@ -2078,7 +2078,7 @@
 -- Dominican Republic    245    3    3
 -- Armenia    235    0    2
 -- Algeria    230    17    65
--- Taiwan    215    2    29
+-- Taiwan    216    2    29
 -- Slovakia    204    1    7
 -- Bulgaria    202    3    3
 -- United Arab Emirates    198    2    41
@@ -2087,13 +2087,13 @@
 -- San Marino    187    20    4
 -- Lithuania    187    1    1
 -- Hungary    187    9    21
+-- Andorra    164    1    1
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
 -- Bosnia and Herzegovina    150    1    2
 -- Morocco    143    4    5
 -- North Macedonia    136    2    1
--- Andorra    133    1    1
 -- Jordan    127    0    1
 -- Albania    123    5    10
 -- Viet Nam    123    0    17
@@ -2120,9 +2120,10 @@
 -- Guadeloupe    62    1    0
 -- Palestine    60    0    17
 -- Martinique    53    1    0
+-- Ghana    52    2    8
 -- Trinidad and Tobago    52    0    1
 -- Liechtenstein    51    0    0
--- Uzbekistan    49    0    0
+-- Uzbekistan    50    0    0
 -- Afghanistan    42    1    1
 -- Kyrgyzstan    42    0    0
 -- Cuba    40    1    0
@@ -2137,7 +2138,6 @@
 -- Montenegro    29    1    0
 -- Bolivia, Plurinational State of    28    0    0
 -- Paraguay    27    2    0
--- Ghana    27    2    8
 -- Côte d'Ivoire    25    0    1
 -- Macao    25    0    10
 -- Monaco    23    0    1
@@ -2188,7 +2188,7 @@
 -- Chad    3    0    0
 -- Niger    3    0    0
 -- Angola    3    0    0
--- Cabo Verde    3    0    0
+-- Cabo Verde    3    1    0
 -- Zimbabwe    3    1    0
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
@@ -2200,6 +2200,7 @@
 -- Nicaragua    2    0    0
 -- Dominica    2    0    0
 -- Myanmar    2    0    0
+-- Lao People's Democratic Republic    2    0    0
 -- Holy See    1    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
