@@ -495,7 +495,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46497    634    333
+-- United States of America    46499    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
@@ -1127,9 +1127,9 @@
 ------ Highland(39071)    1    0    0
 ------ Logan(39091)    1    0    0
 ------ Sandusky(39143)    1    0    0
----- OR    191    5    0
+---- OR    193    5    0
 ------ Washington(41067)    69    1    0
------- Linn(41043)    20    1    0
+------ Linn(41043)    21    1    0
 ------ Clackamas(41005)    14    0    0
 ------ Deschutes(41017)    10    0    0
 ------ Marion(41047)    30    1    0
@@ -1146,6 +1146,7 @@
 ------ Union(41061)    1    0    0
 ------ Josephine(41033)    1    0    0
 ------ Hood River(41027)    1    0    0
+------ Clatsop(41007)    1    0    0
 ---- VA    254    7    2
 ------ Arlington(51013)    34    0    0
 ------ Fairfax(51059)    43    2    0
@@ -1525,7 +1526,7 @@
 ---- NH    101    1    0
 ------ Rockingham(33015)    38    0    0
 ------ Grafton(33009)    20    0    0
------- Hillsborough(33011)    16    1    0
+------ Hillsborough(33011)    19    1    0
 ------ Carroll(33003)    7    0    0
 ------ Belknap(33001)    7    0    0
 ------ Merrimack(33013)    4    0    0
@@ -1654,6 +1655,7 @@
 ------ Lamar(28073)    1    0    0
 ------ Tallahatchie(28135)    1    0    0
 ------ Marion(28091)    1    0    0
+------ DeSoto(28033)    23    0    0
 ---- AZ    235    3    3
 ------ Maricopa(04013)    139    2    0
 ------ Pinal(04021)    17    0    0
@@ -1849,7 +1851,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    30344    130    472
+-- Germany    30649    132    749
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -1955,12 +1957,14 @@
 ---- Scotland    499    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Austria    4829    25    9
--- Netherlands    4764    214    2
+-- Netherlands    5560    276    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    4839    25    9
 -- Belgium    4269    122    461
 -- Norway    2715    12    6
+-- Portugal    2362    29    22
+-- Sweden    2272    33    16
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
@@ -1970,7 +1974,6 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    5    0    0
 ---- Australian Capital Territory    32    0    0
--- Sweden    2104    33    16
 -- Canada    2091    25    320
 ---- British Columbia    472    13    4
 ---- Ontario    503    6    6
@@ -1984,8 +1987,7 @@
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
--- Portugal    2060    23    14
--- Brazil    1960    34    2
+-- Brazil    1965    34    2
 -- Japan    1848    42    285
 ---- Hokkaido    163    6    66
 ---- kochi    12    0    0
@@ -2034,18 +2036,18 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Turkey    1529    37    0
--- Czechia    1289    2    7
+-- Czechia    1289    2    8
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
--- Pakistan    916    7    13
+-- Pakistan    918    7    13
 -- Luxembourg    875    8    6
 -- Thailand    827    4    52
 -- Finland    792    1    10
 -- Poland    774    9    13
--- Saudi Arabia    767    0    19
+-- Saudi Arabia    767    1    28
 -- Romania    762    8    79
 -- Chile    746    2    11
--- Greece    695    17    29
+-- Greece    695    19    29
 -- Indonesia    686    55    30
 -- Iceland    588    5    51
 -- Singapore    558    2    156
@@ -2064,10 +2066,10 @@
 -- Egypt    366    19    68
 -- Croatia    361    1    5
 -- Panama    345    6    1
+-- Iraq    316    23    62
 -- Colombia    306    3    6
 -- Lebanon    304    4    8
 -- Argentina    301    4    51
--- Iraq    266    23    62
 -- Serbia    249    3    3
 -- Dominican Republic    245    3    3
 -- Armenia    235    0    2
@@ -2085,7 +2087,7 @@
 -- Uruguay    162    0    0
 -- Costa Rica    158    2    2
 -- New Zealand    155    0    12
--- Bosnia and Herzegovina    150    1    2
+-- Bosnia and Herzegovina    150    2    2
 -- North Macedonia    148    2    1
 -- Morocco    143    4    5
 -- Jordan    127    0    1
@@ -2133,6 +2135,7 @@
 -- Bolivia, Plurinational State of    28    0    0
 -- Paraguay    27    2    0
 -- Côte d'Ivoire    25    0    1
+-- Kenya    25    0    0
 -- Macao    25    0    10
 -- Monaco    23    0    1
 -- French Guiana    23    0    6
@@ -2145,7 +2148,6 @@
 -- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
 -- Madagascar    17    0    0
--- Kenya    16    0    0
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
 -- Aruba    12    0    1
