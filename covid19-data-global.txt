@@ -495,7 +495,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46501    634    333
+-- United States of America    46512    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
@@ -749,7 +749,7 @@
 ------ Natchitoches(22069)    2    0    0
 ------ Richland(22083)    2    0    0
 ------ Grant(22043)    1    1    0
----- CO    723    7    0
+---- CO    723    8    0
 ------ Denver(08031)    148    0    0
 ------ Eagle(08037)    92    1    0
 ------ Arapahoe(08005)    58    0    0
@@ -759,7 +759,7 @@
 ------ Pitkin(08097)    18    0    0
 ------ Douglas(08035)    48    0    0
 ------ Adams(08001)    25    0    0
------- El Paso(08041)    69    3    0
+------ El Paso(08041)    69    4    0
 ------ Weld(08123)    50    2    0
 ------ Summit(08117)    8    0    0
 ------ Larimer(08069)    34    0    0
@@ -1190,7 +1190,7 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    421    0    0
+---- NC    425    0    0
 ------ Wake(37183)    66    0    0
 ------ Durham(37063)    71    0    0
 ------ Mecklenburg(37119)    106    0    0
@@ -1199,7 +1199,7 @@
 ------ Forsyth(37067)    12    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    8    0    0
------- Cabarrus(37025)    6    0    0
+------ Cabarrus(37025)    10    0    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    11    0    0
 ------ Iredell(37097)    8    0    0
@@ -1725,7 +1725,7 @@
 ------ New Castle(10003)    58    0    0
 ------ Sussex(10005)    20    0    0
 ------ Kent(10001)    9    0    0
----- MO    216    7    2
+---- MO    223    7    2
 ------ Greene(29077)    17    1    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
@@ -1852,7 +1852,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    31260    132    749
+-- Germany    31370    132    749
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -1961,10 +1961,10 @@
 -- Netherlands    5560    276    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4876    25    9
+-- Austria    4926    25    9
 -- Belgium    4269    122    461
 -- Norway    2715    12    6
--- Portugal    2362    29    22
+-- Portugal    2362    30    22
 -- Sweden    2272    36    16
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
@@ -1994,11 +1994,11 @@
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    28    0    0
----- Gifu    9    0    0
----- Nagano    4    0    0
+---- Gifu    11    0    0
+---- Nagano    5    0    0
 ---- Tochigi    6    0    0
 ---- Kumamoto    7    0    0
----- Saitama    58    1    0
+---- Saitama    59    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    7    0    0
 ---- Tokyo    171    4    0
@@ -2006,7 +2006,7 @@
 ---- Kyoto    25    0    2
 ---- Osaka    142    2    1
 ---- Chiba    48    0    0
----- Kanagawa    82    4    1
+---- Kanagawa    83    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    145    17    2
 ---- Nara    9    0    1
@@ -2070,8 +2070,8 @@
 -- Iraq    316    27    75
 -- Colombia    306    3    6
 -- Lebanon    304    4    8
+-- Serbia    303    3    3
 -- Argentina    301    4    51
--- Serbia    249    3    3
 -- Dominican Republic    245    3    3
 -- Armenia    235    0    2
 -- Algeria    230    17    65
@@ -2091,9 +2091,9 @@
 -- Bosnia and Herzegovina    150    2    2
 -- North Macedonia    148    2    1
 -- Morocco    143    4    5
+-- Viet Nam    132    0    17
 -- Jordan    127    0    1
 -- Albania    123    5    10
--- Viet Nam    123    0    17
 -- Faroe Islands    122    0    23
 -- Cyprus    116    1    3
 -- Tunisia    114    3    1
@@ -2101,9 +2101,9 @@
 -- Malta    110    0    2
 -- Moldova, Republic of    109    1    2
 -- Brunei Darussalam    104    0    2
--- Sri Lanka    101    0    3
+-- Sri Lanka    102    0    3
 -- Ukraine    97    3    8
--- Cambodia    87    0    2
+-- Cambodia    91    0    4
 -- Azerbaijan    87    1    11
 -- Senegal    86    0    8
 -- Oman    84    0    17
@@ -2173,7 +2173,7 @@
 -- Eswatini    4    0    0
 -- Curaçao    4    1    0
 -- Bahamas    4    0    0
--- Greenland    4    0    0
+-- Greenland    4    0    2
 -- Fiji    4    0    0
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
