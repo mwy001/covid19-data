@@ -495,7 +495,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46512    634    333
+-- United States of America    46561    634    333
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
@@ -583,7 +583,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2226    43    8
+---- CA    2233    43    8
 ------ Santa Clara(06085)    321    13    0
 ------ Los Angeles(06037)    540    8    0
 ------ San Mateo(06081)    142    1    0
@@ -608,7 +608,7 @@
 ------ Stanislaus(06099)    10    0    0
 ------ Tulare(06107)    16    0    0
 ------ Calaveras(06009)    2    0    0
------- Fresno(06019)    6    0    0
+------ Fresno(06019)    13    0    0
 ------ Imperial(06025)    6    0    0
 ------ Monterey(06053)    20    1    0
 ------ Santa Barbara(06083)    18    0    0
@@ -1190,7 +1190,7 @@
 ------ Louisa(51109)    2    0    0
 ------ City of Danville(51590)    1    0    0
 ------ Alleghany(51005)    1    0    0
----- NC    425    0    0
+---- NC    430    0    0
 ------ Wake(37183)    66    0    0
 ------ Durham(37063)    71    0    0
 ------ Mecklenburg(37119)    106    0    0
@@ -1201,7 +1201,7 @@
 ------ Brunswick(37019)    8    0    0
 ------ Cabarrus(37025)    10    0    0
 ------ Craven(37049)    3    0    0
------- Guilford(37081)    11    0    0
+------ Guilford(37081)    16    0    0
 ------ Iredell(37097)    8    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    3    0    0
@@ -1314,29 +1314,29 @@
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
 ------ Le Sueur(27079)    1    0    0
----- MD    290    3    4
------- Montgomery(24031)    94    1    0
+---- MD    349    3    4
+------ Montgomery(24031)    107    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    35    1    0
------- Howard(24027)    26    0    0
------- Anne Arundel(24003)    20    0    0
+------ Baltimore(24005)    42    1    0
+------ Howard(24027)    30    0    0
+------ Anne Arundel(24003)    24    0    0
 ------ Carroll(24013)    5    0    0
 ------ Harford(24025)    5    0    0
 ------ Charles(24017)    5    0    0
 ------ Frederick(24021)    4    0    0
 ------ Talbot(24041)    1    0    0
------- Calvert(24009)    2    0    0
+------ Calvert(24009)    3    0    0
 ------ Baltimore City(24510)    31    0    0
 ------ Wicomico(24045)    4    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    47    1    0
+------ Prince Georges(24033)    63    1    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
 ------ Washington(24043)    2    0    0
------- Cecil(24015)    1    0    0
+------ Cecil(24015)    3    0    0
 ------ Garrett(24023)    3    0    0
------- St Marys(24037)    1    0    0
+------ St Marys(24037)    2    0    0
 ---- NV    263    4    0
 ------ Clark(32003)    212    4    0
 ------ Washoe(32031)    44    0    0
@@ -1852,7 +1852,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    6    0    0
--- Germany    31370    132    749
+-- Germany    31370    133    749
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
 ---- Free State of Bavaria    5754    30    21
@@ -1948,7 +1948,7 @@
 ---- Seoul    334    0    72
 ---- Ulsan    36    0    18
 ---- 未确定地区    23    3    0
--- United Kingdom of Great Britain and Northern Ireland    6726    336    135
+-- United Kingdom of Great Britain and Northern Ireland    6735    337    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -1961,11 +1961,11 @@
 -- Netherlands    5560    276    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    4926    25    9
+-- Austria    4971    28    9
 -- Belgium    4269    122    461
--- Norway    2715    12    6
+-- Norway    2753    12    6
 -- Portugal    2362    30    22
--- Sweden    2272    36    16
+-- Sweden    2286    36    16
 -- Australia    2144    8    118
 ---- New South Wales    669    6    4
 ---- Victoria    355    0    70
@@ -1988,7 +1988,7 @@
 ---- Nova Scotia    44    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
--- Brazil    1965    34    2
+-- Brazil    1967    34    2
 -- Japan    1848    42    285
 ---- Hokkaido    163    6    66
 ---- kochi    12    0    0
@@ -2040,8 +2040,8 @@
 -- Czechia    1289    2    8
 -- Ireland    1125    6    5
 -- Ecuador    981    18    3
+-- Pakistan    958    7    13
 -- Chile    922    2    17
--- Pakistan    918    7    13
 -- Luxembourg    875    8    6
 -- Thailand    827    4    52
 -- Poland    799    9    13
@@ -2068,21 +2068,21 @@
 -- Croatia    361    1    5
 -- Panama    345    6    1
 -- Iraq    316    27    75
+-- Dominican Republic    312    6    3
 -- Colombia    306    3    6
 -- Lebanon    304    4    8
--- Serbia    303    3    3
+-- Serbia    303    3    15
 -- Argentina    301    4    51
--- Dominican Republic    245    3    3
 -- Armenia    235    0    2
 -- Algeria    230    17    65
 -- Taiwan    216    2    29
 -- Slovakia    204    1    7
+-- Lithuania    203    1    1
 -- Bulgaria    202    3    3
 -- United Arab Emirates    198    2    41
 -- Latvia    197    0    1
 -- Kuwait    191    0    39
 -- San Marino    187    21    4
--- Lithuania    187    1    1
 -- Hungary    187    9    21
 -- Andorra    164    1    1
 -- Uruguay    162    0    0
@@ -2091,7 +2091,7 @@
 -- Bosnia and Herzegovina    150    2    2
 -- North Macedonia    148    2    1
 -- Morocco    143    4    5
--- Viet Nam    132    0    17
+-- Viet Nam    134    0    17
 -- Jordan    127    0    1
 -- Albania    123    5    10
 -- Faroe Islands    122    0    23
@@ -2188,6 +2188,7 @@
 -- Angola    3    0    0
 -- Cabo Verde    3    1    0
 -- Zimbabwe    3    1    0
+-- Mozambique    3    0    0
 -- Nepal    2    0    1
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
@@ -2206,7 +2207,6 @@
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
 -- Eritrea    1    0    0
--- Mozambique    1    0    0
 -- Grenada    1    0    0
 -- Syrian Arab Republic    1    0    0
 -- Belize    1    0    0
