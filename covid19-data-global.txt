@@ -490,7 +490,7 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46454    634    314
+-- United States of America    46459    634    317
 ---- NY    23230    213    0
 ------ Westchester(36119)    2894    0    0
 ------ Nassau(36059)    2442    4    0
@@ -540,7 +540,7 @@
 ------ Bronx(36005)    1411    0    0
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
------- Madison(36053)    4    0    0
+------ Madison(36053)    4    1    0
 ------ Oswego(36075)    2    0    0
 ------ Chemung(36015)    2    0    0
 ------ Otsego(36077)    1    0    0
@@ -578,7 +578,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    1    0    0
----- CA    2218    43    7
+---- CA    2218    43    8
 ------ Santa Clara(06085)    321    13    0
 ------ Los Angeles(06037)    540    8    0
 ------ San Mateo(06081)    142    1    0
@@ -881,7 +881,7 @@
 ------ Harris(13145)    1    0    0
 ------ Liberty(13179)    1    0    0
 ------ Camden(13039)    1    0    0
----- TX    799    10    15
+---- TX    804    10    15
 ------ Dallas(48113)    155    5    0
 ------ Travis(48453)    86    0    0
 ------ Harris(48201)    78    1    0
@@ -973,7 +973,7 @@
 ------ York(42133)    10    0    0
 ------ Lancaster(42071)    6    0    0
 ------ Berks(42011)    14    0    0
------- Lackawanna(42069)    7    0    0
+------ Lackawanna(42069)    7    1    0
 ------ Erie(42049)    3    0    0
 ------ Westmoreland(42129)    6    0    0
 ------ Adams(42001)    6    0    0
@@ -1649,7 +1649,7 @@
 ------ Lamar(28073)    1    0    0
 ------ Tallahatchie(28135)    1    0    0
 ------ Marion(28091)    1    0    0
----- AZ    235    3    1
+---- AZ    235    3    3
 ------ Maricopa(04013)    139    2    0
 ------ Pinal(04021)    17    0    0
 ------ Pima(04019)    24    1    0
@@ -1719,13 +1719,13 @@
 ------ Sussex(10005)    20    0    0
 ------ Kent(10001)    9    0    0
 ---- MO    216    7    2
------- Greene(29077)    17    0    0
+------ Greene(29077)    17    1    0
 ------ Cass(29037)    6    0    0
 ------ Boone(29019)    18    1    0
 ------ Cole(29051)    5    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    10    1    0
------- St Louis(29189)    69    1    0
+------ St Louis(29189)    90    1    0
 ------ St Charles(29183)    4    0    0
 ------ St Louis City(29510)    90    1    0
 ------ Christian(29043)    2    0    0
@@ -1798,12 +1798,13 @@
 ------ Bannock(16005)    2    0    0
 ------ Cassia(16031)    1    0    0
 ---- ND    33    0    0
------- Burleigh(38015)    16    0    0
+------ Burleigh(38015)    17    0    0
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    1    0    0
 ------ Morton(38059)    7    0    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    1    0    0
+------ Walsh(38099)    1    0    0
 ---- AK    36    0    0
 ------ Fairbanks North Star(02090)    7    0    0
 ------ Anchorage(02020)    17    0    0
@@ -2048,9 +2049,9 @@
 -- Indonesia    579    49    30
 -- Romania    576    7    73
 -- Saudi Arabia    562    0    19
+-- India    511    10    37
 -- Singapore    509    2    152
 ---- Central Singapore Community Development Council    345    0    124
--- India    508    10    37
 -- Philippines    501    33    19
 -- Qatar    501    0    33
 -- Slovenia    442    3    0
@@ -2107,8 +2108,8 @@
 -- Azerbaijan    72    1    11
 -- Réunion    71    0    1
 -- Nigeria    69    1    2
+-- Kazakhstan    67    3    0
 -- Oman    66    0    17
--- Kazakhstan    66    3    0
 -- Guadeloupe    62    1    0
 -- Georgia    61    0    8
 -- Palestine    59    0    17
@@ -2116,16 +2117,16 @@
 -- Martinique    53    1    0
 -- Trinidad and Tobago    52    0    1
 -- Liechtenstein    51    0    0
--- Uzbekistan    46    0    0
+-- Uzbekistan    49    0    0
 -- Afghanistan    42    1    1
 -- Cuba    40    1    0
 -- Rwanda    36    0    0
 -- Congo, Democratic Republic of the    36    1    0
 -- Mauritius    36    2    0
 -- Bangladesh    33    3    5
+-- Guam    33    1    0
 -- Puerto Rico    31    2    1
 -- Honduras    30    0    0
--- Guam    29    1    0
 -- Paraguay    27    2    0
 -- Bolivia, Plurinational State of    27    0    0
 -- Ghana    27    2    8
@@ -2134,12 +2135,12 @@
 -- Macao    25    0    10
 -- Mayotte    24    0    0
 -- Monaco    23    0    1
+-- French Polynesia    23    0    0
 -- French Guiana    20    0    6
 -- Guyana    20    1    0
 -- Guatemala    20    1    0
 -- Jamaica    19    1    2
 -- Togo    18    0    1
--- French Polynesia    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Barbados    17    0    0
 -- Kenya    16    0    0
