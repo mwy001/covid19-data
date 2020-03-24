@@ -495,8 +495,8 @@
 ---- Liguria    1924    212    159
 ---- Veneto    5505    192    327
 ---- Bolzano    724    29    7
--- United States of America    46561    634    333
----- NY    23230    213    0
+-- United States of America    46595    634    333
+---- NY    23245    213    0
 ------ Westchester(36119)    2894    1    0
 ------ Nassau(36059)    2442    9    0
 ------ Suffolk(36103)    1458    13    0
@@ -504,7 +504,7 @@
 ------ Rockland(36087)    592    5    0
 ------ Dutchess(36027)    100    1    0
 ------ Orange(36071)    389    0    0
------- Monroe(36055)    81    2    0
+------ Monroe(36055)    95    3    0
 ------ Erie(36029)    92    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
@@ -521,7 +521,7 @@
 ------ Genesee(36037)    1    0    0
 ------ Herkimer(36043)    4    0    0
 ------ Montgomery(36057)    4    0    0
------- Oneida(36065)    7    0    0
+------ Oneida(36065)    10    0    0
 ------ Ontario(36069)    6    0    0
 ------ Rensselaer(36083)    29    0    0
 ------ Sullivan(36105)    23    0    0
@@ -547,7 +547,7 @@
 ------ Richmond(36085)    593    0    0
 ------ Madison(36053)    4    1    0
 ------ Oswego(36075)    2    0    0
------- Chemung(36015)    2    0    0
+------ Chemung(36015)    3    0    0
 ------ Otsego(36077)    1    0    0
 ------ Cayuga(36011)    2    0    0
 ------ St Lawrence(36089)    1    0    0
@@ -901,7 +901,7 @@
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    16    0    0
 ------ Galveston(48167)    18    0    0
------- Lubbock(48303)    9    0    0
+------ Lubbock(48303)    11    0    0
 ------ Matagorda(48321)    4    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    12    0    0
@@ -935,7 +935,7 @@
 ------ Hockley(48219)    3    0    0
 ------ Milam(48331)    2    0    0
 ------ Kendall(48259)    1    0    0
------- Guadalupe(48187)    2    0    0
+------ Guadalupe(48187)    4    0    0
 ------ Fayette(48149)    1    0    0
 ------ Deaf Smith(48117)    1    0    0
 ------ Nueces(48355)    7    0    0
@@ -959,6 +959,7 @@
 ------ Falls(48145)    1    0    0
 ------ Waller(48473)    1    0    0
 ------ Robertson(48395)    1    0    0
+------ Terry(48445)    1    0    0
 ---- PA    698    7    0
 ------ Montgomery(42091)    136    1    0
 ------ Philadelphia(42101)    175    0    0
@@ -1326,7 +1327,7 @@
 ------ Frederick(24021)    4    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    3    0    0
------- Baltimore City(24510)    31    0    0
+------ Baltimore City(24510)    41    0    0
 ------ Wicomico(24045)    4    0    0
 ------ Worcester(24047)    2    0    0
 ------ Prince Georges(24033)    63    1    0
@@ -1337,7 +1338,7 @@
 ------ Cecil(24015)    3    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    2    0    0
----- NV    263    4    0
+---- NV    278    4    0
 ------ Clark(32003)    212    4    0
 ------ Washoe(32031)    44    0    0
 ------ Carson City(32510)    3    0    0
@@ -2039,7 +2040,7 @@
 -- Turkey    1529    37    0
 -- Czechia    1289    2    8
 -- Ireland    1125    6    5
--- Ecuador    981    18    3
+-- Ecuador    1049    27    3
 -- Pakistan    958    7    13
 -- Chile    922    2    17
 -- Luxembourg    875    8    6
@@ -2062,10 +2063,10 @@
 -- Peru    395    5    1
 -- Bahrain    390    3    164
 -- Hong Kong    386    4    102
+-- Croatia    382    1    5
 -- Estonia    369    0    7
 -- Mexico    367    4    4
 -- Egypt    366    19    68
--- Croatia    361    1    5
 -- Panama    345    6    1
 -- Iraq    316    27    75
 -- Dominican Republic    312    6    3
@@ -2135,9 +2136,9 @@
 -- Montenegro    29    1    0
 -- Bolivia, Plurinational State of    28    0    0
 -- Paraguay    27    2    0
+-- Macao    26    0    10
 -- Côte d'Ivoire    25    0    1
 -- Kenya    25    0    0
--- Macao    25    0    10
 -- Monaco    23    0    1
 -- French Guiana    23    0    6
 -- French Polynesia    23    0    0
