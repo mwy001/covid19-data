@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55277    802    354
+-- United States of America    55285    803    354
 ---- NY    26376    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -912,7 +912,7 @@
 ------ Fannin(13111)    1    0    0
 ------ Seminole(13253)    2    0    0
 ------ Telfair(13271)    1    0    0
----- TX    1021    13    15
+---- TX    1027    13    15
 ------ Dallas(48113)    169    5    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    134    1    0
@@ -932,13 +932,13 @@
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    16    0    0
 ------ Denton(48121)    51    0    0
------- Ellis(48139)    6    0    0
+------ Ellis(48139)    7    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    2    0    0
------- Webb(48479)    4    0    0
+------ Webb(48479)    5    0    0
 ------ Wichita(48485)    8    0    0
------- Johnson(48251)    2    0    0
+------ Johnson(48251)    3    0    0
 ------ Comal(48091)    5    0    0
 ------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
@@ -994,6 +994,10 @@
 ------ Tom Green(48451)    1    0    0
 ------ Kaufman(48257)    2    0    0
 ------ Hale(48189)    1    0    0
+------ Cass(48067)    1    0    0
+------ Coryell(48099)    1    0    0
+------ Limestone(48293)    1    0    0
+------ Morris(48343)    1    0    0
 ---- PA    946    8    0
 ------ Montgomery(42091)    159    1    0
 ------ Philadelphia(42101)    252    0    0
@@ -1382,7 +1386,7 @@
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
 ------ Le Sueur(27079)    5    0    0
----- MD    350    4    4
+---- MD    352    4    4
 ------ Montgomery(24031)    107    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    42    1    0
@@ -1401,7 +1405,7 @@
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    1    0    0
 ------ Somerset(24039)    1    0    0
------- Washington(24043)    2    0    0
+------ Washington(24043)    4    0    0
 ------ Cecil(24015)    3    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    2    0    0
@@ -2167,9 +2171,9 @@
 -- Luxembourg    1099    8    6
 -- Ecuador    1082    27    3
 -- Pakistan    972    7    18
+-- Thailand    934    4    52
 -- Chile    922    2    17
 -- Poland    901    10    13
--- Thailand    827    4    52
 -- Romania    794    12    79
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
@@ -2229,7 +2233,7 @@
 -- Sri Lanka    102    0    3
 -- Ukraine    102    3    8
 -- Réunion    94    0    1
--- Cambodia    91    0    4
+-- Cambodia    93    0    4
 -- Venezuela, Bolivarian Republic of    91    0    15
 -- Azerbaijan    87    1    11
 -- Senegal    86    0    8
@@ -2279,9 +2283,10 @@
 -- Maldives    13    0    5
 -- Ethiopia    12    0    4
 -- Tanzania, United Republic of    12    0    0
+-- New Caledonia    12    0    0
 -- Mongolia    10    0    0
--- New Caledonia    10    0    0
 -- Equatorial Guinea    9    0    0
+-- El Salvador    9    0    0
 -- Uganda    9    0    0
 -- Saint Martin (French part)    8    0    0
 -- Suriname    7    0    0
@@ -2296,12 +2301,11 @@
 -- Bermuda    6    0    0
 -- Bahamas    5    0    1
 -- Greenland    5    0    2
--- El Salvador    5    0    0
+-- Fiji    5    0    0
 -- Holy See    4    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
--- Fiji    4    0    0
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
 -- Sudan    3    1    0
