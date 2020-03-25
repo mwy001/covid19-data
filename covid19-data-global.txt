@@ -477,7 +477,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55313    806    354
+-- United States of America    55318    806    354
 ---- NY    26383    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -896,7 +896,7 @@
 ------ Fannin(13111)    1    0    0
 ------ Seminole(13253)    2    0    0
 ------ Telfair(13271)    1    0    0
----- TX    1029    13    15
+---- TX    1030    13    15
 ------ Dallas(48113)    169    5    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    134    1    0
@@ -982,6 +982,7 @@
 ------ Coryell(48099)    1    0    0
 ------ Limestone(48293)    1    0    0
 ------ Morris(48343)    1    0    0
+------ Wilson(48493)    1    0    0
 ---- PA    946    8    0
 ------ Montgomery(42091)    159    1    0
 ------ Philadelphia(42101)    252    0    0
@@ -1663,7 +1664,7 @@
 ------ Newport(44005)    9    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    7    0    0
----- AR    232    6    0
+---- AR    236    6    0
 ------ Jefferson(05069)    22    0    0
 ------ Pulaski(05119)    64    0    0
 ------ Cleburne(05023)    34    1    0
@@ -1955,7 +1956,7 @@
 ------ Preston(54077)    1    0    0
 ------ Wood(54107)    1    0    0
 ---- GU    36    1    0
------- Guam(66010)    32    1    0
+------ Guam(66010)    36    1    0
 ---- PR    51    2    0
 ---- VI    17    0    0
 -- Spain    47610    3434    5367
@@ -1979,7 +1980,7 @@
 ---- Melilla    38    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
--- Germany    35353    181    3540
+-- Germany    35531    181    3540
 ---- Saxony    959    6    2
 ---- Mecklenburg-Vorpommern    218    0    4
 ---- Free State of Bavaria    6558    37    21
@@ -2055,7 +2056,7 @@
 ---- Reunion    94    0    0
 ---- SCGF0594    23    0    0
 ---- New Caledonia    10    0    0
--- Switzerland    10456    145    131
+-- Switzerland    10537    149    131
 -- Korea, Republic of    9137    126    3730
 ---- Busan    112    1    73
 ---- Chungcheongbuk-do    38    0    13
@@ -2085,10 +2086,10 @@
 ---- Scotland    584    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    6412    277    3
+-- Netherlands    6412    356    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5560    30    9
+-- Austria    5588    30    9
 -- Belgium    4937    178    547
 -- Portugal    2995    43    22
 -- Norway    2971    14    6
@@ -2115,7 +2116,7 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
--- Brazil    2271    47    2
+-- Brazil    2274    47    2
 -- Israel    2170    5    58
 -- Turkey    1874    44    0
 -- Japan    1848    43    285
@@ -2123,21 +2124,21 @@
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    29    0    0
----- Gifu    11    0    0
+---- Gifu    12    0    0
 ---- Nagano    5    0    0
 ---- Tochigi    10    0    0
----- Kumamoto    7    0    0
+---- Kumamoto    8    0    0
 ---- Saitama    59    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    9    0    0
 ---- Tokyo    212    4    0
 ---- Wakayama    17    1    2
----- Kyoto    27    0    2
----- Osaka    142    2    1
+---- Kyoto    31    0    2
+---- Osaka    149    2    1
 ---- Chiba    53    0    0
 ---- Kanagawa    84    4    1
 ---- Shizuoka    3    0    0
----- Aichi    148    18    2
+---- Aichi    154    18    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2195,12 +2196,12 @@
 -- Mexico    405    5    4
 -- Estonia    404    0    8
 -- Argentina    387    7    52
+-- Serbia    384    4    15
 -- Colombia    378    3    6
 -- Iraq    346    29    103
 -- United Arab Emirates    333    2    52
 -- Lebanon    333    4    8
 -- Dominican Republic    312    6    3
--- Serbia    303    4    15
 -- Armenia    265    0    16
 -- Algeria    264    19    65
 -- Lithuania    255    4    1
@@ -2225,7 +2226,7 @@
 -- Malta    129    0    2
 -- Moldova, Republic of    125    1    2
 -- Cyprus    124    3    3
--- Tunisia    119    4    1
+-- Tunisia    119    4    2
 -- Burkina Faso    114    4    7
 -- Ukraine    113    4    8
 -- Brunei Darussalam    109    0    2
