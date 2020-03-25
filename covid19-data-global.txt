@@ -477,7 +477,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55285    805    354
+-- United States of America    55297    805    354
 ---- NY    26376    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1023,7 +1023,7 @@
 ------ Clearfield(42033)    1    0    0
 ------ Juniata(42067)    1    0    0
 ------ Somerset(42111)    1    0    0
----- WI    482    5    1
+---- WI    488    5    1
 ------ Milwaukee(55079)    243    3    0
 ------ Dane(55025)    72    0    0
 ------ Kenosha(55059)    13    0    0
@@ -1035,11 +1035,11 @@
 ------ Racine(55101)    5    0    0
 ------ Washington(55131)    17    0    0
 ------ Wood(55141)    1    0    0
------- La Crosse(55063)    5    0    0
+------ La Crosse(55063)    10    0    0
 ------ Brown(55009)    3    0    0
 ------ Walworth(55127)    4    0    0
 ------ Ozaukee(55089)    16    2    0
------- Eau Claire(55035)    4    0    0
+------ Eau Claire(55035)    5    0    0
 ------ Bayfield(55007)    1    0    0
 ------ Calumet(55015)    1    0    0
 ------ Columbia(55021)    5    0    0
@@ -1955,7 +1955,7 @@
 ------ Wood(54107)    1    0    0
 ---- GU    32    1    0
 ------ Guam(66010)    32    1    0
----- PR    39    2    0
+---- PR    51    2    0
 ---- VI    17    0    0
 -- Spain    47610    3434    5367
 ---- Andalusia    3010    113    71
@@ -2074,7 +2074,7 @@
 ---- Seoul    347    0    72
 ---- Ulsan    37    0    19
 ---- 未确定地区    23    3    0
--- United Kingdom of Great Britain and Northern Ireland    8164    423    135
+-- United Kingdom of Great Britain and Northern Ireland    8705    427    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2089,6 +2089,7 @@
 ---- Curacao    3    0    0
 -- Austria    5499    30    9
 -- Belgium    4937    178    547
+-- Portugal    2995    43    22
 -- Norway    2902    13    6
 -- Canada    2796    35    320
 ---- British Columbia    617    13    4
@@ -2112,8 +2113,7 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
--- Portugal    2362    33    22
--- Sweden    2318    41    16
+-- Sweden    2345    41    16
 -- Brazil    2271    47    2
 -- Israel    2170    5    58
 -- Turkey    1872    44    0
@@ -2168,13 +2168,13 @@
 -- Luxembourg    1099    8    6
 -- Ecuador    1082    27    3
 -- Pakistan    1000    8    21
+-- Poland    957    13    13
 -- Thailand    934    4    70
--- Poland    927    12    13
 -- Chile    922    2    17
 -- Romania    906    13    86
+-- Saudi Arabia    900    2    28
 -- Finland    853    3    10
 -- Indonesia    790    58    31
--- Saudi Arabia    767    1    28
 -- Greece    743    20    29
 -- South Africa    709    0    12
 -- Iceland    678    5    51
@@ -2219,7 +2219,7 @@
 -- Andorra    164    1    1
 -- Jordan    154    0    1
 -- Albania    146    5    17
--- Viet Nam    134    0    17
+-- Viet Nam    141    0    17
 -- Faroe Islands    132    0    38
 -- Malta    129    0    2
 -- Moldova, Republic of    125    1    2
@@ -2247,7 +2247,7 @@
 -- Palestine    62    0    17
 -- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
--- Uzbekistan    55    0    0
+-- Uzbekistan    56    0    0
 -- Montenegro    52    1    0
 -- Liechtenstein    51    0    0
 -- Cuba    48    1    1
