@@ -1,4 +1,4 @@
--- China    81896    3287    73793
+-- China    81896    3287    73796
 ---- 天津    145    3    133
 ------ 境外输入    9    0    0
 ------ 宝坻区    60    2    58
@@ -28,8 +28,8 @@
 ------ 临夏    3    0    3
 ------ 张掖    2    0    2
 ------ 金昌    1    0    1
----- 湖北    67801    3163    60810
------- 武汉    50006    2526    43686
+---- 湖北    67801    3163    60811
+------ 武汉    50006    2526    43687
 ------ 孝感    3518    128    3380
 ------ 鄂州    1394    59    1328
 ------ 仙桃    575    22    551
@@ -142,11 +142,11 @@
 ------ 韩城    1    0    1
 ------ 杨凌    1    0    1
 ------ 境外输入    5    0    0
----- 广东    1433    8    1334
------- 广州    388    1    336
+---- 广东    1433    8    1336
+------ 广州    388    1    337
 ------ 深圳    441    3    414
 ------ 佛山    91    0    84
------- 中山    68    0    64
+------ 中山    68    0    66
 ------ 珠海    101    1    97
 ------ 湛江    23    0    22
 ------ 肇庆    20    1    18
@@ -477,8 +477,8 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55297    805    354
----- NY    26376    271    0
+-- United States of America    55313    806    354
+---- NY    26383    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
 ------ Suffolk(36103)    1880    17    0
@@ -487,7 +487,7 @@
 ------ Dutchess(36027)    124    1    0
 ------ Orange(36071)    498    0    0
 ------ Monroe(36055)    106    3    0
------- Erie(36029)    114    0    0
+------ Erie(36029)    121    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
 ------ Schenectady(36093)    44    0    0
@@ -566,10 +566,10 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    2    0    0
----- CA    2638    55    13
+---- CA    2638    56    13
 ------ Santa Clara(06085)    375    16    0
 ------ Los Angeles(06037)    669    11    0
------- San Mateo(06081)    161    1    0
+------ San Mateo(06081)    161    2    0
 ------ San Diego(06073)    242    2    0
 ------ San Francisco(06075)    152    1    0
 ------ Sacramento(06067)    88    4    0
@@ -896,7 +896,7 @@
 ------ Fannin(13111)    1    0    0
 ------ Seminole(13253)    2    0    0
 ------ Telfair(13271)    1    0    0
----- TX    1027    13    15
+---- TX    1029    13    15
 ------ Dallas(48113)    169    5    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    134    1    0
@@ -908,7 +908,7 @@
 ------ Montgomery(48339)    23    0    0
 ------ Bell(48027)    18    0    0
 ------ El Paso(48141)    16    0    0
------- Hays(48209)    7    0    0
+------ Hays(48209)    9    0    0
 ------ Brazoria(48039)    28    0    0
 ------ Galveston(48167)    22    0    0
 ------ Lubbock(48303)    13    0    0
@@ -1165,7 +1165,7 @@
 ------ Champaign(39021)    1    0    0
 ------ Crawford(39033)    1    0    0
 ------ Seneca(39147)    1    0    0
----- OR    211    8    0
+---- OR    214    8    0
 ------ Washington(41067)    76    2    0
 ------ Linn(41043)    21    1    0
 ------ Clackamas(41005)    17    1    0
@@ -1176,7 +1176,7 @@
 ------ Jackson(41029)    3    0    0
 ------ Polk(41053)    3    0    0
 ------ Umatilla(41059)    2    0    0
------- Douglas(41019)    1    0    0
+------ Douglas(41019)    3    0    0
 ------ Klamath(41035)    1    0    0
 ------ Lane(41039)    5    1    0
 ------ Yamhill(41071)    6    0    0
@@ -1185,6 +1185,7 @@
 ------ Josephine(41033)    1    0    0
 ------ Hood River(41027)    1    0    0
 ------ Clatsop(41007)    1    0    0
+------ Lincoln(41041)    1    0    0
 ---- VA    305    9    2
 ------ Arlington(51013)    36    0    0
 ------ Fairfax(51059)    46    2    0
@@ -1953,7 +1954,7 @@
 ------ Berkeley(54003)    2    0    0
 ------ Preston(54077)    1    0    0
 ------ Wood(54107)    1    0    0
----- GU    32    1    0
+---- GU    36    1    0
 ------ Guam(66010)    32    1    0
 ---- PR    51    2    0
 ---- VI    17    0    0
@@ -1978,7 +1979,7 @@
 ---- Melilla    38    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
--- Germany    35198    179    3540
+-- Germany    35353    181    3540
 ---- Saxony    959    6    2
 ---- Mecklenburg-Vorpommern    218    0    4
 ---- Free State of Bavaria    6558    37    21
@@ -2074,7 +2075,7 @@
 ---- Seoul    347    0    72
 ---- Ulsan    37    0    19
 ---- 未确定地区    23    3    0
--- United Kingdom of Great Britain and Northern Ireland    8705    427    135
+-- United Kingdom of Great Britain and Northern Ireland    8705    433    135
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2084,13 +2085,13 @@
 ---- Scotland    584    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Netherlands    5580    277    2
+-- Netherlands    6412    277    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5516    30    9
+-- Austria    5560    30    9
 -- Belgium    4937    178    547
 -- Portugal    2995    43    22
--- Norway    2902    14    6
+-- Norway    2971    14    6
 -- Canada    2796    35    320
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
@@ -2104,7 +2105,7 @@
 ---- Nova Scotia    51    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
--- Sweden    2456    42    16
+-- Sweden    2526    42    16
 -- Australia    2431    9    118
 ---- New South Wales    818    7    4
 ---- Victoria    411    0    70
@@ -2116,7 +2117,7 @@
 ---- Australian Capital Territory    39    0    0
 -- Brazil    2271    47    2
 -- Israel    2170    5    58
--- Turkey    1872    44    0
+-- Turkey    1874    44    0
 -- Japan    1848    43    285
 ---- Hokkaido    167    7    100
 ---- kochi    12    0    0
@@ -2168,7 +2169,7 @@
 -- Chile    1142    2    22
 -- Luxembourg    1099    8    6
 -- Ecuador    1082    27    3
--- Pakistan    1014    8    21
+-- Pakistan    1022    8    21
 -- Poland    957    13    13
 -- Thailand    934    4    70
 -- Romania    906    13    86
@@ -2180,7 +2181,7 @@
 -- South Africa    709    0    12
 -- Russian Federation    658    1    29
 -- Philippines    636    38    26
--- India    562    11    41
+-- India    606    11    42
 -- Singapore    558    2    156
 ---- Central Singapore Community Development Council    345    0    124
 -- Slovenia    528    5    10
@@ -2195,9 +2196,9 @@
 -- Estonia    404    0    8
 -- Argentina    387    7    52
 -- Colombia    378    3    6
--- United Arab Emirates    333    2    45
+-- Iraq    346    29    103
+-- United Arab Emirates    333    2    52
 -- Lebanon    333    4    8
--- Iraq    316    27    75
 -- Dominican Republic    312    6    3
 -- Serbia    303    4    15
 -- Armenia    265    0    16
@@ -2279,7 +2280,7 @@
 -- Gibraltar    15    0    5
 -- New Caledonia    14    0    0
 -- Uganda    14    0    0
--- Maldives    13    0    5
+-- Maldives    13    0    8
 -- Ethiopia    12    0    4
 -- Tanzania, United Republic of    12    0    0
 -- Zambia    12    0    0
@@ -2302,12 +2303,12 @@
 -- Bahamas    5    0    1
 -- Greenland    5    0    2
 -- Fiji    5    0    0
+-- Nepal    4    0    1
 -- Holy See    4    0    0
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
 -- Cabo Verde    4    1    0
--- Nepal    3    0    1
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
 -- Sudan    3    1    0
