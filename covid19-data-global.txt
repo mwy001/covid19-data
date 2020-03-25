@@ -477,7 +477,7 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    65770    953    361
+-- United States of America    65819    953    361
 ---- NY    30841    285    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -745,41 +745,42 @@
 ------ Morehouse(22067)    1    0    0
 ------ Winn(22127)    1    0    0
 ---- CO    1086    19    0
------- Denver(08031)    176    0    0
------- Eagle(08037)    96    1    0
------- Arapahoe(08005)    69    0    0
------- Jefferson(08059)    73    0    0
------- Boulder(08013)    49    0    0
------- Gunnison(08051)    40    0    0
------- Pitkin(08097)    18    0    0
------- Douglas(08035)    53    0    0
------- Adams(08001)    27    0    0
------- El Paso(08041)    106    4    0
------- Weld(08123)    76    2    0
+------ Denver(08031)    214    0    0
+------ Eagle(08037)    120    1    0
+------ Arapahoe(08005)    88    0    0
+------ Jefferson(08059)    93    0    0
+------ Boulder(08013)    51    0    0
+------ Gunnison(08051)    52    0    0
+------ Pitkin(08097)    21    0    0
+------ Douglas(08035)    58    0    0
+------ Adams(08001)    38    0    0
+------ El Paso(08041)    122    4    0
+------ Weld(08123)    87    2    0
 ------ Summit(08117)    10    0    0
------- Larimer(08069)    43    0    0
+------ Larimer(08069)    45    0    0
 ------ Clear Creek(08019)    3    0    0
------- Garfield(08045)    10    0    0
------- Routt(08107)    4    0    0
+------ Garfield(08045)    13    0    0
+------ Routt(08107)    6    0    0
 ------ Mesa(08077)    5    0    0
 ------ Pueblo(08101)    3    0    0
 ------ Grand(08049)    3    0    0
 ------ Morgan(08087)    3    0    0
 ------ Crowley(08025)    1    1    0
 ------ Yuma(08125)    1    0    0
------- Broomfield(08014)    5    0    0
+------ Broomfield(08014)    8    0    0
 ------ Park(08093)    1    0    0
 ------ Elbert(08039)    3    0    0
 ------ Chaffee(08015)    3    0    0
 ------ Hinsdale(08053)    1    0    0
------- Montrose(08085)    3    0    0
+------ Montrose(08085)    4    0    0
 ------ San Miguel(08113)    1    0    0
 ------ Logan(08075)    2    0    0
------- Teller(08119)    3    0    0
+------ Teller(08119)    5    0    0
 ------ Huerfano(08055)    2    0    0
 ------ Delta(08029)    1    0    0
 ------ Fremont(08043)    1    0    0
 ------ La Plata(08067)    1    0    0
+------ Otero(08089)    1    0    0
 ---- IL    1865    19    2
 ------ Cook(17031)    1418    13    0
 ------ Lake(17097)    139    0    0
@@ -1708,8 +1709,8 @@
 ------ Madison(31119)    1    0    0
 ------ Washington(31177)    3    0    0
 ------ Saunders(31155)    1    0    0
----- NM    100    1    0
------- Bernalillo(35001)    43    0    0
+---- NM    112    1    0
+------ Bernalillo(35001)    48    0    0
 ------ Santa Fe(35049)    14    0    0
 ------ Sandoval(35043)    7    0    0
 ------ Socorro(35053)    2    0    0
@@ -1949,15 +1950,15 @@
 ------ Newton(29145)    1    0    0
 ------ Ralls(29173)    1    0    0
 ------ Shelby(29205)    1    0    0
----- HI    91    1    0
+---- HI    95    1    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Hawaii(15001)    1    0    0
 ------ Hawaii in Hawaii(15001)    2    0    0
------- Oahu in Honolulu(15003)    58    1    0
+------ Oahu in Honolulu(15003)    63    1    0
 ------ Niihau in Kauai(15007)    1    0    0
------- Kahoolawe in Maui(15009)    9    0    0
+------ Kahoolawe in Maui(15009)    10    0    0
 ---- SD    41    1    8
 ------ Minnehaha(46099)    13    0    0
 ------ Beadle(46005)    13    0    0
@@ -1997,21 +1998,23 @@
 ------ Ravalli(30081)    1    0    0
 ------ Cascade(30013)    3    0    0
 ------ Jefferson(30043)    1    0    0
----- ID    91    0    0
------- Ada(16001)    24    0    0
------- Blaine(16013)    40    0    0
+---- ID    124    0    0
+------ Ada(16001)    37    0    0
+------ Blaine(16013)    52    0    0
 ------ Madison(16065)    2    0    0
 ------ Teton(16081)    2    0    0
 ------ Twin Falls(16083)    1    0    0
------- Kootenai(16055)    8    0    0
------- Canyon(16027)    5    0    0
+------ Kootenai(16055)    9    0    0
+------ Canyon(16027)    8    0    0
 ------ Fremont(16043)    1    0    0
 ------ Bingham(16011)    2    0    0
 ------ Valley(16085)    1    0    0
------- Bannock(16005)    2    0    0
+------ Bannock(16005)    3    0    0
 ------ Cassia(16031)    1    0    0
 ------ Jefferson(16051)    2    0    0
 ------ Nez Perce(16069)    1    0    0
+------ Idaho(16049)    1    0    0
+------ Payette(16075)    1    0    0
 ---- ND    45    0    0
 ------ Burleigh(38015)    18    0    0
 ------ Ward(38101)    3    0    0
@@ -2193,10 +2196,7 @@
 ---- Yukon    3    0    0
 -- Norway    3084    14    6
 -- Portugal    2995    43    22
--- Sweden    2526    62    16
--- Brazil    2433    57    2
--- Turkey    2433    59    26
--- Australia    2431    11    118
+-- Australia    2676    11    118
 ---- New South Wales    818    7    4
 ---- Victoria    411    0    70
 ---- Queensland    397    0    8
@@ -2205,6 +2205,9 @@
 ---- Tasmania    28    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
+-- Sweden    2526    62    16
+-- Brazil    2433    57    2
+-- Turkey    2433    59    26
 -- Israel    2369    5    58
 -- Japan    1848    45    310
 ---- Hokkaido    167    7    100
