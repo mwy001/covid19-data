@@ -860,7 +860,7 @@
 ------ Muscogee(13215)    4    0    0
 ------ Peach(13225)    3    0    0
 ------ Effingham(13103)    2    0    0
------- DeKalb(13089)    94    0    0
+------ DeKalb(13089)    107    0    0
 ------ Carroll(13045)    26    0    0
 ------ Chatham(13051)    7    0    0
 ------ Miller(13201)    1    0    0
@@ -1950,26 +1950,26 @@
 ---- PR    39    2    0
 ---- VI    17    0    0
 -- Spain    42058    2991    3794
----- Andalusia    2471    40    0
----- Aragon    758    22    0
----- Balearic Islands    478    4    2
----- Basque Country    2728    85    9
----- Canary Islands    557    7    7
----- Cantabria    425    2    10
----- Castile and León    2460    55    2
----- Castile-La Mancha    2465    84    13
----- Catalonia    7864    122    3
----- Community of Madrid    12352    804    109
----- Comunidad Foral de Navarra    1014    9    0
----- Extremadura    636    12    5
----- Galicia    1415    9    3
----- Principality of Asturias    662    5    3
----- Región de Murcia    385    1    0
----- Rioja    802    15    1
----- Valencian Community    2167    50    1
+---- Andalusia    2471    87    0
+---- Aragon    758    37    0
+---- Balearic Islands    478    16    2
+---- Basque Country    2728    133    9
+---- Canary Islands    657    21    7
+---- Cantabria    425    9    10
+---- Castile and León    2460    165    2
+---- Castile-La Mancha    2465    216    13
+---- Catalonia    9937    516    3
+---- Community of Madrid    12352    1535    109
+---- Comunidad Foral de Navarra    1014    31    0
+---- Extremadura    636    26    5
+---- Galicia    1415    21    3
+---- Principality of Asturias    779    25    3
+---- Región de Murcia    477    6    0
+---- Rioja    802    30    1
+---- Valencian Community    2167    115    1
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
----- Ceuta    6    0    0
+---- Ceuta    9    0    0
 -- Germany    32991    159    3290
 ---- Saxony    865    3    2
 ---- Mecklenburg-Vorpommern    201    0    4
@@ -2023,48 +2023,48 @@
 ---- France    7652    148    12
 ---- St Martin    8    0    0
 ---- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    936    7    4
----- Ile-de-France    5283    2    2
----- Alsace–Champagne-Ardenne–Lorraine    3365    0    0
----- Normandy    462    1    0
----- Brittany    397    1    6
----- Pays de la Loire    270    0    0
----- Centre-Val de Loire    291    0    0
----- Bourgogne-Franche-Comté    1178    0    0
----- Aquitaine-Limousin-Poitou-Charentes    612    0    0
----- Auvergne-Rhône-Alpes    1431    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    671    0    0
----- Provence-Alpes-Côte d'Azur    1372    0    0
----- Corsica    183    0    0
+---- Nord-Pas-de-Calais and Picardy    1532    7    4
+---- Ile-de-France    6798    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    4922    0    0
+---- Normandy    586    1    0
+---- Brittany    526    1    6
+---- Pays de la Loire    343    0    0
+---- Centre-Val de Loire    450    0    0
+---- Bourgogne-Franche-Comté    1510    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    789    0    0
+---- Auvergne-Rhône-Alpes    1857    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    900    0    0
+---- Provence-Alpes-Côte d'Azur    1595    0    0
+---- Corsica    217    0    0
 ---- Martinique    57    1    0
 ---- French Guiana    23    0    6
----- Réunion    64    0    0
----- Guadeloupe    62    1    0
+---- Réunion    83    0    0
+---- Guadeloupe    73    1    0
 ---- French Polynesia    25    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    36    0    0
 ---- Reunion    94    0    0
----- SCGF0594    19    0    0
+---- SCGF0594    23    0    0
 ---- New Caledonia    10    0    0
 -- Switzerland    9877    122    131
 -- Korea, Republic of    9037    120    3507
----- Busan    111    1    71
----- Chungcheongbuk-do    38    0    11
----- Chungcheongnam-do    120    0    56
----- Daegu    6442    88    2571
+---- Busan    112    1    73
+---- Chungcheongbuk-do    38    0    13
+---- Chungcheongnam-do    123    0    65
+---- Daegu    6456    92    2740
 ---- Daejeon    24    0    6
----- Gangwon-do    30    1    14
+---- Gangwon-do    31    1    14
 ---- Gwangju    19    0    11
----- Gyeonggi-do    366    4    97
----- Gyeongsangbuk-do    1257    26    507
----- Gyeongsangnam-do    90    0    48
----- Incheon    41    0    8
----- Jeju-do    4    0    4
+---- Gyeonggi-do    387    4    100
+---- Gyeongsangbuk-do    1262    28    538
+---- Gyeongsangnam-do    90    0    51
+---- Incheon    42    0    10
+---- Jeju-do    6    0    4
 ---- Jeollabuk-do    10    0    7
----- Jeollanam-do    6    0    3
----- Sejong    42    0    3
----- Seoul    334    0    72
----- Ulsan    36    0    18
+---- Jeollanam-do    8    0    3
+---- Sejong    44    0    3
+---- Seoul    347    0    72
+---- Ulsan    37    0    19
 ---- 未确定地区    23    3    0
 -- United Kingdom of Great Britain and Northern Ireland    8164    423    135
 ---- UK    456    8    18
@@ -2182,7 +2182,7 @@
 -- Egypt    402    20    80
 -- Bahrain    392    3    177
 -- Argentina    387    6    52
--- Hong Kong    386    4    102
+-- Hong Kong    387    4    102
 -- Croatia    382    1    5
 -- Colombia    378    3    6
 -- Estonia    369    0    7
@@ -2234,7 +2234,7 @@
 -- Kazakhstan    72    3    0
 -- Georgia    70    0    9
 -- Nigeria    69    1    2
--- Cameroon    66    0    2
+-- Cameroon    66    1    2
 -- Palestine    60    0    17
 -- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
