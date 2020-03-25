@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55285    803    354
+-- United States of America    55285    804    354
 ---- NY    26376    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1819,7 +1819,7 @@
 ------ Leavenworth(20103)    7    0    0
 ------ Cherokee(20021)    2    0    0
 ------ Jackson(20085)    1    0    0
------- Linn(20107)    2    0    0
+------ Linn(20107)    4    0    0
 ------ Morris(20127)    2    0    0
 ------ Miami(20121)    1    0    0
 ------ Sedgwick(20173)    7    0    0
@@ -1949,7 +1949,7 @@
 ------ Ramsey(38071)    1    0    0
 ------ Walsh(38099)    1    0    0
 ------ Dunn(38025)    1    0    0
----- AK    42    0    0
+---- AK    42    1    0
 ------ Fairbanks North Star(02090)    9    0    0
 ------ Anchorage(02020)    17    0    0
 ------ Ketchikan Gateway(02130)    8    0    0
@@ -2105,7 +2105,7 @@
 -- Austria    5283    28    9
 -- Belgium    4269    122    461
 -- Norway    2866    12    6
--- Canada    2796    27    320
+-- Canada    2796    35    320
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
 ---- Alberta    359    2    0
@@ -2251,10 +2251,10 @@
 -- Senegal    86    0    8
 -- Oman    84    0    17
 -- Belarus    81    0    22
+-- Kazakhstan    79    3    0
 -- Afghanistan    74    1    1
 -- Côte d'Ivoire    73    0    1
 -- Guadeloupe    73    1    0
--- Kazakhstan    72    3    0
 -- Georgia    70    0    9
 -- Nigeria    69    1    2
 -- Cameroon    66    1    2
