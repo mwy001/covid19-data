@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    54015    715    348
+-- United States of America    54047    715    348
 ---- NY    25681    213    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1604,6 +1604,13 @@
 ------ Jessamine(21113)    1    0    0
 ------ Martin(21159)    1    0    0
 ------ Muhlenberg(21177)    2    0    0
+------ Boone(21015)    1    0    0
+------ Campbell(21037)    1    0    0
+------ Laurel(21125)    1    0    0
+------ Logan(21141)    1    0    0
+------ Scott(21209)    1    0    0
+------ Simpson(21213)    1    0    0
+------ Webster(21233)    1    0    0
 ---- NH    101    1    0
 ------ Rockingham(33015)    38    0    0
 ------ Grafton(33009)    20    0    0
@@ -1627,10 +1634,11 @@
 ------ Buffalo(31019)    2    0    0
 ------ Gage(31067)    1    0    0
 ------ Madison(31119)    1    0    0
------- Washington(31177)    2    0    0
----- NM    88    0    0
+------ Washington(31177)    3    0    0
+------ Saunders(31155)    1    0    0
+---- NM    100    0    0
 ------ Bernalillo(35001)    43    0    0
------- Santa Fe(35049)    12    0    0
+------ Santa Fe(35049)    14    0    0
 ------ Sandoval(35043)    7    0    0
 ------ Socorro(35053)    2    0    0
 ------ Taos(35055)    3    0    0
@@ -1638,8 +1646,10 @@
 ------ McKinley(35031)    2    0    0
 ------ Dona Ana(35013)    10    0    0
 ------ Lea(35025)    1    0    0
------- San Juan(35045)    3    0    0
+------ San Juan(35045)    7    0    0
 ------ Chaves(35005)    4    0    0
+------ Cibola(35006)    1    0    0
+------ Curry(35009)    1    0    0
 ---- RI    124    0    0
 ------ Providence(44007)    52    0    0
 ------ Washington(44009)    9    0    0
@@ -1848,7 +1858,7 @@
 ------ Franklin(29071)    1    0    0
 ------ Pemiscot(29155)    1    0    0
 ------ Randolph(29175)    1    0    0
----- HI    77    1    0
+---- HI    90    1    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
@@ -1875,7 +1885,7 @@
 ------ Campbell(56005)    1    0    0
 ------ Natrona(56025)    2    0    0
 ------ Carbon(56007)    2    0    0
----- MT    46    0    0
+---- MT    51    0    0
 ------ Missoula(30063)    6    0    0
 ------ Yellowstone(30111)    7    0    0
 ------ Broadwater(30007)    1    0    0
@@ -1929,7 +1939,7 @@
 ------ Guam(66010)    29    1    0
 ---- PR    39    2    0
 ---- VI    17    0    0
--- Spain    39885    2808    3794
+-- Spain    42058    2991    3794
 ---- Andalusia    2471    40    0
 ---- Aragon    758    22    0
 ---- Balearic Islands    478    4    2
@@ -2062,10 +2072,10 @@
 -- Austria    5283    28    9
 -- Belgium    4269    122    461
 -- Norway    2863    12    6
--- Canada    2792    27    320
+-- Canada    2793    27    320
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
----- Alberta    301    1    0
+---- Alberta    359    1    0
 ---- Quebec    1013    5    0
 ---- New Brunswick    18    0    0
 ---- Manitoba    21    0    0
@@ -2138,12 +2148,12 @@
 -- Czechia    1394    3    10
 -- Ireland    1329    7    5
 -- Luxembourg    1099    8    6
--- Ecuador    1049    27    3
+-- Ecuador    1082    27    3
 -- Pakistan    972    7    18
 -- Chile    922    2    17
 -- Poland    901    10    13
 -- Thailand    827    4    52
--- Romania    794    11    79
+-- Romania    794    12    79
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
 -- Greece    743    20    29
@@ -2160,6 +2170,7 @@
 -- Peru    416    7    1
 -- Egypt    402    20    80
 -- Bahrain    392    3    177
+-- Argentina    387    6    52
 -- Hong Kong    386    4    102
 -- Croatia    382    1    5
 -- Colombia    378    3    6
@@ -2170,7 +2181,6 @@
 -- Iraq    316    27    75
 -- Dominican Republic    312    6    3
 -- Serbia    303    3    15
--- Argentina    301    6    52
 -- Algeria    264    19    65
 -- Armenia    249    0    14
 -- United Arab Emirates    248    2    45
@@ -2209,11 +2219,11 @@
 -- Venezuela, Bolivarian Republic of    84    0    15
 -- Belarus    81    0    22
 -- Afghanistan    74    1    1
+-- Guadeloupe    73    1    0
 -- Kazakhstan    72    3    0
 -- Georgia    70    0    9
 -- Nigeria    69    1    2
 -- Cameroon    66    0    2
--- Guadeloupe    62    1    0
 -- Palestine    60    0    17
 -- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
@@ -2245,11 +2255,11 @@
 -- Guatemala    21    1    0
 -- Togo    20    0    1
 -- Barbados    18    0    0
+-- Aruba    17    0    1
 -- Virgin Islands, U.S.    17    0    0
 -- Madagascar    17    0    0
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
--- Aruba    12    0    1
 -- Ethiopia    12    0    4
 -- Tanzania, United Republic of    12    0    0
 -- Mongolia    10    0    0
@@ -2261,6 +2271,7 @@
 -- Namibia    7    0    2
 -- Seychelles    7    0    0
 -- Haiti    7    0    0
+-- Dominica    7    0    0
 -- Cayman Islands    6    1    0
 -- Gabon    6    1    0
 -- Curaçao    6    1    0
@@ -2296,7 +2307,6 @@
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Nicaragua    2    0    0
--- Dominica    2    0    0
 -- Lao People's Democratic Republic    2    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
