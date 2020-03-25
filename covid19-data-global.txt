@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55242    802    354
+-- United States of America    55277    802    354
 ---- NY    26376    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -585,7 +585,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    2    0    0
----- CA    2632    55    13
+---- CA    2638    55    13
 ------ Santa Clara(06085)    375    16    0
 ------ Los Angeles(06037)    669    11    0
 ------ San Mateo(06081)    161    1    0
@@ -612,12 +612,12 @@
 ------ Calaveras(06009)    2    0    0
 ------ Fresno(06019)    16    0    0
 ------ Imperial(06025)    9    0    0
------- Monterey(06053)    20    1    0
+------ Monterey(06053)    24    1    0
 ------ Santa Barbara(06083)    24    0    0
 ------ Amador(06005)    2    0    0
 ------ Del Norte(06015)    1    0    0
 ------ Humboldt(06023)    5    0    0
------- Kern(06029)    13    1    0
+------ Kern(06029)    15    1    0
 ------ Madera(06039)    6    0    0
 ------ Nevada(06057)    4    0    0
 ------ Shasta(06089)    3    0    0
@@ -912,23 +912,23 @@
 ------ Fannin(13111)    1    0    0
 ------ Seminole(13253)    2    0    0
 ------ Telfair(13271)    1    0    0
----- TX    1001    12    15
+---- TX    1021    13    15
 ------ Dallas(48113)    169    5    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    134    1    0
------- Bexar(48029)    69    1    0
+------ Bexar(48029)    69    2    0
 ------ Fort Bend(48157)    46    0    0
 ------ Collin(48085)    54    1    0
 ------ Tarrant(48439)    71    1    0
 ------ Smith(48423)    14    0    0
 ------ Montgomery(48339)    23    0    0
 ------ Bell(48027)    18    0    0
------- El Paso(48141)    10    0    0
+------ El Paso(48141)    16    0    0
 ------ Hays(48209)    7    0    0
 ------ Brazoria(48039)    28    0    0
------- Galveston(48167)    18    0    0
------- Lubbock(48303)    12    0    0
------- Matagorda(48321)    4    1    0
+------ Galveston(48167)    22    0    0
+------ Lubbock(48303)    13    0    0
+------ Matagorda(48321)    6    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    16    0    0
 ------ Denton(48121)    51    0    0
@@ -958,7 +958,7 @@
 ------ Oldham(48359)    1    1    0
 ------ McLennan(48309)    24    0    0
 ------ DeWitt(48123)    1    0    0
------- Hockley(48219)    3    0    0
+------ Hockley(48219)    5    0    0
 ------ Milam(48331)    2    0    0
 ------ Kendall(48259)    1    0    0
 ------ Guadalupe(48187)    4    0    0
@@ -966,10 +966,10 @@
 ------ Deaf Smith(48117)    1    0    0
 ------ Nueces(48355)    10    0    0
 ------ Upshur(48459)    1    0    0
------- Wharton(48481)    1    0    0
+------ Wharton(48481)    3    0    0
 ------ Hidalgo(48215)    5    0    0
 ------ Chambers(48071)    1    0    0
------- Liberty(48291)    1    0    0
+------ Liberty(48291)    2    0    0
 ------ Burnet(48053)    1    0    0
 ------ Hardin(48199)    2    0    0
 ------ Atascosa(48013)    2    0    0
@@ -993,6 +993,7 @@
 ------ Bastrop(48021)    1    0    0
 ------ Tom Green(48451)    1    0    0
 ------ Kaufman(48257)    2    0    0
+------ Hale(48189)    1    0    0
 ---- PA    946    8    0
 ------ Montgomery(42091)    159    1    0
 ------ Philadelphia(42101)    252    0    0
@@ -1066,13 +1067,13 @@
 ------ Green(55045)    1    0    0
 ------ Dodge(55027)    2    0    0
 ------ Iowa(55049)    1    0    0
----- TN    774    2    0
+---- TN    780    2    0
 ------ Davidson(47037)    253    2    0
 ------ Williamson(47187)    64    0    0
 ------ Shelby(47157)    135    0    0
 ------ Knox(47093)    15    0    0
 ------ Campbell(47013)    2    0    0
------- Hamilton(47065)    12    0    0
+------ Hamilton(47065)    15    0    0
 ------ Jefferson(47089)    4    0    0
 ------ Rutherford(47149)    13    0    0
 ------ Sevier(47155)    2    0    0
@@ -1251,7 +1252,7 @@
 ------ Forsyth(37067)    14    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    10    0    0
------- Cabarrus(37025)    10    0    0
+------ Cabarrus(37025)    12    0    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    16    0    0
 ------ Iredell(37097)    9    0    0
@@ -1887,15 +1888,16 @@
 ------ Hughes(46065)    1    0    0
 ------ Lyman(46085)    1    0    0
 ------ Brookings(46011)    1    0    0
----- WY    34    0    0
+---- WY    37    0    0
 ------ Fremont(56013)    12    0    0
 ------ Sheridan(56033)    4    0    0
 ------ Laramie(56021)    8    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    3    0    0
 ------ Campbell(56005)    1    0    0
------- Natrona(56025)    2    0    0
------- Carbon(56007)    2    0    0
+------ Natrona(56025)    3    0    0
+------ Carbon(56007)    3    0    0
+------ Sweetwater(56037)    2    0    0
 ---- MT    51    0    0
 ------ Missoula(30063)    6    0    0
 ------ Yellowstone(30111)    8    0    0
@@ -1976,22 +1978,22 @@
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
 -- Germany    32991    159    3290
----- Saxony    865    3    2
----- Mecklenburg-Vorpommern    201    0    4
----- Free State of Bavaria    5754    30    21
+---- Saxony    937    3    2
+---- Mecklenburg-Vorpommern    202    0    4
+---- Free State of Bavaria    6194    33    21
 ---- Berlin    1220    2    6
----- Brandenburg    385    1    1
+---- Brandenburg    436    1    1
 ---- Thuringia    377    1    33
 ---- Schleswig-Holstein    544    1    1
----- Lower Saxony    1779    6    28
+---- Lower Saxony    1997    6    28
 ---- Bremen    183    0    26
 ---- Hamburg    1043    1    1
----- Rhineland-Palatinate    1370    4    5
----- North Rhine-Westphalia    8745    45    187
+---- Rhineland-Palatinate    1521    4    5
+---- North Rhine-Westphalia    8749    53    187
 ---- Hesse    1620    3    6
----- Baden-Württemberg    5348    31    130
----- Saxony-Anhalt    321    1    0
----- Saarland    383    1    2
+---- Baden-Württemberg    5996    33    130
+---- Saxony-Anhalt    336    1    0
+---- Saarland    402    1    2
 -- Iran, Islamic Republic of    24811    1934    8913
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
@@ -2075,10 +2077,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    5585    303    0
----- Northern Ireland    148    3    0
----- Wales    418    16    0
----- Scotland    499    14    0
+---- England    6843    303    0
+---- Northern Ireland    172    3    0
+---- Wales    478    16    0
+---- Scotland    584    14    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Netherlands    5580    277    2
