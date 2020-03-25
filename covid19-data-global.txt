@@ -477,8 +477,8 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55569    812    354
----- NY    26384    271    0
+-- United States of America    60233    826    354
+---- NY    30811    285    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
 ------ Suffolk(36103)    1880    17    0
@@ -486,7 +486,7 @@
 ------ Rockland(36087)    671    5    0
 ------ Dutchess(36027)    124    1    0
 ------ Orange(36071)    498    0    0
------- Monroe(36055)    106    3    0
+------ Monroe(36055)    117    3    0
 ------ Erie(36029)    121    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
@@ -646,7 +646,7 @@
 ------ Hampden(25013)    24    0    0
 ------ Franklin(25011)    10    0    0
 ------ Hampshire(25015)    8    0    0
----- FL    1468    24    0
+---- FL    1682    24    0
 ------ Broward(12011)    312    3    0
 ------ Palm Beach(12099)    104    3    0
 ------ Duval(12031)    50    3    0
@@ -1238,18 +1238,18 @@
 ------ City of Chesapeake(51550)    1    0    0
 ------ City of Lynchburg(51680)    2    0    0
 ------ City of Radford(51750)    1    0    0
----- NC    526    1    0
+---- NC    534    1    0
 ------ Wake(37183)    74    0    0
 ------ Durham(37063)    74    0    0
 ------ Mecklenburg(37119)    142    0    0
 ------ Chatham(37037)    6    0    0
 ------ Harnett(37085)    9    0    0
------- Forsyth(37067)    14    0    0
+------ Forsyth(37067)    16    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    10    0    0
 ------ Cabarrus(37025)    12    1    0
 ------ Craven(37049)    3    0    0
------- Guilford(37081)    16    0    0
+------ Guilford(37081)    22    0    0
 ------ Iredell(37097)    9    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    3    0    0
@@ -1391,7 +1391,7 @@
 ------ Frederick(24021)    7    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    3    0    0
------- Baltimore City(24510)    41    0    0
+------ Baltimore City(24510)    53    0    0
 ------ Wicomico(24045)    4    0    0
 ------ Worcester(24047)    2    0    0
 ------ Prince Georges(24033)    76    2    0
@@ -1500,9 +1500,9 @@
 ------ Waldo(23027)    1    0    0
 ---- DC    187    3    17
 ------ District of Columbia(11001)    187    2    0
----- IN    380    14    0
+---- IN    391    14    0
 ------ Marion(18097)    161    6    0
------- Hendricks(18063)    13    0    0
+------ Hendricks(18063)    15    0    0
 ------ Johnson(18081)    18    3    0
 ------ Franklin(18047)    7    0    0
 ------ Howard(18067)    6    1    0
@@ -1511,7 +1511,7 @@
 ------ Bartholomew(18005)    5    0    0
 ------ Boone(18011)    4    0    0
 ------ Floyd(18043)    6    0    0
------- Hamilton(18057)    25    0    0
+------ Hamilton(18057)    30    0    0
 ------ Noble(18113)    1    0    0
 ------ Wells(18179)    1    0    0
 ------ Clark(18019)    6    0    0
@@ -1532,7 +1532,7 @@
 ------ Scott(18143)    1    1    0
 ------ Elkhart(18039)    5    0    0
 ------ Greene(18055)    1    0    0
------- Hancock(18059)    4    1    0
+------ Hancock(18059)    8    1    0
 ------ Harrison(18061)    1    0    0
 ------ Miami(18103)    1    0    0
 ------ Dubois(18037)    1    0    0
@@ -1931,15 +1931,16 @@
 ------ Cassia(16031)    1    0    0
 ------ Jefferson(16051)    2    0    0
 ------ Nez Perce(16069)    1    0    0
----- ND    36    0    0
+---- ND    39    0    0
 ------ Burleigh(38015)    18    0    0
 ------ Ward(38101)    3    0    0
 ------ Cass(38017)    3    0    0
------- Morton(38059)    7    0    0
+------ Morton(38059)    8    0    0
 ------ Pierce(38069)    2    0    0
------- Ramsey(38071)    1    0    0
+------ Ramsey(38071)    2    0    0
 ------ Walsh(38099)    1    0    0
 ------ Dunn(38025)    1    0    0
+------ Foster(38031)    1    0    0
 ---- AK    42    1    0
 ------ Fairbanks North Star(02090)    9    0    0
 ------ Anchorage(02020)    17    0    0
@@ -1984,7 +1985,7 @@
 ---- Melilla    38    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
--- Germany    35714    181    3540
+-- Germany    35740    186    3540
 ---- Saxony    959    6    2
 ---- Mecklenburg-Vorpommern    218    0    4
 ---- Free State of Bavaria    6558    37    21
@@ -2132,7 +2133,7 @@
 ---- Nagano    5    0    0
 ---- Tochigi    10    0    0
 ---- Kumamoto    8    0    0
----- Saitama    59    1    0
+---- Saitama    60    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    9    0    0
 ---- Tokyo    212    4    0
@@ -2140,7 +2141,7 @@
 ---- Kyoto    31    0    2
 ---- Osaka    149    2    1
 ---- Chiba    53    0    0
----- Kanagawa    84    4    1
+---- Kanagawa    87    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    154    18    2
 ---- Nara    9    0    1
@@ -2148,7 +2149,7 @@
 ---- Mie    9    0    1
 ---- Okinawa    5    0    1
 ---- Ehime    3    0    0
----- hyogo    118    6    0
+---- hyogo    119    6    0
 ---- oita    25    0    0
 ---- Yamaguchi    5    0    0
 ---- Miyazaki    3    0    0
@@ -2165,7 +2166,7 @@
 ---- Fukui    3    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
--- Malaysia    1796    19    199
+-- Malaysia    1796    20    199
 -- Denmark    1718    34    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2180,8 +2181,8 @@
 -- Romania    906    14    86
 -- Saudi Arabia    900    2    29
 -- Finland    880    3    10
+-- Greece    821    22    29
 -- Indonesia    790    58    31
--- Greece    743    20    29
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Russian Federation    658    1    29
@@ -2193,8 +2194,8 @@
 -- Qatar    526    0    41
 -- Panama    443    8    1
 -- Egypt    442    21    93
+-- Croatia    442    1    22
 -- Bahrain    419    3    177
--- Croatia    418    1    16
 -- Peru    416    7    1
 -- Hong Kong    410    4    102
 -- Mexico    405    5    4
@@ -2206,8 +2207,8 @@
 -- Iraq    346    29    103
 -- United Arab Emirates    333    2    52
 -- Lebanon    333    4    8
+-- Algeria    302    21    65
 -- Armenia    265    0    16
--- Algeria    264    19    65
 -- Lithuania    255    4    1
 -- Bulgaria    242    3    4
 -- Taiwan    235    2    29
@@ -2219,9 +2220,9 @@
 -- Uruguay    189    0    0
 -- Andorra    188    1    1
 -- San Marino    187    21    4
--- North Macedonia    177    2    1
+-- North Macedonia    177    3    1
 -- Costa Rica    177    2    2
--- Tunisia    173    4    2
+-- Tunisia    173    5    2
 -- Morocco    170    5    6
 -- Bosnia and Herzegovina    168    3    2
 -- Jordan    154    0    1
@@ -2242,8 +2243,8 @@
 -- Azerbaijan    93    2    11
 -- Venezuela, Bolivarian Republic of    91    0    15
 -- Belarus    86    0    29
+-- Afghanistan    84    2    2
 -- Kazakhstan    80    3    0
--- Afghanistan    79    2    2
 -- Georgia    73    0    10
 -- Côte d'Ivoire    73    0    1
 -- Guadeloupe    73    1    0
@@ -2303,10 +2304,10 @@
 -- Cayman Islands    6    1    0
 -- Gabon    6    1    0
 -- Curaçao    6    1    0
+-- Greenland    6    0    2
 -- Benin    6    0    0
 -- Bermuda    6    0    0
 -- Bahamas    5    0    1
--- Greenland    5    0    2
 -- Fiji    5    0    0
 -- Mozambique    5    0    0
 -- Nepal    4    0    1
