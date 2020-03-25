@@ -1973,7 +1973,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
--- Germany    32991    159    3290
+-- Germany    33593    164    3299
 ---- Saxony    937    3    2
 ---- Mecklenburg-Vorpommern    202    0    4
 ---- Free State of Bavaria    6194    33    21
@@ -2082,7 +2082,7 @@
 -- Netherlands    5580    277    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5394    30    9
+-- Austria    5427    30    9
 -- Belgium    4269    122    461
 -- Norway    2868    13    6
 -- Canada    2796    35    320
@@ -2173,10 +2173,10 @@
 -- South Africa    709    0    4
 -- Indonesia    686    55    30
 -- Iceland    678    5    51
+-- Philippines    636    38    26
 -- India    562    11    41
 -- Singapore    558    2    156
 ---- Central Singapore Community Development Council    345    0    124
--- Philippines    552    35    20
 -- Qatar    526    0    41
 -- Russian Federation    495    1    22
 -- Slovenia    480    4    3
@@ -2196,15 +2196,15 @@
 -- Serbia    303    4    15
 -- Armenia    265    0    16
 -- Algeria    264    19    65
--- Lithuania    255    2    1
+-- Lithuania    255    3    1
 -- United Arab Emirates    248    2    45
 -- Taiwan    235    2    29
 -- Hungary    226    10    21
+-- Latvia    221    0    1
 -- Bulgaria    220    3    4
+-- Slovakia    216    1    7
 -- New Zealand    205    0    22
--- Slovakia    204    1    7
--- Latvia    197    0    1
--- Kuwait    191    0    39
+-- Kuwait    195    0    43
 -- Uruguay    189    0    0
 -- San Marino    187    21    4
 -- Costa Rica    177    2    2
@@ -2220,7 +2220,7 @@
 -- Albania    123    5    10
 -- Tunisia    114    4    1
 -- Burkina Faso    114    4    7
--- Ukraine    113    3    8
+-- Ukraine    113    4    8
 -- Malta    110    0    2
 -- Brunei Darussalam    104    0    2
 -- Sri Lanka    102    0    3
@@ -2229,7 +2229,7 @@
 -- Cambodia    93    0    4
 -- Venezuela, Bolivarian Republic of    91    0    15
 -- Azerbaijan    87    1    11
--- Belarus    86    0    22
+-- Belarus    86    0    29
 -- Senegal    86    0    8
 -- Kazakhstan    79    3    0
 -- Afghanistan    74    2    1
@@ -2272,10 +2272,10 @@
 -- Aruba    17    0    1
 -- Virgin Islands, U.S.    17    0    0
 -- Gibraltar    15    0    5
+-- New Caledonia    14    0    0
 -- Maldives    13    0    5
 -- Ethiopia    12    0    4
 -- Tanzania, United Republic of    12    0    0
--- New Caledonia    12    0    0
 -- Mongolia    10    0    0
 -- Equatorial Guinea    9    0    0
 -- El Salvador    9    0    0
