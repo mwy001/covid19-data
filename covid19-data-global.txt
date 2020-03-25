@@ -496,7 +496,7 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    55285    804    354
+-- United States of America    55285    805    354
 ---- NY    26376    271    0
 ------ Westchester(36119)    3891    1    0
 ------ Nassau(36059)    2869    9    0
@@ -1778,13 +1778,13 @@
 ------ Choctaw(28019)    1    0    0
 ------ Newton(28101)    1    0    0
 ------ Noxubee(28103)    1    0    0
----- AZ    326    5    3
+---- AZ    326    6    3
 ------ Maricopa(04013)    199    2    0
 ------ Pinal(04021)    22    0    0
 ------ Pima(04019)    42    1    0
 ------ Graham(04009)    2    0    0
 ------ Navajo(04017)    32    0    0
------- Coconino(04005)    18    0    0
+------ Coconino(04005)    18    1    0
 ------ Santa Cruz(04023)    1    0    0
 ------ Yavapai(04025)    3    0    0
 ------ Yuma(04027)    2    0    0
@@ -2132,7 +2132,7 @@
 ---- Australian Capital Territory    39    0    0
 -- Sweden    2299    40    16
 -- Brazil    2247    46    2
--- Israel    1930    3    53
+-- Israel    2030    5    58
 -- Turkey    1872    44    0
 -- Japan    1848    43    285
 ---- Hokkaido    163    6    66
@@ -2219,9 +2219,9 @@
 -- Armenia    265    0    16
 -- Algeria    264    19    65
 -- United Arab Emirates    248    2    45
+-- Taiwan    235    2    29
 -- Hungary    226    10    21
 -- Bulgaria    220    3    3
--- Taiwan    216    2    29
 -- Lithuania    209    2    1
 -- New Zealand    205    0    22
 -- Slovakia    204    1    7
@@ -2246,12 +2246,12 @@
 -- Brunei Darussalam    104    0    2
 -- Sri Lanka    102    0    3
 -- Ukraine    102    3    8
+-- Oman    99    0    17
 -- Réunion    94    0    1
 -- Cambodia    93    0    4
 -- Venezuela, Bolivarian Republic of    91    0    15
 -- Azerbaijan    87    1    11
 -- Senegal    86    0    8
--- Oman    84    0    17
 -- Belarus    81    0    22
 -- Kazakhstan    79    3    0
 -- Afghanistan    74    1    1
@@ -2265,9 +2265,9 @@
 -- Trinidad and Tobago    57    0    1
 -- Uzbekistan    55    0    0
 -- Ghana    53    2    8
+-- Montenegro    52    1    0
 -- Liechtenstein    51    0    0
 -- Cuba    48    1    1
--- Montenegro    47    1    0
 -- Congo, Democratic Republic of the    45    2    0
 -- Kyrgyzstan    42    0    0
 -- Mauritius    42    2    0
@@ -2289,10 +2289,10 @@
 -- Isle of Man    23    0    0
 -- Guatemala    21    1    0
 -- Togo    20    0    1
+-- Madagascar    19    0    0
 -- Barbados    18    0    0
 -- Aruba    17    0    1
 -- Virgin Islands, U.S.    17    0    0
--- Madagascar    17    0    0
 -- Gibraltar    15    0    5
 -- Maldives    13    0    5
 -- Ethiopia    12    0    4
@@ -2320,6 +2320,7 @@
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
+-- Nepal    3    0    1
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
 -- Sudan    3    1    0
@@ -2336,7 +2337,6 @@
 -- Zimbabwe    3    1    0
 -- Mozambique    3    0    0
 -- Myanmar    3    0    0
--- Nepal    2    0    1
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
 -- Jersey    2    0    0
