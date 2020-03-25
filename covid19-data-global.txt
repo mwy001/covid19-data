@@ -477,17 +477,17 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    60233    826    354
+-- United States of America    60324    826    354
 ---- NY    30811    285    0
------- Westchester(36119)    3891    1    0
------- Nassau(36059)    2869    9    0
------- Suffolk(36103)    1880    17    0
------- Albany(36001)    146    0    0
+------ Westchester(36119)    4691    1    0
+------ Nassau(36059)    3285    9    0
+------ Suffolk(36103)    2260    17    0
+------ Albany(36001)    152    0    0
 ------ Rockland(36087)    671    5    0
------- Dutchess(36027)    124    1    0
+------ Dutchess(36027)    153    1    0
 ------ Orange(36071)    498    0    0
 ------ Monroe(36055)    117    3    0
------- Erie(36029)    121    0    0
+------ Erie(36029)    122    0    0
 ------ Saratoga(36091)    53    0    0
 ------ Ulster(36111)    35    0    0
 ------ Schenectady(36093)    44    0    0
@@ -513,7 +513,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    2    0    0
 ------ Washington(36115)    3    0    0
------- New York(36061)    15597    192    0
+------ New York(36061)    17856    192    0
 ------ Niagara(36063)    10    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -647,52 +647,52 @@
 ------ Franklin(25011)    10    0    0
 ------ Hampshire(25015)    8    0    0
 ---- FL    1682    24    0
------- Broward(12011)    312    3    0
------- Palm Beach(12099)    104    3    0
------- Duval(12031)    50    3    0
------- Volusia(12127)    19    0    0
------- Hillsborough(12057)    95    0    0
------- Manatee(12081)    16    1    0
------- Collier(12021)    41    0    0
------- Orange(12095)    52    2    0
+------ Broward(12011)    355    3    0
+------ Palm Beach(12099)    118    3    0
+------ Duval(12031)    56    3    0
+------ Volusia(12127)    20    0    0
+------ Hillsborough(12057)    106    0    0
+------ Manatee(12081)    22    1    0
+------ Collier(12021)    47    0    0
+------ Orange(12095)    77    2    0
 ------ Osceola(12097)    26    0    0
------- Lee(12071)    34    3    0
------- Alachua(12001)    37    0    0
------- Clay(12019)    10    2    0
------- Pinellas(12103)    45    1    0
------- Seminole(12117)    25    0    0
------- Sarasota(12115)    26    2    0
+------ Lee(12071)    42    3    0
+------ Alachua(12001)    45    0    0
+------ Clay(12019)    13    2    0
+------ Pinellas(12103)    50    1    0
+------ Seminole(12117)    29    0    0
+------ Sarasota(12115)    27    2    0
 ------ Citrus(12017)    9    0    0
------- Okaloosa(12091)    14    0    0
------- Pasco(12101)    16    1    0
------- Brevard(12009)    9    0    0
+------ Okaloosa(12091)    16    0    0
+------ Pasco(12101)    17    1    0
+------ Brevard(12009)    11    0    0
 ------ Charlotte(12015)    3    0    0
------- Escambia(12033)    13    0    0
------- Lake(12069)    14    0    0
+------ Escambia(12033)    14    0    0
+------ Lake(12069)    18    0    0
 ------ Nassau(12089)    2    0    0
------- Polk(12105)    13    0    0
------- Santa Rosa(12113)    6    1    0
+------ Polk(12105)    14    0    0
+------ Santa Rosa(12113)    7    1    0
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    8    1    0
------- Sumter(12119)    10    0    0
------- Walton(12131)    10    0    0
------- St Johns(12109)    24    1    0
------- Hernando(12053)    7    0    0
+------ Sumter(12119)    13    0    0
+------ Walton(12131)    12    0    0
+------ St Johns(12109)    26    1    0
+------ Hernando(12053)    8    0    0
 ------ Indian River(12061)    12    0    0
 ------ Jackson(12063)    1    0    0
 ------ Martin(12085)    4    0    0
------- Marion(12083)    4    0    0
------- Baker(12003)    4    0    0
+------ Marion(12083)    5    0    0
+------ Baker(12003)    5    0    0
 ------ Bay(12005)    1    0    0
 ------ Highlands(12055)    4    0    0
------- Putnam(12107)    2    0    0
------- St Lucie(12111)    6    0    0
+------ Putnam(12107)    4    0    0
+------ St Lucie(12111)    8    0    0
 ------ Miami-Dade(12086)    367    0    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
------- Flagler(12035)    4    0    0
+------ Flagler(12035)    5    0    0
 ------ DeSoto(12027)    1    0    0
------- Mainland Monroe(12087)    3    0    0
+------ Mainland Monroe(12087)    8    0    0
 ---- LA    1388    46    0
 ------ Orleans(22071)    675    26    0
 ------ Jefferson(22051)    293    6    0
@@ -984,7 +984,7 @@
 ------ Morris(48343)    1    0    0
 ------ Wilson(48493)    1    0    0
 ------ Young(48503)    1    0    0
----- PA    1036    8    0
+---- PA    1127    8    0
 ------ Montgomery(42091)    159    1    0
 ------ Philadelphia(42101)    342    0    0
 ------ Allegheny(42003)    58    2    0
@@ -2098,7 +2098,7 @@
 -- Belgium    4937    178    547
 -- Norway    3034    14    6
 -- Portugal    2995    43    22
--- Canada    2892    35    320
+-- Canada    2923    35    320
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
 ---- Alberta    359    2    0
@@ -2181,7 +2181,7 @@
 -- Romania    906    14    86
 -- Saudi Arabia    900    2    29
 -- Finland    880    3    10
--- Greece    821    22    29
+-- Greece    821    22    36
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
@@ -2229,9 +2229,9 @@
 -- Moldova, Republic of    149    1    2
 -- Albania    146    5    17
 -- Viet Nam    141    0    17
+-- Cyprus    132    3    3
 -- Faroe Islands    132    0    38
 -- Malta    129    0    2
--- Cyprus    124    3    3
 -- Ukraine    116    4    8
 -- Burkina Faso    114    4    7
 -- Réunion    111    0    1
@@ -2251,7 +2251,7 @@
 -- Cameroon    70    1    2
 -- Nigeria    69    1    2
 -- Ghana    68    3    8
--- Palestine    62    0    17
+-- Palestine    64    1    17
 -- Trinidad and Tobago    60    0    1
 -- Martinique    57    1    0
 -- Cuba    57    1    1
@@ -2271,10 +2271,10 @@
 -- Bolivia, Plurinational State of    32    0    0
 -- Macao    30    0    10
 -- Kenya    28    0    1
+-- Monaco    27    0    1
 -- Gibraltar    26    0    5
 -- Jamaica    25    1    2
 -- French Polynesia    25    0    0
--- Monaco    23    0    1
 -- Togo    23    0    1
 -- French Guiana    23    0    6
 -- Guyana    23    1    0
