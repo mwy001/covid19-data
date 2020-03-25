@@ -1973,7 +1973,7 @@
 ---- Melilla    28    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
--- Germany    33593    164    3299
+-- Germany    33952    171    3299
 ---- Saxony    937    3    2
 ---- Mecklenburg-Vorpommern    202    0    4
 ---- Free State of Bavaria    6194    33    21
@@ -2049,7 +2049,7 @@
 ---- Reunion    94    0    0
 ---- SCGF0594    23    0    0
 ---- New Caledonia    10    0    0
--- Switzerland    9991    133    131
+-- Switzerland    10171    135    131
 -- Korea, Republic of    9137    126    3730
 ---- Busan    112    1    73
 ---- Chungcheongbuk-do    38    0    13
@@ -2082,7 +2082,7 @@
 -- Netherlands    5580    277    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5448    30    9
+-- Austria    5480    30    9
 -- Belgium    4269    122    461
 -- Norway    2868    13    6
 -- Canada    2796    35    320
@@ -2154,7 +2154,7 @@
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
--- Malaysia    1796    17    183
+-- Malaysia    1796    19    199
 -- Denmark    1718    32    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2166,8 +2166,8 @@
 -- Thailand    934    4    70
 -- Poland    927    12    13
 -- Chile    922    2    17
+-- Finland    841    3    10
 -- Romania    794    13    79
--- Finland    792    1    10
 -- Indonesia    790    58    31
 -- Saudi Arabia    767    1    28
 -- Greece    743    20    29
@@ -2222,7 +2222,7 @@
 -- Burkina Faso    114    4    7
 -- Ukraine    113    4    8
 -- Malta    110    0    2
--- Brunei Darussalam    104    0    2
+-- Brunei Darussalam    109    0    2
 -- Sri Lanka    102    0    3
 -- Oman    99    0    17
 -- Réunion    94    0    1
@@ -2238,7 +2238,7 @@
 -- Guadeloupe    73    1    0
 -- Nigeria    69    1    2
 -- Cameroon    66    1    2
--- Palestine    60    0    17
+-- Palestine    62    0    17
 -- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
 -- Uzbekistan    55    0    0
@@ -2248,7 +2248,7 @@
 -- Cuba    48    1    1
 -- Mauritius    48    2    0
 -- Congo, Democratic Republic of the    45    2    0
--- Kyrgyzstan    42    0    0
+-- Kyrgyzstan    44    0    0
 -- Rwanda    40    0    0
 -- Bangladesh    39    5    7
 -- Puerto Rico    39    2    1
@@ -2257,7 +2257,7 @@
 -- Mayotte    36    0    0
 -- Guam    33    1    0
 -- Bolivia, Plurinational State of    32    0    0
--- Macao    29    0    10
+-- Macao    30    0    10
 -- Jamaica    25    1    2
 -- French Polynesia    25    0    0
 -- Kenya    25    0    0
