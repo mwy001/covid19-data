@@ -2148,7 +2148,7 @@
 ---- Wakayama    17    1    2
 ---- Kyoto    27    0    2
 ---- Osaka    142    2    1
----- Chiba    48    0    0
+---- Chiba    49    0    0
 ---- Kanagawa    83    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    148    17    2
@@ -2163,12 +2163,12 @@
 ---- Miyazaki    3    0    0
 ---- Shiga    5    0    0
 ---- Akita    2    0    0
----- Yamanashi    2    0    0
+---- Yamanashi    4    0    0
 ---- Hiroshima    3    0    0
----- Gunma    13    1    0
+---- Gunma    14    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
----- Nagasaki    1    0    0
+---- Nagasaki    2    0    0
 ---- Ibaraki    10    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
