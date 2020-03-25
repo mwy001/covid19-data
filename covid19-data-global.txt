@@ -477,10 +477,10 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    781    38    44
--- United States of America    61472    853    354
+-- United States of America    62314    873    354
 ---- NY    30811    285    0
 ------ Westchester(36119)    4691    1    0
------- Nassau(36059)    3285    9    0
+------ Nassau(36059)    3285    17    0
 ------ Suffolk(36103)    2260    17    0
 ------ Albany(36001)    152    0    0
 ------ Rockland(36087)    968    5    0
@@ -534,6 +534,7 @@
 ------ Cayuga(36011)    2    0    0
 ------ St Lawrence(36089)    1    0    0
 ------ Chautauqua(36013)    2    0    0
+------ Franklin(36033)    1    0    0
 ---- WA    2472    125    243
 ------ King(53033)    1277    94    0
 ------ Snohomish(53061)    614    16    0
@@ -611,7 +612,7 @@
 ------ Napa(06055)    3    0    0
 ------ Merced(06047)    1    0    0
 ------ Sutter(06101)    3    0    0
----- NJ    3675    90    1
+---- NJ    4402    90    1
 ------ Bergen(34003)    701    6    0
 ------ Essex(34013)    342    4    0
 ------ Hudson(34017)    234    1    0
@@ -693,7 +694,7 @@
 ------ Flagler(12035)    5    0    0
 ------ DeSoto(12027)    1    0    0
 ------ Mainland Monroe(12087)    8    0    0
----- LA    1795    65    0
+---- LA    1796    65    0
 ------ Orleans(22071)    827    37    0
 ------ Jefferson(22051)    359    7    0
 ------ Caddo(22017)    93    0    0
@@ -811,7 +812,7 @@
 ------ Monroe(17133)    1    0    0
 ------ Grundy(17063)    1    0    0
 ------ De Kalb(17037)    1    0    0
----- GA    1247    38    0
+---- GA    1247    40    0
 ------ Fulton(13121)    198    2    0
 ------ Cobb(13067)    101    2    0
 ------ Bartow(13015)    78    1    0
@@ -910,7 +911,7 @@
 ------ Thomas(13275)    1    0    0
 ------ White(13311)    1    0    0
 ------ Wilkes(13317)    1    0    0
----- TX    1131    14    15
+---- TX    1144    14    15
 ------ Dallas(48113)    247    6    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    134    1    0
@@ -922,19 +923,19 @@
 ------ Montgomery(48339)    23    0    0
 ------ Bell(48027)    18    0    0
 ------ El Paso(48141)    16    0    0
------- Hays(48209)    9    0    0
+------ Hays(48209)    10    0    0
 ------ Brazoria(48039)    28    0    0
 ------ Galveston(48167)    22    0    0
 ------ Lubbock(48303)    13    0    0
 ------ Matagorda(48321)    6    1    0
 ------ Bowie(48037)    1    0    0
------- Brazos(48041)    16    0    0
+------ Brazos(48041)    21    0    0
 ------ Denton(48121)    51    0    0
 ------ Ellis(48139)    7    0    0
 ------ Gregg(48183)    1    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    2    0    0
------- Webb(48479)    5    0    0
+------ Webb(48479)    9    0    0
 ------ Wichita(48485)    8    0    0
 ------ Johnson(48251)    3    0    0
 ------ Comal(48091)    7    0    0
@@ -965,7 +966,7 @@
 ------ Nueces(48355)    10    0    0
 ------ Upshur(48459)    1    0    0
 ------ Wharton(48481)    3    0    0
------- Hidalgo(48215)    5    0    0
+------ Hidalgo(48215)    7    0    0
 ------ Chambers(48071)    1    0    0
 ------ Liberty(48291)    2    0    0
 ------ Burnet(48053)    1    0    0
@@ -998,6 +999,7 @@
 ------ Morris(48343)    1    0    0
 ------ Wilson(48493)    1    0    0
 ------ Young(48503)    1    0    0
+------ Val Verde(48465)    1    0    0
 ---- PA    1213    11    0
 ------ Montgomery(42091)    172    1    0
 ------ Philadelphia(42101)    342    0    0
@@ -1134,16 +1136,16 @@
 ------ Tolland(09013)    19    3    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    6    0    0
----- OH    567    9    0
------- Cuyahoga(39035)    167    2    0
+---- OH    615    9    0
+------ Cuyahoga(39035)    206    2    0
 ------ Butler(39017)    18    0    0
 ------ Franklin(39049)    75    2    0
 ------ Lorain(39093)    30    0    0
 ------ Summit(39153)    36    0    0
 ------ Medina(39103)    15    0    0
 ------ Stark(39151)    13    1    0
------- Belmont(39013)    2    0    0
------- Coshocton(39031)    3    0    0
+------ Belmont(39013)    3    0    0
+------ Coshocton(39031)    4    0    0
 ------ Trumbull(39155)    4    0    0
 ------ Darke(39037)    1    0    0
 ------ Geauga(39055)    5    0    0
@@ -1165,12 +1167,12 @@
 ------ Union(39159)    2    0    0
 ------ Licking(39089)    2    0    0
 ------ Defiance(39039)    2    0    0
------- Erie(39043)    1    1    0
+------ Erie(39043)    2    1    0
 ------ Clermont(39025)    5    0    0
 ------ Gallia(39053)    1    1    0
------- Columbiana(39029)    3    0    0
+------ Columbiana(39029)    4    0    0
 ------ Carroll(39019)    3    0    0
------- Clinton(39027)    1    0    0
+------ Clinton(39027)    2    0    0
 ------ Greene(39057)    3    0    0
 ------ Hancock(39063)    1    0    0
 ------ Portage(39133)    4    0    0
@@ -1181,7 +1183,7 @@
 ------ Highland(39071)    1    0    0
 ------ Logan(39091)    2    0    0
 ------ Sandusky(39143)    1    0    0
------- Fairfield(39045)    2    1    0
+------ Fairfield(39045)    5    1    0
 ------ Champaign(39021)    1    0    0
 ------ Crawford(39033)    1    0    0
 ------ Seneca(39147)    1    0    0
@@ -1365,7 +1367,7 @@
 ------ Manistee(26101)    1    0    0
 ------ Marquette(26103)    1    0    0
 ------ Lenawee(26091)    1    0    0
----- MN    280    1    24
+---- MN    287    1    24
 ------ Hennepin(27053)    111    0    0
 ------ Ramsey(27123)    27    1    0
 ------ Dakota(27037)    21    0    0
@@ -1373,7 +1375,7 @@
 ------ Anoka(27003)    7    0    0
 ------ Stearns(27145)    5    0    0
 ------ Benton(27009)    2    0    0
------- Washington(27163)    10    0    0
+------ Washington(27163)    13    0    0
 ------ Blue Earth(27013)    5    0    0
 ------ Carver(27019)    8    0    0
 ------ Renville(27129)    1    0    0
@@ -1393,12 +1395,13 @@
 ------ Dodge(27039)    3    0    0
 ------ St Louis(27137)    3    0    0
 ------ Steele(27147)    5    0    0
------- Wabasha(27157)    1    0    0
+------ Wabasha(27157)    3    0    0
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
 ------ Le Sueur(27079)    6    0    0
 ------ Lac qui Parle(27073)    1    0    0
 ------ Goodhue(27049)    1    0    0
+------ Winona(27169)    2    0    0
 ---- MD    425    4    4
 ------ Montgomery(24031)    127    1    0
 ------ Prince George's(24033)    20    1    0
@@ -1508,17 +1511,17 @@
 ------ Autauga(01001)    1    0    0
 ------ Pickens(01107)    1    0    0
 ------ Pike(01109)    1    0    0
----- ME    118    0    7
------- Cumberland(23005)    74    0    0
+---- ME    142    0    7
+------ Cumberland(23005)    87    0    0
 ------ Androscoggin(23001)    4    0    0
 ------ Kennebec(23011)    5    0    0
 ------ Knox(23013)    1    0    0
 ------ Oxford(23017)    6    0    0
------- York(23031)    16    0    0
+------ York(23031)    23    0    0
 ------ Penobscot(23019)    4    0    0
 ------ Lincoln(23015)    5    0    0
 ------ Hancock(23009)    1    0    0
------- Sagadahoc(23023)    3    0    0
+------ Sagadahoc(23023)    4    0    0
 ------ Waldo(23027)    1    0    0
 ---- DC    187    3    17
 ------ District of Columbia(11001)    187    2    0
@@ -1794,18 +1797,18 @@
 ------ Amite(28005)    1    0    0
 ------ Calhoun(28013)    1    0    0
 ------ Prentiss(28117)    1    0    0
----- AZ    378    6    3
+---- AZ    401    6    3
 ------ Maricopa(04013)    251    2    0
------- Pinal(04021)    22    0    0
------- Pima(04019)    42    1    0
+------ Pinal(04021)    23    0    0
+------ Pima(04019)    49    1    0
 ------ Graham(04009)    2    0    0
------- Navajo(04017)    32    0    0
------- Coconino(04005)    18    1    0
+------ Navajo(04017)    37    0    0
+------ Coconino(04005)    23    1    0
 ------ Santa Cruz(04023)    1    0    0
------- Yavapai(04025)    3    0    0
------- Yuma(04027)    2    0    0
+------ Yavapai(04025)    4    0    0
+------ Yuma(04027)    3    0    0
 ------ Cochise(04003)    1    0    0
------- Apache(04001)    4    0    0
+------ Apache(04001)    7    0    0
 ---- OK    164    5    1
 ------ Oklahoma(40109)    55    0    0
 ------ Tulsa(40143)    27    1    0
@@ -2069,7 +2072,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- France    22622    1102    3281
+-- France    25233    1331    3900
 ---- France    7652    148    12
 ---- St Martin    8    0    0
 ---- Saint Barthelemy    3    0    0
@@ -2135,7 +2138,7 @@
 ---- British Columbia    617    13    4
 ---- Ontario    688    8    6
 ---- Alberta    359    2    0
----- Quebec    1243    5    0
+---- Quebec    1313    5    0
 ---- New Brunswick    18    0    0
 ---- Manitoba    21    0    0
 ---- Saskatchewan    72    0    0
@@ -2143,8 +2146,8 @@
 ---- Newfoundland and Labrador    35    0    0
 ---- Nova Scotia    51    0    0
 ---- Northwest Territories    1    0    0
----- Yukon    2    0    0
--- Norway    3034    14    6
+---- Yukon    3    0    0
+-- Norway    3052    14    6
 -- Portugal    2995    43    22
 -- Sweden    2526    44    16
 -- Australia    2431    9    118
@@ -2259,8 +2262,8 @@
 -- North Macedonia    177    3    1
 -- Costa Rica    177    2    2
 -- Tunisia    173    5    2
+-- Bosnia and Herzegovina    173    3    2
 -- Jordan    172    0    1
--- Bosnia and Herzegovina    168    3    2
 -- Moldova, Republic of    149    1    2
 -- Albania    146    5    17
 -- Viet Nam    141    0    17
@@ -2280,7 +2283,7 @@
 -- Belarus    86    0    29
 -- Afghanistan    84    2    2
 -- Kazakhstan    80    3    0
--- Georgia    73    0    10
+-- Georgia    75    0    10
 -- Côte d'Ivoire    73    0    1
 -- Guadeloupe    73    1    0
 -- Cameroon    70    1    2
