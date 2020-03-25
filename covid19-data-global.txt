@@ -477,13 +477,13 @@
 ---- Liguria    2116    231    193
 ---- Veneto    5948    216    381
 ---- Bolzano    781    38    44
--- United States of America    60947    831    354
+-- United States of America    61128    852    354
 ---- NY    30811    285    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    9    0
 ------ Suffolk(36103)    2260    17    0
 ------ Albany(36001)    152    0    0
------- Rockland(36087)    671    5    0
+------ Rockland(36087)    968    5    0
 ------ Dutchess(36027)    153    1    0
 ------ Orange(36071)    498    0    0
 ------ Monroe(36055)    117    3    0
@@ -687,49 +687,49 @@
 ------ Highlands(12055)    4    0    0
 ------ Putnam(12107)    4    0    0
 ------ St Lucie(12111)    8    0    0
------- Miami-Dade(12086)    367    0    0
+------ Miami-Dade(12086)    400    0    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    5    0    0
 ------ DeSoto(12027)    1    0    0
 ------ Mainland Monroe(12087)    8    0    0
----- LA    1795    46    0
------- Orleans(22071)    675    26    0
------- Jefferson(22051)    293    6    0
------- Caddo(22017)    40    0    0
------- St Tammany(22103)    52    1    0
------- East Baton Rouge(22033)    58    2    0
------- Lafourche(22057)    16    0    0
------- St Charles(22089)    15    0    0
------- Terrebonne(22109)    14    0    0
------- Bossier(22015)    12    0    0
------- St Bernard(22087)    19    0    0
------- Lafayette(22055)    12    0    0
------- Ascension(22005)    36    1    0
------- Washington(22117)    3    1    0
------- West Baton Rouge(22121)    5    1    0
------- St Landry(22097)    3    0    0
------- St James(22093)    9    1    0
------- Plaquemines(22075)    8    0    0
+---- LA    1795    65    0
+------ Orleans(22071)    827    37    0
+------ Jefferson(22051)    359    7    0
+------ Caddo(22017)    93    0    0
+------ St Tammany(22103)    67    1    0
+------ East Baton Rouge(22033)    75    3    0
+------ Lafourche(22057)    18    1    0
+------ St Charles(22089)    17    1    0
+------ Terrebonne(22109)    15    0    0
+------ Bossier(22015)    25    0    0
+------ St Bernard(22087)    23    1    0
+------ Lafayette(22055)    20    0    0
+------ Ascension(22005)    65    1    0
+------ Washington(22117)    4    1    0
+------ West Baton Rouge(22121)    7    1    0
+------ St Landry(22097)    4    0    0
+------ St James(22093)    14    1    0
+------ Plaquemines(22075)    9    0    0
 ------ Acadia(22001)    2    0    0
 ------ Assumption(22007)    2    0    0
------- Calcasieu(22019)    5    1    0
+------ Calcasieu(22019)    11    1    0
 ------ Iberia(22045)    3    0    0
 ------ Iberville(22047)    14    1    0
 ------ Livingston(22063)    6    0    0
------- Rapides(22079)    10    1    0
------- Webster(22119)    3    1    0
------- De Soto(22031)    6    0    0
+------ Rapides(22079)    14    1    0
+------ Webster(22119)    5    1    0
+------ De Soto(22031)    8    0    0
 ------ Catahoula(22025)    1    1    0
------- Tangipahoa(22105)    4    0    0
------- St John The Baptist(22095)    21    0    0
+------ Tangipahoa(22105)    5    0    0
+------ St John The Baptist(22095)    27    2    0
 ------ Evangeline(22039)    2    0    0
------- Ouachita(22073)    9    1    0
------- Avoyelles(22009)    3    0    0
------- Beauregard(22011)    2    0    0
------- Bienville(22013)    1    0    0
+------ Ouachita(22073)    10    1    0
+------ Avoyelles(22009)    5    0    0
+------ Beauregard(22011)    3    0    0
+------ Bienville(22013)    1    1    0
 ------ Claiborne(22027)    2    0    0
------- St Mary(22101)    2    0    0
+------ St Mary(22101)    5    0    0
 ------ Allen(22003)    2    0    0
 ------ Lincoln(22061)    2    0    0
 ------ Natchitoches(22069)    2    0    0
@@ -737,6 +737,11 @@
 ------ Grant(22043)    1    1    0
 ------ Vernon(22115)    2    0    0
 ------ St Martin(22099)    1    0    0
+------ Union(22111)    2    1    0
+------ Jackson(22049)    1    0    0
+------ Jefferson Davis(22053)    1    0    0
+------ Morehouse(22067)    1    0    0
+------ Winn(22127)    1    0    0
 ---- CO    912    11    0
 ------ Denver(08031)    176    0    0
 ------ Eagle(08037)    96    1    0
@@ -806,11 +811,11 @@
 ------ Monroe(17133)    1    0    0
 ------ Grundy(17063)    1    0    0
 ------ De Kalb(17037)    1    0    0
----- GA    1097    38    0
+---- GA    1103    38    0
 ------ Fulton(13121)    191    2    0
 ------ Cobb(13067)    90    2    0
------- Bartow(13015)    76    1    0
------- Cherokee(13057)    30    0    0
+------ Bartow(13015)    78    1    0
+------ Cherokee(13057)    31    0    0
 ------ Gwinnett(13135)    46    1    0
 ------ Dougherty(13095)    101    6    0
 ------ Floyd(13115)    12    1    0
@@ -840,12 +845,12 @@
 ------ Early(13099)    5    1    0
 ------ Glynn(13127)    5    0    0
 ------ Laurens(13175)    6    0    0
------- Bibb(13021)    4    0    0
+------ Bibb(13021)    6    0    0
 ------ Muscogee(13215)    4    0    0
 ------ Peach(13225)    3    0    0
 ------ Effingham(13103)    3    0    0
 ------ DeKalb(13089)    107    0    0
------- Carroll(13045)    26    0    0
+------ Carroll(13045)    27    0    0
 ------ Chatham(13051)    7    0    0
 ------ Miller(13201)    1    0    0
 ------ Tift(13277)    4    0    0
@@ -1242,29 +1247,29 @@
 ------ City of Chesapeake(51550)    1    0    0
 ------ City of Lynchburg(51680)    2    0    0
 ------ City of Radford(51750)    1    0    0
----- NC    535    2    0
+---- NC    549    2    0
 ------ Wake(37183)    74    0    0
 ------ Durham(37063)    74    0    0
 ------ Mecklenburg(37119)    142    0    0
 ------ Chatham(37037)    6    0    0
------- Harnett(37085)    9    0    0
+------ Harnett(37085)    10    0    0
 ------ Forsyth(37067)    16    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    10    0    0
 ------ Cabarrus(37025)    12    1    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    22    0    0
------- Iredell(37097)    9    0    0
+------ Iredell(37097)    11    0    0
 ------ Lincoln(37109)    1    0    0
------- Onslow(37133)    3    0    0
------- Orange(37135)    11    0    0
+------ Onslow(37133)    4    0    0
+------ Orange(37135)    13    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    3    0    0
 ------ Wayne(37191)    2    0    0
 ------ Wilson(37195)    6    0    0
 ------ Gaston(37071)    4    0    0
 ------ New Hanover(37129)    10    0    0
------- Union(37179)    18    0    0
+------ Union(37179)    23    0    0
 ------ Moore(37125)    2    0    0
 ------ Buncombe(37021)    12    0    0
 ------ Hoke(37093)    2    0    0
@@ -1407,7 +1412,7 @@
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    2    0    0
 ------ Kent(24029)    1    0    0
----- NV    321    6    1
+---- NV    342    6    1
 ------ Clark(32003)    249    6    0
 ------ Washoe(32031)    50    0    0
 ------ Carson City(32510)    4    0    0
@@ -1506,13 +1511,13 @@
 ------ Waldo(23027)    1    0    0
 ---- DC    187    3    17
 ------ District of Columbia(11001)    187    2    0
----- IN    391    14    0
------- Marion(18097)    161    6    0
+---- IN    478    14    0
+------ Marion(18097)    226    6    0
 ------ Hendricks(18063)    15    0    0
------- Johnson(18081)    18    3    0
+------ Johnson(18081)    24    3    0
 ------ Franklin(18047)    7    0    0
 ------ Howard(18067)    6    1    0
------- Lake(18089)    17    0    0
+------ Lake(18089)    19    0    0
 ------ Adams(18001)    1    0    0
 ------ Bartholomew(18005)    5    0    0
 ------ Boone(18011)    4    0    0
@@ -1522,18 +1527,18 @@
 ------ Wells(18179)    1    0    0
 ------ Clark(18019)    6    0    0
 ------ Fayette(18041)    3    0    0
------- Jennings(18079)    2    0    0
------- Madison(18095)    3    0    0
+------ Jennings(18079)    3    0    0
+------ Madison(18095)    4    0    0
 ------ St Joseph(18141)    18    0    0
------- Owen(18119)    2    0    0
+------ Owen(18119)    4    0    0
 ------ Tippecanoe(18157)    4    0    0
 ------ Wayne(18177)    1    0    0
 ------ Allen(18003)    7    1    0
------- Monroe(18105)    3    0    0
+------ Monroe(18105)    4    0    0
 ------ Vigo(18167)    3    0    0
 ------ Vanderburgh(18163)    1    0    0
 ------ Grant(18053)    3    0    0
------- Shelby(18145)    1    0    0
+------ Shelby(18145)    2    0    0
 ------ Delaware(18035)    7    1    0
 ------ Scott(18143)    1    1    0
 ------ Elkhart(18039)    5    0    0
@@ -1542,11 +1547,11 @@
 ------ Harrison(18061)    1    0    0
 ------ Miami(18103)    1    0    0
 ------ Dubois(18037)    1    0    0
------- Morgan(18109)    3    0    0
------- Putnam(18133)    1    0    0
+------ Morgan(18109)    5    0    0
+------ Putnam(18133)    2    0    0
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    2    0    0
------- Ripley(18137)    6    0    0
+------ Ripley(18137)    7    0    0
 ------ Starke(18149)    2    0    0
 ------ Decatur(18031)    7    0    0
 ------ Dearborn(18029)    2    0    0
@@ -1556,14 +1561,16 @@
 ------ Lawrence(18093)    1    0    0
 ------ Montgomery(18107)    1    0    0
 ------ Ohio(18115)    1    0    0
------- Porter(18127)    1    0    0
+------ Porter(18127)    3    0    0
 ------ Sullivan(18153)    1    0    0
 ------ Warrick(18173)    1    0    0
 ------ La Porte(18091)    2    0    0
----- IA    125    1    0
+------ Jasper(18073)    1    0    0
+------ Rush(18139)    1    0    0
+---- IA    145    1    0
 ------ Johnson(19103)    37    0    0
 ------ Dallas(19049)    7    0    0
------- Allamakee(19005)    6    0    0
+------ Allamakee(19005)    7    0    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    4    0    0
 ------ Carroll(19027)    1    0    0
@@ -1787,29 +1794,34 @@
 ------ Yuma(04027)    2    0    0
 ------ Cochise(04003)    1    0    0
 ------ Apache(04001)    4    0    0
----- OK    110    3    1
------- Oklahoma(40109)    41    0    0
------- Tulsa(40143)    12    1    0
------- Cleveland(40027)    22    1    0
+---- OK    164    5    1
+------ Oklahoma(40109)    55    0    0
+------ Tulsa(40143)    27    1    0
+------ Cleveland(40027)    27    1    0
 ------ Kay(40071)    5    0    0
------- Canadian(40017)    4    0    0
+------ Canadian(40017)    5    0    0
 ------ Jackson(40065)    1    0    0
------- Pawnee(40117)    4    1    0
+------ Pawnee(40117)    7    1    0
 ------ Payne(40119)    3    0    0
------- Custer(40039)    2    0    0
+------ Custer(40039)    3    0    0
 ------ Grady(40051)    1    0    0
------- Logan(40083)    1    0    0
+------ Logan(40083)    3    0    0
 ------ Stephens(40137)    1    0    0
------- Washington(40147)    2    0    0
+------ Washington(40147)    3    0    0
 ------ McClain(40087)    1    0    0
 ------ Garvin(40049)    2    0    0
 ------ Muskogee(40101)    1    0    0
 ------ Noble(40103)    2    0    0
 ------ Pontotoc(40123)    1    0    0
 ------ Mayes(40097)    1    0    0
------- Wagoner(40145)    1    0    0
+------ Wagoner(40145)    3    0    0
 ------ Adair(40001)    2    0    0
 ------ Bryan(40013)    1    0    0
+------ Creek(40037)    5    0    0
+------ Carter(40019)    1    0    0
+------ Delaware(40041)    1    0    0
+------ Osage(40113)    1    0    0
+------ Pottawatomie(40125)    1    0    0
 ---- KS    103    2    0
 ------ Johnson(20091)    36    1    0
 ------ Wyandotte(20209)    22    1    0
@@ -2072,7 +2084,7 @@
 ---- Reunion    94    0    0
 ---- SCGF0594    23    0    0
 ---- New Caledonia    10    0    0
--- Switzerland    10537    149    131
+-- Switzerland    10897    153    131
 -- Korea, Republic of    9137    126    3730
 ---- Busan    112    1    73
 ---- Chungcheongbuk-do    38    0    13
@@ -2113,7 +2125,7 @@
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
 ---- Alberta    359    2    0
----- Quebec    1016    5    0
+---- Quebec    1021    5    0
 ---- New Brunswick    18    0    0
 ---- Manitoba    21    0    0
 ---- Saskatchewan    72    0    0
@@ -2201,12 +2213,12 @@
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- India    606    11    42
+-- Qatar    537    0    41
 -- Slovenia    528    5    10
--- Qatar    526    0    41
 -- Panama    443    8    1
 -- Egypt    442    21    93
 -- Croatia    442    1    22
--- Bahrain    419    3    177
+-- Bahrain    419    4    177
 -- Peru    416    9    1
 -- Hong Kong    410    4    102
 -- Mexico    405    5    4
@@ -2224,6 +2236,7 @@
 -- Bulgaria    242    3    4
 -- Taiwan    235    2    29
 -- Hungary    226    10    21
+-- Morocco    225    6    7
 -- Latvia    221    0    1
 -- Slovakia    216    1    7
 -- New Zealand    205    0    22
@@ -2234,9 +2247,8 @@
 -- North Macedonia    177    3    1
 -- Costa Rica    177    2    2
 -- Tunisia    173    5    2
--- Morocco    170    5    6
+-- Jordan    172    0    1
 -- Bosnia and Herzegovina    168    3    2
--- Jordan    154    0    1
 -- Moldova, Republic of    149    1    2
 -- Albania    146    5    17
 -- Viet Nam    141    0    17
