@@ -477,11 +477,11 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    64743    909    361
----- NY    30824    285    0
+-- United States of America    65024    926    361
+---- NY    30825    285    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
------- Suffolk(36103)    2260    17    0
+------ Suffolk(36103)    2260    20    0
 ------ Albany(36001)    152    0    0
 ------ Rockland(36087)    968    5    0
 ------ Dutchess(36027)    153    1    0
@@ -520,7 +520,7 @@
 ------ Jefferson(36045)    2    0    0
 ------ Wayne(36117)    7    0    0
 ------ Steuben(36101)    8    0    0
------- Columbia(36021)    18    0    0
+------ Columbia(36021)    19    0    0
 ------ Livingston(36051)    3    0    0
 ------ Cortland(36023)    3    0    0
 ------ Queens(36081)    2715    0    0
@@ -567,18 +567,18 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    2    0    0
----- CA    2705    60    13
+---- CA    2881    65    13
 ------ Santa Clara(06085)    375    16    0
------- Los Angeles(06037)    669    11    0
+------ Los Angeles(06037)    812    13    0
 ------ San Mateo(06081)    165    5    0
 ------ San Diego(06073)    242    2    0
 ------ San Francisco(06075)    178    1    0
------- Sacramento(06067)    88    4    0
+------ Sacramento(06067)    113    5    0
 ------ Contra Costa(06013)    108    1    0
 ------ Orange(06059)    152    1    0
 ------ Alameda(06001)    135    2    0
 ------ Riverside(06065)    68    7    0
------- San Joaquin(06077)    60    2    0
+------ San Joaquin(06077)    68    3    0
 ------ Santa Cruz(06087)    24    0    0
 ------ Marin(06041)    53    0    0
 ------ Ventura(06111)    43    1    0
@@ -602,7 +602,7 @@
 ------ Kern(06029)    15    1    0
 ------ Madera(06039)    6    0    0
 ------ Nevada(06057)    4    0    0
------- Shasta(06089)    3    0    0
+------ Shasta(06089)    3    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    4    0    0
@@ -915,7 +915,7 @@
 ------ Thomas(13275)    1    0    0
 ------ White(13311)    1    0    0
 ------ Wilkes(13317)    1    0    0
----- TX    1165    14    15
+---- TX    1182    14    15
 ------ Dallas(48113)    247    6    0
 ------ Travis(48453)    98    0    0
 ------ Harris(48201)    145    1    0
@@ -924,7 +924,7 @@
 ------ Collin(48085)    54    1    0
 ------ Tarrant(48439)    90    1    0
 ------ Smith(48423)    14    0    0
------- Montgomery(48339)    23    0    0
+------ Montgomery(48339)    31    0    0
 ------ Bell(48027)    19    0    0
 ------ El Paso(48141)    16    0    0
 ------ Hays(48209)    10    0    0
@@ -945,10 +945,10 @@
 ------ Comal(48091)    7    0    0
 ------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
------- Williamson(48491)    14    0    0
+------ Williamson(48491)    22    0    0
 ------ Fannin(48147)    1    0    0
 ------ Jefferson(48245)    6    0    0
------- Cameron(48061)    6    0    0
+------ Cameron(48061)    7    0    0
 ------ Brown(48049)    2    0    0
 ------ Potter(48375)    4    0    0
 ------ Houston(48225)    10    0    0
@@ -1005,9 +1005,9 @@
 ------ Young(48503)    1    0    0
 ------ Val Verde(48465)    1    0    0
 ------ San Patricio(48409)    1    0    0
----- PA    1214    11    0
------- Montgomery(42091)    172    1    0
------- Philadelphia(42101)    342    0    0
+---- PA    1261    15    0
+------ Montgomery(42091)    219    2    0
+------ Philadelphia(42101)    342    1    0
 ------ Allegheny(42003)    88    2    0
 ------ Cumberland(42041)    13    0    0
 ------ Delaware(42045)    101    2    0
@@ -1017,8 +1017,8 @@
 ------ Washington(42125)    10    0    0
 ------ Beaver(42007)    7    0    0
 ------ Lehigh(42077)    38    1    0
------- Luzerne(42079)    27    0    0
------- Northampton(42095)    44    2    0
+------ Luzerne(42079)    27    1    0
+------ Northampton(42095)    44    3    0
 ------ Pike(42103)    9    0    0
 ------ Wayne(42127)    4    0    0
 ------ York(42133)    20    0    0
@@ -1085,7 +1085,7 @@
 ------ Clark(55019)    1    0    0
 ------ Grant(55043)    1    0    0
 ------ Monroe(55081)    1    0    0
----- TN    911    2    0
+---- TN    911    3    0
 ------ Davidson(47037)    257    2    0
 ------ Williamson(47187)    66    0    0
 ------ Shelby(47157)    170    0    0
@@ -1139,9 +1139,9 @@
 ------ Hawkins(47073)    1    0    0
 ------ Lewis(47101)    1    0    0
 ------ White(47185)    1    0    0
----- CT    875    12    0
------- Fairfield(09001)    546    7    0
------- New Haven(09009)    127    0    0
+---- CT    875    19    0
+------ Fairfield(09001)    546    12    0
+------ New Haven(09009)    127    2    0
 ------ Hartford(09003)    116    2    0
 ------ Litchfield(09005)    33    0    0
 ------ Middlesex(09007)    15    0    0
@@ -1225,7 +1225,7 @@
 ------ Hood River(41027)    1    0    0
 ------ Clatsop(41007)    1    0    0
 ------ Lincoln(41041)    1    0    0
----- VA    396    9    2
+---- VA    397    9    2
 ------ Arlington(51013)    46    0    0
 ------ Fairfax(51059)    76    2    0
 ------ Loudoun(51107)    20    0    0
@@ -1722,10 +1722,10 @@
 ------ Newport(44005)    9    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    7    0    0
----- AR    236    6    0
+---- AR    280    6    0
 ------ Jefferson(05069)    22    0    0
------- Pulaski(05119)    64    0    0
------- Cleburne(05023)    34    1    0
+------ Pulaski(05119)    78    0    0
+------ Cleburne(05023)    40    1    0
 ------ Cleveland(05025)    3    0    0
 ------ Desha(05041)    2    0    0
 ------ Garland(05051)    11    0    0
@@ -1733,7 +1733,7 @@
 ------ Saline(05125)    4    0    0
 ------ Washington(05143)    7    0    0
 ------ Bradley(05011)    4    0    0
------- Faulkner(05045)    17    0    0
+------ Faulkner(05045)    23    0    0
 ------ Grant(05053)    3    0    0
 ------ Pope(05115)    1    0    0
 ------ Van Buren(05141)    7    0    0
@@ -2169,7 +2169,7 @@
 ---- Curacao    3    0    0
 -- Austria    5588    30    9
 -- Belgium    4937    178    547
--- Canada    3290    35    320
+-- Canada    3306    35    320
 ---- British Columbia    617    13    4
 ---- Ontario    688    8    6
 ---- Alberta    359    2    0
@@ -2186,6 +2186,7 @@
 -- Portugal    2995    43    22
 -- Sweden    2526    62    16
 -- Brazil    2433    57    2
+-- Turkey    2433    59    26
 -- Australia    2431    9    118
 ---- New South Wales    818    7    4
 ---- Victoria    411    0    70
@@ -2196,7 +2197,6 @@
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
 -- Israel    2369    5    58
--- Turkey    1874    44    26
 -- Japan    1848    45    310
 ---- Hokkaido    167    7    100
 ---- kochi    12    0    0
@@ -2289,12 +2289,12 @@
 -- Morocco    225    6    7
 -- Latvia    221    0    1
 -- Slovakia    216    1    7
+-- San Marino    208    21    4
 -- New Zealand    205    0    22
 -- Costa Rica    201    2    2
 -- Kuwait    195    0    43
 -- Uruguay    189    0    0
 -- Andorra    188    1    1
--- San Marino    187    21    4
 -- North Macedonia    177    3    1
 -- Tunisia    173    5    2
 -- Bosnia and Herzegovina    173    3    2
@@ -2302,11 +2302,11 @@
 -- Moldova, Republic of    149    1    2
 -- Albania    146    5    17
 -- Burkina Faso    146    4    10
+-- Ukraine    145    5    8
 -- Viet Nam    141    0    17
 -- Cyprus    132    3    3
 -- Faroe Islands    132    0    38
 -- Malta    129    0    2
--- Ukraine    116    4    8
 -- Réunion    111    0    1
 -- Brunei Darussalam    109    0    2
 -- Sri Lanka    102    0    3
