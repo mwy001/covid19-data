@@ -1228,6 +1228,8 @@
 ------ Nelson(51125)    1    0    0
 ------ Orange(51137)    1    0    0
 ------ City of Chesapeake(51550)    1    0    0
+------ City of Lynchburg(51680)    2    0    0
+------ City of Radford(51750)    1    0    0
 ---- NC    518    0    0
 ------ Wake(37183)    74    0    0
 ------ Durham(37063)    74    0    0
@@ -2047,7 +2049,7 @@
 ---- Reunion    94    0    0
 ---- SCGF0594    23    0    0
 ---- New Caledonia    10    0    0
--- Switzerland    9891    132    131
+-- Switzerland    9991    133    131
 -- Korea, Republic of    9137    126    3730
 ---- Busan    112    1    73
 ---- Chungcheongbuk-do    38    0    13
@@ -2080,9 +2082,9 @@
 -- Netherlands    5580    277    2
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5315    30    9
+-- Austria    5394    30    9
 -- Belgium    4269    122    461
--- Norway    2866    12    6
+-- Norway    2868    13    6
 -- Canada    2796    35    320
 ---- British Columbia    617    13    4
 ---- Ontario    673    8    6
@@ -2111,7 +2113,7 @@
 -- Israel    2030    5    58
 -- Turkey    1872    44    0
 -- Japan    1848    43    285
----- Hokkaido    163    6    66
+---- Hokkaido    163    7    66
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    28    0    0
@@ -2127,7 +2129,7 @@
 ---- Kyoto    27    0    2
 ---- Osaka    142    2    1
 ---- Chiba    49    0    0
----- Kanagawa    83    4    1
+---- Kanagawa    84    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    148    17    2
 ---- Nara    9    0    1
@@ -2151,20 +2153,20 @@
 ---- Kagawa    1    0    0
 ---- Fukui    1    0    0
 ---- Okayama    1    0    0
----- Aomori    2    0    0
+---- Aomori    6    0    0
 -- Malaysia    1796    17    183
 -- Denmark    1718    32    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Czechia    1394    3    10
+-- Czechia    1497    3    10
 -- Ireland    1329    7    5
 -- Luxembourg    1099    8    6
 -- Ecuador    1082    27    3
 -- Pakistan    1000    7    19
 -- Thailand    934    4    70
+-- Poland    927    12    13
 -- Chile    922    2    17
--- Poland    901    10    13
--- Romania    794    12    79
+-- Romania    794    13    79
 -- Finland    792    1    10
 -- Saudi Arabia    767    1    28
 -- Greece    743    20    29
@@ -2179,13 +2181,13 @@
 -- Russian Federation    495    1    22
 -- Slovenia    480    4    3
 -- Panama    443    6    1
+-- Croatia    418    1    16
 -- Peru    416    7    1
 -- Mexico    405    5    4
 -- Egypt    402    20    80
 -- Bahrain    392    3    177
 -- Argentina    387    6    52
 -- Hong Kong    387    4    102
--- Croatia    382    1    5
 -- Colombia    378    3    6
 -- Estonia    369    0    7
 -- Lebanon    318    4    8
@@ -2198,7 +2200,7 @@
 -- United Arab Emirates    248    2    45
 -- Taiwan    235    2    29
 -- Hungary    226    10    21
--- Bulgaria    220    3    3
+-- Bulgaria    220    3    4
 -- New Zealand    205    0    22
 -- Slovakia    204    1    7
 -- Latvia    197    0    1
@@ -2212,10 +2214,10 @@
 -- Jordan    154    0    1
 -- North Macedonia    148    2    1
 -- Viet Nam    134    0    17
+-- Faroe Islands    132    0    38
 -- Moldova, Republic of    125    1    2
 -- Cyprus    124    3    3
 -- Albania    123    5    10
--- Faroe Islands    122    0    33
 -- Tunisia    114    4    1
 -- Burkina Faso    114    4    7
 -- Ukraine    113    3    8
@@ -2227,8 +2229,8 @@
 -- Cambodia    93    0    4
 -- Venezuela, Bolivarian Republic of    91    0    15
 -- Azerbaijan    87    1    11
+-- Belarus    86    0    22
 -- Senegal    86    0    8
--- Belarus    81    0    22
 -- Kazakhstan    79    3    0
 -- Afghanistan    74    2    1
 -- Georgia    73    0    10
@@ -2244,9 +2246,9 @@
 -- Montenegro    52    1    0
 -- Liechtenstein    51    0    0
 -- Cuba    48    1    1
+-- Mauritius    48    2    0
 -- Congo, Democratic Republic of the    45    2    0
 -- Kyrgyzstan    42    0    0
--- Mauritius    42    2    0
 -- Rwanda    40    0    0
 -- Bangladesh    39    5    7
 -- Puerto Rico    39    2    1
@@ -2282,6 +2284,7 @@
 -- Suriname    7    0    0
 -- Namibia    7    0    2
 -- Seychelles    7    0    0
+-- Niger    7    1    0
 -- Haiti    7    0    0
 -- Dominica    7    0    0
 -- Cayman Islands    6    1    0
@@ -2307,7 +2310,6 @@
 -- Djibouti    3    0    0
 -- Zambia    3    0    0
 -- Chad    3    0    0
--- Niger    3    0    0
 -- Angola    3    0    0
 -- Cabo Verde    3    1    0
 -- Zimbabwe    3    1    0
