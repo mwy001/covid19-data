@@ -710,6 +710,8 @@
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    4    0    0
+------ DeSoto(12027)    1    0    0
+------ Mainland Monroe(12087)    3    0    0
 ---- LA    1388    46    0
 ------ Orleans(22071)    675    26    0
 ------ Jefferson(22051)    293    6    0
@@ -822,6 +824,7 @@
 ------ Rock Island(17161)    1    0    0
 ------ Monroe(17133)    1    0    0
 ------ Grundy(17063)    1    0    0
+------ De Kalb(17037)    1    0    0
 ---- GA    1097    38    0
 ------ Fulton(13121)    191    2    0
 ------ Cobb(13067)    90    2    0
@@ -1225,10 +1228,10 @@
 ------ Rockbridge(51163)    2    0    0
 ------ Franklin(51067)    1    0    0
 ------ Isle of Wight(51093)    2    0    0
------- City of Alexandria(51510)    5    0    0
------- City of Charlottesville(51540)    4    0    0
+------ City of Alexandria(51510)    8    0    0
+------ City of Charlottesville(51540)    5    0    0
 ------ City of Harrisonburg(51660)    1    0    0
------- City of Norfolk(51710)    5    0    0
+------ City of Norfolk(51710)    8    0    0
 ------ City of Virginia Beach(51810)    17    1    0
 ------ City of Williamsburg(51830)    5    1    0
 ------ City of Portsmouth(51740)    3    0    0
@@ -1247,6 +1250,7 @@
 ------ Madison(51113)    2    0    0
 ------ Nelson(51125)    1    0    0
 ------ Orange(51137)    1    0    0
+------ City of Chesapeake(51550)    1    0    0
 ---- NC    518    0    0
 ------ Wake(37183)    74    0    0
 ------ Durham(37063)    74    0    0
@@ -1425,6 +1429,8 @@
 ------ Utah(49049)    14    0    0
 ------ Cache(49005)    3    0    0
 ------ Box Elder(49003)    1    0    0
+------ Washington(49053)    5    0    0
+------ Weber(49057)    9    0    0
 ---- SC    342    7    0
 ------ Kershaw(45055)    58    1    0
 ------ Beaufort(45013)    22    0    0
@@ -1557,6 +1563,7 @@
 ------ Porter(18127)    1    0    0
 ------ Sullivan(18153)    1    0    0
 ------ Warrick(18173)    1    0    0
+------ La Porte(18091)    2    0    0
 ---- IA    125    1    0
 ------ Johnson(19103)    37    0    0
 ------ Dallas(19049)    7    0    0
@@ -1879,6 +1886,10 @@
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Hawaii(15001)    1    0    0
+------ Hawaii in Hawaii(15001)    2    0    0
+------ Oahu in Honolulu(15003)    58    1    0
+------ Niihau in Kauai(15007)    1    0    0
+------ Kahoolawe in Maui(15009)    9    0    0
 ---- SD    30    1    8
 ------ Minnehaha(46099)    5    0    0
 ------ Beadle(46005)    13    0    0
@@ -1943,6 +1954,7 @@
 ------ Anchorage(02020)    17    0    0
 ------ Ketchikan Gateway(02130)    8    0    0
 ------ Juneau(02110)    2    0    0
+------ Kenai Peninsula(02122)    3    0    0
 ---- WV    82    0    0
 ------ Jefferson(54037)    3    0    0
 ------ Mercer(54055)    2    0    0
@@ -2180,7 +2192,7 @@
 -- Greece    743    20    29
 -- Indonesia    686    55    30
 -- Iceland    678    5    51
--- India    562    11    40
+-- India    562    11    41
 -- Singapore    558    2    156
 ---- Central Singapore Community Development Council    345    0    124
 -- South Africa    554    0    4
