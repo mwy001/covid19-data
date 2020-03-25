@@ -1958,24 +1958,24 @@
 ---- PR    39    2    0
 ---- VI    17    0    0
 -- Spain    47610    3434    5367
----- Andalusia    2471    87    0
----- Aragon    758    37    0
----- Balearic Islands    478    16    2
----- Basque Country    2728    133    9
----- Canary Islands    657    21    7
----- Cantabria    425    9    10
----- Castile and León    2460    165    2
----- Castile-La Mancha    2465    216    13
----- Catalonia    9937    516    3
----- Community of Madrid    12352    1535    109
----- Comunidad Foral de Navarra    1014    31    0
----- Extremadura    636    26    5
----- Galicia    1415    21    3
----- Principality of Asturias    779    25    3
----- Región de Murcia    477    6    0
----- Rioja    802    30    1
----- Valencian Community    2167    115    1
----- Melilla    28    0    0
+---- Andalusia    3010    113    71
+---- Aragon    907    40    4
+---- Balearic Islands    562    16    18
+---- Basque Country    3271    155    466
+---- Canary Islands    657    21    15
+---- Cantabria    510    14    12
+---- Castile and León    2940    165    213
+---- Castile-La Mancha    2780    263    71
+---- Catalonia    9937    516    1274
+---- Community of Madrid    14597    1825    3031
+---- Comunidad Foral de Navarra    1197    33    23
+---- Extremadura    742    39    8
+---- Galicia    1563    27    25
+---- Principality of Asturias    779    25    35
+---- Región de Murcia    477    6    4
+---- Rioja    928    37    43
+---- Valencian Community    2616    143    44
+---- Melilla    38    0    0
 ---- Navarre    130    0    0
 ---- Ceuta    9    0    0
 -- Germany    34009    172    3532
@@ -2103,7 +2103,7 @@
 ---- Nova Scotia    51    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    2    0    0
--- Australia    2423    9    118
+-- Australia    2431    9    118
 ---- New South Wales    818    7    4
 ---- Victoria    411    0    70
 ---- Queensland    397    0    8
@@ -2124,19 +2124,19 @@
 ---- Niigata    29    0    0
 ---- Gifu    11    0    0
 ---- Nagano    5    0    0
----- Tochigi    6    0    0
+---- Tochigi    10    0    0
 ---- Kumamoto    7    0    0
 ---- Saitama    59    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    9    0    0
----- Tokyo    211    4    0
+---- Tokyo    212    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    27    0    2
 ---- Osaka    142    2    1
 ---- Chiba    53    0    0
 ---- Kanagawa    84    4    1
 ---- Shizuoka    3    0    0
----- Aichi    148    17    2
+---- Aichi    148    18    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2156,11 +2156,11 @@
 ---- Nagasaki    2    0    0
 ---- Ibaraki    10    0    0
 ---- Kagawa    1    0    0
----- Fukui    1    0    0
+---- Fukui    3    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
 -- Malaysia    1796    19    199
--- Denmark    1718    32    1
+-- Denmark    1718    34    1
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Czechia    1497    5    10
@@ -2176,7 +2176,7 @@
 -- Indonesia    790    58    31
 -- Saudi Arabia    767    1    28
 -- Greece    743    20    29
--- South Africa    709    0    4
+-- South Africa    709    0    12
 -- Iceland    678    5    51
 -- Russian Federation    658    1    29
 -- Philippines    636    38    26
@@ -2224,7 +2224,7 @@
 -- Malta    129    0    2
 -- Moldova, Republic of    125    1    2
 -- Cyprus    124    3    3
--- Tunisia    114    4    1
+-- Tunisia    119    4    1
 -- Burkina Faso    114    4    7
 -- Ukraine    113    4    8
 -- Brunei Darussalam    109    0    2
@@ -2241,9 +2241,9 @@
 -- Georgia    73    0    10
 -- Côte d'Ivoire    73    0    1
 -- Guadeloupe    73    1    0
+-- Cameroon    70    1    2
 -- Nigeria    69    1    2
 -- Ghana    68    2    8
--- Cameroon    66    1    2
 -- Palestine    62    0    17
 -- Martinique    57    1    0
 -- Trinidad and Tobago    57    0    1
@@ -2283,6 +2283,7 @@
 -- Ethiopia    12    0    4
 -- Tanzania, United Republic of    12    0    0
 -- Zambia    12    0    0
+-- Djibouti    11    0    0
 -- Mongolia    10    0    0
 -- Equatorial Guinea    9    0    0
 -- El Salvador    9    0    0
@@ -2305,6 +2306,7 @@
 -- Congo    4    0    0
 -- Guinea    4    0    0
 -- Eswatini    4    0    0
+-- Cabo Verde    4    1    0
 -- Nepal    3    0    1
 -- Antigua and Barbuda    3    0    0
 -- Saint Lucia    3    0    0
@@ -2313,20 +2315,19 @@
 -- Central African Republic    3    0    0
 -- Liberia    3    0    0
 -- Gambia    3    1    0
--- Djibouti    3    0    0
 -- Chad    3    0    0
 -- Angola    3    0    0
--- Cabo Verde    3    1    0
 -- Zimbabwe    3    1    0
 -- Mozambique    3    0    0
 -- Myanmar    3    0    0
+-- Lao People's Democratic Republic    3    0    0
 -- Bhutan    2    0    0
 -- Mauritania    2    0    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Nicaragua    2    0    0
--- Lao People's Democratic Republic    2    0    0
 -- Mali    2    0    0
+-- Guinea-Bissau    2    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
 -- Somalia    1    0    0
