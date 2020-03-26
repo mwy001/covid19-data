@@ -480,7 +480,7 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    69050    1050    616
+-- United States of America    69066    1050    616
 ---- NY    33030    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -862,7 +862,7 @@
 ------ Paulding(13223)    6    0    0
 ------ Polk(13233)    9    0    0
 ------ Rockdale(13247)    10    0    0
------- Spalding(13255)    9    0    0
+------ Spalding(13255)    10    0    0
 ------ Whitfield(13313)    8    0    0
 ------ Murray(13213)    1    0    0
 ------ Houston(13153)    6    0    0
@@ -2076,9 +2076,9 @@
 ------ Dunn(38025)    1    0    0
 ------ Foster(38031)    1    0    0
 ------ Stark(38089)    2    0    0
----- AK    43    1    0
+---- AK    59    1    0
 ------ Fairbanks North Star(02090)    10    0    0
------- Anchorage(02020)    17    0    0
+------ Anchorage(02020)    25    0    0
 ------ Ketchikan Gateway(02130)    8    0    0
 ------ Juneau(02110)    2    0    0
 ------ Kenai Peninsula(02122)    4    0    0
@@ -2212,7 +2212,7 @@
 ---- Scotland    719    22    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Korea, Republic of    9137    126    3730
+-- Korea, Republic of    9241    131    4144
 ---- Busan    112    2    75
 ---- Chungcheongbuk-do    39    0    14
 ---- Chungcheongnam-do    124    0    68
@@ -2234,7 +2234,7 @@
 -- Netherlands    6438    357    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5588    30    9
+-- Austria    5588    31    9
 -- Belgium    4937    178    547
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
@@ -2325,8 +2325,8 @@
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
+-- India    664    12    43
 -- Russian Federation    658    3    29
--- India    657    12    43
 -- Philippines    636    38    26
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
@@ -2339,7 +2339,7 @@
 -- Egypt    456    21    95
 -- Croatia    442    1    22
 -- Bahrain    419    4    177
--- Hong Kong    410    4    102
+-- Hong Kong    411    4    102
 -- Mexico    405    5    4
 -- Estonia    404    1    8
 -- Dominican Republic    392    10    3
