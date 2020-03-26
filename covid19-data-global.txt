@@ -1,6 +1,6 @@
--- China    81962    3293    74196
----- 天津    147    3    133
------- 境外输入    11    0    0
+-- China    81968    3293    74200
+---- 天津    151    3    133
+------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
 ------ 河北区    12    0    12
@@ -65,7 +65,7 @@
 ------ 青浦区    6    0    6
 ------ 金山区    4    0    4
 ------ 崇明区    4    0    4
----- 北京    565    8    403
+---- 北京    566    8    406
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
 ------ 西城区    53    0    0
@@ -81,7 +81,7 @@
 ------ 门头沟区    3    0    2
 ------ 延庆区    1    0    0
 ------ 顺义区    10    0    10
------- 境外输入    149    0    11
+------ 境外输入    150    0    12
 ---- 海南    168    6    168
 ------ 三亚    54    1    53
 ------ 海口    39    0    39
@@ -325,7 +325,7 @@
 ------ 三门峡    7    1    6
 ------ 济源    5    0    5
 ------ 境外输入    3    0    0
----- 辽宁    127    2    124
+---- 辽宁    128    2    124
 ------ 沈阳    28    0    28
 ------ 大连    19    0    19
 ------ 锦州    12    0    12
@@ -339,6 +339,7 @@
 ------ 本溪    3    0    3
 ------ 辽阳    3    0    3
 ------ 营口    1    0    1
+------ 境外输入    3    0    1
 ---- 广西    254    2    250
 ------ 南宁    55    0    55
 ------ 北海    44    1    43
@@ -2241,7 +2242,7 @@
 -- Netherlands    6438    357    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5588    34    9
+-- Austria    5888    34    9
 -- Belgium    4937    178    547
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
@@ -2267,7 +2268,7 @@
 ---- Tasmania    36    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
--- Brazil    2554    59    2
+-- Brazil    2554    59    6
 -- Sweden    2526    62    16
 -- Israel    2495    5    66
 -- Turkey    2433    59    26
@@ -2316,7 +2317,7 @@
 ---- Fukui    5    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
--- Malaysia    1796    20    199
+-- Malaysia    1796    21    199
 -- Czechia    1654    6    10
 -- Ireland    1564    9    5
 -- Luxembourg    1333    8    6
@@ -2346,11 +2347,11 @@
 -- Colombia    470    4    8
 -- Egypt    456    21    95
 -- Croatia    442    1    22
--- Bahrain    419    4    177
+-- Bahrain    419    4    190
 -- Hong Kong    411    4    102
 -- Estonia    404    1    8
 -- Dominican Republic    392    10    3
--- Serbia    384    4    15
+-- Serbia    384    6    15
 -- Iraq    346    29    103
 -- United Arab Emirates    333    2    52
 -- Lebanon    333    6    20
@@ -2359,8 +2360,8 @@
 -- Armenia    290    0    18
 -- New Zealand    283    0    27
 -- Hungary    261    10    28
+-- Taiwan    252    2    29
 -- Bulgaria    243    3    4
--- Taiwan    235    2    29
 -- Morocco    225    6    7
 -- Latvia    221    0    1
 -- Uruguay    217    0    0
@@ -2369,8 +2370,8 @@
 -- Costa Rica    201    2    2
 -- Kuwait    195    0    43
 -- Andorra    188    1    1
+-- Bosnia and Herzegovina    185    3    2
 -- North Macedonia    177    3    1
--- Bosnia and Herzegovina    176    3    2
 -- Tunisia    173    5    2
 -- Jordan    172    0    1
 -- Moldova, Republic of    149    1    2
@@ -2378,8 +2379,8 @@
 -- Albania    146    5    17
 -- Burkina Faso    146    4    10
 -- Ukraine    145    5    8
+-- Faroe Islands    140    0    47
 -- Cyprus    132    3    3
--- Faroe Islands    132    0    38
 -- Malta    129    0    2
 -- Réunion    111    0    1
 -- Brunei Darussalam    109    0    2
@@ -2392,28 +2393,28 @@
 -- Azerbaijan    93    2    11
 -- Ghana    93    4    8
 -- Belarus    86    0    29
+-- Palestine    86    1    17
 -- Afghanistan    84    2    2
 -- Côte d'Ivoire    80    0    2
 -- Georgia    77    0    10
 -- Cameroon    75    1    2
 -- Guadeloupe    73    1    0
--- Palestine    73    1    17
 -- Nigeria    69    1    2
+-- Montenegro    67    1    0
 -- Martinique    66    1    0
 -- Uzbekistan    65    0    0
 -- Trinidad and Tobago    60    1    1
 -- Cuba    57    1    1
--- Montenegro    53    1    0
 -- Honduras    52    0    0
+-- Mauritius    52    2    0
 -- Liechtenstein    51    0    0
 -- Congo, Democratic Republic of the    48    2    0
--- Mauritius    48    2    0
 -- Kyrgyzstan    44    0    0
+-- Paraguay    41    3    0
 -- Rwanda    41    0    0
 -- Bangladesh    39    5    7
 -- Puerto Rico    39    2    1
 -- Bolivia, Plurinational State of    38    0    0
--- Paraguay    37    3    0
 -- Mayotte    36    0    0
 -- Guam    33    1    0
 -- Monaco    31    0    1
