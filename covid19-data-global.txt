@@ -2322,7 +2322,7 @@
 -- Luxembourg    1333    8    6
 -- Ecuador    1211    29    3
 -- Chile    1142    3    22
--- Pakistan    1093    8    21
+-- Pakistan    1102    8    21
 -- Poland    1051    14    13
 -- Thailand    1045    4    70
 -- Romania    906    17    86
@@ -2388,9 +2388,9 @@
 -- Oman    99    0    17
 -- Senegal    99    0    9
 -- Cambodia    98    0    10
+-- Kazakhstan    97    3    2
 -- Azerbaijan    93    2    11
 -- Ghana    93    4    8
--- Kazakhstan    88    3    2
 -- Belarus    86    0    29
 -- Afghanistan    84    2    2
 -- Côte d'Ivoire    80    0    2
