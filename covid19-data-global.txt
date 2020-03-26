@@ -460,7 +460,29 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
--- United States of America    75488    1324    619
+-- Italy    80539    8165    10361
+---- Abruzzo    813    46    21
+---- Aosta Valley    401    19    2
+---- Apulia    1093    44    21
+---- Basilicata    113    1    0
+---- Calabria    351    10    5
+---- Campania    1199    56    53
+---- Emilia-Romagna    10054    985    558
+---- Friuli Venezia Giulia    1139    64    105
+---- Lazio    1901    80    103
+---- Lombardy    32346    4178    6657
+---- Marche    2934    231    8
+---- Molise    73    8    10
+---- Piemont    6024    374    17
+---- Sardinia    442    15    11
+---- Sicily    994    20    27
+---- Trentino-Alto Adige - Südtirol    1222    56    79
+---- Tuscany    2972    129    61
+---- Umbria    710    19    5
+---- Liguria    2305    231    193
+---- Veneto    6442    216    381
+---- Bolzano    858    38    44
+-- United States of America    75522    1324    619
 ---- NY    37258    385    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -557,7 +579,7 @@
 ------ Los Angeles(06037)    812    13    0
 ------ San Mateo(06081)    195    5    0
 ------ San Diego(06073)    293    2    0
------- San Francisco(06075)    223    1    0
+------ San Francisco(06075)    223    2    0
 ------ Sacramento(06067)    113    5    0
 ------ Contra Costa(06013)    108    1    0
 ------ Orange(06059)    187    1    0
@@ -632,7 +654,7 @@
 ------ Hampden(25013)    45    0    0
 ------ Franklin(25011)    14    0    0
 ------ Hampshire(25015)    11    0    0
----- FL    2355    28    0
+---- FL    2357    28    0
 ------ Broward(12011)    504    3    0
 ------ Palm Beach(12099)    169    3    0
 ------ Duval(12031)    74    3    0
@@ -673,7 +695,7 @@
 ------ Highlands(12055)    7    0    0
 ------ Putnam(12107)    12    0    0
 ------ St Lucie(12111)    10    0    0
------- Miami-Dade(12086)    491    0    0
+------ Miami-Dade(12086)    616    0    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    7    0    0
@@ -803,7 +825,7 @@
 ------ Marshall(17123)    1    0    0
 ---- GA    1525    48    0
 ------ Fulton(13121)    211    2    0
------- Cobb(13067)    109    2    0
+------ Cobb(13067)    115    2    0
 ------ Bartow(13015)    86    1    0
 ------ Cherokee(13057)    38    0    0
 ------ Gwinnett(13135)    75    1    0
@@ -1289,10 +1311,10 @@
 ------ Shenandoah(51171)    3    0    0
 ------ City of Fredericksburg(51630)    1    0    0
 ------ City of Manassas(51683)    2    0    0
----- NC    671    2    0
+---- NC    694    2    0
 ------ Wake(37183)    84    0    0
 ------ Durham(37063)    84    0    0
------- Mecklenburg(37119)    181    0    0
+------ Mecklenburg(37119)    204    0    0
 ------ Chatham(37037)    9    0    0
 ------ Harnett(37085)    11    1    0
 ------ Forsyth(37067)    17    0    0
@@ -1772,8 +1794,8 @@
 ------ Newport(44005)    9    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    7    0    0
----- AR    308    6    12
------- Jefferson(05069)    22    0    0
+---- AR    310    6    12
+------ Jefferson(05069)    23    0    0
 ------ Pulaski(05119)    79    0    0
 ------ Cleburne(05023)    41    1    0
 ------ Cleveland(05025)    3    0    0
@@ -1786,7 +1808,7 @@
 ------ Faulkner(05045)    23    0    0
 ------ Grant(05053)    3    0    0
 ------ Pope(05115)    1    0    0
------- Van Buren(05141)    10    0    0
+------ Van Buren(05141)    11    0    0
 ------ Boone(05009)    1    0    0
 ------ Clark(05019)    13    0    0
 ------ Craighead(05031)    4    0    0
@@ -1797,7 +1819,7 @@
 ------ Polk(05113)    1    0    0
 ------ Searcy(05129)    2    0    0
 ------ Sevier(05133)    1    0    0
------- Benton(05007)    15    0    0
+------ Benton(05007)    18    0    0
 ------ Columbia(05027)    1    0    0
 ------ Conway(05029)    1    0    0
 ------ Sebastian(05131)    2    0    0
@@ -1892,6 +1914,7 @@
 ------ Cochise(04003)    2    0    0
 ------ Apache(04001)    9    0    0
 ------ Mohave(04015)    2    0    0
+------ La Paz(04012)    2    0    0
 ---- OK    248    248    1
 ------ Oklahoma(40109)    73    73    0
 ------ Tulsa(40143)    41    41    0
@@ -2060,14 +2083,14 @@
 ------ Hill(30041)    1    0    0
 ------ Glacier(30035)    1    0    0
 ------ Lincoln(30053)    1    0    0
----- ID    138    0    0
+---- ID    145    0    0
 ------ Ada(16001)    39    0    0
------- Blaine(16013)    63    0    0
+------ Blaine(16013)    68    0    0
 ------ Madison(16065)    2    0    0
 ------ Teton(16081)    2    0    0
 ------ Twin Falls(16083)    1    0    0
 ------ Kootenai(16055)    9    0    0
------- Canyon(16027)    8    0    0
+------ Canyon(16027)    10    0    0
 ------ Fremont(16043)    1    0    0
 ------ Bingham(16011)    2    0    0
 ------ Valley(16085)    1    0    0
@@ -2117,28 +2140,6 @@
 ------ Guam(66010)    45    1    0
 ---- PR    64    2    0
 ---- VI    17    0    0
--- Italy    74386    7503    9362
----- Abruzzo    813    46    21
----- Aosta Valley    401    19    2
----- Apulia    1093    44    21
----- Basilicata    113    1    0
----- Calabria    351    10    5
----- Campania    1199    56    53
----- Emilia-Romagna    10054    985    558
----- Friuli Venezia Giulia    1139    64    105
----- Lazio    1901    80    103
----- Lombardy    32346    4178    6657
----- Marche    2934    231    8
----- Molise    73    8    10
----- Piemont    6024    374    17
----- Sardinia    442    15    11
----- Sicily    994    20    27
----- Trentino-Alto Adige - Südtirol    1222    56    79
----- Tuscany    2972    129    61
----- Umbria    710    19    5
----- Liguria    2305    231    193
----- Veneto    6442    216    381
----- Bolzano    858    38    44
 -- Spain    56197    4145    7015
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
@@ -2269,7 +2270,7 @@
 -- Netherlands    7431    434    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    6398    49    112
+-- Austria    6703    49    112
 -- Belgium    6235    220    675
 -- Canada    3579    36    320
 ---- British Columbia    659    14    4
@@ -2300,6 +2301,7 @@
 -- Brazil    2611    63    6
 -- Turkey    2433    59    26
 -- Malaysia    2031    23    215
+-- Czechia    1925    9    10
 -- Denmark    1877    41    36
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2346,13 +2348,12 @@
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
--- Czechia    1775    7    10
 -- Ireland    1564    9    5
 -- Luxembourg    1453    9    6
 -- Ecuador    1382    34    3
 -- Chile    1306    4    22
 -- Pakistan    1179    9    21
--- Poland    1120    15    13
+-- Poland    1163    15    13
 -- Thailand    1045    4    88
 -- Romania    1029    18    94
 -- Saudi Arabia    1012    3    33
@@ -2387,12 +2388,12 @@
 -- Lithuania    290    4    1
 -- Armenia    290    1    18
 -- New Zealand    283    0    27
+-- Morocco    275    10    8
 -- Bulgaria    264    3    8
 -- Hungary    261    10    28
 -- Taiwan    252    2    29
 -- Latvia    244    0    1
 -- Slovakia    226    1    7
--- Morocco    225    6    7
 -- Andorra    224    3    1
 -- Uruguay    217    0    0
 -- Kuwait    208    0    49
@@ -2416,13 +2417,13 @@
 -- Brunei Darussalam    114    0    5
 -- Kazakhstan    111    3    2
 -- Oman    109    0    23
+-- Sri Lanka    106    0    7
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Senegal    105    0    9
--- Sri Lanka    104    0    7
 -- Cambodia    98    0    10
+-- Afghanistan    94    2    2
 -- Belarus    86    0    29
 -- Palestine    86    1    17
--- Afghanistan    84    2    2
 -- Mauritius    81    2    0
 -- Côte d'Ivoire    80    0    2
 -- Georgia    79    0    10
