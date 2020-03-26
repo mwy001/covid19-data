@@ -1,4 +1,4 @@
--- United States of America    83071    1326    619
+-- United States of America    83179    1326    619
 ---- NY    37797    385    0
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
@@ -90,15 +90,15 @@
 ------ Douglas(53017)    2    0    0
 ------ Okanogan(53047)    1    0    0
 ------ Ferry(53019)    1    0    0
----- CA    3699    78    19
+---- CA    3801    78    19
 ------ Santa Clara(06085)    459    17    0
 ------ Los Angeles(06037)    1216    13    0
 ------ San Mateo(06081)    195    5    0
 ------ San Diego(06073)    293    2    0
 ------ San Francisco(06075)    223    2    0
 ------ Sacramento(06067)    113    5    0
------- Contra Costa(06013)    108    1    0
------- Orange(06059)    187    1    0
+------ Contra Costa(06013)    131    1    0
+------ Orange(06059)    256    1    0
 ------ Alameda(06001)    178    2    0
 ------ Riverside(06065)    105    8    0
 ------ San Joaquin(06077)    71    3    0
@@ -107,14 +107,14 @@
 ------ Ventura(06111)    50    1    0
 ------ Placer(06061)    30    1    0
 ------ Solano(06095)    31    0    0
------- San Luis Obispo(06079)    46    0    0
+------ San Luis Obispo(06079)    54    0    0
 ------ Sonoma(06097)    37    1    0
 ------ San Benito(06069)    9    1    0
 ------ Yolo(06113)    11    1    0
 ------ San Bernardino(06071)    54    2    0
 ------ Stanislaus(06099)    12    0    0
 ------ Tulare(06107)    18    0    0
------- Calaveras(06009)    2    0    0
+------ Calaveras(06009)    3    0    0
 ------ Fresno(06019)    19    0    0
 ------ Imperial(06025)    9    0    0
 ------ Monterey(06053)    24    1    0
@@ -128,7 +128,7 @@
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    4    0    0
------- Butte(06007)    4    0    0
+------ Butte(06007)    5    0    0
 ------ El Dorado(06017)    3    0    0
 ------ Yuba(06115)    3    0    0
 ------ Napa(06055)    6    0    0
@@ -271,7 +271,7 @@
 ------ Madison(22065)    1    0    0
 ------ Pointe Coupee(22077)    1    0    0
 ------ Vermilion(22113)    1    0    0
----- CO    1087    20    0
+---- CO    1088    20    0
 ------ Denver(08031)    214    3    0
 ------ Eagle(08037)    120    1    0
 ------ Arapahoe(08005)    88    1    0
@@ -308,6 +308,7 @@
 ------ Fremont(08043)    1    0    0
 ------ La Plata(08067)    1    0    0
 ------ Otero(08089)    1    0    0
+------ Kit Carson(08063)    1    0    0
 ---- IL    3132    26    2
 ------ Cook(17031)    1418    14    0
 ------ Lake(17097)    139    0    0
@@ -595,7 +596,7 @@
 ------ Crawford(42039)    1    0    0
 ------ Indiana(42063)    1    0    0
 ------ Susquehanna(42115)    1    0    0
----- WI    709    9    1
+---- WI    709    10    1
 ------ Milwaukee(55079)    347    5    0
 ------ Dane(55025)    114    1    0
 ------ Kenosha(55059)    19    0    0
@@ -634,13 +635,13 @@
 ------ Portage(55097)    1    0    0
 ------ Waupaca(55135)    1    0    0
 ------ Juneau(55057)    1    0    0
----- TN    1096    3    0
+---- TN    1098    3    0
 ------ Davidson(47037)    293    2    0
 ------ Williamson(47187)    70    0    0
 ------ Shelby(47157)    198    0    0
 ------ Knox(47093)    26    0    0
 ------ Campbell(47013)    2    0    0
------- Hamilton(47065)    28    1    0
+------ Hamilton(47065)    30    1    0
 ------ Jefferson(47089)    4    0    0
 ------ Rutherford(47149)    27    0    0
 ------ Sevier(47155)    3    0    0
@@ -693,7 +694,7 @@
 ------ Macon(47111)    1    0    0
 ------ Meigs(47121)    1    0    0
 ------ Unicoi(47171)    1    0    0
----- CT    1012    19    0
+---- CT    1012    21    0
 ------ Fairfield(09001)    607    12    0
 ------ New Haven(09009)    156    2    0
 ------ Hartford(09003)    138    2    0
@@ -823,7 +824,7 @@
 ------ Amherst(51009)    1    0    0
 ------ Bedford(51019)    3    0    0
 ------ Culpeper(51047)    2    0    0
------- Fluvanna(51065)    1    0    0
+------ Fluvanna(51065)    3    0    0
 ------ Louisa(51109)    4    0    0
 ------ City of Danville(51590)    2    0    0
 ------ Alleghany(51005)    1    0    0
@@ -1541,7 +1542,7 @@
 ------ New Castle(10003)    86    1    0
 ------ Sussex(10005)    27    0    0
 ------ Kent(10001)    17    0    0
----- MO    507    8    5
+---- MO    508    8    5
 ------ Greene(29077)    25    3    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    29    1    0
@@ -1583,6 +1584,7 @@
 ------ Benton(29015)    1    0    0
 ------ Bollinger(29017)    1    0    0
 ------ Carter(29035)    1    0    0
+------ Stoddard(29207)    1    0    0
 ---- HI    95    1    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -2384,7 +2386,7 @@
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
--- Ireland    1564    9    5
+-- Ireland    1819    19    5
 -- Luxembourg    1453    9    6
 -- Ecuador    1382    34    3
 -- Chile    1306    4    22
@@ -2457,7 +2459,7 @@
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Senegal    105    0    9
 -- Cambodia    98    0    10
--- Afghanistan    94    2    2
+-- Afghanistan    94    4    2
 -- Belarus    86    0    29
 -- Palestine    86    1    17
 -- Mauritius    81    2    0
@@ -2470,7 +2472,7 @@
 -- Montenegro    69    1    0
 -- Cuba    67    1    1
 -- Martinique    66    1    0
--- Trinidad and Tobago    61    1    1
+-- Trinidad and Tobago    65    1    1
 -- Liechtenstein    56    0    0
 -- Honduras    52    1    0
 -- Congo, Democratic Republic of the    48    2    0
