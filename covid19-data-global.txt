@@ -2259,7 +2259,7 @@
 ---- Yukon    3    0    0
 -- Norway    3100    14    6
 -- Portugal    2995    43    22
--- Australia    2799    12    170
+-- Australia    2799    13    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
 ---- Queensland    443    0    8
@@ -2318,7 +2318,7 @@
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
 -- Malaysia    1796    21    199
--- Czechia    1654    6    10
+-- Czechia    1775    6    10
 -- Ireland    1564    9    5
 -- Luxembourg    1333    8    6
 -- Ecuador    1211    29    3
@@ -2329,12 +2329,12 @@
 -- Romania    906    17    86
 -- Saudi Arabia    900    2    29
 -- Finland    880    3    10
--- Greece    821    22    36
+-- Russian Federation    840    3    38
+-- Greece    821    23    36
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
--- India    678    13    43
--- Russian Federation    658    3    29
+-- India    681    13    43
 -- Philippines    636    38    26
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
@@ -2342,11 +2342,11 @@
 -- Qatar    537    0    41
 -- Slovenia    528    5    10
 -- Argentina    502    8    52
+-- Croatia    481    1    22
 -- Peru    480    9    1
 -- Mexico    475    6    4
 -- Colombia    470    4    8
 -- Egypt    456    21    95
--- Croatia    442    1    22
 -- Bahrain    419    4    190
 -- Hong Kong    411    4    102
 -- Estonia    404    1    8
@@ -2374,11 +2374,11 @@
 -- North Macedonia    177    3    1
 -- Tunisia    173    5    2
 -- Jordan    172    0    1
+-- Ukraine    156    5    8
 -- Moldova, Republic of    149    1    2
 -- Viet Nam    148    0    17
 -- Albania    146    5    17
 -- Burkina Faso    146    4    10
--- Ukraine    145    5    8
 -- Faroe Islands    140    0    47
 -- Cyprus    132    3    3
 -- Malta    129    0    2
@@ -2482,6 +2482,7 @@
 -- Mauritania    2    0    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
+-- Somalia    2    0    0
 -- Nicaragua    2    0    0
 -- Belize    2    0    0
 -- Mali    2    0    0
@@ -2490,7 +2491,6 @@
 -- Virgin Islands, British    2    0    0
 -- Saint Vincent and the Grenadines    1    0    0
 -- Guernsey    1    0    0
--- Somalia    1    0    0
 -- Montserrat    1    0    0
 -- Papua New Guinea    1    0    0
 -- Timor-Leste    1    0    0
