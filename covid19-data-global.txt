@@ -2244,7 +2244,7 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3250    14    6
+-- Norway    3279    14    6
 -- Sweden    2840    70    16
 -- Australia    2806    13    170
 ---- New South Wales    1029    7    4
@@ -2271,7 +2271,7 @@
 ---- Nagano    5    0    0
 ---- Tochigi    10    0    0
 ---- Kumamoto    8    0    0
----- Saitama    62    1    0
+---- Saitama    67    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    9    0    0
 ---- Tokyo    259    4    0
@@ -2279,15 +2279,15 @@
 ---- Kyoto    31    0    2
 ---- Osaka    156    2    1
 ---- Chiba    56    0    0
----- Kanagawa    87    4    1
+---- Kanagawa    93    4    1
 ---- Shizuoka    3    0    0
----- Aichi    156    18    2
+---- Aichi    157    18    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    6    0    1
 ---- Ehime    3    0    0
----- hyogo    119    6    0
+---- hyogo    120    6    0
 ---- oita    25    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
@@ -2314,12 +2314,12 @@
 -- Thailand    1045    4    88
 -- Romania    1029    18    94
 -- Saudi Arabia    1012    3    33
--- Finland    928    5    10
+-- Finland    958    5    10
 -- Indonesia    893    78    35
 -- Russian Federation    840    3    38
 -- Greece    821    23    36
 -- Iceland    802    5    68
--- India    716    14    45
+-- India    718    14    45
 -- South Africa    709    0    12
 -- Philippines    707    45    28
 -- Singapore    683    2    172
@@ -2334,16 +2334,16 @@
 -- Mexico    475    6    4
 -- Colombia    470    4    8
 -- Bahrain    457    4    204
+-- Serbia    457    6    15
 -- Egypt    456    21    95
 -- Hong Kong    453    4    110
 -- Dominican Republic    392    10    3
--- Serbia    384    6    15
 -- Iraq    382    36    105
 -- Lebanon    368    6    20
 -- United Arab Emirates    333    2    52
 -- Algeria    302    21    65
 -- Lithuania    290    4    1
--- Armenia    290    0    18
+-- Armenia    290    1    18
 -- New Zealand    283    0    27
 -- Hungary    261    10    28
 -- Taiwan    252    2    29
@@ -2357,9 +2357,9 @@
 -- San Marino    208    21    4
 -- North Macedonia    201    3    3
 -- Costa Rica    201    2    2
+-- Tunisia    200    6    2
 -- Bosnia and Herzegovina    185    3    2
 -- Albania    174    6    17
--- Tunisia    173    6    2
 -- Jordan    172    0    1
 -- Ukraine    162    5    8
 -- Viet Nam    153    0    17
@@ -2418,13 +2418,13 @@
 -- Aruba    19    0    1
 -- Barbados    18    0    0
 -- Virgin Islands, U.S.    17    0    0
+-- Zambia    16    0    0
 -- New Caledonia    14    0    0
 -- Uganda    14    0    0
 -- Maldives    13    0    8
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
 -- Ethiopia    12    0    4
--- Zambia    12    0    0
 -- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
 -- Djibouti    11    0    0
