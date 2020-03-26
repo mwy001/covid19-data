@@ -481,8 +481,8 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    69238    1058    619
----- NY    33030    366    0
+-- United States of America    69242    1058    619
+---- NY    33033    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
 ------ Suffolk(36103)    2260    20    0
@@ -523,7 +523,7 @@
 ------ Fulton(36035)    1    0    0
 ------ Jefferson(36045)    2    0    0
 ------ Wayne(36117)    7    0    0
------- Steuben(36101)    8    0    0
+------ Steuben(36101)    11    0    0
 ------ Columbia(36021)    19    0    0
 ------ Livingston(36051)    3    0    0
 ------ Cortland(36023)    3    0    0
@@ -1966,7 +1966,7 @@
 ------ New Castle(10003)    79    0    0
 ------ Sussex(10005)    26    0    0
 ------ Kent(10001)    14    0    0
----- MO    380    8    5
+---- MO    381    8    5
 ------ Greene(29077)    23    3    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    24    1    0
@@ -1995,7 +1995,7 @@
 ------ Lafayette(29107)    2    0    0
 ------ Taney(29213)    1    1    0
 ------ Jefferson(29099)    5    1    0
------- Franklin(29071)    3    0    0
+------ Franklin(29071)    4    0    0
 ------ Pemiscot(29155)    1    0    0
 ------ Randolph(29175)    1    0    0
 ------ Cape Girardeau(29031)    3    0    0
@@ -2332,7 +2332,7 @@
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
--- India    665    13    43
+-- India    673    13    43
 -- Russian Federation    658    3    29
 -- Philippines    636    38    26
 -- Singapore    631    2    160
