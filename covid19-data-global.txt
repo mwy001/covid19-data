@@ -2256,9 +2256,9 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3084    14    6
+-- Norway    3100    14    6
 -- Portugal    2995    43    22
--- Australia    2728    12    170
+-- Australia    2766    12    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
 ---- Queensland    443    0    8
@@ -2324,7 +2324,7 @@
 -- Chile    1142    3    22
 -- Pakistan    1093    8    21
 -- Poland    1051    14    13
--- Thailand    934    4    70
+-- Thailand    1045    4    70
 -- Romania    906    17    86
 -- Saudi Arabia    900    2    29
 -- Finland    880    3    10
@@ -2358,9 +2358,9 @@
 -- New Zealand    283    0    27
 -- Lithuania    274    4    1
 -- Armenia    265    0    16
+-- Hungary    261    10    28
 -- Bulgaria    242    3    4
 -- Taiwan    235    2    29
--- Hungary    226    10    21
 -- Morocco    225    6    7
 -- Latvia    221    0    1
 -- Uruguay    217    0    0
@@ -2417,7 +2417,7 @@
 -- Mayotte    36    0    0
 -- Guam    33    1    0
 -- Monaco    31    0    1
--- Macao    30    0    10
+-- Macao    31    0    10
 -- French Guiana    28    0    6
 -- Kenya    28    0    1
 -- Jamaica    26    1    2
