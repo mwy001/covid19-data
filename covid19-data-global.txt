@@ -482,7 +482,7 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    69254    1058    619
+-- United States of America    69274    1058    619
 ---- NY    33033    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -574,7 +574,7 @@
 ------ Douglas(53017)    2    0    0
 ------ Okanogan(53047)    1    0    0
 ------ Ferry(53019)    1    0    0
----- CA    3169    67    19
+---- CA    3172    67    19
 ------ Santa Clara(06085)    459    17    0
 ------ Los Angeles(06037)    812    13    0
 ------ San Mateo(06081)    165    5    0
@@ -615,7 +615,7 @@
 ------ Butte(06007)    4    0    0
 ------ El Dorado(06017)    3    0    0
 ------ Yuba(06115)    3    0    0
------- Napa(06055)    3    0    0
+------ Napa(06055)    6    0    0
 ------ Merced(06047)    2    0    0
 ------ Inyo(06027)    1    0    0
 ------ Sutter(06101)    2    0    0
@@ -924,7 +924,7 @@
 ------ Wilkes(13317)    1    0    0
 ------ Long(13183)    1    0    0
 ------ Ware(13299)    1    0    0
----- TX    1347    17    15
+---- TX    1353    17    15
 ------ Dallas(48113)    247    7    0
 ------ Travis(48453)    119    0    0
 ------ Harris(48201)    185    1    0
@@ -939,7 +939,7 @@
 ------ Hays(48209)    10    0    0
 ------ Brazoria(48039)    33    0    0
 ------ Galveston(48167)    27    0    0
------- Lubbock(48303)    13    0    0
+------ Lubbock(48303)    18    0    0
 ------ Matagorda(48321)    6    1    0
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    21    0    0
@@ -1534,7 +1534,7 @@
 ------ Marion(45067)    1    0    0
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    1    0    0
----- AL    439    1    0
+---- AL    440    1    0
 ------ Jefferson(01073)    141    0    0
 ------ Shelby(01117)    45    0    0
 ------ Lee(01081)    44    0    0
@@ -1560,7 +1560,7 @@
 ------ Houston(01069)    2    0    0
 ------ Tallapoosa(01123)    4    0    0
 ------ Morgan(01103)    7    0    0
------- Autauga(01001)    4    0    0
+------ Autauga(01001)    5    0    0
 ------ Pickens(01107)    1    0    0
 ------ Pike(01109)    1    0    0
 ------ Etowah(01055)    3    0    0
@@ -1650,7 +1650,7 @@
 ------ Jasper(18073)    1    0    0
 ------ Rush(18139)    1    0    0
 ------ De Kalb(18033)    1    0    0
----- IA    146    1    0
+---- IA    148    1    0
 ------ Johnson(19103)    43    0    0
 ------ Dallas(19049)    7    0    0
 ------ Allamakee(19005)    7    0    0
@@ -1683,6 +1683,7 @@
 ------ Warren(19181)    1    0    0
 ------ Benton(19011)    2    0    0
 ------ Des Moines(19057)    1    0    0
+------ Page(19145)    1    0    0
 ---- KY    198    6    2
 ------ Jefferson(21111)    40    2    0
 ------ Fayette(21067)    28    1    0
@@ -2071,9 +2072,9 @@
 ------ Foster(38031)    1    0    0
 ------ Stark(38089)    2    0    0
 ---- AK    59    1    0
------- Fairbanks North Star(02090)    10    0    0
------- Anchorage(02020)    25    0    0
------- Ketchikan Gateway(02130)    8    0    0
+------ Fairbanks North Star(02090)    11    0    0
+------ Anchorage(02020)    28    0    0
+------ Ketchikan Gateway(02130)    11    0    0
 ------ Juneau(02110)    2    0    0
 ------ Kenai Peninsula(02122)    4    0    0
 ---- WV    82    0    0
@@ -2094,7 +2095,7 @@
 ------ Marion(54049)    1    0    0
 ------ Ohio(54069)    2    0    0
 ------ Raleigh(54081)    1    0    0
----- GU    37    1    0
+---- GU    45    1    0
 ------ Guam(66010)    37    1    0
 ---- PR    64    2    0
 ---- VI    17    0    0
@@ -2195,7 +2196,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11593    171    131
+-- Switzerland    11593    172    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2228,10 +2229,10 @@
 -- Netherlands    7431    434    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    6398    49    112
 -- Belgium    6235    220    675
--- Austria    6001    42    112
 -- Portugal    3544    60    43
--- Canada    3409    36    320
+-- Canada    3412    36    320
 ---- British Columbia    659    14    4
 ---- Ontario    688    12    6
 ---- Alberta    419    2    0
@@ -2256,7 +2257,7 @@
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
 -- Israel    2666    8    68
--- Brazil    2567    61    6
+-- Brazil    2589    61    6
 -- Turkey    2433    59    26
 -- Malaysia    2031    23    215
 -- Denmark    1862    41    36
@@ -2309,7 +2310,7 @@
 -- Luxembourg    1333    8    6
 -- Chile    1306    4    22
 -- Ecuador    1211    29    3
--- Pakistan    1128    8    21
+-- Pakistan    1130    9    21
 -- Poland    1120    15    13
 -- Thailand    1045    4    88
 -- Romania    1029    18    94
@@ -2334,7 +2335,7 @@
 -- Mexico    475    6    4
 -- Colombia    470    4    8
 -- Bahrain    457    4    204
--- Serbia    457    6    15
+-- Serbia    457    7    15
 -- Egypt    456    21    95
 -- Hong Kong    453    4    110
 -- Dominican Republic    392    10    3
@@ -2362,7 +2363,7 @@
 -- Albania    174    6    17
 -- Jordan    172    0    1
 -- Ukraine    162    5    8
--- Viet Nam    153    0    17
+-- Viet Nam    153    0    20
 -- Moldova, Republic of    149    1    2
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
@@ -2381,6 +2382,7 @@
 -- Belarus    86    0    29
 -- Palestine    86    1    17
 -- Afghanistan    84    2    2
+-- Mauritius    81    2    0
 -- Côte d'Ivoire    80    0    2
 -- Georgia    79    0    10
 -- Cameroon    75    1    2
@@ -2392,7 +2394,6 @@
 -- Trinidad and Tobago    60    1    1
 -- Cuba    57    1    1
 -- Honduras    52    0    0
--- Mauritius    52    2    0
 -- Liechtenstein    51    0    0
 -- Congo, Democratic Republic of the    48    2    0
 -- Bangladesh    44    5    11
