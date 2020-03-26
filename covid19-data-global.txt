@@ -1,4 +1,4 @@
--- China    82034    3293    74200
+-- China    82034    3293    74204
 ---- 天津    151    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -46,7 +46,7 @@
 ------ 天门    496    15    481
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
----- 香港    453    4    106
+---- 香港    453    4    110
 ---- 上海    451    5    331
 ------ 境外输入    112    0    4
 ------ 宝山区    22    1    19
@@ -2119,7 +2119,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    39572    224    3959
+-- Germany    40421    229    3959
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2244,7 +2244,8 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3246    14    6
+-- Norway    3250    14    6
+-- Sweden    2840    70    16
 -- Australia    2806    13    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
@@ -2254,11 +2255,10 @@
 ---- Tasmania    36    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
--- Sweden    2735    66    16
 -- Israel    2666    8    68
--- Brazil    2563    60    6
+-- Brazil    2567    61    6
 -- Turkey    2433    59    26
--- Malaysia    2031    23    199
+-- Malaysia    2031    23    215
 -- Denmark    1862    41    36
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2307,8 +2307,8 @@
 -- Czechia    1775    6    10
 -- Ireland    1564    9    5
 -- Luxembourg    1333    8    6
+-- Chile    1306    4    22
 -- Ecuador    1211    29    3
--- Chile    1142    3    22
 -- Pakistan    1128    8    21
 -- Poland    1120    15    13
 -- Thailand    1045    4    88
@@ -2322,7 +2322,7 @@
 -- India    716    14    45
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- Singapore    631    2    160
+-- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
 -- Estonia    538    1    8
@@ -2376,7 +2376,7 @@
 -- Kazakhstan    109    3    2
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Senegal    105    0    9
--- Sri Lanka    102    0    7
+-- Sri Lanka    104    0    7
 -- Cambodia    98    0    10
 -- Belarus    86    0    29
 -- Palestine    86    1    17
