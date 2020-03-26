@@ -477,8 +477,8 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    66426    957    361
----- NY    30851    285    0
+-- United States of America    68637    1039    593
+---- NY    33006    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
 ------ Suffolk(36103)    2260    20    0
@@ -513,7 +513,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    2    0    0
 ------ Washington(36115)    4    0    0
------- New York(36061)    17856    199    0
+------ New York(36061)    20011    280    0
 ------ Niagara(36063)    12    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
@@ -535,7 +535,7 @@
 ------ St Lawrence(36089)    1    0    0
 ------ Chautauqua(36013)    2    0    0
 ------ Franklin(36033)    1    0    0
----- WA    2591    133    243
+---- WA    2592    133    373
 ------ King(53033)    1359    101    0
 ------ Snohomish(53061)    634    16    0
 ------ Pierce(53053)    155    2    0
@@ -559,7 +559,7 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    7    0    0
 ------ Mason(53045)    2    0    0
------- Benton(53005)    12    3    0
+------ Benton(53005)    13    3    0
 ------ Clallam(53009)    4    0    0
 ------ San Juan(53055)    1    0    0
 ------ Stevens(53065)    1    0    0
@@ -567,7 +567,7 @@
 ------ Whitman(53075)    2    0    0
 ------ Adams(53001)    1    0    0
 ------ Douglas(53017)    2    0    0
----- CA    3018    66    13
+---- CA    3023    66    13
 ------ Santa Clara(06085)    459    17    0
 ------ Los Angeles(06037)    812    13    0
 ------ San Mateo(06081)    165    5    0
@@ -598,7 +598,7 @@
 ------ Santa Barbara(06083)    26    0    0
 ------ Amador(06005)    2    0    0
 ------ Del Norte(06015)    1    -1    0
------- Humboldt(06023)    5    0    0
+------ Humboldt(06023)    10    0    0
 ------ Kern(06029)    24    1    0
 ------ Madera(06039)    6    0    0
 ------ Nevada(06057)    4    0    0
@@ -1018,7 +1018,7 @@
 ------ Wilson(48493)    1    0    0
 ------ Young(48503)    1    0    0
 ------ Val Verde(48465)    1    0    0
------- San Patricio(48409)    1    0    0
+------ San Patricio(48409)    2    0    0
 ------ Calhoun(48057)    2    0    0
 ------ Nacogdoches(48347)    1    0    0
 ------ Reeves(48389)    1    0    0
@@ -1300,7 +1300,7 @@
 ------ Nottoway(51135)    1    0    0
 ------ Pittsylvania(51143)    1    0    0
 ------ Shenandoah(51171)    3    0    0
----- NC    605    2    0
+---- NC    611    2    0
 ------ Wake(37183)    84    0    0
 ------ Durham(37063)    74    0    0
 ------ Mecklenburg(37119)    170    0    0
@@ -1309,7 +1309,7 @@
 ------ Forsyth(37067)    16    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    10    0    0
------- Cabarrus(37025)    12    1    0
+------ Cabarrus(37025)    18    2    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    22    0    0
 ------ Iredell(37097)    11    0    0
@@ -1413,7 +1413,7 @@
 ------ Luce(26095)    1    0    0
 ------ Sanilac(26151)    2    0    0
 ------ Van Buren(26159)    2    0    0
----- MN    287    1    24
+---- MN    287    1    122
 ------ Hennepin(27053)    111    0    0
 ------ Ramsey(27123)    27    1    0
 ------ Dakota(27037)    21    0    0
@@ -1586,8 +1586,8 @@
 ------ Hancock(23009)    1    0    0
 ------ Sagadahoc(23023)    4    0    0
 ------ Waldo(23027)    1    0    0
----- DC    187    3    17
------- District of Columbia(11001)    187    2    0
+---- DC    231    3    21
+------ District of Columbia(11001)    231    3    0
 ---- IN    480    14    0
 ------ Marion(18097)    226    6    0
 ------ Hendricks(18063)    15    0    0
@@ -2387,10 +2387,10 @@
 -- Rwanda    41    0    0
 -- Bangladesh    39    5    7
 -- Puerto Rico    39    2    1
+-- Bolivia, Plurinational State of    38    0    0
 -- Paraguay    37    3    0
 -- Mayotte    36    0    0
 -- Guam    33    1    0
--- Bolivia, Plurinational State of    32    0    0
 -- Monaco    31    0    1
 -- Macao    30    0    10
 -- French Guiana    28    0    6
@@ -2410,6 +2410,7 @@
 -- Uganda    14    0    0
 -- Maldives    13    0    8
 -- Tanzania, United Republic of    13    0    0
+-- El Salvador    13    0    0
 -- Ethiopia    12    0    4
 -- Zambia    12    0    0
 -- Saint Martin (French part)    11    0    0
@@ -2417,7 +2418,6 @@
 -- Dominica    11    0    0
 -- Mongolia    10    0    0
 -- Equatorial Guinea    9    0    0
--- El Salvador    9    0    0
 -- Cayman Islands    8    1    0
 -- Suriname    8    0    0
 -- Haiti    8    0    0
