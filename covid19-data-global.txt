@@ -604,7 +604,6 @@
 ------ Monterey(06053)    24    1    0
 ------ Santa Barbara(06083)    26    0    0
 ------ Amador(06005)    2    0    0
------- Del Norte(06015)    1    -1    0
 ------ Humboldt(06023)    10    0    0
 ------ Kern(06029)    24    1    0
 ------ Madera(06039)    7    0    0
@@ -618,21 +617,7 @@
 ------ Yuba(06115)    3    0    0
 ------ Napa(06055)    3    0    0
 ------ Merced(06047)    2    0    0
------- Sutter(06101)    3    0    0
 ------ Inyo(06027)    1    0    0
------- Alpine(06003)    -1    -1    0
------- Colusa(06011)    -1    -1    0
------- Glenn(06021)    -1    -1    0
------- Kings(06031)    -1    -1    0
------- Lake(06033)    -1    -1    0
------- Lassen(06035)    -1    -1    0
------- Mariposa(06043)    -1    -1    0
------- Modoc(06049)    -1    -1    0
------- Plumas(06063)    -1    -1    0
------- Sierra(06091)    -1    -1    0
------- Tehama(06103)    -1    -1    0
------- Trinity(06105)    -1    -1    0
------- Tuolumne(06109)    -1    -1    0
 ---- NJ    4407    90    1
 ------ Bergen(34003)    819    6    0
 ------ Essex(34013)    381    4    0
@@ -2133,7 +2118,7 @@
 ---- Melilla    38    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    38609    213    3547
+-- Germany    39312    222    3547
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2150,7 +2135,7 @@
 ---- Baden-Württemberg    7252    56    186
 ---- Saxony-Anhalt    420    1    2
 ---- Saarland    466    3    21
--- Iran, Islamic Republic of    27017    2077    9625
+-- Iran, Islamic Republic of    29406    2234    9625
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2209,7 +2194,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    10909    153    131
+-- Switzerland    11027    154    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2323,7 +2308,7 @@
 -- Luxembourg    1333    8    6
 -- Ecuador    1211    29    3
 -- Chile    1142    3    22
--- Pakistan    1102    8    21
+-- Pakistan    1106    8    21
 -- Poland    1085    15    13
 -- Thailand    1045    4    88
 -- Romania    906    17    86
@@ -2335,7 +2320,7 @@
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- India    686    13    43
+-- India    693    13    43
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
@@ -2363,9 +2348,9 @@
 -- Taiwan    252    2    29
 -- Latvia    244    0    1
 -- Bulgaria    243    3    4
+-- Slovakia    226    1    7
 -- Morocco    225    6    7
 -- Uruguay    217    0    0
--- Slovakia    216    1    7
 -- Kuwait    208    0    49
 -- San Marino    208    21    4
 -- Costa Rica    201    2    2
@@ -2380,7 +2365,7 @@
 -- Albania    146    6    17
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
--- Cyprus    132    3    3
+-- Cyprus    132    3    4
 -- Malta    129    0    2
 -- Réunion    115    0    1
 -- Brunei Darussalam    109    0    2
