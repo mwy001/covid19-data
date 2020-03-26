@@ -460,7 +460,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
--- Italy    80539    8215    10361
+-- Italy    80589    8215    10361
 ---- Abruzzo    946    46    21
 ---- Aosta Valley    408    19    2
 ---- Apulia    1182    44    21
@@ -482,8 +482,8 @@
 ---- Liguria    2567    231    260
 ---- Veneto    6935    216    508
 ---- Bolzano    906    38    44
--- United States of America    77347    1326    619
----- NY    37678    385    0
+-- United States of America    79912    1326    619
+---- NY    37769    385    0
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
 ------ Suffolk(36103)    2735    20    0
@@ -493,37 +493,37 @@
 ------ Orange(36071)    751    1    0
 ------ Monroe(36055)    142    3    0
 ------ Erie(36029)    146    1    0
------- Saratoga(36091)    64    0    0
------- Ulster(36111)    65    0    0
------- Schenectady(36093)    55    1    0
+------ Saratoga(36091)    73    0    0
+------ Ulster(36111)    78    0    0
+------ Schenectady(36093)    62    1    0
 ------ Tompkins(36109)    23    0    0
 ------ Allegany(36003)    2    0    0
------- Greene(36039)    4    0    0
------- Onondaga(36067)    81    1    0
------- Putnam(36079)    84    0    0
------- Broome(36007)    11    2    0
------- Clinton(36019)    10    0    0
------- Delaware(36025)    5    0    0
+------ Greene(36039)    5    0    0
+------ Onondaga(36067)    83    1    0
+------ Putnam(36079)    94    0    0
+------ Broome(36007)    16    2    0
+------ Clinton(36019)    11    0    0
+------ Delaware(36025)    7    0    0
 ------ Essex(36031)    5    0    0
------- Genesee(36037)    2    0    0
------- Herkimer(36043)    5    0    0
------- Montgomery(36057)    4    0    0
------- Oneida(36065)    10    0    0
------- Ontario(36069)    9    0    0
+------ Genesee(36037)    4    0    0
+------ Herkimer(36043)    7    0    0
+------ Montgomery(36057)    5    0    0
+------ Oneida(36065)    13    0    0
+------ Ontario(36069)    11    0    0
 ------ Rensselaer(36083)    38    0    0
------- Sullivan(36105)    39    0    0
------- Tioga(36107)    1    0    0
------- Wyoming(36121)    4    1    0
+------ Sullivan(36105)    53    0    0
+------ Tioga(36107)    2    0    0
+------ Wyoming(36121)    7    1    0
 ------ Chenango(36017)    4    0    0
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    2    0    0
 ------ Washington(36115)    4    0    0
 ------ New York(36061)    21873    280    0
------- Niagara(36063)    12    0    0
+------ Niagara(36063)    14    0    0
 ------ Schoharie(36095)    2    0    0
 ------ Fulton(36035)    1    0    0
------- Jefferson(36045)    2    0    0
------- Wayne(36117)    7    0    0
+------ Jefferson(36045)    3    0    0
+------ Wayne(36117)    8    0    0
 ------ Steuben(36101)    11    0    0
 ------ Columbia(36021)    19    0    0
 ------ Livingston(36051)    3    0    0
@@ -532,12 +532,12 @@
 ------ Bronx(36005)    1411    0    0
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
------- Madison(36053)    7    1    0
------- Oswego(36075)    2    0    0
------- Chemung(36015)    6    0    0
------- Otsego(36077)    2    0    0
+------ Madison(36053)    9    1    0
+------ Oswego(36075)    4    0    0
+------ Chemung(36015)    7    0    0
+------ Otsego(36077)    3    0    0
 ------ Cayuga(36011)    2    0    0
------- St Lawrence(36089)    1    0    0
+------ St Lawrence(36089)    2    0    0
 ------ Chautauqua(36013)    2    0    0
 ------ Franklin(36033)    1    0    0
 ---- WA    2659    133    373
@@ -619,7 +619,7 @@
 ------ Merced(06047)    2    0    0
 ------ Inyo(06027)    1    0    0
 ------ Sutter(06101)    2    0    0
----- NJ    4407    90    1
+---- NJ    6876    90    1
 ------ Bergen(34003)    819    6    0
 ------ Essex(34013)    381    4    0
 ------ Hudson(34017)    260    1    0
@@ -1261,11 +1261,11 @@
 ------ Lincoln(41041)    1    0    0
 ---- VA    460    13    2
 ------ Arlington(51013)    55    0    0
------- Fairfax(51059)    77    2    0
------- Loudoun(51107)    20    0    0
+------ Fairfax(51059)    79    2    0
+------ Loudoun(51107)    28    0    0
 ------ Chesterfield(51041)    12    0    0
 ------ Prince William(51153)    32    0    0
------- Henrico(51087)    20    2    0
+------ Henrico(51087)    21    2    0
 ------ Goochland(51075)    3    0    0
 ------ Hanover(51085)    2    0    0
 ------ Prince Edward(51147)    2    0    0
@@ -1316,7 +1316,8 @@
 ------ Shenandoah(51171)    3    0    0
 ------ City of Fredericksburg(51630)    1    0    0
 ------ City of Manassas(51683)    2    0    0
----- NC    694    3    0
+------ Warren(51187)    1    0    0
+---- NC    699    3    0
 ------ Wake(37183)    84    0    0
 ------ Durham(37063)    84    0    0
 ------ Mecklenburg(37119)    204    0    0
@@ -1349,7 +1350,7 @@
 ------ Pasquotank(37139)    2    0    0
 ------ Alamance(37001)    4    0    0
 ------ Franklin(37069)    5    0    0
------- Catawba(37035)    4    0    0
+------ Catawba(37035)    9    0    0
 ------ Lee(37105)    1    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    2    0    0
@@ -1688,7 +1689,7 @@
 ------ Orange(18117)    1    0    0
 ------ Posey(18129)    1    0    0
 ------ Warren(18171)    1    0    0
----- IA    179    1    0
+---- IA    180    1    0
 ------ Johnson(19103)    49    0    0
 ------ Dallas(19049)    7    0    0
 ------ Allamakee(19005)    7    0    0
@@ -2011,7 +2012,7 @@
 ------ New Castle(10003)    86    1    0
 ------ Sussex(10005)    27    0    0
 ------ Kent(10001)    17    0    0
----- MO    386    8    5
+---- MO    388    8    5
 ------ Greene(29077)    23    3    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    29    1    0
@@ -2046,7 +2047,7 @@
 ------ Cape Girardeau(29031)    3    0    0
 ------ Cooper(29053)    1    0    0
 ------ Montgomery(29139)    1    0    0
------- Newton(29145)    1    0    0
+------ Newton(29145)    3    0    0
 ------ Ralls(29173)    1    0    0
 ------ Shelby(29205)    1    0    0
 ------ McDonald(29119)    1    0    0
@@ -2229,7 +2230,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- France    25600    1333    3900
+-- France    29155    1696    4948
 ---- France    7652    148    12
 ---- St Martin    11    0    0
 ---- Saint Barthelemy    3    0    0
@@ -2257,7 +2258,7 @@
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
 -- Switzerland    11712    191    131
--- United Kingdom of Great Britain and Northern Ireland    9849    477    140
+-- United Kingdom of Great Britain and Northern Ireland    11658    578    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2382,15 +2383,15 @@
 -- Greece    892    26    36
 -- Russian Federation    840    3    38
 -- Iceland    802    5    68
--- India    719    16    45
+-- India    722    16    45
 -- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Peru    580    9    14
 -- Slovenia    577    6    10
 -- Panama    558    8    2
+-- Qatar    549    0    43
 -- Estonia    538    1    8
--- Qatar    537    0    41
 -- Argentina    502    8    52
 -- Croatia    495    2    22
 -- Dominican Republic    488    10    3
