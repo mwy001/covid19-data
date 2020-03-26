@@ -618,6 +618,7 @@
 ------ Napa(06055)    3    0    0
 ------ Merced(06047)    2    0    0
 ------ Inyo(06027)    1    0    0
+------ Sutter(06101)    2    0    0
 ---- NJ    4407    90    1
 ------ Bergen(34003)    819    6    0
 ------ Essex(34013)    381    4    0
@@ -2118,7 +2119,7 @@
 ---- Melilla    38    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    39312    222    3547
+-- Germany    39355    222    3547
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2135,7 +2136,7 @@
 ---- Baden-Württemberg    7252    56    186
 ---- Saxony-Anhalt    420    1    2
 ---- Saarland    466    3    21
--- Iran, Islamic Republic of    29406    2234    9625
+-- Iran, Islamic Republic of    29406    2234    10457
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2194,7 +2195,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11027    154    131
+-- Switzerland    11125    164    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2227,8 +2228,8 @@
 -- Netherlands    6438    357    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Belgium    6235    220    675
 -- Austria    6001    42    9
--- Belgium    4937    178    547
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
 ---- Ontario    688    12    6
@@ -2242,7 +2243,7 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3100    14    6
+-- Norway    3191    14    6
 -- Portugal    2995    43    22
 -- Australia    2799    13    170
 ---- New South Wales    1029    7    4
@@ -2262,22 +2263,22 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Japan    1848    45    310
----- Hokkaido    167    7    100
+---- Hokkaido    168    7    100
 ---- kochi    12    0    0
----- Miyagi    1    0    0
+---- Miyagi    2    0    0
 ---- Niigata    29    0    0
 ---- Gifu    14    0    0
 ---- Nagano    5    0    0
 ---- Tochigi    10    0    0
 ---- Kumamoto    8    0    0
----- Saitama    60    1    0
+---- Saitama    62    1    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    9    0    0
----- Tokyo    212    4    0
+---- Tokyo    259    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    31    0    2
 ---- Osaka    149    2    1
----- Chiba    53    0    0
+---- Chiba    56    0    0
 ---- Kanagawa    87    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    154    18    2
@@ -2288,9 +2289,9 @@
 ---- Ehime    3    0    0
 ---- hyogo    119    6    0
 ---- oita    25    0    0
----- Yamaguchi    5    0    0
+---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
----- Shiga    5    0    0
+---- Shiga    6    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    4    0    0
 ---- Hiroshima    4    0    0
@@ -2368,11 +2369,11 @@
 -- Cyprus    132    3    4
 -- Malta    129    0    2
 -- Réunion    115    0    1
--- Brunei Darussalam    109    0    2
+-- Brunei Darussalam    114    0    5
+-- Oman    109    0    23
 -- Venezuela, Bolivarian Republic of    106    0    15
+-- Senegal    105    0    9
 -- Sri Lanka    102    0    3
--- Oman    99    0    17
--- Senegal    99    0    9
 -- Cambodia    98    0    10
 -- Kazakhstan    97    3    2
 -- Azerbaijan    93    2    11
@@ -2394,10 +2395,10 @@
 -- Mauritius    52    2    0
 -- Liechtenstein    51    0    0
 -- Congo, Democratic Republic of the    48    2    0
+-- Bangladesh    44    5    11
 -- Kyrgyzstan    44    0    0
 -- Paraguay    41    3    0
 -- Rwanda    41    0    0
--- Bangladesh    39    5    7
 -- Puerto Rico    39    2    1
 -- Bolivia, Plurinational State of    38    0    0
 -- Mayotte    36    0    0
@@ -2409,10 +2410,10 @@
 -- Jamaica    26    1    2
 -- Gibraltar    26    0    5
 -- French Polynesia    25    0    0
+-- Isle of Man    25    0    0
 -- Guatemala    24    1    4
 -- Togo    23    0    1
 -- Guyana    23    1    0
--- Isle of Man    23    0    0
 -- Aruba    19    0    1
 -- Madagascar    19    0    0
 -- Barbados    18    0    0
@@ -2452,6 +2453,7 @@
 -- Cabo Verde    4    1    0
 -- Eritrea    4    0    0
 -- Antigua and Barbuda    3    0    0
+-- Mauritania    3    0    0
 -- Saint Lucia    3    0    0
 -- Sudan    3    1    0
 -- Saint Barthélemy    3    0    0
@@ -2464,7 +2466,6 @@
 -- Myanmar    3    0    0
 -- Lao People's Democratic Republic    3    0    0
 -- Bhutan    2    0    0
--- Mauritania    2    0    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
 -- Somalia    2    0    0
