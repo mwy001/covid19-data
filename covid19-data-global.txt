@@ -2119,7 +2119,7 @@
 ---- Melilla    38    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    39457    222    3547
+-- Germany    39502    222    3547
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2195,7 +2195,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11125    164    131
+-- Switzerland    11125    165    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2229,7 +2229,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Belgium    6235    220    675
--- Austria    6001    42    9
+-- Austria    6001    42    112
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
 ---- Ontario    688    12    6
@@ -2254,8 +2254,8 @@
 ---- Tasmania    36    0    3
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
--- Brazil    2554    59    6
--- Sweden    2526    62    16
+-- Brazil    2563    60    6
+-- Sweden    2554    64    16
 -- Israel    2495    5    66
 -- Turkey    2433    59    26
 -- Malaysia    2031    23    199
@@ -2312,8 +2312,8 @@
 -- Pakistan    1106    8    21
 -- Poland    1085    15    13
 -- Thailand    1045    4    88
--- Finland    915    4    10
--- Romania    906    17    86
+-- Romania    1029    17    94
+-- Finland    915    5    10
 -- Saudi Arabia    900    2    29
 -- Indonesia    893    78    35
 -- Russian Federation    840    3    38
@@ -2321,7 +2321,7 @@
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- India    694    13    45
+-- India    694    14    45
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
@@ -2338,9 +2338,9 @@
 -- Bahrain    419    4    190
 -- Dominican Republic    392    10    3
 -- Serbia    384    6    15
+-- Lebanon    368    6    20
 -- Iraq    346    29    103
 -- United Arab Emirates    333    2    52
--- Lebanon    333    6    20
 -- Algeria    302    21    65
 -- Lithuania    290    4    1
 -- Armenia    290    0    18
@@ -2362,8 +2362,8 @@
 -- Tunisia    173    6    2
 -- Jordan    172    0    1
 -- Ukraine    156    5    8
+-- Viet Nam    153    0    17
 -- Moldova, Republic of    149    1    2
--- Viet Nam    148    0    17
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
 -- Cyprus    132    3    4
@@ -2374,7 +2374,7 @@
 -- Kazakhstan    109    3    2
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Senegal    105    0    9
--- Sri Lanka    102    0    3
+-- Sri Lanka    102    0    7
 -- Cambodia    98    0    10
 -- Azerbaijan    93    2    11
 -- Ghana    93    4    8
@@ -2399,8 +2399,8 @@
 -- Kyrgyzstan    44    0    0
 -- Paraguay    41    3    0
 -- Rwanda    41    0    0
+-- Bolivia, Plurinational State of    39    0    0
 -- Puerto Rico    39    2    1
--- Bolivia, Plurinational State of    38    0    0
 -- Mayotte    36    0    0
 -- Guam    33    1    0
 -- Monaco    31    0    1
@@ -2436,7 +2436,7 @@
 -- Gabon    7    1    0
 -- Namibia    7    0    2
 -- Seychelles    7    0    0
--- Bermuda    7    0    0
+-- Bermuda    7    0    2
 -- Niger    7    1    0
 -- Curaçao    6    1    2
 -- Greenland    6    0    2
