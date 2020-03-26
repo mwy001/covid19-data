@@ -481,7 +481,7 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    69215    1058    616
+-- United States of America    69238    1058    619
 ---- NY    33030    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -685,7 +685,7 @@
 ------ Sarasota(12115)    32    2    0
 ------ Citrus(12017)    9    0    0
 ------ Okaloosa(12091)    18    0    0
------- Pasco(12101)    18    1    0
+------ Pasco(12101)    19    1    0
 ------ Brevard(12009)    12    0    0
 ------ Charlotte(12015)    3    0    0
 ------ Escambia(12033)    17    0    0
@@ -1966,15 +1966,15 @@
 ------ New Castle(10003)    79    0    0
 ------ Sussex(10005)    26    0    0
 ------ Kent(10001)    14    0    0
----- MO    358    8    2
+---- MO    380    8    5
 ------ Greene(29077)    23    3    0
 ------ Cass(29037)    8    0    0
------- Boone(29019)    22    1    0
+------ Boone(29019)    24    1    0
 ------ Cole(29051)    6    0    0
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    34    1    0
 ------ St Louis(29189)    129    1    0
------- St Charles(29183)    12    1    0
+------ St Charles(29183)    18    1    0
 ------ St Louis City(29510)    129    1    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    4    1    0
@@ -1988,7 +1988,7 @@
 ------ Camden(29029)    1    0    0
 ------ Moniteau(29135)    2    0    0
 ------ Perry(29157)    2    0    0
------- Platte(29165)    3    0    0
+------ Platte(29165)    7    0    0
 ------ Clay(29047)    12    0    0
 ------ Clinton(29049)    1    0    0
 ------ Callaway(29027)    2    1    0
@@ -2258,7 +2258,7 @@
 ---- Yukon    3    0    0
 -- Norway    3084    14    6
 -- Portugal    2995    43    22
--- Australia    2728    12    118
+-- Australia    2728    12    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
 ---- Queensland    443    0    8
@@ -2322,7 +2322,7 @@
 -- Luxembourg    1333    8    6
 -- Ecuador    1211    29    3
 -- Chile    1142    3    22
--- Pakistan    1063    8    21
+-- Pakistan    1093    8    21
 -- Poland    1051    14    13
 -- Thailand    934    4    70
 -- Romania    906    17    86
@@ -2332,7 +2332,7 @@
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
--- India    664    12    43
+-- India    665    13    43
 -- Russian Federation    658    3    29
 -- Philippines    636    38    26
 -- Singapore    631    2    160
@@ -2342,12 +2342,12 @@
 -- Slovenia    528    5    10
 -- Argentina    502    8    52
 -- Peru    480    9    1
+-- Mexico    475    6    4
 -- Colombia    470    4    8
 -- Egypt    456    21    95
 -- Croatia    442    1    22
 -- Bahrain    419    4    177
 -- Hong Kong    411    4    102
--- Mexico    405    5    4
 -- Estonia    404    1    8
 -- Dominican Republic    392    10    3
 -- Serbia    384    4    15
@@ -2390,9 +2390,9 @@
 -- Cambodia    98    0    10
 -- Azerbaijan    93    2    11
 -- Ghana    93    4    8
+-- Kazakhstan    88    3    2
 -- Belarus    86    0    29
 -- Afghanistan    84    2    2
--- Kazakhstan    81    3    0
 -- Côte d'Ivoire    80    0    2
 -- Georgia    75    0    10
 -- Cameroon    75    1    2
