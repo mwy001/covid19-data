@@ -2195,7 +2195,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11125    165    131
+-- Switzerland    11435    165    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2243,7 +2243,7 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3191    14    6
+-- Norway    3212    14    6
 -- Portugal    2995    43    22
 -- Australia    2799    13    170
 ---- New South Wales    1029    7    4
@@ -2309,11 +2309,11 @@
 -- Luxembourg    1333    8    6
 -- Ecuador    1211    29    3
 -- Chile    1142    3    22
--- Pakistan    1106    8    21
+-- Pakistan    1123    8    21
 -- Poland    1085    15    13
 -- Thailand    1045    4    88
 -- Romania    1029    17    94
--- Finland    915    5    10
+-- Finland    926    5    10
 -- Saudi Arabia    900    2    29
 -- Indonesia    893    78    35
 -- Russian Federation    840    3    38
@@ -2333,9 +2333,9 @@
 -- Peru    480    9    1
 -- Mexico    475    6    4
 -- Colombia    470    4    8
+-- Bahrain    457    4    204
 -- Egypt    456    21    95
 -- Hong Kong    453    4    110
--- Bahrain    419    4    190
 -- Dominican Republic    392    10    3
 -- Serbia    384    6    15
 -- Lebanon    368    6    20
@@ -2367,7 +2367,9 @@
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
 -- Cyprus    132    3    4
+-- Ghana    132    4    8
 -- Malta    129    0    2
+-- Azerbaijan    122    3    15
 -- Réunion    115    0    1
 -- Brunei Darussalam    114    0    5
 -- Oman    109    0    23
@@ -2376,8 +2378,6 @@
 -- Senegal    105    0    9
 -- Sri Lanka    102    0    7
 -- Cambodia    98    0    10
--- Azerbaijan    93    2    11
--- Ghana    93    4    8
 -- Belarus    86    0    29
 -- Palestine    86    1    17
 -- Afghanistan    84    2    2
