@@ -2241,7 +2241,7 @@
 -- Netherlands    6438    357    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5588    31    9
+-- Austria    5588    34    9
 -- Belgium    4937    178    547
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
@@ -2258,7 +2258,7 @@
 ---- Yukon    3    0    0
 -- Norway    3100    14    6
 -- Portugal    2995    43    22
--- Australia    2766    12    170
+-- Australia    2799    12    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
 ---- Queensland    443    0    8
@@ -2269,8 +2269,8 @@
 ---- Australian Capital Territory    39    0    0
 -- Brazil    2554    59    2
 -- Sweden    2526    62    16
+-- Israel    2495    5    66
 -- Turkey    2433    59    26
--- Israel    2369    5    58
 -- Denmark    1862    34    36
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2332,7 +2332,7 @@
 -- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
--- India    673    13    43
+-- India    678    13    43
 -- Russian Federation    658    3    29
 -- Philippines    636    38    26
 -- Singapore    631    2    160
@@ -2355,11 +2355,11 @@
 -- United Arab Emirates    333    2    52
 -- Lebanon    333    6    20
 -- Algeria    302    21    65
+-- Lithuania    290    4    1
+-- Armenia    290    0    18
 -- New Zealand    283    0    27
--- Lithuania    274    4    1
--- Armenia    265    0    16
 -- Hungary    261    10    28
--- Bulgaria    242    3    4
+-- Bulgaria    243    3    4
 -- Taiwan    235    2    29
 -- Morocco    225    6    7
 -- Latvia    221    0    1
@@ -2394,14 +2394,14 @@
 -- Belarus    86    0    29
 -- Afghanistan    84    2    2
 -- Côte d'Ivoire    80    0    2
--- Georgia    75    0    10
+-- Georgia    77    0    10
 -- Cameroon    75    1    2
 -- Guadeloupe    73    1    0
--- Palestine    71    1    17
+-- Palestine    73    1    17
 -- Nigeria    69    1    2
 -- Martinique    66    1    0
+-- Uzbekistan    65    0    0
 -- Trinidad and Tobago    60    1    1
--- Uzbekistan    60    0    0
 -- Cuba    57    1    1
 -- Montenegro    53    1    0
 -- Honduras    52    0    0
@@ -2438,19 +2438,19 @@
 -- El Salvador    13    0    0
 -- Ethiopia    12    0    4
 -- Zambia    12    0    0
+-- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
 -- Djibouti    11    0    0
 -- Dominica    11    0    0
--- Mongolia    10    0    0
 -- Equatorial Guinea    9    0    0
 -- Cayman Islands    8    1    0
 -- Suriname    8    0    0
 -- Haiti    8    0    0
+-- Gabon    7    1    0
 -- Namibia    7    0    2
 -- Seychelles    7    0    0
 -- Bermuda    7    0    0
 -- Niger    7    1    0
--- Gabon    6    1    0
 -- Curaçao    6    1    2
 -- Greenland    6    0    2
 -- Benin    6    0    0
