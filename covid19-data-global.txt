@@ -2099,24 +2099,24 @@
 ---- PR    51    2    0
 ---- VI    17    0    0
 -- Spain    56188    4089    7015
----- Andalusia    3010    113    71
----- Aragon    907    40    4
----- Balearic Islands    562    19    28
----- Basque Country    3271    155    466
----- Canary Islands    787    24    15
----- Cantabria    510    14    12
----- Castile and León    2940    165    213
----- Castile-La Mancha    2780    263    71
----- Catalonia    11592    672    1274
----- Community of Madrid    14597    1825    3031
----- Comunidad Foral de Navarra    1197    33    23
----- Extremadura    742    39    8
----- Galicia    1653    30    25
----- Principality of Asturias    779    25    35
----- Región de Murcia    596    8    4
----- Rioja    928    37    43
----- Valencian Community    2616    143    44
----- Melilla    38    1    0
+---- Andalusia    3406    134    77
+---- Aragon    1116    48    4
+---- Balearic Islands    660    19    39
+---- Basque Country    3946    180    621
+---- Canary Islands    787    24    18
+---- Cantabria    671    17    14
+---- Castile and León    3488    206    308
+---- Castile-La Mancha    3383    316    95
+---- Catalonia    11592    672    1697
+---- Community of Madrid    17166    2090    3882
+---- Comunidad Foral de Navarra    1411    49    35
+---- Extremadura    969    58    24
+---- Galicia    1915    3032    47
+---- Principality of Asturias    841    27    40
+---- Región de Murcia    596    8    9
+---- Rioja    995    43    48
+---- Valencian Community    3200    167    57
+---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
 -- Germany    39502    222    3547
@@ -2195,7 +2195,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11435    165    131
+-- Switzerland    11478    169    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2230,6 +2230,7 @@
 ---- Curacao    3    0    0
 -- Belgium    6235    220    675
 -- Austria    6001    42    112
+-- Portugal    3544    60    43
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
 ---- Ontario    688    12    6
@@ -2243,8 +2244,7 @@
 ---- Nova Scotia    68    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3212    14    6
--- Portugal    2995    43    22
+-- Norway    3217    14    6
 -- Australia    2799    13    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
@@ -2256,7 +2256,7 @@
 ---- Australian Capital Territory    39    0    0
 -- Brazil    2563    60    6
 -- Sweden    2554    64    16
--- Israel    2495    5    66
+-- Israel    2495    6    66
 -- Turkey    2433    59    26
 -- Malaysia    2031    23    199
 -- Denmark    1862    34    36
@@ -2277,11 +2277,11 @@
 ---- Tokyo    259    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    31    0    2
----- Osaka    149    2    1
+---- Osaka    156    2    1
 ---- Chiba    56    0    0
 ---- Kanagawa    87    4    1
 ---- Shizuoka    3    0    0
----- Aichi    154    18    2
+---- Aichi    156    18    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2321,7 +2321,7 @@
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- India    694    14    45
+-- India    695    14    45
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
@@ -2329,7 +2329,7 @@
 -- Qatar    537    0    41
 -- Slovenia    528    5    10
 -- Argentina    502    8    52
--- Croatia    481    1    22
+-- Croatia    481    2    22
 -- Peru    480    9    1
 -- Mexico    475    6    4
 -- Colombia    470    4    8
@@ -2361,7 +2361,7 @@
 -- Albania    174    6    17
 -- Tunisia    173    6    2
 -- Jordan    172    0    1
--- Ukraine    156    5    8
+-- Ukraine    162    5    8
 -- Viet Nam    153    0    17
 -- Moldova, Republic of    149    1    2
 -- Burkina Faso    146    4    10
