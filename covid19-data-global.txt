@@ -482,7 +482,7 @@
 ---- Liguria    2305    231    193
 ---- Veneto    6442    216    381
 ---- Bolzano    858    38    44
--- United States of America    69555    1058    619
+-- United States of America    69630    1058    619
 ---- NY    33037    366    0
 ------ Westchester(36119)    4691    1    0
 ------ Nassau(36059)    3285    17    0
@@ -1224,6 +1224,7 @@
 ------ Mercer(39107)    1    0    0
 ------ Pickaway(39129)    1    1    0
 ------ Wayne(39169)    1    0    0
+------ Jefferson(39081)    1    0    0
 ---- OR    266    10    0
 ------ Washington(41067)    96    2    0
 ------ Linn(41043)    25    1    0
@@ -1452,8 +1453,8 @@
 ------ Lac qui Parle(27073)    1    0    0
 ------ Goodhue(27049)    1    0    0
 ------ Winona(27169)    2    0    0
----- MD    518    4    4
------- Montgomery(24031)    127    1    0
+---- MD    583    4    4
+------ Montgomery(24031)    164    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    81    1    0
 ------ Howard(24027)    49    0    0
@@ -1464,17 +1465,17 @@
 ------ Frederick(24021)    14    0    0
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    7    0    0
------- Baltimore City(24510)    53    0    0
------- Wicomico(24045)    4    0    0
+------ Baltimore City(24510)    72    0    0
+------ Wicomico(24045)    5    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    76    2    0
+------ Prince Georges(24033)    101    2    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    2    0    0
 ------ Somerset(24039)    1    0    0
 ------ Washington(24043)    4    0    0
 ------ Cecil(24015)    4    0    0
 ------ Garrett(24023)    3    0    0
------- St Marys(24037)    2    0    0
+------ St Marys(24037)    4    0    0
 ------ Kent(24029)    1    0    0
 ---- NV    405    14    1
 ------ Clark(32003)    249    6    0
@@ -1536,22 +1537,22 @@
 ------ Marion(45067)    1    0    0
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    1    0    0
----- AL    440    1    0
+---- AL    449    1    0
 ------ Jefferson(01073)    141    0    0
------- Shelby(01117)    45    0    0
+------ Shelby(01117)    49    0    0
 ------ Lee(01081)    44    0    0
 ------ Tuscaloosa(01125)    17    0    0
 ------ Elmore(01051)    10    0    0
 ------ Montgomery(01101)    16    0    0
 ------ Baldwin(01003)    4    0    0
 ------ Limestone(01083)    10    0    0
------- Madison(01089)    36    0    0
+------ Madison(01089)    37    0    0
 ------ Calhoun(01015)    2    0    0
 ------ St Clair(01115)    6    0    0
 ------ Chambers(01017)    10    0    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    17    0    0
------- Mobile(01097)    10    0    0
+------ Mobile(01097)    13    0    0
 ------ Jackson(01071)    2    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    7    0    0
@@ -1577,10 +1578,11 @@
 ------ Lawrence(01079)    1    0    0
 ------ Marshall(01095)    3    0    0
 ------ Russell(01113)    1    0    0
------- Wilcox(01131)    1    0    0
+------ Wilcox(01131)    2    0    0
 ------ Coffee(01031)    1    0    0
 ------ Lowndes(01085)    1    0    0
 ------ Marengo(01091)    1    0    0
+------ DeKalb(01049)    1    0    0
 ---- ME    142    0    14
 ------ Cumberland(23005)    87    0    0
 ------ Androscoggin(23001)    4    0    0
@@ -1599,7 +1601,7 @@
 ------ Marion(18097)    293    6    0
 ------ Hendricks(18063)    21    0    0
 ------ Johnson(18081)    36    3    0
------- Franklin(18047)    13    0    0
+------ Franklin(18047)    13    1    0
 ------ Howard(18067)    6    1    0
 ------ Lake(18089)    31    0    0
 ------ Adams(18001)    1    0    0
@@ -1632,7 +1634,7 @@
 ------ Miami(18103)    1    0    0
 ------ Dubois(18037)    1    0    0
 ------ Morgan(18109)    7    0    0
------- Putnam(18133)    2    0    0
+------ Putnam(18133)    2    1    0
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    3    0    0
 ------ Ripley(18137)    11    0    0
@@ -1649,7 +1651,7 @@
 ------ Sullivan(18153)    1    0    0
 ------ Warrick(18173)    3    0    0
 ------ La Porte(18091)    2    0    0
------- Jasper(18073)    3    0    0
+------ Jasper(18073)    3    1    0
 ------ Rush(18139)    1    0    0
 ------ De Kalb(18033)    1    0    0
 ------ Fountain(18045)    1    0    0
@@ -2103,10 +2105,10 @@
 ------ Ohio(54069)    2    0    0
 ------ Raleigh(54081)    1    0    0
 ---- GU    45    1    0
------- Guam(66010)    37    1    0
+------ Guam(66010)    45    1    0
 ---- PR    64    2    0
 ---- VI    17    0    0
--- Spain    56188    4089    7015
+-- Spain    56197    4145    7015
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
 ---- Balearic Islands    660    19    39
@@ -2127,7 +2129,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    40585    229    5669
+-- Germany    41414    236    5669
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2203,8 +2205,8 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11593    172    131
--- United Kingdom of Great Britain and Northern Ireland    9640    466    140
+-- Switzerland    11712    191    131
+-- United Kingdom of Great Britain and Northern Ireland    9849    477    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2253,7 +2255,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Norway    3279    14    6
--- Sweden    2840    70    16
+-- Sweden    2840    71    16
 -- Australia    2806    13    170
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
@@ -2264,13 +2266,13 @@
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
 -- Israel    2666    8    68
--- Brazil    2589    61    6
+-- Brazil    2598    63    6
 -- Turkey    2433    59    26
 -- Malaysia    2031    23    215
 -- Denmark    1862    41    36
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Japan    1848    45    310
+-- Japan    1848    47    359
 ---- Hokkaido    168    7    100
 ---- kochi    12    0    0
 ---- Miyagi    2    0    0
@@ -2312,18 +2314,18 @@
 ---- Fukui    5    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
--- Czechia    1775    6    10
+-- Czechia    1775    7    10
 -- Ireland    1564    9    5
+-- Ecuador    1382    34    3
 -- Luxembourg    1333    8    6
 -- Chile    1306    4    22
--- Ecuador    1211    29    3
 -- Pakistan    1130    9    21
 -- Poland    1120    15    13
 -- Thailand    1045    4    88
 -- Romania    1029    18    94
 -- Saudi Arabia    1012    3    33
 -- Finland    958    5    10
--- South Africa    900    0    12
+-- South Africa    927    0    12
 -- Indonesia    893    78    35
 -- Russian Federation    840    3    38
 -- Greece    821    23    36
@@ -2332,12 +2334,12 @@
 -- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
+-- Slovenia    562    6    10
 -- Panama    558    8    2
 -- Estonia    538    1    8
 -- Qatar    537    0    41
--- Slovenia    528    6    10
 -- Argentina    502    8    52
--- Croatia    481    2    22
+-- Croatia    495    2    22
 -- Peru    480    9    1
 -- Mexico    475    6    4
 -- Colombia    470    4    8
@@ -2353,7 +2355,7 @@
 -- Lithuania    290    4    1
 -- Armenia    290    1    18
 -- New Zealand    283    0    27
--- Bulgaria    264    3    4
+-- Bulgaria    264    3    8
 -- Hungary    261    10    28
 -- Taiwan    252    2    29
 -- Latvia    244    0    1
@@ -2366,19 +2368,19 @@
 -- North Macedonia    201    3    3
 -- Costa Rica    201    2    2
 -- Tunisia    200    6    2
--- Bosnia and Herzegovina    185    3    2
+-- Bosnia and Herzegovina    189    3    2
+-- Moldova, Republic of    177    1    2
 -- Albania    174    6    17
 -- Jordan    172    0    1
 -- Ukraine    162    5    8
 -- Viet Nam    153    0    20
--- Moldova, Republic of    149    1    2
--- Burkina Faso    146    4    10
+-- Burkina Faso    152    4    10
 -- Faroe Islands    140    0    47
+-- Réunion    135    0    1
 -- Malta    134    0    2
 -- Cyprus    132    3    4
 -- Ghana    132    4    8
 -- Azerbaijan    122    3    15
--- Réunion    115    0    1
 -- Brunei Darussalam    114    0    5
 -- Kazakhstan    111    3    2
 -- Oman    109    0    23
@@ -2395,11 +2397,11 @@
 -- Cameroon    75    1    2
 -- Guadeloupe    73    1    0
 -- Nigeria    69    1    2
+-- Cuba    67    1    1
 -- Montenegro    67    1    0
 -- Martinique    66    1    0
 -- Uzbekistan    65    0    0
 -- Trinidad and Tobago    61    1    1
--- Cuba    57    1    1
 -- Honduras    52    0    0
 -- Liechtenstein    51    0    0
 -- Congo, Democratic Republic of the    48    2    0
