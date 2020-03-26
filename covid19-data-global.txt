@@ -2324,18 +2324,18 @@
 -- Ecuador    1211    29    3
 -- Chile    1142    3    22
 -- Pakistan    1102    8    21
--- Poland    1051    14    13
--- Thailand    1045    4    70
+-- Poland    1085    15    13
+-- Thailand    1045    4    88
 -- Romania    906    17    86
 -- Saudi Arabia    900    2    29
+-- Indonesia    893    78    35
 -- Finland    880    3    10
 -- Russian Federation    840    3    38
 -- Greece    821    23    36
--- Indonesia    790    58    31
 -- Iceland    737    5    56
 -- South Africa    709    0    12
+-- Philippines    707    45    28
 -- India    681    13    43
--- Philippines    636    38    26
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
@@ -2361,14 +2361,14 @@
 -- New Zealand    283    0    27
 -- Hungary    261    10    28
 -- Taiwan    252    2    29
+-- Latvia    244    0    1
 -- Bulgaria    243    3    4
 -- Morocco    225    6    7
--- Latvia    221    0    1
 -- Uruguay    217    0    0
 -- Slovakia    216    1    7
+-- Kuwait    208    0    49
 -- San Marino    208    21    4
 -- Costa Rica    201    2    2
--- Kuwait    195    0    43
 -- Andorra    188    1    1
 -- Bosnia and Herzegovina    185    3    2
 -- North Macedonia    177    3    1
