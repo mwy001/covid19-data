@@ -2251,7 +2251,7 @@
 ---- Yukon    3    0    0
 -- Norway    3084    14    6
 -- Portugal    2995    43    22
--- Australia    2676    11    118
+-- Australia    2728    12    118
 ---- New South Wales    1029    7    4
 ---- Victoria    466    0    97
 ---- Queensland    443    0    8
@@ -2272,7 +2272,7 @@
 ---- kochi    12    0    0
 ---- Miyagi    1    0    0
 ---- Niigata    29    0    0
----- Gifu    12    0    0
+---- Gifu    14    0    0
 ---- Nagano    5    0    0
 ---- Tochigi    10    0    0
 ---- Kumamoto    8    0    0
@@ -2290,7 +2290,7 @@
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
----- Okinawa    5    0    1
+---- Okinawa    6    0    1
 ---- Ehime    3    0    0
 ---- hyogo    119    6    0
 ---- oita    25    0    0
@@ -2299,14 +2299,14 @@
 ---- Shiga    5    0    0
 ---- Akita    2    0    0
 ---- Yamanashi    4    0    0
----- Hiroshima    3    0    0
+---- Hiroshima    4    0    0
 ---- Gunma    14    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    2    0    0
 ---- Ibaraki    10    0    0
 ---- Kagawa    1    0    0
----- Fukui    3    0    0
+---- Fukui    5    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
 -- Malaysia    1796    20    199
