@@ -460,7 +460,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
--- United States of America    81645    1326    619
+-- United States of America    81672    1326    619
 ---- NY    37769    385    0
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
@@ -528,7 +528,7 @@
 ------ Kitsap(53035)    27    0    0
 ------ Whatcom(53073)    66    2    0
 ------ Thurston(53067)    14    0    0
------- Yakima(53077)    117    1    0
+------ Yakima(53077)    117    2    0
 ------ Clark(53011)    16    4    0
 ------ Spokane(53063)    54    0    0
 ------ Jefferson(53031)    10    0    0
@@ -1057,7 +1057,7 @@
 ------ Crawford(42039)    1    0    0
 ------ Indiana(42063)    1    0    0
 ------ Susquehanna(42115)    1    0    0
----- WI    709    8    1
+---- WI    709    9    1
 ------ Milwaukee(55079)    347    5    0
 ------ Dane(55025)    114    1    0
 ------ Kenosha(55059)    19    0    0
@@ -1164,17 +1164,17 @@
 ------ Tolland(09013)    27    3    0
 ------ Windham(09015)    2    0    0
 ------ New London(09011)    9    0    0
----- OH    840    12    0
+---- OH    868    15    0
 ------ Cuyahoga(39035)    259    2    0
 ------ Butler(39017)    21    0    0
 ------ Franklin(39049)    109    2    0
 ------ Lorain(39093)    44    0    0
------- Summit(39153)    43    0    0
+------ Summit(39153)    50    0    0
 ------ Medina(39103)    24    0    0
------- Stark(39151)    13    2    0
+------ Stark(39151)    16    2    0
 ------ Belmont(39013)    3    0    0
 ------ Coshocton(39031)    4    0    0
------- Trumbull(39155)    9    0    0
+------ Trumbull(39155)    12    0    0
 ------ Darke(39037)    1    0    0
 ------ Geauga(39055)    7    0    0
 ------ Lake(39085)    19    0    0
@@ -1186,10 +1186,10 @@
 ------ Delaware(39041)    15    0    0
 ------ Montgomery(39113)    14    0    0
 ------ Hamilton(39061)    53    0    0
------- Miami(39109)    19    1    0
+------ Miami(39109)    20    1    0
 ------ Richland(39139)    4    0    0
 ------ Clark(39023)    2    0    0
------- Warren(39165)    8    0    0
+------ Warren(39165)    10    0    0
 ------ Ashtabula(39007)    3    0    0
 ------ Marion(39101)    4    0    0
 ------ Union(39159)    3    0    0
@@ -1203,8 +1203,8 @@
 ------ Clinton(39027)    2    0    0
 ------ Greene(39057)    3    0    0
 ------ Hancock(39063)    2    0    0
------- Portage(39133)    4    0    0
------- Wood(39173)    3    0    0
+------ Portage(39133)    8    0    0
+------ Wood(39173)    6    0    0
 ------ Washington(39167)    1    0    0
 ------ Knox(39083)    2    0    0
 ------ Madison(39097)    3    0    0
@@ -1218,10 +1218,13 @@
 ------ Fayette(39047)    1    0    0
 ------ Lawrence(39087)    1    0    0
 ------ Mercer(39107)    1    0    0
------- Pickaway(39129)    1    1    0
------- Wayne(39169)    1    0    0
+------ Pickaway(39129)    2    1    0
+------ Wayne(39169)    2    0    0
 ------ Jefferson(39081)    1    0    0
 ------ Athens(39009)    1    0    0
+------ Muskingum(39119)    1    0    0
+------ Shelby(39149)    1    0    0
+------ Wyandot(39175)    1    0    0
 ---- OR    266    10    0
 ------ Washington(41067)    96    2    0
 ------ Linn(41043)    25    1    0
@@ -1255,7 +1258,7 @@
 ------ Prince Edward(51147)    2    0    0
 ------ Spotsylvania(51177)    3    0    0
 ------ Stafford(51179)    6    0    0
------- York(51199)    8    1    0
+------ York(51199)    9    1    0
 ------ Charles City(51036)    1    0    0
 ------ James City(51095)    49    2    0
 ------ Albemarle(51003)    4    0    0
@@ -1302,6 +1305,7 @@
 ------ City of Manassas(51683)    2    0    0
 ------ Warren(51187)    1    0    0
 ------ Washington(51191)    1    0    0
+------ Amelia(51007)    1    0    0
 ---- NC    703    3    0
 ------ Wake(37183)    84    0    0
 ------ Durham(37063)    84    0    0
@@ -1791,12 +1795,12 @@
 ------ Curry(35009)    1    0    0
 ------ Eddy(35015)    1    1    0
 ------ Rio Arriba(35039)    2    0    0
----- RI    132    0    0
+---- RI    134    0    0
 ------ Providence(44007)    52    0    0
 ------ Washington(44009)    9    0    0
 ------ Newport(44005)    9    0    0
 ------ Bristol(44001)    24    0    0
------- Kent(44003)    7    0    0
+------ Kent(44003)    9    0    0
 ---- AR    335    6    12
 ------ Jefferson(05069)    23    0    0
 ------ Pulaski(05119)    83    1    0
@@ -2007,7 +2011,7 @@
 ------ Jackson(29095)    34    1    0
 ------ St Louis(29189)    129    1    0
 ------ St Charles(29183)    18    1    0
------- St Louis City(29510)    129    1    0
+------ St Louis City(29510)    130    1    0
 ------ Christian(29043)    2    0    0
 ------ Pulaski(29169)    4    1    0
 ------ Scott(29201)    1    0    0
@@ -2150,27 +2154,27 @@
 ---- PR    64    2    0
 ---- VI    17    0    0
 -- Italy    80589    8215    10361
----- Abruzzo    946    46    21
+---- Abruzzo    946    46    23
 ---- Aosta Valley    408    19    2
----- Apulia    1182    44    21
+---- Apulia    1182    44    22
 ---- Basilicata    134    1    0
----- Calabria    393    10    5
----- Campania    1310    56    53
+---- Calabria    393    10    7
+---- Campania    1310    56    58
 ---- Emilia-Romagna    10816    985    792
----- Friuli Venezia Giulia    1223    64    105
+---- Friuli Venezia Giulia    1223    64    197
 ---- Lazio    2096    80    155
 ---- Lombardy    34889    4178    7839
 ---- Marche    3114    231    9
----- Molise    103    8    10
+---- Molise    103    8    14
 ---- Piemont    6534    374    135
----- Sardinia    494    15    11
----- Sicily    1164    20    27
----- Trentino-Alto Adige - Südtirol    1297    56    79
+---- Sardinia    494    15    13
+---- Sicily    1164    20    36
+---- Trentino-Alto Adige - Südtirol    1297    56    117
 ---- Tuscany    3226    129    95
----- Umbria    802    19    5
+---- Umbria    802    19    12
 ---- Liguria    2567    231    260
 ---- Veneto    6935    216    508
----- Bolzano    906    38    44
+---- Bolzano    906    38    67
 -- Spain    56197    4145    7015
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
@@ -2192,7 +2196,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    43646    239    5673
+-- Germany    43646    262    5673
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2268,7 +2272,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    11712    191    131
+-- Switzerland    11811    191    131
 -- United Kingdom of Great Britain and Northern Ireland    11658    578    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2319,6 +2323,7 @@
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
 -- Norway    3346    14    6
+-- Brazil    2915    77    6
 -- Sweden    2840    71    16
 -- Australia    2806    13    170
 ---- New South Wales    1029    7    4
@@ -2330,7 +2335,6 @@
 ---- Northern Territory    6    0    0
 ---- Australian Capital Territory    39    0    0
 -- Israel    2693    8    68
--- Brazil    2611    63    6
 -- Malaysia    2031    23    215
 -- Czechia    1925    9    10
 -- Denmark    1877    41    36
@@ -2404,13 +2408,13 @@
 -- Qatar    549    0    43
 -- Estonia    538    1    8
 -- Argentina    502    8    63
+-- Egypt    495    21    95
 -- Croatia    495    2    22
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
 -- Mexico    475    6    4
 -- Bahrain    458    4    204
 -- Serbia    457    7    15
--- Egypt    456    21    95
 -- Hong Kong    453    4    110
 -- Iraq    382    36    105
 -- Lebanon    368    6    23
@@ -2466,8 +2470,8 @@
 -- Cuba    67    1    1
 -- Martinique    66    1    0
 -- Trinidad and Tobago    61    1    1
+-- Liechtenstein    56    0    0
 -- Honduras    52    1    0
--- Liechtenstein    51    0    0
 -- Congo, Democratic Republic of the    48    2    0
 -- Bangladesh    44    5    11
 -- Kyrgyzstan    44    0    0
@@ -2499,11 +2503,11 @@
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
 -- Ethiopia    12    0    4
+-- Equatorial Guinea    12    0    0
 -- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
 -- Djibouti    11    0    0
 -- Dominica    11    0    0
--- Equatorial Guinea    9    0    0
 -- Cayman Islands    8    1    0
 -- Suriname    8    0    0
 -- Namibia    8    0    2
