@@ -2133,7 +2133,7 @@
 ---- Melilla    38    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    37323    206    3547
+-- Germany    38609    213    3547
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2209,7 +2209,7 @@
 ---- Reunion    111    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    14    0    0
--- Switzerland    10897    153    131
+-- Switzerland    10909    153    131
 -- United Kingdom of Great Britain and Northern Ireland    9640    466    140
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2242,7 +2242,7 @@
 -- Netherlands    6438    357    3
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    5888    34    9
+-- Austria    6001    42    9
 -- Belgium    4937    178    547
 -- Canada    3409    36    320
 ---- British Columbia    659    14    4
@@ -2272,6 +2272,7 @@
 -- Sweden    2526    62    16
 -- Israel    2495    5    66
 -- Turkey    2433    59    26
+-- Malaysia    2031    23    199
 -- Denmark    1862    34    36
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2317,7 +2318,6 @@
 ---- Fukui    5    0    0
 ---- Okayama    1    0    0
 ---- Aomori    6    0    0
--- Malaysia    1796    21    199
 -- Czechia    1775    6    10
 -- Ireland    1564    9    5
 -- Luxembourg    1333    8    6
@@ -2335,10 +2335,11 @@
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- India    681    13    43
+-- India    686    13    43
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
+-- Estonia    538    1    8
 -- Qatar    537    0    41
 -- Slovenia    528    5    10
 -- Argentina    502    8    52
@@ -2347,9 +2348,8 @@
 -- Mexico    475    6    4
 -- Colombia    470    4    8
 -- Egypt    456    21    95
+-- Hong Kong    453    4    110
 -- Bahrain    419    4    190
--- Hong Kong    411    4    102
--- Estonia    404    1    8
 -- Dominican Republic    392    10    3
 -- Serbia    384    6    15
 -- Iraq    346    29    103
@@ -2377,12 +2377,12 @@
 -- Ukraine    156    5    8
 -- Moldova, Republic of    149    1    2
 -- Viet Nam    148    0    17
--- Albania    146    5    17
+-- Albania    146    6    17
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
 -- Cyprus    132    3    3
 -- Malta    129    0    2
--- Réunion    111    0    1
+-- Réunion    115    0    1
 -- Brunei Darussalam    109    0    2
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Sri Lanka    102    0    3
