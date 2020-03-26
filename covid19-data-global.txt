@@ -1,4 +1,4 @@
--- China    81968    3293    74200
+-- China    82034    3293    74200
 ---- 天津    151    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -46,9 +46,9 @@
 ------ 天门    496    15    481
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
----- 香港    410    4    106
----- 上海    451    5    330
------- 境外输入    112    0    3
+---- 香港    453    4    106
+---- 上海    451    5    331
+------ 境外输入    112    0    4
 ------ 宝山区    22    1    19
 ------ 徐汇区    18    1    17
 ------ 嘉定区    9    1    7
@@ -142,13 +142,13 @@
 ------ 韩城    1    0    1
 ------ 杨凌    1    0    1
 ------ 境外输入    8    0    0
----- 广东    1444    8    1336
------- 广州    397    1    337
+---- 广东    1448    8    1336
+------ 广州    400    1    337
 ------ 深圳    443    3    414
 ------ 佛山    91    0    84
 ------ 中山    68    0    66
 ------ 珠海    101    1    97
------- 湛江    23    0    22
+------ 湛江    24    0    22
 ------ 肇庆    20    1    18
 ------ 梅州    17    0    16
 ------ 揭阳    9    0    8
@@ -263,7 +263,7 @@
 ------ 阳泉    4    0    4
 ------ 临汾    2    0    2
 ------ 境外输入    2    0    0
----- 山东    769    7    752
+---- 山东    771    7    752
 ------ 济宁    260    0    260
 ------ 青岛    61    1    60
 ------ 临沂    49    0    49
@@ -279,7 +279,7 @@
 ------ 菏泽    18    0    18
 ------ 日照    16    0    16
 ------ 滨州    15    0    15
------- 境外输入    10    0    0
+------ 境外输入    12    0    0
 ---- 河北    319    6    310
 ------ 唐山    58    1    55
 ------ 沧州    48    3    45
@@ -2098,7 +2098,7 @@
 ------ Guam(66010)    37    1    0
 ---- PR    51    2    0
 ---- VI    17    0    0
--- Spain    49515    3647    5367
+-- Spain    56188    4089    7015
 ---- Andalusia    3010    113    71
 ---- Aragon    907    40    4
 ---- Balearic Islands    562    19    28
@@ -2119,7 +2119,7 @@
 ---- Melilla    38    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    10    0    0
--- Germany    39355    222    3547
+-- Germany    39457    222    3547
 ---- Saxony    1128    6    14
 ---- Mecklenburg-Vorpommern    245    0    5
 ---- Free State of Bavaria    7289    41    47
@@ -2312,16 +2312,16 @@
 -- Pakistan    1106    8    21
 -- Poland    1085    15    13
 -- Thailand    1045    4    88
+-- Finland    915    4    10
 -- Romania    906    17    86
 -- Saudi Arabia    900    2    29
 -- Indonesia    893    78    35
--- Finland    880    3    10
 -- Russian Federation    840    3    38
 -- Greece    821    23    36
 -- Iceland    737    5    56
 -- South Africa    709    0    12
 -- Philippines    707    45    28
--- India    693    13    43
+-- India    694    13    45
 -- Singapore    631    2    160
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    558    8    2
@@ -2358,12 +2358,12 @@
 -- Andorra    188    1    1
 -- Bosnia and Herzegovina    185    3    2
 -- North Macedonia    177    3    1
--- Tunisia    173    5    2
+-- Albania    174    6    17
+-- Tunisia    173    6    2
 -- Jordan    172    0    1
 -- Ukraine    156    5    8
 -- Moldova, Republic of    149    1    2
 -- Viet Nam    148    0    17
--- Albania    146    6    17
 -- Burkina Faso    146    4    10
 -- Faroe Islands    140    0    47
 -- Cyprus    132    3    4
@@ -2371,11 +2371,11 @@
 -- Réunion    115    0    1
 -- Brunei Darussalam    114    0    5
 -- Oman    109    0    23
+-- Kazakhstan    109    3    2
 -- Venezuela, Bolivarian Republic of    106    0    15
 -- Senegal    105    0    9
 -- Sri Lanka    102    0    3
 -- Cambodia    98    0    10
--- Kazakhstan    97    3    2
 -- Azerbaijan    93    2    11
 -- Ghana    93    4    8
 -- Belarus    86    0    29
@@ -2441,6 +2441,7 @@
 -- Curaçao    6    1    2
 -- Greenland    6    0    2
 -- Benin    6    0    0
+-- Lao People's Democratic Republic    6    0    0
 -- Bahamas    5    0    1
 -- Fiji    5    0    0
 -- Mozambique    5    0    0
@@ -2464,7 +2465,6 @@
 -- Angola    3    0    0
 -- Zimbabwe    3    1    0
 -- Myanmar    3    0    0
--- Lao People's Democratic Republic    3    0    0
 -- Bhutan    2    0    0
 -- Jersey    2    0    0
 -- Kosovo    2    0    0
