@@ -2345,7 +2345,7 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7029    49    112
+-- Austria    7129    49    112
 -- Belgium    6235    220    675
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
@@ -2375,8 +2375,8 @@
 -- Israel    3035    10    79
 -- Brazil    2985    77    6
 -- Sweden    2840    77    16
+-- Malaysia    2161    24    215
 -- Czechia    2062    9    10
--- Malaysia    2031    24    215
 -- Denmark    2023    41    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2430,12 +2430,12 @@
 -- Poland    1244    16    13
 -- Pakistan    1235    9    23
 -- Thailand    1136    5    97
+-- Indonesia    1046    87    46
 -- Russian Federation    1036    3    45
 -- Romania    1029    24    94
 -- Saudi Arabia    1012    3    33
 -- Finland    958    5    10
 -- South Africa    927    2    12
--- Indonesia    893    78    35
 -- Greece    892    27    42
 -- Philippines    803    54    31
 -- Iceland    802    5    82
@@ -2447,9 +2447,9 @@
 -- Mexico    585    8    4
 -- Peru    580    9    14
 -- Slovenia    577    6    10
+-- Estonia    575    1    8
 -- Croatia    551    3    37
 -- Qatar    549    0    43
--- Estonia    538    1    8
 -- Hong Kong    518    4    111
 -- Egypt    495    24    102
 -- Colombia    491    6    8
@@ -2480,7 +2480,7 @@
 -- Tunisia    200    6    2
 -- Bosnia and Herzegovina    192    3    5
 -- Moldova, Republic of    177    2    2
--- Albania    174    7    17
+-- Albania    174    8    17
 -- Viet Nam    153    0    20
 -- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
@@ -2488,7 +2488,7 @@
 -- Réunion    135    0    1
 -- Malta    134    0    2
 -- Ghana    132    4    8
--- Kazakhstan    124    3    2
+-- Kazakhstan    125    3    2
 -- Azerbaijan    122    3    15
 -- Brunei Darussalam    114    0    5
 -- Oman    109    0    23
@@ -2538,13 +2538,13 @@
 -- Madagascar    23    0    0
 -- Uganda    18    0    0
 -- Virgin Islands, U.S.    17    0    0
+-- Ethiopia    16    0    4
 -- Zambia    16    0    0
 -- New Caledonia    15    0    0
 -- Bermuda    15    0    2
 -- Maldives    13    0    9
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
--- Ethiopia    12    0    4
 -- Equatorial Guinea    12    0    0
 -- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
