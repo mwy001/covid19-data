@@ -2253,34 +2253,7 @@
 ---- Baden-Württemberg    8441    76    285
 ---- Saxony-Anhalt    500    2    21
 ---- Saarland    540    3    25
--- France    29551    1698    4955
----- France    7652    148    12
----- St Martin    11    0    0
----- Saint Barthelemy    3    0    0
----- Nord-Pas-de-Calais and Picardy    1753    7    4
----- Ile-de-France    7660    2    2
----- Alsace–Champagne-Ardenne–Lorraine    5479    0    0
----- Normandy    688    1    0
----- Brittany    603    1    6
----- Pays de la Loire    368    0    0
----- Centre-Val de Loire    561    0    0
----- Bourgogne-Franche-Comté    1569    0    0
----- Aquitaine-Limousin-Poitou-Charentes    912    0    0
----- Auvergne-Rhône-Alpes    2093    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    1082    0    0
----- Provence-Alpes-Côte d'Azur    1927    0    0
----- Corsica    225    0    0
----- Martinique    66    1    0
----- French Guiana    28    0    6
----- Réunion    94    0    0
----- Guadeloupe    76    1    0
----- French Polynesia    30    0    0
----- Fench Guiana    5    0    0
----- Mayotte    36    0    0
----- Reunion    135    0    1
----- SCGF0594    28    0    0
----- New Caledonia    14    0    0
--- Iran, Islamic Republic of    29406    2234    10457
+-- Iran, Islamic Republic of    32332    2378    11133
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2312,6 +2285,33 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
+-- France    29551    1698    4955
+---- France    7652    148    12
+---- St Martin    11    0    0
+---- Saint Barthelemy    3    0    0
+---- Nord-Pas-de-Calais and Picardy    1753    7    4
+---- Ile-de-France    7660    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    5479    0    0
+---- Normandy    688    1    0
+---- Brittany    603    1    6
+---- Pays de la Loire    368    0    0
+---- Centre-Val de Loire    561    0    0
+---- Bourgogne-Franche-Comté    1569    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    912    0    0
+---- Auvergne-Rhône-Alpes    2093    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    1082    0    0
+---- Provence-Alpes-Côte d'Azur    1927    0    0
+---- Corsica    225    0    0
+---- Martinique    66    1    0
+---- French Guiana    28    0    6
+---- Réunion    94    0    0
+---- Guadeloupe    76    1    0
+---- French Polynesia    30    0    0
+---- Fench Guiana    5    0    0
+---- Mayotte    36    0    0
+---- Reunion    135    0    1
+---- SCGF0594    28    0    0
+---- New Caledonia    14    0    0
 -- United Kingdom of Great Britain and Northern Ireland    11812    580    150
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2345,7 +2345,7 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7129    49    112
+-- Austria    7129    58    225
 -- Belgium    6235    220    675
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
@@ -2362,7 +2362,7 @@
 ---- Yukon    3    0    0
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
--- Norway    3380    14    6
+-- Norway    3380    15    6
 -- Australia    3166    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
@@ -2375,7 +2375,7 @@
 -- Israel    3035    10    79
 -- Brazil    2985    77    6
 -- Sweden    2840    77    16
--- Malaysia    2161    24    215
+-- Malaysia    2161    26    259
 -- Czechia    2062    9    10
 -- Denmark    2023    41    50
 ---- Denmark    977    4    1
@@ -2434,12 +2434,12 @@
 -- Russian Federation    1036    3    45
 -- Romania    1029    24    94
 -- Saudi Arabia    1012    3    33
--- Finland    958    5    10
+-- Finland    1004    5    10
 -- South Africa    927    2    12
 -- Greece    892    27    42
 -- Philippines    803    54    31
 -- Iceland    802    5    82
--- India    753    20    67
+-- India    761    20    71
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
@@ -2470,37 +2470,37 @@
 -- Taiwan    267    2    30
 -- Uruguay    238    0    0
 -- Costa Rica    231    2    2
+-- Bosnia and Herzegovina    230    3    5
+-- Tunisia    227    6    2
 -- Slovakia    226    1    7
+-- Kuwait    225    0    57
 -- Andorra    224    3    1
 -- Ukraine    218    5    8
--- Jordan    212    0    1
--- Kuwait    208    0    49
+-- Jordan    212    0    2
 -- San Marino    208    21    4
 -- North Macedonia    201    3    3
--- Tunisia    200    6    2
--- Bosnia and Herzegovina    192    3    5
 -- Moldova, Republic of    177    2    2
 -- Albania    174    8    17
 -- Viet Nam    153    0    20
 -- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
 -- Faroe Islands    140    0    54
+-- Ghana    136    4    8
 -- Réunion    135    0    1
 -- Malta    134    0    2
--- Ghana    132    4    8
+-- Oman    131    0    23
 -- Kazakhstan    125    3    2
 -- Azerbaijan    122    3    15
 -- Brunei Darussalam    114    0    5
--- Oman    109    0    23
 -- Venezuela, Bolivarian Republic of    107    1    15
 -- Sri Lanka    106    0    7
 -- Senegal    105    0    9
 -- Cambodia    98    0    11
 -- Côte d'Ivoire    96    0    3
 -- Afghanistan    94    4    2
+-- Palestine    91    1    17
 -- Cameroon    88    2    2
 -- Belarus    86    0    29
--- Palestine    86    1    17
 -- Uzbekistan    83    1    5
 -- Georgia    81    0    13
 -- Martinique    81    1    0
