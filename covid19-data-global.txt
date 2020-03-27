@@ -2215,7 +2215,7 @@
 ---- Liguria    2567    231    260
 ---- Veneto    6935    216    508
 ---- Bolzano    906    38    67
--- Spain    57786    4365    7015
+-- Spain    64059    4858    9357
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
 ---- Balearic Islands    660    22    39
@@ -2362,8 +2362,8 @@
 ---- Yukon    3    0    0
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
--- Norway    3423    15    6
--- Australia    3166    13    172
+-- Norway    3441    15    6
+-- Australia    3180    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
 ---- Queensland    493    1    8
@@ -2373,7 +2373,7 @@
 ---- Northern Territory    12    0    0
 ---- Australian Capital Territory    53    0    1
 -- Israel    3035    10    79
--- Brazil    2985    77    6
+-- Brazil    2988    77    6
 -- Sweden    2858    77    16
 -- Malaysia    2161    26    259
 -- Czechia    2062    9    10
@@ -2427,13 +2427,13 @@
 -- Luxembourg    1453    9    6
 -- Ecuador    1403    34    3
 -- Chile    1306    4    22
+-- Romania    1292    24    115
 -- Pakistan    1252    9    23
 -- Poland    1244    16    13
 -- Thailand    1136    5    97
 -- Indonesia    1046    87    46
+-- Finland    1038    5    10
 -- Russian Federation    1036    3    45
--- Finland    1035    5    10
--- Romania    1029    24    94
 -- Saudi Arabia    1012    3    33
 -- South Africa    927    2    12
 -- Greece    892    27    42
@@ -2454,10 +2454,10 @@
 -- Egypt    495    24    102
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
--- Bahrain    458    4    210
+-- Bahrain    466    4    210
 -- Serbia    457    7    15
+-- Lebanon    391    7    23
 -- Iraq    382    36    105
--- Lebanon    368    6    23
 -- New Zealand    368    0    37
 -- Algeria    367    25    65
 -- Lithuania    345    5    1
@@ -2531,18 +2531,18 @@
 -- French Guiana    28    0    6
 -- Aruba    28    0    1
 -- Jamaica    26    1    2
+-- Togo    25    0    1
 -- Guatemala    25    1    4
--- Togo    24    0    1
 -- Barbados    24    0    0
+-- Madagascar    24    0    0
 -- Guyana    23    1    0
--- Madagascar    23    0    0
 -- Uganda    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Ethiopia    16    0    4
 -- Zambia    16    0    0
 -- New Caledonia    15    0    0
 -- Bermuda    15    0    2
--- Maldives    13    0    9
+-- Maldives    14    0    9
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
 -- Equatorial Guinea    12    0    0
