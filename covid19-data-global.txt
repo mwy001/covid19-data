@@ -2614,12 +2614,12 @@
 -- Monaco    42    0    1
 -- Puerto Rico    39    2    1
 -- Macao    34    0    10
+-- Aruba    33    0    1
 -- Guam    33    1    0
 -- Kenya    31    1    1
 -- French Polynesia    30    0    0
 -- Isle of Man    29    0    0
 -- French Guiana    28    0    6
--- Aruba    28    0    1
 -- Guatemala    28    1    4
 -- Jamaica    26    1    2
 -- Madagascar    26    0    0
