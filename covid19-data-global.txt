@@ -2362,7 +2362,7 @@
 ---- Yukon    3    0    0
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
--- Norway    3379    14    6
+-- Norway    3380    14    6
 -- Australia    3166    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
@@ -2430,16 +2430,16 @@
 -- Poland    1244    16    13
 -- Pakistan    1235    9    23
 -- Thailand    1136    5    97
+-- Russian Federation    1036    3    45
 -- Romania    1029    24    94
 -- Saudi Arabia    1012    3    33
 -- Finland    958    5    10
 -- South Africa    927    2    12
 -- Indonesia    893    78    35
 -- Greece    892    27    42
--- Russian Federation    840    3    38
+-- Philippines    803    54    31
 -- Iceland    802    5    82
 -- India    753    20    67
--- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
@@ -2450,12 +2450,12 @@
 -- Croatia    551    3    37
 -- Qatar    549    0    43
 -- Estonia    538    1    8
+-- Hong Kong    518    4    111
 -- Egypt    495    24    102
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
 -- Bahrain    458    4    210
 -- Serbia    457    7    15
--- Hong Kong    454    4    110
 -- Iraq    382    36    105
 -- Lebanon    368    6    23
 -- New Zealand    368    0    37
@@ -2586,10 +2586,10 @@
 -- Saint Barthélemy    3    0    0
 -- Central African Republic    3    0    0
 -- Liberia    3    0    0
+-- Somalia    3    0    0
 -- Gambia    3    1    0
 -- Chad    3    0    0
 -- Jersey    2    0    0
--- Somalia    2    0    0
 -- Nicaragua    2    1    0
 -- Belize    2    0    0
 -- Turks and Caicos Islands    2    0    0
