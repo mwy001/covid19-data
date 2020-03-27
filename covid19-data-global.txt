@@ -2350,7 +2350,7 @@
 -- Netherlands    8603    546    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7393    58    225
+-- Austria    7441    58    225
 -- Belgium    7284    289    858
 -- Portugal    4268    76    43
 -- Canada    4046    40    320
@@ -2429,7 +2429,7 @@
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
 -- Ireland    1819    19    5
--- Chile    1610    5    22
+-- Chile    1610    5    43
 -- Luxembourg    1453    9    6
 -- Ecuador    1403    34    3
 -- Pakistan    1296    9    23
@@ -2438,11 +2438,11 @@
 -- Thailand    1136    5    97
 -- Saudi Arabia    1104    3    35
 -- Indonesia    1046    87    46
--- Finland    1041    5    10
+-- Finland    1041    7    10
 -- Russian Federation    1036    3    45
 -- South Africa    927    2    12
 -- Greece    892    27    42
--- Iceland    890    5    82
+-- Iceland    890    5    97
 -- India    863    20    73
 -- Philippines    803    54    31
 -- Singapore    732    2    183
@@ -2469,33 +2469,33 @@
 -- United Arab Emirates    333    2    52
 -- Armenia    329    1    28
 -- Hungary    300    10    34
+-- Bulgaria    293    3    9
 -- Latvia    280    0    1
--- Bulgaria    276    3    9
 -- Morocco    275    11    8
 -- Slovakia    269    1    7
 -- Andorra    267    3    1
 -- Taiwan    267    2    30
 -- Uruguay    238    0    0
+-- Bosnia and Herzegovina    231    4    5
 -- Costa Rica    231    2    2
--- Bosnia and Herzegovina    230    4    5
 -- Tunisia    227    6    2
 -- Ukraine    226    5    8
 -- Kuwait    225    0    57
+-- San Marino    223    21    4
 -- North Macedonia    219    3    3
 -- Jordan    212    0    2
--- San Marino    208    21    4
 -- Albania    186    8    31
+-- Burkina Faso    180    9    12
 -- Moldova, Republic of    177    2    2
+-- Azerbaijan    165    3    15
 -- Viet Nam    163    0    20
--- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
+-- Réunion    145    0    1
 -- Faroe Islands    144    0    54
 -- Malta    139    0    2
 -- Ghana    136    4    8
--- Réunion    135    0    1
 -- Kazakhstan    135    3    3
 -- Oman    131    0    23
--- Azerbaijan    122    3    15
 -- Senegal    119    0    11
 -- Brunei Darussalam    115    0    11
 -- Venezuela, Bolivarian Republic of    107    1    31
@@ -2516,7 +2516,7 @@
 -- Nigeria    69    1    3
 -- Honduras    68    1    0
 -- Cuba    67    2    1
--- Trinidad and Tobago    65    1    1
+-- Trinidad and Tobago    66    2    1
 -- Bolivia, Plurinational State of    61    0    0
 -- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
