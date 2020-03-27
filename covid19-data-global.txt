@@ -1,4 +1,4 @@
--- United States of America    85782    1326    713
+-- United States of America    85783    1326    713
 ---- NY    39125    454    0
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
@@ -143,7 +143,7 @@
 ------ Middlesex(34023)    505    63    0
 ------ Monmouth(34025)    501    3    0
 ------ Union(34039)    432    0    0
------- Passaic(34031)    399    0    0
+------ Passaic(34031)    399    7    0
 ------ Mercer(34021)    111    0    0
 ------ Morris(34027)    315    1    0
 ------ Somerset(34035)    179    1    0
@@ -171,7 +171,7 @@
 ------ Hampden(25013)    55    1    0
 ------ Franklin(25011)    16    1    0
 ------ Hampshire(25015)    17    0    0
----- FL    2484    29    0
+---- FL    2484    30    0
 ------ Broward(12011)    505    3    0
 ------ Palm Beach(12099)    174    3    0
 ------ Duval(12031)    82    3    0
@@ -209,7 +209,7 @@
 ------ Marion(12083)    5    0    0
 ------ Baker(12003)    5    0    0
 ------ Bay(12005)    3    0    0
------- Highlands(12055)    7    0    0
+------ Highlands(12055)    7    1    0
 ------ Putnam(12107)    12    0    0
 ------ St Lucie(12111)    11    0    0
 ------ Miami-Dade(12086)    654    0    0
@@ -353,7 +353,7 @@
 ------ Franklin(17055)    1    0    0
 ------ Morgan(17137)    1    0    0
 ---- GA    1643    56    0
------- Fulton(13121)    231    7    0
+------ Fulton(13121)    231    9    0
 ------ Cobb(13067)    119    5    0
 ------ Bartow(13015)    93    1    0
 ------ Cherokee(13057)    44    0    0
@@ -362,14 +362,14 @@
 ------ Floyd(13115)    17    1    0
 ------ Clayton(13063)    37    1    0
 ------ Fayette(13113)    23    2    0
------- Lowndes(13185)    14    0    0
------- Clarke(13059)    29    1    0
+------ Lowndes(13185)    14    1    0
+------ Clarke(13059)    29    2    0
 ------ Coweta(13077)    14    2    0
 ------ Richmond(13245)    11    0    0
 ------ Gordon(13129)    9    1    0
 ------ Henry(13151)    29    1    0
------- Lee(13177)    30    3    0
------- Troup(13285)    10    0    0
+------ Lee(13177)    30    4    0
+------ Troup(13285)    10    1    0
 ------ Barrow(13013)    5    1    0
 ------ Charlton(13049)    1    0    0
 ------ Columbia(13073)    10    0    0
@@ -390,7 +390,7 @@
 ------ Muscogee(13215)    6    0    0
 ------ Peach(13225)    5    0    0
 ------ Effingham(13103)    3    0    0
------- DeKalb(13089)    137    1    0
+------ DeKalb(13089)    137    2    0
 ------ Carroll(13045)    52    0    0
 ------ Chatham(13051)    9    0    0
 ------ Miller(13201)    2    0    0
@@ -1557,8 +1557,8 @@
 ------ Lamoille(50015)    5    0    0
 ------ Caledonia(50005)    1    0    0
 ------ Orleans(50019)    3    0    0
----- DE    217    1    0
------- New Castle(10003)    91    1    0
+---- DE    217    2    0
+------ New Castle(10003)    91    2    0
 ------ Sussex(10005)    33    1    0
 ------ Kent(10001)    19    0    0
 ---- MO    530    9    5
@@ -1630,7 +1630,7 @@
 ------ Brookings(46011)    1    0    0
 ------ Lincoln(46083)    2    0    0
 ------ Meade(46093)    1    0    0
----- WY    55    0    0
+---- WY    56    0    0
 ------ Fremont(56013)    14    0    0
 ------ Sheridan(56033)    4    0    0
 ------ Laramie(56021)    15    0    0
@@ -1642,6 +1642,7 @@
 ------ Sweetwater(56037)    2    0    0
 ------ Albany(56001)    1    0    0
 ------ Johnson(56019)    1    0    0
+------ Hot Springs(56017)    1    0    0
 ---- MT    91    0    0
 ------ Missoula(30063)    7    0    0
 ------ Yellowstone(30111)    14    0    0
@@ -2309,7 +2310,7 @@
 ---- Scotland    719    22    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    11811    191    131
+-- Switzerland    11811    192    131
 -- Korea, Republic of    9241    131    4144
 ---- Busan    112    2    75
 ---- Chungcheongbuk-do    39    0    14
@@ -2477,9 +2478,9 @@
 -- Ghana    132    4    8
 -- Azerbaijan    122    3    15
 -- Brunei Darussalam    114    0    5
--- Kazakhstan    111    3    2
+-- Kazakhstan    113    3    2
 -- Oman    109    0    23
--- Venezuela, Bolivarian Republic of    107    0    15
+-- Venezuela, Bolivarian Republic of    107    1    15
 -- Sri Lanka    106    0    7
 -- Senegal    105    0    9
 -- Cambodia    98    0    10
