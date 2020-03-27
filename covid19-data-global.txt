@@ -1,4 +1,4 @@
--- United States of America    93005    1390    812
+-- United States of America    93300    1398    812
 ---- NY    44635    519    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    19    0
@@ -171,7 +171,7 @@
 ------ Hampden(25013)    55    1    0
 ------ Franklin(25011)    16    1    0
 ------ Hampshire(25015)    17    0    0
----- FL    2872    31    0
+---- FL    2900    35    0
 ------ Broward(12011)    614    3    0
 ------ Palm Beach(12099)    194    3    0
 ------ Duval(12031)    90    3    0
@@ -212,13 +212,14 @@
 ------ Highlands(12055)    7    1    0
 ------ Putnam(12107)    12    0    0
 ------ St Lucie(12111)    14    0    0
------- Miami-Dade(12086)    654    0    0
+------ Miami-Dade(12086)    763    0    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    11    0    0
 ------ DeSoto(12027)    6    0    0
 ------ Mainland Monroe(12087)    16    0    0
 ------ Washington(12133)    1    0    0
+------ Suwannee(12121)    1    0    0
 ---- LA    2305    83    0
 ------ Orleans(22071)    997    46    0
 ------ Jefferson(22051)    458    12    0
@@ -994,24 +995,24 @@
 ------ Missaukee(26113)    1    0    0
 ------ Ogemaw(26129)    1    0    0
 ------ Shiawassee(26155)    1    0    0
----- MN    346    2    134
------- Hennepin(27053)    128    0    0
------- Ramsey(27123)    32    2    0
------- Dakota(27037)    25    0    0
------- Olmsted(27109)    29    0    0
------- Anoka(27003)    8    0    0
+---- MN    398    4    134
+------ Hennepin(27053)    141    0    0
+------ Ramsey(27123)    34    2    0
+------ Dakota(27037)    28    0    0
+------ Olmsted(27109)    34    0    0
+------ Anoka(27003)    10    0    0
 ------ Stearns(27145)    5    0    0
 ------ Benton(27009)    2    0    0
------- Washington(27163)    15    0    0
------- Blue Earth(27013)    6    0    0
+------ Washington(27163)    22    0    0
+------ Blue Earth(27013)    7    0    0
 ------ Carver(27019)    8    0    0
 ------ Renville(27129)    1    0    0
------- Sherburne(27141)    1    0    0
------- Waseca(27161)    2    0    0
+------ Sherburne(27141)    3    0    0
+------ Waseca(27161)    3    0    0
 ------ Wright(27171)    5    0    0
------- Martin(27091)    12    0    0
+------ Martin(27091)    18    0    0
 ------ Nicollet(27103)    3    0    0
------- Scott(27139)    6    0    0
+------ Scott(27139)    7    0    0
 ------ Mower(27099)    10    0    0
 ------ Rice(27131)    2    0    0
 ------ Wadena(27159)    1    0    0
@@ -1025,14 +1026,16 @@
 ------ Wabasha(27157)    4    0    0
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
------- Le Sueur(27079)    6    0    0
+------ Le Sueur(27079)    10    0    0
 ------ Lac qui Parle(27073)    1    0    0
------- Goodhue(27049)    1    0    0
+------ Goodhue(27049)    2    0    0
 ------ Winona(27169)    4    0    0
 ------ Kandiyohi(27067)    1    0    0
 ------ Mahnomen(27087)    1    0    0
 ------ Sibley(27143)    1    0    0
 ------ Wilkin(27167)    1    0    0
+------ Beltrami(27007)    1    0    0
+------ Lincoln(27081)    1    0    0
 ---- MD    775    5    4
 ------ Montgomery(24031)    208    1    0
 ------ Prince George's(24033)    20    1    0
@@ -1171,7 +1174,7 @@
 ------ Crenshaw(01041)    1    0    0
 ------ Winston(01133)    1    0    0
 ------ Greene(01063)    1    0    0
----- ME    155    0    14
+---- ME    168    0    14
 ------ Cumberland(23005)    90    0    0
 ------ Androscoggin(23001)    5    0    0
 ------ Kennebec(23011)    6    0    0
@@ -1494,55 +1497,58 @@
 ------ Kemper(28069)    1    0    0
 ------ Neshoba(28099)    1    0    0
 ------ Sharkey(28125)    1    0    0
----- AZ    508    8    3
------- Maricopa(04013)    299    2    0
------- Pinal(04021)    35    0    0
------- Pima(04019)    75    1    0
------- Graham(04009)    2    0    0
------- Navajo(04017)    43    0    0
------- Coconino(04005)    28    1    0
+---- AZ    665    13    3
+------ Maricopa(04013)    399    2    0
+------ Pinal(04021)    36    0    0
+------ Pima(04019)    102    1    0
+------ Graham(04009)    4    0    0
+------ Navajo(04017)    49    0    0
+------ Coconino(04005)    41    1    0
 ------ Santa Cruz(04023)    2    0    0
------- Yavapai(04025)    5    0    0
+------ Yavapai(04025)    9    0    0
 ------ Yuma(04027)    4    0    0
 ------ Cochise(04003)    2    0    0
------- Apache(04001)    9    0    0
------- Mohave(04015)    2    0    0
+------ Apache(04001)    11    0    0
+------ Mohave(04015)    4    0    0
 ------ La Paz(04012)    2    0    0
----- OK    249    248    1
------- Oklahoma(40109)    73    73    0
------- Tulsa(40143)    41    41    0
+---- OK    322    248    1
+------ Oklahoma(40109)    94    73    0
+------ Tulsa(40143)    49    41    0
 ------ Cleveland(40027)    39    39    0
------- Kay(40071)    11    11    0
------- Canadian(40017)    6    6    0
+------ Kay(40071)    17    11    0
+------ Canadian(40017)    11    6    0
 ------ Jackson(40065)    1    1    0
------- Pawnee(40117)    10    10    0
------- Payne(40119)    5    5    0
+------ Pawnee(40117)    14    10    0
+------ Payne(40119)    7    5    0
 ------ Custer(40039)    3    3    0
 ------ Grady(40051)    2    2    0
 ------ Logan(40083)    3    3    0
 ------ Stephens(40137)    1    1    0
------- Washington(40147)    5    5    0
+------ Washington(40147)    9    5    0
 ------ McClain(40087)    2    2    0
 ------ Garvin(40049)    2    2    0
------- Muskogee(40101)    4    4    0
------- Noble(40103)    2    2    0
------- Pontotoc(40123)    1    1    0
+------ Muskogee(40101)    5    4    0
+------ Noble(40103)    3    2    0
+------ Pontotoc(40123)    2    1    0
 ------ Mayes(40097)    2    2    0
------- Wagoner(40145)    6    6    0
------- Adair(40001)    2    2    0
+------ Wagoner(40145)    8    6    0
+------ Adair(40001)    3    2    0
 ------ Bryan(40013)    1    1    0
------- Creek(40037)    10    10    0
+------ Creek(40037)    14    10    0
 ------ Carter(40019)    1    1    0
------- Delaware(40041)    1    1    0
------- Osage(40113)    3    3    0
+------ Delaware(40041)    2    1    0
+------ Osage(40113)    5    3    0
 ------ Pottawatomie(40125)    2    2    0
------- Comanche(40031)    3    3    0
+------ Comanche(40031)    6    3    0
 ------ Okmulgee(40111)    2    2    0
 ------ Craig(40035)    1    1    0
------- Lincoln(40081)    1    1    0
+------ Lincoln(40081)    3    1    0
 ------ Ottawa(40115)    1    1    0
 ------ Sequoyah(40135)    1    1    0
------- Pittsburg(40121)    1    0    0
+------ Pittsburg(40121)    2    0    0
+------ Caddo(40015)    1    0    0
+------ Cherokee(40021)    1    0    0
+------ Choctaw(40023)    1    0    0
 ---- KS    174    3    0
 ------ Johnson(20091)    59    1    0
 ------ Wyandotte(20209)    34    2    0
@@ -1657,7 +1663,7 @@
 ------ Brookings(46011)    1    0    0
 ------ Lincoln(46083)    2    0    0
 ------ Meade(46093)    1    0    0
----- WY    56    0    0
+---- WY    70    0    0
 ------ Fremont(56013)    14    0    0
 ------ Sheridan(56033)    4    0    0
 ------ Laramie(56021)    15    0    0
@@ -1750,6 +1756,28 @@
 ------ Guam(66010)    51    1    0
 ---- PR    79    3    0
 ---- VI    17    0    0
+-- Italy    86498    9134    10950
+---- Abruzzo    946    46    23
+---- Aosta Valley    408    19    2
+---- Apulia    1182    44    22
+---- Basilicata    134    1    0
+---- Calabria    393    10    7
+---- Campania    1310    56    58
+---- Emilia-Romagna    10816    985    792
+---- Friuli Venezia Giulia    1223    64    197
+---- Lazio    2096    80    155
+---- Lombardy    34889    4178    7839
+---- Marche    3114    231    9
+---- Molise    103    8    14
+---- Piemont    6534    424    135
+---- Sardinia    494    15    13
+---- Sicily    1164    20    36
+---- Trentino-Alto Adige - Südtirol    1297    56    117
+---- Tuscany    3226    129    95
+---- Umbria    802    19    12
+---- Liguria    2567    231    260
+---- Veneto    6935    216    508
+---- Bolzano    906    38    67
 -- China    82164    3298    74743
 ---- 天津    155    3    133
 ------ 境外输入    15    0    0
@@ -2212,28 +2240,6 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
--- Italy    80589    8215    10361
----- Abruzzo    946    46    23
----- Aosta Valley    408    19    2
----- Apulia    1182    44    22
----- Basilicata    134    1    0
----- Calabria    393    10    7
----- Campania    1310    56    58
----- Emilia-Romagna    10816    985    792
----- Friuli Venezia Giulia    1223    64    197
----- Lazio    2096    80    155
----- Lombardy    34889    4178    7839
----- Marche    3114    231    9
----- Molise    103    8    14
----- Piemont    6534    424    135
----- Sardinia    494    15    13
----- Sicily    1164    20    36
----- Trentino-Alto Adige - Südtirol    1297    56    117
----- Tuscany    3226    129    95
----- Umbria    802    19    12
----- Liguria    2567    231    260
----- Veneto    6935    216    508
----- Bolzano    906    38    67
 -- Spain    64059    4934    9357
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
@@ -2364,10 +2370,10 @@
 -- Netherlands    8603    546    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7500    58    225
+-- Austria    7557    58    225
 -- Belgium    7284    289    858
 -- Portugal    4268    76    43
--- Canada    4046    40    320
+-- Canada    4181    43    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
 ---- Alberta    486    2    0
@@ -2380,7 +2386,7 @@
 ---- Nova Scotia    73    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3694    17    6
+-- Norway    3696    19    6
 -- Turkey    3629    75    26
 -- Australia    3180    13    172
 ---- New South Wales    1219    7    4
@@ -2445,19 +2451,19 @@
 -- Ireland    1819    19    5
 -- Chile    1610    5    43
 -- Luxembourg    1605    15    40
--- Ecuador    1403    34    3
+-- Ecuador    1595    36    3
+-- Poland    1340    16    13
 -- Pakistan    1296    9    23
 -- Romania    1292    24    115
--- Poland    1289    16    13
+-- South Africa    1170    2    12
 -- Thailand    1136    5    97
 -- Saudi Arabia    1104    3    35
 -- Indonesia    1046    87    46
 -- Finland    1041    7    10
 -- Russian Federation    1036    3    45
 -- Greece    966    28    52
--- South Africa    927    2    12
 -- Iceland    890    5    97
--- India    874    20    73
+-- India    878    20    73
 -- Philippines    803    54    31
 -- Singapore    732    2    183
 ---- Central Singapore Community Development Council    345    0    124
@@ -2469,16 +2475,16 @@
 -- Dominican Republic    581    20    3
 -- Peru    580    9    14
 -- Estonia    575    1    11
--- Qatar    549    0    43
+-- Qatar    562    0    43
 -- Serbia    528    8    15
 -- Hong Kong    518    4    111
 -- Egypt    495    24    102
 -- Colombia    491    6    8
 -- Bahrain    466    4    227
 -- Iraq    458    40    122
+-- Algeria    409    26    65
 -- Lebanon    391    7    23
 -- New Zealand    368    0    37
--- Algeria    367    25    65
 -- Lithuania    345    5    1
 -- United Arab Emirates    333    2    52
 -- Armenia    329    1    28
@@ -2572,6 +2578,7 @@
 -- Mali    11    0    0
 -- Greenland    10    0    2
 -- Niger    10    1    0
+-- Eswatini    9    0    0
 -- Bahamas    9    0    1
 -- Cayman Islands    8    1    0
 -- Guinea    8    0    0
@@ -2584,7 +2591,6 @@
 -- Curaçao    7    1    2
 -- Mozambique    7    0    0
 -- Grenada    7    0    0
--- Eswatini    6    0    0
 -- Benin    6    0    0
 -- Eritrea    6    0    0
 -- Lao People's Democratic Republic    6    0    0
