@@ -1,4 +1,4 @@
--- United States of America    85913    1326    753
+-- United States of America    86030    1326    753
 ---- NY    39140    457    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
@@ -91,7 +91,7 @@
 ------ Douglas(53017)    5    0    0
 ------ Okanogan(53047)    1    0    0
 ------ Ferry(53019)    1    0    0
----- CA    4032    82    22
+---- CA    4040    82    22
 ------ Santa Clara(06085)    542    19    0
 ------ Los Angeles(06037)    1230    21    0
 ------ San Mateo(06081)    195    5    0
@@ -117,7 +117,7 @@
 ------ Tulare(06107)    20    0    0
 ------ Calaveras(06009)    3    0    0
 ------ Fresno(06019)    27    0    0
------- Imperial(06025)    9    0    0
+------ Imperial(06025)    17    0    0
 ------ Monterey(06053)    24    1    0
 ------ Santa Barbara(06083)    32    0    0
 ------ Amador(06005)    2    0    0
@@ -867,7 +867,7 @@
 ------ Amelia(51007)    1    0    0
 ------ Fauquier(51061)    1    0    0
 ------ Northumberland(51133)    2    0    0
----- NC    749    3    0
+---- NC    755    3    0
 ------ Wake(37183)    105    0    0
 ------ Durham(37063)    93    0    0
 ------ Mecklenburg(37119)    204    0    0
@@ -876,7 +876,7 @@
 ------ Forsyth(37067)    17    0    0
 ------ Johnston(37101)    23    0    0
 ------ Brunswick(37019)    11    0    0
------- Cabarrus(37025)    18    2    0
+------ Cabarrus(37025)    22    2    0
 ------ Craven(37049)    3    0    0
 ------ Guilford(37081)    24    0    0
 ------ Iredell(37097)    13    0    0
@@ -888,7 +888,7 @@
 ------ Wayne(37191)    3    0    0
 ------ Wilson(37195)    7    0    0
 ------ Gaston(37071)    12    0    0
------- New Hanover(37129)    14    0    0
+------ New Hanover(37129)    15    0    0
 ------ Union(37179)    27    0    0
 ------ Moore(37125)    3    0    0
 ------ Buncombe(37021)    15    0    0
@@ -910,7 +910,7 @@
 ------ Granville(37077)    1    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
------- Davie(37059)    1    0    0
+------ Davie(37059)    2    0    0
 ------ Montgomery(37123)    3    0    0
 ------ Nash(37127)    4    0    0
 ------ Henderson(37089)    6    0    0
@@ -1053,7 +1053,7 @@
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    4    0    0
 ------ Kent(24029)    1    0    0
----- NV    521    14    1
+---- NV    535    14    1
 ------ Clark(32003)    350    10    0
 ------ Washoe(32031)    67    0    0
 ------ Carson City(32510)    4    0    0
@@ -1648,7 +1648,7 @@
 ------ Albany(56001)    1    0    0
 ------ Johnson(56019)    1    0    0
 ------ Hot Springs(56017)    1    0    0
----- MT    91    0    0
+---- MT    91    1    0
 ------ Missoula(30063)    7    0    0
 ------ Yellowstone(30111)    14    0    0
 ------ Broadwater(30007)    2    0    0
@@ -2439,7 +2439,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
 -- Argentina    589    12    72
--- Mexico    585    6    4
+-- Mexico    585    8    4
 -- Peru    580    9    14
 -- Slovenia    577    6    10
 -- Qatar    549    0    43
