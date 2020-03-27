@@ -2345,8 +2345,8 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    7317    58    225
 -- Belgium    7284    289    858
--- Austria    7269    58    225
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
@@ -2374,10 +2374,10 @@
 ---- Australian Capital Territory    53    0    1
 -- Israel    3035    10    79
 -- Brazil    2988    77    6
--- Sweden    2858    77    16
+-- Sweden    2893    77    16
 -- Malaysia    2161    26    259
 -- Czechia    2062    9    10
--- Denmark    2023    41    50
+-- Denmark    2023    52    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Japan    1848    47    359
@@ -2385,7 +2385,7 @@
 ---- kochi    12    0    0
 ---- Miyagi    2    0    0
 ---- Niigata    29    0    0
----- Gifu    15    0    0
+---- Gifu    16    0    0
 ---- Nagano    5    0    0
 ---- Tochigi    11    0    0
 ---- Kumamoto    8    0    0
@@ -2394,7 +2394,7 @@
 ---- Fukuoka    9    0    0
 ---- Tokyo    259    4    0
 ---- Wakayama    17    1    2
----- Kyoto    34    0    2
+---- Kyoto    35    0    2
 ---- Osaka    156    2    1
 ---- Chiba    56    0    0
 ---- Kanagawa    93    4    1
@@ -2417,7 +2417,7 @@
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    2    0    0
----- Ibaraki    10    0    0
+---- Ibaraki    12    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    5    0    0
 ---- Okayama    1    0    0
@@ -2439,7 +2439,7 @@
 -- Greece    892    27    42
 -- Philippines    803    54    31
 -- Iceland    802    5    82
--- India    775    20    71
+-- India    799    20    73
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
@@ -2454,20 +2454,21 @@
 -- Egypt    495    24    102
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
--- Bahrain    466    4    210
+-- Bahrain    466    4    227
 -- Iraq    458    40    122
--- Serbia    457    7    15
+-- Serbia    457    8    15
 -- Lebanon    391    7    23
 -- New Zealand    368    0    37
 -- Algeria    367    25    65
 -- Lithuania    345    5    1
 -- United Arab Emirates    333    2    52
--- Armenia    329    1    18
+-- Armenia    329    1    28
 -- Hungary    300    10    34
 -- Latvia    280    0    1
--- Bulgaria    276    3    8
+-- Bulgaria    276    3    9
 -- Morocco    275    11    8
 -- Slovakia    269    1    7
+-- Andorra    267    3    1
 -- Taiwan    267    2    30
 -- Uruguay    238    0    0
 -- Costa Rica    231    2    2
@@ -2475,10 +2476,9 @@
 -- Tunisia    227    6    2
 -- Ukraine    226    5    8
 -- Kuwait    225    0    57
--- Andorra    224    3    1
+-- North Macedonia    219    3    3
 -- Jordan    212    0    2
 -- San Marino    208    21    4
--- North Macedonia    201    3    3
 -- Albania    186    8    31
 -- Moldova, Republic of    177    2    2
 -- Viet Nam    163    0    20
@@ -2493,7 +2493,7 @@
 -- Azerbaijan    122    3    15
 -- Senegal    119    0    11
 -- Brunei Darussalam    115    0    11
--- Venezuela, Bolivarian Republic of    107    1    15
+-- Venezuela, Bolivarian Republic of    107    1    31
 -- Sri Lanka    106    0    7
 -- Cambodia    99    0    11
 -- Côte d'Ivoire    96    0    3
@@ -2546,9 +2546,9 @@
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
 -- Equatorial Guinea    12    0    0
+-- Djibouti    12    0    0
 -- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
--- Djibouti    11    0    0
 -- Dominica    11    0    0
 -- Niger    10    1    0
 -- Bahamas    9    0    1
