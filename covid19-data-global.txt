@@ -1,4 +1,4 @@
--- United States of America    86083    1326    753
+-- United States of America    86091    1326    753
 ---- NY    39140    461    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    19    0
@@ -57,7 +57,7 @@
 ------ Chautauqua(36013)    2    0    0
 ------ Franklin(36033)    1    0    0
 ------ Orleans(36073)    2    0    0
----- WA    3207    150    418
+---- WA    3209    150    418
 ------ King(53033)    1577    109    0
 ------ Snohomish(53061)    778    18    0
 ------ Pierce(53053)    186    4    0
@@ -273,7 +273,7 @@
 ------ Madison(22065)    1    0    0
 ------ Pointe Coupee(22077)    1    0    0
 ------ Vermilion(22113)    1    0    0
----- CO    1430    20    0
+---- CO    1430    24    0
 ------ Denver(08031)    262    3    0
 ------ Eagle(08037)    147    1    0
 ------ Arapahoe(08005)    119    1    0
@@ -1702,9 +1702,10 @@
 ------ Foster(38031)    1    0    0
 ------ Stark(38089)    5    0    0
 ------ McHenry(38049)    1    0    0
+------ McIntosh(38051)    1    0    0
 ---- AK    69    1    0
 ------ Fairbanks North Star(02090)    11    0    0
------- Anchorage(02020)    30    0    0
+------ Anchorage(02020)    33    0    0
 ------ Ketchikan Gateway(02130)    11    0    0
 ------ Juneau(02110)    3    0    0
 ------ Kenai Peninsula(02122)    4    0    0
@@ -1728,12 +1729,12 @@
 ------ Raleigh(54081)    2    0    0
 ------ Mason(54053)    1    0    0
 ------ Upshur(54097)    1    0    0
----- GU    45    1    0
+---- GU    51    1    0
 ------ Guam(66010)    45    1    0
 ---- PR    79    3    0
 ---- VI    17    0    0
--- China    82161    3298    74743
----- 天津    152    3    133
+-- China    82164    3298    74743
+---- 天津    155    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2362,7 +2363,7 @@
 ---- Nova Scotia    73    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3677    16    6
+-- Norway    3683    16    6
 -- Turkey    3629    75    26
 -- Australia    3180    13    172
 ---- New South Wales    1219    7    4
@@ -2377,7 +2378,7 @@
 -- Israel    3035    11    79
 -- Brazil    2988    77    6
 -- Malaysia    2161    26    259
--- Czechia    2062    9    10
+-- Czechia    2062    9    11
 -- Denmark    2023    52    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2434,12 +2435,12 @@
 -- Thailand    1136    5    97
 -- Saudi Arabia    1104    3    35
 -- Indonesia    1046    87    46
--- Finland    1038    5    10
+-- Finland    1041    5    10
 -- Russian Federation    1036    3    45
 -- South Africa    927    2    12
 -- Greece    892    27    42
 -- Iceland    890    5    82
--- India    851    20    73
+-- India    863    20    73
 -- Philippines    803    54    31
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
@@ -2544,7 +2545,7 @@
 -- New Caledonia    15    0    0
 -- Bermuda    15    0    2
 -- Maldives    14    0    9
--- Tanzania, United Republic of    13    0    0
+-- Tanzania, United Republic of    13    0    1
 -- El Salvador    13    0    0
 -- Equatorial Guinea    12    0    0
 -- Djibouti    12    0    0
