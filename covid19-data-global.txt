@@ -1,4 +1,4 @@
--- United States of America    86064    1326    753
+-- United States of America    86083    1326    753
 ---- NY    39140    461    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    19    0
@@ -870,7 +870,7 @@
 ------ Northumberland(51133)    2    0    0
 ------ City of Hampton(51650)    1    0    0
 ------ City of Poquoson(51735)    1    0    0
----- NC    755    3    0
+---- NC    757    3    0
 ------ Wake(37183)    105    0    0
 ------ Durham(37063)    93    0    0
 ------ Mecklenburg(37119)    204    0    0
@@ -910,7 +910,7 @@
 ------ Carteret(37031)    5    0    0
 ------ Cherokee(37039)    4    0    0
 ------ Robeson(37155)    2    0    0
------- Granville(37077)    1    0    0
+------ Granville(37077)    3    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
 ------ Davie(37059)    2    0    0
@@ -1283,6 +1283,7 @@
 ------ Clayton(19043)    1    0    0
 ------ Mahaska(19123)    1    0    0
 ------ Monona(19133)    1    0    0
+------ Clinton(19045)    1    0    0
 ---- KY    252    6    2
 ------ Jefferson(21111)    47    2    0
 ------ Fayette(21067)    31    1    0
@@ -1527,13 +1528,13 @@
 ------ Lincoln(40081)    1    1    0
 ------ Ottawa(40115)    1    1    0
 ------ Sequoyah(40135)    1    1    0
----- KS    172    3    0
+---- KS    173    3    0
 ------ Johnson(20091)    59    1    0
 ------ Wyandotte(20209)    34    2    0
 ------ Butler(20015)    3    0    0
 ------ Douglas(20045)    13    0    0
 ------ Ford(20057)    1    0    0
------- Franklin(20059)    1    0    0
+------ Franklin(20059)    2    0    0
 ------ Leavenworth(20103)    12    0    0
 ------ Cherokee(20021)    2    0    0
 ------ Jackson(20085)    1    0    0
@@ -1729,7 +1730,7 @@
 ------ Upshur(54097)    1    0    0
 ---- GU    45    1    0
 ------ Guam(66010)    45    1    0
----- PR    64    2    0
+---- PR    79    3    0
 ---- VI    17    0    0
 -- China    82161    3298    74743
 ---- 天津    152    3    133
@@ -2236,7 +2237,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    16    0    0
--- Germany    47278    281    5673
+-- Germany    47373    285    5673
 ---- Saxony    1305    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
 ---- Free State of Bavaria    9481    55    99
@@ -2347,6 +2348,7 @@
 ---- Curacao    3    0    0
 -- Austria    7317    58    225
 -- Belgium    7284    289    858
+-- Portugal    4268    76    43
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
@@ -2360,9 +2362,8 @@
 ---- Nova Scotia    73    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
+-- Norway    3669    16    6
 -- Turkey    3629    75    26
--- Portugal    3544    60    43
--- Norway    3443    16    6
 -- Australia    3180    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
@@ -2438,8 +2439,8 @@
 -- South Africa    927    2    12
 -- Greece    892    27    42
 -- Philippines    803    54    31
+-- India    803    20    73
 -- Iceland    802    5    82
--- India    799    20    73
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
@@ -2550,6 +2551,7 @@
 -- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
 -- Dominica    11    0    0
+-- Mali    11    0    0
 -- Niger    10    1    0
 -- Bahamas    9    0    1
 -- Greenland    9    0    2
@@ -2578,7 +2580,6 @@
 -- Holy See    4    0    0
 -- Congo    4    0    0
 -- Angola    4    0    0
--- Mali    4    0    0
 -- Bhutan    3    0    0
 -- Mauritania    3    0    0
 -- Saint Lucia    3    0    1
