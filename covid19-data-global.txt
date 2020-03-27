@@ -1,5 +1,5 @@
--- United States of America    85877    1326    713
----- NY    39125    454    0
+-- United States of America    85913    1326    753
+---- NY    39140    457    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
 ------ Suffolk(36103)    2735    22    0
@@ -8,7 +8,7 @@
 ------ Dutchess(36027)    190    1    0
 ------ Orange(36071)    751    1    0
 ------ Monroe(36055)    148    4    0
------- Erie(36029)    206    2    0
+------ Erie(36029)    221    5    0
 ------ Saratoga(36091)    73    0    0
 ------ Ulster(36111)    78    0    0
 ------ Schenectady(36093)    62    1    0
@@ -457,7 +457,7 @@
 ------ Calhoun(13037)    1    0    0
 ------ Franklin(13119)    1    0    0
 ------ Haralson(13143)    1    0    0
----- TX    1651    24    21
+---- TX    1651    24    45
 ------ Dallas(48113)    303    7    0
 ------ Travis(48453)    137    0    0
 ------ Harris(48201)    203    2    0
@@ -1055,7 +1055,7 @@
 ------ Kent(24029)    1    0    0
 ---- NV    521    14    1
 ------ Clark(32003)    350    10    0
------- Washoe(32031)    57    0    0
+------ Washoe(32031)    67    0    0
 ------ Carson City(32510)    4    0    0
 ------ Elko(32007)    2    0    0
 ------ Douglas(32005)    3    0    0
@@ -1179,7 +1179,7 @@
 ------ Franklin(23007)    1    0    0
 ---- DC    267    3    49
 ------ District of Columbia(11001)    267    3    0
----- IN    645    17    0
+---- IN    656    17    0
 ------ Marion(18097)    293    6    0
 ------ Hendricks(18063)    21    0    0
 ------ Johnson(18081)    36    3    0
@@ -1201,7 +1201,7 @@
 ------ Owen(18119)    4    0    0
 ------ Tippecanoe(18157)    7    0    0
 ------ Wayne(18177)    1    0    0
------- Allen(18003)    8    1    0
+------ Allen(18003)    19    1    0
 ------ Monroe(18105)    6    0    0
 ------ Vigo(18167)    3    0    0
 ------ Vanderburgh(18163)    4    0    0
@@ -2439,6 +2439,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
 -- Argentina    589    12    72
+-- Mexico    585    6    4
 -- Peru    580    9    14
 -- Slovenia    577    6    10
 -- Qatar    549    0    43
@@ -2447,7 +2448,6 @@
 -- Croatia    495    3    22
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
--- Mexico    475    6    4
 -- Bahrain    458    4    204
 -- Serbia    457    7    15
 -- Hong Kong    454    4    110
@@ -2585,7 +2585,7 @@
 -- Bhutan    2    0    0
 -- Jersey    2    0    0
 -- Somalia    2    0    0
--- Nicaragua    2    0    0
+-- Nicaragua    2    1    0
 -- Belize    2    0    0
 -- Turks and Caicos Islands    2    0    0
 -- Guinea-Bissau    2    0    0
