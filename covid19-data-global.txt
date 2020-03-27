@@ -1,10 +1,10 @@
 -- United States of America    86064    1326    753
----- NY    39140    457    16
+---- NY    39140    461    16
 ------ Westchester(36119)    5944    1    0
------- Nassau(36059)    3914    17    0
+------ Nassau(36059)    3914    19    0
 ------ Suffolk(36103)    2735    22    0
 ------ Albany(36001)    171    0    0
------- Rockland(36087)    1197    5    0
+------ Rockland(36087)    1197    7    0
 ------ Dutchess(36027)    190    1    0
 ------ Orange(36071)    751    1    0
 ------ Monroe(36055)    148    4    0
@@ -2206,7 +2206,7 @@
 ---- Lombardy    34889    4178    7839
 ---- Marche    3114    231    9
 ---- Molise    103    8    14
----- Piemont    6534    374    135
+---- Piemont    6534    424    135
 ---- Sardinia    494    15    13
 ---- Sicily    1164    20    36
 ---- Trentino-Alto Adige - Südtirol    1297    56    117
@@ -2347,7 +2347,7 @@
 ---- Curacao    3    0    0
 -- Austria    6909    49    112
 -- Belgium    6235    220    675
--- Canada    4046    39    320
+-- Canada    4046    40    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
 ---- Alberta    486    2    0
@@ -2363,7 +2363,7 @@
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
 -- Norway    3372    14    6
--- Australia    3050    13    172
+-- Australia    3143    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
 ---- Queensland    493    1    8
@@ -2372,9 +2372,9 @@
 ---- Tasmania    47    0    3
 ---- Northern Territory    12    0    0
 ---- Australian Capital Territory    53    0    1
+-- Israel    3035    10    79
 -- Brazil    2985    77    6
 -- Sweden    2840    77    16
--- Israel    2693    8    68
 -- Malaysia    2031    24    215
 -- Denmark    2023    41    50
 ---- Denmark    977    4    1
@@ -2428,8 +2428,8 @@
 -- Ecuador    1403    34    3
 -- Chile    1306    4    22
 -- Poland    1221    16    13
--- Pakistan    1201    9    21
--- Thailand    1045    4    88
+-- Pakistan    1203    9    21
+-- Thailand    1136    5    97
 -- Romania    1029    23    94
 -- Saudi Arabia    1012    3    33
 -- Finland    958    5    10
@@ -2438,7 +2438,7 @@
 -- Greece    892    27    36
 -- Russian Federation    840    3    38
 -- Iceland    802    5    82
--- India    733    20    66
+-- India    745    20    66
 -- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
@@ -2461,12 +2461,12 @@
 -- New Zealand    368    0    37
 -- Algeria    367    25    65
 -- United Arab Emirates    333    2    52
+-- Armenia    329    1    18
+-- Hungary    300    10    34
 -- Lithuania    299    4    1
--- Armenia    290    1    18
 -- Morocco    275    11    8
+-- Taiwan    267    2    30
 -- Bulgaria    264    3    8
--- Hungary    261    10    28
--- Taiwan    252    2    29
 -- Latvia    244    0    1
 -- Uruguay    238    0    0
 -- Costa Rica    231    2    2
@@ -2501,10 +2501,10 @@
 -- Cameroon    88    1    2
 -- Belarus    86    0    29
 -- Palestine    86    1    17
+-- Uzbekistan    83    0    0
 -- Martinique    81    1    0
 -- Mauritius    81    2    0
--- Georgia    79    0    11
--- Uzbekistan    75    0    0
+-- Georgia    79    0    13
 -- Guadeloupe    73    1    0
 -- Kosovo    71    1    0
 -- Nigeria    69    1    3
@@ -2517,7 +2517,7 @@
 -- Paraguay    52    3    1
 -- Congo, Democratic Republic of the    51    3    0
 -- Rwanda    50    0    0
--- Bangladesh    44    5    11
+-- Bangladesh    48    5    11
 -- Kyrgyzstan    44    0    0
 -- Puerto Rico    39    2    1
 -- Mayotte    36    0    0
@@ -2530,8 +2530,8 @@
 -- French Guiana    28    0    6
 -- Aruba    28    0    1
 -- Jamaica    26    1    2
+-- Isle of Man    26    0    0
 -- Guatemala    25    1    4
--- Isle of Man    25    0    0
 -- Togo    24    0    1
 -- Barbados    24    0    0
 -- Guyana    23    1    0
