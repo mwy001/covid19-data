@@ -1,5 +1,5 @@
--- United States of America    102058    1606    869
----- NY    44876    527    16
+-- United States of America    102206    1606    869
+---- NY    44892    527    16
 ------ Westchester(36119)    7187    1    0
 ------ Nassau(36059)    4657    19    0
 ------ Suffolk(36103)    3385    30    0
@@ -12,7 +12,7 @@
 ------ Saratoga(36091)    82    0    0
 ------ Ulster(36111)    98    0    0
 ------ Schenectady(36093)    66    1    0
------- Tompkins(36109)    32    0    0
+------ Tompkins(36109)    48    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    6    0    0
 ------ Onondaga(36067)    123    1    0
@@ -275,7 +275,7 @@
 ------ Pointe Coupee(22077)    1    0    0
 ------ Vermilion(22113)    2    0    0
 ------ West Feliciana(22125)    1    0    0
----- CO    1734    30    0
+---- CO    1736    30    0
 ------ Denver(08031)    312    3    0
 ------ Eagle(08037)    170    1    0
 ------ Arapahoe(08005)    155    1    0
@@ -296,7 +296,7 @@
 ------ Pueblo(08101)    6    1    0
 ------ Grand(08049)    3    0    0
 ------ Morgan(08087)    4    0    0
------- Crowley(08025)    1    1    0
+------ Crowley(08025)    2    1    0
 ------ Yuma(08125)    2    0    0
 ------ Broomfield(08014)    13    0    0
 ------ Park(08093)    1    0    0
@@ -1220,8 +1220,8 @@
 ------ Sagadahoc(23023)    4    0    0
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    1    0    0
----- DC    271    3    49
------- District of Columbia(11001)    271    3    0
+---- DC    271    4    49
+------ District of Columbia(11001)    271    4    0
 ---- IN    981    25    0
 ------ Marion(18097)    484    8    0
 ------ Hendricks(18063)    28    2    0
@@ -1386,8 +1386,8 @@
 ------ Cheshire(33005)    2    0    0
 ------ Strafford(33017)    7    0    0
 ------ Sullivan(33019)    2    0    0
----- NE    87    0    0
------- Douglas(31055)    46    0    0
+---- NE    87    1    0
+------ Douglas(31055)    46    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
 ------ Sarpy(31153)    10    0    0
@@ -1404,22 +1404,24 @@
 ------ Kearney(31099)    1    0    0
 ------ Hall(31079)    2    0    0
 ------ Dodge(31053)    1    0    0
----- NM    136    1    0
------- Bernalillo(35001)    55    0    0
------- Santa Fe(35049)    22    0    0
------- Sandoval(35043)    10    0    0
+---- NM    191    1    0
+------ Bernalillo(35001)    82    0    0
+------ Santa Fe(35049)    29    0    0
+------ Sandoval(35043)    15    0    0
 ------ Socorro(35053)    2    0    0
------- Taos(35055)    3    0    0
+------ Taos(35055)    8    0    0
 ------ San Miguel(35047)    1    0    0
------- McKinley(35031)    3    0    0
+------ McKinley(35031)    5    0    0
 ------ Dona Ana(35013)    16    0    0
------- Lea(35025)    1    0    0
------- San Juan(35045)    14    0    0
+------ Lea(35025)    2    0    0
+------ San Juan(35045)    17    0    0
 ------ Chaves(35005)    4    0    0
------- Cibola(35006)    1    0    0
+------ Cibola(35006)    2    0    0
 ------ Curry(35009)    1    0    0
------- Eddy(35015)    1    1    0
------- Rio Arriba(35039)    2    0    0
+------ Eddy(35015)    2    1    0
+------ Rio Arriba(35039)    3    0    0
+------ Roosevelt(35041)    1    0    0
+------ Valencia(35061)    1    0    0
 ---- RI    203    0    0
 ------ Providence(44007)    91    0    0
 ------ Washington(44009)    14    0    0
@@ -2303,7 +2305,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
--- Spain    64285    4940    9357
+-- Spain    65719    5138    9357
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
 ---- Balearic Islands    660    22    39
@@ -2436,7 +2438,7 @@
 -- Austria    7657    58    225
 -- Belgium    7284    289    858
 -- Turkey    5698    92    42
--- Canada    4633    54    320
+-- Canada    4689    54    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
 ---- Alberta    486    2    0
@@ -2516,7 +2518,7 @@
 -- Luxembourg    1605    15    40
 -- Ecuador    1595    36    3
 -- Poland    1389    16    13
--- Pakistan    1331    10    23
+-- Pakistan    1373    11    23
 -- Romania    1292    26    115
 -- South Africa    1170    2    31
 -- Thailand    1136    5    97
@@ -2531,7 +2533,7 @@
 -- Singapore    732    2    183
 ---- Central Singapore Community Development Council    345    0    124
 -- Panama    674    9    2
--- Peru    635    9    16
+-- Peru    635    11    16
 -- Slovenia    632    9    10
 -- Argentina    589    13    72
 -- Croatia    586    3    37
@@ -2561,8 +2563,8 @@
 -- Taiwan    267    2    30
 -- Costa Rica    263    2    3
 -- Uruguay    238    0    0
+-- Bosnia and Herzegovina    237    4    5
 -- Jordan    235    1    18
--- Bosnia and Herzegovina    232    4    5
 -- Tunisia    227    6    2
 -- Kuwait    225    0    57
 -- San Marino    223    21    4
@@ -2621,7 +2623,7 @@
 -- Guatemala    28    1    4
 -- Jamaica    26    1    2
 -- Madagascar    26    0    0
--- Togo    25    0    1
+-- Togo    25    1    1
 -- Barbados    24    0    0
 -- Guyana    23    1    0
 -- Uganda    23    0    0
@@ -2639,10 +2641,10 @@
 -- Saint Martin (French part)    11    0    0
 -- Dominica    11    0    0
 -- Mali    11    0    0
+-- Bahamas    10    0    1
 -- Greenland    10    0    2
 -- Niger    10    1    0
 -- Eswatini    9    0    0
--- Bahamas    9    0    1
 -- Cayman Islands    8    1    0
 -- Guinea    8    0    0
 -- Suriname    8    0    0
