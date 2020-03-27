@@ -2218,24 +2218,24 @@
 -- Spain    57786    4365    7015
 ---- Andalusia    3406    134    77
 ---- Aragon    1116    48    4
----- Balearic Islands    660    19    39
+---- Balearic Islands    660    22    39
 ---- Basque Country    3946    180    621
----- Canary Islands    787    24    18
+---- Canary Islands    878    27    18
 ---- Cantabria    671    17    14
----- Castile and León    3488    206    308
+---- Castile and León    3488    253    308
 ---- Castile-La Mancha    3383    316    95
----- Catalonia    11592    672    1697
+---- Catalonia    12940    880    1697
 ---- Community of Madrid    17166    2090    3882
 ---- Comunidad Foral de Navarra    1411    49    35
 ---- Extremadura    969    58    24
 ---- Galicia    1915    3032    47
----- Principality of Asturias    841    27    40
----- Región de Murcia    596    8    9
+---- Principality of Asturias    900    29    40
+---- Región de Murcia    687    15    9
 ---- Rioja    995    43    48
 ---- Valencian Community    3200    167    57
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
----- Ceuta    10    0    0
+---- Ceuta    16    0    0
 -- Germany    47278    281    5673
 ---- Saxony    1275    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
@@ -2322,7 +2322,7 @@
 ---- Scotland    894    25    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    11811    192    131
+-- Switzerland    11811    194    131
 -- Korea, Republic of    9332    139    4528
 ---- Busan    113    2    81
 ---- Chungcheongbuk-do    41    0    17
@@ -2345,7 +2345,7 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    6962    49    112
+-- Austria    7029    49    112
 -- Belgium    6235    220    675
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
@@ -2362,7 +2362,7 @@
 ---- Yukon    3    0    0
 -- Turkey    3629    75    26
 -- Portugal    3544    60    43
--- Norway    3372    14    6
+-- Norway    3379    14    6
 -- Australia    3166    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
@@ -2375,11 +2375,11 @@
 -- Israel    3035    10    79
 -- Brazil    2985    77    6
 -- Sweden    2840    77    16
+-- Czechia    2062    9    10
 -- Malaysia    2031    24    215
 -- Denmark    2023    41    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Czechia    1925    9    10
 -- Japan    1848    47    359
 ---- Hokkaido    168    7    100
 ---- kochi    12    0    0
@@ -2447,13 +2447,13 @@
 -- Mexico    585    8    4
 -- Peru    580    9    14
 -- Slovenia    577    6    10
+-- Croatia    551    3    37
 -- Qatar    549    0    43
 -- Estonia    538    1    8
 -- Egypt    495    24    102
--- Croatia    495    3    22
 -- Colombia    491    6    8
 -- Dominican Republic    488    10    3
--- Bahrain    458    4    204
+-- Bahrain    458    4    210
 -- Serbia    457    7    15
 -- Hong Kong    454    4    110
 -- Iraq    382    36    105
@@ -2464,27 +2464,27 @@
 -- United Arab Emirates    333    2    52
 -- Armenia    329    1    18
 -- Hungary    300    10    34
+-- Latvia    280    0    1
 -- Bulgaria    276    3    8
 -- Morocco    275    11    8
 -- Taiwan    267    2    30
--- Latvia    244    0    1
 -- Uruguay    238    0    0
 -- Costa Rica    231    2    2
 -- Slovakia    226    1    7
 -- Andorra    224    3    1
+-- Ukraine    218    5    8
 -- Jordan    212    0    1
 -- Kuwait    208    0    49
 -- San Marino    208    21    4
 -- North Macedonia    201    3    3
 -- Tunisia    200    6    2
--- Ukraine    196    5    8
--- Bosnia and Herzegovina    191    3    2
--- Moldova, Republic of    177    1    2
+-- Bosnia and Herzegovina    192    3    5
+-- Moldova, Republic of    177    2    2
 -- Albania    174    7    17
 -- Viet Nam    153    0    20
 -- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
--- Faroe Islands    140    0    47
+-- Faroe Islands    140    0    54
 -- Réunion    135    0    1
 -- Malta    134    0    2
 -- Ghana    132    4    8
@@ -2513,12 +2513,12 @@
 -- Cuba    67    2    1
 -- Trinidad and Tobago    65    1    1
 -- Bolivia, Plurinational State of    61    0    0
+-- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
 -- Paraguay    52    3    1
 -- Congo, Democratic Republic of the    51    3    0
 -- Rwanda    50    0    0
 -- Bangladesh    48    5    11
--- Kyrgyzstan    44    0    0
 -- Puerto Rico    39    2    1
 -- Mayotte    36    0    0
 -- Gibraltar    35    0    13
@@ -2570,6 +2570,7 @@
 -- Montserrat    5    0    0
 -- Fiji    5    0    0
 -- Cabo Verde    5    1    0
+-- Zimbabwe    5    1    0
 -- Syrian Arab Republic    5    0    0
 -- Myanmar    5    0    0
 -- Nepal    4    0    1
@@ -2587,7 +2588,6 @@
 -- Liberia    3    0    0
 -- Gambia    3    1    0
 -- Chad    3    0    0
--- Zimbabwe    3    1    0
 -- Jersey    2    0    0
 -- Somalia    2    0    0
 -- Nicaragua    2    1    0
