@@ -2345,7 +2345,7 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    6909    49    112
+-- Austria    6962    49    112
 -- Belgium    6235    220    675
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
@@ -2427,8 +2427,8 @@
 -- Luxembourg    1453    9    6
 -- Ecuador    1403    34    3
 -- Chile    1306    4    22
+-- Poland    1244    16    13
 -- Pakistan    1235    9    23
--- Poland    1221    16    13
 -- Thailand    1136    5    97
 -- Romania    1029    24    94
 -- Saudi Arabia    1012    3    33
@@ -2480,7 +2480,7 @@
 -- Ukraine    196    5    8
 -- Bosnia and Herzegovina    191    3    2
 -- Moldova, Republic of    177    1    2
--- Albania    174    6    17
+-- Albania    174    7    17
 -- Viet Nam    153    0    20
 -- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
@@ -2498,7 +2498,7 @@
 -- Cambodia    98    0    11
 -- Côte d'Ivoire    96    0    3
 -- Afghanistan    94    4    2
--- Cameroon    88    1    2
+-- Cameroon    88    2    2
 -- Belarus    86    0    29
 -- Palestine    86    1    17
 -- Uzbekistan    83    1    5
@@ -2536,11 +2536,11 @@
 -- Barbados    24    0    0
 -- Guyana    23    1    0
 -- Madagascar    23    0    0
+-- Uganda    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Zambia    16    0    0
+-- New Caledonia    15    0    0
 -- Bermuda    15    0    2
--- New Caledonia    14    0    0
--- Uganda    14    0    0
 -- Maldives    13    0    9
 -- Tanzania, United Republic of    13    0    0
 -- El Salvador    13    0    0
