@@ -2237,19 +2237,19 @@
 ---- Navarre    130    0    0
 ---- Ceuta    16    0    0
 -- Germany    47278    281    5673
----- Saxony    1275    8    15
+---- Saxony    1305    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
----- Free State of Bavaria    8842    52    99
----- Berlin    1937    5    6
+---- Free State of Bavaria    9481    55    99
+---- Berlin    1955    8    6
 ---- Brandenburg    579    1    9
----- Thuringia    572    3    72
----- Schleswig-Holstein    685    4    3
----- Lower Saxony    2726    10    234
+---- Thuringia    572    4    72
+---- Schleswig-Holstein    821    5    3
+---- Lower Saxony    2810    10    234
 ---- Bremen    244    1    40
----- Hamburg    1614    1    1
----- Rhineland-Palatinate    1873    8    7
----- North Rhine-Westphalia    10948    82    837
----- Hesse    2170    6    19
+---- Hamburg    1693    2    1
+---- Rhineland-Palatinate    1971    8    7
+---- North Rhine-Westphalia    11523    85    837
+---- Hesse    2323    6    19
 ---- Baden-Württemberg    8441    76    285
 ---- Saxony-Anhalt    500    2    21
 ---- Saarland    540    3    25
@@ -2345,8 +2345,8 @@
 -- Netherlands    7468    435    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7129    58    225
--- Belgium    6235    220    675
+-- Belgium    7284    289    675
+-- Austria    7196    58    225
 -- Canada    4046    40    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
@@ -2460,19 +2460,19 @@
 -- Lebanon    368    6    23
 -- New Zealand    368    0    37
 -- Algeria    367    25    65
--- Lithuania    345    4    1
+-- Lithuania    345    5    1
 -- United Arab Emirates    333    2    52
 -- Armenia    329    1    18
 -- Hungary    300    10    34
 -- Latvia    280    0    1
 -- Bulgaria    276    3    8
 -- Morocco    275    11    8
+-- Slovakia    269    1    7
 -- Taiwan    267    2    30
 -- Uruguay    238    0    0
 -- Costa Rica    231    2    2
 -- Bosnia and Herzegovina    230    3    5
 -- Tunisia    227    6    2
--- Slovakia    226    1    7
 -- Kuwait    225    0    57
 -- Andorra    224    3    1
 -- Ukraine    218    5    8
@@ -2484,23 +2484,23 @@
 -- Viet Nam    153    0    20
 -- Burkina Faso    152    7    10
 -- Cyprus    146    3    4
--- Faroe Islands    140    0    54
+-- Faroe Islands    144    0    54
 -- Ghana    136    4    8
 -- Réunion    135    0    1
 -- Malta    134    0    2
 -- Oman    131    0    23
 -- Kazakhstan    125    3    2
 -- Azerbaijan    122    3    15
--- Brunei Darussalam    114    0    5
+-- Brunei Darussalam    115    0    11
 -- Venezuela, Bolivarian Republic of    107    1    15
 -- Sri Lanka    106    0    7
 -- Senegal    105    0    9
 -- Cambodia    98    0    11
 -- Côte d'Ivoire    96    0    3
 -- Afghanistan    94    4    2
+-- Belarus    94    0    29
 -- Palestine    91    1    17
 -- Cameroon    88    2    2
--- Belarus    86    0    29
 -- Uzbekistan    83    1    5
 -- Georgia    81    0    13
 -- Martinique    81    1    0
@@ -2518,9 +2518,9 @@
 -- Paraguay    52    3    1
 -- Congo, Democratic Republic of the    51    3    0
 -- Rwanda    50    0    0
+-- Mayotte    50    0    0
 -- Bangladesh    48    5    11
 -- Puerto Rico    39    2    1
--- Mayotte    36    0    0
 -- Gibraltar    35    0    13
 -- Monaco    33    0    1
 -- Macao    33    0    10
