@@ -2311,10 +2311,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    7973    414    0
----- Northern Ireland    209    7    0
----- Wales    628    22    0
----- Scotland    719    22    0
+---- England    9782    521    0
+---- Northern Ireland    241    10    0
+---- Wales    741    28    0
+---- Scotland    894    25    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    11811    192    131
@@ -2433,7 +2433,7 @@
 -- Greece    892    27    36
 -- Russian Federation    840    3    38
 -- Iceland    802    5    82
--- India    727    20    45
+-- India    727    20    50
 -- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
@@ -2493,12 +2493,12 @@
 -- Cambodia    98    0    10
 -- Côte d'Ivoire    96    0    3
 -- Afghanistan    94    4    2
+-- Cameroon    88    1    2
 -- Belarus    86    0    29
 -- Palestine    86    1    17
 -- Martinique    81    1    0
 -- Mauritius    81    2    0
 -- Georgia    79    0    11
--- Cameroon    75    1    2
 -- Uzbekistan    75    0    0
 -- Guadeloupe    73    1    0
 -- Kosovo    71    1    0
