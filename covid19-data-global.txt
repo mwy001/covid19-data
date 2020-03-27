@@ -1,4 +1,4 @@
--- United States of America    86091    1326    753
+-- United States of America    86112    1326    753
 ---- NY    39140    461    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    19    0
@@ -91,7 +91,7 @@
 ------ Douglas(53017)    5    0    0
 ------ Okanogan(53047)    1    0    0
 ------ Ferry(53019)    1    0    0
----- CA    4040    82    22
+---- CA    4052    83    22
 ------ Santa Clara(06085)    542    19    0
 ------ Los Angeles(06037)    1230    21    0
 ------ San Mateo(06081)    195    5    0
@@ -458,7 +458,7 @@
 ------ Franklin(13119)    1    0    0
 ------ Haralson(13143)    1    0    0
 ------ McDuffie(13189)    1    0    0
----- TX    1658    24    45
+---- TX    1661    24    45
 ------ Dallas(48113)    303    7    0
 ------ Travis(48453)    137    0    0
 ------ Harris(48201)    203    2    0
@@ -491,7 +491,7 @@
 ------ Williamson(48491)    27    0    0
 ------ Fannin(48147)    1    0    0
 ------ Jefferson(48245)    7    1    0
------- Cameron(48061)    10    0    0
+------ Cameron(48061)    13    0    0
 ------ Brown(48049)    3    0    0
 ------ Potter(48375)    4    0    0
 ------ Houston(48225)    10    0    0
@@ -1118,7 +1118,7 @@
 ------ Marion(45067)    1    0    0
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    1    0    0
----- AL    531    1    0
+---- AL    538    3    0
 ------ Jefferson(01073)    169    0    0
 ------ Shelby(01117)    53    0    0
 ------ Lee(01081)    47    0    0
@@ -1127,7 +1127,7 @@
 ------ Montgomery(01101)    17    0    0
 ------ Baldwin(01003)    5    0    0
 ------ Limestone(01083)    13    0    0
------- Madison(01089)    43    0    0
+------ Madison(01089)    43    1    0
 ------ Calhoun(01015)    2    0    0
 ------ St Clair(01115)    7    0    0
 ------ Chambers(01017)    13    0    0
@@ -1136,7 +1136,7 @@
 ------ Mobile(01097)    19    0    0
 ------ Jackson(01071)    4    1    0
 ------ Lamar(01075)    1    0    0
------- Lauderdale(01077)    9    0    0
+------ Lauderdale(01077)    9    1    0
 ------ Washington(01129)    2    0    0
 ------ Cullman(01043)    6    0    0
 ------ Marion(01093)    7    0    0
@@ -1528,7 +1528,7 @@
 ------ Lincoln(40081)    1    1    0
 ------ Ottawa(40115)    1    1    0
 ------ Sequoyah(40135)    1    1    0
----- KS    173    3    0
+---- KS    174    3    0
 ------ Johnson(20091)    59    1    0
 ------ Wyandotte(20209)    34    2    0
 ------ Butler(20015)    3    0    0
@@ -1555,6 +1555,7 @@
 ------ Shawnee(20177)    4    0    0
 ------ Jefferson(20087)    1    0    0
 ------ Sumner(20191)    1    0    0
+------ Gove(20063)    1    0    0
 ---- VT    158    9    0
 ------ Chittenden(50007)    75    4    0
 ------ Bennington(50003)    11    0    0
@@ -1730,7 +1731,7 @@
 ------ Mason(54053)    1    0    0
 ------ Upshur(54097)    1    0    0
 ---- GU    51    1    0
------- Guam(66010)    45    1    0
+------ Guam(66010)    51    1    0
 ---- PR    79    3    0
 ---- VI    17    0    0
 -- China    82164    3298    74743
@@ -2363,7 +2364,7 @@
 ---- Nova Scotia    73    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3683    16    6
+-- Norway    3687    16    6
 -- Turkey    3629    75    26
 -- Australia    3180    13    172
 ---- New South Wales    1219    7    4
@@ -2376,38 +2377,38 @@
 ---- Australian Capital Territory    53    0    1
 -- Sweden    3046    92    16
 -- Israel    3035    11    79
--- Brazil    2988    77    6
+-- Brazil    2991    77    6
 -- Malaysia    2161    26    259
 -- Czechia    2062    9    11
 -- Denmark    2023    52    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Japan    1848    47    359
----- Hokkaido    168    7    100
----- kochi    12    0    0
+---- Hokkaido    169    7    100
+---- kochi    13    0    0
 ---- Miyagi    2    0    0
----- Niigata    29    0    0
+---- Niigata    30    0    0
 ---- Gifu    16    0    0
 ---- Nagano    5    0    0
 ---- Tochigi    11    0    0
----- Kumamoto    8    0    0
----- Saitama    67    1    0
+---- Kumamoto    9    0    0
+---- Saitama    73    2    0
 ---- Ishikawa    8    0    0
----- Fukuoka    9    0    0
----- Tokyo    259    4    0
+---- Fukuoka    16    0    0
+---- Tokyo    299    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    35    0    2
----- Osaka    156    2    1
----- Chiba    56    0    0
----- Kanagawa    93    4    1
+---- Osaka    176    2    1
+---- Chiba    63    0    0
+---- Kanagawa    104    4    1
 ---- Shizuoka    3    0    0
----- Aichi    157    19    2
+---- Aichi    158    19    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    6    0    1
 ---- Ehime    4    0    0
----- hyogo    120    6    0
+---- hyogo    122    6    0
 ---- oita    25    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
@@ -2421,14 +2422,14 @@
 ---- Nagasaki    2    0    0
 ---- Ibaraki    12    0    0
 ---- Kagawa    1    0    0
----- Fukui    5    0    0
----- Okayama    1    0    0
+---- Fukui    7    0    0
+---- Okayama    2    0    0
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
 -- Ireland    1819    19    5
+-- Chile    1610    5    22
 -- Luxembourg    1453    9    6
 -- Ecuador    1403    34    3
--- Chile    1306    4    22
 -- Romania    1292    24    115
 -- Poland    1289    16    13
 -- Pakistan    1252    9    23
