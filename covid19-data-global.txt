@@ -1,5 +1,5 @@
--- United States of America    97665    1495    862
----- NY    44743    519    16
+-- United States of America    97681    1497    862
+---- NY    44745    519    16
 ------ Westchester(36119)    7187    1    0
 ------ Nassau(36059)    4657    19    0
 ------ Suffolk(36103)    3385    22    0
@@ -17,7 +17,7 @@
 ------ Greene(36039)    5    0    0
 ------ Onondaga(36067)    111    1    0
 ------ Putnam(36079)    94    0    0
------- Broome(36007)    16    2    0
+------ Broome(36007)    18    2    0
 ------ Clinton(36019)    11    0    0
 ------ Delaware(36025)    7    0    0
 ------ Essex(36031)    5    0    0
@@ -462,7 +462,7 @@
 ------ McDuffie(13189)    1    0    0
 ------ Upson(13293)    2    0    0
 ------ Habersham(13137)    1    0    0
----- TX    1776    24    48
+---- TX    1777    24    48
 ------ Dallas(48113)    367    7    0
 ------ Travis(48453)    137    0    0
 ------ Harris(48201)    203    2    0
@@ -502,7 +502,7 @@
 ------ Van Zandt(48467)    1    0    0
 ------ Crane(48103)    1    0    0
 ------ Lamar(48277)    1    0    0
------- Midland(48329)    6    1    0
+------ Midland(48329)    7    1    0
 ------ Randall(48381)    2    0    0
 ------ Castro(48069)    7    0    0
 ------ Oldham(48359)    2    1    0
@@ -620,7 +620,7 @@
 ------ Susquehanna(42115)    1    0    0
 ------ Northumberland(42097)    1    3    0
 ------ Union(42119)    1    0    0
----- WI    845    14    1
+---- WI    847    15    1
 ------ Milwaukee(55079)    411    8    0
 ------ Dane(55025)    138    1    0
 ------ Kenosha(55059)    23    0    0
@@ -640,7 +640,7 @@
 ------ Bayfield(55007)    2    0    0
 ------ Calumet(55015)    1    0    0
 ------ Columbia(55021)    6    0    0
------- Sauk(55111)    8    0    0
+------ Sauk(55111)    8    1    0
 ------ Dunn(55033)    2    0    0
 ------ St Croix(55109)    4    0    0
 ------ Rock(55105)    12    0    0
@@ -661,6 +661,7 @@
 ------ Juneau(55057)    2    0    0
 ------ Iron(55051)    1    1    0
 ------ Marinette(55075)    1    0    0
+------ Richland(55103)    2    0    0
 ---- TN    1178    3    52
 ------ Davidson(47037)    312    2    0
 ------ Williamson(47187)    70    0    0
@@ -884,7 +885,7 @@
 ------ King George(51099)    1    0    0
 ------ Northampton(51131)    1    0    0
 ------ Montgomery(51121)    1    0    0
----- NC    853    4    0
+---- NC    860    4    0
 ------ Wake(37183)    105    0    0
 ------ Durham(37063)    93    0    0
 ------ Mecklenburg(37119)    259    0    0
@@ -906,7 +907,7 @@
 ------ Wilson(37195)    7    0    0
 ------ Gaston(37071)    12    0    0
 ------ New Hanover(37129)    15    0    0
------- Union(37179)    27    0    0
+------ Union(37179)    34    0    0
 ------ Moore(37125)    3    0    0
 ------ Buncombe(37021)    15    0    0
 ------ Hoke(37093)    2    0    0
@@ -1086,13 +1087,13 @@
 ------ Nye(32023)    1    0    0
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    1    0    0
----- UT    480    1    0
------- Salt Lake(49035)    218    0    0
------- Summit(49043)    103    0    0
+---- UT    480    2    0
+------ Salt Lake(49035)    221    0    0
+------ Summit(49043)    110    0    0
 ------ Davis(49011)    50    1    0
------- Wasatch(49051)    28    0    0
+------ Wasatch(49051)    29    0    0
 ------ Tooele(49045)    5    0    0
------- Utah(49049)    26    0    0
+------ Utah(49049)    27    0    0
 ------ Cache(49005)    3    0    0
 ------ Box Elder(49003)    1    0    0
 ------ Washington(49053)    8    0    0
@@ -1139,10 +1140,10 @@
 ------ Marion(45067)    1    0    0
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    1    0    0
----- AL    583    4    0
------- Jefferson(01073)    176    0    0
+---- AL    587    4    0
+------ Jefferson(01073)    177    0    0
 ------ Shelby(01117)    66    0    0
------- Lee(01081)    47    0    0
+------ Lee(01081)    48    0    0
 ------ Tuscaloosa(01125)    21    0    0
 ------ Elmore(01051)    12    0    0
 ------ Montgomery(01101)    18    0    0
@@ -1154,7 +1155,7 @@
 ------ Chambers(01017)    13    0    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    23    0    0
------- Mobile(01097)    22    1    0
+------ Mobile(01097)    23    1    0
 ------ Jackson(01071)    4    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    9    1    0
@@ -2411,10 +2412,10 @@
 -- Netherlands    8603    546    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7642    58    225
+-- Austria    7657    58    225
 -- Belgium    7284    289    858
 -- Turkey    5698    92    42
--- Canada    4613    54    320
+-- Canada    4625    54    320
 ---- British Columbia    725    14    4
 ---- Ontario    858    13    6
 ---- Alberta    486    2    0
@@ -2429,6 +2430,7 @@
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
 -- Norway    3717    19    6
+-- Brazil    3417    92    6
 -- Australia    3180    13    172
 ---- New South Wales    1219    7    4
 ---- Victoria    520    3    149
@@ -2440,7 +2442,6 @@
 ---- Australian Capital Territory    53    0    1
 -- Sweden    3046    92    16
 -- Israel    3035    12    79
--- Brazil    3027    77    6
 -- Czechia    2279    9    11
 -- Malaysia    2161    26    259
 -- Ireland    2121    22    5
@@ -2493,8 +2494,8 @@
 -- Chile    1610    5    43
 -- Luxembourg    1605    15    40
 -- Ecuador    1595    36    3
--- Poland    1340    16    13
--- Pakistan    1331    9    23
+-- Poland    1389    16    13
+-- Pakistan    1331    10    23
 -- Romania    1292    26    115
 -- South Africa    1170    2    12
 -- Thailand    1136    5    97
@@ -2536,10 +2537,10 @@
 -- Slovakia    269    1    7
 -- Andorra    267    3    1
 -- Taiwan    267    2    30
+-- Costa Rica    263    2    2
 -- Uruguay    238    0    0
--- Jordan    235    0    16
+-- Jordan    235    0    17
 -- Bosnia and Herzegovina    232    4    5
--- Costa Rica    231    2    2
 -- Tunisia    227    6    2
 -- Ukraine    226    5    8
 -- Kuwait    225    0    57
@@ -2575,7 +2576,7 @@
 -- Montenegro    75    1    0
 -- Guadeloupe    73    1    0
 -- Kosovo    71    1    0
--- Nigeria    69    1    3
+-- Nigeria    70    1    3
 -- Honduras    68    1    0
 -- Trinidad and Tobago    66    2    1
 -- Bolivia, Plurinational State of    61    0    0
@@ -2596,10 +2597,10 @@
 -- Isle of Man    29    0    0
 -- French Guiana    28    0    6
 -- Aruba    28    0    1
+-- Guatemala    28    1    4
 -- Jamaica    26    1    2
 -- Madagascar    26    0    0
 -- Togo    25    0    1
--- Guatemala    25    1    4
 -- Barbados    24    0    0
 -- Guyana    23    1    0
 -- Zambia    22    0    0
