@@ -1,4 +1,4 @@
--- United States of America    86030    1326    753
+-- United States of America    86059    1326    753
 ---- NY    39140    457    16
 ------ Westchester(36119)    5944    1    0
 ------ Nassau(36059)    3914    17    0
@@ -457,7 +457,7 @@
 ------ Calhoun(13037)    1    0    0
 ------ Franklin(13119)    1    0    0
 ------ Haralson(13143)    1    0    0
----- TX    1651    24    45
+---- TX    1654    24    45
 ------ Dallas(48113)    303    7    0
 ------ Travis(48453)    137    0    0
 ------ Harris(48201)    203    2    0
@@ -477,7 +477,7 @@
 ------ Bowie(48037)    1    0    0
 ------ Brazos(48041)    28    0    0
 ------ Denton(48121)    83    1    0
------- Ellis(48139)    7    0    0
+------ Ellis(48139)    10    0    0
 ------ Gregg(48183)    4    0    0
 ------ Lavaca(48285)    1    0    0
 ------ Rusk(48401)    2    0    0
@@ -564,13 +564,13 @@
 ------ Washington(48477)    3    0    0
 ------ Dawson(48115)    1    0    0
 ------ Cherokee(48073)    1    0    0
----- PA    1795    18    0
+---- PA    1813    18    0
 ------ Montgomery(42091)    313    3    0
 ------ Philadelphia(42101)    475    1    0
 ------ Allegheny(42003)    133    2    0
 ------ Cumberland(42041)    15    0    0
 ------ Delaware(42045)    156    2    0
------- Bucks(42017)    110    0    0
+------ Bucks(42017)    128    0    0
 ------ Monroe(42089)    67    2    0
 ------ Chester(42029)    84    0    0
 ------ Washington(42125)    12    0    0
@@ -782,7 +782,7 @@
 ------ Shelby(39149)    1    0    0
 ------ Wyandot(39175)    1    0    0
 ------ Fulton(39051)    2    0    0
----- OR    316    11    0
+---- OR    317    11    0
 ------ Washington(41067)    104    3    0
 ------ Linn(41043)    26    1    0
 ------ Clackamas(41005)    21    2    0
@@ -795,7 +795,7 @@
 ------ Umatilla(41059)    2    0    0
 ------ Douglas(41019)    3    0    0
 ------ Klamath(41035)    1    0    0
------- Lane(41039)    7    1    0
+------ Lane(41039)    8    1    0
 ------ Yamhill(41071)    7    0    0
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
@@ -1179,7 +1179,7 @@
 ------ Franklin(23007)    1    0    0
 ---- DC    267    3    49
 ------ District of Columbia(11001)    267    3    0
----- IN    656    17    0
+---- IN    657    17    0
 ------ Marion(18097)    293    6    0
 ------ Hendricks(18063)    21    0    0
 ------ Johnson(18081)    36    3    0
@@ -1199,7 +1199,7 @@
 ------ Madison(18095)    4    0    0
 ------ St Joseph(18141)    21    0    0
 ------ Owen(18119)    4    0    0
------- Tippecanoe(18157)    7    0    0
+------ Tippecanoe(18157)    8    0    0
 ------ Wayne(18177)    1    0    0
 ------ Allen(18003)    19    1    0
 ------ Monroe(18105)    6    0    0
@@ -1327,21 +1327,22 @@
 ------ Cheshire(33005)    2    0    0
 ------ Strafford(33017)    7    0    0
 ------ Sullivan(33019)    2    0    0
----- NE    76    0    0
+---- NE    82    0    0
 ------ Douglas(31055)    44    0    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
------- Sarpy(31153)    8    0    0
+------ Sarpy(31153)    10    0    0
 ------ Lincoln(31111)    3    0    0
 ------ Adams(31001)    1    0    0
 ------ Nemaha(31127)    1    0    0
 ------ Lancaster(31109)    3    0    0
------- Buffalo(31019)    2    0    0
+------ Buffalo(31019)    4    0    0
 ------ Gage(31067)    1    0    0
 ------ Madison(31119)    1    0    0
 ------ Washington(31177)    5    0    0
 ------ Saunders(31155)    2    0    0
 ------ Dawson(31047)    1    0    0
+------ Kearney(31099)    1    0    0
 ---- NM    136    1    0
 ------ Bernalillo(35001)    55    0    0
 ------ Santa Fe(35049)    22    0    0
@@ -2370,7 +2371,7 @@
 -- Brazil    2985    77    6
 -- Sweden    2840    77    16
 -- Israel    2693    8    68
--- Malaysia    2031    23    215
+-- Malaysia    2031    24    215
 -- Denmark    2023    41    50
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2433,7 +2434,7 @@
 -- Greece    892    27    36
 -- Russian Federation    840    3    38
 -- Iceland    802    5    82
--- India    727    20    50
+-- India    733    20    66
 -- Philippines    707    45    28
 -- Singapore    683    2    172
 ---- Central Singapore Community Development Council    345    0    124
@@ -2484,13 +2485,13 @@
 -- Malta    134    0    2
 -- Ghana    132    4    8
 -- Azerbaijan    122    3    15
+-- Kazakhstan    121    3    2
 -- Brunei Darussalam    114    0    5
--- Kazakhstan    113    3    2
 -- Oman    109    0    23
 -- Venezuela, Bolivarian Republic of    107    1    15
 -- Sri Lanka    106    0    7
 -- Senegal    105    0    9
--- Cambodia    98    0    10
+-- Cambodia    98    0    11
 -- Côte d'Ivoire    96    0    3
 -- Afghanistan    94    4    2
 -- Cameroon    88    1    2
@@ -2509,11 +2510,11 @@
 -- Trinidad and Tobago    65    1    1
 -- Bolivia, Plurinational State of    61    0    0
 -- Liechtenstein    56    0    0
+-- Paraguay    52    3    1
 -- Congo, Democratic Republic of the    51    3    0
 -- Rwanda    50    0    0
 -- Bangladesh    44    5    11
 -- Kyrgyzstan    44    0    0
--- Paraguay    41    3    0
 -- Puerto Rico    39    2    1
 -- Mayotte    36    0    0
 -- Gibraltar    35    0    13
@@ -2573,6 +2574,7 @@
 -- Guinea    4    0    0
 -- Angola    4    0    0
 -- Mali    4    0    0
+-- Bhutan    3    0    0
 -- Mauritania    3    0    0
 -- Saint Lucia    3    0    1
 -- Sudan    3    1    0
@@ -2582,7 +2584,6 @@
 -- Gambia    3    1    0
 -- Chad    3    0    0
 -- Zimbabwe    3    1    0
--- Bhutan    2    0    0
 -- Jersey    2    0    0
 -- Somalia    2    0    0
 -- Nicaragua    2    1    0
