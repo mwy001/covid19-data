@@ -1,4 +1,4 @@
--- United States of America    104829    1749    894
+-- United States of America    104852    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -1664,7 +1664,7 @@
 ------ New Castle(10003)    106    2    0
 ------ Sussex(10005)    38    1    0
 ------ Kent(10001)    21    1    0
----- MO    686    18    6
+---- MO    709    18    6
 ------ Greene(29077)    41    3    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    42    1    0
@@ -2502,7 +2502,7 @@
 ---- Gifu    17    0    0
 ---- Nagano    6    0    0
 ---- Tochigi    11    0    0
----- Kumamoto    9    0    0
+---- Kumamoto    11    0    0
 ---- Saitama    73    2    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    16    0    0
@@ -2510,14 +2510,14 @@
 ---- Wakayama    17    1    2
 ---- Kyoto    35    0    2
 ---- Osaka    176    2    1
----- Chiba    63    0    0
+---- Chiba    63    1    0
 ---- Kanagawa    104    4    1
 ---- Shizuoka    3    0    0
 ---- Aichi    160    19    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
----- Okinawa    6    0    1
+---- Okinawa    8    0    1
 ---- Ehime    4    0    0
 ---- hyogo    123    6    0
 ---- oita    27    0    0
