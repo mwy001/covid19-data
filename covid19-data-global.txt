@@ -2541,9 +2541,9 @@
 -- Ecuador    1627    41    3
 -- Chile    1610    5    43
 -- Luxembourg    1605    15    40
+-- Romania    1452    29    139
 -- Poland    1436    16    13
 -- Pakistan    1408    11    25
--- Romania    1292    29    115
 -- Russian Federation    1264    4    49
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
@@ -2569,8 +2569,8 @@
 -- Egypt    536    30    116
 -- Serbia    528    8    42
 -- Hong Kong    519    4    111
+-- Iraq    506    42    131
 -- Bahrain    473    4    254
--- Iraq    458    40    122
 -- New Zealand    451    0    50
 -- Lebanon    412    8    27
 -- Algeria    409    26    65
@@ -2597,7 +2597,7 @@
 -- Moldova, Republic of    199    2    2
 -- Albania    186    8    31
 -- Burkina Faso    180    9    12
--- Viet Nam    169    0    20
+-- Viet Nam    169    0    21
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
 -- Oman    152    0    23
@@ -2606,10 +2606,10 @@
 -- Malta    139    0    2
 -- Ghana    137    4    8
 -- Senegal    130    0    18
--- Brunei Darussalam    115    1    11
+-- Brunei Darussalam    120    1    25
 -- Venezuela, Bolivarian Republic of    113    2    31
+-- Sri Lanka    110    0    9
 -- Afghanistan    110    4    2
--- Sri Lanka    109    0    9
 -- Uzbekistan    104    2    5
 -- Côte d'Ivoire    101    0    3
 -- Cambodia    99    0    13
@@ -2679,20 +2679,20 @@
 -- Antigua and Barbuda    7    0    0
 -- Gabon    7    1    0
 -- Seychelles    7    0    0
+-- Zimbabwe    7    1    0
 -- Mozambique    7    0    0
 -- Grenada    7    0    0
 -- Benin    6    0    0
 -- Eritrea    6    0    0
 -- Lao People's Democratic Republic    6    0    0
+-- Nepal    5    0    1
 -- Mauritania    5    0    0
 -- Sudan    5    1    0
 -- Saint Barthélemy    5    0    0
 -- Montserrat    5    0    0
 -- Fiji    5    0    0
 -- Cabo Verde    5    1    0
--- Zimbabwe    5    1    0
 -- Syrian Arab Republic    5    0    0
--- Nepal    4    0    1
 -- Holy See    4    0    0
 -- Congo    4    0    0
 -- Nicaragua    4    1    0
