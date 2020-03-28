@@ -1,4 +1,4 @@
--- United States of America    104852    1749    894
+-- United States of America    104872    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -1843,7 +1843,7 @@
 ------ Pleasants(54073)    1    0    0
 ---- GU    51    1    0
 ------ Guam(66010)    51    1    0
----- PR    79    3    0
+---- PR    100    3    0
 ---- VI    19    0    0
 -- Italy    86498    9134    10950
 ---- Abruzzo    1017    68    24
@@ -2460,7 +2460,7 @@
 -- Netherlands    8647    547    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7712    68    225
+-- Austria    7964    68    225
 -- Turkey    5698    92    42
 -- Canada    4781    56    354
 ---- British Columbia    725    14    4
@@ -2491,7 +2491,7 @@
 -- Sweden    3069    105    16
 -- Czechia    2422    9    11
 -- Malaysia    2320    27    320
--- Denmark    2200    52    57
+-- Denmark    2201    52    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    2121    22    5
@@ -2543,11 +2543,11 @@
 -- Luxembourg    1605    15    40
 -- Romania    1452    29    139
 -- Poland    1436    16    13
--- Pakistan    1408    11    25
+-- Pakistan    1415    12    29
 -- Russian Federation    1264    4    49
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
--- Finland    1165    7    10
+-- Finland    1167    8    10
 -- Indonesia    1155    102    59
 -- Saudi Arabia    1104    3    35
 -- Philippines    1075    68    35
@@ -2565,10 +2565,10 @@
 -- Peru    635    11    16
 -- Dominican Republic    581    20    3
 -- Qatar    562    0    43
+-- Hong Kong    560    4    112
 -- Colombia    539    6    10
 -- Egypt    536    30    116
 -- Serbia    528    8    42
--- Hong Kong    519    4    111
 -- Iraq    506    42    131
 -- Bahrain    473    4    254
 -- New Zealand    451    0    50
@@ -2595,15 +2595,15 @@
 -- North Macedonia    219    3    3
 -- Kazakhstan    204    3    14
 -- Moldova, Republic of    199    2    2
--- Albania    197    8    31
+-- Albania    197    10    31
 -- Burkina Faso    180    9    12
 -- Viet Nam    174    0    21
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
+-- Faroe Islands    155    0    54
 -- Oman    152    0    23
 -- Malta    149    0    2
 -- Réunion    145    0    1
--- Faroe Islands    144    0    54
 -- Ghana    137    4    8
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
@@ -2646,12 +2646,12 @@
 -- Jamaica    30    1    2
 -- French Polynesia    30    0    0
 -- French Guiana    28    0    6
+-- Zambia    28    0    0
 -- Barbados    26    0    0
 -- Madagascar    26    0    0
 -- Togo    25    1    1
 -- Guyana    23    1    0
 -- Uganda    23    0    0
--- Zambia    22    0    0
 -- El Salvador    19    0    0
 -- Mali    18    0    0
 -- Virgin Islands, U.S.    17    0    0
