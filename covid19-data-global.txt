@@ -2330,23 +2330,23 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 -- Spain    72248    5690    12285
----- Andalusia    3406    134    77
+---- Andalusia    3793    144    92
 ---- Aragon    1116    48    4
 ---- Balearic Islands    660    22    39
----- Basque Country    3946    180    621
+---- Basque Country    4601    207    814
 ---- Canary Islands    878    27    18
 ---- Cantabria    671    17    14
----- Castile and León    3488    253    308
----- Castile-La Mancha    3383    316    95
----- Catalonia    12940    880    1697
----- Community of Madrid    17166    2090    3882
+---- Castile and León    4132    253    423
+---- Castile-La Mancha    3943    367    153
+---- Catalonia    12940    880    2348
+---- Community of Madrid    19243    2412    5044
 ---- Comunidad Foral de Navarra    1411    49    35
 ---- Extremadura    969    58    24
----- Galicia    1915    3032    47
+---- Galicia    2322    3032    67
 ---- Principality of Asturias    900    29    40
 ---- Región de Murcia    687    15    9
 ---- Rioja    995    43    48
----- Valencian Community    3200    167    57
+---- Valencian Community    3532    198    73
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    16    0    0
@@ -2476,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3807    20    7
+-- Norway    3811    20    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2495,7 +2495,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    2121    22    5
--- Japan    1848    49    372
+-- Japan    1848    49    404
 ---- Hokkaido    171    7    100
 ---- kochi    13    0    0
 ---- Miyagi    2    0    0
@@ -2504,17 +2504,17 @@
 ---- Nagano    6    0    0
 ---- Tochigi    11    0    0
 ---- Kumamoto    11    0    0
----- Saitama    73    2    0
+---- Saitama    74    2    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    16    0    0
----- Tokyo    359    4    0
+---- Tokyo    362    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    35    0    2
 ---- Osaka    176    2    1
----- Chiba    64    1    0
----- Kanagawa    105    4    1
+---- Chiba    68    1    0
+---- Kanagawa    110    4    1
 ---- Shizuoka    3    0    0
----- Aichi    161    19    2
+---- Aichi    163    19    2
 ---- Nara    11    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2534,7 +2534,7 @@
 ---- Nagasaki    2    0    0
 ---- Ibaraki    13    0    0
 ---- Kagawa    1    0    0
----- Fukui    9    0    0
+---- Fukui    12    0    0
 ---- Okayama    2    0    0
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
@@ -2582,9 +2582,9 @@
 -- Bulgaria    313    5    9
 -- Ukraine    311    8    8
 -- Latvia    305    0    1
+-- Slovakia    292    1    7
 -- Taiwan    283    2    30
 -- Uruguay    274    0    0
--- Slovakia    269    1    7
 -- Andorra    267    3    1
 -- Costa Rica    263    2    3
 -- Bosnia and Herzegovina    257    4    5
@@ -2597,7 +2597,7 @@
 -- Moldova, Republic of    199    2    2
 -- Albania    197    8    31
 -- Burkina Faso    180    9    12
--- Viet Nam    169    0    21
+-- Viet Nam    174    0    21
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
 -- Oman    152    0    23
@@ -2607,13 +2607,14 @@
 -- Ghana    137    4    8
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
--- Venezuela, Bolivarian Republic of    113    2    31
+-- Venezuela, Bolivarian Republic of    113    2    39
 -- Sri Lanka    110    0    9
 -- Afghanistan    110    4    2
 -- Uzbekistan    104    2    5
 -- Côte d'Ivoire    101    0    3
 -- Cambodia    99    0    13
 -- Palestine    97    1    18
+-- Guadeloupe    96    2    17
 -- Honduras    95    1    3
 -- Belarus    94    0    32
 -- Mauritius    94    2    0
@@ -2625,7 +2626,6 @@
 -- Nigeria    81    1    3
 -- Cuba    80    2    4
 -- Bolivia, Plurinational State of    74    0    0
--- Guadeloupe    73    1    0
 -- Trinidad and Tobago    66    2    1
 -- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
@@ -2637,12 +2637,12 @@
 -- Bangladesh    48    5    15
 -- Monaco    42    0    1
 -- Puerto Rico    39    2    1
+-- Kenya    38    1    1
 -- Macao    34    0    10
 -- Aruba    33    0    1
 -- Guam    33    1    0
 -- Guatemala    32    1    4
 -- Isle of Man    32    0    0
--- Kenya    31    1    1
 -- Jamaica    30    1    2
 -- French Polynesia    30    0    0
 -- French Guiana    28    0    6
@@ -2653,6 +2653,7 @@
 -- Uganda    23    0    0
 -- Zambia    22    0    0
 -- El Salvador    19    0    0
+-- Mali    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Bermuda    17    0    2
 -- Maldives    16    0    9
@@ -2664,7 +2665,6 @@
 -- Djibouti    12    0    0
 -- Saint Martin (French part)    11    0    0
 -- Dominica    11    0    0
--- Mali    11    0    0
 -- Bahamas    10    0    1
 -- Greenland    10    0    2
 -- Niger    10    1    0
