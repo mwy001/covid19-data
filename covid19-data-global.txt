@@ -1,10 +1,10 @@
--- United States of America    104224    1733    2387
----- NY    46081    611    1533
+-- United States of America    104575    1733    2387
+---- NY    46082    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
 ------ Suffolk(36103)    3385    30    0
 ------ Albany(36001)    187    0    0
------- Rockland(36087)    1457    7    0
+------ Rockland(36087)    1457    8    0
 ------ Dutchess(36027)    225    1    0
 ------ Orange(36071)    910    4    0
 ------ Monroe(36055)    166    4    0
@@ -92,11 +92,11 @@
 ------ Okanogan(53047)    2    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    4714    97    23
+---- CA    4813    98    26
 ------ Santa Clara(06085)    574    20    0
 ------ Los Angeles(06037)    1465    26    0
 ------ San Mateo(06081)    239    6    0
------- San Diego(06073)    341    6    0
+------ San Diego(06073)    417    6    0
 ------ San Francisco(06075)    279    3    0
 ------ Sacramento(06067)    164    6    0
 ------ Contra Costa(06013)    147    1    0
@@ -105,19 +105,19 @@
 ------ Riverside(06065)    183    8    0
 ------ San Joaquin(06077)    90    3    0
 ------ Santa Cruz(06087)    32    0    0
------- Marin(06041)    65    0    0
+------ Marin(06041)    68    1    0
 ------ Ventura(06111)    61    1    0
 ------ Placer(06061)    30    1    0
 ------ Solano(06095)    34    0    0
 ------ San Luis Obispo(06079)    59    0    0
------- Sonoma(06097)    44    1    0
+------ Sonoma(06097)    50    1    0
 ------ San Benito(06069)    13    1    0
 ------ Yolo(06113)    13    1    0
------- San Bernardino(06071)    55    3    0
+------ San Bernardino(06071)    64    3    0
 ------ Stanislaus(06099)    17    0    0
 ------ Tulare(06107)    20    0    0
 ------ Calaveras(06009)    3    0    0
------- Fresno(06019)    27    0    0
+------ Fresno(06019)    31    0    0
 ------ Imperial(06025)    17    0    0
 ------ Monterey(06053)    24    1    0
 ------ Santa Barbara(06083)    47    0    0
@@ -363,59 +363,59 @@
 ------ Bureau(17011)    1    0    0
 ------ Henry(17073)    1    0    0
 ------ Iroquois(17075)    1    0    0
----- GA    2002    64    0
------- Fulton(13121)    307    9    0
------- Cobb(13067)    144    5    0
------- Bartow(13015)    98    1    0
------- Cherokee(13057)    46    0    0
------- Gwinnett(13135)    102    1    0
------- Dougherty(13095)    193    12    0
------- Floyd(13115)    20    1    0
------- Clayton(13063)    46    1    0
+---- GA    2198    65    0
+------ Fulton(13121)    347    12    0
+------ Cobb(13067)    163    5    0
+------ Bartow(13015)    107    1    0
+------ Cherokee(13057)    50    1    0
+------ Gwinnett(13135)    121    1    0
+------ Dougherty(13095)    203    13    0
+------ Floyd(13115)    26    1    0
+------ Clayton(13063)    53    1    0
 ------ Fayette(13113)    23    2    0
------- Lowndes(13185)    16    1    0
------- Clarke(13059)    32    2    0
+------ Lowndes(13185)    20    1    0
+------ Clarke(13059)    34    2    0
 ------ Coweta(13077)    19    2    0
 ------ Richmond(13245)    12    0    0
 ------ Gordon(13129)    12    1    0
------- Henry(13151)    40    1    0
------- Lee(13177)    35    4    0
+------ Henry(13151)    44    1    0
+------ Lee(13177)    37    5    0
 ------ Troup(13285)    11    1    0
------- Barrow(13013)    6    1    0
+------ Barrow(13013)    7    1    0
 ------ Charlton(13049)    1    0    0
 ------ Columbia(13073)    10    0    0
------- Forsyth(13117)    19    1    0
------- Hall(13139)    24    0    0
+------ Forsyth(13117)    21    1    0
+------ Hall(13139)    30    0    0
 ------ Newton(13217)    15    0    0
------- Paulding(13223)    12    0    0
+------ Paulding(13223)    13    0    0
 ------ Polk(13233)    10    0    0
 ------ Rockdale(13247)    16    1    0
 ------ Spalding(13255)    11    0    0
 ------ Whitfield(13313)    8    0    0
 ------ Murray(13213)    1    0    0
------- Houston(13153)    9    1    0
------- Early(13099)    10    1    0
------- Glynn(13127)    6    0    0
+------ Houston(13153)    10    1    0
+------ Early(13099)    13    1    0
+------ Glynn(13127)    7    0    0
 ------ Laurens(13175)    8    0    0
------- Bibb(13021)    10    0    0
+------ Bibb(13021)    11    0    0
 ------ Muscogee(13215)    8    0    0
 ------ Peach(13225)    6    0    0
 ------ Effingham(13103)    4    0    0
------- DeKalb(13089)    181    2    0
------- Carroll(13045)    55    0    0
------- Chatham(13051)    10    0    0
------- Miller(13201)    2    0    0
------- Tift(13277)    11    0    0
+------ DeKalb(13089)    219    2    0
+------ Carroll(13045)    61    0    0
+------ Chatham(13051)    15    0    0
+------ Miller(13201)    3    0    0
+------ Tift(13277)    13    0    0
 ------ Oconee(13219)    10    0    0
 ------ Worth(13321)    7    1    0
 ------ Dawson(13085)    3    0    0
 ------ Heard(13149)    1    1    0
 ------ Turner(13287)    2    0    0
 ------ Terrell(13273)    6    2    0
------- Douglas(13097)    27    1    0
+------ Douglas(13097)    32    1    0
 ------ Monroe(13207)    3    0    0
 ------ Randolph(13243)    3    0    0
------- Pickens(13227)    4    0    0
+------ Pickens(13227)    4    1    0
 ------ Sumter(13261)    10    0    0
 ------ Lamar(13171)    3    0    0
 ------ Baldwin(13009)    2    0    0
@@ -433,13 +433,13 @@
 ------ Pierce(13229)    1    0    0
 ------ Washington(13303)    2    0    0
 ------ Burke(13033)    3    0    0
------- Colquitt(13071)    4    0    0
+------ Colquitt(13071)    5    0    0
 ------ Harris(13145)    1    0    0
 ------ Liberty(13179)    1    0    0
 ------ Camden(13039)    2    0    0
 ------ Baker(13007)    3    2    0
 ------ Ben Hill(13017)    2    0    0
------- Bryan(13029)    4    0    0
+------ Bryan(13029)    5    0    0
 ------ Crisp(13081)    4    0    0
 ------ Mitchell(13205)    14    0    0
 ------ Greene(13133)    2    0    0
@@ -447,14 +447,14 @@
 ------ Jasper(13159)    2    0    0
 ------ Macon(13193)    1    0    0
 ------ Meriwether(13199)    3    0    0
------- Pulaski(13235)    1    0    0
+------ Pulaski(13235)    2    0    0
 ------ Stephens(13257)    2    0    0
 ------ Walton(13297)    1    0    0
------- Fannin(13111)    2    0    0
+------ Fannin(13111)    3    0    0
 ------ Seminole(13253)    2    0    0
 ------ Telfair(13271)    1    0    0
 ------ Appling(13001)    1    0    0
------- Decatur(13087)    2    0    0
+------ Decatur(13087)    3    0    0
 ------ Dodge(13091)    1    0    0
 ------ Jackson(13157)    2    0    0
 ------ Jones(13169)    2    0    0
@@ -469,9 +469,9 @@
 ------ Franklin(13119)    1    0    0
 ------ Haralson(13143)    1    0    0
 ------ McDuffie(13189)    1    0    0
------- Upson(13293)    2    0    0
+------ Upson(13293)    4    0    0
 ------ Habersham(13137)    1    0    0
----- TX    1950    26    53
+---- TX    1963    26    53
 ------ Dallas(48113)    367    7    0
 ------ Travis(48453)    160    1    0
 ------ Harris(48201)    229    2    0
@@ -484,7 +484,7 @@
 ------ Bell(48027)    25    1    0
 ------ El Paso(48141)    28    0    0
 ------ Hays(48209)    13    0    0
------- Brazoria(48039)    39    0    0
+------ Brazoria(48039)    52    0    0
 ------ Galveston(48167)    40    0    0
 ------ Lubbock(48303)    29    0    0
 ------ Matagorda(48321)    10    1    0
@@ -568,7 +568,7 @@
 ------ Rockwall(48397)    3    0    0
 ------ Hood(48221)    2    0    0
 ------ Austin(48015)    1    0    0
------- Taylor(48441)    2    0    0
+------ Taylor(48441)    3    0    0
 ------ Swisher(48437)    1    0    0
 ------ Starr(48427)    2    0    0
 ------ Shelby(48419)    1    0    0
@@ -905,7 +905,7 @@
 ------ King George(51099)    1    0    0
 ------ Northampton(51131)    1    0    0
 ------ Montgomery(51121)    1    0    0
----- NC    912    5    0
+---- NC    918    5    0
 ------ Wake(37183)    123    0    0
 ------ Durham(37063)    103    0    0
 ------ Mecklenburg(37119)    259    0    0
@@ -926,7 +926,7 @@
 ------ Wayne(37191)    3    0    0
 ------ Wilson(37195)    7    0    0
 ------ Gaston(37071)    17    0    0
------- New Hanover(37129)    15    0    0
+------ New Hanover(37129)    21    0    0
 ------ Union(37179)    34    0    0
 ------ Moore(37125)    5    0    0
 ------ Buncombe(37021)    17    0    0
@@ -1077,7 +1077,7 @@
 ------ Beltrami(27007)    1    0    0
 ------ Lincoln(27081)    1    0    0
 ------ Faribault(27043)    1    0    0
----- MD    776    5    4
+---- MD    779    5    4
 ------ Montgomery(24031)    208    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    103    1    0
@@ -1097,7 +1097,7 @@
 ------ Queen Anne's(24035)    2    0    0
 ------ Somerset(24039)    4    0    0
 ------ Washington(24043)    5    0    0
------- Cecil(24015)    9    0    0
+------ Cecil(24015)    12    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    4    0    0
 ------ Kent(24029)    2    0    0
@@ -1231,8 +1231,8 @@
 ------ Sagadahoc(23023)    4    0    0
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    1    0    0
----- DC    271    4    49
------- District of Columbia(11001)    271    4    0
+---- DC    304    4    51
+------ District of Columbia(11001)    304    4    0
 ---- IN    981    25    0
 ------ Marion(18097)    484    8    0
 ------ Hendricks(18063)    28    2    0
@@ -2430,22 +2430,22 @@
 ---- Cayman Islands    1    1    0
 -- Switzerland    12928    231    1530
 -- Korea, Republic of    9478    144    4811
----- Busan    113    2    81
----- Chungcheongbuk-do    41    0    17
----- Chungcheongnam-do    124    0    78
----- Daegu    6516    98    3324
----- Daejeon    31    0    9
----- Gangwon-do    31    1    20
+---- Busan    114    2    81
+---- Chungcheongbuk-do    41    0    21
+---- Chungcheongnam-do    126    0    81
+---- Daegu    6587    101    3543
+---- Daejeon    31    0    10
+---- Gangwon-do    32    1    20
 ---- Gwangju    20    0    11
----- Gyeonggi-do    412    4    131
----- Gyeongsangbuk-do    1283    34    650
----- Gyeongsangnam-do    91    0    62
----- Incheon    46    0    13
----- Jeju-do    7    0    4
+---- Gyeonggi-do    433    5    140
+---- Gyeongsangbuk-do    1285    35    692
+---- Gyeongsangnam-do    91    0    63
+---- Incheon    51    0    14
+---- Jeju-do    8    0    4
 ---- Jeollabuk-do    10    0    7
 ---- Jeollanam-do    8    0    3
 ---- Sejong    44    0    9
----- Seoul    372    0    89
+---- Seoul    390    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Netherlands    8647    547    6
@@ -2469,7 +2469,7 @@
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
 -- Norway    3771    19    7
--- Brazil    3417    92    6
+-- Brazil    3477    93    6
 -- Australia    3378    13    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2574,11 +2574,11 @@
 -- Hungary    300    10    34
 -- Bulgaria    293    3    9
 -- Latvia    280    0    1
+-- Uruguay    274    0    0
 -- Slovakia    269    1    7
 -- Andorra    267    3    1
 -- Taiwan    267    2    30
 -- Costa Rica    263    2    3
--- Uruguay    238    0    0
 -- Bosnia and Herzegovina    237    4    5
 -- Jordan    235    1    18
 -- Tunisia    227    7    2
@@ -2588,8 +2588,8 @@
 -- Moldova, Republic of    199    2    2
 -- Albania    186    8    31
 -- Burkina Faso    180    9    12
+-- Viet Nam    169    0    20
 -- Azerbaijan    165    3    15
--- Viet Nam    163    0    20
 -- Cyprus    162    5    15
 -- Kazakhstan    150    3    3
 -- Réunion    145    0    1
@@ -2607,13 +2607,13 @@
 -- Honduras    95    1    0
 -- Belarus    94    0    32
 -- Mauritius    94    2    0
+-- Martinique    93    1    0
 -- Cameroon    91    2    2
 -- Palestine    91    1    17
 -- Uzbekistan    88    1    5
 -- Kosovo    86    1    1
 -- Georgia    83    0    14
 -- Montenegro    82    1    0
--- Martinique    81    1    0
 -- Cuba    80    2    4
 -- Guadeloupe    73    1    0
 -- Nigeria    70    1    3
@@ -2676,6 +2676,7 @@
 -- Benin    6    0    0
 -- Eritrea    6    0    0
 -- Lao People's Democratic Republic    6    0    0
+-- Mauritania    5    0    0
 -- Saint Barthélemy    5    0    0
 -- Montserrat    5    0    0
 -- Fiji    5    0    0
@@ -2687,7 +2688,6 @@
 -- Congo    4    0    0
 -- Angola    4    0    0
 -- Bhutan    3    0    0
--- Mauritania    3    0    0
 -- Saint Lucia    3    0    1
 -- Sudan    3    1    0
 -- Central African Republic    3    0    0
