@@ -1,4 +1,4 @@
--- United States of America    104692    1746    890
+-- United States of America    104715    1746    890
 ---- NY    46093    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -92,14 +92,14 @@
 ------ Okanogan(53047)    2    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    4864    100    26
+---- CA    4884    100    26
 ------ Santa Clara(06085)    574    20    0
 ------ Los Angeles(06037)    1465    26    0
 ------ San Mateo(06081)    239    6    0
 ------ San Diego(06073)    417    6    0
 ------ San Francisco(06075)    279    3    0
 ------ Sacramento(06067)    164    6    0
------- Contra Costa(06013)    147    1    0
+------ Contra Costa(06013)    151    1    0
 ------ Orange(06059)    321    3    0
 ------ Alameda(06001)    220    4    0
 ------ Riverside(06065)    183    8    0
@@ -111,7 +111,7 @@
 ------ Solano(06095)    34    0    0
 ------ San Luis Obispo(06079)    59    0    0
 ------ Sonoma(06097)    50    1    0
------- San Benito(06069)    13    1    0
+------ San Benito(06069)    14    1    0
 ------ Yolo(06113)    16    1    0
 ------ San Bernardino(06071)    64    3    0
 ------ Stanislaus(06099)    17    0    0
@@ -119,21 +119,21 @@
 ------ Calaveras(06009)    3    0    0
 ------ Fresno(06019)    31    0    0
 ------ Imperial(06025)    21    0    0
------- Monterey(06053)    24    1    0
+------ Monterey(06053)    32    1    0
 ------ Santa Barbara(06083)    47    0    0
 ------ Amador(06005)    2    0    0
 ------ Humboldt(06023)    14    0    0
 ------ Kern(06029)    41    1    0
------- Madera(06039)    10    0    0
------- Nevada(06057)    8    0    0
+------ Madera(06039)    11    0    0
+------ Nevada(06057)    12    0    0
 ------ Shasta(06089)    3    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    8    0    0
 ------ Butte(06007)    5    0    0
------- El Dorado(06017)    9    0    0
+------ El Dorado(06017)    12    0    0
 ------ Yuba(06115)    3    0    0
------- Napa(06055)    6    0    0
+------ Napa(06055)    9    0    0
 ------ Merced(06047)    7    0    0
 ------ Inyo(06027)    5    0    0
 ------ Sutter(06101)    2    0    0
@@ -277,7 +277,7 @@
 ------ Pointe Coupee(22077)    1    0    0
 ------ Vermilion(22113)    2    0    0
 ------ West Feliciana(22125)    1    0    0
----- CO    1738    31    0
+---- CO    1740    31    0
 ------ Denver(08031)    312    3    0
 ------ Eagle(08037)    170    1    0
 ------ Arapahoe(08005)    155    1    0
@@ -294,7 +294,7 @@
 ------ Clear Creek(08019)    3    0    0
 ------ Garfield(08045)    16    0    0
 ------ Routt(08107)    12    0    0
------- Mesa(08077)    7    0    0
+------ Mesa(08077)    9    0    0
 ------ Pueblo(08101)    6    1    0
 ------ Grand(08049)    3    0    0
 ------ Morgan(08087)    4    0    0
@@ -471,7 +471,7 @@
 ------ McDuffie(13189)    1    0    0
 ------ Upson(13293)    4    0    0
 ------ Habersham(13137)    1    0    0
----- TX    2008    26    53
+---- TX    2009    26    53
 ------ Dallas(48113)    367    7    0
 ------ Travis(48453)    160    1    0
 ------ Harris(48201)    229    2    0
@@ -576,7 +576,7 @@
 ------ Martin(48317)    1    0    0
 ------ Harrison(48203)    1    0    0
 ------ Washington(48477)    3    0    0
------- Dawson(48115)    1    0    0
+------ Dawson(48115)    3    0    0
 ------ Cherokee(48073)    1    0    0
 ------ Uvalde(48463)    1    0    0
 ------ Jackson(48239)    1    0    0
@@ -2637,10 +2637,10 @@
 -- Guam    33    1    0
 -- Guatemala    32    1    4
 -- Kenya    31    1    1
+-- Jamaica    30    1    2
 -- French Polynesia    30    0    0
 -- Isle of Man    29    0    0
 -- French Guiana    28    0    6
--- Jamaica    26    1    2
 -- Barbados    26    0    0
 -- Madagascar    26    0    0
 -- Togo    25    1    1
@@ -2654,9 +2654,9 @@
 -- Ethiopia    16    0    4
 -- New Caledonia    15    0    0
 -- Tanzania, United Republic of    13    0    1
+-- Mongolia    12    0    0
 -- Equatorial Guinea    12    0    0
 -- Djibouti    12    0    0
--- Mongolia    11    0    0
 -- Saint Martin (French part)    11    0    0
 -- Dominica    11    0    0
 -- Mali    11    0    0
