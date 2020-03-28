@@ -1,5 +1,5 @@
--- United States of America    105259    1749    894
----- NY    46094    611    1533
+-- United States of America    105494    1749    895
+---- NY    46097    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
 ------ Suffolk(36103)    3385    30    0
@@ -54,7 +54,7 @@
 ------ Otsego(36077)    6    1    0
 ------ Cayuga(36011)    2    0    0
 ------ St Lawrence(36089)    4    0    0
------- Chautauqua(36013)    2    0    0
+------ Chautauqua(36013)    5    0    0
 ------ Franklin(36033)    3    0    0
 ------ Orleans(36073)    3    0    0
 ---- WA    3727    175    420
@@ -137,6 +137,7 @@
 ------ Merced(06047)    7    0    0
 ------ Inyo(06027)    5    0    0
 ------ Sutter(06101)    2    0    0
+------ Kings(06031)    1    0    0
 ---- NJ    8825    108    1
 ------ Bergen(34003)    1505    13    0
 ------ Essex(34013)    826    7    0
@@ -473,7 +474,7 @@
 ------ Habersham(13137)    1    0    0
 ------ Chattahoochee(13053)    1    0    0
 ------ Hart(13147)    1    0    0
----- TX    2009    26    53
+---- TX    2010    26    53
 ------ Dallas(48113)    367    7    0
 ------ Travis(48453)    160    1    0
 ------ Harris(48201)    229    2    0
@@ -484,7 +485,7 @@
 ------ Smith(48423)    27    1    0
 ------ Montgomery(48339)    47    0    0
 ------ Bell(48027)    25    1    0
------- El Paso(48141)    28    0    0
+------ El Paso(48141)    30    0    0
 ------ Hays(48209)    13    0    0
 ------ Brazoria(48039)    52    0    0
 ------ Galveston(48167)    49    0    0
@@ -750,7 +751,7 @@
 ------ Tolland(09013)    33    3    0
 ------ Windham(09015)    3    0    0
 ------ New London(09011)    15    0    0
----- OH    1139    19    0
+---- OH    1139    20    0
 ------ Cuyahoga(39035)    330    2    0
 ------ Butler(39017)    23    0    0
 ------ Franklin(39049)    152    2    0
@@ -763,7 +764,7 @@
 ------ Trumbull(39155)    17    1    0
 ------ Darke(39037)    1    0    0
 ------ Geauga(39055)    10    0    0
------- Lake(39085)    27    0    0
+------ Lake(39085)    27    1    0
 ------ Lucas(39095)    50    2    0
 ------ Mahoning(39099)    68    2    0
 ------ Tuscarawas(39157)    3    0    0
@@ -1085,29 +1086,29 @@
 ------ Beltrami(27007)    1    0    0
 ------ Lincoln(27081)    1    0    0
 ------ Faribault(27043)    1    0    0
----- MD    781    5    4
------- Montgomery(24031)    208    1    0
+---- MD    995    5    4
+------ Montgomery(24031)    255    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    103    1    0
------- Howard(24027)    62    0    0
------- Anne Arundel(24003)    63    0    0
------- Carroll(24013)    9    0    0
------- Harford(24025)    18    0    0
------- Charles(24017)    17    0    0
------- Frederick(24021)    15    0    0
------- Talbot(24041)    1    0    0
+------ Baltimore(24005)    141    1    0
+------ Howard(24027)    73    0    0
+------ Anne Arundel(24003)    88    0    0
+------ Carroll(24013)    10    0    0
+------ Harford(24025)    21    0    0
+------ Charles(24017)    21    0    0
+------ Frederick(24021)    22    0    0
+------ Talbot(24041)    2    0    0
 ------ Calvert(24009)    9    0    0
------- Baltimore City(24510)    88    0    0
+------ Baltimore City(24510)    112    0    0
 ------ Wicomico(24045)    6    0    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    148    2    0
+------ Prince Georges(24033)    196    2    0
 ------ Caroline(24011)    1    0    0
 ------ Queen Anne's(24035)    4    0    0
 ------ Somerset(24039)    4    0    0
------- Washington(24043)    5    0    0
------- Cecil(24015)    12    0    0
+------ Washington(24043)    6    0    0
+------ Cecil(24015)    13    0    0
 ------ Garrett(24023)    3    0    0
------- St Marys(24037)    4    0    0
+------ St Marys(24037)    8    0    0
 ------ Kent(24029)    2    0    0
 ---- NV    621    14    5
 ------ Clark(32003)    443    10    0
@@ -1241,7 +1242,7 @@
 ------ Franklin(23007)    1    0    0
 ---- DC    304    4    51
 ------ District of Columbia(11001)    304    4    0
----- IN    1230    25    0
+---- IN    1234    25    0
 ------ Marion(18097)    584    8    0
 ------ Hendricks(18063)    36    2    0
 ------ Johnson(18081)    52    3    0
@@ -1313,6 +1314,9 @@
 ------ Whitley(18183)    1    0    0
 ------ Crawford(18025)    1    0    0
 ------ Newton(18111)    1    0    0
+------ Randolph(18135)    1    0    0
+------ Switzerland(18155)    1    0    0
+------ White(18181)    1    0    0
 ---- IA    235    5    0
 ------ Johnson(19103)    58    0    0
 ------ Dallas(19049)    9    0    0
@@ -1668,7 +1672,7 @@
 ------ New Castle(10003)    106    2    0
 ------ Sussex(10005)    38    1    0
 ------ Kent(10001)    21    1    0
----- MO    709    18    6
+---- MO    713    18    6
 ------ Greene(29077)    41    3    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    42    1    0
@@ -1678,7 +1682,7 @@
 ------ St Louis(29189)    247    2    0
 ------ St Charles(29183)    32    1    0
 ------ St Louis City(29510)    247    2    0
------- Christian(29043)    3    1    0
+------ Christian(29043)    7    1    0
 ------ Pulaski(29169)    4    1    0
 ------ Scott(29201)    1    0    0
 ------ Dunklin(29069)    3    1    0
@@ -1763,16 +1767,16 @@
 ------ Hot Springs(56017)    1    0    0
 ------ Goshen(56015)    1    0    0
 ------ Washakie(56043)    1    0    0
----- MT    123    1    0
------- Missoula(30063)    8    0    0
+---- MT    129    1    0
+------ Missoula(30063)    9    0    0
 ------ Yellowstone(30111)    23    0    0
 ------ Broadwater(30007)    2    0    0
------- Gallatin(30031)    42    0    0
+------ Gallatin(30031)    46    0    0
 ------ Silver Bow(30093)    8    0    0
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    3    0    0
 ------ Flathead(30029)    6    0    0
------- Lewis and Clark(30049)    8    0    0
+------ Lewis and Clark(30049)    9    0    0
 ------ Ravalli(30081)    1    0    0
 ------ Cascade(30013)    7    0    0
 ------ Jefferson(30043)    2    0    0
@@ -2499,6 +2503,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    2121    22    5
+-- Chile    1909    5    43
 -- Japan    1848    49    404
 ---- Hokkaido    171    7    100
 ---- kochi    13    0    0
@@ -2543,7 +2548,6 @@
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
 -- Ecuador    1627    41    3
--- Chile    1610    5    43
 -- Luxembourg    1605    15    40
 -- Poland    1481    17    13
 -- Romania    1452    29    139
@@ -2552,7 +2556,7 @@
 -- Thailand    1245    6    97
 -- Saudi Arabia    1203    4    37
 -- South Africa    1170    2    31
--- Finland    1167    8    10
+-- Finland    1167    9    10
 -- Indonesia    1155    102    59
 -- Philippines    1075    68    35
 -- Greece    966    28    52
@@ -2566,8 +2570,8 @@
 -- Argentina    690    17    72
 -- Slovenia    684    9    10
 -- Serbia    659    10    42
+-- Croatia    657    5    45
 -- Estonia    645    1    20
--- Croatia    635    4    45
 -- Peru    635    11    16
 -- Qatar    562    0    43
 -- Hong Kong    560    4    112
@@ -2585,11 +2589,11 @@
 -- Hungary    343    11    34
 -- Bulgaria    313    5    9
 -- Ukraine    311    8    8
+-- Andorra    308    3    1
 -- Latvia    305    0    1
 -- Slovakia    292    1    7
 -- Taiwan    283    2    30
 -- Uruguay    274    0    0
--- Andorra    267    3    1
 -- Costa Rica    263    2    3
 -- Bosnia and Herzegovina    257    4    5
 -- North Macedonia    241    4    3
@@ -2630,7 +2634,7 @@
 -- Nigeria    81    1    3
 -- Cuba    80    2    4
 -- Bolivia, Plurinational State of    74    0    0
--- Trinidad and Tobago    66    2    1
+-- Trinidad and Tobago    74    2    1
 -- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
 -- Paraguay    56    3    1
@@ -2679,12 +2683,12 @@
 -- Namibia    8    0    2
 -- Curaçao    8    1    2
 -- Haiti    8    0    0
+-- Mozambique    8    0    0
 -- Myanmar    8    0    0
 -- Antigua and Barbuda    7    0    0
 -- Gabon    7    1    0
 -- Seychelles    7    0    0
 -- Zimbabwe    7    1    0
--- Mozambique    7    0    0
 -- Grenada    7    0    0
 -- Benin    6    0    0
 -- Eritrea    6    0    0
