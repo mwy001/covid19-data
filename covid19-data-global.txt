@@ -1,4 +1,4 @@
--- United States of America    104134    1733    870
+-- United States of America    104157    1733    870
 ---- NY    46016    611    16
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -471,7 +471,7 @@
 ------ McDuffie(13189)    1    0    0
 ------ Upson(13293)    2    0    0
 ------ Habersham(13137)    1    0    0
----- TX    1942    26    53
+---- TX    1949    26    53
 ------ Dallas(48113)    367    7    0
 ------ Travis(48453)    160    1    0
 ------ Harris(48201)    229    2    0
@@ -526,7 +526,7 @@
 ------ Nueces(48355)    18    0    0
 ------ Upshur(48459)    1    0    0
 ------ Wharton(48481)    3    0    0
------- Hidalgo(48215)    11    0    0
+------ Hidalgo(48215)    18    0    0
 ------ Chambers(48071)    2    0    0
 ------ Liberty(48291)    2    0    0
 ------ Burnet(48053)    1    0    0
@@ -1090,7 +1090,7 @@
 ------ Talbot(24041)    1    0    0
 ------ Calvert(24009)    9    0    0
 ------ Baltimore City(24510)    88    0    0
------- Wicomico(24045)    5    0    0
+------ Wicomico(24045)    6    0    0
 ------ Worcester(24047)    2    0    0
 ------ Prince Georges(24033)    148    2    0
 ------ Caroline(24011)    1    0    0
@@ -1803,7 +1803,7 @@
 ------ Stark(38089)    7    0    0
 ------ McHenry(38049)    1    0    0
 ------ McIntosh(38051)    1    0    0
----- AK    69    1    0
+---- AK    85    1    0
 ------ Fairbanks North Star(02090)    11    0    0
 ------ Anchorage(02020)    33    0    0
 ------ Ketchikan Gateway(02130)    11    0    0
