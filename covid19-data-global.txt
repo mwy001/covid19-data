@@ -2459,7 +2459,7 @@
 -- Netherlands    8647    547    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7712    58    225
+-- Austria    7712    68    225
 -- Belgium    7284    289    858
 -- Turkey    5698    92    42
 -- Canada    4781    56    354
@@ -2476,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3780    19    7
+-- Norway    3780    20    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2489,11 +2489,11 @@
 -- Brazil    3477    93    6
 -- Israel    3460    12    89
 -- Sweden    3069    105    16
--- Czechia    2279    9    11
+-- Czechia    2422    9    11
+-- Malaysia    2320    27    320
 -- Denmark    2200    52    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    2161    26    259
 -- Ireland    2121    22    5
 -- Japan    1848    49    372
 ---- Hokkaido    171    7    100
@@ -2550,10 +2550,10 @@
 -- Finland    1165    7    10
 -- Indonesia    1155    102    59
 -- Saudi Arabia    1104    3    35
+-- Philippines    1075    68    35
 -- Greece    966    28    52
--- India    918    20    83
+-- India    944    20    84
 -- Iceland    890    5    97
--- Philippines    803    54    31
 -- Panama    786    14    2
 -- Singapore    732    2    183
 ---- Central Singapore Community Development Council    345    0    124
@@ -2588,9 +2588,9 @@
 -- Andorra    267    3    1
 -- Costa Rica    263    2    3
 -- Bosnia and Herzegovina    237    4    5
+-- Kuwait    235    0    64
 -- Jordan    235    1    18
 -- Tunisia    227    7    2
--- Kuwait    225    0    57
 -- San Marino    223    21    6
 -- North Macedonia    219    3    3
 -- Kazakhstan    204    3    14
