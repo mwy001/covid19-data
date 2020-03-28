@@ -2350,7 +2350,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    16    0    0
--- Germany    50871    351    6658
+-- Germany    53340    395    6658
 ---- Saxony    1305    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
 ---- Free State of Bavaria    9481    55    99
@@ -2476,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3772    19    7
+-- Norway    3773    19    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2541,17 +2541,17 @@
 -- Ecuador    1627    41    3
 -- Chile    1610    5    43
 -- Luxembourg    1605    15    40
+-- Poland    1436    16    13
 -- Pakistan    1408    11    25
--- Poland    1389    16    13
 -- Romania    1292    26    115
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
--- Finland    1163    7    10
+-- Finland    1165    7    10
+-- Indonesia    1155    102    59
 -- Saudi Arabia    1104    3    35
--- Indonesia    1046    87    46
 -- Russian Federation    1036    4    45
 -- Greece    966    28    52
--- India    906    20    83
+-- India    908    20    83
 -- Iceland    890    5    97
 -- Philippines    803    54    31
 -- Panama    786    14    2
@@ -2575,13 +2575,13 @@
 -- Algeria    409    26    65
 -- United Arab Emirates    405    2    52
 -- Lebanon    391    8    27
+-- Lithuania    382    5    1
 -- Armenia    372    1    28
--- Lithuania    358    5    1
--- Morocco    345    23    11
+-- Morocco    358    23    11
 -- Hungary    343    11    34
 -- Bulgaria    313    4    9
 -- Ukraine    310    5    8
--- Latvia    280    0    1
+-- Latvia    305    0    1
 -- Uruguay    274    0    0
 -- Slovakia    269    1    7
 -- Andorra    267    3    1
