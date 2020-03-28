@@ -2436,7 +2436,7 @@
 ---- Scotland    894    25    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    12928    231    1530
+-- Switzerland    13138    237    1530
 -- Korea, Republic of    9478    144    4811
 ---- Busan    114    2    81
 ---- Chungcheongbuk-do    41    0    21
@@ -2476,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3773    19    7
+-- Norway    3780    19    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2544,14 +2544,14 @@
 -- Poland    1436    16    13
 -- Pakistan    1408    11    25
 -- Romania    1292    26    115
+-- Russian Federation    1264    4    49
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
 -- Finland    1165    7    10
 -- Indonesia    1155    102    59
 -- Saudi Arabia    1104    3    35
--- Russian Federation    1036    4    45
 -- Greece    966    28    52
--- India    908    20    83
+-- India    918    20    83
 -- Iceland    890    5    97
 -- Philippines    803    54    31
 -- Panama    786    14    2
@@ -2580,12 +2580,12 @@
 -- Morocco    358    23    11
 -- Hungary    343    11    34
 -- Bulgaria    313    4    9
--- Ukraine    310    5    8
+-- Ukraine    311    8    8
 -- Latvia    305    0    1
+-- Taiwan    283    2    30
 -- Uruguay    274    0    0
 -- Slovakia    269    1    7
 -- Andorra    267    3    1
--- Taiwan    267    2    30
 -- Costa Rica    263    2    3
 -- Bosnia and Herzegovina    237    4    5
 -- Jordan    235    1    18
@@ -2593,6 +2593,7 @@
 -- Kuwait    225    0    57
 -- San Marino    223    21    6
 -- North Macedonia    219    3    3
+-- Kazakhstan    204    3    14
 -- Moldova, Republic of    199    2    2
 -- Albania    186    8    31
 -- Burkina Faso    180    9    12
@@ -2600,7 +2601,6 @@
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
 -- Oman    152    0    23
--- Kazakhstan    150    3    3
 -- Réunion    145    0    1
 -- Faroe Islands    144    0    54
 -- Malta    139    0    2
