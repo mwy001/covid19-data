@@ -1,4 +1,4 @@
--- United States of America    105009    1749    894
+-- United States of America    105259    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -57,7 +57,7 @@
 ------ Chautauqua(36013)    2    0    0
 ------ Franklin(36033)    3    0    0
 ------ Orleans(36073)    3    0    0
----- WA    3726    175    420
+---- WA    3727    175    420
 ------ King(53033)    1828    125    0
 ------ Snohomish(53061)    913    23    0
 ------ Pierce(53053)    231    5    0
@@ -89,7 +89,7 @@
 ------ Whitman(53075)    5    0    0
 ------ Adams(53001)    5    0    0
 ------ Douglas(53017)    5    0    0
------- Okanogan(53047)    2    0    0
+------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
 ---- CA    4897    102    30
@@ -1241,76 +1241,78 @@
 ------ Franklin(23007)    1    0    0
 ---- DC    304    4    51
 ------ District of Columbia(11001)    304    4    0
----- IN    981    25    0
------- Marion(18097)    484    8    0
------- Hendricks(18063)    28    2    0
------- Johnson(18081)    42    3    0
------- Franklin(18047)    21    1    0
------- Howard(18067)    7    1    0
------- Lake(18089)    47    0    0
+---- IN    1230    25    0
+------ Marion(18097)    584    8    0
+------ Hendricks(18063)    36    2    0
+------ Johnson(18081)    52    3    0
+------ Franklin(18047)    23    1    0
+------ Howard(18067)    9    1    0
+------ Lake(18089)    68    0    0
 ------ Adams(18001)    1    0    0
------- Bartholomew(18005)    6    0    0
------- Boone(18011)    7    0    0
------- Floyd(18043)    11    0    0
------- Hamilton(18057)    52    0    0
------- Noble(18113)    1    0    0
+------ Bartholomew(18005)    7    0    0
+------ Boone(18011)    8    0    0
+------ Floyd(18043)    13    0    0
+------ Hamilton(18057)    64    0    0
+------ Noble(18113)    2    0    0
 ------ Wells(18179)    1    0    0
------- Clark(18019)    12    0    0
------- Fayette(18041)    3    0    0
------- Jennings(18079)    5    0    0
------- Madison(18095)    7    1    0
------- St Joseph(18141)    27    1    0
------- Owen(18119)    5    0    0
------- Tippecanoe(18157)    8    1    0
+------ Clark(18019)    18    0    0
+------ Fayette(18041)    4    0    0
+------ Jennings(18079)    10    0    0
+------ Madison(18095)    12    1    0
+------ St Joseph(18141)    31    1    0
+------ Owen(18119)    7    0    0
+------ Tippecanoe(18157)    11    1    0
 ------ Wayne(18177)    1    0    0
------- Allen(18003)    21    1    0
------- Monroe(18105)    8    0    0
------- Vigo(18167)    3    0    0
------- Vanderburgh(18163)    6    0    0
+------ Allen(18003)    23    1    0
+------ Monroe(18105)    16    0    0
+------ Vigo(18167)    4    0    0
+------ Vanderburgh(18163)    10    0    0
 ------ Grant(18053)    5    0    0
------- Shelby(18145)    6    0    0
+------ Shelby(18145)    10    0    0
 ------ Delaware(18035)    8    1    0
 ------ Scott(18143)    1    1    0
------- Elkhart(18039)    9    0    0
+------ Elkhart(18039)    11    0    0
 ------ Greene(18055)    1    0    0
------- Hancock(18059)    13    1    0
------- Harrison(18061)    4    0    0
+------ Hancock(18059)    19    1    0
+------ Harrison(18061)    7    0    0
 ------ Miami(18103)    1    0    0
 ------ Dubois(18037)    1    0    0
------- Morgan(18109)    10    0    0
------- Putnam(18133)    2    1    0
+------ Morgan(18109)    14    0    0
+------ Putnam(18133)    5    1    0
 ------ Tipton(18159)    2    0    0
 ------ Washington(18175)    4    0    0
------- Ripley(18137)    14    0    0
+------ Ripley(18137)    15    0    0
 ------ Starke(18149)    2    0    0
------- Decatur(18031)    26    0    0
------- Dearborn(18029)    4    1    0
------- Gibson(18051)    3    0    0
+------ Decatur(18031)    30    0    0
+------ Dearborn(18029)    8    1    0
+------ Gibson(18051)    4    0    0
 ------ Brown(18013)    2    0    0
------- Jackson(18071)    4    0    0
+------ Jackson(18071)    7    0    0
 ------ Lawrence(18093)    5    0    0
------- Montgomery(18107)    3    0    0
+------ Montgomery(18107)    4    0    0
 ------ Ohio(18115)    1    0    0
------- Porter(18127)    6    0    0
+------ Porter(18127)    9    0    0
 ------ Sullivan(18153)    1    0    0
------- Warrick(18173)    3    0    0
------- La Porte(18091)    2    0    0
------- Jasper(18073)    4    1    0
+------ Warrick(18173)    6    0    0
+------ La Porte(18091)    4    0    0
+------ Jasper(18073)    5    1    0
 ------ Rush(18139)    3    0    0
 ------ De Kalb(18033)    1    0    0
 ------ Fountain(18045)    1    0    0
 ------ Marshall(18099)    4    0    0
 ------ Orange(18117)    1    0    0
------- Posey(18129)    1    0    0
+------ Posey(18129)    2    0    0
 ------ Warren(18171)    1    0    0
 ------ Wabash(18169)    1    0    0
 ------ Clinton(18023)    1    0    0
 ------ Fulton(18049)    1    0    0
 ------ Henry(18065)    1    0    0
 ------ Huntington(18069)    1    0    0
------- Kosciusko(18085)    1    0    0
+------ Kosciusko(18085)    2    0    0
 ------ Lagrange(18087)    2    0    0
 ------ Whitley(18183)    1    0    0
+------ Crawford(18025)    1    0    0
+------ Newton(18111)    1    0    0
 ---- IA    235    5    0
 ------ Johnson(19103)    58    0    0
 ------ Dallas(19049)    9    0    0
@@ -2478,7 +2480,7 @@
 ---- Nova Scotia    90    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Norway    3970    20    7
+-- Norway    3972    20    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2556,9 +2558,10 @@
 -- Greece    966    28    52
 -- Iceland    963    5    97
 -- India    944    20    84
--- Panama    786    14    2
--- Singapore    732    2    183
+-- Singapore    802    2    198
 ---- Central Singapore Community Development Council    345    0    124
+-- Panama    786    14    2
+-- Dominican Republic    729    28    3
 -- Mexico    717    12    4
 -- Argentina    690    17    72
 -- Slovenia    684    9    10
@@ -2566,7 +2569,6 @@
 -- Estonia    645    1    20
 -- Croatia    635    4    45
 -- Peru    635    11    16
--- Dominican Republic    581    20    3
 -- Qatar    562    0    43
 -- Hong Kong    560    4    112
 -- Colombia    539    6    10
@@ -2590,11 +2592,11 @@
 -- Andorra    267    3    1
 -- Costa Rica    263    2    3
 -- Bosnia and Herzegovina    257    4    5
+-- North Macedonia    241    4    3
 -- Kuwait    235    0    64
 -- Jordan    235    1    18
 -- Tunisia    227    7    2
 -- San Marino    223    21    6
--- North Macedonia    219    3    3
 -- Kazakhstan    204    3    14
 -- Moldova, Republic of    199    2    2
 -- Albania    197    10    31
@@ -2609,17 +2611,17 @@
 -- Ghana    137    4    8
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
+-- Sri Lanka    113    1    9
 -- Venezuela, Bolivarian Republic of    113    2    39
--- Sri Lanka    110    0    9
 -- Afghanistan    110    4    2
 -- Uzbekistan    104    2    5
+-- Mauritius    102    2    0
 -- Côte d'Ivoire    101    0    3
 -- Cambodia    99    0    13
 -- Palestine    97    1    18
 -- Guadeloupe    96    2    17
 -- Honduras    95    1    3
 -- Belarus    94    0    32
--- Mauritius    94    2    0
 -- Martinique    93    1    0
 -- Cameroon    91    2    2
 -- Kosovo    86    1    1
