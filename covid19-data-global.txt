@@ -1,4 +1,4 @@
--- United States of America    104872    1749    894
+-- United States of America    104874    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -138,21 +138,21 @@
 ------ Inyo(06027)    5    0    0
 ------ Sutter(06101)    2    0    0
 ---- NJ    8825    108    1
------- Bergen(34003)    1505    6    0
------- Essex(34013)    826    4    0
------- Hudson(34017)    594    2    0
+------ Bergen(34003)    1505    13    0
+------ Essex(34013)    826    7    0
+------ Hudson(34017)    594    3    0
 ------ Middlesex(34023)    640    63    0
------- Monmouth(34025)    634    3    0
+------ Monmouth(34025)    634    6    0
 ------ Union(34039)    519    0    0
 ------ Passaic(34031)    484    7    0
 ------ Mercer(34021)    131    0    0
------- Morris(34027)    391    1    0
------- Somerset(34035)    222    1    0
+------ Morris(34027)    391    3    0
+------ Somerset(34035)    222    4    0
 ------ Burlington(34005)    88    0    0
 ------ Hunterdon(34019)    52    0    0
------- Ocean(34029)    484    1    0
+------ Ocean(34029)    484    4    0
 ------ Camden(34007)    95    1    0
------- Gloucester(34015)    40    0    0
+------ Gloucester(34015)    40    1    0
 ------ Atlantic(34001)    14    0    0
 ------ Warren(34041)    38    0    0
 ------ Sussex(34037)    65    0    0
@@ -1117,15 +1117,15 @@
 ------ Nye(32023)    1    0    0
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    1    0    0
----- UT    480    2    0
+---- UT    482    2    0
 ------ Salt Lake(49035)    221    0    0
 ------ Summit(49043)    110    0    0
 ------ Davis(49011)    50    1    0
 ------ Wasatch(49051)    29    0    0
 ------ Tooele(49045)    5    0    0
 ------ Utah(49049)    27    0    0
------- Cache(49005)    3    0    0
------- Box Elder(49003)    1    0    0
+------ Cache(49005)    5    0    0
+------ Box Elder(49003)    4    0    0
 ------ Washington(49053)    9    0    0
 ------ Weber(49057)    20    0    0
 ------ Iron(49021)    1    0    0
@@ -1357,7 +1357,7 @@
 ------ Webster(19187)    1    0    0
 ------ Wright(19197)    1    0    0
 ---- KY    302    7    2
------- Jefferson(21111)    47    2    0
+------ Jefferson(21111)    103    2    0
 ------ Fayette(21067)    31    2    0
 ------ Harrison(21097)    10    0    0
 ------ Montgomery(21173)    2    0    0
@@ -2436,7 +2436,10 @@
 ---- Scotland    894    25    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    13259    241    1530
+-- Switzerland    13377    242    1530
+-- Netherlands    9762    639    6
+---- Netherlands    1705    43    2
+---- Curacao    3    0    0
 -- Korea, Republic of    9478    144    4811
 ---- Busan    114    2    81
 ---- Chungcheongbuk-do    41    0    21
@@ -2457,11 +2460,9 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Belgium    9134    353    1063
--- Netherlands    8647    547    6
----- Netherlands    1705    43    2
----- Curacao    3    0    0
 -- Austria    7964    68    225
 -- Turkey    5698    92    42
+-- Portugal    5170    100    43
 -- Canada    4781    56    354
 ---- British Columbia    725    14    4
 ---- Ontario    994    18    6
@@ -2475,7 +2476,6 @@
 ---- Nova Scotia    90    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
--- Portugal    4268    76    43
 -- Norway    3811    20    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
@@ -2491,7 +2491,7 @@
 -- Sweden    3069    105    16
 -- Czechia    2422    9    11
 -- Malaysia    2320    27    320
--- Denmark    2201    52    57
+-- Denmark    2201    65    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    2121    22    5
@@ -2546,14 +2546,14 @@
 -- Pakistan    1415    12    29
 -- Russian Federation    1264    4    49
 -- Thailand    1245    6    97
+-- Saudi Arabia    1203    4    37
 -- South Africa    1170    2    31
 -- Finland    1167    8    10
 -- Indonesia    1155    102    59
--- Saudi Arabia    1104    3    35
 -- Philippines    1075    68    35
 -- Greece    966    28    52
+-- Iceland    963    5    97
 -- India    944    20    84
--- Iceland    890    5    97
 -- Panama    786    14    2
 -- Singapore    732    2    183
 ---- Central Singapore Community Development Council    345    0    124
