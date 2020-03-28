@@ -1,5 +1,5 @@
--- United States of America    105541    1749    895
----- NY    46102    611    1533
+-- United States of America    106244    1755    895
+---- NY    46108    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
 ------ Suffolk(36103)    3385    30    0
@@ -21,7 +21,7 @@
 ------ Clinton(36019)    11    0    0
 ------ Delaware(36025)    8    0    0
 ------ Essex(36031)    5    0    0
------- Genesee(36037)    6    0    0
+------ Genesee(36037)    7    0    0
 ------ Herkimer(36043)    9    1    0
 ------ Montgomery(36057)    5    0    0
 ------ Oneida(36065)    13    0    0
@@ -49,7 +49,7 @@
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
 ------ Madison(36053)    17    1    0
------- Oswego(36075)    4    0    0
+------ Oswego(36075)    9    0    0
 ------ Chemung(36015)    11    0    0
 ------ Otsego(36077)    6    1    0
 ------ Cayuga(36011)    2    0    0
@@ -173,52 +173,52 @@
 ------ Hampden(25013)    90    1    0
 ------ Franklin(25011)    24    2    0
 ------ Hampshire(25015)    20    0    0
----- FL    3198    64    0
------- Broward(12011)    631    10    0
------- Palm Beach(12099)    241    5    0
------- Duval(12031)    99    4    0
+---- FL    3763    64    0
+------ Broward(12011)    795    10    0
+------ Palm Beach(12099)    281    5    0
+------ Duval(12031)    109    4    0
 ------ Volusia(12127)    43    0    0
------- Hillsborough(12057)    174    4    0
------- Manatee(12081)    29    1    0
+------ Hillsborough(12057)    189    4    0
+------ Manatee(12081)    30    1    0
 ------ Collier(12021)    85    0    0
------- Orange(12095)    174    4    0
------- Osceola(12097)    56    0    0
+------ Orange(12095)    192    4    0
+------ Osceola(12097)    63    0    0
 ------ Lee(12071)    95    5    0
------- Alachua(12001)    60    0    0
------- Clay(12019)    22    4    0
------- Pinellas(12103)    82    1    0
------- Seminole(12117)    54    0    0
+------ Alachua(12001)    64    0    0
+------ Clay(12019)    24    4    0
+------ Pinellas(12103)    83    1    0
+------ Seminole(12117)    59    0    0
 ------ Sarasota(12115)    43    2    0
------- Citrus(12017)    11    1    0
+------ Citrus(12017)    14    1    0
 ------ Okaloosa(12091)    25    0    0
------- Pasco(12101)    25    1    0
------- Brevard(12009)    20    1    0
------- Charlotte(12015)    8    0    0
+------ Pasco(12101)    27    1    0
+------ Brevard(12009)    24    1    0
+------ Charlotte(12015)    12    0    0
 ------ Escambia(12033)    28    0    0
 ------ Lake(12069)    32    1    0
 ------ Nassau(12089)    6    3    0
------- Polk(12105)    28    0    0
------- Santa Rosa(12113)    13    1    0
+------ Polk(12105)    34    0    0
+------ Santa Rosa(12113)    14    1    0
 ------ Gadsden(12039)    1    0    0
 ------ Leon(12073)    15    1    0
------- Sumter(12119)    29    3    0
+------ Sumter(12119)    33    3    0
 ------ Walton(12131)    14    0    0
------- St Johns(12109)    42    2    0
------- Hernando(12053)    12    0    0
+------ St Johns(12109)    46    2    0
+------ Hernando(12053)    13    0    0
 ------ Indian River(12061)    15    1    0
 ------ Jackson(12063)    1    0    0
------- Martin(12085)    17    0    0
------- Marion(12083)    9    0    0
+------ Martin(12085)    25    0    0
+------ Marion(12083)    16    0    0
 ------ Baker(12003)    7    0    0
 ------ Bay(12005)    4    3    0
------- Highlands(12055)    7    1    0
+------ Highlands(12055)    10    1    0
 ------ Putnam(12107)    12    0    0
------- St Lucie(12111)    17    1    0
+------ St Lucie(12111)    19    1    0
 ------ Miami-Dade(12086)    869    2    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    1    0    0
 ------ Flagler(12035)    12    0    0
------- DeSoto(12027)    6    1    0
+------ DeSoto(12027)    7    1    0
 ------ Mainland Monroe(12087)    19    1    0
 ------ Washington(12133)    1    1    0
 ------ Suwannee(12121)    1    0    0
@@ -910,36 +910,36 @@
 ------ Montgomery(51121)    1    0    0
 ------ City of Bristol(51520)    1    0    0
 ------ City of Galax(51640)    1    0    0
----- NC    953    5    0
------- Wake(37183)    123    0    0
+---- NC    1017    5    0
+------ Wake(37183)    124    0    0
 ------ Durham(37063)    113    0    0
------- Mecklenburg(37119)    259    0    0
+------ Mecklenburg(37119)    299    0    0
 ------ Chatham(37037)    12    0    0
------- Harnett(37085)    11    1    0
+------ Harnett(37085)    13    1    0
 ------ Forsyth(37067)    24    0    0
 ------ Johnston(37101)    23    1    0
 ------ Brunswick(37019)    12    0    0
 ------ Cabarrus(37025)    31    2    0
 ------ Craven(37049)    4    0    0
------- Guilford(37081)    31    0    0
+------ Guilford(37081)    34    0    0
 ------ Iredell(37097)    18    0    0
 ------ Lincoln(37109)    1    0    0
 ------ Onslow(37133)    4    0    0
------- Orange(37135)    24    0    0
+------ Orange(37135)    27    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    5    0    0
 ------ Wayne(37191)    3    0    0
------- Wilson(37195)    7    0    0
+------ Wilson(37195)    9    0    0
 ------ Gaston(37071)    17    0    0
 ------ New Hanover(37129)    21    0    0
 ------ Union(37179)    34    0    0
 ------ Moore(37125)    5    0    0
 ------ Buncombe(37021)    17    0    0
------- Hoke(37093)    2    0    0
------- Pitt(37147)    10    0    0
+------ Hoke(37093)    3    0    0
+------ Pitt(37147)    13    0    0
 ------ Davidson(37057)    14    0    0
------- Rowan(37159)    12    1    0
------- Cumberland(37051)    8    0    0
+------ Rowan(37159)    14    1    0
+------ Cumberland(37051)    10    0    0
 ------ Pasquotank(37139)    2    0    0
 ------ Alamance(37001)    5    0    0
 ------ Franklin(37069)    5    0    0
@@ -950,20 +950,20 @@
 ------ Carteret(37031)    6    0    0
 ------ Cherokee(37039)    4    0    0
 ------ Robeson(37155)    2    0    0
------- Granville(37077)    3    0    0
+------ Granville(37077)    4    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    1    0    0
------- Davie(37059)    2    0    0
+------ Davie(37059)    4    0    0
 ------ Montgomery(37123)    3    0    0
 ------ Nash(37127)    4    0    0
 ------ Henderson(37089)    9    0    0
------- Vance(37181)    2    0    0
+------ Vance(37181)    3    0    0
 ------ Randolph(37151)    9    0    0
 ------ Richmond(37153)    1    0    0
 ------ Hertford(37091)    3    0    0
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    3    0    0
------- Northampton(37131)    3    0    0
+------ Northampton(37131)    4    0    0
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    3    0    0
 ------ Bertie(37015)    3    0    0
@@ -1044,17 +1044,17 @@
 ------ Gogebic(26053)    1    1    0
 ------ Gratiot(26057)    1    0    0
 ------ Dickinson(26043)    1    0    0
----- MN    398    4    180
------- Hennepin(27053)    141    1    0
+---- MN    420    4    180
+------ Hennepin(27053)    152    1    0
 ------ Ramsey(27123)    34    2    0
------- Dakota(27037)    28    0    0
+------ Dakota(27037)    33    0    0
 ------ Olmsted(27109)    34    0    0
------- Anoka(27003)    10    0    0
+------ Anoka(27003)    12    0    0
 ------ Stearns(27145)    5    0    0
 ------ Benton(27009)    2    0    0
 ------ Washington(27163)    22    0    0
 ------ Blue Earth(27013)    7    0    0
------- Carver(27019)    8    0    0
+------ Carver(27019)    9    0    0
 ------ Renville(27129)    1    0    0
 ------ Sherburne(27141)    3    0    0
 ------ Waseca(27161)    3    0    0
@@ -1065,11 +1065,11 @@
 ------ Mower(27099)    10    0    0
 ------ Rice(27131)    2    0    0
 ------ Wadena(27159)    1    0    0
------- Fillmore(27045)    3    0    0
+------ Fillmore(27045)    5    0    0
 ------ Chisago(27025)    2    0    0
 ------ Clay(27027)    4    0    0
 ------ Jackson(27063)    2    0    0
------- Dodge(27039)    5    0    0
+------ Dodge(27039)    6    0    0
 ------ St Louis(27137)    5    0    0
 ------ Steele(27147)    5    0    0
 ------ Wabasha(27157)    4    0    0
@@ -1083,7 +1083,7 @@
 ------ Mahnomen(27087)    1    0    0
 ------ Sibley(27143)    1    0    0
 ------ Wilkin(27167)    1    0    0
------- Beltrami(27007)    1    0    0
+------ Beltrami(27007)    2    0    0
 ------ Lincoln(27081)    1    0    0
 ------ Faribault(27043)    1    0    0
 ---- MD    995    5    4
@@ -1227,28 +1227,28 @@
 ------ Covington(01039)    2    0    0
 ------ Randolph(01111)    1    0    0
 ------ Escambia(01053)    1    0    0
----- ME    168    1    14
------- Cumberland(23005)    92    1    0
------- Androscoggin(23001)    6    0    0
------- Kennebec(23011)    6    0    0
+---- ME    211    1    14
+------ Cumberland(23005)    120    1    0
+------ Androscoggin(23001)    7    0    0
+------ Kennebec(23011)    9    0    0
 ------ Knox(23013)    2    0    0
 ------ Oxford(23017)    8    0    0
------- York(23031)    33    0    0
------- Penobscot(23019)    6    0    0
+------ York(23031)    38    0    0
+------ Penobscot(23019)    10    0    0
 ------ Lincoln(23015)    5    0    0
 ------ Hancock(23009)    1    0    0
------- Sagadahoc(23023)    4    0    0
+------ Sagadahoc(23023)    5    0    0
 ------ Waldo(23027)    2    0    0
------- Franklin(23007)    1    0    0
+------ Franklin(23007)    2    0    0
 ---- DC    304    4    51
 ------ District of Columbia(11001)    304    4    0
----- IN    1234    25    0
------- Marion(18097)    584    8    0
+---- IN    1234    31    0
+------ Marion(18097)    584    10    0
 ------ Hendricks(18063)    36    2    0
 ------ Johnson(18081)    52    3    0
------- Franklin(18047)    23    1    0
+------ Franklin(18047)    23    2    0
 ------ Howard(18067)    9    1    0
------- Lake(18089)    68    0    0
+------ Lake(18089)    68    1    0
 ------ Adams(18001)    1    0    0
 ------ Bartholomew(18005)    7    0    0
 ------ Boone(18011)    8    0    0
@@ -1257,7 +1257,7 @@
 ------ Noble(18113)    2    0    0
 ------ Wells(18179)    1    0    0
 ------ Clark(18019)    18    0    0
------- Fayette(18041)    4    0    0
+------ Fayette(18041)    4    1    0
 ------ Jennings(18079)    10    0    0
 ------ Madison(18095)    12    1    0
 ------ St Joseph(18141)    31    1    0
@@ -1266,7 +1266,7 @@
 ------ Wayne(18177)    1    0    0
 ------ Allen(18003)    23    1    0
 ------ Monroe(18105)    16    0    0
------- Vigo(18167)    4    0    0
+------ Vigo(18167)    4    1    0
 ------ Vanderburgh(18163)    10    0    0
 ------ Grant(18053)    5    0    0
 ------ Shelby(18145)    10    0    0
@@ -1317,6 +1317,7 @@
 ------ Randolph(18135)    1    0    0
 ------ Switzerland(18155)    1    0    0
 ------ White(18181)    1    0    0
+------ Carroll(18015)    1    0    0
 ---- IA    235    5    0
 ------ Johnson(19103)    58    0    0
 ------ Dallas(19049)    9    0    0
@@ -1454,11 +1455,11 @@
 ------ Newport(44005)    12    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    9    0    0
----- AR    386    6    19
------- Jefferson(05069)    23    0    0
+---- AR    388    6    19
+------ Jefferson(05069)    24    0    0
 ------ Pulaski(05119)    89    1    0
 ------ Cleburne(05023)    49    2    0
------- Cleveland(05025)    4    0    0
+------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    2    0    0
 ------ Garland(05051)    20    0    0
 ------ Lincoln(05079)    6    0    0
@@ -1498,7 +1499,7 @@
 ------ Lonoke(05085)    5    0    0
 ------ Randolph(05121)    2    0    0
 ------ Chicot(05017)    1    0    0
----- MS    579    8    0
+---- MS    580    8    0
 ------ Hinds(28049)    50    0    0
 ------ Leflore(28083)    13    0    0
 ------ Forrest(28035)    16    0    0
@@ -1568,6 +1569,7 @@
 ------ Kemper(28069)    1    0    0
 ------ Neshoba(28099)    1    0    0
 ------ Sharkey(28125)    1    0    0
+------ Alcorn(28003)    1    0    0
 ---- AZ    665    13    3
 ------ Maricopa(04013)    399    5    0
 ------ Pinal(04021)    36    0    0
@@ -2506,22 +2508,22 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    2121    22    5
--- Chile    1909    5    43
+-- Chile    1909    6    61
 -- Japan    1848    49    404
 ---- Hokkaido    171    7    100
 ---- kochi    13    0    0
 ---- Miyagi    2    0    0
 ---- Niigata    31    0    0
----- Gifu    17    0    0
+---- Gifu    19    0    0
 ---- Nagano    6    0    0
 ---- Tochigi    11    0    0
 ---- Kumamoto    11    0    0
 ---- Saitama    79    2    0
 ---- Ishikawa    9    0    0
----- Fukuoka    16    0    0
----- Tokyo    362    4    0
+---- Fukuoka    22    0    0
+---- Tokyo    362    7    0
 ---- Wakayama    17    1    2
----- Kyoto    37    0    2
+---- Kyoto    40    0    2
 ---- Osaka    191    2    1
 ---- Chiba    125    1    0
 ---- Kanagawa    116    4    1
@@ -2540,21 +2542,21 @@
 ---- Akita    4    0    0
 ---- Yamanashi    4    0    0
 ---- Hiroshima    4    0    0
----- Gunma    15    1    0
+---- Gunma    18    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    2    0    0
----- Ibaraki    13    0    0
+---- Ibaraki    16    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    12    0    0
 ---- Okayama    3    0    0
----- Aomori    6    0    0
+---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
 -- Ecuador    1627    41    3
 -- Luxembourg    1605    15    40
 -- Poland    1481    17    13
 -- Romania    1452    29    139
--- Pakistan    1415    12    29
+-- Pakistan    1420    12    29
 -- Russian Federation    1264    4    49
 -- Thailand    1245    6    97
 -- Saudi Arabia    1203    4    37
@@ -2562,7 +2564,7 @@
 -- Finland    1167    9    10
 -- Indonesia    1155    102    59
 -- Philippines    1075    68    35
--- Greece    966    28    52
+-- Greece    1061    32    52
 -- Iceland    963    5    97
 -- India    944    20    84
 -- Singapore    802    2    198
@@ -2583,14 +2585,14 @@
 -- Iraq    506    42    131
 -- Bahrain    473    4    254
 -- United Arab Emirates    468    2    52
+-- Algeria    454    29    65
 -- New Zealand    451    0    50
 -- Lebanon    412    8    27
--- Algeria    409    26    65
 -- Lithuania    382    5    1
 -- Armenia    372    1    28
 -- Morocco    358    23    11
 -- Hungary    343    11    34
--- Bulgaria    313    5    9
+-- Bulgaria    313    6    9
 -- Ukraine    311    8    8
 -- Andorra    308    3    1
 -- Latvia    305    0    1
@@ -2604,10 +2606,10 @@
 -- Jordan    235    1    18
 -- Tunisia    227    7    2
 -- San Marino    223    21    6
+-- Burkina Faso    207    11    21
 -- Kazakhstan    204    3    14
 -- Moldova, Republic of    199    2    2
 -- Albania    197    10    31
--- Burkina Faso    180    9    12
 -- Viet Nam    174    0    21
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
@@ -2632,10 +2634,10 @@
 -- Belarus    94    0    32
 -- Martinique    93    1    0
 -- Cameroon    91    2    2
+-- Nigeria    89    1    3
 -- Kosovo    86    1    1
 -- Georgia    85    0    14
 -- Montenegro    82    1    0
--- Nigeria    81    1    3
 -- Bolivia, Plurinational State of    74    0    0
 -- Trinidad and Tobago    74    2    1
 -- Kyrgyzstan    58    0    0
