@@ -1,4 +1,4 @@
--- United States of America    104823    1748    894
+-- United States of America    104829    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -361,8 +361,8 @@
 ------ Franklin(17055)    1    0    0
 ------ Morgan(17137)    1    0    0
 ------ Bureau(17011)    1    0    0
------- Henry(17073)    1    0    0
------- Iroquois(17075)    1    0    0
+------ Henry(17073)    2    0    0
+------ Iroquois(17075)    2    0    0
 ---- GA    2201    77    0
 ------ Fulton(13121)    347    12    0
 ------ Cobb(13067)    163    5    0
@@ -1812,11 +1812,11 @@
 ------ Stark(38089)    7    0    0
 ------ McHenry(38049)    1    0    0
 ------ McIntosh(38051)    1    0    0
----- AK    85    1    0
------- Fairbanks North Star(02090)    11    0    0
------- Anchorage(02020)    33    0    0
------- Ketchikan Gateway(02130)    11    0    0
------- Juneau(02110)    3    0    0
+---- AK    89    2    0
+------ Fairbanks North Star(02090)    14    0    0
+------ Anchorage(02020)    43    1    0
+------ Ketchikan Gateway(02130)    12    0    0
+------ Juneau(02110)    4    0    0
 ------ Kenai Peninsula(02122)    4    0    0
 ---- WV    96    1    0
 ------ Jefferson(54037)    4    0    0
