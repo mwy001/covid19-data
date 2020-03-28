@@ -1,4 +1,4 @@
--- United States of America    104874    1749    894
+-- United States of America    105009    1749    894
 ---- NY    46094    611    1533
 ------ Westchester(36119)    7187    10    0
 ------ Nassau(36059)    4657    27    0
@@ -641,7 +641,7 @@
 ------ Union(42119)    1    0    0
 ---- WI    926    15    1
 ------ Milwaukee(55079)    411    8    0
------- Dane(55025)    158    1    0
+------ Dane(55025)    164    1    0
 ------ Kenosha(55059)    23    0    0
 ------ Waukesha(55133)    61    0    0
 ------ Sheboygan(55117)    7    0    0
@@ -837,7 +837,7 @@
 ------ Wasco(41065)    2    0    0
 ------ Columbia(41009)    1    0    0
 ------ Morrow(41049)    1    0    0
----- VA    730    16    2
+---- VA    739    17    2
 ------ Arlington(51013)    63    0    0
 ------ Fairfax(51059)    124    2    0
 ------ Loudoun(51107)    43    1    0
@@ -909,7 +909,7 @@
 ------ Montgomery(51121)    1    0    0
 ------ City of Bristol(51520)    1    0    0
 ------ City of Galax(51640)    1    0    0
----- NC    944    5    0
+---- NC    945    5    0
 ------ Wake(37183)    123    0    0
 ------ Durham(37063)    113    0    0
 ------ Mecklenburg(37119)    259    0    0
@@ -982,6 +982,7 @@
 ------ Halifax(37083)    1    0    0
 ------ Alleghany(37005)    1    0    0
 ------ Edgecombe(37065)    1    0    0
+------ Perquimans(37143)    1    0    0
 ---- MI    3664    120    5
 ------ Oakland(26125)    824    26    0
 ------ Wayne(26163)    1810    37    0
@@ -1170,7 +1171,7 @@
 ------ Marion(45067)    1    0    0
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    1    0    0
----- AL    639    4    0
+---- AL    644    4    0
 ------ Jefferson(01073)    179    0    0
 ------ Shelby(01117)    70    0    0
 ------ Lee(01081)    53    0    0
@@ -1185,7 +1186,7 @@
 ------ Chambers(01017)    15    0    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    24    0    0
------- Mobile(01097)    23    1    0
+------ Mobile(01097)    28    1    0
 ------ Jackson(01071)    5    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    11    1    0
@@ -2331,26 +2332,26 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 -- Spain    72248    5690    12285
----- Andalusia    3793    144    92
----- Aragon    1116    48    4
----- Balearic Islands    660    22    39
----- Basque Country    4601    207    814
----- Canary Islands    878    27    18
----- Cantabria    671    17    14
----- Castile and León    4132    253    423
----- Castile-La Mancha    3943    367    153
----- Catalonia    12940    880    2348
----- Community of Madrid    19243    2412    5044
----- Comunidad Foral de Navarra    1411    49    35
----- Extremadura    969    58    24
----- Galicia    2322    3032    67
----- Principality of Asturias    900    29    40
----- Región de Murcia    687    15    9
----- Rioja    995    43    48
----- Valencian Community    3532    198    73
----- Melilla    39    1    0
+---- Andalusia    4277    175    139
+---- Aragon    1592    58    8
+---- Balearic Islands    862    26    80
+---- Basque Country    5136    221    1023
+---- Canary Islands    1025    36    25
+---- Cantabria    937    22    21
+---- Castile and León    4791    321    585
+---- Castile-La Mancha    4512    448    197
+---- Catalonia    14263    1070    3106
+---- Community of Madrid    21520    2757    6326
+---- Comunidad Foral de Navarra    1829    70    98
+---- Extremadura    1394    88    49
+---- Galicia    2772    3032    95
+---- Principality of Asturias    1004    33    65
+---- Región de Murcia    802    17    12
+---- Rioja    1436    65    364
+---- Valencian Community    4043    234    92
+---- Melilla    45    1    0
 ---- Navarre    130    0    0
----- Ceuta    16    0    0
+---- Ceuta    17    1    0
 -- Germany    53340    399    6658
 ---- Saxony    1305    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
@@ -2427,7 +2428,7 @@
 ---- Reunion    145    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    15    0    0
--- United Kingdom of Great Britain and Northern Ireland    14745    761    151
+-- United Kingdom of Great Britain and Northern Ireland    17089    1019    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2461,7 +2462,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Belgium    9134    353    1063
--- Austria    7964    68    225
+-- Austria    8030    68    225
 -- Turkey    5698    92    42
 -- Portugal    5170    100    43
 -- Canada    4781    56    354
@@ -2505,23 +2506,23 @@
 ---- Nagano    6    0    0
 ---- Tochigi    11    0    0
 ---- Kumamoto    11    0    0
----- Saitama    74    2    0
----- Ishikawa    8    0    0
+---- Saitama    79    2    0
+---- Ishikawa    9    0    0
 ---- Fukuoka    16    0    0
 ---- Tokyo    362    4    0
 ---- Wakayama    17    1    2
----- Kyoto    35    0    2
----- Osaka    176    2    1
----- Chiba    68    1    0
----- Kanagawa    110    4    1
----- Shizuoka    3    0    0
----- Aichi    163    19    2
+---- Kyoto    37    0    2
+---- Osaka    191    2    1
+---- Chiba    125    1    0
+---- Kanagawa    116    4    1
+---- Shizuoka    4    0    0
+---- Aichi    164    19    2
 ---- Nara    11    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
 ---- Okinawa    8    0    1
 ---- Ehime    4    0    0
----- hyogo    124    10    0
+---- hyogo    126    10    0
 ---- oita    27    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
@@ -2536,7 +2537,7 @@
 ---- Ibaraki    13    0    0
 ---- Kagawa    1    0    0
 ---- Fukui    12    0    0
----- Okayama    2    0    0
+---- Okayama    3    0    0
 ---- Aomori    6    0    0
 ---- Kagoshima    1    0    0
 -- Ecuador    1627    41    3
@@ -2561,6 +2562,7 @@
 -- Mexico    717    12    4
 -- Argentina    690    17    72
 -- Slovenia    684    9    10
+-- Serbia    659    10    42
 -- Estonia    645    1    20
 -- Croatia    635    4    45
 -- Peru    635    11    16
@@ -2569,13 +2571,12 @@
 -- Hong Kong    560    4    112
 -- Colombia    539    6    10
 -- Egypt    536    30    116
--- Serbia    528    8    42
 -- Iraq    506    42    131
 -- Bahrain    473    4    254
+-- United Arab Emirates    468    2    52
 -- New Zealand    451    0    50
 -- Lebanon    412    8    27
 -- Algeria    409    26    65
--- United Arab Emirates    405    2    52
 -- Lithuania    382    5    1
 -- Armenia    372    1    28
 -- Morocco    358    23    11
