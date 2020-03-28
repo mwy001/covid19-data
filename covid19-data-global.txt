@@ -2350,7 +2350,7 @@
 ---- Melilla    39    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    16    0    0
--- Germany    53340    395    6658
+-- Germany    53340    399    6658
 ---- Saxony    1305    8    15
 ---- Mecklenburg-Vorpommern    265    0    5
 ---- Free State of Bavaria    9481    55    99
@@ -2436,7 +2436,7 @@
 ---- Scotland    894    25    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    13226    240    1530
+-- Switzerland    13259    241    1530
 -- Korea, Republic of    9478    144    4811
 ---- Busan    114    2    81
 ---- Chungcheongbuk-do    41    0    21
@@ -2476,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3796    20    7
+-- Norway    3807    20    7
 -- Australia    3635    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2559,10 +2559,10 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Mexico    717    12    4
 -- Argentina    690    17    72
+-- Slovenia    684    9    10
 -- Estonia    645    1    20
 -- Croatia    635    4    45
 -- Peru    635    11    16
--- Slovenia    632    9    10
 -- Dominican Republic    581    20    3
 -- Qatar    562    0    43
 -- Colombia    539    6    10
@@ -2595,15 +2595,15 @@
 -- North Macedonia    219    3    3
 -- Kazakhstan    204    3    14
 -- Moldova, Republic of    199    2    2
--- Albania    186    8    31
+-- Albania    197    8    31
 -- Burkina Faso    180    9    12
 -- Viet Nam    169    0    21
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
 -- Oman    152    0    23
+-- Malta    149    0    2
 -- Réunion    145    0    1
 -- Faroe Islands    144    0    54
--- Malta    139    0    2
 -- Ghana    137    4    8
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
