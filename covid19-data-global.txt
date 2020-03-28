@@ -1084,7 +1084,7 @@
 ------ Beltrami(27007)    1    0    0
 ------ Lincoln(27081)    1    0    0
 ------ Faribault(27043)    1    0    0
----- MD    779    5    4
+---- MD    781    5    4
 ------ Montgomery(24031)    208    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    103    1    0
@@ -1101,7 +1101,7 @@
 ------ Worcester(24047)    2    0    0
 ------ Prince Georges(24033)    148    2    0
 ------ Caroline(24011)    1    0    0
------- Queen Anne's(24035)    2    0    0
+------ Queen Anne's(24035)    4    0    0
 ------ Somerset(24039)    4    0    0
 ------ Washington(24043)    5    0    0
 ------ Cecil(24015)    12    0    0
@@ -1779,7 +1779,7 @@
 ------ Toole(30101)    5    0    0
 ------ Park(30067)    1    0    0
 ------ Lake(30047)    1    0    0
----- ID    234    4    0
+---- ID    235    4    0
 ------ Ada(16001)    76    0    0
 ------ Blaine(16013)    99    2    0
 ------ Madison(16065)    2    0    0
@@ -1799,6 +1799,7 @@
 ------ Custer(16037)    1    0    0
 ------ Gem(16045)    1    0    0
 ------ Lincoln(16063)    1    0    0
+------ Bonneville(16019)    1    0    0
 ---- ND    68    1    0
 ------ Burleigh(38015)    25    0    0
 ------ Ward(38101)    4    0    0
@@ -2475,7 +2476,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    3    0    0
 -- Portugal    4268    76    43
--- Norway    3771    19    7
+-- Norway    3772    19    7
 -- Australia    3573    14    194
 ---- New South Wales    1405    7    4
 ---- Victoria    574    3    171
@@ -2540,8 +2541,8 @@
 -- Ecuador    1627    41    3
 -- Chile    1610    5    43
 -- Luxembourg    1605    15    40
+-- Pakistan    1408    11    25
 -- Poland    1389    16    13
--- Pakistan    1373    11    23
 -- Romania    1292    26    115
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
@@ -2550,7 +2551,7 @@
 -- Finland    1041    7    10
 -- Russian Federation    1036    4    45
 -- Greece    966    28    52
--- India    902    20    83
+-- India    906    20    83
 -- Iceland    890    5    97
 -- Philippines    803    54    31
 -- Panama    786    14    2
@@ -2574,11 +2575,11 @@
 -- Algeria    409    26    65
 -- United Arab Emirates    405    2    52
 -- Lebanon    391    8    27
+-- Armenia    372    1    28
 -- Lithuania    358    5    1
 -- Morocco    345    23    11
--- Armenia    329    1    28
+-- Hungary    343    11    34
 -- Ukraine    310    5    8
--- Hungary    300    10    34
 -- Bulgaria    293    3    9
 -- Latvia    280    0    1
 -- Uruguay    274    0    0
@@ -2598,17 +2599,17 @@
 -- Viet Nam    169    0    20
 -- Azerbaijan    165    3    15
 -- Cyprus    162    5    15
+-- Oman    152    0    23
 -- Kazakhstan    150    3    3
 -- Réunion    145    0    1
 -- Faroe Islands    144    0    54
 -- Malta    139    0    2
 -- Ghana    137    4    8
--- Oman    131    0    23
 -- Senegal    119    0    11
 -- Brunei Darussalam    115    1    11
 -- Venezuela, Bolivarian Republic of    113    2    31
 -- Afghanistan    110    4    2
--- Sri Lanka    106    0    7
+-- Sri Lanka    106    0    9
 -- Uzbekistan    104    2    5
 -- Côte d'Ivoire    101    0    3
 -- Cambodia    99    0    13
@@ -2619,7 +2620,7 @@
 -- Cameroon    91    2    2
 -- Palestine    91    1    17
 -- Kosovo    86    1    1
--- Georgia    83    0    14
+-- Georgia    85    0    14
 -- Montenegro    82    1    0
 -- Cuba    80    2    4
 -- Bolivia, Plurinational State of    74    0    0
