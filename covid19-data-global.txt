@@ -2386,7 +2386,7 @@
 ---- Corsica    225    0    0
 ---- Martinique    81    1    0
 ---- French Guiana    28    0    6
----- Réunion    94    0    0
+---- Réunion    135    0    0
 ---- Guadeloupe    76    1    0
 ---- French Polynesia    30    0    0
 ---- Fench Guiana    5    0    0
@@ -2459,7 +2459,7 @@
 -- Netherlands    8647    547    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    7697    58    225
+-- Austria    7712    58    225
 -- Belgium    7284    289    858
 -- Turkey    5698    92    42
 -- Canada    4781    56    354
@@ -2496,10 +2496,10 @@
 -- Malaysia    2161    26    259
 -- Ireland    2121    22    5
 -- Japan    1848    49    372
----- Hokkaido    169    7    100
+---- Hokkaido    171    7    100
 ---- kochi    13    0    0
 ---- Miyagi    2    0    0
----- Niigata    30    0    0
+---- Niigata    31    0    0
 ---- Gifu    17    0    0
 ---- Nagano    6    0    0
 ---- Tochigi    11    0    0
@@ -2507,14 +2507,14 @@
 ---- Saitama    73    2    0
 ---- Ishikawa    8    0    0
 ---- Fukuoka    16    0    0
----- Tokyo    299    4    0
+---- Tokyo    349    4    0
 ---- Wakayama    17    1    2
 ---- Kyoto    35    0    2
 ---- Osaka    176    2    1
----- Chiba    63    1    0
----- Kanagawa    104    4    1
+---- Chiba    64    1    0
+---- Kanagawa    105    4    1
 ---- Shizuoka    3    0    0
----- Aichi    160    19    2
+---- Aichi    161    19    2
 ---- Nara    9    0    1
 ---- Tokushima    1    0    0
 ---- Mie    9    0    1
@@ -2528,7 +2528,7 @@
 ---- Akita    4    0    0
 ---- Yamanashi    4    0    0
 ---- Hiroshima    4    0    0
----- Gunma    14    1    0
+---- Gunma    15    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    2    0    0
@@ -2546,9 +2546,9 @@
 -- Romania    1292    26    115
 -- Thailand    1245    6    97
 -- South Africa    1170    2    31
+-- Finland    1163    7    10
 -- Saudi Arabia    1104    3    35
 -- Indonesia    1046    87    46
--- Finland    1041    7    10
 -- Russian Federation    1036    4    45
 -- Greece    966    28    52
 -- India    906    20    83
@@ -2559,9 +2559,9 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Mexico    717    12    4
 -- Argentina    690    17    72
+-- Croatia    635    4    45
 -- Peru    635    11    16
 -- Slovenia    632    9    10
--- Croatia    586    3    37
 -- Dominican Republic    581    20    3
 -- Estonia    575    1    11
 -- Qatar    562    0    43
@@ -2569,7 +2569,7 @@
 -- Egypt    536    30    116
 -- Serbia    528    8    42
 -- Hong Kong    519    4    111
--- Bahrain    466    4    227
+-- Bahrain    473    4    254
 -- Iraq    458    40    122
 -- New Zealand    451    0    50
 -- Algeria    409    26    65
@@ -2579,8 +2579,8 @@
 -- Lithuania    358    5    1
 -- Morocco    345    23    11
 -- Hungary    343    11    34
+-- Bulgaria    313    4    9
 -- Ukraine    310    5    8
--- Bulgaria    293    3    9
 -- Latvia    280    0    1
 -- Uruguay    274    0    0
 -- Slovakia    269    1    7
@@ -2622,10 +2622,10 @@
 -- Kosovo    86    1    1
 -- Georgia    85    0    14
 -- Montenegro    82    1    0
+-- Nigeria    81    1    3
 -- Cuba    80    2    4
 -- Bolivia, Plurinational State of    74    0    0
 -- Guadeloupe    73    1    0
--- Nigeria    70    1    3
 -- Trinidad and Tobago    66    2    1
 -- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
