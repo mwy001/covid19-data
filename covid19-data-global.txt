@@ -1,4 +1,4 @@
--- United States of America    124755    2200    2612
+-- United States of America    124759    2200    2612
 ---- NY    53520    834    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -143,24 +143,24 @@
 ------ Colusa(06011)    1    0    0
 ------ Glenn(06021)    1    0    0
 ---- NJ    11124    140    1
------- Bergen(34003)    1838    13    0
------- Essex(34013)    1086    7    0
------- Hudson(34017)    771    4    0
+------ Bergen(34003)    1838    23    0
+------ Essex(34013)    1086    13    0
+------ Hudson(34017)    771    6    0
 ------ Middlesex(34023)    808    63    0
------- Monmouth(34025)    781    6    0
------- Union(34039)    742    0    0
------- Passaic(34031)    608    7    0
+------ Monmouth(34025)    781    8    0
+------ Union(34039)    742    7    0
+------ Passaic(34031)    608    10    0
 ------ Mercer(34021)    168    0    0
------- Morris(34027)    442    3    0
------- Somerset(34035)    258    4    0
------- Burlington(34005)    115    0    0
+------ Morris(34027)    442    8    0
+------ Somerset(34035)    258    6    0
+------ Burlington(34005)    115    2    0
 ------ Hunterdon(34019)    61    0    0
------- Ocean(34029)    624    4    0
+------ Ocean(34029)    624    6    0
 ------ Camden(34007)    123    1    0
 ------ Gloucester(34015)    51    1    0
 ------ Atlantic(34001)    17    0    0
------- Warren(34041)    51    0    0
------- Sussex(34037)    81    0    0
+------ Warren(34041)    51    1    0
+------ Sussex(34037)    81    1    0
 ------ Cape May(34009)    7    0    0
 ------ Cumberland(34011)    11    0    0
 ------ Salem(34033)    3    0    0
@@ -1230,14 +1230,14 @@
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    2    0    0
----- AL    721    9    0
+---- AL    725    9    0
 ------ Jefferson(01073)    214    0    0
 ------ Shelby(01117)    72    0    0
 ------ Lee(01081)    56    2    0
 ------ Tuscaloosa(01125)    23    0    0
 ------ Elmore(01051)    13    0    0
 ------ Montgomery(01101)    18    0    0
------- Baldwin(01003)    10    0    0
+------ Baldwin(01003)    14    0    0
 ------ Limestone(01083)    16    0    0
 ------ Madison(01089)    62    1    0
 ------ Calhoun(01015)    3    0    0
@@ -2576,7 +2576,7 @@
 ---- Nova Scotia    110    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
--- Norway    4232    25    7
+-- Norway    4235    25    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2649,11 +2649,11 @@
 -- Thailand    1388    7    97
 -- Saudi Arabia    1299    8    66
 -- Indonesia    1285    114    64
--- Finland    1221    11    10
+-- Finland    1239    11    10
 -- South Africa    1187    2    31
--- Greece    1061    32    52
+-- Greece    1061    37    52
+-- Iceland    1020    5    114
 -- India    987    25    87
--- Iceland    963    5    114
 -- Panama    901    17    4
 -- Mexico    848    16    4
 -- Singapore    844    3    212
@@ -2703,9 +2703,9 @@
 -- Cyprus    179    5    15
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
+-- Ghana    152    5    8
 -- Malta    151    0    2
 -- Senegal    142    0    27
--- Ghana    141    5    8
 -- Uzbekistan    133    2    7
 -- Brunei Darussalam    126    1    34
 -- Afghanistan    120    4    2
