@@ -2675,11 +2675,11 @@
 -- United Arab Emirates    468    2    52
 -- Algeria    454    29    65
 -- Lebanon    412    8    30
+-- Hungary    408    13    34
 -- Armenia    407    1    30
 -- Morocco    402    25    12
 -- Lithuania    394    7    1
 -- Ukraine    356    9    8
--- Hungary    343    11    34
 -- Bulgaria    331    7    11
 -- Andorra    308    3    1
 -- Latvia    305    0    1
