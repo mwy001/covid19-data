@@ -2536,7 +2536,7 @@
 ---- Scotland    1245    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    14593    290    1595
+-- Switzerland    14829    300    1595
 -- Netherlands    10866    771    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2560,10 +2560,10 @@
 ---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    8536    86    479
+-- Austria    8648    86    479
 -- Turkey    7402    108    70
 -- Portugal    5962    119    43
--- Canada    5655    61    508
+-- Canada    5655    63    508
 ---- British Columbia    884    17    4
 ---- Ontario    1144    18    6
 ---- Alberta    542    2    0
@@ -2576,7 +2576,7 @@
 ---- Nova Scotia    110    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
--- Norway    4235    25    7
+-- Norway    4239    25    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2649,11 +2649,11 @@
 -- Thailand    1388    7    97
 -- Saudi Arabia    1299    8    66
 -- Indonesia    1285    114    64
--- Finland    1239    11    10
+-- Finland    1240    11    10
 -- South Africa    1187    2    31
 -- Greece    1061    37    52
+-- India    1024    27    87
 -- Iceland    1020    5    114
--- India    987    25    87
 -- Panama    901    17    4
 -- Dominican Republic    859    39    3
 -- Mexico    848    16    4
@@ -2695,12 +2695,12 @@
 -- Jordan    246    1    18
 -- Moldova, Republic of    231    2    2
 -- San Marino    226    22    6
+-- Cyprus    214    5    15
 -- Albania    212    10    33
 -- Azerbaijan    209    4    15
 -- Burkina Faso    207    11    21
 -- Viet Nam    188    0    21
 -- Réunion    183    0    1
--- Cyprus    179    5    15
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
 -- Ghana    152    5    8
@@ -2711,12 +2711,12 @@
 -- Afghanistan    120    4    2
 -- Cuba    119    3    4
 -- Venezuela, Bolivarian Republic of    119    2    39
--- Sri Lanka    115    1    11
--- Honduras    110    1    3
+-- Sri Lanka    117    1    11
+-- Honduras    110    2    3
+-- Mauritius    107    2    0
 -- Palestine    106    1    18
 -- Cambodia    103    0    21
 -- Guadeloupe    102    2    17
--- Mauritius    102    2    0
 -- Côte d'Ivoire    101    0    3
 -- Nigeria    97    1    3
 -- Belarus    94    0    32
