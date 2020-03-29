@@ -1,4 +1,4 @@
--- United States of America    124717    2200    2612
+-- United States of America    124755    2200    2612
 ---- NY    53520    834    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -59,7 +59,7 @@
 ------ Orleans(36073)    3    0    0
 ------ Cattaraugus(36009)    1    0    0
 ------ Schuyler(36097)    1    0    0
----- WA    4311    190    420
+---- WA    4312    190    420
 ------ King(53033)    2077    136    0
 ------ Snohomish(53061)    913    23    0
 ------ Pierce(53053)    282    5    0
@@ -87,14 +87,14 @@
 ------ Clallam(53009)    5    0    0
 ------ San Juan(53055)    4    0    0
 ------ Stevens(53065)    3    0    0
------- Walla Walla(53071)    4    0    0
+------ Walla Walla(53071)    5    0    0
 ------ Whitman(53075)    6    0    0
 ------ Adams(53001)    5    0    0
 ------ Douglas(53017)    5    0    0
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    5648    120    30
+---- CA    5655    120    30
 ------ Santa Clara(06085)    591    25    0
 ------ Los Angeles(06037)    1818    32    0
 ------ San Mateo(06081)    274    6    0
@@ -105,7 +105,7 @@
 ------ Orange(06059)    403    4    0
 ------ Alameda(06001)    256    6    0
 ------ Riverside(06065)    195    8    0
------- San Joaquin(06077)    101    4    0
+------ San Joaquin(06077)    108    4    0
 ------ Santa Cruz(06087)    39    0    0
 ------ Marin(06041)    69    1    0
 ------ Ventura(06111)    98    3    0
@@ -489,7 +489,7 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2534    34    69
+---- TX    2535    34    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
 ------ Harris(48201)    445    3    0
@@ -547,7 +547,7 @@
 ------ Hidalgo(48215)    27    0    0
 ------ Chambers(48071)    3    0    0
 ------ Liberty(48291)    2    0    0
------- Burnet(48053)    1    0    0
+------ Burnet(48053)    2    0    0
 ------ Hardin(48199)    6    0    0
 ------ Atascosa(48013)    2    0    0
 ------ Walker(48471)    3    0    0
@@ -1184,7 +1184,7 @@
 ------ Utah(49049)    31    0    0
 ------ Cache(49005)    5    0    0
 ------ Box Elder(49003)    5    0    0
------- Washington(49053)    13    0    0
+------ Washington(49053)    13    1    0
 ------ Weber(49057)    29    0    0
 ------ Iron(49021)    1    0    0
 ------ San Juan(49037)    1    0    0
@@ -1941,10 +1941,10 @@
 ------ Upshur(54097)    1    0    0
 ------ Greenbrier(54025)    2    0    0
 ------ Pleasants(54073)    1    0    0
----- GU    55    1    7
+---- GU    56    1    7
 ------ Guam(66010)    55    1    0
----- PR    100    3    0
----- VI    22    0    0
+---- PR    127    3    0
+---- VI    23    0    0
 -- Italy    92472    10023    12384
 ---- Abruzzo    1133    76    30
 ---- Aosta Valley    511    41    2
@@ -2526,7 +2526,7 @@
 ---- Reunion    183    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    15    0    0
--- United Kingdom of Great Britain and Northern Ireland    17312    1021    151
+-- United Kingdom of Great Britain and Northern Ireland    19522    1228    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2536,7 +2536,7 @@
 ---- Scotland    1245    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    14352    282    1595
+-- Switzerland    14593    290    1595
 -- Netherlands    10866    771    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2560,7 +2560,7 @@
 ---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    8486    86    479
+-- Austria    8536    86    479
 -- Turkey    7402    108    70
 -- Portugal    5962    119    43
 -- Canada    5655    61    508
@@ -2659,12 +2659,12 @@
 -- Singapore    844    3    212
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    745    19    72
+-- Serbia    741    13    42
 -- Slovenia    730    11    10
 -- Dominican Republic    729    28    3
 -- Croatia    713    6    52
 -- Estonia    679    3    20
 -- Peru    671    16    16
--- Serbia    659    11    42
 -- Hong Kong    641    4    118
 -- Colombia    608    6    10
 -- Qatar    590    1    45
@@ -2689,7 +2689,7 @@
 -- Taiwan    298    2    39
 -- Costa Rica    295    2    3
 -- Tunisia    278    8    2
--- North Macedonia    257    6    3
+-- North Macedonia    259    6    3
 -- Kuwait    255    0    67
 -- Kazakhstan    251    3    18
 -- Jordan    246    1    18
