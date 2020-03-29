@@ -1,18 +1,18 @@
--- United States of America    124088    2185    1073
----- NY    53399    827    1533
+-- United States of America    124170    2192    1080
+---- NY    53448    834    1533
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    27    0
------- Suffolk(36103)    4138    30    0
+------ Suffolk(36103)    4138    37    0
 ------ Albany(36001)    195    0    0
 ------ Rockland(36087)    1896    8    0
 ------ Dutchess(36027)    262    2    0
------- Orange(36071)    1101    4    0
+------ Orange(36071)    1142    4    0
 ------ Monroe(36055)    202    5    0
 ------ Erie(36029)    318    6    0
 ------ Saratoga(36091)    96    0    0
 ------ Ulster(36111)    133    0    0
 ------ Schenectady(36093)    72    1    0
------- Tompkins(36109)    48    0    0
+------ Tompkins(36109)    56    0    0
 ------ Allegany(36003)    2    0    0
 ------ Greene(36039)    7    0    0
 ------ Onondaga(36067)    146    1    0
@@ -489,7 +489,7 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2494    31    69
+---- TX    2498    31    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
 ------ Harris(48201)    445    2    0
@@ -500,7 +500,7 @@
 ------ Smith(48423)    27    1    0
 ------ Montgomery(48339)    63    0    0
 ------ Bell(48027)    28    1    0
------- El Paso(48141)    38    0    0
+------ El Paso(48141)    42    0    0
 ------ Hays(48209)    13    0    0
 ------ Brazoria(48039)    61    0    0
 ------ Galveston(48167)    60    0    0
@@ -670,6 +670,7 @@
 ------ Perry(42099)    1    0    0
 ------ Snyder(42109)    1    0    0
 ------ Tioga(42117)    1    0    0
+------ McKean(42083)    1    0    0
 ---- WI    1055    17    1
 ------ Milwaukee(55079)    541    9    0
 ------ Dane(55025)    172    1    0
@@ -957,7 +958,7 @@
 ------ Lancaster(51103)    1    0    0
 ------ New Kent(51127)    1    0    0
 ------ Powhatan(51145)    1    0    0
----- NC    1052    5    0
+---- NC    1073    5    0
 ------ Wake(37183)    133    0    0
 ------ Durham(37063)    113    0    0
 ------ Mecklenburg(37119)    299    0    0
@@ -1010,7 +1011,7 @@
 ------ Hertford(37091)    3    0    0
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    3    0    0
------- Northampton(37131)    4    0    0
+------ Northampton(37131)    25    0    0
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    3    0    0
 ------ Bertie(37015)    3    0    0
@@ -1035,7 +1036,7 @@
 ------ Caswell(37033)    1    0    0
 ------ Yadkin(37197)    1    0    0
 ------ Alexander(37003)    1    0    0
----- MI    4650    120    5
+---- MI    4658    120    5
 ------ Oakland(26125)    1018    31    0
 ------ Wayne(26163)    2316    47    0
 ------ Macomb(26099)    534    17    0
@@ -1182,8 +1183,8 @@
 ------ Utah(49049)    31    0    0
 ------ Cache(49005)    5    0    0
 ------ Box Elder(49003)    4    0    0
------- Washington(49053)    9    0    0
------- Weber(49057)    20    0    0
+------ Washington(49053)    13    0    0
+------ Weber(49057)    29    0    0
 ------ Iron(49021)    1    0    0
 ------ San Juan(49037)    1    0    0
 ---- SC    664    16    0
@@ -1467,6 +1468,7 @@
 ------ Hancock(21091)    1    0    0
 ------ Bullitt(21029)    3    0    0
 ------ Larue(21123)    1    0    0
+------ McLean(21149)    1    0    0
 ---- NH    214    2    0
 ------ Rockingham(33015)    86    0    0
 ------ Grafton(33009)    28    0    0
@@ -1760,7 +1762,7 @@
 ------ Pulaski(29169)    5    1    0
 ------ Scott(29201)    3    0    0
 ------ Dunklin(29069)    3    1    0
------- Jasper(29097)    3    1    0
+------ Jasper(29097)    4    1    0
 ------ Adair(29001)    2    0    0
 ------ Bates(29013)    1    0    0
 ------ Johnson(29101)    9    1    0
@@ -1907,12 +1909,14 @@
 ------ Sioux(38085)    1    0    0
 ------ Divide(38023)    1    0    0
 ------ Mercer(38057)    1    0    0
+------ McLean(38055)    2    0    0
 ---- AK    89    2    0
------- Fairbanks North Star(02090)    14    0    0
+------ Fairbanks North Star(02090)    19    0    0
 ------ Anchorage(02020)    43    1    0
 ------ Ketchikan Gateway(02130)    12    0    0
 ------ Juneau(02110)    4    0    0
------- Kenai Peninsula(02122)    4    0    0
+------ Kenai Peninsula(02122)    5    0    0
+------ Matanuska-Susitna(02170)    2    0    0
 ---- WV    113    1    0
 ------ Jefferson(54037)    4    0    0
 ------ Mercer(54055)    2    0    0
@@ -1935,7 +1939,7 @@
 ------ Upshur(54097)    1    0    0
 ------ Greenbrier(54025)    2    0    0
 ------ Pleasants(54073)    1    0    0
----- GU    55    1    0
+---- GU    55    1    7
 ------ Guam(66010)    51    1    0
 ---- PR    100    3    0
 ---- VI    22    0    0
@@ -2461,7 +2465,7 @@
 ---- Baden-Württemberg    8441    76    285
 ---- Saxony-Anhalt    500    2    21
 ---- Saarland    540    3    25
--- France    37575    2314    5707
+-- France    38105    2317    5724
 ---- France    7652    148    12
 ---- St Martin    11    0    0
 ---- Saint Barthelemy    5    0    0
@@ -2478,14 +2482,14 @@
 ---- Languedoc-Roussillon-Midi-Pyrénées    1082    0    0
 ---- Provence-Alpes-Côte d'Azur    1927    0    0
 ---- Corsica    225    0    0
----- Martinique    81    1    0
+---- Martinique    93    1    0
 ---- French Guiana    28    0    6
 ---- Réunion    135    0    0
----- Guadeloupe    76    1    0
+---- Guadeloupe    102    2    17
 ---- French Polynesia    30    0    0
 ---- Fench Guiana    5    0    0
----- Mayotte    50    0    0
----- Reunion    145    0    1
+---- Mayotte    63    0    0
+---- Reunion    183    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    15    0    0
 -- Iran, Islamic Republic of    35408    2517    11679
@@ -2520,7 +2524,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    17089    1019    151
+-- United Kingdom of Great Britain and Northern Ireland    17312    1021    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2531,7 +2535,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    14076    264    1530
--- Netherlands    9762    639    6
+-- Netherlands    9819    640    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Korea, Republic of    9478    144    4811
@@ -2557,38 +2561,38 @@
 -- Austria    8271    68    225
 -- Turkey    7402    108    70
 -- Canada    5655    61    466
----- British Columbia    725    14    4
----- Ontario    994    18    6
+---- British Columbia    884    17    4
+---- Ontario    1144    18    6
 ---- Alberta    542    2    0
----- Quebec    2024    18    0
----- New Brunswick    45    0    0
----- Manitoba    39    1    0
----- Saskatchewan    95    0    0
----- Prince Edward Island    9    0    0
----- Newfoundland and Labrador    102    0    0
----- Nova Scotia    90    0    0
+---- Quebec    2498    22    0
+---- New Brunswick    51    0    0
+---- Manitoba    64    1    0
+---- Saskatchewan    134    0    0
+---- Prince Edward Island    11    0    0
+---- Newfoundland and Labrador    120    0    0
+---- Nova Scotia    110    0    0
 ---- Northwest Territories    1    0    0
----- Yukon    3    0    0
+---- Yukon    4    0    0
 -- Portugal    5170    100    43
 -- Norway    4015    23    7
 -- Brazil    3904    114    6
--- Australia    3635    14    194
----- New South Wales    1405    7    4
----- Victoria    574    3    171
----- Queensland    555    1    8
----- South Australia    257    0    6
----- Western Australia    231    2    1
----- Tasmania    47    0    3
----- Northern Territory    12    0    0
----- Australian Capital Territory    62    0    1
+-- Australia    3640    14    244
+---- New South Wales    1617    8    4
+---- Victoria    685    3    191
+---- Queensland    625    1    8
+---- South Australia    287    0    6
+---- Western Australia    278    2    28
+---- Tasmania    62    0    5
+---- Northern Territory    15    0    0
+---- Australian Capital Territory    71    0    2
 -- Israel    3619    12    89
 -- Sweden    3447    105    16
 -- Czechia    2631    11    11
 -- Ireland    2415    36    5
--- Malaysia    2320    27    320
--- Denmark    2201    65    57
+-- Denmark    2366    65    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Malaysia    2320    27    320
 -- Chile    1909    6    61
 -- Japan    1848    52    404
 ---- Hokkaido    171    7    100
@@ -2648,9 +2652,9 @@
 -- Greece    1061    32    52
 -- India    987    24    84
 -- Iceland    963    5    114
+-- Panama    901    17    4
 -- Singapore    802    2    198
 ---- Central Singapore Community Development Council    345    0    124
--- Panama    786    14    2
 -- Argentina    745    19    72
 -- Dominican Republic    729    28    3
 -- Mexico    717    12    4
@@ -2677,7 +2681,7 @@
 -- Bulgaria    331    7    11
 -- Andorra    308    3    1
 -- Latvia    305    0    1
--- Uruguay    304    0    0
+-- Uruguay    304    1    0
 -- Costa Rica    295    2    3
 -- Slovakia    292    1    7
 -- Taiwan    283    2    30
@@ -2716,18 +2720,18 @@
 -- Belarus    94    0    32
 -- Martinique    93    1    0
 -- Cameroon    91    2    2
+-- Kosovo    91    1    1
 -- Georgia    90    0    14
--- Kosovo    86    1    1
 -- Montenegro    84    1    0
 -- Trinidad and Tobago    76    3    1
 -- Bolivia, Plurinational State of    74    0    0
+-- Congo, Democratic Republic of the    65    6    2
 -- Mayotte    63    0    0
 -- Rwanda    60    0    0
 -- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
 -- Paraguay    56    3    1
 -- Gibraltar    56    0    14
--- Congo, Democratic Republic of the    51    3    2
 -- Bangladesh    48    5    15
 -- Aruba    46    0    1
 -- Monaco    42    0    1
