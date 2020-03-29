@@ -1,4 +1,4 @@
--- United States of America    124513    2198    1095
+-- United States of America    124612    2198    1095
 ---- NY    53520    834    1533
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -59,11 +59,11 @@
 ------ Orleans(36073)    3    0    0
 ------ Cattaraugus(36009)    1    0    0
 ------ Schuyler(36097)    1    0    0
----- WA    4310    190    420
+---- WA    4311    190    420
 ------ King(53033)    2077    136    0
 ------ Snohomish(53061)    913    23    0
 ------ Pierce(53053)    282    5    0
------- Island(53029)    92    1    0
+------ Island(53029)    93    1    0
 ------ Skagit(53057)    97    3    0
 ------ Grant(53025)    44    1    0
 ------ Kitsap(53035)    49    1    0
@@ -285,7 +285,7 @@
 ------ West Feliciana(22125)    4    0    0
 ------ Franklin(22041)    4    0    0
 ------ East Carroll(22035)    1    0    0
----- CO    2061    44    0
+---- CO    2063    44    0
 ------ Denver(08031)    367    5    0
 ------ Eagle(08037)    182    2    0
 ------ Arapahoe(08005)    204    3    0
@@ -302,7 +302,7 @@
 ------ Clear Creek(08019)    3    0    0
 ------ Garfield(08045)    23    0    0
 ------ Routt(08107)    14    0    0
------- Mesa(08077)    9    0    0
+------ Mesa(08077)    11    0    0
 ------ Pueblo(08101)    7    1    0
 ------ Grand(08049)    3    0    0
 ------ Morgan(08087)    4    0    0
@@ -489,7 +489,7 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2523    34    69
+---- TX    2527    34    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
 ------ Harris(48201)    445    3    0
@@ -714,7 +714,7 @@
 ------ Marinette(55075)    1    0    0
 ------ Richland(55103)    2    0    0
 ------ Oneida(55085)    1    0    0
----- TN    1511    7    52
+---- TN    1512    7    52
 ------ Davidson(47037)    376    2    0
 ------ Williamson(47187)    95    0    0
 ------ Shelby(47157)    275    0    0
@@ -959,7 +959,7 @@
 ------ New Kent(51127)    1    0    0
 ------ Powhatan(51145)    1    0    0
 ------ City of Hopewell(51670)    1    0    0
----- NC    1076    5    0
+---- NC    1077    5    0
 ------ Wake(37183)    133    0    0
 ------ Durham(37063)    113    0    0
 ------ Mecklenburg(37119)    299    0    0
@@ -1166,7 +1166,7 @@
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    8    0    0
 ------ Kent(24029)    2    0    0
----- NV    644    14    5
+---- NV    738    14    5
 ------ Clark(32003)    528    14    0
 ------ Washoe(32031)    93    0    0
 ------ Carson City(32510)    5    0    0
@@ -2431,25 +2431,25 @@
 ------ 海北州    3    0    3
 -- Spain    73235    5982    12285
 ---- Andalusia    4277    175    139
----- Aragon    1592    58    8
----- Balearic Islands    862    26    80
----- Basque Country    5136    221    1023
----- Canary Islands    1025    36    25
+---- Aragon    1592    93    8
+---- Balearic Islands    862    31    80
+---- Basque Country    5136    241    1023
+---- Canary Islands    1125    39    25
 ---- Cantabria    937    22    21
----- Castile and León    4791    321    585
+---- Castile and León    4791    380    585
 ---- Castile-La Mancha    4512    448    197
----- Catalonia    14263    1070    3106
+---- Catalonia    15026    1226    3106
 ---- Community of Madrid    21520    2757    6326
 ---- Comunidad Foral de Navarra    1829    70    98
 ---- Extremadura    1394    88    49
 ---- Galicia    2772    3032    95
----- Principality of Asturias    1004    33    65
----- Región de Murcia    802    17    12
+---- Principality of Asturias    1088    41    65
+---- Región de Murcia    836    20    12
 ---- Rioja    1436    65    364
 ---- Valencian Community    4043    234    92
 ---- Melilla    45    1    0
 ---- Navarre    130    0    0
----- Ceuta    17    1    0
+---- Ceuta    23    1    0
 -- Germany    57695    433    8481
 ---- Saxony    1700    9    17
 ---- Mecklenburg-Vorpommern    348    1    11
@@ -2628,7 +2628,7 @@
 ---- Shiga    6    0    0
 ---- Akita    4    0    0
 ---- Yamanashi    4    0    0
----- Hiroshima    4    0    0
+---- Hiroshima    6    0    0
 ---- Gunma    18    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
@@ -2736,7 +2736,7 @@
 -- Gibraltar    56    0    14
 -- Bangladesh    48    5    15
 -- Aruba    46    0    1
--- Monaco    42    0    1
+-- Monaco    43    1    1
 -- Puerto Rico    39    2    1
 -- Kenya    38    1    1
 -- Guatemala    34    1    10
@@ -2759,6 +2759,7 @@
 -- Maldives    16    0    9
 -- Ethiopia    16    0    4
 -- New Caledonia    15    0    0
+-- Haiti    15    0    1
 -- Tanzania, United Republic of    14    0    1
 -- Djibouti    14    0    0
 -- Mongolia    12    0    0
@@ -2775,7 +2776,6 @@
 -- Namibia    8    0    2
 -- Seychelles    8    0    0
 -- Curaçao    8    1    2
--- Haiti    8    0    0
 -- Mozambique    8    0    0
 -- Myanmar    8    0    0
 -- Lao People's Democratic Republic    8    0    0
