@@ -1967,8 +1967,8 @@
 ---- Liguria    2822    358    378
 ---- Veneto    7930    362    655
 ---- Bolzano    1109    64    116
--- China    82341    3306    75600
----- 天津    163    3    133
+-- China    82345    3306    75600
+---- 天津    166    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2034,7 +2034,7 @@
 ------ 青浦区    6    0    6
 ------ 金山区    4    0    4
 ------ 崇明区    4    0    4
----- 北京    576    8    411
+---- 北京    577    8    411
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
 ------ 西城区    53    0    0
@@ -2641,7 +2641,7 @@
 ---- Kagoshima    1    0    0
 -- Luxembourg    1831    18    40
 -- Ecuador    1823    48    3
--- Poland    1638    18    13
+-- Poland    1717    19    13
 -- Pakistan    1526    13    29
 -- Romania    1452    37    139
 -- Thailand    1388    7    97
@@ -2675,18 +2675,18 @@
 -- United Arab Emirates    468    2    55
 -- Algeria    454    29    65
 -- Lithuania    437    7    1
+-- Morocco    437    26    12
 -- Armenia    424    3    30
+-- Ukraine    418    9    8
 -- Lebanon    412    8    30
 -- Hungary    408    13    34
--- Morocco    402    25    12
--- Ukraine    356    9    8
 -- Latvia    347    0    1
 -- Bulgaria    338    7    11
 -- Andorra    308    3    1
 -- Uruguay    304    1    0
+-- Taiwan    298    2    30
 -- Costa Rica    295    2    3
 -- Slovakia    292    1    7
--- Taiwan    283    2    30
 -- Tunisia    278    8    2
 -- Bosnia and Herzegovina    278    6    8
 -- Kazakhstan    251    3    18
@@ -2701,11 +2701,11 @@
 -- Azerbaijan    182    4    15
 -- Cyprus    179    5    15
 -- Viet Nam    179    0    21
--- Faroe Islands    155    0    54
--- Oman    152    0    23
+-- Oman    167    0    23
+-- Faroe Islands    159    0    70
 -- Malta    149    0    2
 -- Ghana    141    5    8
--- Uzbekistan    133    2    5
+-- Uzbekistan    133    2    7
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
 -- Cuba    119    3    4
@@ -2723,7 +2723,7 @@
 -- Martinique    93    1    0
 -- Cameroon    91    2    2
 -- Kosovo    91    1    1
--- Georgia    90    0    14
+-- Georgia    90    0    18
 -- Montenegro    84    1    0
 -- Kyrgyzstan    84    0    0
 -- Bolivia, Plurinational State of    81    0    0
