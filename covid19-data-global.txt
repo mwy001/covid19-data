@@ -1,4 +1,4 @@
--- United States of America    135618    2395    2612
+-- United States of America    135687    2396    2612
 ---- NY    59513    965    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -143,25 +143,25 @@
 ------ Colusa(06011)    1    0    0
 ------ Glenn(06021)    1    0    0
 ---- NJ    13386    161    1
------- Bergen(34003)    1838    23    0
------- Essex(34013)    1086    13    0
------- Hudson(34017)    771    6    0
------- Middlesex(34023)    808    63    0
------- Monmouth(34025)    781    8    0
------- Union(34039)    742    7    0
------- Passaic(34031)    608    10    0
------- Mercer(34021)    168    0    0
------- Morris(34027)    442    8    0
------- Somerset(34035)    258    6    0
------- Burlington(34005)    115    2    0
------- Hunterdon(34019)    61    0    0
------- Ocean(34029)    624    6    0
------- Camden(34007)    123    1    0
------- Gloucester(34015)    51    1    0
------- Atlantic(34001)    17    0    0
------- Warren(34041)    51    1    0
------- Sussex(34037)    81    1    0
------- Cape May(34009)    7    0    0
+------ Bergen(34003)    2169    23    0
+------ Essex(34013)    1227    13    0
+------ Hudson(34017)    974    6    0
+------ Middlesex(34023)    938    63    0
+------ Monmouth(34025)    870    8    0
+------ Union(34039)    896    7    0
+------ Passaic(34031)    831    10    0
+------ Mercer(34021)    202    0    0
+------ Morris(34027)    556    8    0
+------ Somerset(34035)    295    6    0
+------ Burlington(34005)    142    2    0
+------ Hunterdon(34019)    66    0    0
+------ Ocean(34029)    759    6    0
+------ Camden(34007)    163    1    0
+------ Gloucester(34015)    72    1    0
+------ Atlantic(34001)    24    0    0
+------ Warren(34041)    56    1    0
+------ Sussex(34037)    93    1    0
+------ Cape May(34009)    9    0    0
 ------ Cumberland(34011)    11    0    0
 ------ Salem(34033)    3    0    0
 ---- MA    4257    44    10
@@ -867,29 +867,29 @@
 ------ Ottawa(39123)    1    0    0
 ------ Pike(39131)    1    0    0
 ------ Van Wert(39161)    1    0    0
----- OR    479    13    0
------- Washington(41067)    140    3    0
------- Linn(41043)    32    1    0
------- Clackamas(41005)    36    2    0
------- Deschutes(41017)    20    0    0
------- Marion(41047)    94    3    0
------- Multnomah(41051)    81    2    0
+---- OR    548    13    0
+------ Washington(41067)    154    3    0
+------ Linn(41043)    36    1    0
+------ Clackamas(41005)    39    2    0
+------ Deschutes(41017)    23    0    0
+------ Marion(41047)    109    3    0
+------ Multnomah(41051)    91    2    0
 ------ Benton(41003)    8    0    0
------- Jackson(41029)    8    0    0
------- Polk(41053)    11    0    0
+------ Jackson(41029)    19    0    0
+------ Polk(41053)    13    0    0
 ------ Umatilla(41059)    4    0    0
 ------ Douglas(41019)    4    0    0
------- Klamath(41035)    2    0    0
+------ Klamath(41035)    4    0    0
 ------ Lane(41039)    10    1    0
 ------ Yamhill(41071)    13    1    0
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
------- Josephine(41033)    5    0    0
------- Hood River(41027)    1    0    0
+------ Josephine(41033)    6    0    0
+------ Hood River(41027)    2    0    0
 ------ Clatsop(41007)    3    0    0
 ------ Lincoln(41041)    1    0    0
------- Tillamook(41057)    1    0    0
------- Wasco(41065)    2    0    0
+------ Tillamook(41057)    2    0    0
+------ Wasco(41065)    3    0    0
 ------ Columbia(41009)    1    0    0
 ------ Morrow(41049)    1    0    0
 ---- VA    890    22    2
@@ -971,10 +971,10 @@
 ------ Greensville(51081)    1    0    0
 ------ Tazewell(51185)    1    0    0
 ------ Wythe(51197)    1    0    0
----- NC    1127    6    0
+---- NC    1127    7    0
 ------ Wake(37183)    134    0    0
 ------ Durham(37063)    113    0    0
------- Mecklenburg(37119)    315    0    0
+------ Mecklenburg(37119)    315    1    0
 ------ Chatham(37037)    13    0    0
 ------ Harnett(37085)    14    1    0
 ------ Forsyth(37067)    33    0    0
@@ -2631,7 +2631,8 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
 -- Portugal    5962    119    43
--- Norway    4245    25    7
+-- Israel    4247    15    132
+-- Norway    4247    25    7
 -- Brazil    4065    118    6
 -- Australia    3980    16    244
 ---- New South Wales    1617    8    4
@@ -2642,7 +2643,6 @@
 ---- Tasmania    62    0    5
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    71    0    2
--- Israel    3865    15    89
 -- Sweden    3700    110    16
 -- Czechia    2743    16    11
 -- Ireland    2615    46    5
@@ -2696,10 +2696,10 @@
 ---- Okayama    3    0    0
 ---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
--- Poland    1771    20    13
--- Romania    1760    42    169
+-- Poland    1862    22    13
+-- Romania    1760    43    169
+-- Pakistan    1571    14    29
 -- Russian Federation    1534    8    64
--- Pakistan    1526    14    29
 -- Philippines    1418    71    42
 -- Thailand    1388    7    97
 -- Saudi Arabia    1299    8    66
@@ -2722,16 +2722,16 @@
 -- Estonia    679    3    20
 -- Hong Kong    641    4    118
 -- Qatar    634    1    48
+-- Egypt    609    40    132
 -- Colombia    608    6    10
--- Egypt    576    36    121
 -- United Arab Emirates    570    3    58
 -- Iraq    547    42    143
 -- New Zealand    514    1    56
 -- Algeria    511    31    65
 -- Bahrain    499    4    272
 -- Morocco    463    26    13
+-- Lithuania    460    7    1
 -- Lebanon    438    10    30
--- Lithuania    437    7    1
 -- Armenia    424    3    30
 -- Ukraine    418    9    8
 -- Hungary    408    13    34
@@ -2789,8 +2789,8 @@
 -- Rwanda    60    0    0
 -- Liechtenstein    56    0    0
 -- Paraguay    56    3    1
+-- Aruba    50    0    1
 -- Bangladesh    48    5    15
--- Aruba    46    0    1
 -- Monaco    43    1    1
 -- Kenya    42    1    1
 -- Isle of Man    42    0    0
