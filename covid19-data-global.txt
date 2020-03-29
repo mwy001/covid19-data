@@ -2587,7 +2587,7 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    71    0    2
 -- Brazil    3904    114    6
--- Israel    3619    12    89
+-- Israel    3865    12    89
 -- Sweden    3447    105    16
 -- Czechia    2663    11    11
 -- Ireland    2415    36    5
@@ -2689,11 +2689,11 @@
 -- Taiwan    283    2    30
 -- Tunisia    278    8    2
 -- Bosnia and Herzegovina    278    6    8
+-- Kazakhstan    251    3    18
 -- Jordan    246    1    18
 -- North Macedonia    241    4    3
 -- Kuwait    235    0    64
 -- Moldova, Republic of    231    2    2
--- Kazakhstan    228    3    16
 -- San Marino    226    22    6
 -- Burkina Faso    207    11    21
 -- Albania    197    10    31
@@ -2725,12 +2725,12 @@
 -- Kosovo    91    1    1
 -- Georgia    90    0    14
 -- Montenegro    84    1    0
+-- Kyrgyzstan    84    0    0
 -- Bolivia, Plurinational State of    81    0    0
 -- Trinidad and Tobago    76    3    1
 -- Congo, Democratic Republic of the    65    6    2
 -- Mayotte    63    0    0
 -- Rwanda    60    0    0
--- Kyrgyzstan    58    0    0
 -- Liechtenstein    56    0    0
 -- Paraguay    56    3    1
 -- Gibraltar    56    0    14
