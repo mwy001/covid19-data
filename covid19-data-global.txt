@@ -2560,7 +2560,7 @@
 ---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    8411    86    479
+-- Austria    8450    86    479
 -- Turkey    7402    108    70
 -- Canada    5655    61    508
 ---- British Columbia    884    17    4
@@ -2576,7 +2576,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
 -- Portugal    5170    100    43
--- Norway    4054    23    7
+-- Norway    4189    23    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2589,10 +2589,10 @@
 -- Brazil    3904    114    6
 -- Israel    3865    13    89
 -- Sweden    3447    105    16
--- Czechia    2669    13    11
+-- Czechia    2689    13    11
 -- Malaysia    2470    34    388
 -- Ireland    2415    36    5
--- Denmark    2366    65    57
+-- Denmark    2395    72    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    1909    6    61
@@ -2641,7 +2641,7 @@
 ---- Kagoshima    1    0    0
 -- Luxembourg    1831    18    40
 -- Ecuador    1823    48    3
--- Romania    1760    38    169
+-- Romania    1760    40    169
 -- Poland    1717    19    13
 -- Russian Federation    1534    8    64
 -- Pakistan    1526    13    29
@@ -2686,13 +2686,13 @@
 -- Slovakia    314    1    7
 -- Andorra    308    3    1
 -- Uruguay    304    1    0
--- Taiwan    298    2    30
+-- Taiwan    298    2    39
 -- Costa Rica    295    2    3
 -- Tunisia    278    8    2
+-- North Macedonia    257    6    3
 -- Kuwait    255    0    67
 -- Kazakhstan    251    3    18
 -- Jordan    246    1    18
--- North Macedonia    241    4    3
 -- Moldova, Republic of    231    2    2
 -- San Marino    226    22    6
 -- Albania    212    10    33
@@ -2703,7 +2703,7 @@
 -- Viet Nam    179    0    21
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
--- Malta    149    0    2
+-- Malta    151    0    2
 -- Senegal    142    0    27
 -- Ghana    141    5    8
 -- Uzbekistan    133    2    7
