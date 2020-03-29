@@ -1508,7 +1508,7 @@
 ------ Taos(35055)    9    0    0
 ------ San Miguel(35047)    1    0    0
 ------ McKinley(35031)    5    0    0
------- Dona Ana(35013)    16    0    0
+------ Dona Ana(35013)    17    0    0
 ------ Lea(35025)    2    0    0
 ------ San Juan(35045)    18    0    0
 ------ Chaves(35005)    7    0    0
@@ -1942,7 +1942,7 @@
 ------ Greenbrier(54025)    2    0    0
 ------ Pleasants(54073)    1    0    0
 ---- GU    55    1    7
------- Guam(66010)    51    1    0
+------ Guam(66010)    55    1    0
 ---- PR    100    3    0
 ---- VI    22    0    0
 -- Italy    92472    10023    12384
@@ -2642,13 +2642,13 @@
 -- Luxembourg    1831    18    40
 -- Ecuador    1823    48    3
 -- Poland    1638    18    13
--- Pakistan    1495    12    29
+-- Pakistan    1526    13    29
 -- Romania    1452    37    139
--- Thailand    1388    6    97
+-- Thailand    1388    7    97
 -- Russian Federation    1264    4    49
+-- Finland    1218    9    10
 -- Saudi Arabia    1203    4    37
 -- South Africa    1187    2    31
--- Finland    1167    9    10
 -- Indonesia    1155    102    59
 -- Philippines    1075    68    35
 -- Greece    1061    32    52
@@ -2672,17 +2672,17 @@
 -- New Zealand    514    1    56
 -- Iraq    506    42    131
 -- Bahrain    476    4    265
--- United Arab Emirates    468    2    52
+-- United Arab Emirates    468    2    55
 -- Algeria    454    29    65
 -- Lithuania    437    7    1
+-- Armenia    424    3    30
 -- Lebanon    412    8    30
 -- Hungary    408    13    34
--- Armenia    407    3    30
 -- Morocco    402    25    12
 -- Ukraine    356    9    8
+-- Latvia    347    0    1
 -- Bulgaria    338    7    11
 -- Andorra    308    3    1
--- Latvia    305    0    1
 -- Uruguay    304    1    0
 -- Costa Rica    295    2    3
 -- Slovakia    292    1    7
