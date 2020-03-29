@@ -1,5 +1,5 @@
--- United States of America    124696    2198    1095
----- NY    53520    834    1533
+-- United States of America    124717    2200    2612
+---- NY    53520    834    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
 ------ Suffolk(36103)    4138    37    0
@@ -94,7 +94,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    5636    120    30
+---- CA    5648    120    30
 ------ Santa Clara(06085)    591    25    0
 ------ Los Angeles(06037)    1818    32    0
 ------ San Mateo(06081)    274    6    0
@@ -119,7 +119,7 @@
 ------ Stanislaus(06099)    23    0    0
 ------ Tulare(06107)    29    1    0
 ------ Calaveras(06009)    3    0    0
------- Fresno(06019)    31    0    0
+------ Fresno(06019)    43    0    0
 ------ Imperial(06025)    21    0    0
 ------ Monterey(06053)    32    1    0
 ------ Santa Barbara(06083)    64    0    0
@@ -1037,7 +1037,7 @@
 ------ Caswell(37033)    1    0    0
 ------ Yadkin(37197)    1    0    0
 ------ Alexander(37003)    1    0    0
----- MI    4658    120    5
+---- MI    4659    120    5
 ------ Oakland(26125)    1018    31    0
 ------ Wayne(26163)    2316    47    0
 ------ Macomb(26099)    534    17    0
@@ -1175,7 +1175,7 @@
 ------ Nye(32023)    1    0    0
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    1    0    0
----- UT    603    2    0
+---- UT    604    3    0
 ------ Salt Lake(49035)    279    0    0
 ------ Summit(49043)    135    0    0
 ------ Davis(49011)    59    1    0
@@ -1183,7 +1183,7 @@
 ------ Tooele(49045)    8    0    0
 ------ Utah(49049)    31    0    0
 ------ Cache(49005)    5    0    0
------- Box Elder(49003)    4    0    0
+------ Box Elder(49003)    5    0    0
 ------ Washington(49053)    13    0    0
 ------ Weber(49057)    29    0    0
 ------ Iron(49021)    1    0    0
@@ -1750,7 +1750,7 @@
 ------ New Castle(10003)    130    2    0
 ------ Sussex(10005)    59    1    0
 ------ Kent(10001)    25    3    0
----- MO    840    18    6
+---- MO    847    18    6
 ------ Greene(29077)    41    4    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    49    1    0
@@ -1758,7 +1758,7 @@
 ------ Henry(29083)    1    0    0
 ------ Jackson(29095)    43    1    0
 ------ St Louis(29189)    313    2    0
------- St Charles(29183)    37    1    0
+------ St Charles(29183)    37    2    0
 ------ St Louis City(29510)    313    2    0
 ------ Christian(29043)    7    1    0
 ------ Pulaski(29169)    5    1    0
@@ -2652,7 +2652,7 @@
 -- Indonesia    1155    102    59
 -- Philippines    1075    68    35
 -- Greece    1061    32    52
--- India    987    24    84
+-- India    987    25    87
 -- Iceland    963    5    114
 -- Panama    901    17    4
 -- Mexico    848    16    4
@@ -2674,13 +2674,13 @@
 -- Bahrain    476    4    265
 -- United Arab Emirates    468    2    52
 -- Algeria    454    29    65
+-- Lithuania    437    7    1
 -- Lebanon    412    8    30
 -- Hungary    408    13    34
--- Armenia    407    1    30
+-- Armenia    407    3    30
 -- Morocco    402    25    12
--- Lithuania    394    7    1
 -- Ukraine    356    9    8
--- Bulgaria    331    7    11
+-- Bulgaria    338    7    11
 -- Andorra    308    3    1
 -- Latvia    305    0    1
 -- Uruguay    304    1    0
@@ -2705,6 +2705,7 @@
 -- Oman    152    0    23
 -- Malta    149    0    2
 -- Ghana    141    5    8
+-- Uzbekistan    133    2    5
 -- Senegal    130    0    18
 -- Brunei Darussalam    120    1    25
 -- Cuba    119    3    4
@@ -2713,7 +2714,6 @@
 -- Afghanistan    110    4    2
 -- Honduras    110    1    3
 -- Palestine    104    1    18
--- Uzbekistan    104    2    5
 -- Cambodia    103    0    21
 -- Guadeloupe    102    2    17
 -- Mauritius    102    2    0
@@ -2738,6 +2738,7 @@
 -- Aruba    46    0    1
 -- Monaco    43    1    1
 -- Puerto Rico    39    2    1
+-- Madagascar    39    0    0
 -- Kenya    38    1    1
 -- Guatemala    34    1    10
 -- Macao    34    0    10
@@ -2749,14 +2750,13 @@
 -- French Guiana    28    0    6
 -- Zambia    28    0    0
 -- Barbados    26    0    0
--- Madagascar    26    0    0
 -- Togo    25    1    1
+-- El Salvador    24    0    0
 -- Guyana    23    1    0
--- El Salvador    19    0    0
 -- Mali    18    1    0
+-- Maldives    17    0    11
 -- Virgin Islands, U.S.    17    0    0
 -- Bermuda    17    0    2
--- Maldives    16    0    9
 -- Ethiopia    16    0    4
 -- New Caledonia    15    0    0
 -- Haiti    15    0    1
