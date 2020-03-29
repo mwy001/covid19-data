@@ -2537,6 +2537,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    14076    264    1595
+-- Belgium    10836    431    1359
 -- Netherlands    9819    640    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2559,8 +2560,7 @@
 ---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Belgium    9134    353    1063
--- Austria    8346    68    225
+-- Austria    8395    68    225
 -- Turkey    7402    108    70
 -- Canada    5655    61    508
 ---- British Columbia    884    17    4
@@ -2576,7 +2576,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
 -- Portugal    5170    100    43
--- Norway    4039    23    7
+-- Norway    4043    23    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2590,11 +2590,11 @@
 -- Israel    3865    12    89
 -- Sweden    3447    105    16
 -- Czechia    2669    13    11
+-- Malaysia    2470    27    320
 -- Ireland    2415    36    5
 -- Denmark    2366    65    57
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    2320    27    320
 -- Chile    1909    6    61
 -- Japan    1848    52    404
 ---- Hokkaido    175    7    100
@@ -2645,12 +2645,12 @@
 -- Russian Federation    1534    8    64
 -- Pakistan    1526    13    29
 -- Romania    1452    37    139
+-- Philippines    1418    71    42
 -- Thailand    1388    7    97
 -- Indonesia    1285    114    64
--- Finland    1218    9    10
+-- Finland    1221    9    10
 -- Saudi Arabia    1203    4    37
 -- South Africa    1187    2    31
--- Philippines    1075    68    35
 -- Greece    1061    32    52
 -- India    987    25    87
 -- Iceland    963    5    114
@@ -2662,13 +2662,13 @@
 -- Dominican Republic    729    28    3
 -- Slovenia    684    9    10
 -- Peru    671    16    16
--- Serbia    659    10    42
+-- Serbia    659    11    42
 -- Croatia    657    5    45
 -- Estonia    645    1    20
 -- Colombia    608    6    10
 -- Qatar    590    1    45
+-- Hong Kong    582    4    112
 -- Egypt    576    36    121
--- Hong Kong    560    4    112
 -- New Zealand    514    1    56
 -- Iraq    506    42    131
 -- Bahrain    476    4    265
@@ -2765,6 +2765,7 @@
 -- Mongolia    12    0    0
 -- Equatorial Guinea    12    0    0
 -- Saint Martin (French part)    11    0    0
+-- Namibia    11    0    2
 -- Dominica    11    0    0
 -- Bahamas    10    0    1
 -- Greenland    10    0    2
@@ -2774,7 +2775,6 @@
 -- Cayman Islands    8    1    0
 -- Guinea    8    0    0
 -- Suriname    8    0    0
--- Namibia    8    0    2
 -- Seychelles    8    0    0
 -- Curaçao    8    1    2
 -- Mozambique    8    0    0
