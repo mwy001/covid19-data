@@ -1,4 +1,4 @@
--- United States of America    124678    2198    1095
+-- United States of America    124696    2198    1095
 ---- NY    53520    834    1533
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -124,7 +124,7 @@
 ------ Monterey(06053)    32    1    0
 ------ Santa Barbara(06083)    64    0    0
 ------ Amador(06005)    2    0    0
------- Humboldt(06023)    14    0    0
+------ Humboldt(06023)    18    0    0
 ------ Kern(06029)    47    1    0
 ------ Madera(06039)    11    1    0
 ------ Nevada(06057)    12    0    0
@@ -489,7 +489,7 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2527    34    69
+---- TX    2534    34    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
 ------ Harris(48201)    445    3    0
@@ -522,7 +522,7 @@
 ------ Williamson(48491)    37    1    0
 ------ Fannin(48147)    1    0    0
 ------ Jefferson(48245)    12    1    0
------- Cameron(48061)    13    0    0
+------ Cameron(48061)    20    0    0
 ------ Brown(48049)    3    0    0
 ------ Potter(48375)    4    0    0
 ------ Houston(48225)    10    0    0
@@ -1142,13 +1142,13 @@
 ------ Faribault(27043)    2    0    0
 ------ Hubbard(27057)    1    0    0
 ------ Clearwater(27029)    1    0    0
----- MD    1061    10    4
+---- MD    1068    10    4
 ------ Montgomery(24031)    255    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    141    1    0
 ------ Howard(24027)    73    0    0
 ------ Anne Arundel(24003)    88    0    0
------- Carroll(24013)    76    0    0
+------ Carroll(24013)    83    0    0
 ------ Harford(24025)    21    0    0
 ------ Charles(24017)    21    1    0
 ------ Frederick(24021)    22    0    0
@@ -2589,7 +2589,7 @@
 -- Brazil    3904    114    6
 -- Israel    3619    12    89
 -- Sweden    3447    105    16
--- Czechia    2631    11    11
+-- Czechia    2663    11    11
 -- Ireland    2415    36    5
 -- Denmark    2366    65    57
 ---- Denmark    977    4    1
@@ -2644,8 +2644,8 @@
 -- Poland    1638    18    13
 -- Pakistan    1495    12    29
 -- Romania    1452    37    139
+-- Thailand    1388    6    97
 -- Russian Federation    1264    4    49
--- Thailand    1245    6    97
 -- Saudi Arabia    1203    4    37
 -- South Africa    1187    2    31
 -- Finland    1167    9    10
@@ -2656,7 +2656,7 @@
 -- Iceland    963    5    114
 -- Panama    901    17    4
 -- Mexico    848    16    4
--- Singapore    802    2    198
+-- Singapore    802    3    198
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    745    19    72
 -- Dominican Republic    729    28    3
