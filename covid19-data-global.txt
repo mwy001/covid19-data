@@ -2562,6 +2562,7 @@
 ---- 未确定地区    23    3    0
 -- Austria    8450    86    479
 -- Turkey    7402    108    70
+-- Portugal    5962    119    43
 -- Canada    5655    61    508
 ---- British Columbia    884    17    4
 ---- Ontario    1144    18    6
@@ -2575,8 +2576,7 @@
 ---- Nova Scotia    110    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
--- Portugal    5170    100    43
--- Norway    4189    23    7
+-- Norway    4213    23    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2586,7 +2586,7 @@
 ---- Tasmania    62    0    5
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    71    0    2
--- Brazil    3904    114    6
+-- Brazil    3904    117    6
 -- Israel    3865    13    89
 -- Sweden    3447    105    16
 -- Czechia    2689    13    11
@@ -2684,7 +2684,7 @@
 -- Bulgaria    338    8    11
 -- Bosnia and Herzegovina    323    6    8
 -- Slovakia    314    1    7
--- Andorra    308    3    1
+-- Andorra    308    4    1
 -- Uruguay    304    1    0
 -- Taiwan    298    2    39
 -- Costa Rica    295    2    3
@@ -2753,12 +2753,12 @@
 -- Togo    25    1    1
 -- El Salvador    24    0    0
 -- Guyana    23    1    0
+-- Bermuda    22    0    2
 -- Ethiopia    19    0    4
 -- Niger    18    1    0
 -- Mali    18    1    0
 -- Maldives    17    0    11
 -- Virgin Islands, U.S.    17    0    0
--- Bermuda    17    0    2
 -- New Caledonia    15    0    0
 -- Haiti    15    0    1
 -- Tanzania, United Republic of    14    0    1
