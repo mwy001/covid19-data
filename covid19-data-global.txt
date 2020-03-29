@@ -1,4 +1,4 @@
--- United States of America    124795    2200    2612
+-- United States of America    125345    2205    2612
 ---- NY    53520    834    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -94,7 +94,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    5655    120    30
+---- CA    5683    121    30
 ------ Santa Clara(06085)    591    25    0
 ------ Los Angeles(06037)    1818    32    0
 ------ San Mateo(06081)    274    6    0
@@ -489,7 +489,7 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2535    34    69
+---- TX    2536    34    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
 ------ Harris(48201)    445    3    0
@@ -671,9 +671,9 @@
 ------ Snyder(42109)    1    0    0
 ------ Tioga(42117)    1    0    0
 ------ McKean(42083)    1    0    0
----- WI    1055    17    1
+---- WI    1062    17    1
 ------ Milwaukee(55079)    541    9    0
------- Dane(55025)    172    1    0
+------ Dane(55025)    179    1    0
 ------ Kenosha(55059)    24    0    0
 ------ Waukesha(55133)    72    0    0
 ------ Sheboygan(55117)    8    0    0
@@ -883,9 +883,9 @@
 ------ Wasco(41065)    2    0    0
 ------ Columbia(41009)    1    0    0
 ------ Morrow(41049)    1    0    0
----- VA    747    17    2
------- Arlington(51013)    75    0    0
------- Fairfax(51059)    156    2    0
+---- VA    800    22    2
+------ Arlington(51013)    84    0    0
+------ Fairfax(51059)    188    2    0
 ------ Loudoun(51107)    54    1    0
 ------ Chesterfield(51041)    12    0    0
 ------ Prince William(51153)    56    1    0
@@ -897,7 +897,7 @@
 ------ Stafford(51179)    11    0    0
 ------ York(51199)    9    1    0
 ------ Charles City(51036)    1    0    0
------- James City(51095)    65    2    0
+------ James City(51095)    70    2    0
 ------ Albemarle(51003)    16    0    0
 ------ Gloucester(51073)    6    0    0
 ------ Roanoke(51161)    2    0    0
@@ -959,7 +959,7 @@
 ------ New Kent(51127)    1    0    0
 ------ Powhatan(51145)    1    0    0
 ------ City of Hopewell(51670)    1    0    0
----- NC    1077    5    0
+---- NC    1078    5    0
 ------ Wake(37183)    133    0    0
 ------ Durham(37063)    113    0    0
 ------ Mecklenburg(37119)    299    0    0
@@ -1033,7 +1033,7 @@
 ------ Alleghany(37005)    1    0    0
 ------ Edgecombe(37065)    1    0    0
 ------ Perquimans(37143)    1    0    0
------- Columbus(37047)    2    0    0
+------ Columbus(37047)    3    0    0
 ------ Caswell(37033)    1    0    0
 ------ Yadkin(37197)    1    0    0
 ------ Alexander(37003)    1    0    0
@@ -1142,30 +1142,30 @@
 ------ Faribault(27043)    2    0    0
 ------ Hubbard(27057)    1    0    0
 ------ Clearwater(27029)    1    0    0
----- MD    1068    10    4
------- Montgomery(24031)    255    1    0
+---- MD    1239    10    4
+------ Montgomery(24031)    301    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    141    1    0
------- Howard(24027)    73    0    0
------- Anne Arundel(24003)    88    0    0
+------ Baltimore(24005)    162    1    0
+------ Howard(24027)    81    0    0
+------ Anne Arundel(24003)    99    0    0
 ------ Carroll(24013)    83    0    0
------- Harford(24025)    21    0    0
------- Charles(24017)    21    1    0
------- Frederick(24021)    22    0    0
------- Talbot(24041)    2    0    0
------- Calvert(24009)    9    0    0
------- Baltimore City(24510)    112    2    0
+------ Harford(24025)    23    0    0
+------ Charles(24017)    28    1    0
+------ Frederick(24021)    24    0    0
+------ Talbot(24041)    3    0    0
+------ Calvert(24009)    10    0    0
+------ Baltimore City(24510)    129    2    0
 ------ Wicomico(24045)    6    1    0
 ------ Worcester(24047)    2    0    0
------- Prince Georges(24033)    196    3    0
------- Caroline(24011)    1    0    0
+------ Prince Georges(24033)    247    3    0
+------ Caroline(24011)    3    0    0
 ------ Queen Anne's(24035)    4    0    0
 ------ Somerset(24039)    4    0    0
 ------ Washington(24043)    6    0    0
 ------ Cecil(24015)    13    0    0
 ------ Garrett(24023)    3    0    0
------- St Marys(24037)    8    0    0
------- Kent(24029)    2    0    0
+------ St Marys(24037)    9    0    0
+------ Kent(24029)    3    0    0
 ---- NV    738    14    5
 ------ Clark(32003)    528    14    0
 ------ Washoe(32031)    93    0    0
@@ -1301,8 +1301,8 @@
 ------ Franklin(23007)    2    0    0
 ---- DC    342    4    66
 ------ District of Columbia(11001)    342    4    0
----- IN    1234    31    0
------- Marion(18097)    584    10    0
+---- IN    1514    31    0
+------ Marion(18097)    676    10    0
 ------ Hendricks(18063)    36    2    0
 ------ Johnson(18081)    52    3    0
 ------ Franklin(18047)    23    2    0
@@ -2587,9 +2587,9 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    71    0    2
 -- Brazil    3904    117    6
--- Israel    3865    14    89
+-- Israel    3865    15    89
 -- Sweden    3700    110    16
--- Czechia    2697    13    11
+-- Czechia    2716    13    11
 -- Malaysia    2470    34    388
 -- Ireland    2415    36    5
 -- Denmark    2395    72    57
@@ -2644,7 +2644,7 @@
 -- Poland    1771    20    13
 -- Romania    1760    40    169
 -- Russian Federation    1534    8    64
--- Pakistan    1526    13    29
+-- Pakistan    1526    14    29
 -- Philippines    1418    71    42
 -- Thailand    1388    7    97
 -- Saudi Arabia    1299    8    66
@@ -2655,13 +2655,13 @@
 -- Iceland    1020    5    114
 -- India    987    25    87
 -- Panama    901    17    4
+-- Dominican Republic    859    39    3
 -- Mexico    848    16    4
 -- Singapore    844    3    212
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    745    19    72
 -- Serbia    741    13    42
 -- Slovenia    730    11    10
--- Dominican Republic    729    28    3
 -- Croatia    713    6    52
 -- Estonia    679    3    20
 -- Peru    671    16    16
@@ -2681,7 +2681,7 @@
 -- Ukraine    418    9    8
 -- Hungary    408    13    34
 -- Latvia    347    0    1
--- Bulgaria    338    8    11
+-- Bulgaria    346    8    14
 -- Andorra    334    6    1
 -- Bosnia and Herzegovina    323    6    8
 -- Slovakia    314    1    7
@@ -2711,7 +2711,7 @@
 -- Afghanistan    120    4    2
 -- Cuba    119    3    4
 -- Venezuela, Bolivarian Republic of    119    2    39
--- Sri Lanka    115    1    10
+-- Sri Lanka    115    1    11
 -- Honduras    110    1    3
 -- Palestine    106    1    18
 -- Cambodia    103    0    21
@@ -2747,8 +2747,8 @@
 -- Jamaica    32    1    2
 -- French Polynesia    30    0    0
 -- Uganda    30    0    0
+-- Zambia    29    0    0
 -- French Guiana    28    0    6
--- Zambia    28    0    0
 -- Barbados    26    0    0
 -- Togo    25    1    1
 -- El Salvador    24    0    0
