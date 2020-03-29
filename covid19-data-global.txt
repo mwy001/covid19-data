@@ -1,5 +1,5 @@
--- United States of America    127318    2210    2612
----- NY    55063    834    1571
+-- United States of America    132173    2342    2612
+---- NY    59513    965    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
 ------ Suffolk(36103)    4138    37    0
@@ -34,7 +34,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    13    0    0
 ------ Washington(36115)    9    0    0
------- New York(36061)    32308    672    0
+------ New York(36061)    32308    678    0
 ------ Niagara(36063)    33    0    0
 ------ Schoharie(36095)    5    0    0
 ------ Fulton(36035)    1    0    0
@@ -177,7 +177,7 @@
 ------ Hampden(25013)    183    4    0
 ------ Franklin(25011)    39    2    0
 ------ Hampshire(25015)    30    0    0
----- FL    4070    64    0
+---- FL    4077    64    0
 ------ Broward(12011)    820    11    0
 ------ Palm Beach(12099)    318    6    0
 ------ Duval(12031)    120    4    0
@@ -226,7 +226,7 @@
 ------ Mainland Monroe(12087)    22    1    0
 ------ Washington(12133)    1    1    0
 ------ Suwannee(12121)    1    0    0
------- Levy(12075)    1    0    0
+------ Levy(12075)    2    0    0
 ------ Hendry(12051)    1    0    0
 ---- LA    3315    137    0
 ------ Orleans(22071)    1298    70    0
@@ -613,40 +613,40 @@
 ------ San Jacinto(48407)    1    0    0
 ------ Comanche(48093)    1    0    0
 ------ Hill(48217)    1    0    0
----- PA    2910    35    0
+---- PA    3212    35    0
 ------ Montgomery(42091)    411    5    0
 ------ Philadelphia(42101)    803    5    0
------- Allegheny(42003)    219    2    0
+------ Allegheny(42003)    265    2    0
 ------ Cumberland(42041)    22    1    0
------- Delaware(42045)    226    4    0
+------ Delaware(42045)    276    4    0
 ------ Bucks(42017)    217    1    0
 ------ Monroe(42089)    106    2    0
------- Chester(42029)    116    0    0
+------ Chester(42029)    137    0    0
 ------ Washington(42125)    23    0    0
------- Beaver(42007)    22    0    0
------- Lehigh(42077)    109    3    0
------- Luzerne(42079)    65    2    0
------- Northampton(42095)    94    4    0
+------ Beaver(42007)    28    0    0
+------ Lehigh(42077)    151    3    0
+------ Luzerne(42079)    94    2    0
+------ Northampton(42095)    126    4    0
 ------ Pike(42103)    27    1    0
 ------ Wayne(42127)    6    0    0
 ------ York(42133)    37    0    0
------- Lancaster(42071)    45    1    0
------- Berks(42011)    65    0    0
------- Lackawanna(42069)    51    2    0
+------ Lancaster(42071)    67    1    0
+------ Berks(42011)    68    0    0
+------ Lackawanna(42069)    56    2    0
 ------ Erie(42049)    7    0    0
 ------ Westmoreland(42129)    41    0    0
 ------ Adams(42001)    8    0    0
------- Lebanon(42075)    15    0    0
------- Centre(42027)    15    0    0
------- Franklin(42055)    7    0    0
+------ Lebanon(42075)    19    0    0
+------ Centre(42027)    22    0    0
+------ Franklin(42055)    11    0    0
 ------ Potter(42105)    2    0    0
------- Butler(42019)    41    2    0
+------ Butler(42019)    47    2    0
 ------ Montour(42093)    5    0    0
------- Dauphin(42043)    23    0    0
------- Columbia(42037)    4    0    0
+------ Dauphin(42043)    35    0    0
+------ Columbia(42037)    6    0    0
 ------ Fayette(42051)    10    0    0
 ------ Schuylkill(42107)    16    0    0
------- Mercer(42085)    6    1    0
+------ Mercer(42085)    7    1    0
 ------ Cambria(42021)    1    0    0
 ------ Armstrong(42005)    2    0    0
 ------ Bradford(42015)    3    0    0
@@ -656,10 +656,10 @@
 ------ Somerset(42111)    2    0    0
 ------ Greene(42059)    6    0    0
 ------ Lawrence(42073)    8    0    0
------- Lycoming(42081)    2    0    0
+------ Lycoming(42081)    3    0    0
 ------ Warren(42123)    1    0    0
------- Blair(42013)    2    0    0
------- Crawford(42039)    2    0    0
+------ Blair(42013)    3    0    0
+------ Crawford(42039)    3    0    0
 ------ Indiana(42063)    2    0    0
 ------ Susquehanna(42115)    1    0    0
 ------ Northumberland(42097)    1    3    0
@@ -1101,8 +1101,8 @@
 ------ Gratiot(26057)    2    0    0
 ------ Dickinson(26043)    1    0    0
 ------ Osceola(26133)    1    0    0
----- MN    493    5    220
------- Hennepin(27053)    165    2    0
+---- MN    500    5    220
+------ Hennepin(27053)    171    2    0
 ------ Ramsey(27123)    46    2    0
 ------ Dakota(27037)    39    0    0
 ------ Olmsted(27109)    47    0    0
@@ -1233,8 +1233,8 @@
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    2    0    0
----- AL    766    9    0
------- Jefferson(01073)    214    0    0
+---- AL    767    9    0
+------ Jefferson(01073)    215    0    0
 ------ Shelby(01117)    73    0    0
 ------ Lee(01081)    59    2    0
 ------ Tuscaloosa(01125)    23    0    0
@@ -1289,19 +1289,20 @@
 ------ Randolph(01111)    2    0    0
 ------ Escambia(01053)    1    0    0
 ------ Monroe(01099)    1    0    0
----- ME    211    1    14
------- Cumberland(23005)    120    1    0
------- Androscoggin(23001)    7    0    0
------- Kennebec(23011)    9    0    0
------- Knox(23013)    2    0    0
------- Oxford(23017)    8    0    0
------- York(23031)    38    0    0
------- Penobscot(23019)    10    0    0
+---- ME    253    1    14
+------ Cumberland(23005)    142    1    0
+------ Androscoggin(23001)    8    0    0
+------ Kennebec(23011)    10    0    0
+------ Knox(23013)    4    0    0
+------ Oxford(23017)    9    0    0
+------ York(23031)    47    0    0
+------ Penobscot(23019)    11    0    0
 ------ Lincoln(23015)    5    0    0
 ------ Hancock(23009)    1    0    0
------- Sagadahoc(23023)    5    0    0
+------ Sagadahoc(23023)    7    0    0
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    2    0    0
+------ Somerset(23025)    1    0    0
 ---- DC    342    5    66
 ------ District of Columbia(11001)    342    5    0
 ---- IN    1514    33    0
@@ -1768,9 +1769,9 @@
 ------ Lamoille(50015)    12    0    0
 ------ Caledonia(50005)    2    0    0
 ------ Orleans(50019)    5    0    0
----- DE    217    6    9
------- New Castle(10003)    130    2    0
------- Sussex(10005)    59    1    0
+---- DE    232    7    9
+------ New Castle(10003)    141    3    0
+------ Sussex(10005)    66    1    0
 ------ Kent(10001)    25    3    0
 ---- MO    847    18    6
 ------ Greene(29077)    41    4    0
@@ -1833,20 +1834,20 @@
 ------ Oahu in Honolulu(15003)    108    1    0
 ------ Niihau in Kauai(15007)    11    0    0
 ------ Kahoolawe in Maui(15009)    16    0    0
----- SD    68    1    8
------- Minnehaha(46099)    21    0    0
------- Beadle(46005)    16    0    0
+---- SD    90    1    8
+------ Minnehaha(46099)    25    0    0
+------ Beadle(46005)    20    0    0
 ------ Bon Homme(46009)    1    0    0
 ------ Charles Mix(46023)    1    0    0
 ------ Davison(46035)    2    0    0
------- Pennington(46103)    3    1    0
+------ Pennington(46103)    4    1    0
 ------ McCook(46087)    2    0    0
 ------ Brown(46013)    2    0    0
------- Codington(46029)    2    0    0
+------ Codington(46029)    4    0    0
 ------ Hughes(46065)    1    0    0
 ------ Lyman(46085)    1    0    0
 ------ Brookings(46011)    1    0    0
------- Lincoln(46083)    3    0    0
+------ Lincoln(46083)    4    0    0
 ------ Meade(46093)    1    0    0
 ------ Aurora(46003)    1    0    0
 ------ Faulk(46049)    1    0    0
@@ -1856,7 +1857,9 @@
 ------ Deuel(46039)    1    0    0
 ------ Hamlin(46057)    1    0    0
 ------ Hutchinson(46067)    2    0    0
------- Yankton(46135)    1    0    0
+------ Yankton(46135)    4    0    0
+------ Roberts(46109)    1    0    0
+------ Turner(46125)    1    0    0
 ---- WY    86    0    0
 ------ Fremont(56013)    23    0    0
 ------ Sheridan(56033)    6    0    0
@@ -1990,7 +1993,7 @@
 ---- Liguria    2822    358    378
 ---- Veneto    7930    362    655
 ---- Bolzano    1109    64    116
--- China    82419    3306    75600
+-- China    82421    3306    75606
 ---- 天津    166    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -2007,9 +2010,9 @@
 ------ 武清区    2    0    2
 ------ 红桥区    2    0    2
 ------ 津南区    2    0    2
----- 甘肃    136    2    125
+---- 甘肃    138    2    125
 ------ 境外输入    45    0    32
------- 兰州    36    2    34
+------ 兰州    37    2    34
 ------ 天水    12    0    12
 ------ 平凉    9    0    9
 ------ 定西    9    0    9
@@ -2020,8 +2023,8 @@
 ------ 临夏    3    0    3
 ------ 张掖    2    0    2
 ------ 金昌    1    0    1
----- 湖北    67801    3182    62565
------- 武汉    50006    2543    45418
+---- 湖北    67801    3182    62570
+------ 武汉    50006    2543    45423
 ------ 孝感    3518    128    3389
 ------ 鄂州    1394    59    1332
 ------ 仙桃    575    22    552
@@ -2057,7 +2060,7 @@
 ------ 青浦区    6    0    6
 ------ 金山区    4    0    4
 ------ 崇明区    4    0    4
----- 北京    577    8    411
+---- 北京    577    8    412
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
 ------ 西城区    53    0    0
@@ -2473,7 +2476,7 @@
 ---- Melilla    48    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    23    1    0
--- Germany    58247    455    8481
+-- Germany    60659    482    9211
 ---- Saxony    1700    9    17
 ---- Mecklenburg-Vorpommern    348    1    11
 ---- Free State of Bavaria    12881    107    276
@@ -2583,10 +2586,10 @@
 ---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    8648    86    479
--- Turkey    7402    108    70
+-- Turkey    9217    131    105
+-- Austria    8672    86    479
 -- Portugal    5962    119    43
--- Canada    5878    64    508
+-- Canada    5886    64    508
 ---- British Columbia    884    17    4
 ---- Ontario    1144    18    6
 ---- Alberta    542    2    0
@@ -2600,7 +2603,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
 -- Norway    4239    25    7
--- Australia    3969    16    244
+-- Australia    3980    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
 ---- Queensland    625    1    8
@@ -2612,7 +2615,7 @@
 -- Brazil    3904    117    6
 -- Israel    3865    15    89
 -- Sweden    3700    110    16
--- Czechia    2716    13    11
+-- Czechia    2743    13    11
 -- Malaysia    2470    35    388
 -- Ireland    2415    36    5
 -- Denmark    2395    72    57
@@ -2620,6 +2623,7 @@
 ---- Faroe Islands    47    0    0
 -- Chile    2139    7    75
 -- Luxembourg    1950    21    40
+-- Ecuador    1890    57    3
 -- Japan    1848    52    424
 ---- Hokkaido    176    7    100
 ---- kochi    14    0    0
@@ -2663,9 +2667,8 @@
 ---- Okayama    3    0    0
 ---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
--- Ecuador    1823    48    3
 -- Poland    1771    20    13
--- Romania    1760    40    169
+-- Romania    1760    42    169
 -- Russian Federation    1534    8    64
 -- Pakistan    1526    14    29
 -- Philippines    1418    71    42
@@ -2692,11 +2695,11 @@
 -- Colombia    608    6    10
 -- Qatar    590    1    45
 -- Egypt    576    36    121
+-- United Arab Emirates    570    2    58
 -- Iraq    547    42    143
 -- New Zealand    514    1    56
 -- Algeria    511    29    65
 -- Bahrain    499    4    272
--- United Arab Emirates    468    2    55
 -- Morocco    450    26    13
 -- Lebanon    438    10    30
 -- Lithuania    437    7    1
@@ -2722,17 +2725,17 @@
 -- Albania    212    10    33
 -- Azerbaijan    209    4    15
 -- Burkina Faso    207    11    21
--- Viet Nam    188    0    21
+-- Viet Nam    188    0    25
 -- Réunion    183    0    1
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
 -- Ghana    152    5    8
 -- Malta    151    0    2
+-- Uzbekistan    144    2    7
 -- Senegal    142    0    27
--- Uzbekistan    133    2    7
+-- Cuba    139    3    4
 -- Brunei Darussalam    126    1    34
 -- Afghanistan    120    4    2
--- Cuba    119    3    4
 -- Venezuela, Bolivarian Republic of    119    2    39
 -- Sri Lanka    117    1    11
 -- Honduras    110    2    3
@@ -2795,6 +2798,7 @@
 -- Bahamas    11    0    1
 -- Dominica    11    0    0
 -- Greenland    10    0    2
+-- Myanmar    10    0    0
 -- Eswatini    9    0    0
 -- Grenada    9    0    0
 -- Syrian Arab Republic    9    1    0
@@ -2803,7 +2807,6 @@
 -- Seychelles    8    0    0
 -- Curaçao    8    1    2
 -- Mozambique    8    0    0
--- Myanmar    8    0    0
 -- Lao People's Democratic Republic    8    0    0
 -- Libya    8    0    0
 -- Antigua and Barbuda    7    0    0
