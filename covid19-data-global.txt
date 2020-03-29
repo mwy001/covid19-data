@@ -2576,7 +2576,7 @@
 ---- Nova Scotia    110    0    0
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
--- Norway    4217    25    7
+-- Norway    4232    25    7
 -- Australia    3969    16    244
 ---- New South Wales    1617    8    4
 ---- Victoria    685    3    191
@@ -2588,8 +2588,8 @@
 ---- Australian Capital Territory    71    0    2
 -- Brazil    3904    117    6
 -- Israel    3865    14    89
--- Sweden    3447    105    16
--- Czechia    2689    13    11
+-- Sweden    3700    110    16
+-- Czechia    2697    13    11
 -- Malaysia    2470    34    388
 -- Ireland    2415    36    5
 -- Denmark    2395    72    57
@@ -2641,22 +2641,22 @@
 ---- Kagoshima    1    0    0
 -- Luxembourg    1831    18    40
 -- Ecuador    1823    48    3
+-- Poland    1771    20    13
 -- Romania    1760    40    169
--- Poland    1717    19    13
 -- Russian Federation    1534    8    64
 -- Pakistan    1526    13    29
 -- Philippines    1418    71    42
 -- Thailand    1388    7    97
+-- Saudi Arabia    1299    8    66
 -- Indonesia    1285    114    64
--- Finland    1221    9    10
--- Saudi Arabia    1203    4    37
+-- Finland    1221    11    10
 -- South Africa    1187    2    31
 -- Greece    1061    32    52
 -- India    987    25    87
 -- Iceland    963    5    114
 -- Panama    901    17    4
 -- Mexico    848    16    4
--- Singapore    802    3    198
+-- Singapore    844    3    212
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    745    19    72
 -- Slovenia    730    11    10
@@ -2674,9 +2674,9 @@
 -- Bahrain    499    4    272
 -- United Arab Emirates    468    2    55
 -- Algeria    454    29    65
+-- Morocco    450    26    13
 -- Lebanon    438    10    30
 -- Lithuania    437    7    1
--- Morocco    437    26    12
 -- Armenia    424    3    30
 -- Ukraine    418    9    8
 -- Hungary    408    13    34
@@ -2754,6 +2754,7 @@
 -- El Salvador    24    0    0
 -- Guyana    23    1    0
 -- Bermuda    22    0    2
+-- Congo    19    0    0
 -- Ethiopia    19    0    4
 -- Niger    18    1    0
 -- Mali    18    1    0
@@ -2796,7 +2797,6 @@
 -- Angola    5    0    0
 -- Syrian Arab Republic    5    0    0
 -- Bhutan    4    0    0
--- Congo    4    0    0
 -- Saint Lucia    4    0    1
 -- Nicaragua    4    1    0
 -- Turks and Caicos Islands    4    0    0
