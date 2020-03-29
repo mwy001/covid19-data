@@ -1,4 +1,4 @@
--- United States of America    124759    2200    2612
+-- United States of America    124795    2200    2612
 ---- NY    53520    834    1571
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -1230,34 +1230,34 @@
 ------ Union(45087)    1    0    0
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    2    0    0
----- AL    725    9    0
+---- AL    761    9    0
 ------ Jefferson(01073)    214    0    0
------- Shelby(01117)    72    0    0
------- Lee(01081)    56    2    0
+------ Shelby(01117)    73    0    0
+------ Lee(01081)    59    2    0
 ------ Tuscaloosa(01125)    23    0    0
 ------ Elmore(01051)    13    0    0
------- Montgomery(01101)    18    0    0
+------ Montgomery(01101)    20    0    0
 ------ Baldwin(01003)    14    0    0
 ------ Limestone(01083)    16    0    0
------- Madison(01089)    62    1    0
+------ Madison(01089)    71    1    0
 ------ Calhoun(01015)    3    0    0
------- St Clair(01115)    11    0    0
------- Chambers(01017)    17    3    0
+------ St Clair(01115)    12    0    0
+------ Chambers(01017)    23    3    0
 ------ Talladega(01121)    4    0    0
------- Walker(01127)    28    0    0
------- Mobile(01097)    34    1    0
+------ Walker(01127)    29    0    0
+------ Mobile(01097)    37    1    0
 ------ Jackson(01071)    5    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
------- Washington(01129)    2    0    0
+------ Washington(01129)    3    0    0
 ------ Cullman(01043)    7    0    0
 ------ Marion(01093)    9    0    0
 ------ Franklin(01059)    3    0    0
------- Houston(01069)    4    0    0
------- Tallapoosa(01123)    5    0    0
------- Morgan(01103)    15    0    0
+------ Houston(01069)    5    0    0
+------ Tallapoosa(01123)    8    0    0
+------ Morgan(01103)    17    0    0
 ------ Autauga(01001)    6    0    0
------- Pickens(01107)    1    0    0
+------ Pickens(01107)    2    0    0
 ------ Pike(01109)    4    0    0
 ------ Etowah(01055)    6    0    0
 ------ Dallas(01047)    3    0    0
@@ -1267,14 +1267,14 @@
 ------ Chilton(01021)    7    0    0
 ------ Clay(01027)    2    0    0
 ------ Cleburne(01029)    4    0    0
------- Colbert(01033)    1    0    0
+------ Colbert(01033)    2    0    0
 ------ Lawrence(01079)    3    0    0
 ------ Marshall(01095)    4    0    0
 ------ Russell(01113)    1    0    0
 ------ Wilcox(01131)    2    0    0
 ------ Coffee(01031)    1    0    0
 ------ Lowndes(01085)    1    0    0
------- Marengo(01091)    3    0    0
+------ Marengo(01091)    4    0    0
 ------ DeKalb(01049)    4    0    0
 ------ Coosa(01037)    2    0    0
 ------ Bullock(01011)    3    0    0
@@ -2430,24 +2430,24 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 -- Spain    78797    6528    14709
----- Andalusia    4277    175    139
----- Aragon    1592    93    8
----- Balearic Islands    862    31    80
----- Basque Country    5136    241    1023
----- Canary Islands    1125    39    25
----- Cantabria    937    22    21
----- Castile and León    4791    380    585
----- Castile-La Mancha    4512    448    197
----- Catalonia    15026    1226    3106
----- Community of Madrid    21520    2757    6326
----- Comunidad Foral de Navarra    1829    70    98
----- Extremadura    1394    88    49
----- Galicia    2772    3032    95
----- Principality of Asturias    1088    41    65
----- Región de Murcia    836    20    12
----- Rioja    1436    65    364
----- Valencian Community    4043    234    92
----- Melilla    45    1    0
+---- Andalusia    4682    207    148
+---- Aragon    1858    93    8
+---- Balearic Islands    958    31    82
+---- Basque Country    5740    265    1503
+---- Canary Islands    1125    39    30
+---- Cantabria    1023    26    25
+---- Castile and León    5414    380    752
+---- Castile-La Mancha    5246    539    236
+---- Catalonia    15026    1226    3455
+---- Community of Madrid    22677    3082    7491
+---- Comunidad Foral de Navarra    2011    84    125
+---- Extremadura    1456    100    51
+---- Galicia    3139    3032    153
+---- Principality of Asturias    1088    41    76
+---- Región de Murcia    872    20    16
+---- Rioja    1629    68    397
+---- Valencian Community    4784    267    161
+---- Melilla    48    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    23    1    0
 -- Germany    58247    455    8481
@@ -2526,7 +2526,7 @@
 ---- Reunion    183    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    15    0    0
--- United Kingdom of Great Britain and Northern Ireland    19522    1228    151
+-- United Kingdom of Great Britain and Northern Ireland    19522    1235    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2611,9 +2611,9 @@
 ---- Tokyo    430    7    0
 ---- Wakayama    17    1    2
 ---- Kyoto    44    0    2
----- Osaka    191    2    1
+---- Osaka    208    2    1
 ---- Chiba    158    1    0
----- Kanagawa    123    4    1
+---- Kanagawa    125    4    1
 ---- Shizuoka    4    0    0
 ---- Aichi    167    19    2
 ---- Nara    11    0    1
@@ -2622,7 +2622,7 @@
 ---- Okinawa    8    0    1
 ---- Ehime    4    0    0
 ---- hyogo    133    10    0
----- oita    27    0    0
+---- oita    28    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    6    0    0
@@ -2682,9 +2682,9 @@
 -- Hungary    408    13    34
 -- Latvia    347    0    1
 -- Bulgaria    338    8    11
+-- Andorra    334    6    1
 -- Bosnia and Herzegovina    323    6    8
 -- Slovakia    314    1    7
--- Andorra    308    4    1
 -- Uruguay    304    1    0
 -- Taiwan    298    2    39
 -- Costa Rica    295    2    3
@@ -2696,10 +2696,10 @@
 -- Moldova, Republic of    231    2    2
 -- San Marino    226    22    6
 -- Albania    212    10    33
+-- Azerbaijan    209    4    15
 -- Burkina Faso    207    11    21
 -- Viet Nam    188    0    21
 -- Réunion    183    0    1
--- Azerbaijan    182    4    15
 -- Cyprus    179    5    15
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
@@ -2724,7 +2724,7 @@
 -- Cameroon    91    2    2
 -- Kosovo    91    1    1
 -- Georgia    90    0    18
--- Montenegro    84    1    0
+-- Montenegro    85    1    0
 -- Kyrgyzstan    84    0    0
 -- Bolivia, Plurinational State of    81    0    0
 -- Trinidad and Tobago    76    3    1
