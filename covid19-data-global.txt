@@ -1,4 +1,4 @@
--- United States of America    124424    2195    1095
+-- United States of America    124427    2197    1095
 ---- NY    53510    834    1533
 ------ Westchester(36119)    7875    10    0
 ------ Nassau(36059)    5537    34    0
@@ -489,10 +489,10 @@
 ------ Pike(13231)    1    0    0
 ------ Bulloch(13031)    1    0    0
 ------ Wheeler(13309)    1    0    0
----- TX    2523    32    69
+---- TX    2523    34    69
 ------ Dallas(48113)    439    9    0
 ------ Travis(48453)    179    1    0
------- Harris(48201)    445    2    0
+------ Harris(48201)    445    3    0
 ------ Bexar(48029)    140    5    0
 ------ Fort Bend(48157)    105    1    0
 ------ Collin(48085)    128    1    0
@@ -515,7 +515,7 @@
 ------ Rusk(48401)    2    0    0
 ------ Webb(48479)    25    0    0
 ------ Wichita(48485)    23    0    0
------- Johnson(48251)    8    0    0
+------ Johnson(48251)    8    1    0
 ------ Comal(48091)    9    1    0
 ------ Grimes(48185)    2    0    0
 ------ Medina(48325)    6    0    0
@@ -1698,7 +1698,7 @@
 ------ Latimer(40077)    1    0    0
 ------ Le Flore(40079)    1    0    0
 ------ Nowata(40105)    1    0    0
----- KS    266    5    0
+---- KS    269    5    0
 ------ Johnson(20091)    80    1    0
 ------ Wyandotte(20209)    53    3    0
 ------ Butler(20015)    3    0    0
@@ -1727,7 +1727,7 @@
 ------ Sumner(20191)    1    0    0
 ------ Gove(20063)    1    0    0
 ------ Clay(20027)    1    0    0
------- Coffey(20031)    5    0    0
+------ Coffey(20031)    8    0    0
 ------ Harvey(20079)    1    0    0
 ------ Osage(20139)    1    0    0
 ------ Ottawa(20143)    1    0    0
@@ -2450,22 +2450,22 @@
 ---- Navarre    130    0    0
 ---- Ceuta    17    1    0
 -- Germany    57695    433    8481
----- Saxony    1305    8    15
----- Mecklenburg-Vorpommern    265    0    5
----- Free State of Bavaria    9481    55    99
----- Berlin    1955    8    6
----- Brandenburg    579    1    9
----- Thuringia    572    4    72
----- Schleswig-Holstein    821    5    3
----- Lower Saxony    2810    10    234
----- Bremen    244    1    40
----- Hamburg    1693    2    1
----- Rhineland-Palatinate    1971    8    7
----- North Rhine-Westphalia    11523    85    837
----- Hesse    2323    6    19
----- Baden-Württemberg    8441    76    285
----- Saxony-Anhalt    500    2    21
----- Saarland    540    3    25
+---- Saxony    1700    9    17
+---- Mecklenburg-Vorpommern    348    1    11
+---- Free State of Bavaria    11862    85    276
+---- Berlin    2337    9    645
+---- Brandenburg    747    4    42
+---- Thuringia    702    5    80
+---- Schleswig-Holstein    917    5    11
+---- Lower Saxony    3483    21    372
+---- Bremen    278    2    53
+---- Hamburg    1935    4    1
+---- Rhineland-Palatinate    2357    12    50
+---- North Rhine-Westphalia    12744    105    1464
+---- Hesse    2776    10    149
+---- Baden-Württemberg    10819    118    552
+---- Saxony-Anhalt    594    2    22
+---- Saarland    669    6    36
 -- France    38105    2317    5724
 ---- France    7652    148    12
 ---- St Martin    11    0    0
@@ -2529,33 +2529,33 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    9782    521    0
----- Northern Ireland    241    10    0
----- Wales    741    28    0
----- Scotland    894    25    0
+---- England    14427    935    0
+---- Northern Ireland    324    15    0
+---- Wales    1093    38    0
+---- Scotland    1245    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    14076    264    1530
 -- Netherlands    9819    640    6
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Korea, Republic of    9478    144    4811
----- Busan    114    2    81
+-- Korea, Republic of    9583    152    5033
+---- Busan    117    3    85
 ---- Chungcheongbuk-do    41    0    21
----- Chungcheongnam-do    126    0    81
----- Daegu    6587    101    3543
----- Daejeon    31    0    10
----- Gangwon-do    32    1    20
+---- Chungcheongnam-do    127    0    83
+---- Daegu    6610    106    3706
+---- Daejeon    34    0    14
+---- Gangwon-do    34    1    21
 ---- Gwangju    20    0    11
----- Gyeonggi-do    433    5    140
----- Gyeongsangbuk-do    1285    35    692
----- Gyeongsangnam-do    91    0    63
----- Incheon    51    0    14
+---- Gyeonggi-do    448    5    144
+---- Gyeongsangbuk-do    1287    37    732
+---- Gyeongsangnam-do    94    0    64
+---- Incheon    58    0    15
 ---- Jeju-do    8    0    4
----- Jeollabuk-do    10    0    7
----- Jeollanam-do    8    0    3
----- Sejong    44    0    9
----- Seoul    390    0    93
+---- Jeollabuk-do    12    0    7
+---- Jeollanam-do    9    0    3
+---- Sejong    46    0    11
+---- Seoul    410    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Belgium    9134    353    1063
@@ -2575,7 +2575,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    4    0    0
 -- Portugal    5170    100    43
--- Norway    4015    23    7
+-- Norway    4032    23    7
 -- Brazil    3904    114    6
 -- Australia    3809    14    244
 ---- New South Wales    1617    8    4
@@ -2699,7 +2699,7 @@
 -- Réunion    183    0    1
 -- Azerbaijan    182    4    15
 -- Cyprus    179    5    15
--- Viet Nam    174    0    21
+-- Viet Nam    179    0    21
 -- Faroe Islands    155    0    54
 -- Oman    152    0    23
 -- Malta    149    0    2
@@ -2710,12 +2710,12 @@
 -- Venezuela, Bolivarian Republic of    119    2    39
 -- Sri Lanka    113    1    9
 -- Afghanistan    110    4    2
+-- Palestine    104    1    18
 -- Uzbekistan    104    2    5
+-- Cambodia    103    0    21
 -- Guadeloupe    102    2    17
 -- Mauritius    102    2    0
 -- Côte d'Ivoire    101    0    3
--- Cambodia    99    0    13
--- Palestine    98    1    18
 -- Nigeria    97    1    3
 -- Honduras    95    1    3
 -- Belarus    94    0    32
