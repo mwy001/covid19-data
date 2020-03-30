@@ -1,4 +1,4 @@
--- United States of America    143088    2520    4856
+-- United States of America    143092    2521    4856
 ---- NY    59746    966    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -94,7 +94,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    6319    132    51
+---- CA    6319    133    51
 ------ Santa Clara(06085)    646    25    0
 ------ Los Angeles(06037)    2136    37    0
 ------ San Mateo(06081)    277    6    0
@@ -103,7 +103,7 @@
 ------ Sacramento(06067)    164    6    0
 ------ Contra Costa(06013)    175    3    0
 ------ Orange(06059)    431    4    0
------- Alameda(06001)    270    6    0
+------ Alameda(06001)    270    7    0
 ------ Riverside(06065)    233    8    0
 ------ San Joaquin(06077)    121    5    0
 ------ Santa Cruz(06087)    41    1    0
@@ -1474,7 +1474,7 @@
 ------ Keokuk(19107)    1    0    0
 ------ Shelby(19165)    1    0    0
 ------ Taylor(19173)    1    0    0
----- KY    453    9    64
+---- KY    457    9    64
 ------ Jefferson(21111)    116    3    0
 ------ Fayette(21067)    82    2    0
 ------ Harrison(21097)    11    0    0
@@ -1482,7 +1482,7 @@
 ------ Bourbon(21017)    2    1    0
 ------ Clark(21049)    6    0    0
 ------ Lyon(21143)    1    0    0
------- Nelson(21179)    2    0    0
+------ Nelson(21179)    3    0    0
 ------ Kenton(21117)    19    1    0
 ------ Franklin(21073)    6    0    0
 ------ Warren(21227)    12    0    0
@@ -1490,7 +1490,7 @@
 ------ Henderson(21101)    3    0    0
 ------ Christian(21047)    36    0    0
 ------ Pulaski(21199)    7    0    0
------- Calloway(21035)    2    0    0
+------ Calloway(21035)    3    0    0
 ------ Anderson(21005)    2    1    0
 ------ Hardin(21093)    5    1    0
 ------ Oldham(21185)    3    0    0
@@ -1509,7 +1509,7 @@
 ------ Scott(21209)    6    0    0
 ------ Simpson(21213)    4    0    0
 ------ Webster(21233)    2    0    0
------- McCracken(21145)    3    0    0
+------ McCracken(21145)    5    0    0
 ------ Allen(21003)    1    0    0
 ------ Hopkins(21107)    17    1    0
 ------ Hancock(21091)    1    0    0
@@ -2676,7 +2676,7 @@
 -- Norway    4284    26    7
 -- Brazil    4256    136    6
 -- Israel    4247    15    132
--- Australia    4163    17    244
+-- Australia    4163    18    244
 ---- New South Wales    1791    8    4
 ---- Victoria    769    4    191
 ---- Queensland    656    2    8
@@ -2749,7 +2749,7 @@
 -- South Africa    1280    2    31
 -- Finland    1240    11    10
 -- Greece    1156    39    52
--- India    1024    27    95
+-- India    1071    29    100
 -- Iceland    1020    5    135
 -- Mexico    993    20    35
 -- Panama    989    24    4
