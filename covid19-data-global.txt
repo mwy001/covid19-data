@@ -1,5 +1,5 @@
--- United States of America    143121    2521    4865
----- NY    59746    966    3637
+-- United States of America    143121    2547    4865
+---- NY    59746    1026    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
 ------ Suffolk(36103)    5023    40    0
@@ -1287,7 +1287,7 @@
 ------ Chambers(01017)    27    3    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    30    0    0
------- Mobile(01097)    41    1    0
+------ Mobile(01097)    42    1    0
 ------ Jackson(01071)    5    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -1296,8 +1296,8 @@
 ------ Marion(01093)    10    0    0
 ------ Franklin(01059)    3    0    0
 ------ Houston(01069)    8    0    0
------- Tallapoosa(01123)    8    0    0
------- Morgan(01103)    17    0    0
+------ Tallapoosa(01123)    8    1    0
+------ Morgan(01103)    17    1    0
 ------ Autauga(01001)    6    0    0
 ------ Pickens(01107)    2    0    0
 ------ Pike(01109)    4    0    0
@@ -2040,7 +2040,7 @@
 ------ Wirt(54105)    1    0    0
 ---- GU    56    1    7
 ------ Guam(66010)    55    1    0
----- PR    127    5    0
+---- PR    174    6    0
 ---- VI    23    0    0
 ---- MP    2    0    0
 -- Italy    97689    10779    13030
@@ -2549,7 +2549,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    306    5    39
--- Germany    62435    541    9211
+-- Germany    63079    545    9211
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
@@ -2689,7 +2689,7 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    77    0    2
 -- Sweden    4028    146    16
--- Czechia    2866    17    11
+-- Czechia    2878    17    11
 -- Malaysia    2626    37    479
 -- Ireland    2615    46    5
 -- Denmark    2564    77    73
@@ -2757,14 +2757,14 @@
 -- Iceland    1020    5    135
 -- Mexico    993    20    35
 -- Panama    989    24    4
+-- Singapore    879    3    228
+---- Central Singapore Community Development Council    345    0    124
 -- Dominican Republic    859    39    3
 -- Peru    852    18    16
--- Singapore    844    3    212
----- Central Singapore Community Development Council    345    0    124
--- Argentina    820    20    91
--- Croatia    790    6    55
+-- Argentina    820    22    91
+-- Croatia    790    6    67
 -- Slovenia    756    11    10
--- Serbia    741    14    42
+-- Serbia    741    15    42
 -- Estonia    715    3    20
 -- Colombia    702    10    10
 -- Hong Kong    642    4    118
@@ -2800,7 +2800,7 @@
 -- Burkina Faso    222    12    23
 -- Cyprus    214    6    15
 -- Azerbaijan    209    4    15
--- Viet Nam    203    0    52
+-- Viet Nam    203    0    55
 -- Réunion    183    0    1
 -- Oman    179    0    29
 -- Faroe Islands    168    0    70
@@ -2835,21 +2835,21 @@
 -- Gibraltar    65    0    14
 -- Paraguay    64    3    1
 -- Liechtenstein    62    0    0
+-- Kenya    50    1    1
 -- Aruba    50    0    1
 -- Bangladesh    49    5    19
 -- Isle of Man    46    0    0
 -- Monaco    46    1    1
 -- French Guiana    43    0    6
--- Kenya    42    1    1
 -- Madagascar    39    0    0
 -- Puerto Rico    39    2    1
 -- Macao    38    0    10
 -- French Polynesia    35    0    0
 -- Guatemala    34    1    10
+-- Jamaica    34    1    2
 -- Uganda    33    0    0
 -- Barbados    33    0    0
 -- Guam    33    1    0
--- Jamaica    32    1    2
 -- El Salvador    30    0    0
 -- Togo    30    1    1
 -- Zambia    29    0    0
