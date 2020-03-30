@@ -2622,10 +2622,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    14427    935    0
----- Northern Ireland    324    15    0
----- Wales    1093    38    0
----- Scotland    1245    40    0
+---- England    16487    1125    0
+---- Northern Ireland    410    15    0
+---- Wales    1241    48    0
+---- Scotland    1384    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    14829    300    1595
