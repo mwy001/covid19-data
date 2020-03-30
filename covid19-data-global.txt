@@ -1,4 +1,4 @@
--- United States of America    142086    2487    2665
+-- United States of America    142207    2488    2665
 ---- NY    59662    965    1577
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -55,9 +55,9 @@
 ------ Cayuga(36011)    2    0    0
 ------ St Lawrence(36089)    12    0    0
 ------ Chautauqua(36013)    7    0    0
------- Franklin(36033)    5    0    0
+------ Franklin(36033)    6    0    0
 ------ Orleans(36073)    3    0    0
------- Cattaraugus(36009)    1    0    0
+------ Cattaraugus(36009)    4    0    0
 ------ Schuyler(36097)    1    0    0
 ---- WA    4477    198    420
 ------ King(53033)    2159    141    0
@@ -503,11 +503,11 @@
 ------ Bacon(13005)    1    0    0
 ------ Brooks(13027)    1    0    0
 ------ Candler(13043)    1    0    0
----- TX    2798    37    74
+---- TX    2815    37    74
 ------ Dallas(48113)    488    10    0
 ------ Travis(48453)    200    1    0
 ------ Harris(48201)    526    3    0
------- Bexar(48029)    140    5    0
+------ Bexar(48029)    157    5    0
 ------ Fort Bend(48157)    119    1    0
 ------ Collin(48085)    134    1    0
 ------ Tarrant(48439)    139    1    0
@@ -544,7 +544,7 @@
 ------ Crane(48103)    2    0    0
 ------ Lamar(48277)    3    0    0
 ------ Midland(48329)    13    1    0
------- Randall(48381)    3    0    0
+------ Randall(48381)    6    0    0
 ------ Castro(48069)    8    0    0
 ------ Oldham(48359)    2    1    0
 ------ McLennan(48309)    34    0    0
@@ -581,8 +581,8 @@
 ------ Hopkins(48223)    1    0    0
 ------ Hunt(48231)    1    0    0
 ------ Llano(48299)    2    0    0
------- Bastrop(48021)    4    0    0
------- Tom Green(48451)    3    0    0
+------ Bastrop(48021)    5    0    0
+------ Tom Green(48451)    5    0    0
 ------ Kaufman(48257)    2    0    0
 ------ Hale(48189)    1    0    0
 ------ Cass(48067)    2    0    0
@@ -593,18 +593,18 @@
 ------ Young(48503)    1    0    0
 ------ Val Verde(48465)    5    0    0
 ------ San Patricio(48409)    2    0    0
------- Calhoun(48057)    3    0    0
------- Nacogdoches(48347)    1    0    0
+------ Calhoun(48057)    5    0    0
+------ Nacogdoches(48347)    2    0    0
 ------ Reeves(48389)    1    0    0
------- Angelina(48005)    2    0    0
+------ Angelina(48005)    3    0    0
 ------ Rockwall(48397)    3    0    0
 ------ Hood(48221)    3    0    0
------- Austin(48015)    1    0    0
------- Taylor(48441)    7    0    0
+------ Austin(48015)    2    0    0
+------ Taylor(48441)    9    0    0
 ------ Swisher(48437)    1    0    0
 ------ Starr(48427)    2    0    0
 ------ Shelby(48419)    1    0    0
------- Karnes(48255)    1    0    0
+------ Karnes(48255)    2    0    0
 ------ Martin(48317)    1    0    0
 ------ Harrison(48203)    1    0    0
 ------ Washington(48477)    6    0    0
@@ -617,7 +617,7 @@
 ------ Willacy(48489)    1    0    0
 ------ Yoakum(48501)    1    0    0
 ------ Lamb(48279)    1    0    0
------- Ector(48135)    1    0    0
+------ Ector(48135)    3    0    0
 ------ Lynn(48305)    2    0    0
 ------ Kleberg(48273)    1    0    0
 ------ Andrews(48003)    1    0    0
@@ -627,6 +627,8 @@
 ------ San Jacinto(48407)    1    0    0
 ------ Comanche(48093)    1    0    0
 ------ Hill(48217)    1    0    0
+------ Henderson(48213)    1    0    0
+------ Franklin(48159)    1    0    0
 ---- PA    3432    41    0
 ------ Montgomery(42091)    488    5    0
 ------ Philadelphia(42101)    890    8    0
@@ -802,6 +804,7 @@
 ------ Haywood(47075)    2    0    0
 ------ Henry(47079)    1    0    0
 ------ Obion(47131)    1    0    0
+------ McNairy(47109)    1    0    0
 ---- CT    1993    34    0
 ------ Fairfield(09001)    1245    21    0
 ------ New Haven(09009)    280    6    0
@@ -922,21 +925,21 @@
 ------ Gloucester(51073)    6    0    0
 ------ Roanoke(51161)    2    0    0
 ------ Botetourt(51023)    2    0    0
------- Richmond(51159)    20    0    0
+------ Richmond(51159)    25    0    0
 ------ Accomack(51001)    3    0    0
 ------ Mecklenburg(51117)    4    0    0
 ------ Rockbridge(51163)    2    0    0
 ------ Franklin(51067)    5    0    0
 ------ Isle of Wight(51093)    3    0    0
------- City of Alexandria(51510)    20    0    0
+------ City of Alexandria(51510)    25    0    0
 ------ City of Charlottesville(51540)    12    0    0
 ------ City of Harrisonburg(51660)    5    0    0
------- City of Norfolk(51710)    10    0    0
------- City of Virginia Beach(51810)    35    1    0
------- City of Williamsburg(51830)    6    1    0
+------ City of Norfolk(51710)    14    0    0
+------ City of Virginia Beach(51810)    49    1    0
+------ City of Williamsburg(51830)    7    1    0
 ------ City of Portsmouth(51740)    4    0    0
 ------ City of Suffolk(51800)    1    0    0
------- City of Newport News(51700)    13    1    0
+------ City of Newport News(51700)    17    1    0
 ------ Lee(51105)    2    0    0
 ------ Rockingham(51165)    4    0    0
 ------ Amherst(51009)    2    0    0
@@ -944,14 +947,14 @@
 ------ Culpeper(51047)    2    0    0
 ------ Fluvanna(51065)    3    0    0
 ------ Louisa(51109)    7    0    0
------- City of Danville(51590)    4    0    0
+------ City of Danville(51590)    5    0    0
 ------ Alleghany(51005)    2    0    0
 ------ Halifax(51083)    1    0    0
 ------ Madison(51113)    3    0    0
 ------ Nelson(51125)    2    0    0
 ------ Orange(51137)    1    0    0
------- City of Chesapeake(51550)    7    0    0
------- City of Lynchburg(51680)    2    0    0
+------ City of Chesapeake(51550)    17    0    0
+------ City of Lynchburg(51680)    3    0    0
 ------ City of Radford(51750)    1    0    0
 ------ Frederick(51069)    8    0    0
 ------ Mathews(51115)    4    0    0
@@ -959,7 +962,7 @@
 ------ Pittsylvania(51143)    1    0    0
 ------ Shenandoah(51171)    4    0    0
 ------ City of Fredericksburg(51630)    1    0    0
------- City of Manassas(51683)    4    0    0
+------ City of Manassas(51683)    5    0    0
 ------ Warren(51187)    2    0    0
 ------ Washington(51191)    2    0    0
 ------ Amelia(51007)    1    0    0
@@ -982,9 +985,9 @@
 ------ Greensville(51081)    1    0    0
 ------ Tazewell(51185)    1    0    0
 ------ Wythe(51197)    1    0    0
----- NC    1192    7    0
+---- NC    1196    7    0
 ------ Wake(37183)    146    0    0
------- Durham(37063)    113    0    0
+------ Durham(37063)    117    0    0
 ------ Mecklenburg(37119)    336    1    0
 ------ Chatham(37037)    13    0    0
 ------ Harnett(37085)    14    1    0
@@ -1267,7 +1270,7 @@
 ---- AL    830    10    0
 ------ Jefferson(01073)    250    0    0
 ------ Shelby(01117)    79    0    0
------- Lee(01081)    59    2    0
+------ Lee(01081)    60    2    0
 ------ Tuscaloosa(01125)    23    0    0
 ------ Elmore(01051)    13    0    0
 ------ Montgomery(01101)    21    0    0
@@ -1279,7 +1282,7 @@
 ------ Chambers(01017)    27    3    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    30    0    0
------- Mobile(01097)    40    1    0
+------ Mobile(01097)    41    1    0
 ------ Jackson(01071)    5    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -1287,7 +1290,7 @@
 ------ Cullman(01043)    7    0    0
 ------ Marion(01093)    10    0    0
 ------ Franklin(01059)    3    0    0
------- Houston(01069)    6    0    0
+------ Houston(01069)    7    0    0
 ------ Tallapoosa(01123)    8    0    0
 ------ Morgan(01103)    17    0    0
 ------ Autauga(01001)    6    0    0
@@ -1536,24 +1539,24 @@
 ------ Cheshire(33005)    3    0    0
 ------ Strafford(33017)    17    0    0
 ------ Sullivan(33019)    3    0    0
----- NE    108    2    0
------- Douglas(31055)    57    1    0
+---- NE    118    2    0
+------ Douglas(31055)    60    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
 ------ Sarpy(31153)    11    0    0
------- Lincoln(31111)    3    0    0
------- Adams(31001)    2    0    0
+------ Lincoln(31111)    5    0    0
+------ Adams(31001)    3    0    0
 ------ Nemaha(31127)    1    0    0
------- Lancaster(31109)    4    0    0
+------ Lancaster(31109)    5    0    0
 ------ Buffalo(31019)    5    0    0
 ------ Gage(31067)    1    0    0
 ------ Madison(31119)    1    0    0
------- Washington(31177)    5    0    0
+------ Washington(31177)    8    0    0
 ------ Saunders(31155)    2    0    0
 ------ Dawson(31047)    1    0    0
 ------ Kearney(31099)    1    0    0
------- Hall(31079)    3    1    0
------- Dodge(31053)    2    0    0
+------ Hall(31079)    6    1    0
+------ Dodge(31053)    3    0    0
 ------ Gosper(31073)    1    0    0
 ---- NM    237    2    0
 ------ Bernalillo(35001)    102    1    0
@@ -1579,21 +1582,21 @@
 ------ Newport(44005)    19    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    27    0    0
----- AR    426    6    26
------- Jefferson(05069)    25    0    0
------- Pulaski(05119)    93    2    0
------- Cleburne(05023)    50    2    0
+---- AR    449    6    26
+------ Jefferson(05069)    26    0    0
+------ Pulaski(05119)    94    2    0
+------ Cleburne(05023)    56    2    0
 ------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    2    0    0
------- Garland(05051)    25    0    0
+------ Garland(05051)    26    0    0
 ------ Lincoln(05079)    6    0    0
 ------ Saline(05125)    6    0    0
------- Washington(05143)    14    0    0
+------ Washington(05143)    15    0    0
 ------ Bradley(05011)    4    0    0
 ------ Faulkner(05045)    30    0    0
 ------ Grant(05053)    3    0    0
------- Pope(05115)    3    0    0
------- Van Buren(05141)    17    1    0
+------ Pope(05115)    4    0    0
+------ Van Buren(05141)    18    1    0
 ------ Boone(05009)    1    0    0
 ------ Clark(05019)    18    0    0
 ------ Craighead(05031)    6    0    0
@@ -1604,11 +1607,11 @@
 ------ Polk(05113)    2    0    0
 ------ Searcy(05129)    4    0    0
 ------ Sevier(05133)    2    0    0
------- Benton(05007)    31    0    0
+------ Benton(05007)    33    0    0
 ------ Columbia(05027)    1    0    0
 ------ Conway(05029)    2    1    0
------- Sebastian(05131)    4    0    0
------- Union(05139)    5    0    0
+------ Sebastian(05131)    5    0    0
+------ Union(05139)    6    0    0
 ------ Woodruff(05147)    1    0    0
 ------ Lawrence(05075)    1    0    0
 ------ Crawford(05033)    1    0    0
@@ -1622,7 +1625,7 @@
 ------ Drew(05043)    2    0    0
 ------ Lonoke(05085)    5    0    0
 ------ Randolph(05121)    2    0    0
------- Chicot(05017)    1    0    0
+------ Chicot(05017)    2    0    0
 ------ Baxter(05005)    1    0    0
 ------ Johnson(05071)    1    0    0
 ------ Ashley(05003)    1    0    0
@@ -1825,7 +1828,7 @@
 ------ Cole(29051)    17    0    0
 ------ Henry(29083)    1    1    0
 ------ Jackson(29095)    48    1    0
------- St Louis(29189)    313    2    0
+------ St Louis(29189)    336    2    0
 ------ St Charles(29183)    43    2    0
 ------ St Louis City(29510)    336    2    0
 ------ Christian(29043)    7    1    0
@@ -1873,15 +1876,15 @@
 ------ Ripley(29181)    2    0    0
 ------ Warren(29219)    2    0    0
 ------ Maries(29125)    1    0    0
----- HI    151    1    0
+---- HI    175    1    0
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Hawaii(15001)    1    0    0
------- Hawaii in Hawaii(15001)    10    0    0
------- Oahu in Honolulu(15003)    108    1    0
------- Niihau in Kauai(15007)    11    0    0
------- Kahoolawe in Maui(15009)    16    0    0
+------ Hawaii in Hawaii(15001)    12    0    0
+------ Oahu in Honolulu(15003)    123    1    0
+------ Niihau in Kauai(15007)    12    0    0
+------ Kahoolawe in Maui(15009)    20    0    0
 ---- SD    90    1    8
 ------ Minnehaha(46099)    25    0    0
 ------ Beadle(46005)    20    0    0
@@ -1911,7 +1914,7 @@
 ------ Clark(46025)    1    0    0
 ------ Clay(46027)    2    0    0
 ------ Fall River(46047)    1    0    0
----- WY    86    0    0
+---- WY    87    0    0
 ------ Fremont(56013)    23    0    0
 ------ Sheridan(56033)    6    0    0
 ------ Laramie(56021)    19    0    0
@@ -1949,14 +1952,14 @@
 ------ Park(30067)    2    0    0
 ------ Lake(30047)    3    0    0
 ------ Deer Lodge(30023)    1    0    0
----- ID    297    6    0
------- Ada(16001)    92    2    0
------- Blaine(16013)    114    2    0
+---- ID    324    6    0
+------ Ada(16001)    113    2    0
+------ Blaine(16013)    115    2    0
 ------ Madison(16065)    2    0    0
 ------ Teton(16081)    2    0    0
 ------ Twin Falls(16083)    3    0    0
 ------ Kootenai(16055)    26    0    0
------- Canyon(16027)    37    1    0
+------ Canyon(16027)    40    1    0
 ------ Fremont(16043)    1    0    0
 ------ Bingham(16011)    2    0    0
 ------ Valley(16085)    1    0    0
@@ -1967,7 +1970,7 @@
 ------ Idaho(16049)    1    0    0
 ------ Payette(16075)    4    0    0
 ------ Custer(16037)    1    0    0
------- Gem(16045)    2    0    0
+------ Gem(16045)    3    0    0
 ------ Lincoln(16063)    1    0    0
 ------ Bonneville(16019)    1    0    0
 ------ Bonner(16017)    1    0    0
@@ -1998,28 +2001,32 @@
 ------ Juneau(02110)    4    0    0
 ------ Kenai Peninsula(02122)    5    0    0
 ------ Matanuska-Susitna(02170)    2    0    0
----- WV    113    1    0
------- Jefferson(54037)    4    0    0
+---- WV    124    1    0
+------ Jefferson(54037)    5    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
------- Monongalia(54061)    29    0    0
------- Jackson(54035)    7    0    0
+------ Monongalia(54061)    30    0    0
+------ Jackson(54035)    8    0    0
 ------ Kanawha(54039)    19    0    0
 ------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    3    0    0
------- Harrison(54033)    5    0    0
+------ Harrison(54033)    7    0    0
 ------ Berkeley(54003)    10    0    0
 ------ Preston(54077)    2    0    0
 ------ Wood(54107)    2    0    0
 ------ Hancock(54029)    3    0    0
 ------ Logan(54045)    1    0    0
------- Marion(54049)    5    0    0
------- Ohio(54069)    6    0    0
------- Raleigh(54081)    3    0    0
+------ Marion(54049)    5    1    0
+------ Ohio(54069)    7    0    0
+------ Raleigh(54081)    4    0    0
 ------ Mason(54053)    3    0    0
 ------ Upshur(54097)    1    0    0
 ------ Greenbrier(54025)    2    0    0
 ------ Pleasants(54073)    1    0    0
+------ Cabell(54011)    1    0    0
+------ Morgan(54065)    1    0    0
+------ Wetzel(54103)    1    0    0
+------ Wirt(54105)    1    0    0
 ---- GU    56    1    7
 ------ Guam(66010)    55    1    0
 ---- PR    127    5    0
@@ -2529,7 +2536,7 @@
 ---- Melilla    48    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    23    1    0
--- Germany    62095    533    9211
+-- Germany    62095    541    9211
 ---- Saxony    1700    9    17
 ---- Mecklenburg-Vorpommern    348    1    11
 ---- Free State of Bavaria    12881    107    276
@@ -2778,7 +2785,7 @@
 -- Cyprus    214    6    15
 -- Albania    212    10    33
 -- Azerbaijan    209    4    15
--- Viet Nam    188    0    25
+-- Viet Nam    194    0    25
 -- Réunion    183    0    1
 -- Oman    167    0    23
 -- Faroe Islands    159    0    70
