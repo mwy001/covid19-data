@@ -2063,8 +2063,8 @@
 ---- Liguria    3076    377    420
 ---- Veneto    8358    392    715
 ---- Bolzano    1214    64    116
--- China    82447    3311    75937
----- 天津    166    3    133
+-- China    82451    3311    75937
+---- 天津    169    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2525,6 +2525,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
+---- 台湾    298    3    39
 -- Spain    80110    6803    14709
 ---- Andalusia    4682    207    148
 ---- Aragon    1858    93    8
@@ -2740,7 +2741,7 @@
 ---- Kagoshima    1    0    0
 -- Poland    1862    22    13
 -- Romania    1815    43    206
--- Pakistan    1597    14    29
+-- Pakistan    1625    18    29
 -- Russian Federation    1534    8    64
 -- Thailand    1524    7    229
 -- Philippines    1418    71    42
@@ -2777,8 +2778,8 @@
 -- Hungary    447    15    34
 -- Lebanon    438    10    30
 -- Armenia    424    3    30
+-- Bulgaria    354    8    15
 -- Latvia    347    0    1
--- Bulgaria    346    8    14
 -- Andorra    334    6    1
 -- Bosnia and Herzegovina    323    6    8
 -- Slovakia    314    1    7
@@ -2806,6 +2807,7 @@
 -- Uzbekistan    144    2    7
 -- Senegal    142    0    27
 -- Cuba    139    3    4
+-- Honduras    139    3    3
 -- Cameroon    139    6    5
 -- Brunei Darussalam    126    1    34
 -- Afghanistan    120    4    2
@@ -2813,7 +2815,6 @@
 -- Venezuela, Bolivarian Republic of    119    3    39
 -- Nigeria    111    1    3
 -- Mauritius    110    3    0
--- Honduras    110    3    3
 -- Palestine    109    1    18
 -- Guadeloupe    106    4    17
 -- Cambodia    103    0    21
@@ -2866,7 +2867,7 @@
 -- Eritrea    12    0    0
 -- Equatorial Guinea    12    0    0
 -- Cayman Islands    12    1    0
--- Mongolia    12    0    0
+-- Mongolia    12    0    2
 -- Dominica    11    0    0
 -- Namibia    11    0    2
 -- Saint Martin (French part)    11    0    0
