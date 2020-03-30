@@ -2065,6 +2065,27 @@
 ---- Liguria    3076    377    420
 ---- Veneto    8358    392    715
 ---- Bolzano    1214    64    116
+-- Spain    85195    7340    16780
+---- Andalusia    4682    207    148
+---- Aragon    1858    93    8
+---- Balearic Islands    958    31    82
+---- Basque Country    5740    265    1503
+---- Canary Islands    1125    39    30
+---- Cantabria    1023    26    25
+---- Castile and León    5414    380    752
+---- Castile-La Mancha    5246    539    236
+---- Catalonia    15026    1226    3455
+---- Community of Madrid    22677    3082    7491
+---- Comunidad Foral de Navarra    2011    84    125
+---- Extremadura    1456    100    51
+---- Galicia    3139    3032    153
+---- Principality of Asturias    1088    41    76
+---- Región de Murcia    872    20    16
+---- Rioja    1629    68    397
+---- Valencian Community    4784    267    161
+---- Melilla    48    1    0
+---- Navarre    130    0    0
+---- Ceuta    23    1    0
 -- China    82451    3311    75944
 ---- 天津    169    3    133
 ------ 境外输入    15    0    0
@@ -2528,27 +2549,6 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    298    3    39
--- Spain    80110    6803    14709
----- Andalusia    4682    207    148
----- Aragon    1858    93    8
----- Balearic Islands    958    31    82
----- Basque Country    5740    265    1503
----- Canary Islands    1125    39    30
----- Cantabria    1023    26    25
----- Castile and León    5414    380    752
----- Castile-La Mancha    5246    539    236
----- Catalonia    15026    1226    3455
----- Community of Madrid    22677    3082    7491
----- Comunidad Foral de Navarra    2011    84    125
----- Extremadura    1456    100    51
----- Galicia    3139    3032    153
----- Principality of Asturias    1088    41    76
----- Región de Murcia    872    20    16
----- Rioja    1629    68    397
----- Valencian Community    4784    267    161
----- Melilla    48    1    0
----- Navarre    130    0    0
----- Ceuta    23    1    0
 -- Germany    62435    541    9211
 ---- Saxony    1700    9    17
 ---- Mecklenburg-Vorpommern    348    1    11
@@ -2635,7 +2635,7 @@
 ---- Scotland    1384    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    14944    300    1823
+-- Switzerland    15069    312    1823
 -- Netherlands    10930    772    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2690,7 +2690,7 @@
 ---- Australian Capital Territory    77    0    2
 -- Sweden    3700    110    16
 -- Czechia    2859    17    11
--- Malaysia    2626    37    388
+-- Malaysia    2626    37    479
 -- Ireland    2615    46    5
 -- Denmark    2564    72    73
 ---- Denmark    977    4    1
@@ -2742,10 +2742,10 @@
 ---- Okayama    3    0    0
 ---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
--- Romania    1815    43    206
+-- Russian Federation    1836    9    66
+-- Romania    1815    44    206
 -- Pakistan    1625    18    29
 -- Philippines    1546    78    42
--- Russian Federation    1534    8    64
 -- Thailand    1524    7    229
 -- Indonesia    1414    122    75
 -- Saudi Arabia    1299    8    66
@@ -2761,8 +2761,8 @@
 -- Singapore    844    3    212
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    820    20    91
+-- Slovenia    756    11    10
 -- Serbia    741    13    42
--- Slovenia    730    11    10
 -- Estonia    715    3    20
 -- Croatia    713    6    55
 -- Colombia    702    10    10
@@ -2779,7 +2779,7 @@
 -- Armenia    482    3    30
 -- Ukraine    475    10    8
 -- Hungary    447    15    34
--- Lebanon    438    10    30
+-- Lebanon    446    11    32
 -- Latvia    376    0    1
 -- Bulgaria    354    8    15
 -- Bosnia and Herzegovina    340    6    8
@@ -2790,10 +2790,10 @@
 -- Taiwan    306    5    39
 -- Uruguay    304    1    0
 -- Kazakhstan    294    3    20
+-- Kuwait    266    0    72
 -- Moldova, Republic of    263    2    13
 -- Jordan    259    3    18
 -- North Macedonia    259    6    3
--- Kuwait    255    0    67
 -- San Marino    226    22    6
 -- Albania    223    11    44
 -- Burkina Faso    222    12    23
@@ -2811,15 +2811,15 @@
 -- Cuba    139    3    4
 -- Honduras    139    3    3
 -- Cameroon    139    6    5
--- Brunei Darussalam    126    1    34
+-- Brunei Darussalam    127    1    38
 -- Afghanistan    120    4    2
 -- Sri Lanka    120    1    15
 -- Venezuela, Bolivarian Republic of    119    3    39
 -- Palestine    115    1    18
 -- Nigeria    111    1    3
 -- Mauritius    110    3    0
+-- Cambodia    107    0    21
 -- Guadeloupe    106    4    17
--- Cambodia    103    0    21
 -- Georgia    98    0    18
 -- Bolivia, Plurinational State of    96    1    0
 -- Kyrgyzstan    94    0    0
@@ -2842,7 +2842,7 @@
 -- Kenya    42    1    1
 -- Madagascar    39    0    0
 -- Puerto Rico    39    2    1
--- Macao    37    0    10
+-- Macao    38    0    10
 -- Guatemala    34    1    10
 -- Uganda    33    0    0
 -- Barbados    33    0    0
@@ -2852,9 +2852,9 @@
 -- French Polynesia    30    0    0
 -- Togo    30    1    1
 -- Zambia    29    0    0
+-- Ethiopia    23    0    4
 -- Guyana    23    1    0
 -- Bermuda    22    0    2
--- Ethiopia    21    0    4
 -- Congo    19    0    0
 -- Mali    18    1    0
 -- Niger    18    1    0
