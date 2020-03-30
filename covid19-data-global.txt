@@ -1,4 +1,4 @@
--- United States of America    144103    2580    4865
+-- United States of America    144118    2580    4865
 ---- NY    60679    1026    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -503,7 +503,7 @@
 ------ Bacon(13005)    1    0    0
 ------ Brooks(13027)    1    0    0
 ------ Candler(13043)    1    0    0
----- TX    2837    38    74
+---- TX    2842    38    74
 ------ Dallas(48113)    488    10    0
 ------ Travis(48453)    200    1    0
 ------ Harris(48201)    526    3    0
@@ -1182,26 +1182,26 @@
 ------ Douglas(27041)    1    0    0
 ------ Isanti(27059)    1    0    0
 ------ Otter Tail(27111)    1    0    0
----- MD    1239    15    4
------- Montgomery(24031)    301    1    0
+---- MD    1413    15    4
+------ Montgomery(24031)    341    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    162    2    0
------- Howard(24027)    81    1    0
------- Anne Arundel(24003)    99    0    0
+------ Baltimore(24005)    186    2    0
+------ Howard(24027)    96    1    0
+------ Anne Arundel(24003)    110    0    0
 ------ Carroll(24013)    83    1    0
------- Harford(24025)    23    0    0
------- Charles(24017)    28    1    0
------- Frederick(24021)    24    0    0
------- Talbot(24041)    3    0    0
------- Calvert(24009)    10    0    0
+------ Harford(24025)    24    0    0
+------ Charles(24017)    33    1    0
+------ Frederick(24021)    26    0    0
+------ Talbot(24041)    4    0    0
+------ Calvert(24009)    12    0    0
 ------ Baltimore City(24510)    129    2    0
 ------ Wicomico(24045)    6    1    0
------- Worcester(24047)    2    0    0
------- Prince Georges(24033)    247    6    0
------- Caroline(24011)    3    0    0
+------ Worcester(24047)    3    0    0
+------ Prince Georges(24033)    294    6    0
+------ Caroline(24011)    4    0    0
 ------ Queen Anne's(24035)    4    0    0
 ------ Somerset(24039)    4    0    0
------- Washington(24043)    6    0    0
+------ Washington(24043)    7    0    0
 ------ Cecil(24015)    13    0    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    9    0    0
@@ -1346,82 +1346,82 @@
 ------ Somerset(23025)    1    0    0
 ---- DC    401    9    106
 ------ District of Columbia(11001)    401    9    0
----- IN    1514    33    0
------- Marion(18097)    676    10    0
------- Hendricks(18063)    48    2    0
------- Johnson(18081)    71    3    0
------- Franklin(18047)    26    3    0
------- Howard(18067)    12    1    0
------- Lake(18089)    85    1    0
+---- IN    1786    35    0
+------ Marion(18097)    804    12    0
+------ Hendricks(18063)    58    2    0
+------ Johnson(18081)    81    3    0
+------ Franklin(18047)    28    4    0
+------ Howard(18067)    14    1    0
+------ Lake(18089)    97    1    0
 ------ Adams(18001)    1    0    0
 ------ Bartholomew(18005)    10    0    0
------- Boone(18011)    13    0    0
------- Floyd(18043)    14    0    0
------- Hamilton(18057)    83    0    0
+------ Boone(18011)    20    0    0
+------ Floyd(18043)    20    0    0
+------ Hamilton(18057)    106    0    0
 ------ Noble(18113)    2    0    0
 ------ Wells(18179)    1    0    0
------- Clark(18019)    20    0    0
------- Fayette(18041)    5    1    0
------- Jennings(18079)    13    0    0
------- Madison(18095)    18    1    0
------- St Joseph(18141)    32    1    0
------- Owen(18119)    9    0    0
------- Tippecanoe(18157)    11    1    0
+------ Clark(18019)    27    0    0
+------ Fayette(18041)    8    1    0
+------ Jennings(18079)    14    0    0
+------ Madison(18095)    29    1    0
+------ St Joseph(18141)    36    1    0
+------ Owen(18119)    10    0    0
+------ Tippecanoe(18157)    14    1    0
 ------ Wayne(18177)    1    0    0
------- Allen(18003)    26    1    0
------- Monroe(18105)    22    0    0
+------ Allen(18003)    28    1    0
+------ Monroe(18105)    26    0    0
 ------ Vigo(18167)    7    1    0
 ------ Vanderburgh(18163)    17    0    0
 ------ Grant(18053)    7    0    0
------- Shelby(18145)    12    0    0
------- Delaware(18035)    14    1    0
+------ Shelby(18145)    13    0    0
+------ Delaware(18035)    15    1    0
 ------ Scott(18143)    1    1    0
 ------ Elkhart(18039)    12    0    0
 ------ Greene(18055)    1    0    0
------- Hancock(18059)    22    1    0
------- Harrison(18061)    14    0    0
------- Miami(18103)    1    0    0
+------ Hancock(18059)    28    1    0
+------ Harrison(18061)    15    0    0
+------ Miami(18103)    3    0    0
 ------ Dubois(18037)    2    0    0
------- Morgan(18109)    20    1    0
------- Putnam(18133)    5    1    0
+------ Morgan(18109)    23    1    0
+------ Putnam(18133)    7    1    0
 ------ Tipton(18159)    4    0    0
------- Washington(18175)    5    0    0
------- Ripley(18137)    19    0    0
+------ Washington(18175)    6    0    0
+------ Ripley(18137)    25    0    0
 ------ Starke(18149)    2    0    0
------- Decatur(18031)    40    0    0
+------ Decatur(18031)    42    0    0
 ------ Dearborn(18029)    10    1    0
 ------ Gibson(18051)    4    0    0
 ------ Brown(18013)    3    0    0
------- Jackson(18071)    7    0    0
------- Lawrence(18093)    8    0    0
------- Montgomery(18107)    5    0    0
+------ Jackson(18071)    8    0    0
+------ Lawrence(18093)    9    0    0
+------ Montgomery(18107)    6    0    0
 ------ Ohio(18115)    1    0    0
------- Porter(18127)    14    0    0
+------ Porter(18127)    15    0    0
 ------ Sullivan(18153)    1    0    0
 ------ Warrick(18173)    8    0    0
 ------ La Porte(18091)    6    0    0
 ------ Jasper(18073)    6    1    0
------- Rush(18139)    3    0    0
+------ Rush(18139)    4    0    0
 ------ De Kalb(18033)    1    0    0
 ------ Fountain(18045)    1    0    0
 ------ Marshall(18099)    4    0    0
------- Orange(18117)    1    0    0
+------ Orange(18117)    2    0    0
 ------ Posey(18129)    3    0    0
 ------ Warren(18171)    2    0    0
 ------ Wabash(18169)    1    0    0
 ------ Clinton(18023)    1    0    0
 ------ Fulton(18049)    1    0    0
 ------ Henry(18065)    2    0    0
------- Huntington(18069)    1    0    0
------- Kosciusko(18085)    3    0    0
+------ Huntington(18069)    2    0    0
+------ Kosciusko(18085)    4    0    0
 ------ Lagrange(18087)    2    0    0
 ------ Whitley(18183)    1    0    0
 ------ Crawford(18025)    1    0    0
 ------ Newton(18111)    1    0    0
 ------ Randolph(18135)    1    0    0
 ------ Switzerland(18155)    3    0    0
------- White(18181)    1    0    0
------- Carroll(18015)    1    0    0
+------ White(18181)    2    0    0
+------ Carroll(18015)    2    0    0
 ------ Clay(18021)    1    0    0
 ------ Steuben(18151)    1    0    0
 ------ Knox(18083)    2    0    0
@@ -1943,8 +1943,8 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    1    0    0
 ------ Sublette(56035)    1    0    0
----- MT    169    2    0
------- Missoula(30063)    11    0    0
+---- MT    171    2    0
+------ Missoula(30063)    12    0    0
 ------ Yellowstone(30111)    26    0    0
 ------ Broadwater(30007)    3    0    0
 ------ Gallatin(30031)    67    0    0
@@ -1960,7 +1960,7 @@
 ------ Glacier(30035)    1    0    0
 ------ Lincoln(30053)    4    1    0
 ------ Meagher(30059)    1    0    0
------- Toole(30101)    5    0    0
+------ Toole(30101)    6    0    0
 ------ Park(30067)    2    0    0
 ------ Lake(30047)    3    0    0
 ------ Deer Lodge(30023)    2    0    0
@@ -2067,26 +2067,26 @@
 ---- Veneto    8358    392    715
 ---- Bolzano    1214    64    116
 -- Spain    85195    7340    16780
----- Andalusia    4682    207    148
----- Aragon    1858    93    8
----- Balearic Islands    958    31    82
----- Basque Country    5740    265    1503
----- Canary Islands    1125    39    30
----- Cantabria    1023    26    25
----- Castile and León    5414    380    752
----- Castile-La Mancha    5246    539    236
----- Catalonia    16175    1410    3455
----- Community of Madrid    22677    3082    7491
----- Comunidad Foral de Navarra    2011    84    125
----- Extremadura    1456    100    51
----- Galicia    3139    3032    153
----- Principality of Asturias    1088    41    76
----- Región de Murcia    872    20    16
----- Rioja    1629    68    397
----- Valencian Community    4784    267    161
----- Melilla    48    1    0
+---- Andalusia    5405    236    155
+---- Aragon    2078    106    174
+---- Balearic Islands    1000    37    100
+---- Basque Country    6057    297    1646
+---- Canary Islands    1204    40    32
+---- Cantabria    1100    27    25
+---- Castile and León    5801    442    871
+---- Castile-La Mancha    5858    622    252
+---- Catalonia    16175    1410    4125
+---- Community of Madrid    24090    3392    8301
+---- Comunidad Foral de Navarra    2146    102    161
+---- Extremadura    1560    106    60
+---- Galicia    3723    3032    168
+---- Principality of Asturias    1158    49    78
+---- Región de Murcia    939    25    17
+---- Rioja    1733    71    431
+---- Valencian Community    5110    310    185
+---- Melilla    51    1    0
 ---- Navarre    130    0    0
----- Ceuta    23    1    0
+---- Ceuta    25    1    0
 -- China    82505    3313    75956
 ---- 天津    174    3    133
 ------ 境外输入    15    0    0
@@ -2550,22 +2550,22 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    306    5    39
--- Germany    63079    545    9211
+-- Germany    63929    560    9211
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
 ---- Berlin    2464    11    845
----- Brandenburg    833    4    63
+---- Brandenburg    846    4    63
 ---- Thuringia    749    5    129
----- Schleswig-Holstein    1049    7    28
+---- Schleswig-Holstein    1053    7    28
 ---- Lower Saxony    3786    27    525
 ---- Bremen    290    2    53
 ---- Hamburg    2078    5    1
 ---- Rhineland-Palatinate    2584    18    99
----- North Rhine-Westphalia    13630    110    2084
+---- North Rhine-Westphalia    14219    125    2084
 ---- Hesse    3091    13    196
 ---- Baden-Württemberg    11536    128    1058
----- Saxony-Anhalt    635    2    22
+---- Saxony-Anhalt    654    4    22
 ---- Saarland    726    7    47
 -- Iran, Islamic Republic of    41495    2757    13911
 ---- Qom    1178    30    0
@@ -2703,46 +2703,46 @@
 -- Ecuador    1924    58    3
 -- Japan    1866    54    424
 ---- Hokkaido    176    7    100
----- kochi    14    0    0
----- Miyagi    4    0    0
+---- kochi    15    0    0
+---- Miyagi    6    0    0
 ---- Niigata    31    0    0
----- Gifu    20    0    0
+---- Gifu    22    0    0
 ---- Nagano    8    0    0
 ---- Tochigi    12    0    0
----- Kumamoto    12    0    0
----- Saitama    84    2    0
----- Ishikawa    9    0    0
----- Fukuoka    26    0    0
----- Tokyo    430    7    0
----- Wakayama    17    1    2
----- Kyoto    47    0    2
----- Osaka    208    2    1
+---- Kumamoto    14    0    0
+---- Saitama    85    2    0
+---- Ishikawa    11    0    0
+---- Fukuoka    29    0    0
+---- Tokyo    443    8    0
+---- Wakayama    18    1    2
+---- Kyoto    56    0    16
+---- Osaka    216    2    1
 ---- Chiba    158    1    0
----- Kanagawa    125    4    1
----- Shizuoka    4    0    0
+---- Kanagawa    128    5    1
+---- Shizuoka    8    0    0
 ---- Aichi    167    19    2
 ---- Nara    11    0    1
 ---- Tokushima    1    0    0
----- Mie    9    0    1
----- Okinawa    8    0    1
+---- Mie    11    0    1
+---- Okinawa    9    0    1
 ---- Ehime    4    0    0
----- hyogo    133    10    0
+---- hyogo    137    10    0
 ---- oita    28    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    6    0    0
----- Akita    4    0    0
----- Yamanashi    4    0    0
+---- Akita    5    0    0
+---- Yamanashi    5    0    0
 ---- Hiroshima    6    0    0
 ---- Gunma    18    1    0
 ---- Fukushima    2    0    0
 ---- Saga    1    0    0
 ---- Nagasaki    2    0    0
----- Ibaraki    16    0    0
+---- Ibaraki    20    0    0
 ---- Kagawa    1    0    0
----- Fukui    13    0    0
+---- Fukui    15    0    0
 ---- Okayama    3    0    0
----- Aomori    7    0    0
+---- Aomori    8    0    0
 ---- Kagoshima    1    0    0
 ---- Toyama    1    0    0
 -- Russian Federation    1836    9    66
@@ -2764,7 +2764,7 @@
 -- Peru    852    18    16
 -- Argentina    820    22    228
 -- Croatia    790    6    67
--- Serbia    785    15    42
+-- Serbia    785    16    42
 -- Slovenia    756    11    10
 -- Estonia    715    3    20
 -- Colombia    702    10    10
