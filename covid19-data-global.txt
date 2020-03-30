@@ -2689,12 +2689,12 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    77    0    2
 -- Sweden    3700    110    16
--- Czechia    2837    17    11
+-- Czechia    2859    17    11
+-- Malaysia    2626    37    388
 -- Ireland    2615    46    5
 -- Denmark    2564    72    73
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    2470    35    388
 -- Chile    2139    7    75
 -- Luxembourg    1950    21    40
 -- Ecuador    1924    58    3
@@ -2747,9 +2747,9 @@
 -- Philippines    1546    78    42
 -- Russian Federation    1534    8    64
 -- Thailand    1524    7    229
+-- Indonesia    1414    122    75
 -- Saudi Arabia    1299    8    66
 -- Finland    1286    11    10
--- Indonesia    1285    114    64
 -- South Africa    1280    2    31
 -- Greece    1156    39    52
 -- India    1071    29    100
@@ -2789,15 +2789,15 @@
 -- Tunisia    312    8    2
 -- Taiwan    306    5    39
 -- Uruguay    304    1    0
--- Kazakhstan    293    3    20
+-- Kazakhstan    294    3    20
 -- Moldova, Republic of    263    2    13
 -- Jordan    259    3    18
 -- North Macedonia    259    6    3
 -- Kuwait    255    0    67
 -- San Marino    226    22    6
+-- Albania    223    11    44
 -- Burkina Faso    222    12    23
 -- Cyprus    214    6    15
--- Albania    212    10    33
 -- Azerbaijan    209    4    15
 -- Viet Nam    194    0    52
 -- Réunion    183    0    1
@@ -2836,9 +2836,9 @@
 -- Liechtenstein    56    0    0
 -- Aruba    50    0    1
 -- Bangladesh    49    5    19
+-- Isle of Man    46    0    0
 -- Monaco    46    1    1
 -- French Guiana    43    0    6
--- Isle of Man    42    0    0
 -- Kenya    42    1    1
 -- Madagascar    39    0    0
 -- Puerto Rico    39    2    1
