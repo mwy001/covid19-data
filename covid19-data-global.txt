@@ -1,4 +1,4 @@
--- United States of America    142632    2516    4856
+-- United States of America    143088    2520    4856
 ---- NY    59746    966    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -59,42 +59,42 @@
 ------ Orleans(36073)    3    0    0
 ------ Cattaraugus(36009)    4    0    0
 ------ Schuyler(36097)    1    0    0
----- WA    4493    200    420
------- King(53033)    2159    141    0
------- Snohomish(53061)    913    23    0
+---- WA    4896    204    420
+------ King(53033)    2161    144    0
+------ Snohomish(53061)    1068    23    0
 ------ Pierce(53053)    317    6    0
 ------ Island(53029)    105    1    0
------- Skagit(53057)    99    3    0
+------ Skagit(53057)    101    3    0
 ------ Grant(53025)    50    1    0
 ------ Kitsap(53035)    56    1    0
 ------ Whatcom(53073)    116    7    0
 ------ Thurston(53067)    36    0    0
 ------ Yakima(53077)    140    2    0
 ------ Clark(53011)    90    6    0
------- Spokane(53063)    115    4    0
------- Jefferson(53031)    13    0    0
+------ Spokane(53063)    136    4    0
+------ Jefferson(53031)    14    0    0
 ------ Kittitas(53037)    18    0    0
 ------ Chelan(53007)    14    1    0
 ------ Columbia(53013)    1    0    0
------- Cowlitz(53015)    10    0    0
+------ Cowlitz(53015)    13    0    0
 ------ Grays Harbor(53027)    1    0    0
------- Klickitat(53039)    7    0    0
------- Lewis(53041)    7    0    0
+------ Klickitat(53039)    7    1    0
+------ Lewis(53041)    10    0    0
 ------ Lincoln(53043)    1    0    0
------- Franklin(53021)    16    0    0
+------ Franklin(53021)    32    0    0
 ------ Mason(53045)    2    0    0
------- Benton(53005)    56    5    0
------- Clallam(53009)    5    0    0
+------ Benton(53005)    101    5    0
+------ Clallam(53009)    6    0    0
 ------ San Juan(53055)    4    0    0
 ------ Stevens(53065)    3    0    0
------- Walla Walla(53071)    5    0    0
+------ Walla Walla(53071)    6    0    0
 ------ Whitman(53075)    6    0    0
------- Adams(53001)    5    0    0
+------ Adams(53001)    7    0    0
 ------ Douglas(53017)    5    0    0
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    6284    132    51
+---- CA    6319    132    51
 ------ Santa Clara(06085)    646    25    0
 ------ Los Angeles(06037)    2136    37    0
 ------ San Mateo(06081)    277    6    0
@@ -115,7 +115,7 @@
 ------ Sonoma(06097)    58    1    0
 ------ San Benito(06069)    14    1    0
 ------ Yolo(06113)    16    1    0
------- San Bernardino(06071)    76    3    0
+------ San Bernardino(06071)    111    3    0
 ------ Stanislaus(06099)    29    0    0
 ------ Tulare(06107)    29    1    0
 ------ Calaveras(06009)    3    0    0
@@ -503,7 +503,7 @@
 ------ Bacon(13005)    1    0    0
 ------ Brooks(13027)    1    0    0
 ------ Candler(13043)    1    0    0
----- TX    2823    37    74
+---- TX    2826    37    74
 ------ Dallas(48113)    488    10    0
 ------ Travis(48453)    200    1    0
 ------ Harris(48201)    526    3    0
@@ -577,7 +577,7 @@
 ------ Waller(48473)    3    0    0
 ------ Robertson(48395)    2    0    0
 ------ Terry(48445)    4    0    0
------- Victoria(48469)    3    0    0
+------ Victoria(48469)    6    0    0
 ------ Hopkins(48223)    1    0    0
 ------ Hunt(48231)    1    0    0
 ------ Llano(48299)    2    0    0
@@ -1069,7 +1069,7 @@
 ------ Washington(37187)    1    0    0
 ------ Currituck(37053)    1    0    0
 ------ Pamlico(37137)    1    0    0
----- MI    5488    134    15
+---- MI    5489    134    15
 ------ Oakland(26125)    1170    34    0
 ------ Wayne(26163)    2704    56    0
 ------ Macomb(26099)    620    20    0
@@ -1131,6 +1131,7 @@
 ------ Dickinson(26043)    1    0    0
 ------ Osceola(26133)    2    0    0
 ------ Cheboygan(26031)    1    0    0
+------ Houghton(26061)    1    0    0
 ---- MN    503    9    252
 ------ Hennepin(27053)    171    5    0
 ------ Ramsey(27123)    46    2    0
@@ -1473,18 +1474,18 @@
 ------ Keokuk(19107)    1    0    0
 ------ Shelby(19165)    1    0    0
 ------ Taylor(19173)    1    0    0
----- KY    439    9    64
------- Jefferson(21111)    103    3    0
------- Fayette(21067)    68    2    0
+---- KY    453    9    64
+------ Jefferson(21111)    116    3    0
+------ Fayette(21067)    82    2    0
 ------ Harrison(21097)    11    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Bourbon(21017)    2    1    0
 ------ Clark(21049)    6    0    0
 ------ Lyon(21143)    1    0    0
 ------ Nelson(21179)    2    0    0
------- Kenton(21117)    18    1    0
+------ Kenton(21117)    19    1    0
 ------ Franklin(21073)    6    0    0
------- Warren(21227)    11    0    0
+------ Warren(21227)    12    0    0
 ------ Daviess(21059)    34    0    0
 ------ Henderson(21101)    3    0    0
 ------ Christian(21047)    36    0    0
@@ -1494,7 +1495,7 @@
 ------ Hardin(21093)    5    1    0
 ------ Oldham(21185)    3    0    0
 ------ Breathitt(21025)    2    0    0
------- Madison(21151)    7    0    0
+------ Madison(21151)    8    0    0
 ------ Menifee(21165)    2    1    0
 ------ Spencer(21215)    2    0    0
 ------ Woodford(21239)    3    0    0
@@ -1505,12 +1506,12 @@
 ------ Campbell(21037)    4    0    0
 ------ Laurel(21125)    2    0    0
 ------ Logan(21141)    2    0    0
------- Scott(21209)    5    0    0
+------ Scott(21209)    6    0    0
 ------ Simpson(21213)    4    0    0
 ------ Webster(21233)    2    0    0
 ------ McCracken(21145)    3    0    0
 ------ Allen(21003)    1    0    0
------- Hopkins(21107)    11    1    0
+------ Hopkins(21107)    17    1    0
 ------ Hancock(21091)    1    0    0
 ------ Bullitt(21029)    3    0    0
 ------ Larue(21123)    1    0    0
@@ -2741,8 +2742,8 @@
 -- Romania    1815    43    206
 -- Pakistan    1597    14    29
 -- Russian Federation    1534    8    64
+-- Thailand    1524    7    229
 -- Philippines    1418    71    42
--- Thailand    1388    7    229
 -- Saudi Arabia    1299    8    66
 -- Indonesia    1285    114    64
 -- South Africa    1280    2    31
@@ -2765,17 +2766,17 @@
 -- Hong Kong    642    4    118
 -- Qatar    634    1    48
 -- Egypt    609    40    132
+-- New Zealand    589    1    63
 -- United Arab Emirates    570    3    58
 -- Iraq    547    42    143
--- New Zealand    514    1    63
 -- Algeria    511    31    65
 -- Bahrain    499    4    272
 -- Morocco    479    26    13
 -- Ukraine    475    10    8
 -- Lithuania    460    7    1
+-- Hungary    447    15    34
 -- Lebanon    438    10    30
 -- Armenia    424    3    30
--- Hungary    408    13    34
 -- Latvia    347    0    1
 -- Bulgaria    346    8    14
 -- Andorra    334    6    1
@@ -2795,7 +2796,7 @@
 -- Cyprus    214    6    15
 -- Albania    212    10    33
 -- Azerbaijan    209    4    15
--- Viet Nam    194    0    25
+-- Viet Nam    194    0    52
 -- Réunion    183    0    1
 -- Oman    167    0    23
 -- Côte d'Ivoire    165    1    4
@@ -2811,18 +2812,18 @@
 -- Sri Lanka    120    1    11
 -- Venezuela, Bolivarian Republic of    119    3    39
 -- Nigeria    111    1    3
+-- Mauritius    110    3    0
 -- Honduras    110    3    3
 -- Palestine    109    1    18
--- Mauritius    107    3    0
 -- Guadeloupe    106    4    17
 -- Cambodia    103    0    21
+-- Bolivia, Plurinational State of    96    1    0
 -- Kosovo    94    1    1
 -- Belarus    94    0    32
 -- Martinique    93    1    0
 -- Georgia    91    0    18
 -- Montenegro    85    1    0
 -- Kyrgyzstan    84    0    0
--- Bolivia, Plurinational State of    81    1    0
 -- Trinidad and Tobago    78    3    1
 -- Rwanda    70    0    0
 -- Congo, Democratic Republic of the    65    6    2
