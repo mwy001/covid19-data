@@ -1,4 +1,4 @@
--- United States of America    143092    2521    4856
+-- United States of America    143121    2521    4865
 ---- NY    59746    966    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -94,7 +94,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    6319    133    51
+---- CA    6345    133    60
 ------ Santa Clara(06085)    646    25    0
 ------ Los Angeles(06037)    2136    37    0
 ------ San Mateo(06081)    277    6    0
@@ -106,7 +106,7 @@
 ------ Alameda(06001)    270    7    0
 ------ Riverside(06065)    233    8    0
 ------ San Joaquin(06077)    121    5    0
------- Santa Cruz(06087)    41    1    0
+------ Santa Cruz(06087)    44    1    0
 ------ Marin(06041)    93    1    0
 ------ Ventura(06111)    109    4    0
 ------ Placer(06061)    53    2    0
@@ -116,8 +116,8 @@
 ------ San Benito(06069)    14    1    0
 ------ Yolo(06113)    16    1    0
 ------ San Bernardino(06071)    111    3    0
------- Stanislaus(06099)    29    0    0
------- Tulare(06107)    29    1    0
+------ Stanislaus(06099)    31    0    0
+------ Tulare(06107)    35    1    0
 ------ Calaveras(06009)    3    0    0
 ------ Fresno(06019)    43    0    0
 ------ Imperial(06025)    25    0    0
@@ -126,16 +126,16 @@
 ------ Amador(06005)    2    0    0
 ------ Humboldt(06023)    18    0    0
 ------ Kern(06029)    51    1    0
------- Madera(06039)    15    1    0
------- Nevada(06057)    12    0    0
+------ Madera(06039)    18    1    0
+------ Nevada(06057)    17    0    0
 ------ Shasta(06089)    4    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    13    0    0
 ------ Butte(06007)    5    0    0
 ------ El Dorado(06017)    12    0    0
------- Yuba(06115)    3    0    0
------- Napa(06055)    10    0    0
+------ Yuba(06115)    4    0    0
+------ Napa(06055)    14    0    0
 ------ Merced(06047)    9    0    0
 ------ Inyo(06027)    8    0    0
 ------ Sutter(06101)    6    0    0
@@ -1830,7 +1830,7 @@
 ------ New Castle(10003)    141    3    0
 ------ Sussex(10005)    66    1    0
 ------ Kent(10001)    25    3    0
----- MO    923    18    6
+---- MO    926    18    6
 ------ Greene(29077)    46    4    0
 ------ Cass(29037)    8    0    0
 ------ Boone(29019)    54    1    0
@@ -1841,7 +1841,7 @@
 ------ St Charles(29183)    43    2    0
 ------ St Louis City(29510)    336    2    0
 ------ Christian(29043)    7    1    0
------- Pulaski(29169)    5    1    0
+------ Pulaski(29169)    7    1    0
 ------ Scott(29201)    3    0    0
 ------ Dunklin(29069)    3    1    0
 ------ Jasper(29097)    6    1    0
@@ -1885,6 +1885,7 @@
 ------ Ripley(29181)    2    0    0
 ------ Warren(29219)    2    0    0
 ------ Maries(29125)    1    0    0
+------ Crawford(29055)    1    0    0
 ---- HI    175    1    49
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
@@ -2658,7 +2659,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Turkey    9217    131    105
--- Austria    8788    86    479
+-- Austria    8813    86    479
 -- Canada    6320    65    573
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
@@ -2780,14 +2781,14 @@
 -- Armenia    424    3    30
 -- Bulgaria    354    8    15
 -- Latvia    347    0    1
--- Andorra    334    6    1
--- Bosnia and Herzegovina    323    6    8
+-- Bosnia and Herzegovina    340    6    8
+-- Andorra    334    6    6
 -- Slovakia    314    1    7
 -- Costa Rica    314    2    3
 -- Tunisia    312    8    2
 -- Uruguay    304    1    0
 -- Taiwan    298    3    39
--- Kazakhstan    284    3    20
+-- Kazakhstan    293    3    20
 -- Moldova, Republic of    263    2    2
 -- Jordan    259    3    18
 -- North Macedonia    259    6    3
@@ -2818,11 +2819,11 @@
 -- Palestine    109    1    18
 -- Guadeloupe    106    4    17
 -- Cambodia    103    0    21
+-- Georgia    97    0    18
 -- Bolivia, Plurinational State of    96    1    0
 -- Kosovo    94    1    1
 -- Belarus    94    0    32
 -- Martinique    93    1    0
--- Georgia    91    0    18
 -- Montenegro    85    1    0
 -- Kyrgyzstan    84    0    0
 -- Trinidad and Tobago    78    3    1
