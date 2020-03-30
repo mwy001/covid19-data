@@ -1,4 +1,4 @@
--- United States of America    160281    2961    5595
+-- United States of America    160281    2963    5595
 ---- NY    66497    1218    4269
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -34,7 +34,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    18    0    0
 ------ Washington(36115)    9    0    0
------- New York(36061)    36221    790    0
+------ New York(36061)    36809    790    0
 ------ Niagara(36063)    38    0    0
 ------ Schoharie(36095)    5    0    0
 ------ Fulton(36035)    1    0    0
@@ -2729,7 +2729,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Austria    9597    108    636
--- Canada    7310    67    1014
+-- Canada    7427    84    1093
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
 ---- Alberta    661    3    0
@@ -2764,10 +2764,10 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    2449    8    156
+-- Romania    2109    65    209
 -- Poland    2055    31    13
 -- Luxembourg    1988    22    40
 -- Ecuador    1962    60    3
--- Romania    1952    65    209
 -- Japan    1866    54    424
 ---- Hokkaido    176    7    100
 ---- kochi    15    0    0
@@ -2820,7 +2820,7 @@
 -- Indonesia    1414    122    75
 -- Finland    1352    13    10
 -- South Africa    1326    3    31
--- India    1251    32    100
+-- India    1251    32    102
 -- Greece    1212    43    52
 -- Iceland    1086    5    157
 -- Mexico    993    20    35
@@ -2842,11 +2842,11 @@
 -- United Arab Emirates    611    5    61
 -- New Zealand    589    1    63
 -- Algeria    584    35    65
+-- Ukraine    548    13    8
 -- Morocco    534    33    14
 -- Bahrain    515    4    279
 -- Lithuania    491    7    7
 -- Armenia    482    3    30
--- Ukraine    480    11    8
 -- Hungary    447    15    34
 -- Lebanon    446    11    35
 -- Latvia    376    0    1
@@ -2854,7 +2854,7 @@
 -- Bosnia and Herzegovina    358    9    17
 -- Slovakia    336    1    7
 -- Andorra    334    6    6
--- Costa Rica    314    2    3
+-- Costa Rica    330    2    4
 -- Tunisia    312    8    2
 -- Uruguay    310    1    0
 -- Taiwan    306    5    39
@@ -2882,12 +2882,12 @@
 -- Uzbekistan    149    2    7
 -- Honduras    139    3    3
 -- Cameroon    139    6    5
--- Venezuela, Bolivarian Republic of    129    3    39
+-- Venezuela, Bolivarian Republic of    135    3    39
+-- Nigeria    131    2    8
 -- Mauritius    128    3    0
 -- Brunei Darussalam    127    1    38
 -- Sri Lanka    122    2    15
 -- Palestine    116    1    18
--- Nigeria    111    2    3
 -- Cambodia    107    0    21
 -- Guadeloupe    106    4    17
 -- Georgia    103    0    20
