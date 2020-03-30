@@ -2074,7 +2074,7 @@
 ---- Cantabria    1023    26    25
 ---- Castile and León    5414    380    752
 ---- Castile-La Mancha    5246    539    236
----- Catalonia    15026    1226    3455
+---- Catalonia    16175    1410    3455
 ---- Community of Madrid    22677    3082    7491
 ---- Comunidad Foral de Navarra    2011    84    125
 ---- Extremadura    1456    100    51
@@ -2550,50 +2550,23 @@
 ------ 海北州    3    0    3
 ---- 台湾    298    3    39
 -- Germany    62435    541    9211
----- Saxony    1700    9    17
----- Mecklenburg-Vorpommern    348    1    11
+---- Saxony    1816    10    32
+---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
----- Berlin    2360    9    645
----- Brandenburg    747    4    42
----- Thuringia    702    5    80
----- Schleswig-Holstein    1007    6    11
----- Lower Saxony    3483    21    372
----- Bremen    278    2    53
----- Hamburg    1935    4    1
----- Rhineland-Palatinate    2545    18    50
+---- Berlin    2464    11    845
+---- Brandenburg    833    4    63
+---- Thuringia    749    5    129
+---- Schleswig-Holstein    1049    7    28
+---- Lower Saxony    3786    27    525
+---- Bremen    290    2    53
+---- Hamburg    2078    5    1
+---- Rhineland-Palatinate    2584    18    99
 ---- North Rhine-Westphalia    13630    110    2084
----- Hesse    2776    10    149
+---- Hesse    3091    13    196
 ---- Baden-Württemberg    11536    128    1058
----- Saxony-Anhalt    594    2    22
----- Saarland    669    6    36
--- France    40708    2611    7226
----- France    7652    148    12
----- St Martin    11    0    0
----- Saint Barthelemy    5    0    0
----- Nord-Pas-de-Calais and Picardy    1753    7    4
----- Ile-de-France    7660    2    2
----- Alsace–Champagne-Ardenne–Lorraine    5479    0    0
----- Normandy    688    1    0
----- Brittany    603    1    6
----- Pays de la Loire    368    0    0
----- Centre-Val de Loire    561    0    0
----- Bourgogne-Franche-Comté    1569    0    0
----- Aquitaine-Limousin-Poitou-Charentes    912    0    0
----- Auvergne-Rhône-Alpes    2093    0    0
----- Languedoc-Roussillon-Midi-Pyrénées    1082    0    0
----- Provence-Alpes-Côte d'Azur    1927    0    0
----- Corsica    225    0    0
----- Martinique    93    1    0
----- French Guiana    28    0    6
----- Réunion    135    0    0
----- Guadeloupe    106    4    17
----- French Polynesia    30    0    0
----- Fench Guiana    5    0    0
----- Mayotte    63    0    0
----- Reunion    183    0    1
----- SCGF0594    28    0    0
----- New Caledonia    15    0    0
--- Iran, Islamic Republic of    38309    2640    12391
+---- Saxony-Anhalt    635    2    22
+---- Saarland    726    7    47
+-- Iran, Islamic Republic of    41495    2757    13911
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2625,6 +2598,33 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
+-- France    40708    2611    7226
+---- France    7652    148    12
+---- St Martin    11    0    0
+---- Saint Barthelemy    5    0    0
+---- Nord-Pas-de-Calais and Picardy    1753    7    4
+---- Ile-de-France    7660    2    2
+---- Alsace–Champagne-Ardenne–Lorraine    5479    0    0
+---- Normandy    688    1    0
+---- Brittany    603    1    6
+---- Pays de la Loire    368    0    0
+---- Centre-Val de Loire    561    0    0
+---- Bourgogne-Franche-Comté    1569    0    0
+---- Aquitaine-Limousin-Poitou-Charentes    912    0    0
+---- Auvergne-Rhône-Alpes    2093    0    0
+---- Languedoc-Roussillon-Midi-Pyrénées    1082    0    0
+---- Provence-Alpes-Côte d'Azur    1927    0    0
+---- Corsica    225    0    0
+---- Martinique    93    1    0
+---- French Guiana    28    0    6
+---- Réunion    135    0    0
+---- Guadeloupe    106    4    17
+---- French Polynesia    30    0    0
+---- Fench Guiana    5    0    0
+---- Mayotte    63    0    0
+---- Reunion    183    0    1
+---- SCGF0594    28    0    0
+---- New Caledonia    15    0    0
 -- United Kingdom of Great Britain and Northern Ireland    19780    1235    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
@@ -2636,10 +2636,10 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    15069    312    1823
+-- Belgium    11899    513    1527
 -- Netherlands    10930    772    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Belgium    10836    431    1359
 -- Korea, Republic of    9661    158    5228
 ---- Busan    118    3    87
 ---- Chungcheongbuk-do    44    0    21
@@ -2660,11 +2660,11 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Turkey    9217    131    105
--- Austria    8958    86    479
+-- Austria    9103    86    479
 -- Canada    6320    65    573
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
----- Alberta    621    2    0
+---- Alberta    661    3    0
 ---- Quebec    2840    22    0
 ---- New Brunswick    66    0    0
 ---- Manitoba    72    1    0
@@ -2676,8 +2676,8 @@
 ---- Yukon    4    0    0
 ---- Nunavut    1    0    0
 -- Portugal    5962    119    43
--- Israel    4347    15    134
--- Norway    4305    26    7
+-- Israel    4347    16    134
+-- Norway    4313    29    7
 -- Brazil    4256    136    6
 -- Australia    4245    18    244
 ---- New South Wales    1791    8    4
@@ -2696,6 +2696,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    2139    7    75
+-- Romania    1952    44    206
 -- Luxembourg    1950    21    40
 -- Ecuador    1924    58    3
 -- Poland    1905    26    13
@@ -2743,13 +2744,12 @@
 ---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
 -- Russian Federation    1836    9    66
--- Romania    1815    44    206
 -- Pakistan    1625    18    29
 -- Philippines    1546    78    42
--- Thailand    1524    7    229
+-- Thailand    1524    9    229
 -- Indonesia    1414    122    75
+-- Finland    1343    11    10
 -- Saudi Arabia    1299    8    66
--- Finland    1286    11    10
 -- South Africa    1280    2    31
 -- Greece    1156    39    52
 -- India    1071    29    100
@@ -2762,7 +2762,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Argentina    820    20    91
 -- Slovenia    756    11    10
--- Serbia    741    13    42
+-- Serbia    741    14    42
 -- Estonia    715    3    20
 -- Croatia    713    6    55
 -- Colombia    702    10    10
@@ -2803,11 +2803,11 @@
 -- Réunion    183    0    1
 -- Oman    167    0    23
 -- Côte d'Ivoire    165    1    4
+-- Senegal    162    0    27
 -- Faroe Islands    159    0    70
 -- Ghana    152    5    8
 -- Malta    151    0    2
 -- Uzbekistan    144    2    7
--- Senegal    142    0    27
 -- Cuba    139    3    4
 -- Honduras    139    3    3
 -- Cameroon    139    6    5
@@ -2857,7 +2857,7 @@
 -- Bermuda    22    0    2
 -- Congo    19    0    0
 -- Mali    18    1    0
--- Niger    18    1    0
+-- Niger    18    3    0
 -- Djibouti    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Maldives    17    0    13
