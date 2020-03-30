@@ -1,4 +1,4 @@
--- United States of America    144731    2581    4865
+-- United States of America    144814    2585    4865
 ---- NY    60679    1026    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
@@ -1291,7 +1291,7 @@
 ------ Madison(01089)    80    1    0
 ------ Calhoun(01015)    3    0    0
 ------ St Clair(01115)    13    0    0
------- Chambers(01017)    27    3    0
+------ Chambers(01017)    28    3    0
 ------ Talladega(01121)    4    0    0
 ------ Walker(01127)    30    0    0
 ------ Mobile(01097)    43    1    0
@@ -1352,7 +1352,7 @@
 ------ Somerset(23025)    1    0    0
 ---- DC    401    9    106
 ------ District of Columbia(11001)    401    9    0
----- IN    1786    35    0
+---- IN    1786    36    0
 ------ Marion(18097)    804    12    0
 ------ Hendricks(18063)    58    2    0
 ------ Johnson(18081)    81    3    0
@@ -1834,10 +1834,10 @@
 ------ Lamoille(50015)    12    0    0
 ------ Caledonia(50005)    2    0    0
 ------ Orleans(50019)    5    0    0
----- DE    232    7    9
------- New Castle(10003)    141    3    0
------- Sussex(10005)    66    1    0
------- Kent(10001)    25    3    0
+---- DE    264    7    9
+------ New Castle(10003)    156    3    0
+------ Sussex(10005)    81    1    0
+------ Kent(10001)    27    3    0
 ---- MO    926    18    6
 ------ Greene(29077)    46    4    0
 ------ Cass(29037)    8    0    0
@@ -1970,7 +1970,7 @@
 ------ Park(30067)    2    0    0
 ------ Lake(30047)    3    0    0
 ------ Deer Lodge(30023)    2    0    0
----- ID    324    6    0
+---- ID    325    6    0
 ------ Ada(16001)    113    2    0
 ------ Blaine(16013)    115    2    0
 ------ Madison(16065)    2    0    0
@@ -2632,7 +2632,7 @@
 ---- Reunion    183    0    1
 ---- SCGF0594    28    0    0
 ---- New Caledonia    15    0    0
--- United Kingdom of Great Britain and Northern Ireland    19780    1415    151
+-- United Kingdom of Great Britain and Northern Ireland    22141    1415    151
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2666,7 +2666,7 @@
 ---- Seoul    426    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    9377    108    636
+-- Austria    9454    108    636
 -- Turkey    9217    131    105
 -- Canada    6671    67    1014
 ---- British Columbia    884    17    183
@@ -2683,9 +2683,9 @@
 ---- Yukon    4    0    0
 ---- Nunavut    1    0    0
 -- Portugal    6408    140    43
--- Norway    4393    31    12
+-- Norway    4436    32    12
+-- Brazil    4362    141    120
 -- Israel    4347    16    134
--- Brazil    4330    140    120
 -- Australia    4245    18    244
 ---- New South Wales    1791    8    4
 ---- Victoria    769    4    191
@@ -2699,7 +2699,7 @@
 -- Czechia    2896    17    11
 -- Malaysia    2626    37    479
 -- Ireland    2615    46    5
--- Denmark    2564    77    73
+-- Denmark    2577    77    73
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    2449    8    156
@@ -2760,8 +2760,8 @@
 -- Finland    1352    13    10
 -- South Africa    1280    2    31
 -- Greece    1212    43    52
+-- Iceland    1086    5    157
 -- India    1071    29    100
--- Iceland    1020    5    135
 -- Mexico    993    20    35
 -- Panama    989    24    4
 -- Dominican Republic    901    42    4
@@ -2790,18 +2790,18 @@
 -- Lebanon    446    11    35
 -- Latvia    376    0    1
 -- Bulgaria    359    8    17
--- Bosnia and Herzegovina    354    8    17
+-- Bosnia and Herzegovina    358    9    17
 -- Slovakia    336    1    7
 -- Andorra    334    6    6
 -- Costa Rica    314    2    3
 -- Tunisia    312    8    2
+-- Uruguay    310    1    0
 -- Taiwan    306    5    39
--- Uruguay    304    1    0
 -- Kazakhstan    302    3    21
+-- Moldova, Republic of    298    2    15
 -- North Macedonia    285    7    12
 -- Azerbaijan    273    4    26
 -- Kuwait    266    0    72
--- Moldova, Republic of    263    2    13
 -- Jordan    259    4    18
 -- Cyprus    230    7    15
 -- San Marino    230    25    13
@@ -2810,6 +2810,7 @@
 -- Viet Nam    203    0    55
 -- Réunion    183    0    1
 -- Oman    179    0    29
+-- Cuba    170    4    4
 -- Faroe Islands    168    0    70
 -- Côte d'Ivoire    165    1    4
 -- Senegal    162    0    27
@@ -2818,7 +2819,6 @@
 -- Belarus    152    0    32
 -- Uzbekistan    149    2    7
 -- Afghanistan    145    4    2
--- Cuba    139    3    4
 -- Honduras    139    3    3
 -- Cameroon    139    6    5
 -- Venezuela, Bolivarian Republic of    129    3    39
@@ -2831,7 +2831,7 @@
 -- Guadeloupe    106    4    17
 -- Georgia    100    0    18
 -- Bolivia, Plurinational State of    97    4    0
--- Kyrgyzstan    94    0    0
+-- Kyrgyzstan    94    0    3
 -- Kosovo    94    1    1
 -- Martinique    93    1    0
 -- Montenegro    91    1    0
@@ -2865,12 +2865,12 @@
 -- Guyana    23    1    0
 -- Niger    22    3    0
 -- Bermuda    22    0    2
+-- Guinea    22    0    0
 -- Tanzania, United Republic of    19    0    1
 -- Congo    19    0    0
 -- Djibouti    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Maldives    17    0    13
--- Guinea    16    0    0
 -- Haiti    15    0    1
 -- New Caledonia    15    0    0
 -- Saint Martin (French part)    15    1    2
@@ -2901,13 +2901,13 @@
 -- Antigua and Barbuda    7    0    0
 -- Cabo Verde    6    1    0
 -- Benin    6    0    0
+-- Saint Barthélemy    6    0    1
 -- Sudan    6    2    0
 -- Holy See    6    0    0
 -- Turks and Caicos Islands    5    0    0
 -- Chad    5    0    0
 -- Fiji    5    0    0
 -- Montserrat    5    0    0
--- Saint Barthélemy    5    0    0
 -- Mauritania    5    0    2
 -- Nepal    5    0    1
 -- Nicaragua    4    1    0
