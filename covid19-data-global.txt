@@ -1,5 +1,5 @@
--- United States of America    161123    2963    5599
----- NY    66663    1218    4269
+-- United States of America    161599    2982    5644
+---- NY    66663    1218    4309
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    39    0
 ------ Suffolk(36103)    5791    40    0
@@ -94,15 +94,15 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    6528    135    60
+---- CA    6895    142    60
 ------ Santa Clara(06085)    646    25    0
------- Los Angeles(06037)    2147    37    0
+------ Los Angeles(06037)    2481    44    0
 ------ San Mateo(06081)    309    6    0
 ------ San Diego(06073)    519    7    0
 ------ San Francisco(06075)    374    6    0
 ------ Sacramento(06067)    224    7    0
 ------ Contra Costa(06013)    187    3    0
------- Orange(06059)    431    4    0
+------ Orange(06059)    464    4    0
 ------ Alameda(06001)    283    7    0
 ------ Riverside(06065)    233    8    0
 ------ San Joaquin(06077)    123    6    0
@@ -516,11 +516,11 @@
 ------ McIntosh(13191)    1    0    0
 ------ Schley(13249)    1    0    0
 ------ Warren(13301)    1    0    0
----- TX    3157    44    107
+---- TX    3157    45    107
 ------ Dallas(48113)    549    11    0
 ------ Travis(48453)    206    2    0
 ------ Harris(48201)    526    3    0
------- Bexar(48029)    157    5    0
+------ Bexar(48029)    157    6    0
 ------ Fort Bend(48157)    119    1    0
 ------ Collin(48085)    134    1    0
 ------ Tarrant(48439)    238    1    0
@@ -826,11 +826,11 @@
 ------ Obion(47131)    1    0    0
 ------ McNairy(47109)    1    0    0
 ------ Giles(47055)    1    0    0
----- CT    2571    34    0
+---- CT    2571    36    0
 ------ Fairfield(09001)    1445    21    0
 ------ New Haven(09009)    373    6    0
------- Hartford(09003)    330    2    0
------- Litchfield(09005)    113    0    0
+------ Hartford(09003)    330    3    0
+------ Litchfield(09005)    113    1    0
 ------ Middlesex(09007)    50    1    0
 ------ Tolland(09013)    50    4    0
 ------ Windham(09015)    10    0    0
@@ -1015,7 +1015,7 @@
 ------ Henry(51089)    1    0    0
 ------ King William(51101)    1    0    0
 ------ Smyth(51173)    1    0    0
----- NC    1310    7    0
+---- NC    1313    7    5
 ------ Wake(37183)    166    0    0
 ------ Durham(37063)    117    0    0
 ------ Mecklenburg(37119)    382    1    0
@@ -1581,7 +1581,7 @@
 ------ Union(21225)    1    0    0
 ------ Wayne(21231)    1    0    0
 ------ McCreary(21147)    1    0    0
----- NH    258    3    0
+---- NH    314    3    0
 ------ Rockingham(33015)    100    1    0
 ------ Grafton(33009)    29    0    0
 ------ Hillsborough(33011)    69    2    0
@@ -1632,7 +1632,7 @@
 ------ Rio Arriba(35039)    3    0    0
 ------ Roosevelt(35041)    1    0    0
 ------ Valencia(35061)    2    0    0
----- RI    408    3    0
+---- RI    408    4    0
 ------ Providence(44007)    156    0    0
 ------ Washington(44009)    24    0    0
 ------ Newport(44005)    19    0    0
@@ -1951,15 +1951,15 @@
 ------ Osage(29151)    1    0    0
 ------ Stone(29209)    1    0    0
 ------ Webster(29225)    1    0    0
----- HI    175    1    49
+---- HI    204    1    49
 ------ Honolulu(15003)    10    0    0
 ------ Maui(15009)    3    0    0
 ------ Kauai(15007)    2    0    0
 ------ Hawaii(15001)    1    0    0
------- Hawaii in Hawaii(15001)    12    0    0
------- Oahu in Honolulu(15003)    123    1    0
+------ Hawaii in Hawaii(15001)    15    0    0
+------ Oahu in Honolulu(15003)    139    1    0
 ------ Niihau in Kauai(15007)    12    0    0
------- Kahoolawe in Maui(15009)    20    0    0
+------ Kahoolawe in Maui(15009)    25    0    0
 ---- SD    101    1    8
 ------ Minnehaha(46099)    25    0    0
 ------ Beadle(46005)    20    0    0
@@ -2008,9 +2008,9 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    1    0    0
 ------ Sublette(56035)    1    0    0
----- MT    171    5    0
+---- MT    174    5    0
 ------ Missoula(30063)    12    0    0
------- Yellowstone(30111)    26    0    0
+------ Yellowstone(30111)    28    0    0
 ------ Broadwater(30007)    3    0    0
 ------ Gallatin(30031)    67    0    0
 ------ Silver Bow(30093)    9    0    0
@@ -2026,10 +2026,10 @@
 ------ Lincoln(30053)    4    1    0
 ------ Meagher(30059)    1    0    0
 ------ Toole(30101)    6    2    0
------- Park(30067)    2    0    0
+------ Park(30067)    3    0    0
 ------ Lake(30047)    3    0    0
 ------ Deer Lodge(30023)    2    0    0
----- ID    325    6    0
+---- ID    340    6    0
 ------ Ada(16001)    113    2    0
 ------ Blaine(16013)    115    2    0
 ------ Madison(16065)    2    0    0
@@ -2080,32 +2080,34 @@
 ------ Juneau(02110)    5    0    0
 ------ Kenai Peninsula(02122)    7    0    0
 ------ Matanuska-Susitna(02170)    2    0    0
----- WV    124    1    0
------- Jefferson(54037)    5    0    0
+---- WV    145    1    0
+------ Jefferson(54037)    6    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
------- Monongalia(54061)    30    0    0
+------ Monongalia(54061)    31    0    0
 ------ Jackson(54035)    8    0    0
------- Kanawha(54039)    19    0    0
+------ Kanawha(54039)    23    0    0
 ------ Marshall(54051)    68    0    0
------- Putnam(54079)    3    0    0
------- Harrison(54033)    7    0    0
------- Berkeley(54003)    10    0    0
+------ Putnam(54079)    4    0    0
+------ Harrison(54033)    10    0    0
+------ Berkeley(54003)    14    0    0
 ------ Preston(54077)    2    0    0
 ------ Wood(54107)    2    0    0
 ------ Hancock(54029)    3    0    0
------- Logan(54045)    1    0    0
+------ Logan(54045)    2    0    0
 ------ Marion(54049)    5    1    0
------- Ohio(54069)    7    0    0
+------ Ohio(54069)    9    0    0
 ------ Raleigh(54081)    4    0    0
 ------ Mason(54053)    3    0    0
 ------ Upshur(54097)    1    0    0
------- Greenbrier(54025)    2    0    0
+------ Greenbrier(54025)    3    0    0
 ------ Pleasants(54073)    1    0    0
 ------ Cabell(54011)    1    0    0
 ------ Morgan(54065)    1    0    0
 ------ Wetzel(54103)    1    0    0
 ------ Wirt(54105)    1    0    0
+------ Roane(54087)    2    0    0
+------ Randolph(54083)    1    0    0
 ---- GU    58    1    7
 ------ Guam(66010)    55    1    0
 ---- PR    174    6    0
@@ -2617,7 +2619,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    306    5    39
--- Germany    66711    645    13500
+-- Germany    66885    645    13500
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
@@ -2729,7 +2731,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Austria    9597    108    636
--- Canada    7427    84    1093
+-- Canada    7427    86    1093
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
 ---- Alberta    661    3    0
@@ -2825,7 +2827,7 @@
 -- Iceland    1086    5    157
 -- Mexico    993    20    35
 -- Panama    989    24    4
--- Peru    950    18    16
+-- Peru    950    24    53
 -- Dominican Republic    901    42    4
 -- Singapore    879    3    228
 ---- Central Singapore Community Development Council    345    0    124
@@ -2850,10 +2852,10 @@
 -- Hungary    447    15    34
 -- Lebanon    446    11    35
 -- Latvia    376    0    1
+-- Andorra    370    8    10
+-- Bosnia and Herzegovina    368    10    17
 -- Bulgaria    359    8    17
--- Bosnia and Herzegovina    358    9    17
 -- Slovakia    336    1    7
--- Andorra    334    6    6
 -- Costa Rica    330    2    4
 -- Tunisia    312    8    2
 -- Uruguay    310    1    0
@@ -2913,19 +2915,19 @@
 -- Puerto Rico    39    2    1
 -- Macao    38    0    10
 -- Guatemala    36    1    10
+-- French Polynesia    36    0    0
 -- Jamaica    36    1    2
 -- Zambia    35    0    0
--- French Polynesia    35    0    0
 -- Uganda    33    0    0
 -- Barbados    33    0    0
 -- Guam    33    1    0
 -- El Salvador    30    0    0
 -- Togo    30    1    1
+-- Niger    27    3    0
 -- Bermuda    27    0    2
 -- Mali    25    2    0
 -- Ethiopia    23    0    4
 -- Guyana    23    1    0
--- Niger    22    3    0
 -- Guinea    22    0    0
 -- Tanzania, United Republic of    19    0    1
 -- Congo    19    0    0
@@ -2944,8 +2946,8 @@
 -- Dominica    11    0    0
 -- Curaçao    11    1    2
 -- Namibia    11    0    2
+-- Syrian Arab Republic    10    2    0
 -- Greenland    10    0    2
--- Syrian Arab Republic    9    2    0
 -- Grenada    9    0    0
 -- Eswatini    9    0    0
 -- Saint Lucia    9    0    1
