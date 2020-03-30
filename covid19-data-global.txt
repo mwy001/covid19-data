@@ -2659,7 +2659,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Turkey    9217    131    105
--- Austria    8813    86    479
+-- Austria    8867    86    479
 -- Canada    6320    65    573
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
@@ -2675,9 +2675,9 @@
 ---- Yukon    4    0    0
 ---- Nunavut    1    0    0
 -- Portugal    5962    119    43
--- Norway    4284    26    7
+-- Israel    4347    15    132
+-- Norway    4305    26    7
 -- Brazil    4256    136    6
--- Israel    4247    15    132
 -- Australia    4163    18    244
 ---- New South Wales    1791    8    4
 ---- Victoria    769    4    191
@@ -2697,6 +2697,7 @@
 -- Chile    2139    7    75
 -- Luxembourg    1950    21    40
 -- Ecuador    1924    58    3
+-- Poland    1905    26    13
 -- Japan    1866    54    424
 ---- Hokkaido    176    7    100
 ---- kochi    14    0    0
@@ -2740,7 +2741,6 @@
 ---- Okayama    3    0    0
 ---- Aomori    7    0    0
 ---- Kagoshima    1    0    0
--- Poland    1862    22    13
 -- Romania    1815    43    206
 -- Pakistan    1625    18    29
 -- Russian Federation    1534    8    64
@@ -2772,10 +2772,10 @@
 -- United Arab Emirates    570    3    58
 -- Iraq    547    42    143
 -- Algeria    511    31    65
--- Bahrain    499    4    272
+-- Bahrain    500    4    272
+-- Lithuania    484    7    1
 -- Morocco    479    26    13
 -- Ukraine    475    10    8
--- Lithuania    460    7    1
 -- Hungary    447    15    34
 -- Lebanon    438    10    30
 -- Armenia    424    3    30
@@ -2789,7 +2789,7 @@
 -- Uruguay    304    1    0
 -- Taiwan    298    3    39
 -- Kazakhstan    293    3    20
--- Moldova, Republic of    263    2    2
+-- Moldova, Republic of    263    2    13
 -- Jordan    259    3    18
 -- North Macedonia    259    6    3
 -- Kuwait    255    0    67
@@ -2824,7 +2824,7 @@
 -- Kosovo    94    1    1
 -- Belarus    94    0    32
 -- Martinique    93    1    0
--- Montenegro    85    1    0
+-- Montenegro    91    1    0
 -- Kyrgyzstan    84    0    0
 -- Trinidad and Tobago    78    3    1
 -- Rwanda    70    0    0
@@ -2834,7 +2834,7 @@
 -- Mayotte    63    0    0
 -- Liechtenstein    56    0    0
 -- Aruba    50    0    1
--- Bangladesh    48    5    15
+-- Bangladesh    49    5    19
 -- Monaco    46    1    1
 -- French Guiana    43    0    6
 -- Isle of Man    42    0    0
