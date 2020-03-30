@@ -1069,6 +1069,7 @@
 ------ Washington(37187)    1    0    0
 ------ Currituck(37053)    1    0    0
 ------ Pamlico(37137)    1    0    0
+------ Bladen(37017)    1    0    0
 ---- MI    5489    134    15
 ------ Oakland(26125)    1170    34    0
 ------ Wayne(26163)    2704    56    0
@@ -1924,7 +1925,7 @@
 ------ Clark(46025)    1    0    0
 ------ Clay(46027)    2    0    0
 ------ Fall River(46047)    1    0    0
----- WY    87    0    0
+---- WY    87    -1    0
 ------ Fremont(56013)    23    0    0
 ------ Sheridan(56033)    6    0    0
 ------ Laramie(56021)    19    0    0
@@ -2064,7 +2065,7 @@
 ---- Liguria    3076    377    420
 ---- Veneto    8358    392    715
 ---- Bolzano    1214    64    116
--- China    82451    3311    75937
+-- China    82451    3311    75944
 ---- 天津    169    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -2113,7 +2114,7 @@
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
 ---- 香港    641    4    118
----- 上海    498    5    334
+---- 上海    498    5    338
 ------ 境外输入    112    0    4
 ------ 宝山区    22    1    19
 ------ 徐汇区    18    1    17
@@ -2131,7 +2132,7 @@
 ------ 青浦区    6    0    6
 ------ 金山区    4    0    4
 ------ 崇明区    4    0    4
----- 北京    577    8    412
+---- 北京    577    8    415
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
 ------ 西城区    53    0    0
@@ -2675,7 +2676,7 @@
 ---- Yukon    4    0    0
 ---- Nunavut    1    0    0
 -- Portugal    5962    119    43
--- Israel    4347    15    132
+-- Israel    4347    15    134
 -- Norway    4305    26    7
 -- Brazil    4256    136    6
 -- Australia    4163    18    244
@@ -2688,7 +2689,7 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    77    0    2
 -- Sweden    3700    110    16
--- Czechia    2817    16    11
+-- Czechia    2837    17    11
 -- Ireland    2615    46    5
 -- Denmark    2564    72    73
 ---- Denmark    977    4    1
@@ -2762,25 +2763,25 @@
 -- Argentina    820    20    91
 -- Serbia    741    13    42
 -- Slovenia    730    11    10
+-- Estonia    715    3    20
 -- Croatia    713    6    55
 -- Colombia    702    10    10
--- Estonia    679    3    20
 -- Hong Kong    642    4    118
 -- Qatar    634    1    48
 -- Egypt    609    40    132
 -- New Zealand    589    1    63
 -- United Arab Emirates    570    3    58
 -- Iraq    547    42    143
+-- Morocco    516    27    13
+-- Bahrain    515    4    279
 -- Algeria    511    31    65
--- Bahrain    500    4    272
 -- Lithuania    484    7    1
--- Morocco    479    26    13
 -- Ukraine    475    10    8
 -- Hungary    447    15    34
 -- Lebanon    438    10    30
 -- Armenia    424    3    30
+-- Latvia    376    0    1
 -- Bulgaria    354    8    15
--- Latvia    347    0    1
 -- Bosnia and Herzegovina    340    6    8
 -- Andorra    334    6    6
 -- Slovakia    314    1    7
@@ -2819,7 +2820,7 @@
 -- Palestine    109    1    18
 -- Guadeloupe    106    4    17
 -- Cambodia    103    0    21
--- Georgia    97    0    18
+-- Georgia    98    0    18
 -- Bolivia, Plurinational State of    96    1    0
 -- Kosovo    94    1    1
 -- Belarus    94    0    32
