@@ -2552,7 +2552,7 @@
 -- Germany    62435    541    9211
 ---- Saxony    1700    9    17
 ---- Mecklenburg-Vorpommern    348    1    11
----- Free State of Bavaria    12881    107    276
+---- Free State of Bavaria    13989    127    637
 ---- Berlin    2360    9    645
 ---- Brandenburg    747    4    42
 ---- Thuringia    702    5    80
@@ -2561,9 +2561,9 @@
 ---- Bremen    278    2    53
 ---- Hamburg    1935    4    1
 ---- Rhineland-Palatinate    2545    18    50
----- North Rhine-Westphalia    13630    110    1464
+---- North Rhine-Westphalia    13630    110    2084
 ---- Hesse    2776    10    149
----- Baden-Württemberg    10819    118    552
+---- Baden-Württemberg    11536    128    1058
 ---- Saxony-Anhalt    594    2    22
 ---- Saarland    669    6    36
 -- France    40708    2611    7226
@@ -2660,7 +2660,7 @@
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
 -- Turkey    9217    131    105
--- Austria    8867    86    479
+-- Austria    8958    86    479
 -- Canada    6320    65    573
 ---- British Columbia    884    17    183
 ---- Ontario    1355    23    8
@@ -2748,9 +2748,9 @@
 -- Thailand    1524    7    229
 -- Philippines    1418    71    42
 -- Saudi Arabia    1299    8    66
+-- Finland    1286    11    10
 -- Indonesia    1285    114    64
 -- South Africa    1280    2    31
--- Finland    1240    11    10
 -- Greece    1156    39    52
 -- India    1071    29    100
 -- Iceland    1020    5    135
