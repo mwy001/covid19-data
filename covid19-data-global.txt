@@ -1,5 +1,5 @@
--- United States of America    143121    2547    4865
----- NY    59746    1026    3637
+-- United States of America    144081    2578    4865
+---- NY    60679    1026    3637
 ------ Westchester(36119)    8519    10    0
 ------ Nassau(36059)    6445    39    0
 ------ Suffolk(36103)    5023    40    0
@@ -94,9 +94,9 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    6345    133    60
+---- CA    6356    133    60
 ------ Santa Clara(06085)    646    25    0
------- Los Angeles(06037)    2136    37    0
+------ Los Angeles(06037)    2147    37    0
 ------ San Mateo(06081)    277    6    0
 ------ San Diego(06073)    515    7    0
 ------ San Francisco(06075)    340    5    0
@@ -503,7 +503,7 @@
 ------ Bacon(13005)    1    0    0
 ------ Brooks(13027)    1    0    0
 ------ Candler(13043)    1    0    0
----- TX    2826    37    74
+---- TX    2827    37    74
 ------ Dallas(48113)    488    10    0
 ------ Travis(48453)    200    1    0
 ------ Harris(48201)    526    3    0
@@ -629,6 +629,7 @@
 ------ Hill(48217)    1    0    0
 ------ Henderson(48213)    1    0    0
 ------ Franklin(48159)    1    0    0
+------ Jasper(48241)    1    0    0
 ---- PA    3465    43    21
 ------ Montgomery(42091)    488    5    0
 ------ Philadelphia(42101)    890    8    0
@@ -2635,7 +2636,7 @@
 ---- Scotland    1384    40    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    15475    327    1823
+-- Switzerland    15526    333    1823
 -- Belgium    11899    513    1527
 -- Netherlands    11750    864    253
 ---- Netherlands    1705    43    2
@@ -2659,8 +2660,8 @@
 ---- Seoul    426    0    93
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
+-- Austria    9377    108    636
 -- Turkey    9217    131    105
--- Austria    9200    108    636
 -- Portugal    6408    140    43
 -- Canada    6320    65    573
 ---- British Columbia    884    17    183
@@ -2696,10 +2697,10 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    2139    7    75
+-- Luxembourg    1988    22    40
+-- Poland    1984    26    13
 -- Romania    1952    46    206
--- Luxembourg    1950    21    40
 -- Ecuador    1924    58    3
--- Poland    1905    26    13
 -- Japan    1866    54    424
 ---- Hokkaido    176    7    100
 ---- kochi    14    0    0
@@ -2745,12 +2746,12 @@
 ---- Kagoshima    1    0    0
 ---- Toyama    1    0    0
 -- Russian Federation    1836    9    66
--- Pakistan    1625    20    29
+-- Pakistan    1650    20    29
 -- Philippines    1546    78    42
 -- Thailand    1524    9    229
+-- Saudi Arabia    1453    8    66
 -- Indonesia    1414    122    75
 -- Finland    1352    13    10
--- Saudi Arabia    1299    8    66
 -- South Africa    1280    2    31
 -- Greece    1156    39    52
 -- India    1071    29    100
@@ -2763,8 +2764,8 @@
 -- Peru    852    18    16
 -- Argentina    820    22    91
 -- Croatia    790    6    67
+-- Serbia    785    15    42
 -- Slovenia    756    11    10
--- Serbia    741    15    42
 -- Estonia    715    3    20
 -- Colombia    702    10    10
 -- Hong Kong    642    4    118
@@ -2790,16 +2791,16 @@
 -- Tunisia    312    8    2
 -- Taiwan    306    5    39
 -- Uruguay    304    1    0
--- Kazakhstan    294    3    20
+-- Kazakhstan    302    3    20
+-- North Macedonia    285    7    12
+-- Azerbaijan    273    4    26
 -- Kuwait    266    0    72
 -- Moldova, Republic of    263    2    13
 -- Jordan    259    4    18
--- North Macedonia    259    6    3
 -- San Marino    230    25    13
 -- Albania    223    11    44
 -- Burkina Faso    222    12    23
 -- Cyprus    214    6    15
--- Azerbaijan    209    4    15
 -- Viet Nam    203    0    55
 -- Réunion    183    0    1
 -- Oman    179    0    29
@@ -2808,14 +2809,15 @@
 -- Senegal    162    0    27
 -- Malta    156    0    2
 -- Ghana    152    5    8
+-- Belarus    152    0    32
 -- Uzbekistan    149    2    7
 -- Cuba    139    3    4
 -- Honduras    139    3    3
 -- Cameroon    139    6    5
+-- Venezuela, Bolivarian Republic of    129    3    39
 -- Brunei Darussalam    127    1    38
 -- Sri Lanka    122    1    15
 -- Afghanistan    120    4    2
--- Venezuela, Bolivarian Republic of    119    3    39
 -- Palestine    115    1    18
 -- Nigeria    111    1    3
 -- Mauritius    110    3    0
@@ -2825,7 +2827,6 @@
 -- Bolivia, Plurinational State of    96    3    0
 -- Kyrgyzstan    94    0    0
 -- Kosovo    94    1    1
--- Belarus    94    0    32
 -- Martinique    93    1    0
 -- Montenegro    91    1    0
 -- Mayotte    82    0    10
@@ -2844,15 +2845,15 @@
 -- Madagascar    39    0    0
 -- Puerto Rico    39    2    1
 -- Macao    38    0    10
+-- Guatemala    36    1    10
+-- Zambia    35    0    0
 -- French Polynesia    35    0    0
--- Guatemala    34    1    10
 -- Jamaica    34    1    2
 -- Uganda    33    0    0
 -- Barbados    33    0    0
 -- Guam    33    1    0
 -- El Salvador    30    0    0
 -- Togo    30    1    1
--- Zambia    29    0    0
 -- Mali    25    2    0
 -- Ethiopia    23    0    4
 -- Guyana    23    1    0
@@ -2866,6 +2867,8 @@
 -- Guinea    16    0    0
 -- Haiti    15    0    1
 -- New Caledonia    15    0    0
+-- Saint Martin (French part)    15    1    2
+-- Myanmar    14    0    0
 -- Bahamas    14    0    1
 -- Eritrea    12    0    0
 -- Equatorial Guinea    12    0    0
@@ -2873,8 +2876,6 @@
 -- Mongolia    12    0    2
 -- Dominica    11    0    0
 -- Namibia    11    0    2
--- Saint Martin (French part)    11    0    0
--- Myanmar    10    0    0
 -- Greenland    10    0    2
 -- Syrian Arab Republic    9    1    0
 -- Grenada    9    0    0
