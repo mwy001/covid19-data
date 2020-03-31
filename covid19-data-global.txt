@@ -2733,13 +2733,13 @@
 ---- Scotland    1563    41    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    15922    359    1823
+-- Switzerland    16176    373    1823
 -- Belgium    12775    705    1698
 -- Netherlands    11817    865    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    10827    168    162
--- Austria    9851    128    1095
+-- Austria    9876    128    1095
 -- Korea, Republic of    9786    162    5408
 ---- Busan    119    3    87
 ---- Chungcheongbuk-do    44    0    22
@@ -2789,7 +2789,7 @@
 -- Sweden    4028    146    16
 -- Czechia    3002    25    25
 -- Ireland    2910    54    5
--- Denmark    2815    77    73
+-- Denmark    2815    90    73
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    2766    43    537
@@ -2900,7 +2900,7 @@
 -- Cyprus    230    7    22
 -- San Marino    230    25    13
 -- Réunion    224    0    1
--- Viet Nam    204    0    55
+-- Viet Nam    207    0    55
 -- Cameroon    193    6    5
 -- Oman    192    0    34
 -- Senegal    175    0    40
