@@ -1,4 +1,4 @@
--- United States of America    175213    3427    6000
+-- United States of America    175816    3463    6000
 ---- NY    75795    1550    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -232,66 +232,68 @@
 ------ Glades(12043)    3    0    0
 ------ Wakulla(12129)    1    0    0
 ------ Holmes(12059)    1    0    0
----- LA    4025    185    0
------- Orleans(22071)    1480    86    0
------- Jefferson(22051)    838    37    0
------- Caddo(22017)    222    5    0
------- St Tammany(22103)    186    4    0
------- East Baton Rouge(22033)    188    9    0
------- Lafourche(22057)    51    2    0
------- St Charles(22089)    36    3    0
------- Terrebonne(22109)    34    1    0
------- Bossier(22015)    57    0    0
------- St Bernard(22087)    53    2    0
------- Lafayette(22055)    82    1    0
------- Ascension(22005)    153    5    0
------- Washington(22117)    22    1    0
------- West Baton Rouge(22121)    12    1    0
------- St Landry(22097)    15    1    0
------- St James(22093)    65    3    0
------- Plaquemines(22075)    22    2    0
------- Acadia(22001)    11    1    0
------- Assumption(22007)    17    0    0
------- Calcasieu(22019)    42    1    0
------- Iberia(22045)    18    0    0
------- Iberville(22047)    28    2    0
------- Livingston(22063)    16    0    0
------- Rapides(22079)    44    1    0
------- Webster(22119)    11    1    0
------- De Soto(22031)    28    1    0
+---- LA    5237    239    0
+------ Orleans(22071)    1834    101    0
+------ Jefferson(22051)    1193    57    0
+------ Caddo(22017)    242    7    0
+------ St Tammany(22103)    220    4    0
+------ East Baton Rouge(22033)    228    9    0
+------ Lafourche(22057)    74    2    0
+------ St Charles(22089)    71    6    0
+------ Terrebonne(22109)    40    1    0
+------ Bossier(22015)    63    1    0
+------ St Bernard(22087)    71    2    0
+------ Lafayette(22055)    118    1    0
+------ Ascension(22005)    161    6    0
+------ Washington(22117)    28    1    0
+------ West Baton Rouge(22121)    13    1    0
+------ St Landry(22097)    31    1    0
+------ St James(22093)    77    4    0
+------ Plaquemines(22075)    37    2    0
+------ Acadia(22001)    39    1    0
+------ Assumption(22007)    20    0    0
+------ Calcasieu(22019)    65    1    0
+------ Iberia(22045)    36    0    0
+------ Iberville(22047)    35    3    0
+------ Livingston(22063)    23    0    0
+------ Rapides(22079)    58    3    0
+------ Webster(22119)    17    1    0
+------ De Soto(22031)    30    1    0
 ------ Catahoula(22025)    3    1    0
------- Tangipahoa(22105)    18    0    0
------- St John The Baptist(22095)    75    8    0
------- Evangeline(22039)    8    0    0
------- Ouachita(22073)    44    1    0
------- Avoyelles(22009)    14    0    0
+------ Tangipahoa(22105)    25    0    0
+------ St John The Baptist(22095)    104    12    0
+------ Evangeline(22039)    10    0    0
+------ Ouachita(22073)    57    1    0
+------ Avoyelles(22009)    19    0    0
 ------ Beauregard(22011)    5    0    0
------- Bienville(22013)    5    1    0
------- Claiborne(22027)    4    0    0
------- St Mary(22101)    10    0    0
------- Allen(22003)    11    0    0
------- Lincoln(22061)    8    0    0
+------ Bienville(22013)    6    1    0
+------ Claiborne(22027)    8    0    0
+------ St Mary(22101)    22    0    0
+------ Allen(22003)    15    0    0
+------ Lincoln(22061)    12    0    0
 ------ Natchitoches(22069)    2    0    0
 ------ Richland(22083)    2    0    0
 ------ Grant(22043)    2    1    0
 ------ Vernon(22115)    3    0    0
------- St Martin(22099)    20    3    0
+------ St Martin(22099)    32    3    0
 ------ Union(22111)    9    1    0
 ------ Jackson(22049)    3    0    0
------- Jefferson Davis(22053)    3    0    0
+------ Jefferson Davis(22053)    5    0    0
 ------ Morehouse(22067)    3    0    0
 ------ Winn(22127)    1    0    0
------- East Feliciana(22037)    8    0    0
+------ East Feliciana(22037)    9    0    0
 ------ La Salle(22059)    2    0    0
 ------ Madison(22065)    1    0    0
------- Pointe Coupee(22077)    2    0    0
------- Vermilion(22113)    3    1    0
+------ Pointe Coupee(22077)    7    0    0
+------ Vermilion(22113)    8    1    0
 ------ West Feliciana(22125)    4    0    0
 ------ Franklin(22041)    5    0    0
 ------ East Carroll(22035)    1    0    0
 ------ Caldwell(22021)    1    0    0
 ------ Red River(22081)    1    0    0
------- Sabine(22085)    1    0    0
+------ Sabine(22085)    2    0    0
+------ Concordia(22029)    3    0    0
+------ St Helena(22091)    1    0    0
 ---- CO    2627    51    0
 ------ Denver(08031)    465    6    0
 ------ Eagle(08037)    213    4    0
@@ -1868,7 +1870,7 @@
 ------ Beckham(40009)    1    0    0
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
----- KS    376    8    0
+---- KS    384    8    0
 ------ Johnson(20091)    116    2    0
 ------ Wyandotte(20209)    67    4    0
 ------ Butler(20015)    3    0    0
@@ -2752,12 +2754,12 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    16186    395    1823
+-- Turkey    13531    214    243
 -- Belgium    12775    705    1698
 -- Netherlands    12595    1039    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Turkey    10827    168    162
--- Austria    10088    128    1095
+-- Austria    10109    128    1095
 -- Korea, Republic of    9786    162    5408
 ---- Busan    119    3    87
 ---- Chungcheongbuk-do    44    0    22
@@ -2805,7 +2807,7 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    80    1    3
 -- Sweden    4435    180    16
--- Czechia    3138    25    25
+-- Czechia    3257    25    25
 -- Ireland    2910    54    5
 -- Denmark    2860    90    73
 ---- Denmark    977    4    1
@@ -2891,10 +2893,10 @@
 -- Egypt    656    41    150
 -- New Zealand    647    1    74
 -- Iraq    630    46    152
--- Morocco    574    33    15
+-- Morocco    602    36    24
 -- Bahrain    567    4    295
 -- Ukraine    549    13    8
--- Lithuania    533    8    7
+-- Lithuania    537    8    7
 -- Armenia    532    3    30
 -- Hungary    492    16    37
 -- Lebanon    463    12    37
@@ -2912,11 +2914,11 @@
 -- Uruguay    320    1    25
 -- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
--- Jordan    268    5    26
+-- Jordan    274    5    30
 -- Cyprus    262    8    23
+-- Burkina Faso    261    14    32
 -- Réunion    247    0    1
--- Burkina Faso    246    12    31
--- Albania    243    13    52
+-- Albania    243    15    52
 -- San Marino    230    25    13
 -- Viet Nam    207    0    58
 -- Cameroon    193    6    5
