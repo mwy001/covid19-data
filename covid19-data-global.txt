@@ -1,40 +1,40 @@
--- United States of America    162661    3015    5714
----- NY    66665    1227    4309
+-- United States of America    163655    3018    5775
+---- NY    67373    1228    4344
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
 ------ Suffolk(36103)    5791    40    0
 ------ Albany(36001)    217    1    0
 ------ Rockland(36087)    2511    8    0
------- Dutchess(36027)    392    2    0
+------ Dutchess(36027)    392    3    0
 ------ Orange(36071)    1435    5    0
 ------ Monroe(36055)    246    6    0
------- Erie(36029)    443    7    0
+------ Erie(36029)    463    8    0
 ------ Saratoga(36091)    108    1    0
------- Ulster(36111)    190    0    0
+------ Ulster(36111)    207    0    0
 ------ Schenectady(36093)    80    1    0
------- Tompkins(36109)    70    0    0
------- Allegany(36003)    7    0    0
+------ Tompkins(36109)    73    0    0
+------ Allegany(36003)    9    1    0
 ------ Greene(36039)    10    0    0
 ------ Onondaga(36067)    228    1    0
 ------ Putnam(36079)    167    0    0
 ------ Broome(36007)    35    3    0
 ------ Clinton(36019)    17    0    0
------- Delaware(36025)    11    0    0
+------ Delaware(36025)    12    0    0
 ------ Essex(36031)    5    0    0
------- Genesee(36037)    9    0    0
+------ Genesee(36037)    11    1    0
 ------ Herkimer(36043)    12    2    0
 ------ Montgomery(36057)    6    0    0
 ------ Oneida(36065)    34    0    0
 ------ Ontario(36069)    20    0    0
------- Rensselaer(36083)    52    0    0
------- Sullivan(36105)    101    0    0
------- Tioga(36107)    7    0    0
+------ Rensselaer(36083)    54    0    0
+------ Sullivan(36105)    106    1    0
+------ Tioga(36107)    8    0    0
 ------ Wyoming(36121)    8    1    0
 ------ Chenango(36017)    17    0    0
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    18    0    0
 ------ Washington(36115)    9    0    0
------- New York(36061)    37453    790    0
+------ New York(36061)    38087    914    0
 ------ Niagara(36063)    41    0    0
 ------ Schoharie(36095)    6    0    0
 ------ Fulton(36035)    1    0    0
@@ -42,25 +42,25 @@
 ------ Wayne(36117)    15    0    0
 ------ Steuben(36101)    19    0    0
 ------ Columbia(36021)    36    1    0
------- Livingston(36051)    13    0    0
+------ Livingston(36051)    15    0    0
 ------ Cortland(36023)    10    0    0
 ------ Queens(36081)    2715    0    0
 ------ Bronx(36005)    1411    0    0
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
------- Madison(36053)    42    1    0
+------ Madison(36053)    49    1    0
 ------ Oswego(36075)    15    0    0
 ------ Chemung(36015)    15    0    0
 ------ Otsego(36077)    17    1    0
------- Cayuga(36011)    3    0    0
------- St Lawrence(36089)    13    0    0
+------ Cayuga(36011)    4    0    0
+------ St Lawrence(36089)    23    0    0
 ------ Chautauqua(36013)    7    0    0
 ------ Franklin(36033)    6    0    0
------- Orleans(36073)    4    0    0
+------ Orleans(36073)    5    0    0
 ------ Cattaraugus(36009)    6    0    0
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
----- WA    5186    219    490
+---- WA    5187    219    490
 ------ King(53033)    2330    150    0
 ------ Snohomish(53061)    1127    31    0
 ------ Pierce(53053)    352    6    0
@@ -79,7 +79,7 @@
 ------ Columbia(53013)    1    0    0
 ------ Cowlitz(53015)    14    0    0
 ------ Grays Harbor(53027)    1    0    0
------- Klickitat(53039)    8    1    0
+------ Klickitat(53039)    9    1    0
 ------ Lewis(53041)    10    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    37    0    0
@@ -95,8 +95,8 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    7164    146    60
------- Santa Clara(06085)    848    25    0
+---- CA    7193    146    60
+------ Santa Clara(06085)    848    28    0
 ------ Los Angeles(06037)    2481    44    0
 ------ San Mateo(06081)    309    6    0
 ------ San Diego(06073)    519    7    0
@@ -105,13 +105,13 @@
 ------ Contra Costa(06013)    187    3    0
 ------ Orange(06059)    464    4    0
 ------ Alameda(06001)    283    7    0
------- Riverside(06065)    291    8    0
+------ Riverside(06065)    291    9    0
 ------ San Joaquin(06077)    123    6    0
 ------ Santa Cruz(06087)    44    1    0
 ------ Marin(06041)    93    1    0
 ------ Ventura(06111)    109    4    0
 ------ Placer(06061)    57    2    0
------- Solano(06095)    34    0    0
+------ Solano(06095)    43    0    0
 ------ San Luis Obispo(06079)    77    0    0
 ------ Sonoma(06097)    58    1    0
 ------ San Benito(06069)    14    1    0
@@ -123,7 +123,7 @@
 ------ Fresno(06019)    43    0    0
 ------ Imperial(06025)    25    0    0
 ------ Monterey(06053)    36    1    0
------- Santa Barbara(06083)    68    0    0
+------ Santa Barbara(06083)    88    0    0
 ------ Amador(06005)    2    0    0
 ------ Humboldt(06023)    18    0    0
 ------ Kern(06029)    76    1    0
@@ -178,12 +178,12 @@
 ------ Hampden(25013)    255    4    0
 ------ Franklin(25011)    49    2    0
 ------ Hampshire(25015)    46    0    0
----- FL    5474    64    0
+---- FL    5589    64    0
 ------ Broward(12011)    1152    11    0
 ------ Palm Beach(12099)    423    8    0
 ------ Duval(12031)    158    4    0
 ------ Volusia(12127)    65    1    0
------- Hillsborough(12057)    253    4    0
+------ Hillsborough(12057)    265    4    0
 ------ Manatee(12081)    39    1    0
 ------ Collier(12021)    119    1    0
 ------ Orange(12095)    293    4    0
@@ -199,7 +199,7 @@
 ------ Pasco(12101)    38    2    0
 ------ Brevard(12009)    31    1    0
 ------ Charlotte(12015)    18    0    0
------- Escambia(12033)    42    0    0
+------ Escambia(12033)    76    0    0
 ------ Lake(12069)    47    1    0
 ------ Nassau(12089)    8    3    0
 ------ Polk(12105)    55    0    0
@@ -219,7 +219,7 @@
 ------ Highlands(12055)    14    1    0
 ------ Putnam(12107)    13    0    0
 ------ St Lucie(12111)    29    2    0
------- Miami-Dade(12086)    1632    3    0
+------ Miami-Dade(12086)    1701    3    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    2    0    0
 ------ Flagler(12035)    13    0    0
@@ -394,11 +394,11 @@
 ------ Crawford(17033)    1    0    0
 ------ Saline(17165)    1    0    0
 ---- GA    2809    87    0
------- Fulton(13121)    463    14    0
+------ Fulton(13121)    483    14    0
 ------ Cobb(13067)    245    9    0
 ------ Bartow(13015)    121    1    0
 ------ Cherokee(13057)    61    1    0
------- Gwinnett(13135)    158    1    0
+------ Gwinnett(13135)    173    1    0
 ------ Dougherty(13095)    267    17    0
 ------ Floyd(13115)    28    2    0
 ------ Clayton(13063)    61    1    0
@@ -518,7 +518,7 @@
 ------ McIntosh(13191)    1    0    0
 ------ Schley(13249)    1    0    0
 ------ Warren(13301)    1    0    0
----- TX    3200    46    107
+---- TX    3202    46    107
 ------ Dallas(48113)    549    11    0
 ------ Travis(48453)    206    2    0
 ------ Harris(48201)    526    3    0
@@ -611,7 +611,7 @@
 ------ Calhoun(48057)    6    0    0
 ------ Nacogdoches(48347)    2    0    0
 ------ Reeves(48389)    1    0    0
------- Angelina(48005)    3    0    0
+------ Angelina(48005)    4    0    0
 ------ Rockwall(48397)    4    0    0
 ------ Hood(48221)    3    0    0
 ------ Austin(48015)    2    0    0
@@ -649,6 +649,8 @@
 ------ Moore(48341)    1    0    0
 ------ Aransas(48007)    2    0    0
 ------ Wise(48497)    1    0    0
+------ Newton(48351)    1    0    0
+------ Tyler(48457)    1    0    0
 ---- PA    4155    50    28
 ------ Montgomery(42091)    540    5    0
 ------ Philadelphia(42101)    1072    8    0
@@ -711,7 +713,7 @@
 ------ Venango(42121)    1    0    0
 ---- WI    1230    20    1
 ------ Milwaukee(55079)    617    10    0
------- Dane(55025)    183    1    0
+------ Dane(55025)    192    2    0
 ------ Kenosha(55059)    30    0    0
 ------ Waukesha(55133)    93    0    0
 ------ Sheboygan(55117)    8    0    0
@@ -1017,8 +1019,8 @@
 ------ Henry(51089)    1    0    0
 ------ King William(51101)    1    0    0
 ------ Smyth(51173)    1    0    0
----- NC    1317    8    5
------- Wake(37183)    166    0    0
+---- NC    1331    8    5
+------ Wake(37183)    180    0    0
 ------ Durham(37063)    117    0    0
 ------ Mecklenburg(37119)    382    1    0
 ------ Chatham(37037)    14    0    0
@@ -1036,7 +1038,7 @@
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    5    0    0
 ------ Wayne(37191)    4    0    0
------- Wilson(37195)    11    0    0
+------ Wilson(37195)    13    0    0
 ------ Gaston(37071)    25    0    0
 ------ New Hanover(37129)    27    0    0
 ------ Union(37179)    38    0    0
@@ -1046,7 +1048,7 @@
 ------ Pitt(37147)    20    0    0
 ------ Davidson(37057)    19    0    0
 ------ Rowan(37159)    18    1    0
------- Cumberland(37051)    15    0    0
+------ Cumberland(37051)    18    0    0
 ------ Pasquotank(37139)    2    0    0
 ------ Alamance(37001)    7    0    0
 ------ Franklin(37069)    6    0    0
@@ -1054,7 +1056,7 @@
 ------ Lee(37105)    2    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    7    0    0
------- Carteret(37031)    11    0    0
+------ Carteret(37031)    11    1    0
 ------ Cherokee(37039)    7    0    0
 ------ Robeson(37155)    2    0    0
 ------ Granville(37077)    7    0    0
@@ -1070,7 +1072,7 @@
 ------ Hertford(37091)    3    0    0
 ------ Jackson(37099)    1    0    0
 ------ Transylvania(37175)    3    0    0
------- Northampton(37131)    26    0    0
+------ Northampton(37131)    26    1    0
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    5    0    0
 ------ Bertie(37015)    5    0    0
@@ -1125,7 +1127,7 @@
 ------ Isabella(26073)    5    1    0
 ------ Barry(26015)    1    0    0
 ------ Wexford(26165)    2    0    0
------- Berrien(26021)    32    0    0
+------ Berrien(26021)    32    1    0
 ------ Calhoun(26025)    17    0    0
 ------ Clare(26035)    1    0    0
 ------ Saginaw(26145)    36    0    0
@@ -1385,8 +1387,8 @@
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    2    0    0
 ------ Somerset(23025)    1    0    0
----- DC    401    9    106
------- District of Columbia(11001)    401    9    0
+---- DC    495    9    106
+------ District of Columbia(11001)    495    9    0
 ---- IN    1787    36    0
 ------ Marion(18097)    804    12    0
 ------ Hendricks(18063)    58    2    0
@@ -1616,24 +1618,25 @@
 ------ Platte(31141)    1    0    0
 ------ Scotts Bluff(31157)    1    0    0
 ------ York(31185)    1    0    0
----- NM    237    2    0
------- Bernalillo(35001)    102    1    0
------- Santa Fe(35049)    34    0    0
------- Sandoval(35043)    18    0    0
------- Socorro(35053)    2    0    0
------- Taos(35055)    9    0    0
+---- NM    281    4    26
+------ Bernalillo(35001)    117    3    0
+------ Santa Fe(35049)    37    0    0
+------ Sandoval(35043)    23    0    0
+------ Socorro(35053)    3    0    0
+------ Taos(35055)    10    0    0
 ------ San Miguel(35047)    1    0    0
------- McKinley(35031)    9    0    0
------- Dona Ana(35013)    17    0    0
+------ McKinley(35031)    12    0    0
+------ Dona Ana(35013)    18    0    0
 ------ Lea(35025)    2    0    0
------- San Juan(35045)    22    0    0
------- Chaves(35005)    8    0    0
+------ San Juan(35045)    27    0    0
+------ Chaves(35005)    10    0    0
 ------ Cibola(35006)    2    0    0
 ------ Curry(35009)    3    0    0
 ------ Eddy(35015)    4    1    0
 ------ Rio Arriba(35039)    3    0    0
 ------ Roosevelt(35041)    1    0    0
------- Valencia(35061)    2    0    0
+------ Valencia(35061)    5    0    0
+------ Torrance(35057)    3    0    0
 ---- RI    408    4    0
 ------ Providence(44007)    156    0    0
 ------ Washington(44009)    24    0    0
@@ -2739,24 +2742,23 @@
 ---- 未确定地区    23    3    0
 -- Austria    9618    108    636
 -- Canada    7448    89    1093
----- British Columbia    884    17    183
----- Ontario    1355    23    8
----- Alberta    661    3    0
+---- British Columbia    970    19    183
+---- Ontario    1706    33    8
+---- Alberta    690    8    0
 ---- Quebec    3430    25    0
----- New Brunswick    66    0    0
----- Manitoba    72    1    0
----- Saskatchewan    156    0    0
----- Prince Edward Island    11    0    0
----- Newfoundland and Labrador    135    0    0
----- Nova Scotia    122    0    0
+---- New Brunswick    68    0    0
+---- Manitoba    96    1    0
+---- Saskatchewan    176    0    0
+---- Prince Edward Island    18    0    0
+---- Newfoundland and Labrador    148    0    0
+---- Nova Scotia    127    0    0
 ---- Northwest Territories    1    0    0
----- Yukon    4    0    0
+---- Yukon    5    0    0
 ---- Nunavut    1    0    0
 -- Portugal    6408    140    43
 -- Israel    4695    16    161
 -- Brazil    4630    163    120
--- Norway    4445    32    12
--- Australia    4364    19    244
+-- Australia    4460    19    244
 ---- New South Wales    1791    8    4
 ---- Victoria    769    4    191
 ---- Queensland    656    2    8
@@ -2765,6 +2767,7 @@
 ---- Tasmania    66    0    5
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    77    0    2
+-- Norway    4445    32    12
 -- Sweden    4028    146    16
 -- Czechia    3001    23    25
 -- Ireland    2910    54    5
@@ -2777,7 +2780,7 @@
 -- Poland    2055    31    13
 -- Luxembourg    1988    22    40
 -- Ecuador    1966    62    3
--- Japan    1866    54    424
+-- Japan    1953    56    424
 ---- Hokkaido    176    7    100
 ---- kochi    15    0    0
 ---- Miyagi    6    0    0
@@ -2832,7 +2835,7 @@
 -- India    1251    32    102
 -- Greece    1212    46    52
 -- Iceland    1086    5    157
--- Panama    1075    24    4
+-- Panama    1075    27    9
 -- Mexico    993    20    35
 -- Peru    950    24    53
 -- Dominican Republic    901    42    4
@@ -2865,7 +2868,7 @@
 -- Bulgaria    359    8    17
 -- Slovakia    336    1    7
 -- Costa Rica    330    2    4
--- Uruguay    320    1    0
+-- Uruguay    320    1    25
 -- Taiwan    306    5    39
 -- Kazakhstan    302    3    21
 -- Moldova, Republic of    298    2    15
@@ -2878,7 +2881,7 @@
 -- San Marino    230    25    13
 -- Réunion    224    0    1
 -- Albania    223    11    44
--- Viet Nam    203    0    55
+-- Viet Nam    204    0    55
 -- Oman    179    0    29
 -- Cuba    170    4    4
 -- Afghanistan    170    4    2
@@ -2941,13 +2944,13 @@
 -- Djibouti    18    0    0
 -- Virgin Islands, U.S.    17    0    0
 -- Maldives    17    0    13
+-- Eritrea    15    0    0
 -- Haiti    15    0    1
 -- New Caledonia    15    0    0
 -- Saint Martin (French part)    15    1    2
 -- Myanmar    14    0    0
 -- Bahamas    14    0    1
 -- Dominica    12    0    0
--- Eritrea    12    0    0
 -- Equatorial Guinea    12    0    0
 -- Cayman Islands    12    1    0
 -- Mongolia    12    0    2
