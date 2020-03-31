@@ -1,4 +1,4 @@
--- United States of America    165414    3183    5945
+-- United States of America    165414    3233    5945
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -165,17 +165,17 @@
 ------ Cape May(34009)    9    0    0
 ------ Cumberland(34011)    12    1    0
 ------ Salem(34033)    3    0    0
----- MA    5752    56    10
------- Middlesex(25017)    1141    8    0
------- Norfolk(25021)    628    10    0
------- Suffolk(25025)    1115    5    0
------- Berkshire(25003)    162    3    0
------- Essex(25009)    653    6    0
------- Worcester(25027)    390    5    0
+---- MA    5752    112    10
+------ Middlesex(25017)    1141    9    0
+------ Norfolk(25021)    628    11    0
+------ Suffolk(25025)    1115    7    0
+------ Berkshire(25003)    162    5    0
+------ Essex(25009)    653    7    0
+------ Worcester(25027)    390    6    0
 ------ Bristol(25005)    263    2    0
 ------ Plymouth(25023)    380    0    0
 ------ Barnstable(25001)    173    2    0
------- Hampden(25013)    255    4    0
+------ Hampden(25013)    255    5    0
 ------ Franklin(25011)    49    2    0
 ------ Hampshire(25015)    46    0    0
 ---- FL    5704    71    0
@@ -2166,7 +2166,7 @@
 ---- Liguria    3217    397    437
 ---- Veneto    8724    413    747
 ---- Bolzano    1325    74    153
--- Spain    94417    8189    19259
+-- Spain    94417    8269    19259
 ---- Andalusia    5405    236    155
 ---- Aragon    2078    106    174
 ---- Balearic Islands    1000    37    100
@@ -2650,7 +2650,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
--- Germany    67051    682    15824
+-- Germany    68180    682    15824
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
@@ -2726,7 +2726,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    22454    1415    171
+-- United Kingdom of Great Britain and Northern Ireland    22454    1808    171
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2798,7 +2798,7 @@
 -- Malaysia    2766    43    537
 -- Chile    2738    12    156
 -- Russian Federation    2337    17    121
--- Romania    2245    72    220
+-- Romania    2245    78    220
 -- Poland    2215    32    13
 -- Philippines    2084    88    49
 -- Luxembourg    1988    22    80
@@ -2857,13 +2857,13 @@
 -- India    1251    32    102
 -- Greece    1212    46    52
 -- Iceland    1135    5    157
+-- Dominican Republic    1109    51    5
 -- Mexico    1094    28    35
 -- Panama    1075    27    9
--- Argentina    966    25    228
+-- Argentina    966    26    228
 -- Peru    950    24    53
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
--- Dominican Republic    901    42    4
 -- Serbia    900    23    42
 -- Croatia    867    6    67
 -- Slovenia    802    15    10
@@ -2889,20 +2889,20 @@
 -- Andorra    370    8    10
 -- Slovakia    363    1    7
 -- Tunisia    362    10    3
+-- Moldova, Republic of    353    2    18
 -- Kazakhstan    336    3    22
 -- Costa Rica    330    2    4
 -- North Macedonia    329    9    12
 -- Taiwan    322    5    39
 -- Uruguay    320    1    25
--- Moldova, Republic of    298    2    18
 -- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
 -- Jordan    268    5    26
+-- Réunion    247    0    1
 -- Burkina Faso    246    12    31
 -- Albania    243    13    52
 -- Cyprus    230    7    22
 -- San Marino    230    25    13
--- Réunion    224    0    1
 -- Viet Nam    207    0    57
 -- Cameroon    193    6    5
 -- Oman    192    0    34
@@ -2915,7 +2915,7 @@
 -- Uzbekistan    167    2    7
 -- Ghana    152    5    31
 -- Belarus    152    1    47
--- Mauritius    143    3    0
+-- Mauritius    143    4    0
 -- Sri Lanka    142    2    16
 -- Honduras    141    7    3
 -- Venezuela, Bolivarian Republic of    135    3    39
