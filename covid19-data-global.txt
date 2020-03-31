@@ -2796,6 +2796,7 @@
 -- Chile    2449    8    156
 -- Poland    2132    31    13
 -- Romania    2109    68    209
+-- Philippines    2084    88    49
 -- Luxembourg    1988    22    80
 -- Ecuador    1966    62    54
 -- Japan    1953    56    424
@@ -2846,7 +2847,6 @@
 -- Pakistan    1865    25    76
 -- Russian Federation    1836    9    66
 -- Thailand    1651    10    342
--- Philippines    1546    78    42
 -- Saudi Arabia    1453    8    115
 -- Indonesia    1414    122    75
 -- Finland    1384    13    10
@@ -2866,8 +2866,8 @@
 -- Serbia    785    16    42
 -- Slovenia    756    11    10
 -- Estonia    715    3    20
+-- Hong Kong    714    4    118
 -- Qatar    693    1    51
--- Hong Kong    683    4    118
 -- Egypt    656    41    150
 -- New Zealand    647    1    74
 -- Iraq    630    46    152
@@ -2903,7 +2903,7 @@
 -- Viet Nam    204    0    55
 -- Cameroon    193    6    5
 -- Oman    179    0    29
--- Afghanistan    174    4    2
+-- Afghanistan    174    4    5
 -- Cuba    170    4    4
 -- Faroe Islands    169    0    74
 -- Côte d'Ivoire    168    1    6
