@@ -2647,7 +2647,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
--- Germany    67051    651    15824
+-- Germany    67051    682    15824
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
@@ -2735,11 +2735,11 @@
 ---- Cayman Islands    1    1    0
 -- Switzerland    16176    373    1823
 -- Belgium    12775    705    1698
--- Netherlands    11817    865    253
+-- Netherlands    12595    1039    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    10827    168    162
--- Austria    9876    128    1095
+-- Austria    9920    128    1095
 -- Korea, Republic of    9786    162    5408
 ---- Busan    119    3    87
 ---- Chungcheongbuk-do    44    0    22
@@ -2786,7 +2786,7 @@
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    80    1    3
 -- Norway    4495    34    13
--- Sweden    4028    146    16
+-- Sweden    4435    180    16
 -- Czechia    3002    25    25
 -- Ireland    2910    54    5
 -- Denmark    2815    90    73
@@ -2802,30 +2802,30 @@
 -- Ecuador    1966    62    54
 -- Japan    1953    56    424
 ---- Hokkaido    176    7    100
----- kochi    15    0    0
+---- kochi    17    0    0
 ---- Miyagi    6    0    0
 ---- Niigata    31    0    0
 ---- Gifu    24    0    0
 ---- Nagano    8    0    0
 ---- Tochigi    12    0    0
 ---- Kumamoto    14    0    0
----- Saitama    85    2    0
----- Ishikawa    11    0    0
----- Fukuoka    29    0    0
----- Tokyo    443    8    0
+---- Saitama    86    2    0
+---- Ishikawa    13    0    0
+---- Fukuoka    35    0    0
+---- Tokyo    521    15    0
 ---- Wakayama    18    1    2
 ---- Kyoto    56    0    16
----- Osaka    216    2    1
----- Chiba    165    1    0
----- Kanagawa    131    5    1
----- Shizuoka    8    0    0
----- Aichi    170    19    2
+---- Osaka    244    2    1
+---- Chiba    169    1    0
+---- Kanagawa    140    5    1
+---- Shizuoka    9    0    0
+---- Aichi    172    19    2
 ---- Nara    11    0    1
 ---- Tokushima    3    0    0
 ---- Mie    11    0    1
 ---- Okinawa    9    0    1
 ---- Ehime    9    0    0
----- hyogo    137    11    0
+---- hyogo    144    11    0
 ---- oita    28    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
@@ -2834,7 +2834,7 @@
 ---- Yamanashi    5    0    0
 ---- Hiroshima    6    0    0
 ---- Gunma    18    1    0
----- Fukushima    2    0    0
+---- Fukushima    4    0    0
 ---- Saga    2    0    0
 ---- Nagasaki    2    0    0
 ---- Ibaraki    20    0    0
@@ -2861,9 +2861,9 @@
 -- Dominican Republic    901    42    4
 -- Singapore    879    3    228
 ---- Central Singapore Community Development Council    345    0    124
+-- Croatia    867    6    67
 -- Slovenia    802    15    10
 -- Colombia    798    14    15
--- Croatia    790    6    67
 -- Serbia    785    16    42
 -- Estonia    745    4    26
 -- Hong Kong    714    4    128
@@ -2874,10 +2874,10 @@
 -- United Arab Emirates    611    5    61
 -- Algeria    584    35    65
 -- Morocco    574    33    15
+-- Bahrain    567    4    295
 -- Ukraine    549    13    8
 -- Lithuania    533    7    7
 -- Armenia    532    3    30
--- Bahrain    530    4    295
 -- Hungary    492    16    37
 -- Lebanon    463    12    35
 -- Bosnia and Herzegovina    411    10    17
@@ -2911,7 +2911,7 @@
 -- Côte d'Ivoire    168    1    6
 -- Uzbekistan    158    2    7
 -- Ghana    152    5    8
--- Belarus    152    0    47
+-- Belarus    152    1    47
 -- Mauritius    143    3    0
 -- Honduras    141    7    3
 -- Venezuela, Bolivarian Republic of    135    3    39
@@ -2924,7 +2924,7 @@
 -- Kyrgyzstan    107    0    3
 -- Bolivia, Plurinational State of    107    6    0
 -- Guadeloupe    106    4    17
--- Montenegro    105    1    0
+-- Montenegro    105    2    0
 -- Kosovo    94    1    1
 -- Martinique    93    1    0
 -- Trinidad and Tobago    85    3    1
@@ -3013,6 +3013,7 @@
 -- Central African Republic    3    0    0
 -- Anguilla    2    0    0
 -- Jersey    2    0    0
+-- Sierra Leone    1    0    0
 -- Timor-Leste    1    0    0
 -- Papua New Guinea    1    0    0
 -- Guernsey    1    0    0
