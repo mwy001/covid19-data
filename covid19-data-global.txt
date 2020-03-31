@@ -1,4 +1,4 @@
--- United States of America    164670    3180    5945
+-- United States of America    164713    3180    5945
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -60,7 +60,7 @@
 ------ Cattaraugus(36009)    6    0    0
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
----- WA    5187    219    490
+---- WA    5191    219    490
 ------ King(53033)    2330    150    0
 ------ Snohomish(53061)    1127    31    0
 ------ Pierce(53053)    352    6    0
@@ -83,11 +83,11 @@
 ------ Lewis(53041)    10    0    0
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    37    0    0
------- Mason(53045)    2    0    0
+------ Mason(53045)    5    0    0
 ------ Benton(53005)    102    5    0
 ------ Clallam(53009)    6    0    0
 ------ San Juan(53055)    4    0    0
------- Stevens(53065)    3    0    0
+------ Stevens(53065)    4    0    0
 ------ Walla Walla(53071)    6    0    0
 ------ Whitman(53075)    8    0    0
 ------ Adams(53001)    7    0    0
@@ -659,13 +659,13 @@
 ------ Wise(48497)    1    0    0
 ------ Newton(48351)    1    0    0
 ------ Tyler(48457)    1    0    0
----- PA    4155    51    28
+---- PA    4194    51    28
 ------ Montgomery(42091)    540    5    0
 ------ Philadelphia(42101)    1072    8    0
 ------ Allegheny(42003)    290    2    0
 ------ Cumberland(42041)    24    1    0
 ------ Delaware(42045)    303    5    0
------- Bucks(42017)    249    4    0
+------ Bucks(42017)    288    4    0
 ------ Monroe(42089)    182    7    0
 ------ Chester(42029)    146    0    0
 ------ Washington(42125)    26    0    0
@@ -1326,13 +1326,13 @@
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
----- AL    947    11    0
+---- AL    949    13    0
 ------ Jefferson(01073)    257    0    0
------- Shelby(01117)    88    0    0
+------ Shelby(01117)    88    2    0
 ------ Lee(01081)    74    2    0
 ------ Tuscaloosa(01125)    28    0    0
 ------ Elmore(01051)    14    0    0
------- Montgomery(01101)    29    0    0
+------ Montgomery(01101)    29    1    0
 ------ Baldwin(01003)    19    1    0
 ------ Limestone(01083)    20    0    0
 ------ Madison(01089)    96    1    0
@@ -1341,7 +1341,7 @@
 ------ Chambers(01017)    36    4    0
 ------ Talladega(01121)    6    0    0
 ------ Walker(01127)    31    0    0
------- Mobile(01097)    45    1    0
+------ Mobile(01097)    48    1    0
 ------ Jackson(01071)    7    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -2776,6 +2776,7 @@
 -- Portugal    7443    160    43
 -- Israel    4831    18    163
 -- Brazil    4661    165    127
+-- Norway    4592    35    13
 -- Australia    4557    19    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
@@ -2785,7 +2786,6 @@
 ---- Tasmania    69    1    5
 ---- Northern Territory    15    0    0
 ---- Australian Capital Territory    80    1    3
--- Norway    4495    34    13
 -- Sweden    4435    180    16
 -- Czechia    3002    25    25
 -- Ireland    2910    54    5
@@ -2795,8 +2795,8 @@
 -- Malaysia    2766    43    537
 -- Chile    2449    8    156
 -- Russian Federation    2337    17    121
--- Romania    2245    69    220
--- Poland    2132    31    13
+-- Romania    2245    72    220
+-- Poland    2215    32    13
 -- Philippines    2084    88    49
 -- Luxembourg    1988    22    80
 -- Ecuador    1966    62    54
@@ -2847,8 +2847,8 @@
 ---- Yamagata    1    0    0
 -- Pakistan    1865    25    76
 -- Thailand    1651    10    342
+-- Saudi Arabia    1563    8    115
 -- Indonesia    1528    136    81
--- Saudi Arabia    1453    8    115
 -- Finland    1418    13    10
 -- South Africa    1326    3    31
 -- India    1251    32    102
@@ -2858,9 +2858,9 @@
 -- Panama    1075    27    9
 -- Argentina    966    24    228
 -- Peru    950    24    53
--- Dominican Republic    901    42    4
--- Singapore    879    3    228
+-- Singapore    926    3    228
 ---- Central Singapore Community Development Council    345    0    124
+-- Dominican Republic    901    42    4
 -- Croatia    867    6    67
 -- Slovenia    802    15    10
 -- Colombia    798    14    15
@@ -2880,7 +2880,7 @@
 -- Armenia    532    3    30
 -- Hungary    492    16    37
 -- Lebanon    463    12    35
--- Bosnia and Herzegovina    411    10    17
+-- Bosnia and Herzegovina    411    12    17
 -- Latvia    398    0    1
 -- Bulgaria    379    8    17
 -- Andorra    370    8    10
@@ -2891,9 +2891,9 @@
 -- Taiwan    322    5    39
 -- Uruguay    320    1    25
 -- Moldova, Republic of    298    2    18
+-- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
 -- North Macedonia    285    7    12
--- Azerbaijan    273    4    26
 -- Jordan    268    5    26
 -- Burkina Faso    246    12    31
 -- Albania    243    13    52
@@ -2918,6 +2918,7 @@
 -- Nigeria    135    2    8
 -- Sri Lanka    132    2    16
 -- Brunei Darussalam    129    1    45
+-- Martinique    119    2    27
 -- Palestine    117    1    18
 -- Georgia    110    0    21
 -- Cambodia    109    0    23
@@ -2926,9 +2927,8 @@
 -- Guadeloupe    106    4    17
 -- Montenegro    105    2    0
 -- Kosovo    94    1    1
--- Martinique    93    1    0
+-- Mayotte    94    1    10
 -- Trinidad and Tobago    85    3    1
--- Mayotte    82    0    10
 -- Congo, Democratic Republic of the    81    8    2
 -- Rwanda    70    0    0
 -- Gibraltar    69    0    34
