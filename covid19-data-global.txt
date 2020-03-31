@@ -1,4 +1,4 @@
--- United States of America    164713    3180    5945
+-- United States of America    164814    3180    5945
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -60,7 +60,7 @@
 ------ Cattaraugus(36009)    6    0    0
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
----- WA    5191    219    490
+---- WA    5192    219    490
 ------ King(53033)    2330    150    0
 ------ Snohomish(53061)    1127    31    0
 ------ Pierce(53053)    352    6    0
@@ -78,7 +78,7 @@
 ------ Chelan(53007)    14    1    0
 ------ Columbia(53013)    1    0    0
 ------ Cowlitz(53015)    14    0    0
------- Grays Harbor(53027)    1    0    0
+------ Grays Harbor(53027)    2    0    0
 ------ Klickitat(53039)    9    1    0
 ------ Lewis(53041)    10    0    0
 ------ Lincoln(53043)    1    0    0
@@ -95,9 +95,9 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    7395    150    60
+---- CA    7429    150    60
 ------ Santa Clara(06085)    848    28    0
------- Los Angeles(06037)    2481    44    0
+------ Los Angeles(06037)    2505    44    0
 ------ San Mateo(06081)    309    6    0
 ------ San Diego(06073)    603    7    0
 ------ San Francisco(06075)    374    6    0
@@ -1033,39 +1033,39 @@
 ------ King William(51101)    1    0    0
 ------ Smyth(51173)    1    0    0
 ------ City of Petersburg(51730)    2    0    0
----- NC    1379    8    5
------- Wake(37183)    180    0    0
------- Durham(37063)    118    0    0
------- Mecklenburg(37119)    382    1    0
------- Chatham(37037)    14    0    0
------- Harnett(37085)    15    1    0
------- Forsyth(37067)    40    0    0
+---- NC    1497    8    5
+------ Wake(37183)    186    0    0
+------ Durham(37063)    122    0    0
+------ Mecklenburg(37119)    420    1    0
+------ Chatham(37037)    16    0    0
+------ Harnett(37085)    18    1    0
+------ Forsyth(37067)    42    1    0
 ------ Johnston(37101)    23    1    0
 ------ Brunswick(37019)    14    0    0
------- Cabarrus(37025)    38    2    0
------- Craven(37049)    5    0    0
------- Guilford(37081)    44    0    0
+------ Cabarrus(37025)    47    2    0
+------ Craven(37049)    6    0    0
+------ Guilford(37081)    50    0    0
 ------ Iredell(37097)    25    0    0
------- Lincoln(37109)    3    0    0
------- Onslow(37133)    6    0    0
------- Orange(37135)    30    0    0
+------ Lincoln(37109)    4    0    0
+------ Onslow(37133)    7    1    0
+------ Orange(37135)    34    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    5    0    0
 ------ Wayne(37191)    4    0    0
 ------ Wilson(37195)    13    0    0
 ------ Gaston(37071)    27    0    0
 ------ New Hanover(37129)    30    0    0
------- Union(37179)    39    0    0
+------ Union(37179)    41    0    0
 ------ Moore(37125)    8    0    0
------- Buncombe(37021)    21    1    0
------- Hoke(37093)    3    0    0
------- Pitt(37147)    25    0    0
------- Davidson(37057)    19    0    0
------- Rowan(37159)    18    1    0
+------ Buncombe(37021)    22    1    0
+------ Hoke(37093)    4    0    0
+------ Pitt(37147)    27    0    0
+------ Davidson(37057)    22    0    0
+------ Rowan(37159)    23    1    0
 ------ Cumberland(37051)    18    0    0
------- Pasquotank(37139)    2    0    0
+------ Pasquotank(37139)    4    0    0
 ------ Alamance(37001)    7    0    0
------- Franklin(37069)    6    0    0
+------ Franklin(37069)    11    0    0
 ------ Catawba(37035)    14    0    0
 ------ Lee(37105)    2    0    0
 ------ Chowan(37041)    1    0    0
@@ -1073,20 +1073,20 @@
 ------ Carteret(37031)    11    1    0
 ------ Cherokee(37039)    7    0    0
 ------ Robeson(37155)    2    0    0
------- Granville(37077)    7    0    0
+------ Granville(37077)    9    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    2    0    0
 ------ Davie(37059)    12    0    0
------- Montgomery(37123)    3    0    0
------- Nash(37127)    4    0    0
------- Henderson(37089)    16    0    0
------- Vance(37181)    3    0    0
+------ Montgomery(37123)    5    0    0
+------ Nash(37127)    9    0    0
+------ Henderson(37089)    18    0    0
+------ Vance(37181)    4    0    0
 ------ Randolph(37151)    17    0    0
 ------ Richmond(37153)    1    0    0
------- Hertford(37091)    3    0    0
+------ Hertford(37091)    4    0    0
 ------ Jackson(37099)    1    0    0
------- Transylvania(37175)    3    0    0
------- Northampton(37131)    26    1    0
+------ Transylvania(37175)    5    0    0
+------ Northampton(37131)    30    1    0
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    5    0    0
 ------ Bertie(37015)    6    0    0
@@ -1100,23 +1100,25 @@
 ------ Dare(37055)    2    0    0
 ------ Surry(37171)    2    0    0
 ------ Mitchell(37121)    1    0    0
------- Polk(37149)    2    0    0
+------ Polk(37149)    3    0    0
 ------ Greene(37079)    3    0    0
 ------ Swain(37173)    1    0    0
 ------ Halifax(37083)    4    0    0
 ------ Alleghany(37005)    2    0    0
------- Edgecombe(37065)    1    0    0
+------ Edgecombe(37065)    3    0    0
 ------ Perquimans(37143)    1    0    0
 ------ Columbus(37047)    4    0    0
 ------ Caswell(37033)    1    0    0
------- Yadkin(37197)    2    0    0
------- Alexander(37003)    1    0    0
+------ Yadkin(37197)    3    0    0
+------ Alexander(37003)    2    0    0
 ------ Washington(37187)    1    0    0
 ------ Currituck(37053)    1    0    0
 ------ Pamlico(37137)    1    0    0
 ------ Bladen(37017)    1    0    0
------- Rutherford(37161)    2    0    0
+------ Rutherford(37161)    4    0    0
 ------ Wilkes(37193)    2    0    0
+------ Anson(37007)    1    0    0
+------ Clay(37043)    1    0    0
 ---- MI    6498    185    15
 ------ Oakland(26125)    1365    48    0
 ------ Wayne(26163)    3195    83    0
@@ -2138,7 +2140,7 @@
 ------ Randolph(54083)    1    0    0
 ---- GU    58    1    7
 ------ Guam(66010)    55    1    0
----- PR    174    7    0
+---- PR    239    8    0
 ---- VI    30    0    21
 ---- MP    2    0    0
 -- Italy    101739    11591    14620
@@ -2739,7 +2741,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    10827    168    162
--- Austria    9920    128    1095
+-- Austria    9974    128    1095
 -- Korea, Republic of    9786    162    5408
 ---- Busan    119    3    87
 ---- Chungcheongbuk-do    44    0    22
@@ -2847,7 +2849,7 @@
 ---- Yamagata    1    0    0
 -- Pakistan    1865    25    76
 -- Thailand    1651    10    342
--- Saudi Arabia    1563    8    115
+-- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
 -- Finland    1418    13    10
 -- South Africa    1326    3    31
@@ -2856,15 +2858,15 @@
 -- Mexico    1094    28    35
 -- Iceland    1086    5    157
 -- Panama    1075    27    9
--- Argentina    966    24    228
+-- Argentina    966    25    228
 -- Peru    950    24    53
 -- Singapore    926    3    228
 ---- Central Singapore Community Development Council    345    0    124
 -- Dominican Republic    901    42    4
+-- Serbia    900    23    42
 -- Croatia    867    6    67
 -- Slovenia    802    15    10
 -- Colombia    798    14    15
--- Serbia    785    16    42
 -- Estonia    745    4    26
 -- Hong Kong    714    4    128
 -- Qatar    693    1    51
@@ -2888,12 +2890,12 @@
 -- Tunisia    362    10    3
 -- Kazakhstan    336    3    22
 -- Costa Rica    330    2    4
+-- North Macedonia    329    7    12
 -- Taiwan    322    5    39
 -- Uruguay    320    1    25
 -- Moldova, Republic of    298    2    18
 -- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
--- North Macedonia    285    7    12
 -- Jordan    268    5    26
 -- Burkina Faso    246    12    31
 -- Albania    243    13    52
