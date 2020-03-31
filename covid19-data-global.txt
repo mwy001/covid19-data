@@ -1,4 +1,4 @@
--- United States of America    175816    3463    6000
+-- United States of America    175899    3464    6000
 ---- NY    75795    1550    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -1342,23 +1342,23 @@
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
----- AL    952    15    0
------- Jefferson(01073)    258    0    0
+---- AL    961    15    0
+------ Jefferson(01073)    260    0    0
 ------ Shelby(01117)    88    2    0
------- Lee(01081)    74    2    0
+------ Lee(01081)    75    2    0
 ------ Tuscaloosa(01125)    28    0    0
 ------ Elmore(01051)    14    0    0
 ------ Montgomery(01101)    29    1    0
 ------ Baldwin(01003)    19    1    0
------- Limestone(01083)    20    0    0
------- Madison(01089)    96    1    0
+------ Limestone(01083)    22    0    0
+------ Madison(01089)    97    1    0
 ------ Calhoun(01015)    9    0    0
 ------ St Clair(01115)    14    0    0
 ------ Chambers(01017)    36    4    0
 ------ Talladega(01121)    6    0    0
 ------ Walker(01127)    32    0    0
 ------ Mobile(01097)    48    1    0
------- Jackson(01071)    7    1    0
+------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
 ------ Washington(01129)    4    0    0
@@ -1371,7 +1371,7 @@
 ------ Autauga(01001)    7    0    0
 ------ Pickens(01107)    3    0    0
 ------ Pike(01109)    4    0    0
------- Etowah(01055)    6    0    0
+------ Etowah(01055)    7    0    0
 ------ Dallas(01047)    3    0    0
 ------ Blount(01009)    5    0    0
 ------ Butler(01013)    1    0    0
@@ -1383,14 +1383,14 @@
 ------ Lawrence(01079)    3    0    0
 ------ Marshall(01095)    7    0    0
 ------ Russell(01113)    1    0    0
------- Wilcox(01131)    2    0    0
+------ Wilcox(01131)    3    0    0
 ------ Coffee(01031)    1    0    0
 ------ Lowndes(01085)    1    0    0
 ------ Marengo(01091)    5    0    0
 ------ DeKalb(01049)    4    0    0
 ------ Coosa(01037)    4    0    0
 ------ Bullock(01011)    3    0    0
------- Choctaw(01023)    2    0    0
+------ Choctaw(01023)    3    0    0
 ------ Crenshaw(01041)    1    0    0
 ------ Winston(01133)    2    0    0
 ------ Greene(01063)    3    0    0
@@ -1399,7 +1399,7 @@
 ------ Escambia(01053)    1    0    0
 ------ Monroe(01099)    1    0    0
 ------ Macon(01087)    1    0    0
------- Bibb(01007)    2    0    0
+------ Bibb(01007)    3    0    0
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
 ------ Sumter(01119)    1    0    0
@@ -1500,37 +1500,37 @@
 ------ Knox(18083)    2    0    0
 ------ Cass(18017)    1    0    0
 ------ Jefferson(18077)    1    0    0
----- IA    424    6    0
------- Johnson(19103)    70    0    0
------- Dallas(19049)    21    0    0
+---- IA    497    7    0
+------ Johnson(19103)    73    0    0
+------ Dallas(19049)    25    0    0
 ------ Allamakee(19005)    7    1    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    7    0    0
 ------ Carroll(19027)    1    0    0
------- Harrison(19085)    8    0    0
------- Polk(19153)    61    0    0
------- Pottawattamie(19155)    3    0    0
------- Washington(19183)    18    1    0
+------ Harrison(19085)    9    0    0
+------ Polk(19153)    76    0    0
+------ Pottawattamie(19155)    4    0    0
+------ Washington(19183)    24    1    0
 ------ Winneshiek(19191)    7    0    0
------- Scott(19163)    16    0    0
+------ Scott(19163)    18    0    0
 ------ Dubuque(19061)    21    3    0
------- Muscatine(19139)    13    0    0
------- Linn(19113)    71    2    0
+------ Muscatine(19139)    16    1    0
+------ Linn(19113)    90    2    0
 ------ Fayette(19065)    2    0    0
 ------ Henry(19087)    3    0    0
 ------ Story(19169)    2    0    0
 ------ Woodbury(19193)    4    0    0
 ------ Cerro Gordo(19033)    7    0    0
------- Tama(19171)    10    0    0
+------ Tama(19171)    11    0    0
 ------ Kossuth(19109)    1    0    0
------- Sioux(19167)    2    0    0
+------ Sioux(19167)    4    0    0
 ------ Poweshiek(19157)    5    1    0
 ------ Hancock(19081)    3    0    0
 ------ Wapello(19179)    1    0    0
 ------ Buchanan(19019)    2    0    0
------- Cedar(19031)    8    0    0
------- Jasper(19099)    5    0    0
------- Warren(19181)    1    0    0
+------ Cedar(19031)    9    0    0
+------ Jasper(19099)    6    0    0
+------ Warren(19181)    3    0    0
 ------ Benton(19011)    7    0    0
 ------ Des Moines(19057)    1    0    0
 ------ Page(19145)    2    0    0
@@ -1538,25 +1538,26 @@
 ------ Clayton(19043)    1    0    0
 ------ Mahaska(19123)    2    0    0
 ------ Monona(19133)    5    0    0
------- Clinton(19045)    2    0    0
+------ Clinton(19045)    5    0    0
 ------ Butler(19023)    1    0    0
 ------ Dickinson(19059)    1    0    0
 ------ Hardin(19083)    1    0    0
------- Iowa(19095)    3    0    0
------- Marshall(19127)    6    0    0
+------ Iowa(19095)    4    0    0
+------ Marshall(19127)    8    0    0
 ------ Montgomery(19137)    1    0    0
 ------ Webster(19187)    1    0    0
 ------ Wright(19197)    1    0    0
 ------ Boone(19015)    1    0    0
------- Keokuk(19107)    1    0    0
+------ Keokuk(19107)    2    0    0
 ------ Shelby(19165)    3    0    0
 ------ Taylor(19173)    1    0    0
 ------ Audubon(19009)    1    0    0
 ------ Crawford(19047)    1    0    0
 ------ Guthrie(19077)    1    0    0
 ------ Jackson(19097)    1    0    0
------- Jones(19105)    1    0    0
+------ Jones(19105)    4    0    0
 ------ Van Buren(19177)    1    0    0
+------ Clay(19041)    1    0    0
 ---- KY    491    11    64
 ------ Jefferson(21111)    133    3    0
 ------ Fayette(21067)    93    2    0
@@ -2684,7 +2685,7 @@
 ---- Baden-Württemberg    11536    128    1058
 ---- Saxony-Anhalt    654    4    22
 ---- Saarland    726    7    47
--- France    45170    3030    7964
+-- France    52128    3523    7964
 ---- France    7652    148    12
 ---- St Martin    15    1    2
 ---- Saint Barthelemy    6    0    1
@@ -2779,7 +2780,7 @@
 ---- Seoul    450    0    107
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Canada    7474    92    1114
+-- Canada    8467    95    1162
 ---- British Columbia    970    19    183
 ---- Ontario    1706    33    8
 ---- Alberta    690    8    0
@@ -2794,7 +2795,7 @@
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
 -- Portugal    7443    160    43
--- Israel    4831    18    163
+-- Israel    4831    19    163
 -- Brazil    4715    168    127
 -- Norway    4605    39    13
 -- Australia    4561    19    358
@@ -2815,7 +2816,7 @@
 -- Malaysia    2766    43    537
 -- Chile    2738    12    156
 -- Russian Federation    2337    17    121
--- Romania    2245    79    220
+-- Romania    2245    80    220
 -- Ecuador    2240    75    54
 -- Poland    2215    32    13
 -- Luxembourg    2178    23    80
@@ -2877,8 +2878,8 @@
 -- Dominican Republic    1109    51    5
 -- Mexico    1094    28    35
 -- Panama    1075    27    9
+-- Peru    1065    24    53
 -- Argentina    966    26    240
--- Peru    950    24    53
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
 -- Serbia    900    23    42
@@ -2930,7 +2931,7 @@
 -- Malta    169    0    2
 -- Côte d'Ivoire    168    1    6
 -- Uzbekistan    167    2    7
--- Ghana    152    5    31
+-- Ghana    161    5    31
 -- Belarus    152    1    47
 -- Mauritius    143    4    0
 -- Sri Lanka    142    2    17
@@ -2941,11 +2942,11 @@
 -- Martinique    119    2    27
 -- Palestine    117    1    18
 -- Georgia    110    0    21
+-- Montenegro    109    2    0
 -- Cambodia    109    0    23
 -- Kyrgyzstan    107    0    3
 -- Bolivia, Plurinational State of    107    6    0
 -- Guadeloupe    106    4    17
--- Montenegro    105    2    0
 -- Kosovo    94    1    1
 -- Mayotte    94    1    10
 -- Trinidad and Tobago    85    3    1
@@ -2956,8 +2957,8 @@
 -- Paraguay    65    3    1
 -- Isle of Man    60    0    0
 -- Kenya    59    1    1
+-- Aruba    55    0    1
 -- Bangladesh    51    5    25
--- Aruba    50    0    1
 -- Monaco    49    1    1
 -- Madagascar    46    0    0
 -- French Guiana    43    0    6
@@ -2976,7 +2977,7 @@
 -- Mali    28    2    0
 -- Niger    27    3    0
 -- Bermuda    27    0    10
--- Ethiopia    25    0    4
+-- Ethiopia    26    0    4
 -- Guyana    23    2    0
 -- Guinea    22    0    0
 -- Tanzania, United Republic of    19    1    1
