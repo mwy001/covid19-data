@@ -2647,7 +2647,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
--- Germany    67051    650    13500
+-- Germany    67051    651    15824
 ---- Saxony    1816    10    32
 ---- Mecklenburg-Vorpommern    356    1    15
 ---- Free State of Bavaria    13989    127    637
@@ -2773,7 +2773,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
--- Portugal    6408    140    43
+-- Portugal    7443    160    43
 -- Israel    4831    18    163
 -- Brazil    4661    165    127
 -- Australia    4557    19    358
@@ -2900,7 +2900,7 @@
 -- Cyprus    230    7    22
 -- San Marino    230    25    13
 -- Réunion    224    0    1
--- Viet Nam    207    0    55
+-- Viet Nam    207    0    57
 -- Cameroon    193    6    5
 -- Oman    192    0    34
 -- Senegal    175    0    40
@@ -2916,8 +2916,8 @@
 -- Honduras    141    7    3
 -- Venezuela, Bolivarian Republic of    135    3    39
 -- Nigeria    135    2    8
+-- Sri Lanka    132    2    16
 -- Brunei Darussalam    129    1    45
--- Sri Lanka    129    2    16
 -- Palestine    117    1    18
 -- Georgia    110    0    21
 -- Cambodia    109    0    23
@@ -2952,9 +2952,9 @@
 -- Guam    33    1    0
 -- El Salvador    32    0    0
 -- Togo    30    1    1
+-- Mali    28    2    0
 -- Niger    27    3    0
 -- Bermuda    27    0    10
--- Mali    25    2    0
 -- Ethiopia    25    0    4
 -- Guyana    23    1    0
 -- Guinea    22    0    0
@@ -2983,12 +2983,12 @@
 -- Grenada    9    0    0
 -- Eswatini    9    0    0
 -- Saint Lucia    9    0    1
+-- Saint Kitts and Nevis    8    0    0
 -- Guinea-Bissau    8    0    0
 -- Libya    8    0    0
 -- Mozambique    8    0    0
 -- Zimbabwe    8    1    0
 -- Suriname    8    0    0
--- Saint Kitts and Nevis    7    0    0
 -- Angola    7    2    1
 -- Chad    7    0    0
 -- Sudan    7    2    0
