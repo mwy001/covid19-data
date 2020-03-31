@@ -1,4 +1,4 @@
--- United States of America    165934    3233    5995
+-- United States of America    165969    3233    5995
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -543,7 +543,7 @@
 ------ Galveston(48167)    92    0    0
 ------ Lubbock(48303)    77    1    0
 ------ Matagorda(48321)    21    1    0
------- Bowie(48037)    4    0    0
+------ Bowie(48037)    4    1    0
 ------ Brazos(48041)    46    2    0
 ------ Denton(48121)    191    3    0
 ------ Ellis(48139)    15    0    0
@@ -764,11 +764,11 @@
 ------ Oneida(55085)    3    0    0
 ------ Jackson(55053)    2    0    0
 ------ Marquette(55077)    2    0    0
----- TN    2035    14    69
+---- TN    2041    14    69
 ------ Davidson(47037)    541    3    0
 ------ Williamson(47187)    111    0    0
 ------ Shelby(47157)    396    1    0
------- Knox(47093)    57    1    0
+------ Knox(47093)    63    1    0
 ------ Campbell(47013)    4    0    0
 ------ Hamilton(47065)    40    1    0
 ------ Jefferson(47089)    5    0    0
@@ -1040,7 +1040,7 @@
 ------ Carroll(51035)    1    0    0
 ------ Brunswick(51025)    1    0    0
 ------ King and Queen(51097)    1    0    0
----- NC    1508    10    5
+---- NC    1509    10    5
 ------ Wake(37183)    186    0    0
 ------ Durham(37063)    122    0    0
 ------ Mecklenburg(37119)    420    1    0
@@ -1077,7 +1077,7 @@
 ------ Lee(37105)    2    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    7    0    0
------- Carteret(37031)    11    1    0
+------ Carteret(37031)    12    1    0
 ------ Cherokee(37039)    7    0    0
 ------ Robeson(37155)    2    0    0
 ------ Granville(37077)    9    0    0
@@ -1336,7 +1336,7 @@
 ------ Williamsburg(45089)    2    0    0
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
----- AL    952    13    0
+---- AL    952    15    0
 ------ Jefferson(01073)    258    0    0
 ------ Shelby(01117)    88    2    0
 ------ Lee(01081)    74    2    0
@@ -1397,13 +1397,13 @@
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
 ------ Sumter(01119)    1    0    0
----- ME    303    3    41
+---- ME    303    5    41
 ------ Cumberland(23005)    169    3    0
 ------ Androscoggin(23001)    11    0    0
------- Kennebec(23011)    12    0    0
+------ Kennebec(23011)    12    1    0
 ------ Knox(23013)    5    0    0
 ------ Oxford(23017)    9    0    0
------- York(23031)    59    0    0
+------ York(23031)    59    1    0
 ------ Penobscot(23019)    12    0    0
 ------ Lincoln(23015)    8    0    0
 ------ Hancock(23009)    1    0    0
@@ -2096,14 +2096,14 @@
 ------ Burleigh(38015)    29    0    0
 ------ Ward(38101)    9    0    0
 ------ Cass(38017)    24    1    0
------- Morton(38059)    14    0    0
+------ Morton(38059)    14    1    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    3    0    0
 ------ Walsh(38099)    1    0    0
 ------ Dunn(38025)    1    0    0
 ------ Foster(38031)    1    0    0
 ------ Stark(38089)    10    0    0
------- McHenry(38049)    1    0    0
+------ McHenry(38049)    1    1    0
 ------ McIntosh(38051)    1    0    0
 ------ Barnes(38003)    2    0    0
 ------ Mountrail(38061)    4    0    0
@@ -2787,8 +2787,8 @@
 ---- Nunavut    1    0    0
 -- Portugal    7443    160    43
 -- Israel    4831    18    163
--- Brazil    4681    167    127
--- Norway    4599    36    13
+-- Brazil    4685    168    127
+-- Norway    4605    36    13
 -- Australia    4561    19    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
@@ -2801,7 +2801,7 @@
 -- Sweden    4435    180    16
 -- Czechia    3002    25    25
 -- Ireland    2910    54    5
--- Denmark    2815    90    73
+-- Denmark    2860    90    73
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    2766    43    537
@@ -2862,14 +2862,14 @@
 -- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
 -- Finland    1418    17    10
--- South Africa    1326    3    31
+-- South Africa    1353    3    31
+-- Greece    1314    49    52
 -- India    1251    32    102
--- Greece    1212    46    52
 -- Iceland    1135    5    198
 -- Dominican Republic    1109    51    5
 -- Mexico    1094    28    35
 -- Panama    1075    27    9
--- Argentina    966    26    228
+-- Argentina    966    26    240
 -- Peru    950    24    53
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
@@ -2899,7 +2899,7 @@
 -- Slovakia    363    1    7
 -- Tunisia    362    10    3
 -- Moldova, Republic of    353    4    18
--- Kazakhstan    336    3    22
+-- Kazakhstan    340    3    22
 -- Costa Rica    330    2    4
 -- North Macedonia    329    9    12
 -- Taiwan    322    5    39
@@ -2907,7 +2907,7 @@
 -- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
 -- Jordan    268    5    26
--- Cyprus    262    8    22
+-- Cyprus    262    8    23
 -- Réunion    247    0    1
 -- Burkina Faso    246    12    31
 -- Albania    243    13    52
@@ -2960,11 +2960,11 @@
 -- Jamaica    36    1    2
 -- Zambia    35    0    0
 -- Barbados    34    0    0
+-- Togo    34    1    10
 -- Uganda    33    0    0
 -- Guam    33    1    0
 -- El Salvador    32    0    0
 -- Djibouti    30    0    0
--- Togo    30    1    1
 -- Mali    28    2    0
 -- Niger    27    3    0
 -- Bermuda    27    0    10
@@ -2977,10 +2977,10 @@
 -- Virgin Islands, U.S.    17    0    0
 -- New Caledonia    16    0    0
 -- Gabon    16    1    0
+-- Myanmar    15    1    0
 -- Eritrea    15    0    0
 -- Haiti    15    0    1
 -- Saint Martin (French part)    15    1    2
--- Myanmar    14    1    0
 -- Bahamas    14    0    1
 -- Dominica    12    0    0
 -- Equatorial Guinea    12    0    1
