@@ -2734,7 +2734,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    15922    359    1823
--- Belgium    11899    513    1527
+-- Belgium    12775    705    1527
 -- Netherlands    11817    865    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -2758,7 +2758,7 @@
 ---- Seoul    450    0    107
 ---- Ulsan    39    0    20
 ---- 未确定地区    23    3    0
--- Austria    9772    108    636
+-- Austria    9772    128    1095
 -- Canada    7474    92    1114
 ---- British Columbia    970    19    183
 ---- Ontario    1706    33    8
@@ -2792,7 +2792,7 @@
 -- Denmark    2815    77    73
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
--- Malaysia    2626    37    479
+-- Malaysia    2766    43    479
 -- Chile    2449    8    156
 -- Poland    2132    31    13
 -- Romania    2109    68    209
@@ -2864,9 +2864,9 @@
 -- Colombia    798    14    15
 -- Croatia    790    6    67
 -- Serbia    785    16    42
--- Slovenia    756    11    10
--- Estonia    715    3    20
--- Hong Kong    714    4    118
+-- Slovenia    756    12    10
+-- Estonia    745    4    26
+-- Hong Kong    714    4    128
 -- Qatar    693    1    51
 -- Egypt    656    41    150
 -- New Zealand    647    1    74
@@ -2879,7 +2879,7 @@
 -- Bahrain    530    4    295
 -- Hungary    492    16    37
 -- Armenia    482    3    30
--- Lebanon    446    11    35
+-- Lebanon    446    12    35
 -- Bosnia and Herzegovina    411    10    17
 -- Latvia    398    0    1
 -- Bulgaria    379    8    17
@@ -2891,18 +2891,18 @@
 -- Taiwan    322    5    39
 -- Uruguay    320    1    25
 -- Moldova, Republic of    298    2    15
+-- Kuwait    289    0    73
 -- North Macedonia    285    7    12
 -- Azerbaijan    273    4    26
 -- Jordan    268    5    26
--- Kuwait    266    0    72
 -- Burkina Faso    246    12    31
 -- Cyprus    230    7    22
 -- San Marino    230    25    13
 -- Réunion    224    0    1
--- Albania    223    11    44
+-- Albania    223    11    52
 -- Viet Nam    204    0    55
 -- Cameroon    193    6    5
--- Oman    179    0    29
+-- Oman    192    0    34
 -- Afghanistan    174    4    5
 -- Cuba    170    4    4
 -- Faroe Islands    169    0    74
@@ -2919,8 +2919,8 @@
 -- Brunei Darussalam    127    1    38
 -- Sri Lanka    122    2    16
 -- Palestine    117    1    18
+-- Georgia    110    0    21
 -- Cambodia    109    0    23
--- Georgia    108    0    21
 -- Kyrgyzstan    107    0    3
 -- Bolivia, Plurinational State of    107    6    0
 -- Guadeloupe    106    4    17
@@ -2934,9 +2934,9 @@
 -- Gibraltar    69    0    34
 -- Paraguay    65    3    1
 -- Liechtenstein    64    0    0
+-- Isle of Man    60    0    0
 -- Kenya    50    1    1
 -- Aruba    50    0    1
--- Isle of Man    49    0    0
 -- Bangladesh    49    5    19
 -- Monaco    49    1    1
 -- Madagascar    46    0    0
@@ -2955,7 +2955,7 @@
 -- Niger    27    3    0
 -- Bermuda    27    0    2
 -- Mali    25    2    0
--- Ethiopia    23    0    4
+-- Ethiopia    25    0    4
 -- Guyana    23    1    0
 -- Guinea    22    0    0
 -- Tanzania, United Republic of    19    1    1
@@ -2993,7 +2993,7 @@
 -- Chad    7    0    0
 -- Antigua and Barbuda    7    0    0
 -- Cabo Verde    6    1    0
--- Benin    6    0    0
+-- Benin    6    0    1
 -- Saint Barthélemy    6    0    1
 -- Sudan    6    2    0
 -- Mauritania    6    1    2
