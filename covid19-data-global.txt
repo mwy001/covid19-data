@@ -1,4 +1,4 @@
--- United States of America    187092    3827    6913
+-- United States of America    187263    3843    6913
 ---- NY    75833    1550    5169
 ------ Westchester(36119)    9967    10    0
 ------ Nassau(36059)    8544    48    0
@@ -95,8 +95,8 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    8119    168    60
------- Santa Clara(06085)    890    28    0
+---- CA    8119    169    60
+------ Santa Clara(06085)    890    30    0
 ------ Los Angeles(06037)    3011    54    0
 ------ San Mateo(06081)    309    10    0
 ------ San Diego(06073)    603    7    0
@@ -1375,7 +1375,7 @@
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
 ------ Bamberg(45009)    2    0    0
----- AL    981    15    0
+---- AL    982    15    0
 ------ Jefferson(01073)    270    0    0
 ------ Shelby(01117)    88    2    0
 ------ Lee(01081)    75    2    0
@@ -1404,7 +1404,7 @@
 ------ Autauga(01001)    7    0    0
 ------ Pickens(01107)    4    0    0
 ------ Pike(01109)    4    0    0
------- Etowah(01055)    7    0    0
+------ Etowah(01055)    8    0    0
 ------ Dallas(01047)    3    0    0
 ------ Blount(01009)    5    0    0
 ------ Butler(01013)    1    0    0
@@ -1591,7 +1591,7 @@
 ------ Jones(19105)    4    0    0
 ------ Van Buren(19177)    1    0    0
 ------ Clay(19041)    1    0    0
----- KY    491    11    64
+---- KY    591    17    64
 ------ Jefferson(21111)    133    3    0
 ------ Fayette(21067)    93    2    0
 ------ Harrison(21097)    11    0    0
@@ -1664,7 +1664,7 @@
 ------ Cheshire(33005)    3    0    0
 ------ Strafford(33017)    22    0    0
 ------ Sullivan(33019)    3    0    0
----- NE    153    3    0
+---- NE    172    3    0
 ------ Douglas(31055)    78    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
@@ -1686,7 +1686,7 @@
 ------ Platte(31141)    1    0    0
 ------ Scotts Bluff(31157)    1    0    0
 ------ York(31185)    1    0    0
----- NM    281    4    26
+---- NM    315    4    26
 ------ Bernalillo(35001)    117    3    0
 ------ Santa Fe(35049)    37    0    0
 ------ Sandoval(35043)    23    0    0
@@ -2086,7 +2086,7 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    1    0    0
 ------ Sublette(56035)    1    0    0
----- MT    185    5    0
+---- MT    186    5    0
 ------ Missoula(30063)    12    0    0
 ------ Yellowstone(30111)    28    0    0
 ------ Broadwater(30007)    3    0    0
@@ -2095,7 +2095,7 @@
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    6    2    0
 ------ Flathead(30029)    11    0    0
------- Lewis and Clark(30049)    11    0    0
+------ Lewis and Clark(30049)    12    0    0
 ------ Ravalli(30081)    1    0    0
 ------ Cascade(30013)    8    0    0
 ------ Jefferson(30043)    2    0    0
@@ -2103,7 +2103,7 @@
 ------ Glacier(30035)    1    0    0
 ------ Lincoln(30053)    5    1    0
 ------ Meagher(30059)    1    0    0
------- Toole(30101)    6    2    0
+------ Toole(30101)    7    2    0
 ------ Park(30067)    3    0    0
 ------ Lake(30047)    3    0    0
 ------ Deer Lodge(30023)    3    0    0
@@ -2134,7 +2134,7 @@
 ------ Elmore(16039)    1    0    0
 ------ Jerome(16053)    1    0    0
 ------ Minidoka(16067)    1    0    0
----- ND    122    3    25
+---- ND    126    3    25
 ------ Burleigh(38015)    29    0    0
 ------ Ward(38101)    9    0    0
 ------ Cass(38017)    32    1    0
@@ -2829,10 +2829,10 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
+-- Israel    8385    20    224
 -- Portugal    7443    160    43
 -- Brazil    5717    201    127
--- Israel    5358    20    224
--- Australia    4711    20    358
+-- Australia    4712    20    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
 ---- Queensland    743    2    8
@@ -2843,7 +2843,7 @@
 ---- Australian Capital Territory    80    1    3
 -- Norway    4641    39    13
 -- Sweden    4435    180    16
--- Czechia    3257    31    45
+-- Czechia    3308    31    45
 -- Ireland    3235    71    5
 -- Denmark    2860    90    73
 ---- Denmark    977    4    1
@@ -3000,7 +3000,7 @@
 -- French Guiana    43    0    6
 -- Macao    41    0    10
 -- Puerto Rico    39    2    1
--- Guatemala    38    1    10
+-- Guatemala    38    1    12
 -- French Polynesia    36    0    0
 -- Jamaica    36    1    2
 -- Zambia    35    0    0
