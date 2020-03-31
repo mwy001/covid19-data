@@ -1,4 +1,4 @@
--- United States of America    164814    3180    5945
+-- United States of America    164825    3182    5945
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -60,7 +60,7 @@
 ------ Cattaraugus(36009)    6    0    0
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
----- WA    5192    219    490
+---- WA    5212    220    490
 ------ King(53033)    2330    150    0
 ------ Snohomish(53061)    1127    31    0
 ------ Pierce(53053)    352    6    0
@@ -68,14 +68,14 @@
 ------ Skagit(53057)    101    3    0
 ------ Grant(53025)    59    1    0
 ------ Kitsap(53035)    56    1    0
------- Whatcom(53073)    116    7    0
+------ Whatcom(53073)    120    7    0
 ------ Thurston(53067)    36    0    0
------- Yakima(53077)    147    3    0
+------ Yakima(53077)    161    3    0
 ------ Clark(53011)    90    6    0
 ------ Spokane(53063)    136    4    0
 ------ Jefferson(53031)    14    0    0
 ------ Kittitas(53037)    18    0    0
------- Chelan(53007)    14    1    0
+------ Chelan(53007)    16    2    0
 ------ Columbia(53013)    1    0    0
 ------ Cowlitz(53015)    14    0    0
 ------ Grays Harbor(53027)    2    0    0
@@ -2034,22 +2034,22 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    1    0    0
 ------ Sublette(56035)    1    0    0
----- MT    177    5    0
+---- MT    185    5    0
 ------ Missoula(30063)    12    0    0
 ------ Yellowstone(30111)    28    0    0
 ------ Broadwater(30007)    3    0    0
 ------ Gallatin(30031)    69    0    0
------- Silver Bow(30093)    9    0    0
+------ Silver Bow(30093)    11    0    0
 ------ Roosevelt(30085)    1    0    0
------- Madison(30057)    4    2    0
------- Flathead(30029)    9    0    0
+------ Madison(30057)    6    2    0
+------ Flathead(30029)    11    0    0
 ------ Lewis and Clark(30049)    11    0    0
 ------ Ravalli(30081)    1    0    0
------- Cascade(30013)    7    0    0
+------ Cascade(30013)    8    0    0
 ------ Jefferson(30043)    2    0    0
 ------ Hill(30041)    1    0    0
 ------ Glacier(30035)    1    0    0
------- Lincoln(30053)    4    1    0
+------ Lincoln(30053)    5    1    0
 ------ Meagher(30059)    1    0    0
 ------ Toole(30101)    6    2    0
 ------ Park(30067)    3    0    0
@@ -2138,7 +2138,7 @@
 ------ Wirt(54105)    1    0    0
 ------ Roane(54087)    2    0    0
 ------ Randolph(54083)    1    0    0
----- GU    58    1    7
+---- GU    69    2    7
 ------ Guam(66010)    55    1    0
 ---- PR    239    8    0
 ---- VI    30    0    21
@@ -2186,7 +2186,7 @@
 ---- Melilla    51    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- China    82595    3314    76234
+-- China    82599    3314    76237
 ---- 天津    174    3    133
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -2330,8 +2330,8 @@
 ------ 韩城    1    0    1
 ------ 杨凌    1    0    1
 ------ 境外输入    8    0    0
----- 广东    1490    8    1355
------- 广州    431    1    337
+---- 广东    1494    8    1356
+------ 广州    435    1    337
 ------ 深圳    450    3    414
 ------ 佛山    93    0    84
 ------ 中山    68    0    68
@@ -2341,14 +2341,14 @@
 ------ 梅州    17    0    16
 ------ 揭阳    9    0    8
 ------ 潮州    6    0    5
------- 东莞    100    1    100
+------ 东莞    100    1    99
 ------ 惠州    62    0    62
 ------ 汕头    25    0    25
 ------ 江门    23    0    23
 ------ 阳江    14    0    14
 ------ 茂名    14    0    14
 ------ 清远    12    0    12
------- 韶关    10    1    10
+------ 韶关    10    1    9
 ------ 汕尾    5    0    5
 ------ 河源    4    0    4
 ---- 福建    343    1    295
@@ -2777,9 +2777,9 @@
 ---- Nunavut    1    0    0
 -- Portugal    7443    160    43
 -- Israel    4831    18    163
--- Brazil    4661    165    127
--- Norway    4592    35    13
--- Australia    4557    19    358
+-- Brazil    4667    166    127
+-- Norway    4599    36    13
+-- Australia    4561    19    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
 ---- Queensland    743    2    8
@@ -2851,16 +2851,16 @@
 -- Thailand    1651    10    342
 -- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
--- Finland    1418    13    10
+-- Finland    1418    17    10
 -- South Africa    1326    3    31
 -- India    1251    32    102
 -- Greece    1212    46    52
+-- Iceland    1135    5    157
 -- Mexico    1094    28    35
--- Iceland    1086    5    157
 -- Panama    1075    27    9
 -- Argentina    966    25    228
 -- Peru    950    24    53
--- Singapore    926    3    228
+-- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
 -- Dominican Republic    901    42    4
 -- Serbia    900    23    42
@@ -2870,15 +2870,15 @@
 -- Estonia    745    4    26
 -- Hong Kong    714    4    128
 -- Qatar    693    1    51
+-- United Arab Emirates    664    6    61
 -- Egypt    656    41    150
 -- New Zealand    647    1    74
 -- Iraq    630    46    152
--- United Arab Emirates    611    5    61
 -- Algeria    584    35    65
 -- Morocco    574    33    15
 -- Bahrain    567    4    295
 -- Ukraine    549    13    8
--- Lithuania    533    7    7
+-- Lithuania    533    8    7
 -- Armenia    532    3    30
 -- Hungary    492    16    37
 -- Lebanon    463    12    35
@@ -2890,7 +2890,7 @@
 -- Tunisia    362    10    3
 -- Kazakhstan    336    3    22
 -- Costa Rica    330    2    4
--- North Macedonia    329    7    12
+-- North Macedonia    329    9    12
 -- Taiwan    322    5    39
 -- Uruguay    320    1    25
 -- Moldova, Republic of    298    2    18
@@ -2911,8 +2911,8 @@
 -- Faroe Islands    169    0    74
 -- Malta    169    0    2
 -- Côte d'Ivoire    168    1    6
--- Uzbekistan    158    2    7
--- Ghana    152    5    8
+-- Uzbekistan    167    2    7
+-- Ghana    152    5    31
 -- Belarus    152    1    47
 -- Mauritius    143    3    0
 -- Honduras    141    7    3
@@ -2937,8 +2937,8 @@
 -- Paraguay    65    3    1
 -- Liechtenstein    64    0    0
 -- Isle of Man    60    0    0
+-- Kenya    59    1    1
 -- Bangladesh    51    5    25
--- Kenya    50    1    1
 -- Aruba    50    0    1
 -- Monaco    49    1    1
 -- Madagascar    46    0    0
@@ -2973,7 +2973,7 @@
 -- Myanmar    14    1    0
 -- Bahamas    14    0    1
 -- Dominica    12    0    0
--- Equatorial Guinea    12    0    0
+-- Equatorial Guinea    12    0    1
 -- Cayman Islands    12    1    0
 -- Mongolia    12    0    2
 -- Curaçao    11    1    2
