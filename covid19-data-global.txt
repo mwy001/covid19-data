@@ -1,4 +1,4 @@
--- United States of America    164825    3182    5945
+-- United States of America    165414    3183    5945
 ---- NY    67384    1342    4397
 ------ Westchester(36119)    9326    10    0
 ------ Nassau(36059)    7344    48    0
@@ -1236,29 +1236,29 @@
 ------ Itasca(27061)    1    0    0
 ------ Meeker(27093)    1    0    0
 ------ Watonwan(27165)    1    0    0
----- MD    1413    15    4
------- Montgomery(24031)    341    1    0
+---- MD    1660    15    4
+------ Montgomery(24031)    388    1    0
 ------ Prince George's(24033)    20    1    0
------- Baltimore(24005)    186    2    0
------- Howard(24027)    96    1    0
------- Anne Arundel(24003)    110    0    0
------- Carroll(24013)    83    1    0
------- Harford(24025)    24    0    0
------- Charles(24017)    33    1    0
------- Frederick(24021)    26    0    0
+------ Baltimore(24005)    227    2    0
+------ Howard(24027)    117    1    0
+------ Anne Arundel(24003)    127    0    0
+------ Carroll(24013)    92    1    0
+------ Harford(24025)    25    0    0
+------ Charles(24017)    40    1    0
+------ Frederick(24021)    33    0    0
 ------ Talbot(24041)    4    0    0
------- Calvert(24009)    12    0    0
------- Baltimore City(24510)    152    2    0
------- Wicomico(24045)    6    1    0
+------ Calvert(24009)    15    0    0
+------ Baltimore City(24510)    187    2    0
+------ Wicomico(24045)    7    1    0
 ------ Worcester(24047)    3    0    0
------- Prince Georges(24033)    294    6    0
+------ Prince Georges(24033)    341    6    0
 ------ Caroline(24011)    4    0    0
 ------ Queen Anne's(24035)    4    0    0
 ------ Somerset(24039)    4    0    0
------- Washington(24043)    7    0    0
------- Cecil(24015)    13    0    0
+------ Washington(24043)    11    0    0
+------ Cecil(24015)    14    0    0
 ------ Garrett(24023)    3    0    0
------- St Marys(24037)    9    0    0
+------ St Marys(24037)    15    0    0
 ------ Kent(24029)    3    0    0
 ---- NV    1044    18    10
 ------ Clark(32003)    753    15    0
@@ -1405,79 +1405,79 @@
 ------ Somerset(23025)    1    0    0
 ---- DC    495    9    121
 ------ District of Columbia(11001)    495    9    0
----- IN    1787    36    0
------- Marion(18097)    804    12    0
------- Hendricks(18063)    58    2    0
------- Johnson(18081)    81    3    0
------- Franklin(18047)    28    4    0
------- Howard(18067)    14    1    0
------- Lake(18089)    97    1    0
+---- IN    2159    49    0
+------ Marion(18097)    964    17    0
+------ Hendricks(18063)    70    2    0
+------ Johnson(18081)    101    3    0
+------ Franklin(18047)    35    4    0
+------ Howard(18067)    16    1    0
+------ Lake(18089)    146    5    0
 ------ Adams(18001)    1    0    0
------- Bartholomew(18005)    10    0    0
------- Boone(18011)    20    0    0
------- Floyd(18043)    20    0    0
------- Hamilton(18057)    106    0    0
+------ Bartholomew(18005)    13    0    0
+------ Boone(18011)    22    0    0
+------ Floyd(18043)    21    0    0
+------ Hamilton(18057)    127    0    0
 ------ Noble(18113)    2    0    0
------- Wells(18179)    1    0    0
------- Clark(18019)    27    0    0
------- Fayette(18041)    8    1    0
------- Jennings(18079)    14    0    0
------- Madison(18095)    29    1    0
------- St Joseph(18141)    36    1    0
------- Owen(18119)    10    0    0
+------ Wells(18179)    2    0    0
+------ Clark(18019)    33    0    0
+------ Fayette(18041)    9    1    0
+------ Jennings(18079)    15    0    0
+------ Madison(18095)    38    1    0
+------ St Joseph(18141)    49    1    0
+------ Owen(18119)    11    0    0
 ------ Tippecanoe(18157)    14    1    0
------- Wayne(18177)    1    0    0
------- Allen(18003)    28    1    0
------- Monroe(18105)    26    0    0
------- Vigo(18167)    7    1    0
+------ Wayne(18177)    2    0    0
+------ Allen(18003)    30    1    0
+------ Monroe(18105)    30    0    0
+------ Vigo(18167)    8    1    0
 ------ Vanderburgh(18163)    17    0    0
 ------ Grant(18053)    7    0    0
------- Shelby(18145)    13    0    0
------- Delaware(18035)    15    1    0
+------ Shelby(18145)    15    0    0
+------ Delaware(18035)    18    1    0
 ------ Scott(18143)    1    1    0
------- Elkhart(18039)    12    0    0
------- Greene(18055)    1    0    0
------- Hancock(18059)    28    1    0
+------ Elkhart(18039)    20    1    0
+------ Greene(18055)    2    0    0
+------ Hancock(18059)    28    2    0
 ------ Harrison(18061)    15    0    0
 ------ Miami(18103)    3    0    0
------- Dubois(18037)    2    0    0
------- Morgan(18109)    23    1    0
+------ Dubois(18037)    3    0    0
+------ Morgan(18109)    32    1    0
 ------ Putnam(18133)    7    1    0
 ------ Tipton(18159)    4    0    0
 ------ Washington(18175)    6    0    0
------- Ripley(18137)    25    0    0
+------ Ripley(18137)    31    1    0
 ------ Starke(18149)    2    0    0
------- Decatur(18031)    42    0    0
------- Dearborn(18029)    10    1    0
+------ Decatur(18031)    47    1    0
+------ Dearborn(18029)    14    1    0
 ------ Gibson(18051)    4    0    0
 ------ Brown(18013)    3    0    0
 ------ Jackson(18071)    8    0    0
 ------ Lawrence(18093)    9    0    0
 ------ Montgomery(18107)    6    0    0
 ------ Ohio(18115)    1    0    0
------- Porter(18127)    15    0    0
------- Sullivan(18153)    1    0    0
+------ Porter(18127)    21    0    0
+------ Sullivan(18153)    2    0    0
 ------ Warrick(18173)    8    0    0
------- La Porte(18091)    6    0    0
------- Jasper(18073)    6    1    0
+------ La Porte(18091)    8    0    0
+------ Jasper(18073)    8    1    0
 ------ Rush(18139)    4    0    0
 ------ De Kalb(18033)    1    0    0
 ------ Fountain(18045)    1    0    0
 ------ Marshall(18099)    4    0    0
------- Orange(18117)    2    0    0
------- Posey(18129)    3    0    0
------- Warren(18171)    2    0    0
+------ Orange(18117)    3    0    0
+------ Posey(18129)    4    0    0
+------ Warren(18171)    2    1    0
 ------ Wabash(18169)    1    0    0
 ------ Clinton(18023)    1    0    0
 ------ Fulton(18049)    1    0    0
 ------ Henry(18065)    2    0    0
 ------ Huntington(18069)    2    0    0
------- Kosciusko(18085)    4    0    0
+------ Kosciusko(18085)    5    0    0
 ------ Lagrange(18087)    2    0    0
------- Whitley(18183)    1    0    0
+------ Whitley(18183)    2    0    0
 ------ Crawford(18025)    1    0    0
 ------ Newton(18111)    1    0    0
------- Randolph(18135)    1    0    0
+------ Randolph(18135)    3    0    0
 ------ Switzerland(18155)    3    0    0
 ------ White(18181)    2    0    0
 ------ Carroll(18015)    2    0    0
@@ -1485,6 +1485,7 @@
 ------ Steuben(18151)    1    0    0
 ------ Knox(18083)    2    0    0
 ------ Cass(18017)    1    0    0
+------ Jefferson(18077)    1    0    0
 ---- IA    424    6    0
 ------ Johnson(19103)    70    0    0
 ------ Dallas(19049)    21    0    0
@@ -2735,13 +2736,13 @@
 ---- Scotland    1563    41    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    16176    373    1823
+-- Switzerland    16186    395    1823
 -- Belgium    12775    705    1698
 -- Netherlands    12595    1039    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    10827    168    162
--- Austria    9974    128    1095
+-- Austria    10019    128    1095
 -- Korea, Republic of    9786    162    5408
 ---- Busan    119    3    87
 ---- Chungcheongbuk-do    44    0    22
@@ -2777,7 +2778,7 @@
 ---- Nunavut    1    0    0
 -- Portugal    7443    160    43
 -- Israel    4831    18    163
--- Brazil    4667    166    127
+-- Brazil    4681    167    127
 -- Norway    4599    36    13
 -- Australia    4561    19    358
 ---- New South Wales    2032    8    4
@@ -2795,7 +2796,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    2766    43    537
--- Chile    2449    8    156
+-- Chile    2738    12    156
 -- Russian Federation    2337    17    121
 -- Romania    2245    72    220
 -- Poland    2215    32    13
@@ -2803,43 +2804,43 @@
 -- Luxembourg    1988    22    80
 -- Ecuador    1966    62    54
 -- Japan    1953    56    424
----- Hokkaido    176    7    100
+---- Hokkaido    177    7    100
 ---- kochi    17    0    0
 ---- Miyagi    6    0    0
 ---- Niigata    31    0    0
----- Gifu    24    0    0
+---- Gifu    25    0    0
 ---- Nagano    8    0    0
----- Tochigi    12    0    0
+---- Tochigi    14    0    0
 ---- Kumamoto    14    0    0
----- Saitama    86    2    0
+---- Saitama    90    2    0
 ---- Ishikawa    13    0    0
----- Fukuoka    35    0    0
+---- Fukuoka    46    0    0
 ---- Tokyo    521    15    0
 ---- Wakayama    18    1    2
----- Kyoto    56    0    16
+---- Kyoto    65    0    16
 ---- Osaka    244    2    1
----- Chiba    169    1    0
----- Kanagawa    140    5    1
+---- Chiba    171    1    0
+---- Kanagawa    142    5    1
 ---- Shizuoka    9    0    0
----- Aichi    172    19    2
+---- Aichi    176    19    2
 ---- Nara    11    0    1
 ---- Tokushima    3    0    0
 ---- Mie    11    0    1
 ---- Okinawa    9    0    1
 ---- Ehime    9    0    0
----- hyogo    144    11    0
----- oita    28    0    0
+---- hyogo    148    11    0
+---- oita    29    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
 ---- Shiga    7    0    0
----- Akita    5    0    0
+---- Akita    6    0    0
 ---- Yamanashi    5    0    0
 ---- Hiroshima    6    0    0
 ---- Gunma    18    1    0
 ---- Fukushima    4    0    0
 ---- Saga    2    0    0
 ---- Nagasaki    2    0    0
----- Ibaraki    20    0    0
+---- Ibaraki    24    0    0
 ---- Kagawa    2    0    0
 ---- Fukui    20    0    0
 ---- Okayama    4    0    0
@@ -2883,8 +2884,8 @@
 -- Hungary    492    16    37
 -- Lebanon    463    12    35
 -- Bosnia and Herzegovina    411    12    17
+-- Bulgaria    399    8    17
 -- Latvia    398    0    1
--- Bulgaria    379    8    17
 -- Andorra    370    8    10
 -- Slovakia    363    1    7
 -- Tunisia    362    10    3
@@ -2915,10 +2916,10 @@
 -- Ghana    152    5    31
 -- Belarus    152    1    47
 -- Mauritius    143    3    0
+-- Sri Lanka    142    2    16
 -- Honduras    141    7    3
 -- Venezuela, Bolivarian Republic of    135    3    39
 -- Nigeria    135    2    8
--- Sri Lanka    132    2    16
 -- Brunei Darussalam    129    1    45
 -- Martinique    119    2    27
 -- Palestine    117    1    18
@@ -2943,8 +2944,8 @@
 -- Monaco    49    1    1
 -- Madagascar    46    0    0
 -- French Guiana    43    0    6
+-- Macao    41    0    10
 -- Puerto Rico    39    2    1
--- Macao    38    0    10
 -- Guatemala    36    1    10
 -- French Polynesia    36    0    0
 -- Jamaica    36    1    2
@@ -2993,7 +2994,7 @@
 -- Suriname    8    0    0
 -- Angola    7    2    1
 -- Chad    7    0    0
--- Sudan    7    2    0
+-- Sudan    7    2    1
 -- Antigua and Barbuda    7    0    0
 -- Cabo Verde    6    1    0
 -- Benin    6    0    1
