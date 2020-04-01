@@ -2830,7 +2830,7 @@
 -- Netherlands    12667    1040    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10387    146    1095
+-- Austria    10418    146    1436
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2867,7 +2867,7 @@
 -- Israel    8385    21    226
 -- Portugal    7443    160    43
 -- Brazil    5812    202    127
--- Australia    4862    21    422
+-- Australia    4864    21    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
 ---- Queensland    781    2    8
@@ -2977,7 +2977,7 @@
 -- Slovakia    400    1    7
 -- Tunisia    394    10    3
 -- Andorra    376    12    10
--- Kazakhstan    369    3    24
+-- Kazakhstan    372    3    26
 -- Azerbaijan    359    5    26
 -- Moldova, Republic of    353    4    22
 -- Costa Rica    347    2    4
