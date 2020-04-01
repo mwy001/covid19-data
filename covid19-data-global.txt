@@ -1391,7 +1391,7 @@
 ------ Barnwell(45011)    1    0    0
 ------ Bamberg(45009)    2    0    0
 ---- AL    999    24    0
------- Jefferson(01073)    282    0    0
+------ Jefferson(01073)    282    1    0
 ------ Shelby(01117)    88    2    0
 ------ Lee(01081)    75    2    0
 ------ Tuscaloosa(01125)    29    0    0
@@ -1405,11 +1405,11 @@
 ------ Chambers(01017)    36    4    0
 ------ Talladega(01121)    7    0    0
 ------ Walker(01127)    32    0    0
------- Mobile(01097)    53    1    0
+------ Mobile(01097)    53    2    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
------- Washington(01129)    4    0    0
+------ Washington(01129)    4    1    0
 ------ Cullman(01043)    8    0    0
 ------ Marion(01093)    10    0    0
 ------ Franklin(01059)    3    0    0
@@ -2229,7 +2229,7 @@
 ------ Hardy(54031)    1    0    0
 ---- GU    69    2    7
 ------ Guam(66010)    55    1    0
----- PR    239    8    0
+---- PR    286    11    0
 ---- VI    30    0    21
 ---- MP    2    0    0
 -- Italy    105792    12428    15729
@@ -2738,7 +2738,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
--- Germany    72914    793    16100
+-- Germany    73217    802    16100
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
 ---- Free State of Bavaria    15505    191    900
@@ -2826,7 +2826,7 @@
 ---- Cayman Islands    1    1    0
 -- Switzerland    16605    433    2967
 -- Belgium    13964    828    2132
--- Netherlands    13614    1173    253
+-- Netherlands    13614    1173    259
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    13531    214    243
@@ -2877,7 +2877,7 @@
 ---- Tasmania    69    2    5
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
--- Norway    4705    41    13
+-- Norway    4798    43    13
 -- Czechia    3330    32    45
 -- Ireland    3235    71    5
 -- Denmark    3092    104    78
@@ -2887,7 +2887,7 @@
 -- Russian Federation    2777    24    190
 -- Chile    2738    12    156
 -- Romania    2460    86    252
--- Poland    2347    35    13
+-- Poland    2420    36    13
 -- Philippines    2311    96    50
 -- Ecuador    2302    79    58
 -- Japan    2229    66    472
@@ -2936,11 +2936,11 @@
 ---- Toyama    5    0    0
 ---- Yamagata    2    0    0
 -- Luxembourg    2178    23    80
--- Pakistan    2042    26    82
+-- Pakistan    2071    26    82
 -- Thailand    1771    12    416
+-- Saudi Arabia    1720    16    264
 -- Indonesia    1677    157    103
 -- India    1637    45    148
--- Saudi Arabia    1563    10    165
 -- Finland    1446    17    10
 -- South Africa    1353    5    50
 -- Greece    1314    49    52
@@ -3021,12 +3021,12 @@
 -- Cambodia    109    0    25
 -- Mayotte    94    1    10
 -- Trinidad and Tobago    89    4    1
+-- Kenya    81    1    3
 -- Rwanda    75    0    0
 -- Gibraltar    69    0    34
 -- Paraguay    69    3    1
 -- Liechtenstein    68    0    0
 -- Isle of Man    65    0    0
--- Kenya    59    1    3
 -- Madagascar    57    0    0
 -- Aruba    55    0    1
 -- Bangladesh    54    6    25
@@ -3062,12 +3062,12 @@
 -- Eritrea    15    0    0
 -- Bahamas    15    0    1
 -- Equatorial Guinea    15    0    1
+-- Namibia    14    0    2
 -- Cayman Islands    14    1    0
 -- Mongolia    14    0    2
 -- Saint Lucia    13    0    1
 -- Dominica    12    0    0
 -- Curaçao    11    1    3
--- Namibia    11    0    2
 -- Libya    10    0    1
 -- Lao People's Democratic Republic    10    0    0
 -- Syrian Arab Republic    10    2    0
