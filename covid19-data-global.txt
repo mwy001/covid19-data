@@ -1,4 +1,4 @@
--- United States of America    189744    4087    7109
+-- United States of America    189785    4087    7109
 ---- NY    76049    1714    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -148,7 +148,7 @@
 ------ Plumas(06063)    1    0    0
 ---- NJ    18997    269    1
 ------ Bergen(34003)    3202    35    0
------- Essex(34013)    1900    20    0
+------ Essex(34013)    1900    35    0
 ------ Hudson(34017)    1606    11    0
 ------ Middlesex(34023)    1277    63    0
 ------ Monmouth(34025)    1140    11    0
@@ -156,7 +156,7 @@
 ------ Passaic(34031)    1294    12    0
 ------ Mercer(34021)    268    0    0
 ------ Morris(34027)    841    12    0
------- Somerset(34035)    413    8    0
+------ Somerset(34035)    413    11    0
 ------ Burlington(34005)    202    5    0
 ------ Hunterdon(34019)    97    0    0
 ------ Ocean(34029)    1022    10    0
@@ -563,7 +563,7 @@
 ------ Brazoria(48039)    95    1    0
 ------ Galveston(48167)    106    0    0
 ------ Lubbock(48303)    100    1    0
------- Matagorda(48321)    21    1    0
+------ Matagorda(48321)    27    1    0
 ------ Bowie(48037)    9    1    0
 ------ Brazos(48041)    53    2    0
 ------ Denton(48121)    206    4    0
@@ -661,7 +661,7 @@
 ------ Willacy(48489)    2    0    0
 ------ Yoakum(48501)    1    0    0
 ------ Lamb(48279)    1    0    0
------- Ector(48135)    10    0    0
+------ Ector(48135)    11    0    0
 ------ Lynn(48305)    2    0    0
 ------ Kleberg(48273)    1    0    0
 ------ Andrews(48003)    1    0    0
@@ -1082,7 +1082,7 @@
 ------ Brunswick(51025)    1    0    0
 ------ King and Queen(51097)    1    0    0
 ------ City of Waynesboro(51820)    2    0    0
----- NC    1545    12    5
+---- NC    1561    12    5
 ------ Wake(37183)    193    0    0
 ------ Durham(37063)    125    0    0
 ------ Mecklenburg(37119)    420    1    0
@@ -1104,7 +1104,7 @@
 ------ Wilson(37195)    15    0    0
 ------ Gaston(37071)    29    0    0
 ------ New Hanover(37129)    34    0    0
------- Union(37179)    42    0    0
+------ Union(37179)    44    0    0
 ------ Moore(37125)    8    0    0
 ------ Buncombe(37021)    22    1    0
 ------ Hoke(37093)    4    0    0
@@ -1115,19 +1115,19 @@
 ------ Pasquotank(37139)    4    0    0
 ------ Alamance(37001)    7    0    0
 ------ Franklin(37069)    11    0    0
------- Catawba(37035)    15    0    0
+------ Catawba(37035)    16    0    0
 ------ Lee(37105)    3    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    7    0    0
 ------ Carteret(37031)    12    1    0
------- Cherokee(37039)    8    1    0
+------ Cherokee(37039)    9    1    0
 ------ Robeson(37155)    3    0    0
 ------ Granville(37077)    9    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    2    0    0
 ------ Davie(37059)    12    0    0
 ------ Montgomery(37123)    6    0    0
------- Nash(37127)    9    0    0
+------ Nash(37127)    11    0    0
 ------ Henderson(37089)    18    0    0
 ------ Vance(37181)    4    0    0
 ------ Randolph(37151)    17    0    0
@@ -1141,7 +1141,7 @@
 ------ Bertie(37015)    6    0    0
 ------ Duplin(37061)    1    0    0
 ------ Lenoir(37107)    3    0    0
------- Beaufort(37013)    5    0    0
+------ Beaufort(37013)    7    0    0
 ------ Caldwell(37027)    3    0    0
 ------ McDowell(37111)    7    0    0
 ------ Burke(37023)    6    0    0
@@ -1149,7 +1149,7 @@
 ------ Dare(37055)    2    0    0
 ------ Surry(37171)    2    0    0
 ------ Mitchell(37121)    1    0    0
------- Polk(37149)    3    0    0
+------ Polk(37149)    4    0    0
 ------ Greene(37079)    3    0    0
 ------ Swain(37173)    1    0    0
 ------ Halifax(37083)    6    0    0
@@ -1465,8 +1465,8 @@
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    2    0    0
 ------ Somerset(23025)    1    0    0
----- DC    495    9    121
------- District of Columbia(11001)    495    9    0
+---- DC    507    9    121
+------ District of Columbia(11001)    507    9    0
 ---- IN    2159    49    0
 ------ Marion(18097)    964    17    0
 ------ Hendricks(18063)    70    2    0
@@ -1607,8 +1607,8 @@
 ------ Van Buren(19177)    1    0    0
 ------ Clay(19041)    1    0    0
 ---- KY    632    18    64
------- Jefferson(21111)    206    3    0
------- Fayette(21067)    110    2    0
+------ Jefferson(21111)    206    7    0
+------ Fayette(21067)    110    3    0
 ------ Harrison(21097)    11    0    0
 ------ Montgomery(21173)    2    0    0
 ------ Bourbon(21017)    2    1    0
@@ -1645,7 +1645,7 @@
 ------ Allen(21003)    2    0    0
 ------ Hopkins(21107)    17    1    0
 ------ Hancock(21091)    1    0    0
------- Bullitt(21029)    6    0    0
+------ Bullitt(21029)    6    1    0
 ------ Larue(21123)    1    0    0
 ------ McLean(21149)    1    0    0
 ------ Barren(21009)    1    0    0
@@ -1931,7 +1931,7 @@
 ------ Beckham(40009)    1    0    0
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
----- KS    438    9    0
+---- KS    441    9    0
 ------ Johnson(20091)    134    2    0
 ------ Wyandotte(20209)    79    4    0
 ------ Butler(20015)    3    0    0
@@ -1991,10 +1991,10 @@
 ------ New Castle(10003)    197    6    0
 ------ Sussex(10005)    88    2    0
 ------ Kent(10001)    34    3    0
----- MO    1403    18    28
------- Greene(29077)    48    4    0
+---- MO    1407    18    28
+------ Greene(29077)    50    4    0
 ------ Cass(29037)    14    0    0
------- Boone(29019)    64    1    0
+------ Boone(29019)    66    1    0
 ------ Cole(29051)    25    0    0
 ------ Henry(29083)    1    1    0
 ------ Jackson(29095)    77    1    0
@@ -2255,24 +2255,24 @@
 ---- Veneto    9155    477    828
 ---- Bolzano    1371    76    153
 -- Spain    95923    8464    19259
----- Andalusia    5405    236    155
----- Aragon    2078    106    174
----- Balearic Islands    1000    37    100
----- Basque Country    6057    297    1646
----- Canary Islands    1204    40    32
----- Cantabria    1100    27    25
----- Castile and León    5801    516    871
----- Castile-La Mancha    5858    622    252
----- Catalonia    18773    1672    4125
----- Community of Madrid    24090    3392    8301
----- Comunidad Foral de Navarra    2146    102    161
----- Extremadura    1560    106    60
----- Galicia    3723    3032    168
----- Principality of Asturias    1236    55    78
----- Región de Murcia    939    25    17
----- Rioja    1733    71    431
----- Valencian Community    5110    310    185
----- Melilla    51    1    0
+---- Andalusia    5818    248    160
+---- Aragon    2272    138    204
+---- Balearic Islands    1069    42    111
+---- Basque Country    6320    325    1796
+---- Canary Islands    1262    55    57
+---- Cantabria    1171    37    35
+---- Castile and León    6211    516    1028
+---- Castile-La Mancha    6424    708    296
+---- Catalonia    18773    1672    4966
+---- Community of Madrid    27509    3603    9330
+---- Comunidad Foral de Navarra    2305    113    192
+---- Extremadura    1628    133    91
+---- Galicia    4039    3032    187
+---- Principality of Asturias    1236    55    90
+---- Región de Murcia    974    34    20
+---- Rioja    1810    85    496
+---- Valencian Community    5508    339    200
+---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
 -- China    82613    3315    76239
@@ -2739,22 +2739,22 @@
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
 -- Germany    71808    775    16100
----- Saxony    1816    10    32
----- Mecklenburg-Vorpommern    356    1    15
----- Free State of Bavaria    13989    127    637
----- Berlin    2464    11    845
----- Brandenburg    846    4    63
----- Thuringia    749    5    129
----- Schleswig-Holstein    1053    7    28
----- Lower Saxony    3786    27    525
----- Bremen    290    2    53
----- Hamburg    2078    5    1
----- Rhineland-Palatinate    2584    18    99
----- North Rhine-Westphalia    14219    125    2084
----- Hesse    3091    13    196
----- Baden-Württemberg    11536    128    1058
----- Saxony-Anhalt    654    4    22
----- Saarland    726    7    47
+---- Saxony    2084    13    33
+---- Mecklenburg-Vorpommern    412    3    42
+---- Free State of Bavaria    15505    191    900
+---- Berlin    2777    15    1055
+---- Brandenburg    945    5    77
+---- Thuringia    840    6    129
+---- Schleswig-Holstein    1135    9    46
+---- Lower Saxony    4348    43    724
+---- Bremen    315    5    71
+---- Hamburg    2290    9    750
+---- Rhineland-Palatinate    2839    22    164
+---- North Rhine-Westphalia    15241    148    3381
+---- Hesse    3301    18    353
+---- Baden-Württemberg    13313    196    1368
+---- Saxony-Anhalt    752    7    22
+---- Saarland    961    12    61
 -- France    52827    3532    9513
 ---- France    7652    148    12
 ---- St Martin    15    1    2
