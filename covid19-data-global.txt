@@ -1,4 +1,4 @@
--- United States of America    189800    4087    7136
+-- United States of America    189878    4090    7141
 ---- NY    76049    1721    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -60,7 +60,7 @@
 ------ Cattaraugus(36009)    6    0    0
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
----- WA    5453    225    510
+---- WA    5482    225    510
 ------ King(53033)    2330    150    0
 ------ Snohomish(53061)    1229    33    0
 ------ Pierce(53053)    377    6    0
@@ -95,11 +95,11 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    8558    183    90
+---- CA    8584    183    90
 ------ Santa Clara(06085)    890    30    0
------- Los Angeles(06037)    3019    54    0
+------ Los Angeles(06037)    3037    54    0
 ------ San Mateo(06081)    309    10    0
------- San Diego(06073)    730    9    0
+------ San Diego(06073)    733    9    0
 ------ San Francisco(06075)    397    6    0
 ------ Sacramento(06067)    224    7    0
 ------ Contra Costa(06013)    222    3    0
@@ -128,7 +128,7 @@
 ------ Humboldt(06023)    27    0    0
 ------ Kern(06029)    101    1    0
 ------ Madera(06039)    23    1    0
------- Nevada(06057)    21    0    0
+------ Nevada(06057)    26    0    0
 ------ Shasta(06089)    7    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
@@ -962,7 +962,7 @@
 ------ Preble(39135)    1    0    0
 ------ Ross(39141)    2    0    0
 ------ Perry(39127)    1    0    0
----- OR    690    18    0
+---- OR    692    18    0
 ------ Washington(41067)    186    3    0
 ------ Linn(41043)    37    2    0
 ------ Clackamas(41005)    50    3    0
@@ -1931,8 +1931,8 @@
 ------ Beckham(40009)    1    0    0
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
----- KS    441    9    0
------- Johnson(20091)    134    2    0
+---- KS    441    10    0
+------ Johnson(20091)    134    3    0
 ------ Wyandotte(20209)    79    4    0
 ------ Butler(20015)    3    0    0
 ------ Douglas(20045)    24    0    0
@@ -2168,8 +2168,8 @@
 ------ Minidoka(16067)    1    0    0
 ------ Adams(16003)    1    0    0
 ------ Camas(16025)    1    0    0
----- ND    126    3    25
------- Burleigh(38015)    29    0    0
+---- ND    126    3    30
+------ Burleigh(38015)    30    0    0
 ------ Ward(38101)    9    0    0
 ------ Cass(38017)    32    1    0
 ------ Morton(38059)    14    1    0
@@ -2178,7 +2178,7 @@
 ------ Walsh(38099)    1    0    0
 ------ Dunn(38025)    1    0    0
 ------ Foster(38031)    1    0    0
------- Stark(38089)    11    0    0
+------ Stark(38089)    12    0    0
 ------ McHenry(38049)    1    1    0
 ------ McIntosh(38051)    1    0    0
 ------ Barnes(38003)    2    0    0
@@ -2187,10 +2187,11 @@
 ------ Divide(38023)    1    0    0
 ------ Mercer(38057)    1    0    0
 ------ McLean(38055)    2    0    0
------- Grand Forks(38035)    2    0    0
+------ Grand Forks(38035)    3    0    0
 ------ Oliver(38065)    1    0    0
------- Williams(38105)    2    0    0
+------ Williams(38105)    3    0    0
 ------ Grant(38037)    1    0    0
+------ McKenzie(38053)    1    0    0
 ---- AK    133    3    0
 ------ Fairbanks North Star(02090)    30    0    0
 ------ Anchorage(02020)    61    1    0
@@ -2227,7 +2228,7 @@
 ------ Roane(54087)    2    0    0
 ------ Randolph(54083)    1    0    0
 ------ Hardy(54031)    1    0    0
----- GU    69    2    7
+---- GU    77    2    7
 ------ Guam(66010)    55    1    0
 ---- PR    286    11    0
 ---- VI    30    0    21
@@ -2814,7 +2815,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    25504    1808    179
+-- United Kingdom of Great Britain and Northern Ireland    29474    2352    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2824,7 +2825,7 @@
 ---- Scotland    1993    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    16605    433    2967
+-- Switzerland    17137    461    2967
 -- Belgium    13964    828    2132
 -- Netherlands    13614    1173    259
 ---- Netherlands    1705    43    2
@@ -2949,12 +2950,12 @@
 -- Iceland    1135    5    198
 -- Dominican Republic    1109    51    5
 -- Peru    1065    30    394
+-- Serbia    1060    28    42
 -- Argentina    1054    27    240
 -- Croatia    963    6    73
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
 -- Colombia    906    16    31
--- Serbia    900    24    42
 -- Slovenia    841    15    10
 -- Qatar    781    2    62
 -- Estonia    779    5    33
@@ -2971,7 +2972,7 @@
 -- Bahrain    567    4    316
 -- Hungary    525    20    40
 -- Lebanon    479    12    37
--- Bosnia and Herzegovina    451    13    17
+-- Bosnia and Herzegovina    455    13    19
 -- Latvia    446    0    1
 -- Bulgaria    412    9    20
 -- Slovakia    400    1    7
@@ -2992,7 +2993,7 @@
 -- Réunion    247    0    1
 -- San Marino    236    26    13
 -- Cameroon    233    6    10
--- Viet Nam    212    0    63
+-- Viet Nam    218    0    63
 -- Oman    210    1    34
 -- Afghanistan    196    4    5
 -- Ghana    195    5    31
@@ -3050,7 +3051,7 @@
 -- Guinea    30    0    0
 -- Ethiopia    29    0    4
 -- Guyana    23    2    0
--- Tanzania, United Republic of    19    1    1
+-- Tanzania, United Republic of    20    1    1
 -- Congo    19    0    0
 -- Maldives    19    0    13
 -- Gabon    18    1    0
