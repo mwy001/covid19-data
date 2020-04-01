@@ -1,4 +1,4 @@
--- United States of America    190908    4132    7141
+-- United States of America    191116    4132    7141
 ---- NY    76049    1721    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -1242,40 +1242,40 @@
 ------ Branch(26023)    2    0    0
 ------ Oscoda(26135)    2    0    0
 ------ Schoolcraft(26153)    1    0    0
----- MN    629    12    288
------- Hennepin(27053)    204    5    0
------- Ramsey(27123)    56    2    0
------- Dakota(27037)    47    0    0
------- Olmsted(27109)    53    0    0
------- Anoka(27003)    23    0    0
+---- MN    689    12    288
+------ Hennepin(27053)    218    5    0
+------ Ramsey(27123)    66    2    0
+------ Dakota(27037)    48    0    0
+------ Olmsted(27109)    61    0    0
+------ Anoka(27003)    26    0    0
 ------ Stearns(27145)    5    0    0
 ------ Benton(27009)    2    0    0
------- Washington(27163)    39    0    0
+------ Washington(27163)    44    0    0
 ------ Blue Earth(27013)    9    0    0
 ------ Carver(27019)    10    0    0
 ------ Renville(27129)    1    0    0
 ------ Sherburne(27141)    8    0    0
 ------ Waseca(27161)    4    0    0
 ------ Wright(27171)    6    0    0
------- Martin(27091)    25    2    0
+------ Martin(27091)    29    2    0
 ------ Nicollet(27103)    3    0    0
 ------ Scott(27139)    10    0    0
------- Mower(27099)    13    0    0
------- Rice(27131)    3    0    0
+------ Mower(27099)    14    0    0
+------ Rice(27131)    4    0    0
 ------ Wadena(27159)    1    0    0
 ------ Fillmore(27045)    8    0    0
 ------ Chisago(27025)    3    0    0
------- Clay(27027)    6    0    0
+------ Clay(27027)    7    0    0
 ------ Jackson(27063)    2    0    0
------- Dodge(27039)    8    0    0
------- St Louis(27137)    12    0    0
+------ Dodge(27039)    10    0    0
+------ St Louis(27137)    13    0    0
 ------ Steele(27147)    6    0    0
 ------ Wabasha(27157)    6    0    0
 ------ Cass(27021)    1    0    0
 ------ Big Stone(27011)    1    0    0
 ------ Le Sueur(27079)    15    0    0
 ------ Lac qui Parle(27073)    1    0    0
------- Goodhue(27049)    3    0    0
+------ Goodhue(27049)    4    0    0
 ------ Winona(27169)    10    0    0
 ------ Kandiyohi(27067)    2    0    0
 ------ Mahnomen(27087)    2    0    0
@@ -1286,17 +1286,20 @@
 ------ Faribault(27043)    2    0    0
 ------ Hubbard(27057)    1    0    0
 ------ Clearwater(27029)    2    0    0
------- Cottonwood(27033)    2    0    0
+------ Cottonwood(27033)    3    0    0
 ------ Douglas(27041)    1    0    0
 ------ Isanti(27059)    2    0    0
 ------ Otter Tail(27111)    1    0    0
 ------ Itasca(27061)    1    0    0
 ------ Meeker(27093)    1    0    0
------- Watonwan(27165)    1    0    0
+------ Watonwan(27165)    2    0    0
 ------ Brown(27015)    2    0    0
 ------ Traverse(27155)    2    0    0
------- Carlton(27017)    1    0    0
------- Lyon(27083)    1    0    0
+------ Carlton(27017)    2    0    0
+------ Lyon(27083)    2    0    0
+------ Freeborn(27047)    2    0    0
+------ Crow Wing(27035)    1    0    0
+------ Yellow Medicine(27173)    1    0    0
 ---- MD    1986    31    53
 ------ Montgomery(24031)    447    1    0
 ------ Prince George's(24033)    20    1    0
@@ -1553,27 +1556,27 @@
 ------ Jefferson(18077)    1    0    0
 ------ Benton(18007)    1    0    0
 ------ Jay(18075)    1    0    0
----- IA    497    7    0
+---- IA    508    7    0
 ------ Johnson(19103)    73    0    0
------- Dallas(19049)    25    0    0
+------ Dallas(19049)    27    0    0
 ------ Allamakee(19005)    7    1    0
 ------ Adair(19001)    1    0    0
 ------ Black Hawk(19013)    7    0    0
 ------ Carroll(19027)    1    0    0
------- Harrison(19085)    9    0    0
+------ Harrison(19085)    10    0    0
 ------ Polk(19153)    76    0    0
 ------ Pottawattamie(19155)    4    0    0
 ------ Washington(19183)    24    1    0
 ------ Winneshiek(19191)    7    0    0
 ------ Scott(19163)    18    0    0
------- Dubuque(19061)    21    3    0
+------ Dubuque(19061)    22    3    0
 ------ Muscatine(19139)    16    1    0
 ------ Linn(19113)    90    2    0
 ------ Fayette(19065)    2    0    0
------- Henry(19087)    3    0    0
+------ Henry(19087)    5    0    0
 ------ Story(19169)    2    0    0
 ------ Woodbury(19193)    4    0    0
------- Cerro Gordo(19033)    7    0    0
+------ Cerro Gordo(19033)    8    0    0
 ------ Tama(19171)    11    0    0
 ------ Kossuth(19109)    1    0    0
 ------ Sioux(19167)    4    0    0
@@ -1585,17 +1588,17 @@
 ------ Jasper(19099)    6    0    0
 ------ Warren(19181)    3    0    0
 ------ Benton(19011)    7    0    0
------- Des Moines(19057)    1    0    0
+------ Des Moines(19057)    2    0    0
 ------ Page(19145)    2    0    0
 ------ Appanoose(19007)    1    0    0
------- Clayton(19043)    1    0    0
+------ Clayton(19043)    2    0    0
 ------ Mahaska(19123)    2    0    0
 ------ Monona(19133)    5    0    0
------- Clinton(19045)    5    0    0
+------ Clinton(19045)    6    0    0
 ------ Butler(19023)    1    0    0
 ------ Dickinson(19059)    1    0    0
 ------ Hardin(19083)    1    0    0
------- Iowa(19095)    4    0    0
+------ Iowa(19095)    5    0    0
 ------ Marshall(19127)    8    0    0
 ------ Montgomery(19137)    1    0    0
 ------ Webster(19187)    1    0    0
@@ -1872,23 +1875,23 @@
 ------ Claiborne(28021)    1    0    0
 ------ Warren(28149)    1    0    0
 ------ Tishomingo(28141)    1    0    0
----- AZ    1289    24    3
------- Maricopa(04013)    788    5    0
------- Pinal(04021)    64    0    0
------- Pima(04019)    202    4    0
+---- AZ    1413    24    3
+------ Maricopa(04013)    871    5    0
+------ Pinal(04021)    65    0    0
+------ Pima(04019)    217    4    0
 ------ Graham(04009)    4    0    0
------- Navajo(04017)    91    0    0
------- Coconino(04005)    81    2    0
------- Santa Cruz(04023)    2    0    0
------- Yavapai(04025)    21    0    0
------- Yuma(04027)    9    0    0
+------ Navajo(04017)    102    0    0
+------ Coconino(04005)    85    2    0
+------ Santa Cruz(04023)    3    0    0
+------ Yavapai(04025)    24    0    0
+------ Yuma(04027)    12    0    0
 ------ Cochise(04003)    4    0    0
 ------ Apache(04001)    17    0    0
 ------ Mohave(04015)    7    0    0
 ------ La Paz(04012)    2    0    0
 ------ Gila(04007)    1    0    0
 ------ Greenlee(04011)    1    0    0
----- OK    568    248    1
+---- OK    719    248    1
 ------ Oklahoma(40109)    155    73    0
 ------ Tulsa(40143)    83    41    0
 ------ Cleveland(40027)    65    39    0
@@ -2104,14 +2107,14 @@
 ------ Butte(46019)    1    0    0
 ------ Marshall(46091)    1    0    0
 ------ Kingsbury(46077)    1    0    0
----- WY    120    -1    0
+---- WY    130    -1    0
 ------ Fremont(56013)    25    0    0
 ------ Sheridan(56033)    10    0    0
------- Laramie(56021)    27    0    0
+------ Laramie(56021)    29    0    0
 ------ Park(56029)    1    0    0
------- Teton(56039)    23    0    0
------- Campbell(56005)    3    0    0
------- Natrona(56025)    12    0    0
+------ Teton(56039)    26    0    0
+------ Campbell(56005)    4    0    0
+------ Natrona(56025)    15    0    0
 ------ Carbon(56007)    3    0    0
 ------ Sweetwater(56037)    2    0    0
 ------ Albany(56001)    3    0    0
@@ -2119,7 +2122,7 @@
 ------ Hot Springs(56017)    1    0    0
 ------ Goshen(56015)    1    0    0
 ------ Washakie(56043)    1    0    0
------- Converse(56009)    1    0    0
+------ Converse(56009)    2    0    0
 ------ Sublette(56035)    1    0    0
 ---- MT    208    5    0
 ------ Missoula(30063)    14    0    0
@@ -2238,7 +2241,7 @@
 ---- PR    286    11    0
 ---- VI    30    0    21
 ---- MP    6    1    0
--- Italy    105792    12428    15729
+-- Italy    110574    13155    16847
 ---- Abruzzo    1401    115    95
 ---- Aosta Valley    628    56    20
 ---- Apulia    1803    110    39
@@ -2744,7 +2747,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    329    5    39
--- Germany    74508    821    16100
+-- Germany    75754    848    18700
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
 ---- Free State of Bavaria    15505    191    900
@@ -2836,7 +2839,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    13531    214    243
--- Austria    10553    146    1436
+-- Austria    10585    146    1436
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2856,7 +2859,7 @@
 ---- Seoul    474    0    117
 ---- Ulsan    39    1    20
 ---- 未确定地区    23    3    0
--- Canada    8612    102    1592
+-- Canada    9017    108    1592
 ---- British Columbia    1013    24    183
 ---- Ontario    1966    33    8
 ---- Alberta    754    9    0
@@ -2872,7 +2875,7 @@
 ---- Nunavut    1    0    0
 -- Israel    8385    23    226
 -- Portugal    8251    187    43
--- Brazil    5908    204    127
+-- Brazil    5916    206    127
 -- Sweden    4947    239    16
 -- Australia    4864    21    422
 ---- New South Wales    2182    9    4
@@ -2884,7 +2887,7 @@
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
 -- Norway    4828    43    13
--- Czechia    3508    39    48
+-- Czechia    3508    39    61
 -- Denmark    3275    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2894,6 +2897,7 @@
 -- Russian Federation    2777    24    190
 -- Romania    2460    86    252
 -- Poland    2420    36    13
+-- Luxembourg    2319    29    80
 -- Philippines    2311    96    50
 -- Ecuador    2302    79    58
 -- Japan    2229    66    472
@@ -2901,7 +2905,7 @@
 ---- kochi    20    0    0
 ---- Miyagi    11    0    0
 ---- Niigata    32    0    0
----- Gifu    26    0    0
+---- Gifu    31    0    0
 ---- Nagano    9    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    15    0    0
@@ -2910,7 +2914,7 @@
 ---- Fukuoka    78    0    0
 ---- Tokyo    587    15    0
 ---- Wakayama    19    1    2
----- Kyoto    73    0    16
+---- Kyoto    76    0    16
 ---- Osaka    278    2    1
 ---- Chiba    185    1    0
 ---- Kanagawa    161    5    1
@@ -2932,7 +2936,7 @@
 ---- Gunma    20    1    0
 ---- Fukushima    6    0    0
 ---- Saga    3    0    0
----- Nagasaki    4    0    0
+---- Nagasaki    5    0    0
 ---- Ibaraki    42    0    0
 ---- Kagawa    2    0    0
 ---- Fukui    21    0    0
@@ -2941,7 +2945,6 @@
 ---- Kagoshima    2    0    0
 ---- Toyama    5    0    0
 ---- Yamagata    2    0    0
--- Luxembourg    2178    23    80
 -- Pakistan    2071    26    82
 -- Thailand    1771    12    416
 -- Saudi Arabia    1720    16    264
@@ -2956,16 +2959,16 @@
 -- Panama    1181    30    9
 -- Peru    1065    30    394
 -- Serbia    1060    28    42
--- Argentina    1054    27    248
+-- Argentina    1054    28    248
 -- Singapore    1000    3    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
 -- Colombia    906    16    31
+-- Algeria    846    58    65
 -- Slovenia    841    15    10
 -- Qatar    781    2    62
 -- Estonia    779    5    33
 -- Hong Kong    765    4    147
--- Algeria    716    44    65
 -- Egypt    710    46    157
 -- New Zealand    708    1    83
 -- Iraq    694    50    170
