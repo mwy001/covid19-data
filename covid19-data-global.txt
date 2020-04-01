@@ -2738,7 +2738,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    322    5    39
--- Germany    72383    788    16100
+-- Germany    72914    793    16100
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
 ---- Free State of Bavaria    15505    191    900
@@ -2814,7 +2814,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    25499    1808    179
+-- United Kingdom of Great Britain and Northern Ireland    25504    1808    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2826,10 +2826,10 @@
 ---- Cayman Islands    1    1    0
 -- Switzerland    16605    433    2967
 -- Belgium    13964    828    2132
--- Turkey    13531    214    243
--- Netherlands    12667    1040    253
+-- Netherlands    13614    1173    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Turkey    13531    214    243
 -- Austria    10418    146    1436
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
@@ -2866,7 +2866,7 @@
 ---- Nunavut    1    0    0
 -- Israel    8385    21    226
 -- Portugal    7443    160    43
--- Brazil    5812    202    127
+-- Brazil    5812    203    127
 -- Australia    4864    21    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
@@ -2876,11 +2876,11 @@
 ---- Tasmania    69    2    5
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
--- Norway    4699    40    13
+-- Norway    4699    41    13
 -- Sweden    4435    180    16
 -- Czechia    3330    32    45
 -- Ireland    3235    71    5
--- Denmark    3043    90    78
+-- Denmark    3043    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    2908    45    645
@@ -2939,7 +2939,7 @@
 -- Pakistan    2042    26    82
 -- Thailand    1771    12    416
 -- Indonesia    1677    157    103
--- India    1590    45    148
+-- India    1637    45    148
 -- Saudi Arabia    1563    10    165
 -- Finland    1446    17    10
 -- South Africa    1353    5    50
@@ -2953,7 +2953,7 @@
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
 -- Colombia    906    16    31
--- Serbia    900    23    42
+-- Serbia    900    24    42
 -- Croatia    867    6    67
 -- Slovenia    841    15    10
 -- Qatar    781    2    62
@@ -2971,7 +2971,7 @@
 -- Bahrain    567    4    316
 -- Hungary    525    20    40
 -- Lebanon    479    12    37
--- Bosnia and Herzegovina    450    13    17
+-- Bosnia and Herzegovina    451    13    17
 -- Latvia    446    0    1
 -- Bulgaria    412    8    20
 -- Slovakia    400    1    7
@@ -2988,7 +2988,7 @@
 -- Jordan    274    5    30
 -- Cyprus    262    8    23
 -- Burkina Faso    261    14    32
--- Albania    259    15    52
+-- Albania    259    15    67
 -- Réunion    247    0    1
 -- San Marino    236    26    13
 -- Cameroon    233    6    10
@@ -3004,10 +3004,10 @@
 -- Faroe Islands    173    0    75
 -- Honduras    172    10    3
 -- Belarus    163    2    53
+-- Nigeria    151    2    9
 -- Mauritius    147    5    0
 -- Venezuela, Bolivarian Republic of    143    3    41
 -- Sri Lanka    143    2    18
--- Nigeria    139    2    9
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
 -- Martinique    128    3    27
@@ -3017,8 +3017,8 @@
 -- Guadeloupe    114    4    22
 -- Kosovo    112    1    6
 -- Kyrgyzstan    111    0    3
+-- Congo, Democratic Republic of the    109    8    2
 -- Cambodia    109    0    25
--- Congo, Democratic Republic of the    98    8    2
 -- Mayotte    94    1    10
 -- Trinidad and Tobago    89    4    1
 -- Rwanda    75    0    0
@@ -3046,14 +3046,14 @@
 -- El Salvador    32    1    0
 -- Bermuda    32    0    10
 -- Djibouti    30    0    0
+-- Guinea    30    0    0
 -- Ethiopia    29    0    4
 -- Mali    28    2    0
 -- Guyana    23    2    0
--- Guinea    22    0    0
 -- Tanzania, United Republic of    19    1    1
 -- Congo    19    0    0
+-- Maldives    19    0    13
 -- Gabon    18    1    0
--- Maldives    18    0    13
 -- Virgin Islands, U.S.    17    0    0
 -- Haiti    16    0    1
 -- New Caledonia    16    0    0
