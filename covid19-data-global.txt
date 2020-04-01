@@ -1,4 +1,4 @@
--- United States of America    189785    4087    7109
+-- United States of America    189785    4087    7136
 ---- NY    76049    1714    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -1451,7 +1451,7 @@
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
 ------ Sumter(01119)    1    0    0
----- ME    303    5    41
+---- ME    303    5    68
 ------ Cumberland(23005)    169    3    0
 ------ Androscoggin(23001)    11    0    0
 ------ Kennebec(23011)    12    1    0
@@ -2937,11 +2937,11 @@
 -- Luxembourg    2178    23    80
 -- Philippines    2084    88    49
 -- Pakistan    2031    26    76
--- Thailand    1651    10    342
+-- Thailand    1771    12    342
+-- India    1590    45    148
 -- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
 -- Finland    1418    17    10
--- India    1397    35    124
 -- South Africa    1353    5    31
 -- Greece    1314    49    52
 -- Mexico    1215    29    35
@@ -3054,11 +3054,11 @@
 -- Congo    19    0    0
 -- Maldives    18    0    13
 -- Virgin Islands, U.S.    17    0    0
+-- Haiti    16    0    1
 -- New Caledonia    16    0    0
 -- Gabon    16    1    0
 -- Myanmar    15    1    0
 -- Eritrea    15    0    0
--- Haiti    15    0    1
 -- Bahamas    15    0    1
 -- Equatorial Guinea    15    0    1
 -- Saint Martin (French part)    15    1    2
