@@ -1393,22 +1393,22 @@
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
 ------ Bamberg(45009)    2    0    0
----- AL    1000    24    0
+---- AL    1013    24    0
 ------ Jefferson(01073)    282    1    0
 ------ Shelby(01117)    88    2    0
------- Lee(01081)    75    2    0
+------ Lee(01081)    77    2    0
 ------ Tuscaloosa(01125)    30    0    0
 ------ Elmore(01051)    14    0    0
 ------ Montgomery(01101)    31    1    0
------- Baldwin(01003)    19    1    0
+------ Baldwin(01003)    20    1    0
 ------ Limestone(01083)    22    0    0
------- Madison(01089)    100    1    0
------- Calhoun(01015)    9    0    0
+------ Madison(01089)    101    1    0
+------ Calhoun(01015)    10    0    0
 ------ St Clair(01115)    15    0    0
------- Chambers(01017)    36    4    0
+------ Chambers(01017)    37    4    0
 ------ Talladega(01121)    7    0    0
 ------ Walker(01127)    32    0    0
------- Mobile(01097)    53    2    0
+------ Mobile(01097)    56    2    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -1422,14 +1422,14 @@
 ------ Autauga(01001)    7    0    0
 ------ Pickens(01107)    4    0    0
 ------ Pike(01109)    4    0    0
------- Etowah(01055)    8    0    0
+------ Etowah(01055)    9    0    0
 ------ Dallas(01047)    3    0    0
 ------ Blount(01009)    5    0    0
 ------ Butler(01013)    1    0    0
 ------ Cherokee(01019)    2    0    0
 ------ Chilton(01021)    11    0    0
 ------ Clay(01027)    2    0    0
------- Cleburne(01029)    5    0    0
+------ Cleburne(01029)    6    0    0
 ------ Colbert(01033)    4    0    0
 ------ Lawrence(01079)    3    0    0
 ------ Marshall(01095)    7    0    0
@@ -1446,7 +1446,7 @@
 ------ Winston(01133)    2    0    0
 ------ Greene(01063)    3    0    0
 ------ Covington(01039)    2    0    0
------- Randolph(01111)    2    0    0
+------ Randolph(01111)    3    0    0
 ------ Escambia(01053)    1    0    0
 ------ Monroe(01099)    1    0    0
 ------ Macon(01087)    1    0    0
@@ -1454,17 +1454,17 @@
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
 ------ Sumter(01119)    1    0    0
----- ME    304    5    68
------- Cumberland(23005)    169    3    0
+---- ME    344    5    68
+------ Cumberland(23005)    192    3    0
 ------ Androscoggin(23001)    12    0    0
------- Kennebec(23011)    12    1    0
+------ Kennebec(23011)    17    1    0
 ------ Knox(23013)    5    0    0
 ------ Oxford(23017)    9    0    0
------- York(23031)    59    1    0
------- Penobscot(23019)    12    0    0
+------ York(23031)    65    1    0
+------ Penobscot(23019)    13    0    0
 ------ Lincoln(23015)    8    0    0
 ------ Hancock(23009)    1    0    0
------- Sagadahoc(23023)    7    0    0
+------ Sagadahoc(23023)    10    0    0
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    2    0    0
 ------ Somerset(23025)    1    0    0
@@ -2820,7 +2820,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    29474    2352    179
+-- United Kingdom of Great Britain and Northern Ireland    29841    2356    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2872,7 +2872,7 @@
 ---- Nunavut    1    0    0
 -- Israel    8385    23    226
 -- Portugal    8251    187    43
--- Brazil    5907    204    127
+-- Brazil    5908    204    127
 -- Sweden    4947    239    16
 -- Australia    4864    21    422
 ---- New South Wales    2182    9    4
@@ -2884,7 +2884,7 @@
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
 -- Norway    4828    43    13
--- Czechia    3330    32    45
+-- Czechia    3508    39    48
 -- Denmark    3275    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -2977,34 +2977,34 @@
 -- Bahrain    567    4    316
 -- Hungary    525    20    40
 -- Lebanon    479    14    43
--- Bosnia and Herzegovina    455    13    19
+-- Bosnia and Herzegovina    457    13    19
 -- Latvia    446    0    1
--- Moldova, Republic of    423    4    22
+-- Moldova, Republic of    423    5    22
 -- Bulgaria    422    9    20
 -- Slovakia    400    1    7
--- Tunisia    394    10    3
+-- Tunisia    394    10    5
 -- Andorra    390    14    10
--- Kazakhstan    375    3    26
+-- Kazakhstan    380    3    26
 -- Azerbaijan    359    5    26
--- North Macedonia    354    9    12
+-- North Macedonia    354    11    17
 -- Costa Rica    347    2    4
 -- Uruguay    338    2    41
 -- Taiwan    329    5    45
 -- Cyprus    320    9    28
 -- Kuwait    317    0    80
+-- Réunion    281    0    40
 -- Jordan    274    5    30
 -- Burkina Faso    261    14    32
 -- Albania    259    15    67
--- Réunion    247    0    1
 -- San Marino    236    26    13
 -- Cameroon    233    6    10
 -- Viet Nam    218    0    63
+-- Cuba    212    6    12
 -- Oman    210    1    34
 -- Afghanistan    196    4    5
 -- Ghana    195    5    31
 -- Senegal    190    1    45
 -- Malta    188    0    2
--- Cuba    186    6    8
 -- Côte d'Ivoire    179    1    7
 -- Uzbekistan    173    2    12
 -- Faroe Islands    173    0    75
@@ -3018,12 +3018,12 @@
 -- Brunei Darussalam    131    1    52
 -- Martinique    128    3    27
 -- Montenegro    120    2    0
+-- Georgia    117    0    23
 -- Bolivia, Plurinational State of    115    7    1
--- Georgia    115    0    23
 -- Guadeloupe    114    4    22
 -- Kosovo    112    1    6
 -- Kyrgyzstan    111    0    3
--- Congo, Democratic Republic of the    109    8    2
+-- Congo, Democratic Republic of the    109    9    3
 -- Cambodia    109    0    25
 -- Mayotte    94    1    10
 -- Trinidad and Tobago    89    5    1
