@@ -2887,8 +2887,9 @@
 -- Malaysia    2766    43    537
 -- Chile    2738    12    156
 -- Poland    2347    35    13
+-- Philippines    2311    96    50
 -- Ecuador    2302    79    58
--- Romania    2245    82    220
+-- Romania    2245    85    220
 -- Japan    2229    66    424
 ---- Hokkaido    177    7    100
 ---- kochi    18    0    0
@@ -2935,7 +2936,6 @@
 ---- Toyama    4    0    0
 ---- Yamagata    1    0    0
 -- Luxembourg    2178    23    80
--- Philippines    2084    88    49
 -- Pakistan    2042    26    82
 -- Thailand    1771    12    416
 -- India    1590    45    148
@@ -2971,8 +2971,8 @@
 -- Bahrain    567    4    316
 -- Hungary    525    20    40
 -- Lebanon    470    12    37
+-- Bosnia and Herzegovina    448    13    17
 -- Latvia    446    0    1
--- Bosnia and Herzegovina    430    13    17
 -- Bulgaria    412    8    20
 -- Tunisia    394    10    3
 -- Andorra    376    12    10
@@ -3004,14 +3004,14 @@
 -- Malta    169    0    2
 -- Belarus    163    1    53
 -- Ghana    161    5    31
--- Mauritius    143    5    0
+-- Mauritius    147    5    0
 -- Venezuela, Bolivarian Republic of    143    3    41
 -- Sri Lanka    143    2    18
 -- Nigeria    139    2    9
+-- Palestine    134    1    18
 -- Brunei Darussalam    129    1    45
 -- Martinique    128    3    27
 -- Montenegro    120    2    0
--- Palestine    119    1    18
 -- Bolivia, Plurinational State of    115    7    1
 -- Georgia    115    0    22
 -- Guadeloupe    114    4    22
@@ -3057,11 +3057,11 @@
 -- Virgin Islands, U.S.    17    0    0
 -- Haiti    16    0    1
 -- New Caledonia    16    0    0
+-- Saint Martin (French part)    16    1    2
 -- Myanmar    15    1    0
 -- Eritrea    15    0    0
 -- Bahamas    15    0    1
 -- Equatorial Guinea    15    0    1
--- Saint Martin (French part)    15    1    2
 -- Cayman Islands    14    1    0
 -- Mongolia    14    0    2
 -- Saint Lucia    13    0    1
