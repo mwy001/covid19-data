@@ -1,4 +1,4 @@
--- United States of America    190404    4095    7141
+-- United States of America    190405    4107    7141
 ---- NY    76049    1721    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -1295,7 +1295,7 @@
 ------ Traverse(27155)    2    0    0
 ------ Carlton(27017)    1    0    0
 ------ Lyon(27083)    1    0    0
----- MD    1985    19    53
+---- MD    1986    31    53
 ------ Montgomery(24031)    447    1    0
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    289    2    0
@@ -1391,11 +1391,11 @@
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
 ------ Bamberg(45009)    2    0    0
----- AL    999    24    0
+---- AL    1000    24    0
 ------ Jefferson(01073)    282    1    0
 ------ Shelby(01117)    88    2    0
 ------ Lee(01081)    75    2    0
------- Tuscaloosa(01125)    29    0    0
+------ Tuscaloosa(01125)    30    0    0
 ------ Elmore(01051)    14    0    0
 ------ Montgomery(01101)    31    1    0
 ------ Baldwin(01003)    19    1    0
@@ -2830,7 +2830,7 @@
 ---- Cayman Islands    1    1    0
 -- Switzerland    17137    461    2967
 -- Belgium    13964    828    2132
--- Netherlands    13614    1173    259
+-- Netherlands    13696    1175    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    13531    214    243
@@ -2868,7 +2868,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
--- Israel    8385    21    226
+-- Israel    8385    23    226
 -- Portugal    8251    187    43
 -- Brazil    5861    203    127
 -- Sweden    4947    239    16
@@ -2883,10 +2883,10 @@
 ---- Australian Capital Territory    84    1    8
 -- Norway    4828    43    13
 -- Czechia    3330    32    45
--- Ireland    3235    71    5
--- Denmark    3092    104    78
+-- Denmark    3275    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Ireland    3235    71    5
 -- Chile    3031    16    234
 -- Malaysia    2908    45    645
 -- Russian Federation    2777    24    190
@@ -2948,13 +2948,13 @@
 -- Finland    1446    17    10
 -- South Africa    1353    5    50
 -- Greece    1314    49    52
+-- Dominican Republic    1284    57    9
 -- Iceland    1220    5    225
 -- Mexico    1215    29    35
 -- Panama    1181    30    9
--- Dominican Republic    1109    51    5
 -- Peru    1065    30    394
 -- Serbia    1060    28    42
--- Argentina    1054    27    240
+-- Argentina    1054    27    248
 -- Singapore    1000    3    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
@@ -3024,7 +3024,7 @@
 -- Congo, Democratic Republic of the    109    8    2
 -- Cambodia    109    0    25
 -- Mayotte    94    1    10
--- Trinidad and Tobago    89    4    1
+-- Trinidad and Tobago    89    5    1
 -- Kenya    81    1    3
 -- Rwanda    75    0    0
 -- Gibraltar    69    0    34
