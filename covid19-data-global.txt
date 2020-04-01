@@ -2830,7 +2830,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    13531    214    243
--- Austria    10418    146    1436
+-- Austria    10444    146    1436
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2865,8 +2865,9 @@
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
 -- Israel    8385    21    226
--- Portugal    7443    160    43
+-- Portugal    8251    187    43
 -- Brazil    5812    203    127
+-- Sweden    4947    239    16
 -- Australia    4864    21    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
@@ -2876,17 +2877,16 @@
 ---- Tasmania    69    2    5
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
--- Norway    4699    41    13
--- Sweden    4435    180    16
+-- Norway    4705    41    13
 -- Czechia    3330    32    45
 -- Ireland    3235    71    5
--- Denmark    3043    104    78
+-- Denmark    3092    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Malaysia    2908    45    645
 -- Russian Federation    2777    24    190
 -- Chile    2738    12    156
--- Romania    2460    85    252
+-- Romania    2460    86    252
 -- Poland    2347    35    13
 -- Philippines    2311    96    50
 -- Ecuador    2302    79    58
@@ -2899,23 +2899,23 @@
 ---- Nagano    9    0    0
 ---- Tochigi    14    0    0
 ---- Kumamoto    14    0    0
----- Saitama    100    2    0
+---- Saitama    101    3    0
 ---- Ishikawa    13    0    0
 ---- Fukuoka    46    0    0
 ---- Tokyo    587    15    0
 ---- Wakayama    19    1    2
 ---- Kyoto    72    0    16
 ---- Osaka    244    2    1
----- Chiba    175    1    0
+---- Chiba    185    1    0
 ---- Kanagawa    150    5    1
 ---- Shizuoka    13    0    0
----- Aichi    178    19    2
+---- Aichi    179    19    2
 ---- Nara    15    0    1
 ---- Tokushima    3    0    0
 ---- Mie    11    0    1
 ---- Okinawa    9    0    1
 ---- Ehime    9    0    0
----- hyogo    151    11    0
+---- hyogo    155    11    0
 ---- oita    29    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
@@ -2950,11 +2950,11 @@
 -- Dominican Republic    1109    51    5
 -- Peru    1065    30    394
 -- Argentina    1054    27    240
+-- Croatia    963    6    73
 -- Singapore    926    3    240
 ---- Central Singapore Community Development Council    345    0    124
 -- Colombia    906    16    31
 -- Serbia    900    24    42
--- Croatia    867    6    67
 -- Slovenia    841    15    10
 -- Qatar    781    2    62
 -- Estonia    779    5    33
@@ -2965,7 +2965,7 @@
 -- Iraq    694    50    170
 -- Ukraine    669    17    10
 -- United Arab Emirates    664    6    61
--- Morocco    638    36    24
+-- Morocco    638    37    26
 -- Lithuania    581    8    7
 -- Armenia    571    3    31
 -- Bahrain    567    4    316
@@ -2973,17 +2973,17 @@
 -- Lebanon    479    12    37
 -- Bosnia and Herzegovina    451    13    17
 -- Latvia    446    0    1
--- Bulgaria    412    8    20
+-- Bulgaria    412    9    20
 -- Slovakia    400    1    7
 -- Tunisia    394    10    3
 -- Andorra    376    12    10
 -- Kazakhstan    372    3    26
 -- Azerbaijan    359    5    26
+-- North Macedonia    354    9    12
 -- Moldova, Republic of    353    4    22
 -- Costa Rica    347    2    4
 -- Uruguay    338    1    41
 -- Taiwan    329    5    45
--- North Macedonia    329    9    12
 -- Kuwait    317    0    80
 -- Jordan    274    5    30
 -- Cyprus    262    8    23
@@ -3000,14 +3000,14 @@
 -- Malta    188    0    2
 -- Cuba    186    6    8
 -- Côte d'Ivoire    179    1    7
--- Uzbekistan    173    2    8
+-- Uzbekistan    173    2    12
 -- Faroe Islands    173    0    75
 -- Honduras    172    10    3
 -- Belarus    163    2    53
 -- Nigeria    151    2    9
 -- Mauritius    147    5    0
+-- Sri Lanka    146    2    18
 -- Venezuela, Bolivarian Republic of    143    3    41
--- Sri Lanka    143    2    18
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
 -- Martinique    128    3    27
@@ -3039,16 +3039,16 @@
 -- Jamaica    38    2    2
 -- French Polynesia    37    0    0
 -- Zambia    36    0    0
+-- Togo    36    2    10
 -- Niger    34    3    0
 -- Barbados    34    0    0
--- Togo    34    1    10
 -- Guam    33    1    0
 -- El Salvador    32    1    0
 -- Bermuda    32    0    10
+-- Mali    31    3    0
 -- Djibouti    30    0    0
 -- Guinea    30    0    0
 -- Ethiopia    29    0    4
--- Mali    28    2    0
 -- Guyana    23    2    0
 -- Tanzania, United Republic of    19    1    1
 -- Congo    19    0    0
@@ -3066,7 +3066,7 @@
 -- Mongolia    14    0    2
 -- Saint Lucia    13    0    1
 -- Dominica    12    0    0
--- Curaçao    11    1    2
+-- Curaçao    11    1    3
 -- Namibia    11    0    2
 -- Libya    10    0    1
 -- Lao People's Democratic Republic    10    0    0
