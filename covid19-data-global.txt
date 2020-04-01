@@ -1,4 +1,4 @@
--- United States of America    189878    4090    7141
+-- United States of America    189920    4095    7141
 ---- NY    76049    1721    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
@@ -1082,7 +1082,7 @@
 ------ Brunswick(51025)    1    0    0
 ------ King and Queen(51097)    1    0    0
 ------ City of Waynesboro(51820)    2    0    0
----- NC    1561    12    5
+---- NC    1561    14    5
 ------ Wake(37183)    193    0    0
 ------ Durham(37063)    125    0    0
 ------ Mecklenburg(37119)    420    1    0
@@ -1126,7 +1126,7 @@
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    2    0    0
 ------ Davie(37059)    12    0    0
------- Montgomery(37123)    6    0    0
+------ Montgomery(37123)    6    1    0
 ------ Nash(37127)    11    0    0
 ------ Henderson(37089)    18    0    0
 ------ Vance(37181)    4    0    0
@@ -1165,7 +1165,7 @@
 ------ Pamlico(37137)    1    0    0
 ------ Bladen(37017)    1    0    0
 ------ Rutherford(37161)    5    0    0
------- Wilkes(37193)    2    0    0
+------ Wilkes(37193)    2    1    0
 ------ Anson(37007)    1    0    0
 ------ Clay(37043)    1    0    0
 ------ Martin(37117)    3    0    0
@@ -2116,11 +2116,11 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    1    0    0
 ------ Sublette(56035)    1    0    0
----- MT    198    5    0
+---- MT    200    5    0
 ------ Missoula(30063)    14    0    0
 ------ Yellowstone(30111)    31    0    0
 ------ Broadwater(30007)    3    0    0
------- Gallatin(30031)    74    0    0
+------ Gallatin(30031)    76    0    0
 ------ Silver Bow(30093)    11    0    0
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    6    2    0
@@ -2232,7 +2232,7 @@
 ------ Guam(66010)    55    1    0
 ---- PR    286    11    0
 ---- VI    30    0    21
----- MP    2    0    0
+---- MP    6    1    0
 -- Italy    105792    12428    15729
 ---- Abruzzo    1401    115    95
 ---- Aosta Valley    628    56    20
@@ -2276,8 +2276,8 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- China    82631    3321    76415
----- 天津    174    3    135
+-- China    82691    3321    76436
+---- 天津    176    3    135
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2324,7 +2324,7 @@
 ------ 天门    496    15    481
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
----- 香港    714    4    128
+---- 香港    765    4    147
 ---- 上海    516    6    341
 ------ 境外输入    112    0    4
 ------ 宝山区    22    1    19
@@ -2441,7 +2441,7 @@
 ------ 韶关    10    1    9
 ------ 汕尾    5    0    5
 ------ 河源    4    0    4
----- 福建    345    1    297
+---- 福建    345    1    298
 ------ 福州    72    1    71
 ------ 莆田    56    0    56
 ------ 泉州    47    0    47
@@ -2451,8 +2451,8 @@
 ------ 南平    20    0    20
 ------ 三明    14    0    14
 ------ 龙岩    6    0    6
----- 四川    552    3    536
------- 成都    157    3    141
+---- 四川    552    3    537
+------ 成都    157    3    142
 ------ 甘孜州    78    0    78
 ------ 达州    42    0    42
 ------ 南充    39    0    39
@@ -2738,7 +2738,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 台湾    322    5    39
+---- 台湾    329    5    39
 -- Germany    73217    802    16100
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
@@ -2831,7 +2831,7 @@
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Turkey    13531    214    243
--- Austria    10444    146    1436
+-- Austria    10482    146    1436
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2867,7 +2867,7 @@
 ---- Nunavut    1    0    0
 -- Israel    8385    21    226
 -- Portugal    8251    187    43
--- Brazil    5812    203    127
+-- Brazil    5827    203    127
 -- Sweden    4947    239    16
 -- Australia    4864    21    422
 ---- New South Wales    2182    9    4
@@ -2884,9 +2884,9 @@
 -- Denmark    3092    104    78
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Chile    3031    16    234
 -- Malaysia    2908    45    645
 -- Russian Federation    2777    24    190
--- Chile    2738    12    156
 -- Romania    2460    86    252
 -- Poland    2420    36    13
 -- Philippines    2311    96    50
@@ -2945,9 +2945,9 @@
 -- Finland    1446    17    10
 -- South Africa    1353    5    50
 -- Greece    1314    49    52
+-- Iceland    1220    5    225
 -- Mexico    1215    29    35
 -- Panama    1181    30    9
--- Iceland    1135    5    198
 -- Dominican Republic    1109    51    5
 -- Peru    1065    30    394
 -- Serbia    1060    28    42
@@ -2977,13 +2977,13 @@
 -- Bulgaria    412    9    20
 -- Slovakia    400    1    7
 -- Tunisia    394    10    3
--- Andorra    376    12    10
--- Kazakhstan    372    3    26
+-- Andorra    390    14    10
+-- Kazakhstan    375    3    26
 -- Azerbaijan    359    5    26
 -- North Macedonia    354    9    12
 -- Moldova, Republic of    353    4    22
 -- Costa Rica    347    2    4
--- Uruguay    338    1    41
+-- Uruguay    338    2    41
 -- Taiwan    329    5    45
 -- Kuwait    317    0    80
 -- Jordan    274    5    30
@@ -3007,7 +3007,7 @@
 -- Belarus    163    2    53
 -- Nigeria    151    2    9
 -- Mauritius    147    5    0
--- Sri Lanka    146    2    18
+-- Sri Lanka    146    2    21
 -- Venezuela, Bolivarian Republic of    143    3    41
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
@@ -3086,12 +3086,12 @@
 -- Chad    7    0    0
 -- Sudan    7    2    1
 -- Antigua and Barbuda    7    0    0
+-- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
 -- Liberia    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
 -- Holy See    6    0    0
--- Turks and Caicos Islands    5    0    0
 -- Nicaragua    5    1    0
 -- Fiji    5    0    0
 -- Montserrat    5    0    0
