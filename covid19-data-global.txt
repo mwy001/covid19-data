@@ -2830,7 +2830,7 @@
 -- Netherlands    12667    1040    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10298    128    1095
+-- Austria    10366    128    1095
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2883,16 +2883,16 @@
 -- Denmark    3039    90    77
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Russian Federation    2777    24    190
 -- Malaysia    2766    43    537
 -- Chile    2738    12    156
 -- Poland    2347    35    13
--- Russian Federation    2337    17    121
 -- Ecuador    2302    79    58
 -- Romania    2245    82    220
 -- Japan    2229    66    424
 ---- Hokkaido    177    7    100
----- kochi    17    0    0
----- Miyagi    7    0    0
+---- kochi    18    0    0
+---- Miyagi    11    0    0
 ---- Niigata    32    0    0
 ---- Gifu    26    0    0
 ---- Nagano    8    0    0
@@ -2902,8 +2902,8 @@
 ---- Ishikawa    13    0    0
 ---- Fukuoka    46    0    0
 ---- Tokyo    521    15    0
----- Wakayama    18    1    2
----- Kyoto    69    0    16
+---- Wakayama    19    1    2
+---- Kyoto    72    0    16
 ---- Osaka    244    2    1
 ---- Chiba    171    1    0
 ---- Kanagawa    142    5    1
@@ -2925,14 +2925,14 @@
 ---- Gunma    19    1    0
 ---- Fukushima    4    0    0
 ---- Saga    2    0    0
----- Nagasaki    2    0    0
+---- Nagasaki    3    0    0
 ---- Ibaraki    24    0    0
 ---- Kagawa    2    0    0
----- Fukui    20    0    0
+---- Fukui    21    0    0
 ---- Okayama    4    0    0
 ---- Aomori    8    0    0
 ---- Kagoshima    1    0    0
----- Toyama    2    0    0
+---- Toyama    4    0    0
 ---- Yamagata    1    0    0
 -- Luxembourg    2178    23    80
 -- Philippines    2084    88    49
@@ -2942,7 +2942,7 @@
 -- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
 -- Finland    1418    17    10
--- South Africa    1353    5    31
+-- South Africa    1353    5    50
 -- Greece    1314    49    52
 -- Mexico    1215    29    35
 -- Panama    1181    30    9
@@ -2984,7 +2984,7 @@
 -- Taiwan    329    5    45
 -- North Macedonia    329    9    12
 -- Azerbaijan    298    5    26
--- Kuwait    289    0    73
+-- Kuwait    289    0    80
 -- Jordan    274    5    30
 -- Cyprus    262    8    23
 -- Burkina Faso    261    14    32
@@ -2997,7 +2997,7 @@
 -- Afghanistan    196    4    5
 -- Cuba    186    6    8
 -- Côte d'Ivoire    179    1    7
--- Senegal    175    0    40
+-- Senegal    175    1    40
 -- Uzbekistan    173    2    8
 -- Faroe Islands    173    0    75
 -- Honduras    172    10    3
@@ -3023,8 +3023,8 @@
 -- Trinidad and Tobago    89    4    1
 -- Rwanda    75    0    0
 -- Gibraltar    69    0    34
+-- Paraguay    69    3    1
 -- Liechtenstein    68    0    0
--- Paraguay    65    3    1
 -- Isle of Man    60    0    0
 -- Kenya    59    1    1
 -- Madagascar    57    0    0
@@ -3046,8 +3046,8 @@
 -- El Salvador    32    1    0
 -- Bermuda    32    0    10
 -- Djibouti    30    0    0
+-- Ethiopia    29    0    4
 -- Mali    28    2    0
--- Ethiopia    26    0    4
 -- Guyana    23    2    0
 -- Guinea    22    0    0
 -- Tanzania, United Republic of    19    1    1
