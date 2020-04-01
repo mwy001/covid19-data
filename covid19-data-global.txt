@@ -2830,7 +2830,7 @@
 -- Netherlands    12667    1040    253
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10192    128    1095
+-- Austria    10298    128    1095
 -- Korea, Republic of    9887    165    5567
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2864,7 +2864,7 @@
 ---- Northwest Territories    1    0    0
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
--- Israel    8385    21    224
+-- Israel    8385    21    226
 -- Portugal    7443    160    43
 -- Brazil    5812    202    127
 -- Australia    4862    21    358
@@ -2937,7 +2937,7 @@
 -- Luxembourg    2178    23    80
 -- Philippines    2084    88    49
 -- Pakistan    2042    26    82
--- Thailand    1771    12    342
+-- Thailand    1771    12    416
 -- India    1590    45    148
 -- Saudi Arabia    1563    10    165
 -- Indonesia    1528    136    81
@@ -2963,12 +2963,12 @@
 -- Egypt    710    46    157
 -- New Zealand    708    1    83
 -- Iraq    694    50    170
+-- Ukraine    669    17    10
 -- United Arab Emirates    664    6    61
--- Ukraine    645    17    10
--- Morocco    617    36    24
+-- Morocco    638    36    24
 -- Lithuania    581    8    7
+-- Armenia    571    3    31
 -- Bahrain    567    4    316
--- Armenia    532    3    30
 -- Hungary    525    20    40
 -- Lebanon    470    12    37
 -- Latvia    446    0    1
@@ -2981,8 +2981,8 @@
 -- Moldova, Republic of    353    4    18
 -- Costa Rica    347    2    4
 -- Uruguay    338    1    41
+-- Taiwan    329    5    45
 -- North Macedonia    329    9    12
--- Taiwan    322    5    39
 -- Azerbaijan    298    5    26
 -- Kuwait    289    0    73
 -- Jordan    274    5    30
@@ -2993,14 +2993,14 @@
 -- San Marino    236    26    13
 -- Cameroon    223    6    5
 -- Viet Nam    212    0    58
+-- Oman    210    1    34
 -- Afghanistan    196    4    5
--- Oman    192    1    34
 -- Cuba    186    6    8
 -- Côte d'Ivoire    179    1    7
 -- Senegal    175    0    40
 -- Uzbekistan    173    2    8
+-- Faroe Islands    173    0    75
 -- Honduras    172    10    3
--- Faroe Islands    169    0    74
 -- Malta    169    0    2
 -- Belarus    163    1    53
 -- Ghana    161    5    31
@@ -3010,13 +3010,13 @@
 -- Nigeria    139    2    9
 -- Brunei Darussalam    129    1    45
 -- Martinique    128    3    27
+-- Montenegro    120    2    0
 -- Palestine    119    1    18
 -- Bolivia, Plurinational State of    115    7    1
+-- Georgia    115    0    22
 -- Guadeloupe    114    4    22
 -- Kosovo    112    1    6
 -- Kyrgyzstan    111    0    3
--- Georgia    110    0    21
--- Montenegro    109    2    0
 -- Cambodia    109    0    25
 -- Congo, Democratic Republic of the    98    8    2
 -- Mayotte    94    1    10
