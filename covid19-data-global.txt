@@ -1,4 +1,4 @@
--- United States of America    213596    4764    8474
+-- United States of America    213722    4769    8474
 ---- NY    83948    1941    6379
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -34,7 +34,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    18    0    0
 ------ Washington(36115)    11    0    0
------- New York(36061)    47439    1139    0
+------ New York(36061)    47439    1374    0
 ------ Niagara(36063)    46    0    0
 ------ Schoharie(36095)    9    0    0
 ------ Fulton(36035)    2    0    0
@@ -1098,7 +1098,7 @@
 ------ City of Waynesboro(51820)    2    0    0
 ------ Augusta(51015)    1    0    0
 ------ Sussex(51183)    1    0    0
----- NC    1675    14    5
+---- NC    1685    14    5
 ------ Wake(37183)    213    0    0
 ------ Durham(37063)    126    0    0
 ------ Mecklenburg(37119)    444    1    0
@@ -1413,14 +1413,14 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1084    27    0
------- Jefferson(01073)    299    1    0
+---- AL    1105    27    0
+------ Jefferson(01073)    302    1    0
 ------ Shelby(01117)    89    2    0
------- Lee(01081)    82    2    0
+------ Lee(01081)    83    2    0
 ------ Tuscaloosa(01125)    30    0    0
------- Elmore(01051)    14    0    0
+------ Elmore(01051)    15    0    0
 ------ Montgomery(01101)    35    1    0
------- Baldwin(01003)    21    1    0
+------ Baldwin(01003)    23    1    0
 ------ Limestone(01083)    23    0    0
 ------ Madison(01089)    107    1    0
 ------ Calhoun(01015)    11    0    0
@@ -1428,7 +1428,7 @@
 ------ Chambers(01017)    45    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    32    0    0
------- Mobile(01097)    56    2    0
+------ Mobile(01097)    57    2    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -1439,9 +1439,9 @@
 ------ Houston(01069)    10    0    0
 ------ Tallapoosa(01123)    14    1    0
 ------ Morgan(01103)    20    1    0
------- Autauga(01001)    8    0    0
+------ Autauga(01001)    10    0    0
 ------ Pickens(01107)    4    0    0
------- Pike(01109)    5    0    0
+------ Pike(01109)    7    0    0
 ------ Etowah(01055)    10    0    0
 ------ Dallas(01047)    3    0    0
 ------ Blount(01009)    5    0    0
@@ -1468,12 +1468,15 @@
 ------ Covington(01039)    3    0    0
 ------ Randolph(01111)    5    0    0
 ------ Escambia(01053)    1    0    0
------- Monroe(01099)    2    0    0
------- Macon(01087)    1    0    0
+------ Monroe(01099)    3    0    0
+------ Macon(01087)    2    0    0
 ------ Bibb(01007)    3    0    0
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
------- Sumter(01119)    2    0    0
+------ Sumter(01119)    3    0    0
+------ Clarke(01025)    2    0    0
+------ Conecuh(01035)    1    0    0
+------ Dale(01045)    1    0    0
 ---- ME    344    7    68
 ------ Cumberland(23005)    192    5    0
 ------ Androscoggin(23001)    12    0    0
@@ -1490,7 +1493,7 @@
 ------ Somerset(23025)    1    0    0
 ---- DC    586    9    121
 ------ District of Columbia(11001)    586    9    0
----- IN    2565    65    0
+---- IN    2569    65    0
 ------ Marion(18097)    1117    21    0
 ------ Hendricks(18063)    91    2    0
 ------ Johnson(18081)    118    3    0
@@ -1739,7 +1742,7 @@
 ------ Antelope(31003)    1    0    0
 ------ Kimball(31105)    1    0    0
 ------ Cuming(31039)    1    0    0
----- NM    316    5    26
+---- NM    340    5    26
 ------ Bernalillo(35001)    129    4    0
 ------ Santa Fe(35049)    42    0    0
 ------ Sandoval(35043)    29    0    0
@@ -1898,7 +1901,7 @@
 ------ Warren(28149)    2    0    0
 ------ Tishomingo(28141)    1    0    0
 ------ Jasper(28061)    1    0    0
----- AZ    1413    29    3
+---- AZ    1530    29    3
 ------ Maricopa(04013)    871    11    0
 ------ Pinal(04021)    65    0    0
 ------ Pima(04019)    217    10    0
@@ -2153,29 +2156,30 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    2    0    0
 ------ Sublette(56035)    1    0    0
----- MT    208    6    0
------- Missoula(30063)    14    0    0
------- Yellowstone(30111)    32    0    0
+---- MT    217    6    0
+------ Missoula(30063)    15    0    0
+------ Yellowstone(30111)    33    0    0
 ------ Broadwater(30007)    3    0    0
------- Gallatin(30031)    76    0    0
+------ Gallatin(30031)    79    0    0
 ------ Silver Bow(30093)    11    0    0
 ------ Roosevelt(30085)    1    0    0
 ------ Madison(30057)    6    2    0
------- Flathead(30029)    14    0    0
+------ Flathead(30029)    17    0    0
 ------ Lewis and Clark(30049)    14    0    0
 ------ Ravalli(30081)    1    0    0
 ------ Cascade(30013)    9    0    0
 ------ Jefferson(30043)    2    0    0
 ------ Hill(30041)    1    0    0
 ------ Glacier(30035)    1    0    0
------- Lincoln(30053)    5    1    0
+------ Lincoln(30053)    6    1    0
 ------ Meagher(30059)    1    0    0
 ------ Toole(30101)    7    3    0
------- Park(30067)    4    0    0
+------ Park(30067)    5    0    0
 ------ Lake(30047)    4    0    0
 ------ Deer Lodge(30023)    3    0    0
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
+------ Carbon(30009)    1    0    0
 ---- ID    567    9    0
 ------ Ada(16001)    195    3    0
 ------ Blaine(16013)    192    2    0
@@ -2779,7 +2783,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    329    5    39
--- Germany    77921    925    18700
+-- Germany    77981    931    18700
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
 ---- Free State of Bavaria    15505    191    900
@@ -2898,7 +2902,7 @@
 ---- Quebec    4611    33    0
 ---- New Brunswick    70    0    0
 ---- Manitoba    127    1    0
----- Saskatchewan    184    2    0
+---- Saskatchewan    193    3    0
 ---- Prince Edward Island    21    0    0
 ---- Newfoundland and Labrador    175    1    0
 ---- Nova Scotia    173    0    0
@@ -2919,7 +2923,7 @@
 ---- Australian Capital Territory    84    1    8
 -- Sweden    4947    239    103
 -- Norway    4877    44    13
--- Czechia    3508    39    61
+-- Czechia    3589    39    61
 -- Ireland    3447    85    5
 -- Denmark    3290    104    971
 ---- Denmark    977    4    1
@@ -2927,12 +2931,10 @@
 -- Chile    3031    16    234
 -- Malaysia    2908    45    645
 -- Russian Federation    2777    24    190
--- Ecuador    2748    93    58
+-- Ecuador    2758    98    58
 -- Poland    2554    43    56
 -- Romania    2460    92    252
--- Luxembourg    2319    29    80
--- Philippines    2311    96    50
--- Japan    2229    66    472
+-- Japan    2384    66    472
 ---- Hokkaido    181    7    100
 ---- kochi    20    0    0
 ---- Miyagi    11    0    0
@@ -2977,6 +2979,8 @@
 ---- Kagoshima    2    0    0
 ---- Toyama    5    0    0
 ---- Yamagata    2    0    0
+-- Luxembourg    2319    29    80
+-- Philippines    2311    96    50
 -- Pakistan    2118    27    94
 -- India    1998    58    148
 -- Thailand    1771    12    505
@@ -2992,7 +2996,7 @@
 -- Panama    1181    30    9
 -- Colombia    1065    17    39
 -- Serbia    1060    28    42
--- Argentina    1054    28    248
+-- Argentina    1054    31    248
 -- Singapore    1000    3    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
@@ -3052,11 +3056,11 @@
 -- Martinique    135    3    27
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
+-- Kosovo    125    1    10
 -- Guadeloupe    125    6    24
 -- Montenegro    123    2    0
 -- Georgia    117    0    23
 -- Bolivia, Plurinational State of    115    7    1
--- Kosovo    112    1    6
 -- Kyrgyzstan    111    0    3
 -- Congo, Democratic Republic of the    109    9    3
 -- Cambodia    109    0    25
@@ -3098,10 +3102,10 @@
 -- Maldives    19    0    13
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
+-- Myanmar    16    1    0
 -- Haiti    16    0    1
 -- New Caledonia    16    0    0
 -- Saint Martin (French part)    16    1    2
--- Myanmar    15    1    0
 -- Eritrea    15    0    0
 -- Equatorial Guinea    15    0    1
 -- Namibia    14    0    2
@@ -3147,7 +3151,7 @@
 -- Sierra Leone    2    0    0
 -- Anguilla    2    0    0
 -- Jersey    2    0    0
+-- Saint Vincent and the Grenadines    2    0    1
 -- Timor-Leste    1    0    0
 -- Papua New Guinea    1    0    0
 -- Guernsey    1    0    0
--- Saint Vincent and the Grenadines    1    0    1
