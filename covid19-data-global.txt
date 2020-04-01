@@ -1,5 +1,5 @@
--- United States of America    189199    3906    7106
----- NY    76049    1551    5191
+-- United States of America    189496    4081    7109
+---- NY    76049    1714    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
 ------ Suffolk(36103)    6713    53    0
@@ -95,7 +95,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    8501    181    90
+---- CA    8548    182    90
 ------ Santa Clara(06085)    890    30    0
 ------ Los Angeles(06037)    3019    54    0
 ------ San Mateo(06081)    309    10    0
@@ -106,63 +106,64 @@
 ------ Orange(06059)    502    7    0
 ------ Alameda(06001)    313    7    0
 ------ Riverside(06065)    371    13    0
------- San Joaquin(06077)    141    8    0
+------ San Joaquin(06077)    151    8    0
 ------ Santa Cruz(06087)    49    1    0
------- Marin(06041)    99    5    0
------- Ventura(06111)    149    4    0
+------ Marin(06041)    102    5    0
+------ Ventura(06111)    149    5    0
 ------ Placer(06061)    67    2    0
 ------ Solano(06095)    49    0    0
 ------ San Luis Obispo(06079)    80    0    0
------- Sonoma(06097)    74    2    0
+------ Sonoma(06097)    78    2    0
 ------ San Benito(06069)    21    1    0
 ------ Yolo(06113)    25    1    0
 ------ San Bernardino(06071)    183    6    0
------- Stanislaus(06099)    35    0    0
+------ Stanislaus(06099)    39    0    0
 ------ Tulare(06107)    45    1    0
 ------ Calaveras(06009)    3    0    0
------- Fresno(06019)    53    0    0
+------ Fresno(06019)    68    0    0
 ------ Imperial(06025)    33    0    0
------- Monterey(06053)    40    1    0
+------ Monterey(06053)    42    1    0
 ------ Santa Barbara(06083)    99    0    0
 ------ Amador(06005)    2    0    0
 ------ Humboldt(06023)    27    0    0
 ------ Kern(06029)    101    1    0
------- Madera(06039)    21    1    0
+------ Madera(06039)    23    1    0
 ------ Nevada(06057)    21    0    0
------- Shasta(06089)    6    1    0
+------ Shasta(06089)    7    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    0
 ------ Mono(06051)    13    1    0
 ------ Butte(06007)    8    0    0
------- El Dorado(06017)    15    0    0
+------ El Dorado(06017)    18    0    0
 ------ Yuba(06115)    7    0    0
 ------ Napa(06055)    15    1    0
 ------ Merced(06047)    10    0    0
 ------ Inyo(06027)    8    0    0
 ------ Sutter(06101)    10    0    0
------- Kings(06031)    3    0    0
+------ Kings(06031)    4    0    0
 ------ Colusa(06011)    1    0    0
 ------ Glenn(06021)    2    0    0
 ------ Tuolumne(06109)    2    0    0
 ------ Alpine(06003)    1    0    0
----- NJ    18857    267    1
------- Bergen(34003)    2909    23    0
+------ Plumas(06063)    1    0    0
+---- NJ    18992    267    1
+------ Bergen(34003)    3202    35    0
 ------ Essex(34013)    1900    16    0
 ------ Hudson(34017)    1606    11    0
 ------ Middlesex(34023)    1277    63    0
 ------ Monmouth(34025)    1140    8    0
 ------ Union(34039)    4146    7    0
------- Passaic(34031)    1294    11    0
+------ Passaic(34031)    1294    12    0
 ------ Mercer(34021)    268    0    0
 ------ Morris(34027)    841    8    0
------- Somerset(34035)    413    6    0
+------ Somerset(34035)    413    7    0
 ------ Burlington(34005)    202    2    0
 ------ Hunterdon(34019)    97    0    0
 ------ Ocean(34029)    1022    10    0
 ------ Camden(34007)    228    3    0
 ------ Gloucester(34015)    114    1    0
 ------ Atlantic(34001)    31    0    0
------- Warren(34041)    76    1    0
+------ Warren(34041)    76    2    0
 ------ Sussex(34037)    132    1    0
 ------ Cape May(34009)    15    0    0
 ------ Cumberland(34011)    18    1    0
@@ -545,7 +546,7 @@
 ------ Wilcox(13315)    1    0    0
 ------ Wilkinson(13319)    1    0    0
 ------ Emanuel(13107)    1    0    0
----- TX    3901    57    221
+---- TX    3913    57    224
 ------ Dallas(48113)    631    13    0
 ------ Travis(48453)    244    2    0
 ------ Harris(48201)    563    5    0
@@ -570,7 +571,7 @@
 ------ Lavaca(48285)    3    0    0
 ------ Rusk(48401)    3    0    0
 ------ Webb(48479)    45    2    0
------- Wichita(48485)    30    0    0
+------ Wichita(48485)    38    0    0
 ------ Johnson(48251)    8    1    0
 ------ Comal(48091)    11    2    0
 ------ Grimes(48185)    3    0    0
@@ -1080,9 +1081,9 @@
 ------ Brunswick(51025)    1    0    0
 ------ King and Queen(51097)    1    0    0
 ------ City of Waynesboro(51820)    2    0    0
----- NC    1542    12    5
+---- NC    1545    12    5
 ------ Wake(37183)    193    0    0
------- Durham(37063)    122    0    0
+------ Durham(37063)    125    0    0
 ------ Mecklenburg(37119)    420    1    0
 ------ Chatham(37037)    17    0    0
 ------ Harnett(37085)    18    1    0
@@ -1604,7 +1605,7 @@
 ------ Jones(19105)    4    0    0
 ------ Van Buren(19177)    1    0    0
 ------ Clay(19041)    1    0    0
----- KY    628    17    64
+---- KY    632    18    64
 ------ Jefferson(21111)    206    3    0
 ------ Fayette(21067)    110    2    0
 ------ Harrison(21097)    11    0    0
@@ -1708,7 +1709,7 @@
 ------ York(31185)    1    0    0
 ------ Antelope(31003)    1    0    0
 ------ Kimball(31105)    1    0    0
----- NM    315    4    26
+---- NM    315    5    26
 ------ Bernalillo(35001)    129    3    0
 ------ Santa Fe(35049)    42    0    0
 ------ Sandoval(35043)    29    0    0
@@ -1928,7 +1929,7 @@
 ------ Beckham(40009)    1    0    0
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
----- KS    437    9    0
+---- KS    438    9    0
 ------ Johnson(20091)    134    2    0
 ------ Wyandotte(20209)    79    4    0
 ------ Butler(20015)    3    0    0
@@ -2864,7 +2865,7 @@
 -- Israel    8385    20    224
 -- Portugal    7443    160    43
 -- Brazil    5717    201    127
--- Australia    4763    20    358
+-- Australia    4804    20    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
 ---- Queensland    743    2    8
@@ -2975,8 +2976,8 @@
 -- Andorra    376    12    10
 -- Slovakia    363    1    7
 -- Moldova, Republic of    353    4    18
+-- Kazakhstan    348    3    24
 -- Costa Rica    347    2    4
--- Kazakhstan    343    3    24
 -- Uruguay    338    1    41
 -- North Macedonia    329    9    12
 -- Taiwan    322    5    39
@@ -2996,13 +2997,13 @@
 -- Senegal    175    0    40
 -- Afghanistan    174    4    5
 -- Uzbekistan    172    2    7
+-- Honduras    172    10    3
 -- Faroe Islands    169    0    74
 -- Malta    169    0    2
 -- Ghana    161    5    31
 -- Belarus    152    1    47
 -- Mauritius    143    5    0
 -- Sri Lanka    143    2    17
--- Honduras    141    7    3
 -- Venezuela, Bolivarian Republic of    135    3    39
 -- Nigeria    135    2    8
 -- Brunei Darussalam    129    1    45
@@ -3017,7 +3018,7 @@
 -- Kyrgyzstan    107    0    3
 -- Congo, Democratic Republic of the    98    8    2
 -- Mayotte    94    1    10
--- Trinidad and Tobago    87    3    1
+-- Trinidad and Tobago    87    4    1
 -- Rwanda    75    0    0
 -- Gibraltar    69    0    34
 -- Liechtenstein    68    0    0
@@ -3056,9 +3057,9 @@
 -- Myanmar    15    1    0
 -- Eritrea    15    0    0
 -- Haiti    15    0    1
+-- Bahamas    15    0    1
 -- Equatorial Guinea    15    0    1
 -- Saint Martin (French part)    15    1    2
--- Bahamas    14    0    1
 -- Cayman Islands    14    1    0
 -- Saint Lucia    13    0    1
 -- Dominica    12    0    0
