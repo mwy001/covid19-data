@@ -1,4 +1,4 @@
--- United States of America    213274    4750    8474
+-- United States of America    213596    4764    8474
 ---- NY    83948    1941    6379
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -61,10 +61,10 @@
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    2    0    0
----- WA    5514    226    511
+---- WA    5654    235    511
 ------ King(53033)    2330    150    0
------- Snohomish(53061)    1229    33    0
------- Pierce(53053)    377    6    0
+------ Snohomish(53061)    1304    40    0
+------ Pierce(53053)    423    7    0
 ------ Island(53029)    109    3    0
 ------ Skagit(53057)    128    3    0
 ------ Grant(53025)    63    1    0
@@ -85,7 +85,7 @@
 ------ Lincoln(53043)    1    0    0
 ------ Franklin(53021)    37    0    0
 ------ Mason(53045)    6    0    0
------- Benton(53005)    102    6    0
+------ Benton(53005)    108    7    0
 ------ Clallam(53009)    8    0    0
 ------ San Juan(53055)    4    0    0
 ------ Stevens(53065)    4    0    0
@@ -184,7 +184,7 @@
 ------ Hampshire(25015)    81    1    0
 ---- FL    7168    87    0
 ------ Broward(12011)    1232    12    0
------- Palm Beach(12099)    567    14    0
+------ Palm Beach(12099)    567    16    0
 ------ Duval(12031)    218    4    0
 ------ Volusia(12127)    80    1    0
 ------ Hillsborough(12057)    309    4    0
@@ -551,12 +551,12 @@
 ------ Wilkinson(13319)    2    0    0
 ------ Emanuel(13107)    1    0    0
 ------ Walker(13295)    2    0    0
----- TX    4355    66    243
+---- TX    4489    67    243
 ------ Dallas(48113)    731    15    0
------- Travis(48453)    244    2    0
+------ Travis(48453)    305    3    0
 ------ Harris(48201)    680    5    0
 ------ Bexar(48029)    207    9    0
------- Fort Bend(48157)    163    2    0
+------ Fort Bend(48157)    194    2    0
 ------ Collin(48085)    184    1    0
 ------ Tarrant(48439)    288    3    0
 ------ Smith(48423)    37    1    0
@@ -565,12 +565,12 @@
 ------ El Paso(48141)    53    0    0
 ------ Hays(48209)    42    0    0
 ------ Brazoria(48039)    95    1    0
------- Galveston(48167)    106    0    0
+------ Galveston(48167)    118    0    0
 ------ Lubbock(48303)    100    2    0
------- Matagorda(48321)    27    1    0
+------ Matagorda(48321)    32    1    0
 ------ Bowie(48037)    9    1    0
 ------ Brazos(48041)    63    3    0
------- Denton(48121)    206    4    0
+------ Denton(48121)    231    4    0
 ------ Ellis(48139)    20    0    0
 ------ Gregg(48183)    8    0    0
 ------ Lavaca(48285)    3    0    0
@@ -757,7 +757,7 @@
 ------ Mifflin(42087)    2    0    0
 ------ Venango(42121)    3    0    0
 ------ Bedford(42009)    3    0    0
----- WI    1555    28    1
+---- WI    1556    28    1
 ------ Milwaukee(55079)    780    12    0
 ------ Dane(55025)    233    2    0
 ------ Kenosha(55059)    56    0    0
@@ -977,26 +977,26 @@
 ------ Perry(39127)    2    0    0
 ------ Morrow(39117)    1    0    0
 ---- OR    736    19    0
------- Washington(41067)    186    3    0
+------ Washington(41067)    189    3    0
 ------ Linn(41043)    37    2    0
------- Clackamas(41005)    50    3    0
------- Deschutes(41017)    25    0    0
------- Marion(41047)    141    3    0
------- Multnomah(41051)    116    2    0
------- Benton(41003)    12    1    0
------- Jackson(41029)    21    0    0
+------ Clackamas(41005)    56    3    0
+------ Deschutes(41017)    27    0    0
+------ Marion(41047)    151    3    0
+------ Multnomah(41051)    134    3    0
+------ Benton(41003)    13    1    0
+------ Jackson(41029)    22    0    0
 ------ Polk(41053)    18    0    0
 ------ Umatilla(41059)    5    0    0
------- Douglas(41019)    9    0    0
+------ Douglas(41019)    10    0    0
 ------ Klamath(41035)    5    0    0
 ------ Lane(41039)    18    1    0
------- Yamhill(41071)    16    3    0
+------ Yamhill(41071)    17    3    0
 ------ Grant(41023)    1    0    0
 ------ Union(41061)    1    0    0
 ------ Josephine(41033)    10    0    0
 ------ Hood River(41027)    3    0    0
 ------ Clatsop(41007)    3    0    0
------- Lincoln(41041)    2    0    0
+------ Lincoln(41041)    3    0    0
 ------ Tillamook(41057)    3    0    0
 ------ Wasco(41065)    7    0    0
 ------ Columbia(41009)    1    0    0
@@ -1098,7 +1098,7 @@
 ------ City of Waynesboro(51820)    2    0    0
 ------ Augusta(51015)    1    0    0
 ------ Sussex(51183)    1    0    0
----- NC    1673    14    5
+---- NC    1675    14    5
 ------ Wake(37183)    213    0    0
 ------ Durham(37063)    126    0    0
 ------ Mecklenburg(37119)    444    1    0
@@ -1186,6 +1186,7 @@
 ------ Clay(37043)    3    0    0
 ------ Martin(37117)    3    0    0
 ------ Rockingham(37157)    2    0    0
+------ Stokes(37169)    2    0    0
 ---- MI    9334    337    15
 ------ Oakland(26125)    1910    99    0
 ------ Wayne(26163)    3735    146    0
@@ -1702,7 +1703,7 @@
 ------ Lewis(21135)    1    0    0
 ------ Pendleton(21191)    1    0    0
 ------ Rockcastle(21203)    1    0    0
----- NH    367    3    56
+---- NH    415    4    56
 ------ Rockingham(33015)    137    1    0
 ------ Grafton(33009)    34    0    0
 ------ Hillsborough(33011)    99    2    0
@@ -1898,9 +1899,9 @@
 ------ Tishomingo(28141)    1    0    0
 ------ Jasper(28061)    1    0    0
 ---- AZ    1413    29    3
------- Maricopa(04013)    871    5    0
+------ Maricopa(04013)    871    11    0
 ------ Pinal(04021)    65    0    0
------- Pima(04019)    217    4    0
+------ Pima(04019)    217    10    0
 ------ Graham(04009)    4    0    0
 ------ Navajo(04017)    102    0    0
 ------ Coconino(04005)    85    2    0
@@ -2023,7 +2024,7 @@
 ------ New Castle(10003)    226    6    0
 ------ Sussex(10005)    101    3    0
 ------ Kent(10001)    41    3    0
----- MO    1581    18    28
+---- MO    1614    18    28
 ------ Greene(29077)    51    6    0
 ------ Cass(29037)    17    1    0
 ------ Boone(29019)    66    1    0
@@ -2152,7 +2153,7 @@
 ------ Washakie(56043)    1    0    0
 ------ Converse(56009)    2    0    0
 ------ Sublette(56035)    1    0    0
----- MT    208    5    0
+---- MT    208    6    0
 ------ Missoula(30063)    14    0    0
 ------ Yellowstone(30111)    32    0    0
 ------ Broadwater(30007)    3    0    0
@@ -2169,13 +2170,13 @@
 ------ Glacier(30035)    1    0    0
 ------ Lincoln(30053)    5    1    0
 ------ Meagher(30059)    1    0    0
------- Toole(30101)    7    2    0
+------ Toole(30101)    7    3    0
 ------ Park(30067)    4    0    0
 ------ Lake(30047)    4    0    0
 ------ Deer Lodge(30023)    3    0    0
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
----- ID    526    9    0
+---- ID    567    9    0
 ------ Ada(16001)    195    3    0
 ------ Blaine(16013)    192    2    0
 ------ Madison(16065)    5    0    0
@@ -2778,7 +2779,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    329    5    39
--- Germany    77872    920    18700
+-- Germany    77921    925    18700
 ---- Saxony    2084    13    33
 ---- Mecklenburg-Vorpommern    412    3    42
 ---- Free State of Bavaria    15505    191    900
@@ -2890,7 +2891,7 @@
 ---- Seoul    474    0    117
 ---- Ulsan    39    1    20
 ---- 未确定地区    23    3    0
--- Canada    9560    112    1615
+-- Canada    9677    114    1736
 ---- British Columbia    1013    24    183
 ---- Ontario    2392    37    8
 ---- Alberta    754    9    0
@@ -2907,8 +2908,7 @@
 -- Israel    8385    26    241
 -- Portugal    8251    187    43
 -- Brazil    6836    240    127
--- Sweden    4947    239    103
--- Australia    4864    22    422
+-- Australia    4980    22    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
 ---- Queensland    781    2    8
@@ -2917,7 +2917,8 @@
 ---- Tasmania    69    2    5
 ---- Northern Territory    19    0    0
 ---- Australian Capital Territory    84    1    8
--- Norway    4863    44    13
+-- Sweden    4947    239    103
+-- Norway    4877    44    13
 -- Czechia    3508    39    61
 -- Ireland    3447    85    5
 -- Denmark    3290    104    971
@@ -2927,7 +2928,7 @@
 -- Malaysia    2908    45    645
 -- Russian Federation    2777    24    190
 -- Ecuador    2748    93    58
--- Poland    2554    43    47
+-- Poland    2554    43    56
 -- Romania    2460    92    252
 -- Luxembourg    2319    29    80
 -- Philippines    2311    96    50
@@ -2986,7 +2987,7 @@
 -- South Africa    1380    5    50
 -- Peru    1323    38    394
 -- Dominican Republic    1284    57    9
--- Iceland    1220    5    225
+-- Iceland    1220    5    236
 -- Mexico    1215    29    35
 -- Panama    1181    30    9
 -- Colombia    1065    17    39
@@ -3059,41 +3060,41 @@
 -- Kyrgyzstan    111    0    3
 -- Congo, Democratic Republic of the    109    9    3
 -- Cambodia    109    0    25
--- Mayotte    94    1    10
+-- Mayotte    101    1    10
 -- Trinidad and Tobago    90    5    1
 -- Rwanda    82    0    0
 -- Kenya    81    1    3
 -- Gibraltar    81    0    34
 -- Niger    74    5    0
+-- Liechtenstein    72    0    0
 -- Paraguay    69    3    1
 -- Isle of Man    68    1    0
--- Liechtenstein    68    0    0
 -- Madagascar    57    0    0
 -- Aruba    55    0    1
 -- Monaco    55    1    2
 -- Bangladesh    54    6    25
 -- French Guiana    51    0    15
 -- Uganda    44    0    0
+-- Jamaica    44    3    2
 -- Macao    41    0    10
 -- Guatemala    39    1    12
 -- Puerto Rico    39    2    1
--- Jamaica    38    3    2
 -- French Polynesia    37    0    0
 -- Zambia    36    0    0
 -- Togo    36    2    10
 -- Barbados    34    0    0
 -- Djibouti    33    0    0
 -- Guam    33    1    0
--- El Salvador    32    1    0
+-- El Salvador    32    2    0
 -- Bermuda    32    0    10
 -- Mali    31    3    0
 -- Guinea    30    0    0
 -- Ethiopia    29    0    4
--- Guyana    23    2    0
+-- Guyana    23    3    0
 -- Cayman Islands    22    1    0
+-- Congo    22    2    0
 -- Bahamas    21    1    1
 -- Tanzania, United Republic of    20    1    1
--- Congo    19    0    0
 -- Maldives    19    0    13
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
