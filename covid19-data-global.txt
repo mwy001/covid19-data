@@ -1,16 +1,16 @@
--- United States of America    189785    4087    7136
----- NY    76049    1714    5191
+-- United States of America    189791    4087    7136
+---- NY    76049    1721    5191
 ------ Westchester(36119)    9967    25    0
 ------ Nassau(36059)    8544    63    0
 ------ Suffolk(36103)    6713    53    0
 ------ Albany(36001)    226    1    0
 ------ Rockland(36087)    2863    18    0
------- Dutchess(36027)    484    3    0
------- Orange(36071)    1560    12    0
+------ Dutchess(36027)    484    4    0
+------ Orange(36071)    1560    19    0
 ------ Monroe(36055)    300    9    0
 ------ Erie(36029)    553    10    0
 ------ Saratoga(36091)    108    1    0
------- Ulster(36111)    217    1    0
+------ Ulster(36111)    217    3    0
 ------ Schenectady(36093)    85    1    0
 ------ Tompkins(36109)    76    0    0
 ------ Allegany(36003)    10    1    0
@@ -95,7 +95,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    8553    182    90
+---- CA    8558    183    90
 ------ Santa Clara(06085)    890    30    0
 ------ Los Angeles(06037)    3019    54    0
 ------ San Mateo(06081)    309    10    0
@@ -121,8 +121,8 @@
 ------ Tulare(06107)    45    1    0
 ------ Calaveras(06009)    3    0    0
 ------ Fresno(06019)    68    0    0
------- Imperial(06025)    33    0    0
------- Monterey(06053)    42    1    0
+------ Imperial(06025)    38    0    0
+------ Monterey(06053)    42    2    0
 ------ Santa Barbara(06083)    99    0    0
 ------ Amador(06005)    2    0    0
 ------ Humboldt(06023)    27    0    0
@@ -350,7 +350,7 @@
 ------ Lake(08065)    1    0    0
 ------ Phillips(08095)    1    0    0
 ------ Saguache(08109)    1    0    0
----- IL    5994    99    2
+---- IL    5998    99    2
 ------ Cook(17031)    4496    61    0
 ------ Lake(17097)    389    2    0
 ------ Sangamon(17167)    14    1    0
@@ -361,7 +361,7 @@
 ------ Cumberland(17035)    1    0    0
 ------ Peoria(17143)    15    0    0
 ------ Whiteside(17195)    5    0    0
------- Winnebago(17201)    15    0    0
+------ Winnebago(17201)    19    0    0
 ------ Woodford(17203)    6    0    0
 ------ Madison(17119)    16    1    0
 ------ Kendall(17093)    182    2    0
@@ -1390,7 +1390,7 @@
 ------ Laurens(45059)    3    0    0
 ------ Barnwell(45011)    1    0    0
 ------ Bamberg(45009)    2    0    0
----- AL    999    23    0
+---- AL    999    24    0
 ------ Jefferson(01073)    282    0    0
 ------ Shelby(01117)    88    2    0
 ------ Lee(01081)    75    2    0
@@ -2867,7 +2867,7 @@
 -- Israel    8385    20    224
 -- Portugal    7443    160    43
 -- Brazil    5812    202    127
--- Australia    4828    20    358
+-- Australia    4860    21    358
 ---- New South Wales    2032    8    4
 ---- Victoria    917    4    291
 ---- Queensland    743    2    8
@@ -2936,7 +2936,7 @@
 ---- Yamagata    1    0    0
 -- Luxembourg    2178    23    80
 -- Philippines    2084    88    49
--- Pakistan    2031    26    76
+-- Pakistan    2039    26    82
 -- Thailand    1771    12    342
 -- India    1590    45    148
 -- Saudi Arabia    1563    10    165
@@ -2969,16 +2969,16 @@
 -- Bahrain    567    4    295
 -- Lithuania    537    8    7
 -- Armenia    532    3    30
--- Hungary    492    16    37
+-- Hungary    525    16    40
 -- Lebanon    470    12    37
 -- Bosnia and Herzegovina    420    13    17
--- Bulgaria    399    8    17
+-- Bulgaria    412    8    17
 -- Latvia    398    0    1
 -- Tunisia    394    10    3
 -- Andorra    376    12    10
+-- Kazakhstan    363    3    24
 -- Slovakia    363    1    7
 -- Moldova, Republic of    353    4    18
--- Kazakhstan    348    3    24
 -- Costa Rica    347    2    4
 -- Uruguay    338    1    41
 -- North Macedonia    329    9    12
@@ -2998,7 +2998,7 @@
 -- Cuba    186    6    8
 -- Côte d'Ivoire    179    1    7
 -- Senegal    175    0    40
--- Uzbekistan    172    2    7
+-- Uzbekistan    173    2    8
 -- Honduras    172    10    3
 -- Faroe Islands    169    0    74
 -- Malta    169    0    2
@@ -3006,8 +3006,8 @@
 -- Belarus    152    1    47
 -- Mauritius    143    5    0
 -- Sri Lanka    143    2    17
+-- Nigeria    139    2    9
 -- Venezuela, Bolivarian Republic of    135    3    39
--- Nigeria    135    2    8
 -- Brunei Darussalam    129    1    45
 -- Martinique    128    3    27
 -- Palestine    119    1    18
@@ -3020,7 +3020,7 @@
 -- Kyrgyzstan    107    0    3
 -- Congo, Democratic Republic of the    98    8    2
 -- Mayotte    94    1    10
--- Trinidad and Tobago    87    4    1
+-- Trinidad and Tobago    89    4    1
 -- Rwanda    75    0    0
 -- Gibraltar    69    0    34
 -- Liechtenstein    68    0    0
