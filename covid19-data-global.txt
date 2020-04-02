@@ -1,4 +1,4 @@
--- United States of America    215383    5102    8548
+-- United States of America    215586    5108    8548
 ---- NY    83948    2219    6379
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -61,17 +61,17 @@
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    2    0    0
----- WA    5820    249    563
+---- WA    5888    252    563
 ------ King(53033)    2496    164    0
 ------ Snohomish(53061)    1304    40    0
 ------ Pierce(53053)    423    7    0
------- Island(53029)    109    3    0
+------ Island(53029)    114    3    0
 ------ Skagit(53057)    128    3    0
 ------ Grant(53025)    63    1    0
 ------ Kitsap(53035)    74    1    0
 ------ Whatcom(53073)    139    7    0
 ------ Thurston(53067)    48    0    0
------- Yakima(53077)    161    3    0
+------ Yakima(53077)    224    6    0
 ------ Clark(53011)    130    6    0
 ------ Spokane(53063)    158    5    0
 ------ Jefferson(53031)    17    0    0
@@ -96,11 +96,11 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    9640    207    111
+---- CA    9757    213    111
 ------ Santa Clara(06085)    956    32    0
 ------ Los Angeles(06037)    3518    66    0
 ------ San Mateo(06081)    388    10    0
------- San Diego(06073)    734    9    0
+------ San Diego(06073)    849    15    0
 ------ San Francisco(06075)    434    7    0
 ------ Sacramento(06067)    314    9    0
 ------ Contra Costa(06013)    250    3    0
@@ -126,7 +126,7 @@
 ------ Monterey(06053)    42    2    0
 ------ Santa Barbara(06083)    99    0    0
 ------ Amador(06005)    3    0    0
------- Humboldt(06023)    27    0    0
+------ Humboldt(06023)    28    0    0
 ------ Kern(06029)    110    1    0
 ------ Madera(06039)    23    1    0
 ------ Nevada(06057)    26    0    0
@@ -141,7 +141,7 @@
 ------ Merced(06047)    10    0    0
 ------ Inyo(06027)    9    0    0
 ------ Sutter(06101)    11    1    0
------- Kings(06031)    4    0    0
+------ Kings(06031)    5    0    0
 ------ Colusa(06011)    1    0    0
 ------ Glenn(06021)    2    0    0
 ------ Tuolumne(06109)    2    0    0
@@ -413,13 +413,13 @@
 ------ Vermilion(17183)    1    0    0
 ---- GA    4818    139    0
 ------ Fulton(13121)    624    19    0
------- Cobb(13067)    293    15    0
------- Bartow(13015)    144    4    0
------- Cherokee(13057)    83    4    0
+------ Cobb(13067)    304    15    0
+------ Bartow(13015)    147    4    0
+------ Cherokee(13057)    85    4    0
 ------ Gwinnett(13135)    250    4    0
 ------ Dougherty(13095)    480    27    0
 ------ Floyd(13115)    60    2    0
------- Clayton(13063)    122    3    0
+------ Clayton(13063)    128    3    0
 ------ Fayette(13113)    48    4    0
 ------ Lowndes(13185)    24    1    0
 ------ Clarke(13059)    51    5    0
@@ -445,13 +445,13 @@
 ------ Early(13099)    34    1    0
 ------ Glynn(13127)    18    0    0
 ------ Laurens(13175)    14    0    0
------- Bibb(13021)    22    0    0
+------ Bibb(13021)    23    0    0
 ------ Muscogee(13215)    21    0    0
 ------ Peach(13225)    7    1    0
 ------ Effingham(13103)    5    0    0
 ------ DeKalb(13089)    365    4    0
------- Carroll(13045)    131    1    0
------- Chatham(13051)    36    2    0
+------ Carroll(13045)    133    1    0
+------ Chatham(13051)    39    2    0
 ------ Miller(13201)    6    0    0
 ------ Tift(13277)    24    0    0
 ------ Oconee(13219)    17    0    0
@@ -466,7 +466,7 @@
 ------ Pickens(13227)    7    1    0
 ------ Sumter(13261)    37    2    0
 ------ Lamar(13171)    4    0    0
------- Baldwin(13009)    6    1    0
+------ Baldwin(13009)    7    1    0
 ------ Lincoln(13181)    4    0    0
 ------ Lumpkin(13187)    8    0    0
 ------ Clinch(13065)    1    0    0
@@ -484,10 +484,10 @@
 ------ Colquitt(13071)    20    1    0
 ------ Harris(13145)    4    0    0
 ------ Liberty(13179)    5    0    0
------- Camden(13039)    4    0    0
+------ Camden(13039)    5    0    0
 ------ Baker(13007)    4    2    0
 ------ Ben Hill(13017)    3    0    0
------- Bryan(13029)    8    1    0
+------ Bryan(13029)    9    1    0
 ------ Crisp(13081)    17    0    0
 ------ Mitchell(13205)    38    1    0
 ------ Greene(13133)    8    0    0
@@ -553,7 +553,7 @@
 ------ Wilkinson(13319)    2    0    0
 ------ Emanuel(13107)    1    0    0
 ------ Walker(13295)    2    0    0
----- TX    4496    67    244
+---- TX    4501    67    244
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    680    5    0
@@ -561,7 +561,7 @@
 ------ Fort Bend(48157)    194    2    0
 ------ Collin(48085)    184    1    0
 ------ Tarrant(48439)    288    3    0
------- Smith(48423)    37    1    0
+------ Smith(48423)    42    1    0
 ------ Montgomery(48339)    110    2    0
 ------ Bell(48027)    46    1    0
 ------ El Paso(48141)    53    0    0
@@ -1493,8 +1493,8 @@
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    2    0    0
 ------ Somerset(23025)    1    0    0
----- DC    586    9    121
------- District of Columbia(11001)    586    9    0
+---- DC    586    11    121
+------ District of Columbia(11001)    586    11    0
 ---- IN    2569    65    0
 ------ Marion(18097)    1117    21    0
 ------ Hendricks(18063)    91    2    0
@@ -2184,11 +2184,11 @@
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
 ------ Carbon(30009)    1    0    0
----- ID    659    9    0
+---- ID    660    9    0
 ------ Ada(16001)    226    3    0
 ------ Blaine(16013)    256    2    0
 ------ Madison(16065)    5    0    0
------- Teton(16081)    2    0    0
+------ Teton(16081)    3    0    0
 ------ Twin Falls(16083)    17    0    0
 ------ Kootenai(16055)    31    0    0
 ------ Canyon(16027)    68    1    0
@@ -2917,8 +2917,8 @@
 ---- Nunavut    1    0    0
 -- Israel    8385    26    241
 -- Portugal    8251    187    43
--- Brazil    6880    242    127
--- Australia    5048    23    422
+-- Brazil    6931    244    127
+-- Australia    5105    23    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
 ---- Queensland    781    2    8
@@ -3044,7 +3044,7 @@
 -- Afghanistan    239    4    5
 -- San Marino    236    28    13
 -- Cameroon    233    6    10
--- Viet Nam    218    0    63
+-- Viet Nam    222    0    63
 -- Cuba    212    6    12
 -- Oman    210    1    34
 -- Ghana    195    5    31
@@ -3075,20 +3075,20 @@
 -- Rwanda    82    0    0
 -- Kenya    81    1    3
 -- Gibraltar    81    0    34
+-- Paraguay    77    3    2
 -- Niger    74    5    0
 -- Liechtenstein    72    0    0
--- Paraguay    69    3    1
 -- Isle of Man    68    1    0
 -- Madagascar    57    0    0
 -- Aruba    55    0    1
 -- Monaco    55    1    2
 -- Bangladesh    54    6    25
 -- French Guiana    51    0    15
+-- Guatemala    46    1    12
 -- Barbados    45    0    0
 -- Uganda    44    0    0
 -- Jamaica    44    3    2
 -- Macao    41    0    10
--- Guatemala    39    1    12
 -- Puerto Rico    39    2    1
 -- French Polynesia    37    0    0
 -- Zambia    36    0    0
@@ -3123,12 +3123,12 @@
 -- Libya    10    0    1
 -- Lao People's Democratic Republic    10    0    0
 -- Syrian Arab Republic    10    2    0
+-- Grenada    10    0    0
 -- Mozambique    10    0    0
 -- Greenland    10    0    2
 -- Seychelles    10    0    0
 -- Suriname    10    0    0
 -- Guinea-Bissau    9    0    0
--- Grenada    9    0    0
 -- Eswatini    9    0    0
 -- Saint Kitts and Nevis    8    0    0
 -- Zimbabwe    8    1    0
