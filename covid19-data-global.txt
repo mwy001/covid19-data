@@ -96,7 +96,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    9936    216    111
+---- CA    9937    216    111
 ------ Santa Clara(06085)    956    32    0
 ------ Los Angeles(06037)    3518    66    0
 ------ San Mateo(06081)    388    10    0
@@ -147,6 +147,7 @@
 ------ Tuolumne(06109)    2    0    0
 ------ Alpine(06003)    1    0    0
 ------ Plumas(06063)    1    0    0
+------ Tehama(06103)    1    0    0
 ---- NJ    22255    355    1
 ------ Bergen(34003)    3494    75    0
 ------ Essex(34013)    2262    69    0
@@ -2891,7 +2892,7 @@
 -- Netherlands    13696    1175    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10809    146    1436
+-- Austria    10842    146    1436
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2925,7 +2926,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Israel    8385    30    289
+-- Israel    8385    31    289
 -- Portugal    8251    187    43
 -- Brazil    6931    244    127
 -- Australia    5137    25    520
@@ -2942,7 +2943,7 @@
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
 -- Ireland    3447    85    5
--- Denmark    3290    104    971
+-- Denmark    3355    104    971
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3031    16    234
@@ -2962,7 +2963,7 @@
 ---- Saitama    104    4    0
 ---- Ishikawa    15    0    0
 ---- Fukuoka    78    0    0
----- Tokyo    587    15    0
+---- Tokyo    682    15    0
 ---- Wakayama    21    1    2
 ---- Kyoto    76    0    16
 ---- Osaka    278    2    1
@@ -3016,13 +3017,13 @@
 -- Singapore    1000    4    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
+-- Estonia    858    11    45
 -- Algeria    847    58    65
 -- Slovenia    841    15    10
 -- Qatar    835    2    71
 -- United Arab Emirates    814    8    61
 -- Ukraine    804    20    13
 -- New Zealand    797    1    92
--- Estonia    779    5    33
 -- Egypt    779    52    179
 -- Hong Kong    766    4    147
 -- Iraq    728    52    182
@@ -3033,8 +3034,8 @@
 -- Bahrain    569    4    337
 -- Bosnia and Herzegovina    490    13    19
 -- Lebanon    479    14    43
+-- Latvia    458    0    1
 -- Bulgaria    449    10    25
--- Latvia    446    0    1
 -- Moldova, Republic of    423    5    23
 -- Tunisia    423    12    5
 -- Kazakhstan    402    3    27
@@ -3046,7 +3047,7 @@
 -- Uruguay    350    2    62
 -- Taiwan    339    5    50
 -- Cyprus    320    9    28
--- Kuwait    317    0    80
+-- Kuwait    317    0    81
 -- Burkina Faso    282    16    46
 -- Réunion    281    0    40
 -- Jordan    278    5    36
