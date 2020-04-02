@@ -1,4 +1,4 @@
--- United States of America    213846    4776    8536
+-- United States of America    214843    4809    8538
 ---- NY    83948    1941    6379
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -61,8 +61,8 @@
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    2    0    0
----- WA    5654    235    563
------- King(53033)    2330    150    0
+---- WA    5820    249    563
+------ King(53033)    2496    164    0
 ------ Snohomish(53061)    1304    40    0
 ------ Pierce(53053)    423    7    0
 ------ Island(53029)    109    3    0
@@ -96,7 +96,7 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    9640    207    100
+---- CA    9640    207    102
 ------ Santa Clara(06085)    956    32    0
 ------ Los Angeles(06037)    3518    66    0
 ------ San Mateo(06081)    388    10    0
@@ -301,7 +301,7 @@
 ------ Sabine(22085)    3    0    0
 ------ Concordia(22029)    5    0    0
 ------ St Helena(22091)    1    0    0
----- CO    2982    69    0
+---- CO    3442    80    0
 ------ Denver(08031)    539    7    0
 ------ Eagle(08037)    227    4    0
 ------ Arapahoe(08005)    333    6    0
@@ -1351,7 +1351,7 @@
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    5    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1012    5    0
+---- UT    1012    7    0
 ------ Salt Lake(49035)    449    2    0
 ------ Summit(49043)    204    0    0
 ------ Davis(49011)    93    1    0
@@ -1413,8 +1413,8 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1105    27    0
------- Jefferson(01073)    302    1    0
+---- AL    1108    27    0
+------ Jefferson(01073)    305    1    0
 ------ Shelby(01117)    89    2    0
 ------ Lee(01081)    83    2    0
 ------ Tuscaloosa(01125)    30    0    0
@@ -1453,7 +1453,7 @@
 ------ Colbert(01033)    4    0    0
 ------ Lawrence(01079)    3    0    0
 ------ Marshall(01095)    7    0    0
------- Russell(01113)    1    0    0
+------ Russell(01113)    2    0    0
 ------ Wilcox(01131)    3    0    0
 ------ Coffee(01031)    1    0    0
 ------ Lowndes(01085)    1    0    0
@@ -1637,8 +1637,8 @@
 ------ Clay(19041)    1    0    0
 ------ Mitchell(19131)    2    0    0
 ------ Madison(19121)    1    0    0
----- KY    680    18    64
------- Jefferson(21111)    206    7    0
+---- KY    702    20    64
+------ Jefferson(21111)    228    7    0
 ------ Fayette(21067)    110    3    0
 ------ Harrison(21097)    11    0    0
 ------ Montgomery(21173)    2    0    0
@@ -1649,7 +1649,7 @@
 ------ Kenton(21117)    20    1    0
 ------ Franklin(21073)    6    0    0
 ------ Warren(21227)    13    0    0
------- Daviess(21059)    34    0    0
+------ Daviess(21059)    34    1    0
 ------ Henderson(21101)    5    0    0
 ------ Christian(21047)    36    0    0
 ------ Pulaski(21199)    8    0    0
@@ -1674,7 +1674,7 @@
 ------ Webster(21233)    2    0    0
 ------ McCracken(21145)    8    0    0
 ------ Allen(21003)    2    0    0
------- Hopkins(21107)    17    1    0
+------ Hopkins(21107)    17    2    0
 ------ Hancock(21091)    1    0    0
 ------ Bullitt(21029)    6    1    0
 ------ Larue(21123)    1    0    0
@@ -1742,26 +1742,27 @@
 ------ Antelope(31003)    1    0    0
 ------ Kimball(31105)    1    0    0
 ------ Cuming(31039)    1    0    0
----- NM    340    5    26
------- Bernalillo(35001)    129    4    0
+---- NM    352    5    26
+------ Bernalillo(35001)    148    4    0
 ------ Santa Fe(35049)    42    0    0
 ------ Sandoval(35043)    29    0    0
 ------ Socorro(35053)    3    0    0
 ------ Taos(35055)    11    0    0
 ------ San Miguel(35047)    1    0    0
------- McKinley(35031)    16    0    0
------- Dona Ana(35013)    18    0    0
+------ McKinley(35031)    20    0    0
+------ Dona Ana(35013)    21    0    0
 ------ Lea(35025)    2    0    0
------- San Juan(35045)    32    0    0
+------ San Juan(35045)    37    0    0
 ------ Chaves(35005)    10    0    0
------- Cibola(35006)    2    0    0
------- Curry(35009)    3    0    0
+------ Cibola(35006)    4    0    0
+------ Curry(35009)    5    0    0
 ------ Eddy(35015)    4    1    0
 ------ Rio Arriba(35039)    4    0    0
 ------ Roosevelt(35041)    1    0    0
 ------ Valencia(35061)    5    0    0
 ------ Torrance(35057)    3    0    0
 ------ Otero(35035)    1    1    0
+------ Grant(35017)    1    0    0
 ---- RI    566    10    0
 ------ Providence(44007)    301    0    0
 ------ Washington(44009)    28    0    0
@@ -2242,7 +2243,7 @@
 ------ Juneau(02110)    5    0    0
 ------ Kenai Peninsula(02122)    7    0    0
 ------ Matanuska-Susitna(02170)    2    0    0
----- WV    191    1    0
+---- WV    191    2    0
 ------ Jefferson(54037)    9    0    0
 ------ Mercer(54055)    2    0    0
 ------ Tucker(54093)    2    0    0
@@ -2859,7 +2860,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    29857    2357    179
+-- United Kingdom of Great Britain and Northern Ireland    29865    2357    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2895,24 +2896,24 @@
 ---- Seoul    474    0    117
 ---- Ulsan    39    1    20
 ---- 未确定地区    23    3    0
--- Canada    9677    114    1736
+-- Canada    9731    114    1736
 ---- British Columbia    1013    24    183
 ---- Ontario    2392    37    8
 ---- Alberta    754    9    0
 ---- Quebec    4611    33    0
----- New Brunswick    70    0    0
+---- New Brunswick    81    0    0
 ---- Manitoba    127    1    0
 ---- Saskatchewan    193    3    0
 ---- Prince Edward Island    21    0    0
 ---- Newfoundland and Labrador    175    1    0
 ---- Nova Scotia    173    0    0
----- Northwest Territories    1    0    0
+---- Northwest Territories    2    0    0
 ---- Yukon    5    0    0
 ---- Nunavut    1    0    0
 -- Israel    8385    26    241
 -- Portugal    8251    187    43
--- Brazil    6836    240    127
--- Australia    4980    22    422
+-- Brazil    6880    242    127
+-- Australia    5048    23    422
 ---- New South Wales    2182    9    4
 ---- Victoria    968    4    343
 ---- Queensland    781    2    8
@@ -2987,16 +2988,16 @@
 -- Saudi Arabia    1720    16    264
 -- Indonesia    1677    157    103
 -- Finland    1446    17    10
--- Greece    1415    50    52
+-- Greece    1415    51    52
 -- South Africa    1380    5    50
 -- Peru    1323    38    394
+-- Panama    1317    32    9
 -- Dominican Republic    1284    57    9
 -- Iceland    1220    5    236
 -- Mexico    1215    29    35
--- Panama    1181    30    9
+-- Argentina    1133    32    248
 -- Colombia    1065    17    39
 -- Serbia    1060    28    42
--- Argentina    1054    31    248
 -- Singapore    1000    3    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
@@ -3027,7 +3028,7 @@
 -- Costa Rica    375    2    4
 -- Azerbaijan    359    5    26
 -- North Macedonia    354    11    17
--- Uruguay    338    2    41
+-- Uruguay    350    2    62
 -- Taiwan    329    5    45
 -- Cyprus    320    9    28
 -- Kuwait    317    0    80
@@ -3042,17 +3043,17 @@
 -- Cuba    212    6    12
 -- Oman    210    1    34
 -- Ghana    195    5    31
+-- Côte d'Ivoire    190    1    9
 -- Senegal    190    1    45
 -- Malta    188    0    2
 -- Uzbekistan    181    2    12
--- Côte d'Ivoire    179    1    7
 -- Nigeria    174    2    9
 -- Faroe Islands    173    0    75
 -- Honduras    172    10    3
 -- Belarus    163    2    53
 -- Mauritius    161    6    0
 -- Sri Lanka    146    3    21
--- Venezuela, Bolivarian Republic of    143    3    41
+-- Venezuela, Bolivarian Republic of    144    3    43
 -- Martinique    135    3    27
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
@@ -3078,6 +3079,7 @@
 -- Monaco    55    1    2
 -- Bangladesh    54    6    25
 -- French Guiana    51    0    15
+-- Barbados    45    0    0
 -- Uganda    44    0    0
 -- Jamaica    44    3    2
 -- Macao    41    0    10
@@ -3086,10 +3088,9 @@
 -- French Polynesia    37    0    0
 -- Zambia    36    0    0
 -- Togo    36    2    10
--- Barbados    34    0    0
+-- El Salvador    33    2    0
 -- Djibouti    33    0    0
 -- Guam    33    1    0
--- El Salvador    32    2    0
 -- Bermuda    32    0    10
 -- Mali    31    3    0
 -- Guinea    30    0    0
@@ -3104,7 +3105,7 @@
 -- Virgin Islands, U.S.    17    0    0
 -- Myanmar    16    1    0
 -- Haiti    16    0    1
--- New Caledonia    16    0    0
+-- New Caledonia    16    0    1
 -- Saint Martin (French part)    16    1    2
 -- Eritrea    15    0    0
 -- Equatorial Guinea    15    0    1
