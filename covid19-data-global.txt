@@ -2800,7 +2800,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    339    5    39
--- Germany    78115    944    20928
+-- Germany    78983    948    20928
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2886,7 +2886,7 @@
 ---- Scotland    2310    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    18117    505    4013
+-- Switzerland    18267    505    4013
 -- Turkey    15679    277    333
 -- Belgium    15348    1011    2495
 -- Netherlands    13696    1175    260
@@ -2926,9 +2926,9 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Israel    8385    31    289
+-- Israel    8385    33    289
 -- Portugal    8251    187    43
--- Brazil    6931    244    127
+-- Brazil    6931    245    127
 -- Australia    5137    25    520
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
@@ -2938,8 +2938,8 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
+-- Norway    5071    46    13
 -- Sweden    4947    239    103
--- Norway    4898    45    13
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
 -- Denmark    3542    123    1089
@@ -3017,7 +3017,7 @@
 -- Singapore    1000    4    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
--- Slovenia    897    16    10
+-- Slovenia    897    17    70
 -- Estonia    858    11    45
 -- Algeria    847    58    65
 -- Qatar    835    2    71
@@ -3069,7 +3069,7 @@
 -- Belarus    163    2    53
 -- Mauritius    161    7    0
 -- Palestine    155    1    18
--- Sri Lanka    148    3    21
+-- Sri Lanka    150    3    21
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Montenegro    140    2    0
 -- Martinique    135    3    27
