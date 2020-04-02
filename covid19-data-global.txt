@@ -1,4 +1,4 @@
--- United States of America    236618    5640    8861
+-- United States of America    238106    5722    8861
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -1199,7 +1199,7 @@
 ------ Stokes(37169)    3    0    0
 ------ Macon(37113)    1    0    0
 ------ Gates(37073)    1    0    0
----- MI    9334    337    15
+---- MI    10791    417    15
 ------ Oakland(26125)    1910    99    0
 ------ Wayne(26163)    4470    146    0
 ------ Macomb(26099)    1088    51    0
@@ -1429,25 +1429,25 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1189    28    0
------- Jefferson(01073)    311    4    0
------- Shelby(01117)    95    3    0
------- Lee(01081)    88    2    0
+---- AL    1202    32    0
+------ Jefferson(01073)    313    4    0
+------ Shelby(01117)    97    3    0
+------ Lee(01081)    89    2    0
 ------ Tuscaloosa(01125)    32    0    0
 ------ Elmore(01051)    17    0    0
------- Montgomery(01101)    40    1    0
+------ Montgomery(01101)    42    1    0
 ------ Baldwin(01003)    24    1    0
 ------ Limestone(01083)    26    0    0
 ------ Madison(01089)    111    1    0
 ------ Calhoun(01015)    12    0    0
 ------ St Clair(01115)    19    0    0
------- Chambers(01017)    64    4    0
+------ Chambers(01017)    65    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    33    0    0
------- Mobile(01097)    61    3    0
+------ Mobile(01097)    65    3    0
 ------ Jackson(01071)    9    1    0
 ------ Lamar(01075)    1    0    0
------- Lauderdale(01077)    13    1    0
+------ Lauderdale(01077)    14    1    0
 ------ Washington(01129)    4    1    0
 ------ Cullman(01043)    9    1    0
 ------ Marion(01093)    11    2    0
@@ -1458,7 +1458,7 @@
 ------ Autauga(01001)    10    0    0
 ------ Pickens(01107)    7    0    0
 ------ Pike(01109)    7    0    0
------- Etowah(01055)    11    1    0
+------ Etowah(01055)    12    1    0
 ------ Dallas(01047)    4    0    0
 ------ Blount(01009)    6    0    0
 ------ Butler(01013)    1    0    0
@@ -1791,18 +1791,18 @@
 ------ Newport(44005)    31    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    55    0    0
----- AR    625    10    42
+---- AR    643    12    42
 ------ Jefferson(05069)    49    0    0
------- Pulaski(05119)    113    4    0
+------ Pulaski(05119)    115    5    0
 ------ Cleburne(05023)    63    3    0
 ------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    2    0    0
------- Garland(05051)    33    0    0
+------ Garland(05051)    37    0    0
 ------ Lincoln(05079)    6    0    0
------- Saline(05125)    14    0    0
------- Washington(05143)    22    0    0
+------ Saline(05125)    16    0    0
+------ Washington(05143)    23    0    0
 ------ Bradley(05011)    4    0    0
------- Faulkner(05045)    36    1    0
+------ Faulkner(05045)    37    1    0
 ------ Grant(05053)    3    0    0
 ------ Pope(05115)    6    0    0
 ------ Van Buren(05141)    20    1    0
@@ -1820,9 +1820,9 @@
 ------ Columbia(05027)    2    0    0
 ------ Conway(05029)    3    1    0
 ------ Sebastian(05131)    8    0    0
------- Union(05139)    9    0    0
+------ Union(05139)    10    0    0
 ------ Woodruff(05147)    1    0    0
------- Lawrence(05075)    2    0    0
+------ Lawrence(05075)    3    0    0
 ------ Crawford(05033)    3    0    0
 ------ Stone(05137)    5    0    0
 ------ White(05145)    15    0    0
@@ -1830,14 +1830,14 @@
 ------ Howard(05061)    4    0    0
 ------ Hempstead(05057)    1    0    0
 ------ Pike(05109)    2    0    0
------- Hot Spring(05059)    4    0    0
+------ Hot Spring(05059)    5    0    0
 ------ Drew(05043)    3    0    0
------- Lonoke(05085)    6    0    0
+------ Lonoke(05085)    7    0    0
 ------ Randolph(05121)    3    0    0
 ------ Chicot(05017)    2    0    0
 ------ Baxter(05005)    3    0    0
 ------ Johnson(05071)    6    0    0
------- Ashley(05003)    2    0    0
+------ Ashley(05003)    3    0    0
 ------ Nevada(05099)    1    0    0
 ------ Perry(05105)    2    0    0
 ------ Arkansas(05001)    1    0    0
@@ -1848,6 +1848,8 @@
 ------ Lee(05077)    1    0    0
 ------ Carroll(05015)    1    0    0
 ------ Sharp(05135)    1    0    0
+------ Mississippi(05093)    1    0    0
+------ Ouachita(05103)    1    0    0
 ---- MS    1177    26    0
 ------ Hinds(28049)    118    0    0
 ------ Leflore(28083)    20    1    0
@@ -2353,7 +2355,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- Germany    84600    1097    21400
+-- Germany    84636    1099    21400
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2454,9 +2456,9 @@
 ------ 延庆区    1    0    0
 ------ 顺义区    10    0    10
 ------ 境外输入    150    0    12
----- 海南    168    6    168
------- 三亚    54    1    53
------- 海口    39    0    39
+---- 海南    168    6    162
+------ 三亚    54    1    54
+------ 海口    39    0    38
 ------ 儋州    15    1    14
 ------ 万宁    13    0    13
 ------ 澄迈    9    1    8
@@ -2833,7 +2835,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    339    5    45
--- France    59105    4503    12428
+-- France    59926    4514    12548
 ---- France    7652    148    12
 ---- St Martin    22    1    2
 ---- Saint Barthelemy    6    0    1
@@ -2853,7 +2855,7 @@
 ---- Martinique    135    3    27
 ---- French Guiana    51    0    15
 ---- Réunion    135    0    0
----- Guadeloupe    125    6    24
+---- Guadeloupe    128    6    24
 ---- French Polynesia    37    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    116    1    10
@@ -2910,7 +2912,7 @@
 ---- Curacao    3    0    0
 -- Canada    11118    134    1906
 ---- British Columbia    1066    25    183
----- Ontario    2392    37    8
+---- Ontario    2793    53    8
 ---- Alberta    871    11    0
 ---- Quebec    4611    33    0
 ---- New Brunswick    81    0    0
@@ -2943,9 +2945,10 @@
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
 -- Portugal    9034    209    68
--- Israel    8385    34    338
+-- Israel    8385    36    338
 -- Brazil    7910    299    127
 -- Sweden    5568    308    103
+-- Norway    5140    50    32
 -- Australia    5139    27    520
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
@@ -2955,16 +2958,16 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5136    50    32
 -- Ireland    3849    98    5
 -- Czechia    3805    44    67
--- Russian Federation    3548    30    235
--- Denmark    3542    123    1172
+-- Denmark    3573    123    1172
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Russian Federation    3548    30    235
 -- Chile    3404    18    335
 -- Ecuador    3163    120    58
 -- Malaysia    3116    50    767
+-- Poland    2946    57    56
 -- Japan    2769    71    505
 ---- Hokkaido    183    8    100
 ---- kochi    21    0    0
@@ -3010,19 +3013,18 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
--- Romania    2738    114    267
--- Poland    2692    51    56
+-- Romania    2738    115    267
 -- Philippines    2633    107    51
 -- India    2536    72    189
 -- Luxembourg    2487    30    80
--- Pakistan    2386    33    107
+-- Pakistan    2386    34    107
 -- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
 -- Greece    1544    53    61
 -- Finland    1518    19    300
 -- South Africa    1462    5    50
--- Peru    1414    47    537
+-- Peru    1414    55    537
 -- Dominican Republic    1380    60    16
 -- Mexico    1378    37    35
 -- Iceland    1319    5    284
@@ -3156,10 +3158,10 @@
 -- Seychelles    10    0    0
 -- Suriname    10    0    0
 -- Guinea-Bissau    9    0    0
+-- Zimbabwe    9    1    0
 -- Eswatini    9    0    0
 -- Antigua and Barbuda    9    0    0
 -- Saint Kitts and Nevis    8    0    0
--- Zimbabwe    8    1    0
 -- Angola    8    2    1
 -- Sudan    8    2    2
 -- Chad    7    0    0
