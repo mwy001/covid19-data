@@ -1,4 +1,4 @@
--- United States of America    227996    5336    8816
+-- United States of America    229001    5374    8829
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -61,7 +61,7 @@
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    2    0    0
----- WA    5984    254    564
+---- WA    5989    254    567
 ------ King(53033)    2496    164    0
 ------ Snohomish(53061)    1304    40    562
 ------ Pierce(53053)    423    7    0
@@ -84,7 +84,7 @@
 ------ Lewis(53041)    10    0    0
 ------ Lincoln(53043)    1    0    1
 ------ Franklin(53021)    37    0    0
------- Mason(53045)    6    0    0
+------ Mason(53045)    11    0    0
 ------ Benton(53005)    108    7    0
 ------ Clallam(53009)    8    0    0
 ------ San Juan(53055)    4    0    0
@@ -96,12 +96,12 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    9937    216    111
+---- CA    10018    216    111
 ------ Santa Clara(06085)    956    32    0
 ------ Los Angeles(06037)    3528    66    0
------- San Mateo(06081)    388    10    0
+------ San Mateo(06081)    453    10    0
 ------ San Diego(06073)    849    15    0
------- San Francisco(06075)    434    7    0
+------ San Francisco(06075)    450    7    0
 ------ Sacramento(06067)    314    9    0
 ------ Contra Costa(06013)    250    3    0
 ------ Orange(06059)    606    10    0
@@ -183,55 +183,55 @@
 ------ Hampden(25013)    475    17    0
 ------ Franklin(25011)    72    7    0
 ------ Hampshire(25015)    81    1    0
----- FL    7773    101    0
------- Broward(12011)    1348    13    0
------- Palm Beach(12099)    616    22    0
------- Duval(12031)    239    4    0
------- Volusia(12127)    93    1    0
------- Hillsborough(12057)    362    4    0
------- Manatee(12081)    70    3    0
------- Collier(12021)    158    1    0
------- Orange(12095)    458    4    0
------- Osceola(12097)    140    1    0
------- Lee(12071)    235    10    0
------- Alachua(12001)    92    0    0
------- Clay(12019)    53    5    0
------- Pinellas(12103)    233    5    0
------- Seminole(12117)    128    0    0
------- Sarasota(12115)    99    3    0
+---- FL    8010    128    0
+------ Broward(12011)    1348    17    0
+------ Palm Beach(12099)    630    22    0
+------ Duval(12031)    271    7    0
+------ Volusia(12127)    100    1    0
+------ Hillsborough(12057)    372    5    0
+------ Manatee(12081)    73    3    0
+------ Collier(12021)    161    1    0
+------ Orange(12095)    502    5    0
+------ Osceola(12097)    153    1    0
+------ Lee(12071)    245    10    0
+------ Alachua(12001)    93    0    0
+------ Clay(12019)    56    6    0
+------ Pinellas(12103)    239    5    0
+------ Seminole(12117)    136    0    0
+------ Sarasota(12115)    100    3    0
 ------ Citrus(12017)    23    2    0
------- Okaloosa(12091)    44    1    0
------- Pasco(12101)    51    2    0
------- Brevard(12009)    47    1    0
------- Charlotte(12015)    26    0    0
------- Escambia(12033)    96    0    0
------- Lake(12069)    71    1    0
------- Nassau(12089)    11    3    0
------- Polk(12105)    91    1    0
+------ Okaloosa(12091)    46    2    0
+------ Pasco(12101)    57    2    0
+------ Brevard(12009)    48    1    0
+------ Charlotte(12015)    28    0    0
+------ Escambia(12033)    97    0    0
+------ Lake(12069)    76    2    0
+------ Nassau(12089)    14    3    0
+------ Polk(12105)    92    1    0
 ------ Santa Rosa(12113)    46    2    0
 ------ Gadsden(12039)    1    0    0
------- Leon(12073)    32    1    0
------- Sumter(12119)    57    3    0
+------ Leon(12073)    35    1    0
+------ Sumter(12119)    63    3    0
 ------ Walton(12131)    18    0    0
------- St Johns(12109)    90    2    0
------- Hernando(12053)    28    0    0
------- Indian River(12061)    35    1    0
+------ St Johns(12109)    94    2    0
+------ Hernando(12053)    30    0    0
+------ Indian River(12061)    38    1    0
 ------ Jackson(12063)    4    0    0
 ------ Martin(12085)    33    0    0
------- Marion(12083)    30    0    0
------- Baker(12003)    9    0    0
------- Bay(12005)    13    3    0
+------ Marion(12083)    33    0    0
+------ Baker(12003)    11    0    0
+------ Bay(12005)    14    3    0
 ------ Highlands(12055)    21    1    0
------- Putnam(12107)    13    0    0
+------ Putnam(12107)    14    0    0
 ------ St Lucie(12111)    47    2    0
------- Miami-Dade(12086)    2202    7    0
+------ Miami-Dade(12086)    2448    19    0
 ------ Columbia(12023)    3    0    0
 ------ Bradford(12007)    3    0    0
------- Flagler(12035)    24    0    0
+------ Flagler(12035)    24    1    0
 ------ DeSoto(12027)    7    1    0
------- Mainland Monroe(12087)    30    1    0
+------ Mainland Monroe(12087)    33    1    0
 ------ Washington(12133)    1    1    0
------- Suwannee(12121)    6    0    0
+------ Suwannee(12121)    7    0    0
 ------ Levy(12075)    2    0    0
 ------ Hendry(12051)    4    0    0
 ------ Glades(12043)    3    1    0
@@ -414,7 +414,7 @@
 ------ Ogle(17141)    1    0    0
 ------ Vermilion(17183)    1    0    0
 ------ Massac(17127)    1    0    0
----- GA    4818    154    0
+---- GA    5347    156    0
 ------ Fulton(13121)    638    20    0
 ------ Cobb(13067)    304    15    0
 ------ Bartow(13015)    147    4    0
@@ -558,14 +558,14 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4612    68    268
+---- TX    4616    71    278
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    680    5    0
 ------ Bexar(48029)    229    9    44
 ------ Fort Bend(48157)    194    2    9
 ------ Collin(48085)    184    1    53
------- Tarrant(48439)    288    3    8
+------ Tarrant(48439)    291    6    18
 ------ Smith(48423)    42    1    0
 ------ Montgomery(48339)    110    2    1
 ------ Bell(48027)    46    1    2
@@ -672,7 +672,7 @@
 ------ Willacy(48489)    2    0    0
 ------ Yoakum(48501)    1    0    0
 ------ Lamb(48279)    1    0    0
------- Ector(48135)    11    0    0
+------ Ector(48135)    12    0    0
 ------ Lynn(48305)    2    0    0
 ------ Kleberg(48273)    1    0    0
 ------ Andrews(48003)    1    0    0
@@ -1010,7 +1010,7 @@
 ------ Morrow(41049)    1    0    0
 ------ Malheur(41045)    1    0    0
 ------ Wallowa(41063)    1    0    0
----- VA    1672    35    2
+---- VA    1706    41    2
 ------ Arlington(51013)    119    2    0
 ------ Fairfax(51059)    288    2    0
 ------ Loudoun(51107)    105    1    0
@@ -1106,7 +1106,7 @@
 ------ Augusta(51015)    2    0    0
 ------ Sussex(51183)    1    0    0
 ------ City of Covington(51580)    1    0    0
----- NC    1857    17    5
+---- NC    1894    18    5
 ------ Wake(37183)    234    0    0
 ------ Durham(37063)    147    0    0
 ------ Mecklenburg(37119)    495    2    0
@@ -1427,19 +1427,19 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1116    28    0
+---- AL    1161    28    0
 ------ Jefferson(01073)    305    4    0
------- Shelby(01117)    89    3    0
------- Lee(01081)    85    2    0
+------ Shelby(01117)    94    3    0
+------ Lee(01081)    86    2    0
 ------ Tuscaloosa(01125)    30    0    0
------- Elmore(01051)    15    0    0
------- Montgomery(01101)    35    1    0
------- Baldwin(01003)    23    1    0
------- Limestone(01083)    23    0    0
------- Madison(01089)    107    1    0
+------ Elmore(01051)    17    0    0
+------ Montgomery(01101)    39    1    0
+------ Baldwin(01003)    24    1    0
+------ Limestone(01083)    25    0    0
+------ Madison(01089)    110    1    0
 ------ Calhoun(01015)    11    0    0
 ------ St Clair(01115)    19    0    0
------- Chambers(01017)    48    4    0
+------ Chambers(01017)    59    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    32    0    0
 ------ Mobile(01097)    61    3    0
@@ -1454,15 +1454,15 @@
 ------ Tallapoosa(01123)    14    1    0
 ------ Morgan(01103)    20    1    0
 ------ Autauga(01001)    10    0    0
------- Pickens(01107)    4    0    0
+------ Pickens(01107)    7    0    0
 ------ Pike(01109)    7    0    0
------- Etowah(01055)    10    1    0
------- Dallas(01047)    3    0    0
------- Blount(01009)    5    0    0
+------ Etowah(01055)    11    1    0
+------ Dallas(01047)    4    0    0
+------ Blount(01009)    6    0    0
 ------ Butler(01013)    1    0    0
------- Cherokee(01019)    2    0    0
+------ Cherokee(01019)    3    0    0
 ------ Chilton(01021)    13    0    0
------- Clay(01027)    3    0    0
+------ Clay(01027)    4    0    0
 ------ Cleburne(01029)    6    0    0
 ------ Colbert(01033)    4    0    0
 ------ Lawrence(01079)    3    0    0
@@ -1472,22 +1472,22 @@
 ------ Coffee(01031)    1    0    0
 ------ Lowndes(01085)    1    0    0
 ------ Marengo(01091)    5    0    0
------- DeKalb(01049)    6    0    0
------- Coosa(01037)    4    0    0
+------ DeKalb(01049)    7    0    0
+------ Coosa(01037)    5    0    0
 ------ Bullock(01011)    3    0    0
 ------ Choctaw(01023)    4    0    0
 ------ Crenshaw(01041)    1    0    0
 ------ Winston(01133)    2    0    0
 ------ Greene(01063)    4    0    0
 ------ Covington(01039)    3    0    0
------- Randolph(01111)    5    0    0
------- Escambia(01053)    1    0    0
+------ Randolph(01111)    6    0    0
+------ Escambia(01053)    2    0    0
 ------ Monroe(01099)    3    0    0
 ------ Macon(01087)    2    0    0
------- Bibb(01007)    3    0    0
+------ Bibb(01007)    4    0    0
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
------- Sumter(01119)    3    0    0
+------ Sumter(01119)    4    0    0
 ------ Clarke(01025)    2    0    0
 ------ Conecuh(01035)    1    0    0
 ------ Dale(01045)    1    0    0
@@ -1507,7 +1507,7 @@
 ------ Somerset(23025)    2    0    0
 ---- DC    653    12    173
 ------ District of Columbia(11001)    586    11    121
----- IN    3039    78    0
+---- IN    3040    78    0
 ------ Marion(18097)    1304    24    0
 ------ Hendricks(18063)    116    2    0
 ------ Johnson(18081)    126    3    0
@@ -1987,7 +1987,7 @@
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
 ------ Greer(40055)    2    1    0
----- KS    505    12    0
+---- KS    507    12    0
 ------ Johnson(20091)    143    3    0
 ------ Wyandotte(20209)    93    4    0
 ------ Butler(20015)    5    0    0
@@ -2344,7 +2344,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- China    82771    3327    76610
+-- China    82772    3327    76610
 ---- 天津    176    3    135
 ------ 境外输入    15    0    0
 ------ 宝坻区    60    2    58
@@ -2671,15 +2671,15 @@
 ------ 三门峡    7    1    6
 ------ 济源    5    0    5
 ------ 境外输入    3    0    0
----- 辽宁    140    2    124
+---- 辽宁    141    2    124
 ------ 沈阳    32    0    29
------- 大连    24    0    19
+------ 大连    27    0    19
 ------ 锦州    12    0    12
 ------ 葫芦岛    12    1    11
 ------ 丹东    11    0    11
 ------ 盘锦    11    0    11
 ------ 阜新    8    0    8
------- 铁岭    8    0    7
+------ 铁岭    9    0    7
 ------ 朝阳    6    1    5
 ------ 鞍山    5    0    4
 ------ 本溪    3    0    3
@@ -2824,7 +2824,7 @@
 ---- Baden-Württemberg    14662    241    2363
 ---- Saxony-Anhalt    806    8    123
 ---- Saarland    1073    15    68
--- France    57780    4043    11055
+-- France    57807    4043    11055
 ---- France    7652    148    12
 ---- St Martin    22    1    2
 ---- Saint Barthelemy    6    0    1
@@ -2848,7 +2848,7 @@
 ---- French Polynesia    37    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    116    1    10
----- Reunion    281    0    40
+---- Reunion    308    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    16    0    0
 -- Iran, Islamic Republic of    50468    3160    16711
@@ -2883,7 +2883,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    34116    2926    179
+-- United Kingdom of Great Britain and Northern Ireland    34123    2926    191
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2894,7 +2894,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    18475    522    4013
--- Turkey    15679    277    333
+-- Turkey    18135    356    415
 -- Belgium    15348    1011    2495
 -- Netherlands    14779    1341    260
 ---- Netherlands    1705    43    2
@@ -2942,7 +2942,7 @@
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
 ---- South Australia    367    0    6
----- Western Australia    392    2    64
+---- Western Australia    400    2    64
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
@@ -3001,7 +3001,7 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
--- Romania    2738    94    267
+-- Romania    2738    107    267
 -- Poland    2692    51    56
 -- Philippines    2633    107    51
 -- Luxembourg    2487    30    80
@@ -3010,8 +3010,8 @@
 -- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
+-- Greece    1544    53    61
 -- Finland    1518    19    300
--- Greece    1514    53    61
 -- South Africa    1380    5    50
 -- Dominican Republic    1380    60    16
 -- Mexico    1378    37    35
@@ -3041,7 +3041,7 @@
 -- Hungary    585    21    42
 -- Bosnia and Herzegovina    532    16    20
 -- Moldova, Republic of    505    6    23
--- Lebanon    494    16    43
+-- Lebanon    494    16    46
 -- Latvia    458    0    1
 -- Bulgaria    457    10    25
 -- Tunisia    455    14    5
@@ -3076,7 +3076,7 @@
 -- Nigeria    174    2    9
 -- Mauritius    169    7    0
 -- Palestine    160    1    18
--- Sri Lanka    151    3    21
+-- Sri Lanka    151    4    21
 -- Montenegro    144    2    0
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Martinique    135    3    27
@@ -3098,12 +3098,12 @@
 -- Liechtenstein    75    0    0
 -- Niger    74    5    0
 -- Aruba    60    0    1
+-- Monaco    60    1    2
 -- Madagascar    59    0    0
 -- Bangladesh    56    6    25
--- Monaco    55    1    2
 -- Guinea    52    0    0
 -- French Guiana    51    0    15
--- Guatemala    46    1    12
+-- Guatemala    47    1    12
 -- Barbados    45    0    0
 -- Uganda    44    0    0
 -- Jamaica    44    3    2
@@ -3113,10 +3113,10 @@
 -- Zambia    39    1    0
 -- Puerto Rico    39    2    1
 -- French Polynesia    37    0    0
+-- Mali    36    3    0
 -- Togo    36    2    10
 -- Guam    33    1    0
 -- Bermuda    32    0    10
--- Mali    31    3    0
 -- Ethiopia    29    0    4
 -- Guyana    23    4    0
 -- Cayman Islands    22    1    0
@@ -3168,6 +3168,7 @@
 -- Bhutan    5    0    1
 -- Botswana    4    1    0
 -- Gambia    4    1    2
+-- Malawi    3    0    0
 -- Burundi    3    0    0
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
