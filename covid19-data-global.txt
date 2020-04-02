@@ -1,4 +1,4 @@
--- United States of America    240444    5783    8861
+-- United States of America    240462    5783    8861
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -1431,22 +1431,22 @@
 ------ Allendale(45005)    1    0    0
 ------ Cherokee(45021)    1    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1233    32    0
------- Jefferson(01073)    314    4    0
------- Shelby(01117)    98    3    0
+---- AL    1251    32    0
+------ Jefferson(01073)    318    4    0
+------ Shelby(01117)    99    3    0
 ------ Lee(01081)    91    2    0
------- Tuscaloosa(01125)    34    0    0
+------ Tuscaloosa(01125)    37    0    0
 ------ Elmore(01051)    17    0    0
------- Montgomery(01101)    45    1    0
------- Baldwin(01003)    24    1    0
+------ Montgomery(01101)    46    1    0
+------ Baldwin(01003)    25    1    0
 ------ Limestone(01083)    26    0    0
------- Madison(01089)    114    1    0
+------ Madison(01089)    116    1    0
 ------ Calhoun(01015)    12    0    0
 ------ St Clair(01115)    19    0    0
 ------ Chambers(01017)    67    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    34    0    0
------- Mobile(01097)    67    3    0
+------ Mobile(01097)    69    3    0
 ------ Jackson(01071)    9    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    14    1    0
@@ -1456,7 +1456,7 @@
 ------ Franklin(01059)    4    0    0
 ------ Houston(01069)    10    0    0
 ------ Tallapoosa(01123)    17    1    0
------- Morgan(01103)    21    1    0
+------ Morgan(01103)    22    1    0
 ------ Autauga(01001)    10    0    0
 ------ Pickens(01107)    9    0    0
 ------ Pike(01109)    7    0    0
@@ -1466,14 +1466,14 @@
 ------ Butler(01013)    1    0    0
 ------ Cherokee(01019)    4    0    0
 ------ Chilton(01021)    14    0    0
------- Clay(01027)    6    0    0
+------ Clay(01027)    7    0    0
 ------ Cleburne(01029)    6    0    0
 ------ Colbert(01033)    5    0    0
 ------ Lawrence(01079)    3    0    0
 ------ Marshall(01095)    7    0    0
 ------ Russell(01113)    2    0    0
 ------ Wilcox(01131)    5    0    0
------- Coffee(01031)    1    0    0
+------ Coffee(01031)    3    0    0
 ------ Lowndes(01085)    2    0    0
 ------ Marengo(01091)    5    0    0
 ------ DeKalb(01049)    8    0    0
@@ -2951,8 +2951,7 @@
 -- Israel    8385    36    338
 -- Brazil    7910    299    127
 -- Sweden    5568    308    103
--- Norway    5142    50    32
--- Australia    5139    27    585
+-- Australia    5230    27    585
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
@@ -2961,6 +2960,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
+-- Norway    5144    50    32
 -- Ireland    3849    98    5
 -- Czechia    3805    44    67
 -- Denmark    3573    123    1172
@@ -3020,7 +3020,7 @@
 -- Philippines    2633    107    51
 -- India    2536    72    191
 -- Luxembourg    2487    30    80
--- Pakistan    2386    34    107
+-- Pakistan    2421    34    125
 -- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
@@ -3053,7 +3053,7 @@
 -- Lithuania    649    9    7
 -- Bahrain    643    4    381
 -- Hungary    585    21    42
--- Bosnia and Herzegovina    532    16    20
+-- Bosnia and Herzegovina    533    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    46
 -- Latvia    458    0    31
@@ -3074,7 +3074,7 @@
 -- Belarus    304    4    53
 -- Jordan    299    5    45
 -- Burkina Faso    288    16    50
--- Albania    277    16    67
+-- Albania    277    16    76
 -- Afghanistan    273    6    10
 -- San Marino    245    30    21
 -- Cuba    233    6    13
@@ -3147,7 +3147,7 @@
 -- Syrian Arab Republic    16    2    0
 -- Haiti    16    0    1
 -- Equatorial Guinea    15    0    1
--- Namibia    14    0    2
+-- Namibia    14    0    3
 -- Mongolia    14    0    2
 -- Benin    13    0    1
 -- Saint Lucia    13    0    1
