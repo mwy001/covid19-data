@@ -1980,7 +1980,7 @@
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
 ------ Greer(40055)    2    1    0
----- KS    494    10    0
+---- KS    495    10    0
 ------ Johnson(20091)    143    3    0
 ------ Wyandotte(20209)    93    4    0
 ------ Butler(20015)    5    0    0
@@ -2891,7 +2891,7 @@
 -- Netherlands    13696    1175    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10711    146    1436
+-- Austria    10769    146    1436
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2951,7 +2951,7 @@
 -- Poland    2554    43    56
 -- Romania    2460    92    252
 -- Japan    2384    66    472
----- Hokkaido    181    7    100
+---- Hokkaido    181    8    100
 ---- kochi    20    0    0
 ---- Miyagi    11    0    0
 ---- Niigata    32    0    0
@@ -2963,18 +2963,18 @@
 ---- Ishikawa    15    0    0
 ---- Fukuoka    78    0    0
 ---- Tokyo    587    15    0
----- Wakayama    19    1    2
+---- Wakayama    21    1    2
 ---- Kyoto    76    0    16
 ---- Osaka    278    2    1
 ---- Chiba    185    1    0
----- Kanagawa    161    6    1
+---- Kanagawa    170    6    1
 ---- Shizuoka    13    0    0
 ---- Aichi    183    19    2
 ---- Nara    15    0    1
 ---- Tokushima    3    0    0
----- Mie    11    0    1
+---- Mie    12    0    1
 ---- Okinawa    9    0    1
----- Ehime    9    0    0
+---- Ehime    11    0    0
 ---- hyogo    162    11    0
 ---- oita    29    0    0
 ---- Yamaguchi    6    0    0
@@ -2987,14 +2987,14 @@
 ---- Fukushima    6    0    0
 ---- Saga    3    0    0
 ---- Nagasaki    5    0    0
----- Ibaraki    42    2    0
+---- Ibaraki    43    2    0
 ---- Kagawa    2    0    0
----- Fukui    21    0    0
----- Okayama    5    0    0
+---- Fukui    30    0    0
+---- Okayama    7    0    0
 ---- Aomori    8    0    0
 ---- Kagoshima    2    0    0
----- Toyama    5    0    0
----- Yamagata    2    0    0
+---- Toyama    7    0    0
+---- Yamagata    3    0    0
 -- Luxembourg    2319    29    80
 -- Philippines    2311    96    50
 -- Pakistan    2238    31    94
@@ -3027,16 +3027,16 @@
 -- Hong Kong    766    4    147
 -- Iraq    728    52    182
 -- Morocco    654    39    29
--- Lithuania    581    8    7
+-- Lithuania    649    8    7
+-- Hungary    585    21    42
 -- Armenia    571    4    31
 -- Bahrain    569    4    337
--- Hungary    525    20    40
 -- Lebanon    479    14    43
 -- Bosnia and Herzegovina    459    13    19
+-- Bulgaria    449    10    25
 -- Latvia    446    0    1
 -- Moldova, Republic of    423    5    23
 -- Tunisia    423    12    5
--- Bulgaria    422    10    20
 -- Kazakhstan    402    3    26
 -- Slovakia    400    1    7
 -- Andorra    390    14    10
@@ -3054,7 +3054,7 @@
 -- Afghanistan    239    4    5
 -- San Marino    236    28    13
 -- Cameroon    233    6    10
--- Viet Nam    222    0    63
+-- Viet Nam    222    0    64
 -- Honduras    219    14    3
 -- Cuba    212    6    12
 -- Oman    210    1    34
@@ -3062,20 +3062,20 @@
 -- Côte d'Ivoire    190    1    9
 -- Senegal    190    1    45
 -- Malta    188    0    2
--- Uzbekistan    181    2    12
+-- Uzbekistan    187    2    12
 -- Nigeria    174    2    9
 -- Faroe Islands    173    0    75
 -- Belarus    163    2    53
--- Mauritius    161    6    0
--- Sri Lanka    146    3    21
+-- Mauritius    161    7    0
+-- Sri Lanka    148    3    21
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Martinique    135    3    27
 -- Palestine    134    1    18
 -- Brunei Darussalam    131    1    52
+-- Georgia    130    0    23
 -- Kosovo    125    1    10
 -- Guadeloupe    125    6    24
 -- Montenegro    123    2    0
--- Georgia    117    0    23
 -- Kyrgyzstan    116    0    5
 -- Bolivia, Plurinational State of    115    7    1
 -- Cambodia    110    0    34
