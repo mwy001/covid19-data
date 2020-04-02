@@ -2998,7 +2998,7 @@
 -- Luxembourg    2319    29    80
 -- Philippines    2311    96    50
 -- Pakistan    2238    31    94
--- India    1998    58    148
+-- India    2032    58    148
 -- Thailand    1771    12    505
 -- Saudi Arabia    1720    16    264
 -- Indonesia    1677    157    103
