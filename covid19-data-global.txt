@@ -1,4 +1,4 @@
--- United States of America    235433    5606    8833
+-- United States of America    235491    5607    8849
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -558,7 +558,7 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4687    71    278
+---- TX    4720    72    294
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    847    5    0
@@ -2034,7 +2034,7 @@
 ------ Chautauqua(20019)    1    0    0
 ------ Labette(20099)    1    0    0
 ------ Pratt(20151)    1    0    0
----- VT    322    16    0
+---- VT    347    16    0
 ------ Chittenden(50007)    164    4    0
 ------ Bennington(50003)    18    0    0
 ------ Windsor(50027)    18    1    0
@@ -2347,7 +2347,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- Germany    83875    1066    21400
+-- Germany    84284    1089    21400
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2896,14 +2896,13 @@
 ---- Scotland    2310    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    18475    522    4013
--- Turkey    18135    356    415
+-- Switzerland    18827    536    4013
+-- Turkey    18757    356    415
 -- Belgium    15348    1011    2495
 -- Netherlands    14784    1341    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    11076    158    1749
--- Canada    11068    134    1891
+-- Canada    11108    134    1906
 ---- British Columbia    1066    25    183
 ---- Ontario    2392    37    8
 ---- Alberta    871    11    0
@@ -2917,6 +2916,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
+-- Austria    11106    158    1749
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2949,7 +2949,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5128    50    32
+-- Norway    5131    50    32
 -- Ireland    3849    98    5
 -- Czechia    3805    44    67
 -- Russian Federation    3548    30    235
@@ -3004,7 +3004,7 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
--- Romania    2738    107    267
+-- Romania    2738    114    267
 -- Poland    2692    51    56
 -- Philippines    2633    107    51
 -- Luxembourg    2487    30    80
@@ -3027,7 +3027,7 @@
 -- Singapore    1049    4    266
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    1011    7    88
--- Algeria    986    63    65
+-- Algeria    986    86    65
 -- Slovenia    897    17    70
 -- Estonia    858    11    45
 -- Egypt    850    52    179
@@ -3065,7 +3065,7 @@
 -- Cameroon    284    7    10
 -- Albania    277    16    67
 -- Afghanistan    258    4    10
--- San Marino    236    28    13
+-- San Marino    245    30    21
 -- Cuba    233    6    13
 -- Oman    231    1    57
 -- Viet Nam    227    0    75
@@ -3083,10 +3083,10 @@
 -- Montenegro    144    2    0
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Martinique    135    3    27
+-- Georgia    134    0    26
 -- Brunei Darussalam    133    1    56
--- Georgia    131    0    26
+-- Guadeloupe    128    6    24
 -- Kosovo    125    1    10
--- Guadeloupe    125    6    24
 -- Congo, Democratic Republic of the    123    11    3
 -- Bolivia, Plurinational State of    123    8    1
 -- Kyrgyzstan    116    0    5
@@ -3096,7 +3096,7 @@
 -- Isle of Man    95    1    0
 -- Trinidad and Tobago    90    5    1
 -- Gibraltar    88    0    46
--- Rwanda    82    0    0
+-- Rwanda    84    0    0
 -- Paraguay    77    3    2
 -- Liechtenstein    75    0    0
 -- Niger    74    5    0
@@ -3107,8 +3107,8 @@
 -- Guinea    52    0    0
 -- French Guiana    51    0    15
 -- Guatemala    47    1    12
+-- Uganda    45    0    0
 -- Barbados    45    0    0
--- Uganda    44    0    0
 -- Jamaica    44    3    2
 -- El Salvador    41    2    0
 -- Macao    41    0    10
