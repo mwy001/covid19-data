@@ -2885,7 +2885,7 @@
 ---- Scotland    1993    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    17768    488    2967
+-- Switzerland    17781    488    2967
 -- Turkey    15679    277    333
 -- Belgium    13964    828    2132
 -- Netherlands    13696    1175    260
@@ -2928,25 +2928,25 @@
 -- Israel    8385    30    289
 -- Portugal    8251    187    43
 -- Brazil    6931    244    127
--- Australia    5137    25    501
+-- Australia    5137    25    520
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
----- Queensland    781    2    8
+---- Queensland    835    4    8
 ---- South Australia    367    0    6
----- Western Australia    392    2    48
----- Tasmania    69    2    5
----- Northern Territory    19    0    0
----- Australian Capital Territory    84    1    8
+---- Western Australia    392    2    64
+---- Tasmania    72    2    5
+---- Northern Territory    21    0    0
+---- Australian Capital Territory    87    1    11
 -- Sweden    4947    239    103
--- Norway    4877    44    13
+-- Norway    4879    44    13
 -- Czechia    3604    40    61
+-- Russian Federation    3548    30    235
 -- Ireland    3447    85    5
 -- Denmark    3290    104    971
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3031    16    234
 -- Malaysia    2908    45    645
--- Russian Federation    2777    24    190
 -- Ecuador    2758    98    58
 -- Poland    2554    43    56
 -- Romania    2460    94    252
@@ -3026,8 +3026,8 @@
 -- Egypt    779    52    179
 -- Hong Kong    766    4    147
 -- Iraq    728    52    182
+-- Morocco    676    39    29
 -- Armenia    663    4    33
--- Morocco    654    39    29
 -- Lithuania    649    8    7
 -- Hungary    585    21    42
 -- Bahrain    569    4    337
@@ -3059,10 +3059,10 @@
 -- Honduras    219    14    3
 -- Cuba    212    6    12
 -- Ghana    195    5    31
+-- Uzbekistan    190    2    12
 -- Côte d'Ivoire    190    1    9
 -- Senegal    190    1    45
 -- Malta    188    0    2
--- Uzbekistan    187    2    12
 -- Faroe Islands    177    0    81
 -- Nigeria    174    2    9
 -- Belarus    163    2    53
