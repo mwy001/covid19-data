@@ -1,4 +1,4 @@
--- United States of America    216553    5130    8593
+-- United States of America    216553    5130    8661
 ---- NY    84025    2219    6402
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -411,6 +411,7 @@
 ------ Ford(17053)    1    0    0
 ------ Ogle(17141)    1    0    0
 ------ Vermilion(17183)    1    0    0
+------ Massac(17127)    1    0    0
 ---- GA    4818    154    0
 ------ Fulton(13121)    638    20    0
 ------ Cobb(13067)    304    15    0
@@ -555,7 +556,7 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4607    68    253
+---- TX    4607    68    254
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    680    5    0
@@ -1102,6 +1103,7 @@
 ------ City of Waynesboro(51820)    2    0    0
 ------ Augusta(51015)    1    0    0
 ------ Sussex(51183)    1    0    0
+------ City of Covington(51580)    1    0    0
 ---- NC    1754    15    5
 ------ Wake(37183)    228    0    0
 ------ Durham(37063)    141    0    0
@@ -1263,7 +1265,7 @@
 ------ Oscoda(26135)    2    0    0
 ------ Schoolcraft(26153)    1    0    0
 ------ Mackinac(26097)    1    0    0
----- MN    689    17    288
+---- MN    689    17    342
 ------ Hennepin(27053)    218    5    0
 ------ Ramsey(27123)    66    2    0
 ------ Dakota(27037)    48    0    0
@@ -1346,9 +1348,9 @@
 ------ St Marys(24037)    19    0    0
 ------ Kent(24029)    3    0    0
 ------ Dorchester(24019)    1    0    0
----- NV    1279    32    10
+---- NV    1299    32    18
 ------ Clark(32003)    961    28    0
------- Washoe(32031)    143    4    10
+------ Washoe(32031)    163    4    10
 ------ Carson City(32510)    5    0    0
 ------ Elko(32007)    5    0    0
 ------ Douglas(32005)    6    0    0
@@ -1749,7 +1751,7 @@
 ------ Antelope(31003)    1    0    0
 ------ Kimball(31105)    1    0    0
 ------ Cuming(31039)    1    0    0
----- NM    363    6    26
+---- NM    387    6    26
 ------ Bernalillo(35001)    148    4    0
 ------ Santa Fe(35049)    48    0    0
 ------ Sandoval(35043)    32    1    0
@@ -2220,17 +2222,17 @@
 ------ Camas(16025)    1    0    0
 ------ Gooding(16047)    1    0    0
 ------ Latah(16057)    1    0    0
----- ND    142    3    34
+---- ND    147    3    39
 ------ Burleigh(38015)    32    0    0
 ------ Ward(38101)    12    0    0
------- Cass(38017)    34    1    0
+------ Cass(38017)    37    1    0
 ------ Morton(38059)    14    1    0
 ------ Pierce(38069)    2    0    0
 ------ Ramsey(38071)    3    0    0
 ------ Walsh(38099)    1    0    0
 ------ Dunn(38025)    1    0    0
 ------ Foster(38031)    1    0    0
------- Stark(38089)    14    0    0
+------ Stark(38089)    16    0    0
 ------ McHenry(38049)    1    1    0
 ------ McIntosh(38051)    1    0    0
 ------ Barnes(38003)    2    0    0
@@ -2243,13 +2245,13 @@
 ------ Oliver(38065)    1    0    0
 ------ Williams(38105)    3    0    0
 ------ Grant(38037)    1    0    0
------- McKenzie(38053)    1    0    0
+------ McKenzie(38053)    2    0    0
 ------ Burke(38013)    2    0    0
 ------ Rolette(38079)    1    0    0
----- AK    138    3    0
+---- AK    143    3    0
 ------ Fairbanks North Star(02090)    35    0    0
 ------ Anchorage(02020)    65    1    0
------- Ketchikan Gateway(02130)    13    0    0
+------ Ketchikan Gateway(02130)    14    0    0
 ------ Juneau(02110)    9    0    0
 ------ Kenai Peninsula(02122)    7    0    0
 ------ Matanuska-Susitna(02170)    2    0    0
@@ -2811,9 +2813,9 @@
 ---- Baden-Württemberg    13313    196    1368
 ---- Saxony-Anhalt    752    7    22
 ---- Saarland    961    12    61
--- France    57756    4043    11053
+-- France    57763    4043    11055
 ---- France    7652    148    12
----- St Martin    16    1    2
+---- St Martin    22    1    2
 ---- Saint Barthelemy    6    0    1
 ---- Nord-Pas-de-Calais and Picardy    1753    7    4
 ---- Ile-de-France    7660    2    2
@@ -2907,9 +2909,9 @@
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
 -- Canada    9731    129    1736
----- British Columbia    1013    24    183
+---- British Columbia    1066    24    183
 ---- Ontario    2392    37    8
----- Alberta    754    9    0
+---- Alberta    871    11    0
 ---- Quebec    4611    33    0
 ---- New Brunswick    81    0    0
 ---- Manitoba    127    1    0
@@ -2918,7 +2920,7 @@
 ---- Newfoundland and Labrador    175    1    0
 ---- Nova Scotia    173    0    0
 ---- Northwest Territories    2    0    0
----- Yukon    5    0    0
+---- Yukon    6    0    0
 ---- Nunavut    1    0    0
 -- Israel    8385    26    241
 -- Portugal    8251    187    43
