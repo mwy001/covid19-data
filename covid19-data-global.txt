@@ -1,4 +1,4 @@
--- United States of America    217602    5153    8710
+-- United States of America    217681    5157    8802
 ---- NY    84046    2220    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -558,7 +558,7 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4607    68    254
+---- TX    4612    68    254
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    680    5    0
@@ -815,18 +815,18 @@
 ------ Oconto(55083)    1    0    0
 ------ Crawford(55023)    1    0    0
 ------ Menominee(55078)    1    0    0
----- TN    3045    26    170
------- Davidson(47037)    673    4    90
------- Williamson(47187)    148    0    0
------- Shelby(47157)    496    1    0
------- Knox(47093)    78    1    28
+---- TN    3052    26    184
+------ Davidson(47037)    785    5    90
+------ Williamson(47187)    148    1    0
+------ Shelby(47157)    496    2    0
+------ Knox(47093)    85    1    42
 ------ Campbell(47013)    4    0    0
 ------ Hamilton(47065)    50    3    0
 ------ Jefferson(47089)    6    0    0
------- Rutherford(47149)    86    0    0
+------ Rutherford(47149)    86    1    0
 ------ Sevier(47155)    9    0    0
 ------ Sullivan(47163)    17    0    0
------- Sumner(47165)    201    4    0
+------ Sumner(47165)    201    11    0
 ------ Cheatham(47021)    11    0    0
 ------ Robertson(47147)    35    0    0
 ------ Cumberland(47035)    14    0    0
@@ -840,7 +840,7 @@
 ------ Anderson(47001)    10    0    0
 ------ Blount(47009)    28    0    0
 ------ Bradley(47011)    14    0    0
------- Greene(47059)    15    0    0
+------ Greene(47059)    15    1    0
 ------ Hamblen(47063)    3    0    0
 ------ Maury(47119)    17    0    0
 ------ Tipton(47167)    22    0    0
@@ -854,7 +854,7 @@
 ------ Franklin(47051)    7    0    0
 ------ Houston(47083)    3    0    0
 ------ Loudon(47105)    8    0    0
------- Marion(47115)    8    0    0
+------ Marion(47115)    8    1    0
 ------ Perry(47135)    2    0    0
 ------ McMinn(47107)    3    0    0
 ------ Claiborne(47025)    2    0    0
@@ -1176,7 +1176,7 @@
 ------ Polk(37149)    4    0    0
 ------ Greene(37079)    4    0    0
 ------ Swain(37173)    1    0    0
------- Halifax(37083)    6    0    0
+------ Halifax(37083)    7    0    0
 ------ Alleghany(37005)    2    0    0
 ------ Edgecombe(37065)    4    0    0
 ------ Perquimans(37143)    1    0    0
@@ -1326,7 +1326,7 @@
 ------ Freeborn(27047)    2    0    0
 ------ Crow Wing(27035)    1    0    0
 ------ Yellow Medicine(27173)    1    0    0
----- MD    2331    33    53
+---- MD    2331    36    53
 ------ Montgomery(24031)    498    4    3
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    353    2    0
@@ -1490,7 +1490,7 @@
 ------ Clarke(01025)    2    0    0
 ------ Conecuh(01035)    1    0    0
 ------ Dale(01045)    1    0    0
----- ME    376    7    68
+---- ME    376    7    94
 ------ Cumberland(23005)    204    5    10
 ------ Androscoggin(23001)    12    0    4
 ------ Kennebec(23011)    19    1    0
@@ -1504,7 +1504,7 @@
 ------ Waldo(23027)    2    0    0
 ------ Franklin(23007)    3    0    0
 ------ Somerset(23025)    2    0    0
----- DC    586    11    121
+---- DC    653    12    173
 ------ District of Columbia(11001)    586    11    121
 ---- IN    3039    78    0
 ------ Marion(18097)    1304    24    0
@@ -2159,7 +2159,7 @@
 ------ Butte(46019)    1    0    0
 ------ Marshall(46091)    1    0    1
 ------ Kingsbury(46077)    1    0    0
----- WY    137    -1    31
+---- WY    138    -1    31
 ------ Fremont(56013)    25    0    0
 ------ Sheridan(56033)    10    0    0
 ------ Laramie(56021)    35    0    0
@@ -2881,7 +2881,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    33718    2921    179
+-- United Kingdom of Great Britain and Northern Ireland    34116    2926    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2891,14 +2891,14 @@
 ---- Scotland    2310    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    18267    505    4013
+-- Switzerland    18475    522    4013
 -- Turkey    15679    277    333
 -- Belgium    15348    1011    2495
 -- Netherlands    14779    1341    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10996    158    1749
--- Canada    10132    129    1736
+-- Austria    11027    158    1749
+-- Canada    10132    131    1891
 ---- British Columbia    1066    25    183
 ---- Ontario    2392    37    8
 ---- Alberta    871    11    0
@@ -2933,7 +2933,7 @@
 ---- 未确定地区    242    3    1
 -- Portugal    9034    209    68
 -- Israel    8385    33    289
--- Brazil    7011    252    127
+-- Brazil    7022    252    127
 -- Sweden    5466    282    103
 -- Australia    5137    25    520
 ---- New South Wales    2298    10    4
@@ -2944,8 +2944,8 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5119    47    32
--- Czechia    3604    40    61
+-- Norway    5124    48    32
+-- Czechia    3805    44    67
 -- Russian Federation    3548    30    235
 -- Denmark    3542    123    1172
 ---- Denmark    977    4    1
@@ -3002,14 +3002,14 @@
 ---- Yamagata    3    0    0
 -- Poland    2692    51    56
 -- Philippines    2633    107    51
+-- Luxembourg    2487    30    80
 -- Pakistan    2386    32    107
--- Luxembourg    2319    29    80
--- India    2032    58    150
+-- India    2341    68    177
 -- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
 -- Finland    1518    19    300
--- Greece    1415    52    52
+-- Greece    1514    53    61
 -- South Africa    1380    5    50
 -- Dominican Republic    1380    60    16
 -- Mexico    1378    37    35
@@ -3037,19 +3037,19 @@
 -- Lithuania    649    9    7
 -- Bahrain    635    4    341
 -- Hungary    585    21    42
--- Bosnia and Herzegovina    518    15    20
+-- Bosnia and Herzegovina    518    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    43
 -- Latvia    458    0    1
 -- Bulgaria    457    10    25
+-- Tunisia    455    14    5
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
 -- Kazakhstan    423    3    27
--- Tunisia    423    12    5
 -- Azerbaijan    400    5    26
 -- North Macedonia    384    11    17
 -- Costa Rica    375    2    4
--- Cyprus    356    9    28
+-- Cyprus    356    10    28
 -- Uruguay    350    4    62
 -- Kuwait    342    0    81
 -- Taiwan    339    5    50
@@ -3079,20 +3079,20 @@
 -- Montenegro    140    2    0
 -- Martinique    135    3    27
 -- Brunei Darussalam    133    1    56
--- Georgia    130    0    26
+-- Georgia    131    0    26
 -- Kosovo    125    1    10
 -- Guadeloupe    125    6    24
 -- Congo, Democratic Republic of the    123    11    3
--- Bolivia, Plurinational State of    123    7    1
+-- Bolivia, Plurinational State of    123    8    1
 -- Kyrgyzstan    116    0    5
 -- Mayotte    116    1    10
 -- Kenya    110    3    4
 -- Cambodia    110    0    34
+-- Isle of Man    95    1    0
 -- Trinidad and Tobago    90    5    1
 -- Gibraltar    88    0    46
 -- Rwanda    82    0    0
 -- Paraguay    77    3    2
--- Isle of Man    75    1    0
 -- Niger    74    5    0
 -- Liechtenstein    72    0    0
 -- Madagascar    59    0    0
@@ -3121,13 +3121,13 @@
 -- Saint Martin (French part)    22    1    2
 -- Congo    22    2    2
 -- Bahamas    21    1    1
+-- Myanmar    20    1    0
 -- Tanzania, United Republic of    20    1    2
 -- Maldives    19    0    13
 -- Eritrea    18    0    0
 -- New Caledonia    18    0    1
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
--- Myanmar    16    1    0
 -- Syrian Arab Republic    16    2    0
 -- Haiti    16    0    1
 -- Equatorial Guinea    15    0    1
