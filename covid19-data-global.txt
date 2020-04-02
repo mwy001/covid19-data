@@ -2316,7 +2316,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Spain    110238    10003    22647
+-- Spain    110238    10003    26743
 ---- Andalusia    5818    248    160
 ---- Aragon    2272    138    204
 ---- Balearic Islands    1069    42    111
@@ -2325,8 +2325,8 @@
 ---- Cantabria    1171    37    35
 ---- Castile and León    6211    516    1028
 ---- Castile-La Mancha    6424    708    296
----- Catalonia    18773    1672    4966
----- Community of Madrid    27509    3603    9330
+---- Catalonia    21804    2093    5701
+---- Community of Madrid    29840    3865    10827
 ---- Comunidad Foral de Navarra    2305    113    192
 ---- Extremadura    1628    133    91
 ---- Galicia    4039    3032    187
@@ -2802,20 +2802,20 @@
 ---- 台湾    329    5    39
 -- Germany    77981    931    20928
 ---- Saxony    2245    18    109
----- Mecklenburg-Vorpommern    412    3    42
+---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
 ---- Berlin    2993    19    1369
----- Brandenburg    945    5    77
----- Thuringia    840    6    129
+---- Brandenburg    1107    10    133
+---- Thuringia    925    7    129
 ---- Schleswig-Holstein    1343    12    73
 ---- Lower Saxony    4717    47    1040
----- Bremen    315    5    71
+---- Bremen    330    6    93
 ---- Hamburg    2437    14    860
 ---- Rhineland-Palatinate    3132    26    576
 ---- North Rhine-Westphalia    17254    197    5407
 ---- Hesse    3707    27    555
 ---- Baden-Württemberg    14662    241    2363
----- Saxony-Anhalt    752    7    22
+---- Saxony-Anhalt    806    8    123
 ---- Saarland    1073    15    68
 -- France    57763    4043    11055
 ---- France    7652    148    12
@@ -2844,7 +2844,7 @@
 ---- Reunion    281    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    16    0    0
--- Iran, Islamic Republic of    47593    3036    15473
+-- Iran, Islamic Republic of    50468    3160    16711
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2886,13 +2886,13 @@
 ---- Scotland    2310    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    17781    488    2967
+-- Switzerland    18117    505    4013
 -- Turkey    15679    277    333
 -- Belgium    15348    1011    2495
 -- Netherlands    13696    1175    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10842    158    1749
+-- Austria    10877    158    1749
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2949,6 +2949,7 @@
 -- Malaysia    3116    50    767
 -- Chile    3031    16    234
 -- Ecuador    2758    98    58
+-- Romania    2738    94    267
 -- Japan    2634    71    472
 ---- Hokkaido    183    8    100
 ---- kochi    21    0    0
@@ -2996,7 +2997,6 @@
 ---- Yamagata    3    0    0
 -- Poland    2633    45    56
 -- Philippines    2633    107    51
--- Romania    2460    94    252
 -- Luxembourg    2319    29    80
 -- Pakistan    2291    31    107
 -- India    2032    58    148
@@ -3036,10 +3036,10 @@
 -- Lebanon    494    16    43
 -- Latvia    458    0    1
 -- Bulgaria    449    10    25
+-- Slovakia    426    1    7
 -- Moldova, Republic of    423    5    23
 -- Tunisia    423    12    5
 -- Kazakhstan    402    3    27
--- Slovakia    400    1    7
 -- Azerbaijan    400    5    26
 -- Andorra    390    14    10
 -- Costa Rica    375    2    4
@@ -3051,7 +3051,7 @@
 -- Burkina Faso    282    16    46
 -- Réunion    281    0    40
 -- Jordan    278    5    36
--- Albania    259    15    67
+-- Albania    277    16    67
 -- Cameroon    255    6    10
 -- Afghanistan    239    4    5
 -- San Marino    236    28    13
@@ -3073,8 +3073,8 @@
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Montenegro    140    2    0
 -- Martinique    135    3    27
--- Brunei Darussalam    131    1    52
--- Georgia    130    0    23
+-- Brunei Darussalam    133    1    56
+-- Georgia    130    0    26
 -- Kosovo    125    1    10
 -- Guadeloupe    125    6    24
 -- Congo, Democratic Republic of the    123    11    3
@@ -3119,11 +3119,11 @@
 -- Tanzania, United Republic of    20    1    1
 -- Maldives    19    0    13
 -- Eritrea    18    0    0
+-- New Caledonia    18    0    1
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
 -- Myanmar    16    1    0
 -- Haiti    16    0    1
--- New Caledonia    16    0    1
 -- Equatorial Guinea    15    0    1
 -- Namibia    14    0    2
 -- Mongolia    14    0    2
