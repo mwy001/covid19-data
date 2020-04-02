@@ -1658,7 +1658,7 @@
 ------ Clark(21049)    8    0    0
 ------ Lyon(21143)    1    0    0
 ------ Nelson(21179)    3    0    0
------- Kenton(21117)    20    1    0
+------ Kenton(21117)    25    1    0
 ------ Franklin(21073)    6    0    0
 ------ Warren(21227)    13    0    0
 ------ Daviess(21059)    34    1    0
@@ -1686,7 +1686,7 @@
 ------ Webster(21233)    2    0    0
 ------ McCracken(21145)    8    0    0
 ------ Allen(21003)    2    0    0
------- Hopkins(21107)    17    2    0
+------ Hopkins(21107)    27    2    0
 ------ Hancock(21091)    1    0    0
 ------ Bullitt(21029)    6    1    0
 ------ Larue(21123)    1    0    0
@@ -2925,12 +2925,12 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Israel    8385    26    241
+-- Israel    8385    30    241
 -- Portugal    8251    187    43
 -- Brazil    6931    244    127
--- Australia    5106    23    422
----- New South Wales    2182    9    4
----- Victoria    968    4    343
+-- Australia    5124    24    501
+---- New South Wales    2298    10    4
+---- Victoria    1036    5    422
 ---- Queensland    781    2    8
 ---- South Australia    367    0    6
 ---- Western Australia    392    2    48
@@ -2939,7 +2939,7 @@
 ---- Australian Capital Territory    84    1    8
 -- Sweden    4947    239    103
 -- Norway    4877    44    13
--- Czechia    3589    39    61
+-- Czechia    3604    39    61
 -- Ireland    3447    85    5
 -- Denmark    3290    104    971
 ---- Denmark    977    4    1
@@ -2997,9 +2997,9 @@
 ---- Yamagata    3    0    0
 -- Luxembourg    2319    29    80
 -- Philippines    2311    96    50
--- Pakistan    2238    31    94
+-- Pakistan    2291    31    107
 -- India    2032    58    148
--- Thailand    1771    12    505
+-- Thailand    1875    15    505
 -- Saudi Arabia    1720    16    264
 -- Indonesia    1677    157    103
 -- Finland    1446    17    300
@@ -3032,7 +3032,7 @@
 -- Armenia    571    4    31
 -- Bahrain    569    4    337
 -- Lebanon    479    14    43
--- Bosnia and Herzegovina    459    13    19
+-- Bosnia and Herzegovina    466    13    19
 -- Bulgaria    449    10    25
 -- Latvia    446    0    1
 -- Moldova, Republic of    423    5    23
@@ -3044,7 +3044,7 @@
 -- Azerbaijan    359    5    26
 -- North Macedonia    354    11    17
 -- Uruguay    350    2    62
--- Taiwan    329    5    45
+-- Taiwan    339    5    50
 -- Cyprus    320    9    28
 -- Kuwait    317    0    80
 -- Burkina Faso    282    16    46
@@ -3063,8 +3063,8 @@
 -- Senegal    190    1    45
 -- Malta    188    0    2
 -- Uzbekistan    187    2    12
+-- Faroe Islands    177    0    81
 -- Nigeria    174    2    9
--- Faroe Islands    173    0    75
 -- Belarus    163    2    53
 -- Mauritius    161    7    0
 -- Sri Lanka    148    3    21
@@ -3076,8 +3076,8 @@
 -- Kosovo    125    1    10
 -- Guadeloupe    125    6    24
 -- Montenegro    123    2    0
+-- Bolivia, Plurinational State of    123    7    1
 -- Kyrgyzstan    116    0    5
--- Bolivia, Plurinational State of    115    7    1
 -- Cambodia    110    0    34
 -- Congo, Democratic Republic of the    109    9    3
 -- Mayotte    101    1    10
@@ -3090,9 +3090,9 @@
 -- Liechtenstein    72    0    0
 -- Isle of Man    68    1    0
 -- Madagascar    57    0    0
+-- Bangladesh    56    6    25
 -- Aruba    55    0    1
 -- Monaco    55    1    2
--- Bangladesh    54    6    25
 -- French Guiana    51    0    15
 -- Guatemala    46    1    12
 -- Barbados    45    0    0
@@ -3117,12 +3117,12 @@
 -- Bahamas    21    1    1
 -- Tanzania, United Republic of    20    1    1
 -- Maldives    19    0    13
+-- Eritrea    18    0    0
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
 -- Myanmar    16    1    0
 -- Haiti    16    0    1
 -- New Caledonia    16    0    1
--- Eritrea    15    0    0
 -- Equatorial Guinea    15    0    1
 -- Namibia    14    0    2
 -- Mongolia    14    0    2
