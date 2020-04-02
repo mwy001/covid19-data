@@ -363,7 +363,7 @@
 ------ Kane(17089)    743    9    0
 ------ Clinton(17027)    9    0    0
 ------ Will(17197)    322    9    0
------- Champaign(17019)    33    0    0
+------ Champaign(17019)    33    0    5
 ------ Cumberland(17035)    1    0    0
 ------ Peoria(17143)    15    0    0
 ------ Whiteside(17195)    5    0    0
@@ -703,7 +703,7 @@
 ------ Camp(48063)    1    0    0
 ------ Clay(48077)    1    0    0
 ------ Gonzales(48177)    1    0    0
----- PA    6063    74    58
+---- PA    6063    79    58
 ------ Montgomery(42091)    649    8    0
 ------ Philadelphia(42101)    1675    10    0
 ------ Allegheny(42003)    356    2    0
@@ -1332,7 +1332,7 @@
 ------ Baltimore(24005)    289    2    0
 ------ Howard(24027)    142    2    0
 ------ Anne Arundel(24003)    158    3    0
------- Carroll(24013)    96    4    0
+------ Carroll(24013)    96    5    0
 ------ Harford(24025)    34    0    0
 ------ Charles(24017)    56    1    0
 ------ Frederick(24021)    35    3    0
@@ -1346,7 +1346,7 @@
 ------ Queen Anne's(24035)    7    0    0
 ------ Somerset(24039)    4    0    0
 ------ Washington(24043)    15    0    0
------- Cecil(24015)    16    0    0
+------ Cecil(24015)    16    1    0
 ------ Garrett(24023)    3    0    0
 ------ St Marys(24037)    19    0    0
 ------ Kent(24029)    3    0    0
@@ -1425,7 +1425,7 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1115    28    0
+---- AL    1116    28    0
 ------ Jefferson(01073)    305    4    0
 ------ Shelby(01117)    89    3    0
 ------ Lee(01081)    85    2    0
@@ -1440,7 +1440,7 @@
 ------ Chambers(01017)    48    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    32    0    0
------- Mobile(01097)    60    3    0
+------ Mobile(01097)    61    3    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -1982,7 +1982,7 @@
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
 ------ Greer(40055)    2    1    0
----- KS    495    12    0
+---- KS    505    12    0
 ------ Johnson(20091)    143    3    0
 ------ Wyandotte(20209)    93    4    0
 ------ Butler(20015)    5    0    0
@@ -2196,7 +2196,7 @@
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
 ------ Carbon(30009)    1    0    0
----- ID    669    9    0
+---- ID    673    9    0
 ------ Ada(16001)    226    3    0
 ------ Blaine(16013)    256    2    0
 ------ Madison(16065)    5    0    0
@@ -2800,8 +2800,8 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 台湾    339    5    39
--- Germany    79465    959    20928
+---- 台湾    339    5    45
+-- Germany    80641    962    20928
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2929,7 +2929,7 @@
 ---- Nunavut    1    0    0
 -- Portugal    9034    209    68
 -- Israel    8385    33    289
--- Brazil    6932    247    127
+-- Brazil    6988    250    127
 -- Sweden    5466    282    103
 -- Australia    5137    25    520
 ---- New South Wales    2298    10    4
@@ -2943,12 +2943,12 @@
 -- Norway    5083    47    13
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
--- Denmark    3542    123    1089
+-- Denmark    3542    123    1172
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    3447    85    5
+-- Chile    3404    18    335
 -- Malaysia    3116    50    767
--- Chile    3031    16    234
 -- Ecuador    2758    98    58
 -- Romania    2738    94    267
 -- Japan    2675    71    472
@@ -3009,15 +3009,15 @@
 -- South Africa    1380    5    50
 -- Mexico    1378    37    35
 -- Peru    1323    47    394
+-- Iceland    1319    5    270
 -- Panama    1317    32    9
 -- Dominican Republic    1284    57    9
--- Iceland    1220    5    236
 -- Serbia    1171    31    42
 -- Argentina    1133    34    248
 -- Colombia    1065    17    39
--- Croatia    1011    7    88
--- Singapore    1000    4    245
+-- Singapore    1049    4    266
 ---- Central Singapore Community Development Council    345    0    124
+-- Croatia    1011    7    88
 -- Slovenia    897    17    70
 -- Estonia    858    11    45
 -- Algeria    847    58    65
@@ -3045,7 +3045,7 @@
 -- Azerbaijan    400    5    26
 -- North Macedonia    384    11    17
 -- Costa Rica    375    2    4
--- Uruguay    350    2    62
+-- Uruguay    350    4    62
 -- Kuwait    342    0    81
 -- Taiwan    339    5    50
 -- Cyprus    320    9    28
@@ -3054,7 +3054,7 @@
 -- Réunion    281    0    40
 -- Jordan    278    5    36
 -- Albania    277    16    67
--- Afghanistan    239    4    5
+-- Afghanistan    239    4    10
 -- San Marino    236    28    13
 -- Oman    231    1    57
 -- Viet Nam    227    0    75
@@ -3115,7 +3115,7 @@
 -- Guyana    23    4    0
 -- Cayman Islands    22    1    0
 -- Saint Martin (French part)    22    1    2
--- Congo    22    2    0
+-- Congo    22    2    2
 -- Bahamas    21    1    1
 -- Tanzania, United Republic of    20    1    2
 -- Maldives    19    0    13
