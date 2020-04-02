@@ -1425,10 +1425,10 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1108    28    0
+---- AL    1115    28    0
 ------ Jefferson(01073)    305    4    0
 ------ Shelby(01117)    89    3    0
------- Lee(01081)    83    2    0
+------ Lee(01081)    85    2    0
 ------ Tuscaloosa(01125)    30    0    0
 ------ Elmore(01051)    15    0    0
 ------ Montgomery(01101)    35    1    0
@@ -1437,10 +1437,10 @@
 ------ Madison(01089)    107    1    0
 ------ Calhoun(01015)    11    0    0
 ------ St Clair(01115)    19    0    0
------- Chambers(01017)    45    4    0
+------ Chambers(01017)    48    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    32    0    0
------- Mobile(01097)    57    3    0
+------ Mobile(01097)    60    3    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
@@ -2291,7 +2291,7 @@
 ------ Barbour(54001)    1    0    0
 ---- GU    77    3    7
 ------ Guam(66010)    77    3    7
----- PR    286    11    0
+---- PR    316    12    0
 ---- VI    30    0    21
 ---- MP    6    1    0
 -- Italy    110574    13155    16847
@@ -2800,7 +2800,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    339    5    39
--- Germany    78983    948    20928
+-- Germany    79465    959    20928
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2840,7 +2840,7 @@
 ---- Guadeloupe    125    6    24
 ---- French Polynesia    37    0    0
 ---- Fench Guiana    5    0    0
----- Mayotte    101    1    10
+---- Mayotte    116    1    10
 ---- Reunion    281    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    16    0    0
@@ -2892,7 +2892,7 @@
 -- Netherlands    14697    1339    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10892    158    1749
+-- Austria    10927    158    1749
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -3002,9 +3002,9 @@
 -- India    2032    58    150
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
--- Saudi Arabia    1720    16    264
--- Finland    1518    17    300
--- Greece    1415    51    52
+-- Saudi Arabia    1720    21    328
+-- Finland    1518    19    300
+-- Greece    1415    52    52
 -- South Africa    1380    5    50
 -- Mexico    1378    37    35
 -- Peru    1323    47    394
@@ -3048,8 +3048,8 @@
 -- Kuwait    342    0    81
 -- Taiwan    339    5    50
 -- Cyprus    320    9    28
+-- Burkina Faso    288    16    50
 -- Cameroon    284    7    10
--- Burkina Faso    282    16    46
 -- Réunion    281    0    40
 -- Jordan    278    5    36
 -- Albania    277    16    67
@@ -3062,7 +3062,7 @@
 -- Malta    196    0    2
 -- Ghana    195    5    31
 -- Senegal    195    1    55
--- Uzbekistan    190    2    12
+-- Uzbekistan    190    2    25
 -- Côte d'Ivoire    190    1    9
 -- Faroe Islands    177    0    81
 -- Nigeria    174    2    9
@@ -3081,16 +3081,16 @@
 -- Bolivia, Plurinational State of    123    7    1
 -- Kyrgyzstan    116    0    5
 -- Mayotte    116    1    10
+-- Kenya    110    3    4
 -- Cambodia    110    0    34
 -- Trinidad and Tobago    90    5    1
 -- Rwanda    82    0    0
--- Kenya    81    1    3
 -- Gibraltar    81    0    34
 -- Paraguay    77    3    2
 -- Isle of Man    75    1    0
 -- Niger    74    5    0
 -- Liechtenstein    72    0    0
--- Madagascar    57    0    0
+-- Madagascar    59    0    0
 -- Bangladesh    56    6    25
 -- Aruba    55    0    1
 -- Monaco    55    1    2
@@ -3101,11 +3101,11 @@
 -- Jamaica    44    3    2
 -- El Salvador    41    2    0
 -- Macao    41    0    10
+-- Djibouti    40    0    0
 -- Zambia    39    1    0
 -- Puerto Rico    39    2    1
 -- French Polynesia    37    0    0
 -- Togo    36    2    10
--- Djibouti    33    0    0
 -- Guam    33    1    0
 -- Bermuda    32    0    10
 -- Mali    31    3    0
@@ -3116,7 +3116,7 @@
 -- Saint Martin (French part)    22    1    2
 -- Congo    22    2    0
 -- Bahamas    21    1    1
--- Tanzania, United Republic of    20    1    1
+-- Tanzania, United Republic of    20    1    2
 -- Maldives    19    0    13
 -- Eritrea    18    0    0
 -- New Caledonia    18    0    1
