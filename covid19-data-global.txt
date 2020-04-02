@@ -1,4 +1,4 @@
--- United States of America    231983    5423    8833
+-- United States of America    235433    5606    8833
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -148,7 +148,7 @@
 ------ Alpine(06003)    1    0    0
 ------ Plumas(06063)    1    0    0
 ------ Tehama(06103)    1    0    0
----- NJ    22255    355    1
+---- NJ    25590    537    1
 ------ Bergen(34003)    3494    75    0
 ------ Essex(34013)    2262    69    0
 ------ Hudson(34017)    1910    29    0
@@ -558,7 +558,7 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4616    71    278
+---- TX    4687    71    278
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    847    5    0
@@ -1268,7 +1268,7 @@
 ------ Oscoda(26135)    2    0    0
 ------ Schoolcraft(26153)    1    0    0
 ------ Mackinac(26097)    1    0    0
----- MN    742    17    342
+---- MN    742    18    342
 ------ Hennepin(27053)    235    5    0
 ------ Ramsey(27123)    67    2    0
 ------ Dakota(27037)    52    0    0
@@ -1427,21 +1427,21 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1161    28    0
------- Jefferson(01073)    305    4    0
------- Shelby(01117)    94    3    0
------- Lee(01081)    86    2    0
------- Tuscaloosa(01125)    30    0    0
+---- AL    1179    28    0
+------ Jefferson(01073)    310    4    0
+------ Shelby(01117)    95    3    0
+------ Lee(01081)    88    2    0
+------ Tuscaloosa(01125)    32    0    0
 ------ Elmore(01051)    17    0    0
------- Montgomery(01101)    39    1    0
+------ Montgomery(01101)    40    1    0
 ------ Baldwin(01003)    24    1    0
 ------ Limestone(01083)    25    0    0
 ------ Madison(01089)    110    1    0
------- Calhoun(01015)    11    0    0
+------ Calhoun(01015)    12    0    0
 ------ St Clair(01115)    19    0    0
------- Chambers(01017)    59    4    0
+------ Chambers(01017)    62    4    0
 ------ Talladega(01121)    8    0    0
------- Walker(01127)    32    0    0
+------ Walker(01127)    33    0    0
 ------ Mobile(01097)    61    3    0
 ------ Jackson(01071)    8    1    0
 ------ Lamar(01075)    1    0    0
@@ -1451,7 +1451,7 @@
 ------ Marion(01093)    11    2    0
 ------ Franklin(01059)    3    0    0
 ------ Houston(01069)    10    0    0
------- Tallapoosa(01123)    14    1    0
+------ Tallapoosa(01123)    15    1    0
 ------ Morgan(01103)    20    1    0
 ------ Autauga(01001)    10    0    0
 ------ Pickens(01107)    7    0    0
@@ -1461,7 +1461,7 @@
 ------ Blount(01009)    6    0    0
 ------ Butler(01013)    1    0    0
 ------ Cherokee(01019)    3    0    0
------- Chilton(01021)    13    0    0
+------ Chilton(01021)    14    0    0
 ------ Clay(01027)    4    0    0
 ------ Cleburne(01029)    6    0    0
 ------ Colbert(01033)    4    0    0
@@ -1593,7 +1593,7 @@
 ------ Vermillion(18165)    1    0    0
 ------ Blackford(18009)    1    0    0
 ------ Spencer(18147)    1    0    0
----- IA    613    11    3
+---- IA    614    11    3
 ------ Johnson(19103)    80    0    0
 ------ Dallas(19049)    31    0    0
 ------ Allamakee(19005)    15    1    0
@@ -1737,7 +1737,7 @@
 ------ Cheshire(33005)    4    0    0
 ------ Strafford(33017)    28    0    0
 ------ Sullivan(33019)    4    0    0
----- NE    222    5    0
+---- NE    246    5    0
 ------ Douglas(31055)    102    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
@@ -2034,7 +2034,7 @@
 ------ Chautauqua(20019)    1    0    0
 ------ Labette(20099)    1    0    0
 ------ Pratt(20151)    1    0    0
----- VT    321    16    0
+---- VT    322    16    0
 ------ Chittenden(50007)    164    4    0
 ------ Bennington(50003)    18    0    0
 ------ Windsor(50027)    18    1    0
@@ -2347,7 +2347,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- Germany    83459    1048    21400
+-- Germany    83875    1066    21400
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2827,7 +2827,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    339    5    45
--- France    57807    4043    11055
+-- France    59105    4503    12428
 ---- France    7652    148    12
 ---- St Martin    22    1    2
 ---- Saint Barthelemy    6    0    1
@@ -2886,7 +2886,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    34123    2926    191
+-- United Kingdom of Great Britain and Northern Ireland    34165    2926    191
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2899,7 +2899,7 @@
 -- Switzerland    18475    522    4013
 -- Turkey    18135    356    415
 -- Belgium    15348    1011    2495
--- Netherlands    14779    1341    260
+-- Netherlands    14784    1341    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    11076    158    1749
@@ -2940,7 +2940,7 @@
 -- Israel    8385    34    289
 -- Brazil    7031    252    127
 -- Sweden    5466    282    103
--- Australia    5137    25    520
+-- Australia    5139    25    520
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
@@ -2949,7 +2949,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5125    50    32
+-- Norway    5128    50    32
 -- Ireland    3849    98    5
 -- Czechia    3805    44    67
 -- Russian Federation    3548    30    235
@@ -3015,10 +3015,10 @@
 -- Indonesia    1790    170    112
 -- Greece    1544    53    61
 -- Finland    1518    19    300
--- South Africa    1380    5    50
+-- South Africa    1462    5    50
+-- Peru    1414    47    394
 -- Dominican Republic    1380    60    16
 -- Mexico    1378    37    35
--- Peru    1323    47    394
 -- Iceland    1319    5    284
 -- Panama    1317    32    9
 -- Serbia    1171    31    42
@@ -3030,17 +3030,17 @@
 -- Algeria    986    63    65
 -- Slovenia    897    17    70
 -- Estonia    858    11    45
+-- Egypt    850    52    179
 -- Qatar    835    2    71
 -- United Arab Emirates    814    8    61
 -- Ukraine    804    20    13
 -- Hong Kong    802    4    154
 -- New Zealand    797    1    92
--- Egypt    779    52    179
 -- Iraq    772    54    202
 -- Morocco    691    44    30
 -- Armenia    663    5    33
 -- Lithuania    649    9    7
--- Bahrain    635    4    341
+-- Bahrain    643    4    381
 -- Hungary    585    21    42
 -- Bosnia and Herzegovina    532    16    20
 -- Moldova, Republic of    505    6    23
@@ -3048,9 +3048,9 @@
 -- Latvia    458    0    1
 -- Bulgaria    457    10    25
 -- Tunisia    455    14    5
+-- Kazakhstan    435    3    27
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
--- Kazakhstan    423    3    27
 -- Azerbaijan    400    5    26
 -- North Macedonia    384    11    17
 -- Costa Rica    375    2    4
@@ -3115,9 +3115,9 @@
 -- Djibouti    40    0    0
 -- Zambia    39    1    0
 -- Puerto Rico    39    2    1
+-- Togo    39    2    17
 -- French Polynesia    37    0    0
 -- Mali    36    3    0
--- Togo    36    2    10
 -- Guam    33    1    0
 -- Bermuda    32    0    10
 -- Ethiopia    29    0    4
