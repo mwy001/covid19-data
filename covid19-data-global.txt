@@ -1,4 +1,4 @@
--- United States of America    239626    5759    8861
+-- United States of America    240444    5783    8861
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -96,22 +96,22 @@
 ------ Okanogan(53047)    3    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    10030    216    111
+---- CA    10695    236    111
 ------ Santa Clara(06085)    956    32    0
------- Los Angeles(06037)    3528    66    0
+------ Los Angeles(06037)    3528    80    0
 ------ San Mateo(06081)    453    10    0
 ------ San Diego(06073)    849    15    0
 ------ San Francisco(06075)    450    7    0
------- Sacramento(06067)    314    9    0
+------ Sacramento(06067)    341    9    0
 ------ Contra Costa(06013)    250    3    0
------- Orange(06059)    606    10    0
------- Alameda(06001)    359    8    0
+------ Orange(06059)    656    13    0
+------ Alameda(06001)    396    9    0
 ------ Riverside(06065)    429    13    40
------- San Joaquin(06077)    161    8    0
------- Santa Cruz(06087)    54    1    0
+------ San Joaquin(06077)    173    9    0
+------ Santa Cruz(06087)    57    1    0
 ------ Marin(06041)    108    6    0
 ------ Ventura(06111)    160    5    0
------- Placer(06061)    78    2    0
+------ Placer(06061)    90    2    0
 ------ Solano(06095)    54    0    0
 ------ San Luis Obispo(06079)    83    0    24
 ------ Sonoma(06097)    91    2    13
@@ -127,7 +127,7 @@
 ------ Santa Barbara(06083)    111    1    23
 ------ Amador(06005)    3    0    0
 ------ Humboldt(06023)    28    0    1
------- Kern(06029)    126    1    0
+------ Kern(06029)    139    3    0
 ------ Madera(06039)    25    1    3
 ------ Nevada(06057)    26    0    0
 ------ Shasta(06089)    7    1    0
@@ -985,7 +985,7 @@
 ------ Ross(39141)    2    0    0
 ------ Perry(39127)    2    0    0
 ------ Morrow(39117)    1    0    0
----- OR    736    19    0
+---- OR    826    21    0
 ------ Washington(41067)    189    3    0
 ------ Linn(41043)    37    2    0
 ------ Clackamas(41005)    56    3    0
@@ -2055,10 +2055,10 @@
 ------ Lamoille(50015)    13    0    0
 ------ Caledonia(50005)    3    0    0
 ------ Orleans(50019)    7    0    0
----- DE    368    11    49
------- New Castle(10003)    226    6    0
------- Sussex(10005)    101    3    0
------- Kent(10001)    41    3    0
+---- DE    393    12    49
+------ New Castle(10003)    245    7    0
+------ Sussex(10005)    105    3    0
+------ Kent(10001)    43    3    0
 ---- MO    1834    22    28
 ------ Greene(29077)    54    6    7
 ------ Cass(29037)    21    1    0
@@ -2279,36 +2279,37 @@
 ------ Juneau(02110)    9    0    0
 ------ Kenai Peninsula(02122)    7    0    0
 ------ Matanuska-Susitna(02170)    2    0    0
----- WV    191    2    0
------- Jefferson(54037)    9    0    0
------- Mercer(54055)    2    0    0
------- Tucker(54093)    2    0    0
------- Monongalia(54061)    32    0    0
+---- WV    217    2    0
+------ Jefferson(54037)    12    0    0
+------ Mercer(54055)    3    0    0
+------ Tucker(54093)    3    0    0
+------ Monongalia(54061)    35    0    0
 ------ Jackson(54035)    11    0    0
------- Kanawha(54039)    37    0    0
+------ Kanawha(54039)    39    0    0
 ------ Marshall(54051)    68    0    0
 ------ Putnam(54079)    5    0    0
------- Harrison(54033)    14    0    0
------- Berkeley(54003)    21    0    0
+------ Harrison(54033)    17    0    0
+------ Berkeley(54003)    27    0    0
 ------ Preston(54077)    3    0    0
------- Wood(54107)    2    0    0
+------ Wood(54107)    3    0    0
 ------ Hancock(54029)    6    0    0
------- Logan(54045)    3    0    0
------- Marion(54049)    8    1    0
+------ Logan(54045)    4    0    0
+------ Marion(54049)    10    1    0
 ------ Ohio(54069)    11    0    0
 ------ Raleigh(54081)    4    0    0
 ------ Mason(54053)    3    0    0
 ------ Upshur(54097)    1    0    0
 ------ Greenbrier(54025)    3    0    0
 ------ Pleasants(54073)    1    0    0
------- Cabell(54011)    1    0    0
+------ Cabell(54011)    3    0    0
 ------ Morgan(54065)    1    0    0
 ------ Wetzel(54103)    2    0    0
 ------ Wirt(54105)    1    0    0
 ------ Roane(54087)    2    0    0
------- Randolph(54083)    1    0    0
------- Hardy(54031)    1    0    0
+------ Randolph(54083)    2    0    0
+------ Hardy(54031)    2    0    0
 ------ Barbour(54001)    1    0    0
+------ Pendleton(54071)    1    0    0
 ---- GU    82    3    7
 ------ Guam(66010)    77    3    7
 ---- PR    316    12    0
@@ -2336,7 +2337,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Spain    110409    10106    26743
+-- Spain    112065    10348    26743
 ---- Andalusia    5818    248    160
 ---- Aragon    2272    138    204
 ---- Balearic Islands    1069    42    111
@@ -2357,7 +2358,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- Germany    84788    1107    21400
+-- Germany    84788    1107    22440
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2951,7 +2952,7 @@
 -- Brazil    7910    299    127
 -- Sweden    5568    308    103
 -- Norway    5142    50    32
--- Australia    5139    27    520
+-- Australia    5139    27    585
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
@@ -3017,7 +3018,7 @@
 ---- Yamagata    3    0    0
 -- Romania    2738    115    267
 -- Philippines    2633    107    51
--- India    2536    72    189
+-- India    2536    72    191
 -- Luxembourg    2487    30    80
 -- Pakistan    2386    34    107
 -- Saudi Arabia    1885    21    328
@@ -3128,8 +3129,8 @@
 -- Togo    39    2    17
 -- French Polynesia    37    0    0
 -- Mali    36    3    0
+-- Bermuda    35    0    11
 -- Guam    33    1    0
--- Bermuda    32    0    10
 -- Ethiopia    29    0    4
 -- Guyana    23    4    0
 -- Eritrea    22    0    0
