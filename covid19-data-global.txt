@@ -1,4 +1,4 @@
--- United States of America    216761    5149    8672
+-- United States of America    216761    5149    8677
 ---- NY    84046    2220    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -356,7 +356,7 @@
 ------ Lake(08065)    2    0    0
 ------ Phillips(08095)    1    0    0
 ------ Saguache(08109)    1    0    0
----- IL    6980    147    2
+---- IL    6980    147    7
 ------ Cook(17031)    5152    95    2
 ------ Lake(17097)    477    8    0
 ------ Sangamon(17167)    17    2    0
@@ -815,7 +815,7 @@
 ------ Oconto(55083)    1    0    0
 ------ Crawford(55023)    1    0    0
 ------ Menominee(55078)    1    0    0
----- TN    2933    24    170
+---- TN    2933    25    170
 ------ Davidson(47037)    673    4    90
 ------ Williamson(47187)    148    0    0
 ------ Shelby(47157)    496    1    0
@@ -1326,7 +1326,7 @@
 ------ Freeborn(27047)    2    0    0
 ------ Crow Wing(27035)    1    0    0
 ------ Yellow Medicine(27173)    1    0    0
----- MD    1986    31    53
+---- MD    1986    33    53
 ------ Montgomery(24031)    447    4    3
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    289    2    0
@@ -1782,7 +1782,7 @@
 ------ Newport(44005)    31    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    55    0    0
----- AR    624    10    42
+---- AR    625    10    42
 ------ Jefferson(05069)    49    0    0
 ------ Pulaski(05119)    113    4    0
 ------ Cleburne(05023)    63    3    0
@@ -1800,7 +1800,7 @@
 ------ Boone(05009)    3    0    0
 ------ Clark(05019)    26    0    0
 ------ Craighead(05031)    13    0    0
------- Crittenden(05035)    31    0    0
+------ Crittenden(05035)    32    0    0
 ------ Greene(05055)    4    0    0
 ------ Independence(05063)    4    0    0
 ------ Poinsett(05111)    5    0    0
@@ -1838,6 +1838,7 @@
 ------ Scott(05127)    1    0    0
 ------ Lee(05077)    1    0    0
 ------ Carroll(05015)    1    0    0
+------ Sharp(05135)    1    0    0
 ---- MS    1073    22    0
 ------ Hinds(28049)    109    0    0
 ------ Leflore(28083)    20    1    0
@@ -1981,7 +1982,7 @@
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
 ------ Greer(40055)    2    1    0
----- KS    495    10    0
+---- KS    495    12    0
 ------ Johnson(20091)    143    3    0
 ------ Wyandotte(20209)    93    4    0
 ------ Butler(20015)    5    0    0
@@ -2876,7 +2877,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    29872    2357    179
+-- United Kingdom of Great Britain and Northern Ireland    33718    2921    179
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2928,7 +2929,7 @@
 ---- Nunavut    1    0    0
 -- Portugal    9034    209    68
 -- Israel    8385    33    289
--- Brazil    6932    246    127
+-- Brazil    6932    247    127
 -- Sweden    5466    282    103
 -- Australia    5137    25    520
 ---- New South Wales    2298    10    4
@@ -2939,7 +2940,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5071    46    13
+-- Norway    5083    47    13
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
 -- Denmark    3542    123    1089
@@ -3000,9 +3001,9 @@
 -- Luxembourg    2319    29    80
 -- Pakistan    2291    31    107
 -- India    2032    58    150
+-- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
--- Saudi Arabia    1720    21    328
 -- Finland    1518    19    300
 -- Greece    1415    52    52
 -- South Africa    1380    5    50
@@ -3011,9 +3012,9 @@
 -- Panama    1317    32    9
 -- Dominican Republic    1284    57    9
 -- Iceland    1220    5    236
--- Argentina    1133    33    248
+-- Serbia    1171    31    42
+-- Argentina    1133    34    248
 -- Colombia    1065    17    39
--- Serbia    1060    28    42
 -- Croatia    1011    7    88
 -- Singapore    1000    4    245
 ---- Central Singapore Community Development Council    345    0    124
@@ -3094,6 +3095,7 @@
 -- Bangladesh    56    6    25
 -- Aruba    55    0    1
 -- Monaco    55    1    2
+-- Guinea    52    0    0
 -- French Guiana    51    0    15
 -- Guatemala    46    1    12
 -- Barbados    45    0    0
@@ -3109,7 +3111,6 @@
 -- Guam    33    1    0
 -- Bermuda    32    0    10
 -- Mali    31    3    0
--- Guinea    30    0    0
 -- Ethiopia    29    0    4
 -- Guyana    23    4    0
 -- Cayman Islands    22    1    0
