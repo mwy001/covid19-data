@@ -1,4 +1,4 @@
--- United States of America    235491    5607    8849
+-- United States of America    235954    5632    8850
 ---- NY    92381    2373    6409
 ------ Westchester(36119)    10683    25    0
 ------ Nassau(36059)    9554    76    0
@@ -61,7 +61,7 @@
 ------ Schuyler(36097)    2    0    0
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    2    0    0
----- WA    5991    254    567
+---- WA    5992    256    568
 ------ King(53033)    2496    164    0
 ------ Snohomish(53061)    1304    40    562
 ------ Pierce(53053)    423    7    0
@@ -414,7 +414,7 @@
 ------ Ogle(17141)    1    0    0
 ------ Vermilion(17183)    1    0    0
 ------ Massac(17127)    1    0    0
----- GA    5347    163    0
+---- GA    5348    163    0
 ------ Fulton(13121)    638    20    0
 ------ Cobb(13067)    304    15    0
 ------ Bartow(13015)    147    4    0
@@ -558,7 +558,7 @@
 ------ Walker(13295)    2    0    0
 ------ Putnam(13237)    1    0    0
 ------ Union(13291)    1    0    0
----- TX    4720    72    294
+---- TX    4823    74    294
 ------ Dallas(48113)    731    15    0
 ------ Travis(48453)    305    3    0
 ------ Harris(48201)    847    5    0
@@ -910,7 +910,7 @@
 ------ Tolland(09013)    61    7    0
 ------ Windham(09015)    19    0    0
 ------ New London(09011)    29    1    0
----- OH    2547    65    0
+---- OH    2901    81    0
 ------ Cuyahoga(39035)    589    9    0
 ------ Butler(39017)    41    0    0
 ------ Franklin(39049)    391    4    0
@@ -1427,23 +1427,23 @@
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    4    0    0
 ------ Allendale(45005)    1    0    0
----- AL    1179    28    0
------- Jefferson(01073)    310    4    0
+---- AL    1189    28    0
+------ Jefferson(01073)    311    4    0
 ------ Shelby(01117)    95    3    0
 ------ Lee(01081)    88    2    0
 ------ Tuscaloosa(01125)    32    0    0
 ------ Elmore(01051)    17    0    0
 ------ Montgomery(01101)    40    1    0
 ------ Baldwin(01003)    24    1    0
------- Limestone(01083)    25    0    0
------- Madison(01089)    110    1    0
+------ Limestone(01083)    26    0    0
+------ Madison(01089)    111    1    0
 ------ Calhoun(01015)    12    0    0
 ------ St Clair(01115)    19    0    0
------- Chambers(01017)    62    4    0
+------ Chambers(01017)    64    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    33    0    0
 ------ Mobile(01097)    61    3    0
------- Jackson(01071)    8    1    0
+------ Jackson(01071)    9    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    13    1    0
 ------ Washington(01129)    4    1    0
@@ -1451,7 +1451,7 @@
 ------ Marion(01093)    11    2    0
 ------ Franklin(01059)    3    0    0
 ------ Houston(01069)    10    0    0
------- Tallapoosa(01123)    15    1    0
+------ Tallapoosa(01123)    16    1    0
 ------ Morgan(01103)    20    1    0
 ------ Autauga(01001)    10    0    0
 ------ Pickens(01107)    7    0    0
@@ -1462,7 +1462,7 @@
 ------ Butler(01013)    1    0    0
 ------ Cherokee(01019)    3    0    0
 ------ Chilton(01021)    14    0    0
------- Clay(01027)    4    0    0
+------ Clay(01027)    5    0    0
 ------ Cleburne(01029)    6    0    0
 ------ Colbert(01033)    4    0    0
 ------ Lawrence(01079)    3    0    0
@@ -1483,7 +1483,7 @@
 ------ Randolph(01111)    6    0    0
 ------ Escambia(01053)    2    0    0
 ------ Monroe(01099)    3    0    0
------- Macon(01087)    2    0    0
+------ Macon(01087)    3    0    0
 ------ Bibb(01007)    4    0    0
 ------ Hale(01065)    1    0    0
 ------ Fayette(01057)    1    0    0
@@ -1925,7 +1925,7 @@
 ------ Tishomingo(28141)    1    0    0
 ------ Jasper(28061)    2    0    0
 ------ Wayne(28153)    1    0    0
----- AZ    1598    29    3
+---- AZ    1598    32    3
 ------ Maricopa(04013)    961    11    1
 ------ Pinal(04021)    69    0    1
 ------ Pima(04019)    237    10    1
@@ -1990,7 +1990,7 @@
 ------ Cotton(40033)    1    0    0
 ------ Love(40085)    1    0    0
 ------ Greer(40055)    2    1    0
----- KS    507    12    0
+---- KS    507    13    0
 ------ Johnson(20091)    143    3    0
 ------ Wyandotte(20209)    93    4    0
 ------ Butler(20015)    5    0    0
@@ -2034,7 +2034,7 @@
 ------ Chautauqua(20019)    1    0    0
 ------ Labette(20099)    1    0    0
 ------ Pratt(20151)    1    0    0
----- VT    347    16    0
+---- VT    347    17    0
 ------ Chittenden(50007)    164    4    0
 ------ Bennington(50003)    18    0    0
 ------ Windsor(50027)    18    1    0
@@ -2066,7 +2066,7 @@
 ------ Scott(29201)    6    0    0
 ------ Dunklin(29069)    6    1    0
 ------ Jasper(29097)    7    1    0
------- Adair(29001)    3    0    0
+------ Adair(29001)    6    0    0
 ------ Bates(29013)    2    0    0
 ------ Johnson(29101)    19    1    0
 ------ St Francois(29187)    6    0    0
@@ -2347,7 +2347,7 @@
 ---- Melilla    54    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    34    1    0
--- Germany    84284    1089    21400
+-- Germany    84415    1090    21400
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2938,9 +2938,9 @@
 ---- 未确定地区    242    3    1
 -- Portugal    9034    209    68
 -- Israel    8385    34    289
--- Brazil    7031    252    127
+-- Brazil    7910    299    127
 -- Sweden    5466    282    103
--- Australia    5139    25    520
+-- Australia    5139    27    520
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
@@ -3007,9 +3007,9 @@
 -- Romania    2738    114    267
 -- Poland    2692    51    56
 -- Philippines    2633    107    51
+-- India    2536    72    189
 -- Luxembourg    2487    30    80
 -- Pakistan    2386    33    107
--- India    2341    68    177
 -- Saudi Arabia    1885    21    328
 -- Thailand    1875    15    505
 -- Indonesia    1790    170    112
@@ -3022,17 +3022,17 @@
 -- Iceland    1319    5    284
 -- Panama    1317    32    9
 -- Serbia    1171    31    42
+-- Colombia    1161    19    55
 -- Argentina    1133    34    256
--- Colombia    1065    17    39
 -- Singapore    1049    4    266
 ---- Central Singapore Community Development Council    345    0    124
+-- United Arab Emirates    1024    8    61
 -- Croatia    1011    7    88
 -- Algeria    986    86    65
+-- Qatar    949    3    72
 -- Slovenia    897    17    70
 -- Estonia    858    11    45
 -- Egypt    850    52    179
--- Qatar    835    2    71
--- United Arab Emirates    814    8    61
 -- Ukraine    804    20    13
 -- Hong Kong    802    4    154
 -- New Zealand    797    1    92
@@ -3045,7 +3045,7 @@
 -- Bosnia and Herzegovina    532    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    46
--- Latvia    458    0    1
+-- Latvia    458    0    31
 -- Bulgaria    457    10    25
 -- Tunisia    455    14    5
 -- Kazakhstan    435    3    27
@@ -3070,10 +3070,10 @@
 -- Oman    231    1    57
 -- Viet Nam    227    0    75
 -- Honduras    219    14    3
+-- Uzbekistan    205    2    25
 -- Ghana    204    5    31
 -- Malta    196    0    2
 -- Senegal    195    1    55
--- Uzbekistan    190    2    25
 -- Côte d'Ivoire    190    1    9
 -- Faroe Islands    177    0    81
 -- Nigeria    174    2    9
@@ -3151,13 +3151,13 @@
 -- Suriname    10    0    0
 -- Guinea-Bissau    9    0    0
 -- Eswatini    9    0    0
+-- Antigua and Barbuda    9    0    0
 -- Saint Kitts and Nevis    8    0    0
 -- Zimbabwe    8    1    0
 -- Angola    8    2    1
 -- Sudan    8    2    2
 -- Chad    7    0    0
 -- Fiji    7    0    0
--- Antigua and Barbuda    7    0    0
 -- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
 -- Liberia    6    0    0
