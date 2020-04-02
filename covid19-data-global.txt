@@ -2804,7 +2804,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    339    5    45
--- Germany    80641    986    20928
+-- Germany    81728    997    20928
 ---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    445    3    50
 ---- Free State of Bavaria    18496    268    2230
@@ -2893,7 +2893,7 @@
 -- Switzerland    18267    505    4013
 -- Turkey    15679    277    333
 -- Belgium    15348    1011    2495
--- Netherlands    14697    1339    260
+-- Netherlands    14779    1341    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    10996    158    1749
@@ -2943,7 +2943,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5083    47    13
+-- Norway    5119    47    32
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
 -- Denmark    3542    123    1172
@@ -2999,7 +2999,7 @@
 ---- Kagoshima    2    0    0
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
--- Poland    2633    45    56
+-- Poland    2692    51    56
 -- Philippines    2633    107    51
 -- Pakistan    2386    31    107
 -- Luxembourg    2319    29    80
@@ -3010,11 +3010,11 @@
 -- Finland    1518    19    300
 -- Greece    1415    52    52
 -- South Africa    1380    5    50
+-- Dominican Republic    1380    60    16
 -- Mexico    1378    37    35
 -- Peru    1323    47    394
--- Iceland    1319    5    270
+-- Iceland    1319    5    284
 -- Panama    1317    32    9
--- Dominican Republic    1284    57    9
 -- Serbia    1171    31    42
 -- Argentina    1133    34    248
 -- Colombia    1065    17    39
@@ -3030,20 +3030,20 @@
 -- Hong Kong    802    4    154
 -- New Zealand    797    1    92
 -- Egypt    779    52    179
--- Iraq    728    52    182
+-- Iraq    772    54    202
 -- Morocco    676    40    29
 -- Armenia    663    5    33
 -- Lithuania    649    9    7
 -- Bahrain    635    4    341
 -- Hungary    585    21    42
 -- Bosnia and Herzegovina    518    15    20
+-- Moldova, Republic of    505    5    23
 -- Lebanon    494    16    43
 -- Latvia    458    0    1
 -- Bulgaria    457    10    25
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
 -- Kazakhstan    423    3    27
--- Moldova, Republic of    423    5    23
 -- Tunisia    423    12    5
 -- Azerbaijan    400    5    26
 -- North Macedonia    384    11    17
@@ -3052,10 +3052,10 @@
 -- Kuwait    342    0    81
 -- Taiwan    339    5    50
 -- Cyprus    320    9    28
+-- Réunion    308    0    40
 -- Belarus    304    4    53
 -- Burkina Faso    288    16    50
 -- Cameroon    284    7    10
--- Réunion    281    0    40
 -- Jordan    278    5    36
 -- Albania    277    16    67
 -- Afghanistan    239    4    10
@@ -3064,15 +3064,15 @@
 -- Viet Nam    227    0    75
 -- Honduras    219    14    3
 -- Cuba    212    6    12
+-- Ghana    204    5    31
 -- Malta    196    0    2
--- Ghana    195    5    31
 -- Senegal    195    1    55
 -- Uzbekistan    190    2    25
 -- Côte d'Ivoire    190    1    9
 -- Faroe Islands    177    0    81
 -- Nigeria    174    2    9
 -- Mauritius    161    7    0
--- Palestine    155    1    18
+-- Palestine    160    1    18
 -- Sri Lanka    151    3    21
 -- Venezuela, Bolivarian Republic of    144    3    43
 -- Montenegro    140    2    0
@@ -3088,8 +3088,8 @@
 -- Kenya    110    3    4
 -- Cambodia    110    0    34
 -- Trinidad and Tobago    90    5    1
+-- Gibraltar    88    0    46
 -- Rwanda    82    0    0
--- Gibraltar    81    0    34
 -- Paraguay    77    3    2
 -- Isle of Man    75    1    0
 -- Niger    74    5    0
@@ -3127,6 +3127,7 @@
 -- Gabon    18    1    0
 -- Virgin Islands, U.S.    17    0    0
 -- Myanmar    16    1    0
+-- Syrian Arab Republic    16    2    0
 -- Haiti    16    0    1
 -- Equatorial Guinea    15    0    1
 -- Namibia    14    0    2
@@ -3137,7 +3138,6 @@
 -- Curaçao    11    1    3
 -- Libya    10    0    1
 -- Lao People's Democratic Republic    10    0    0
--- Syrian Arab Republic    10    2    0
 -- Grenada    10    0    0
 -- Mozambique    10    0    0
 -- Greenland    10    0    2
