@@ -2892,7 +2892,7 @@
 -- Netherlands    13696    1175    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    10877    158    1749
+-- Austria    10892    158    1749
 -- Korea, Republic of    9976    169    5828
 ---- Busan    122    3    87
 ---- Chungcheongbuk-do    44    0    23
@@ -2942,7 +2942,7 @@
 -- Norway    4898    45    13
 -- Czechia    3604    40    61
 -- Russian Federation    3548    30    235
--- Denmark    3542    104    977
+-- Denmark    3542    123    1089
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    3447    85    5
@@ -3036,12 +3036,12 @@
 -- Lebanon    494    16    43
 -- Latvia    458    0    1
 -- Bulgaria    449    10    25
+-- Andorra    428    15    10
 -- Slovakia    426    1    7
 -- Moldova, Republic of    423    5    23
 -- Tunisia    423    12    5
 -- Kazakhstan    402    3    27
 -- Azerbaijan    400    5    26
--- Andorra    390    14    10
 -- Costa Rica    375    2    4
 -- North Macedonia    354    11    17
 -- Uruguay    350    2    62
@@ -3056,7 +3056,7 @@
 -- Afghanistan    239    4    5
 -- San Marino    236    28    13
 -- Oman    231    1    57
--- Viet Nam    222    0    75
+-- Viet Nam    227    0    75
 -- Honduras    219    14    3
 -- Cuba    212    6    12
 -- Malta    196    0    2
@@ -3101,9 +3101,9 @@
 -- Jamaica    44    3    2
 -- El Salvador    41    2    0
 -- Macao    41    0    10
+-- Zambia    39    1    0
 -- Puerto Rico    39    2    1
 -- French Polynesia    37    0    0
--- Zambia    36    0    0
 -- Togo    36    2    10
 -- Djibouti    33    0    0
 -- Guam    33    1    0
@@ -3154,11 +3154,11 @@
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
 -- Holy See    6    0    0
+-- Nepal    6    0    1
 -- Nicaragua    5    1    0
 -- Montserrat    5    0    0
 -- Somalia    5    0    1
 -- Bhutan    5    0    1
--- Nepal    5    0    1
 -- Botswana    4    1    0
 -- Gambia    4    1    2
 -- Virgin Islands, British    3    0    0
