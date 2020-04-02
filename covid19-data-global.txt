@@ -2316,7 +2316,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Spain    104118    9387    22647
+-- Spain    110238    10003    22647
 ---- Andalusia    5818    248    160
 ---- Aragon    2272    138    204
 ---- Balearic Islands    1069    42    111
@@ -2800,23 +2800,23 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    329    5    39
--- Germany    77981    931    19175
----- Saxony    2084    13    33
+-- Germany    77981    931    20928
+---- Saxony    2245    18    109
 ---- Mecklenburg-Vorpommern    412    3    42
----- Free State of Bavaria    15505    191    900
----- Berlin    2777    15    1055
+---- Free State of Bavaria    18496    268    2230
+---- Berlin    2993    19    1369
 ---- Brandenburg    945    5    77
 ---- Thuringia    840    6    129
----- Schleswig-Holstein    1135    9    46
----- Lower Saxony    4348    43    724
+---- Schleswig-Holstein    1343    12    73
+---- Lower Saxony    4717    47    1040
 ---- Bremen    315    5    71
----- Hamburg    2290    9    750
----- Rhineland-Palatinate    2839    22    164
----- North Rhine-Westphalia    15241    148    3381
----- Hesse    3301    18    353
----- Baden-Württemberg    13313    196    1368
+---- Hamburg    2437    14    860
+---- Rhineland-Palatinate    3132    26    576
+---- North Rhine-Westphalia    17254    197    5407
+---- Hesse    3707    27    555
+---- Baden-Württemberg    14662    241    2363
 ---- Saxony-Anhalt    752    7    22
----- Saarland    961    12    61
+---- Saarland    1073    15    68
 -- France    57763    4043    11055
 ---- France    7652    148    12
 ---- St Martin    22    1    2
@@ -2880,10 +2880,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    21008    1651    0
----- Northern Ireland    586    28    0
----- Wales    1563    69    0
----- Scotland    1993    60    0
+---- England    24638    2166    0
+---- Northern Ireland    689    28    0
+---- Wales    1837    98    0
+---- Scotland    2310    60    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    17781    488    2967
@@ -2949,12 +2949,9 @@
 -- Malaysia    3116    50    767
 -- Chile    3031    16    234
 -- Ecuador    2758    98    58
--- Poland    2633    45    56
--- Philippines    2633    107    51
--- Romania    2460    94    252
--- Japan    2384    66    472
----- Hokkaido    181    8    100
----- kochi    20    0    0
+-- Japan    2634    71    472
+---- Hokkaido    183    8    100
+---- kochi    21    0    0
 ---- Miyagi    11    0    0
 ---- Niigata    32    0    0
 ---- Gifu    31    0    0
@@ -2964,12 +2961,12 @@
 ---- Saitama    104    4    0
 ---- Ishikawa    15    0    0
 ---- Fukuoka    78    0    0
----- Tokyo    682    15    0
+---- Tokyo    684    15    0
 ---- Wakayama    21    1    2
----- Kyoto    76    0    16
+---- Kyoto    77    0    16
 ---- Osaka    278    2    1
 ---- Chiba    185    1    0
----- Kanagawa    170    6    1
+---- Kanagawa    177    6    1
 ---- Shizuoka    13    0    0
 ---- Aichi    183    19    2
 ---- Nara    15    0    1
@@ -2995,8 +2992,11 @@
 ---- Okayama    7    0    0
 ---- Aomori    8    0    0
 ---- Kagoshima    2    0    0
----- Toyama    7    0    0
+---- Toyama    8    0    0
 ---- Yamagata    3    0    0
+-- Poland    2633    45    56
+-- Philippines    2633    107    51
+-- Romania    2460    94    252
 -- Luxembourg    2319    29    80
 -- Pakistan    2291    31    107
 -- India    2032    58    148
@@ -3017,9 +3017,9 @@
 -- Singapore    1000    4    245
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    963    6    73
+-- Slovenia    897    16    10
 -- Estonia    858    11    45
 -- Algeria    847    58    65
--- Slovenia    841    15    10
 -- Qatar    835    2    71
 -- United Arab Emirates    814    8    61
 -- Ukraine    804    20    13
@@ -3033,7 +3033,7 @@
 -- Hungary    585    21    42
 -- Bahrain    569    4    337
 -- Bosnia and Herzegovina    512    15    20
--- Lebanon    479    15    43
+-- Lebanon    494    16    43
 -- Latvia    458    0    1
 -- Bulgaria    449    10    25
 -- Moldova, Republic of    423    5    23
@@ -3045,9 +3045,9 @@
 -- Costa Rica    375    2    4
 -- North Macedonia    354    11    17
 -- Uruguay    350    2    62
+-- Kuwait    342    0    81
 -- Taiwan    339    5    50
 -- Cyprus    320    9    28
--- Kuwait    317    0    81
 -- Burkina Faso    282    16    46
 -- Réunion    281    0    40
 -- Jordan    278    5    36
@@ -3080,8 +3080,8 @@
 -- Congo, Democratic Republic of the    123    11    3
 -- Bolivia, Plurinational State of    123    7    1
 -- Kyrgyzstan    116    0    5
+-- Mayotte    116    1    10
 -- Cambodia    110    0    34
--- Mayotte    101    1    10
 -- Trinidad and Tobago    90    5    1
 -- Rwanda    82    0    0
 -- Kenya    81    1    3
