@@ -1,5 +1,5 @@
--- United States of America    244656    5926    9090
----- NY    92720    2374    6507
+-- United States of America    244675    5932    9090
+---- NY    92739    2382    6507
 ------ Westchester(36119)    11567    64    0
 ------ Nassau(36059)    10587    95    0
 ------ Suffolk(36103)    8746    69    0
@@ -8,22 +8,22 @@
 ------ Dutchess(36027)    667    5    0
 ------ Orange(36071)    2084    19    0
 ------ Monroe(36055)    420    9    76
------- Erie(36029)    734    12    81
+------ Erie(36029)    734    19    81
 ------ Saratoga(36091)    132    1    0
 ------ Ulster(36111)    240    3    0
 ------ Schenectady(36093)    101    1    0
 ------ Tompkins(36109)    80    0    1
------- Allegany(36003)    12    1    0
+------ Allegany(36003)    13    1    0
 ------ Greene(36039)    21    0    0
 ------ Onondaga(36067)    301    2    55
 ------ Putnam(36079)    216    0    0
 ------ Broome(36007)    46    4    5
------- Clinton(36019)    25    0    5
------- Delaware(36025)    22    0    1
+------ Clinton(36019)    26    0    5
+------ Delaware(36025)    23    1    1
 ------ Essex(36031)    7    0    0
------- Genesee(36037)    16    1    0
+------ Genesee(36037)    17    1    0
 ------ Herkimer(36043)    14    2    0
------- Montgomery(36057)    8    0    0
+------ Montgomery(36057)    9    0    0
 ------ Oneida(36065)    61    1    0
 ------ Ontario(36069)    26    0    0
 ------ Rensselaer(36083)    60    0    0
@@ -43,16 +43,16 @@
 ------ Steuben(36101)    43    0    0
 ------ Columbia(36021)    51    2    18
 ------ Livingston(36051)    18    1    1
------- Cortland(36023)    11    0    3
+------ Cortland(36023)    14    0    3
 ------ Queens(36081)    2715    0    0
 ------ Bronx(36005)    1411    0    0
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
------- Madison(36053)    68    2    10
+------ Madison(36053)    77    2    10
 ------ Oswego(36075)    23    0    1
 ------ Chemung(36015)    22    0    0
 ------ Otsego(36077)    21    1    0
------- Cayuga(36011)    4    0    1
+------ Cayuga(36011)    6    0    1
 ------ St Lawrence(36089)    39    0    0
 ------ Chautauqua(36013)    8    1    0
 ------ Franklin(36033)    9    0    0
@@ -834,8 +834,8 @@
 ------ Adams(55001)    1    0    0
 ------ Trempealeau(55121)    1    0    0
 ---- TN    3217    36    184
------- Davidson(47037)    785    5    90
------- Williamson(47187)    199    2    0
+------ Davidson(47037)    785    6    90
+------ Williamson(47187)    199    3    0
 ------ Shelby(47157)    638    7    0
 ------ Knox(47093)    92    1    42
 ------ Campbell(47013)    4    0    0
@@ -843,7 +843,7 @@
 ------ Jefferson(47089)    6    0    0
 ------ Rutherford(47149)    113    1    0
 ------ Sevier(47155)    10    0    0
------- Sullivan(47163)    17    0    0
+------ Sullivan(47163)    17    1    0
 ------ Sumner(47165)    268    11    0
 ------ Cheatham(47021)    11    0    0
 ------ Robertson(47147)    41    0    0
@@ -904,7 +904,7 @@
 ------ Coffee(47031)    3    0    0
 ------ Haywood(47075)    2    0    0
 ------ Henry(47079)    4    0    0
------- Obion(47131)    2    0    0
+------ Obion(47131)    2    1    0
 ------ McNairy(47109)    3    0    0
 ------ Giles(47055)    3    0    0
 ------ Lawrence(47099)    2    0    0
@@ -2025,8 +2025,8 @@
 ------ Atoka(40005)    1    0    0
 ------ Kiowa(40075)    1    0    0
 ------ Woodward(40153)    1    0    0
----- KS    553    13    0
------- Johnson(20091)    161    3    0
+---- KS    553    14    0
+------ Johnson(20091)    161    4    0
 ------ Wyandotte(20209)    106    4    0
 ------ Butler(20015)    7    0    0
 ------ Douglas(20045)    31    0    0
@@ -2372,43 +2372,43 @@
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
 -- Spain    112065    10348    26743
----- Andalusia    5818    248    160
----- Aragon    2272    138    204
----- Balearic Islands    1069    42    111
----- Basque Country    6320    325    1796
----- Canary Islands    1262    55    57
----- Cantabria    1171    37    35
----- Castile and León    6211    516    1028
----- Castile-La Mancha    6424    708    296
----- Catalonia    21804    2093    5701
----- Community of Madrid    29840    3865    10827
----- Comunidad Foral de Navarra    2305    113    192
----- Extremadura    1628    133    91
----- Galicia    4039    3032    187
----- Principality of Asturias    1236    55    90
----- Región de Murcia    974    34    20
----- Rioja    1810    85    496
----- Valencian Community    5508    339    200
----- Melilla    54    1    0
+---- Andalusia    6972    343    228
+---- Aragon    2700    200    320
+---- Balearic Islands    1204    58    239
+---- Basque Country    7317    412    2490
+---- Canary Islands    1444    68    94
+---- Cantabria    1268    60    60
+---- Castile and León    7355    641    1498
+---- Castile-La Mancha    7682    854    494
+---- Catalonia    21804    2093    6917
+---- Community of Madrid    32155    4175    12400
+---- Comunidad Foral de Navarra    2682    141    278
+---- Extremadura    1837    181    139
+---- Galicia    4842    3032    333
+---- Principality of Asturias    1384    69    135
+---- Región de Murcia    1084    42    45
+---- Rioja    2083    101    641
+---- Valencian Community    6308    443    432
+---- Melilla    62    1    0
 ---- Navarre    130    0    0
----- Ceuta    34    1    0
+---- Ceuta    55    1    0
 -- Germany    84794    1107    22440
----- Saxony    2245    18    109
----- Mecklenburg-Vorpommern    445    3    50
----- Free State of Bavaria    18496    268    2230
----- Berlin    2993    19    1369
----- Brandenburg    1107    10    133
----- Thuringia    925    7    129
+---- Saxony    2411    19    109
+---- Mecklenburg-Vorpommern    468    4    50
+---- Free State of Bavaria    19153    268    2910
+---- Berlin    3223    20    1564
+---- Brandenburg    1124    12    133
+---- Thuringia    985    8    390
 ---- Schleswig-Holstein    1343    12    73
----- Lower Saxony    4717    47    1040
----- Bremen    330    6    93
----- Hamburg    2437    14    860
----- Rhineland-Palatinate    3132    26    576
----- North Rhine-Westphalia    17254    197    5407
----- Hesse    3707    27    555
----- Baden-Württemberg    14662    241    2363
----- Saxony-Anhalt    806    8    123
----- Saarland    1073    15    68
+---- Lower Saxony    5059    63    1040
+---- Bremen    341    6    109
+---- Hamburg    2557    14    1000
+---- Rhineland-Palatinate    3276    27    576
+---- North Rhine-Westphalia    17614    202    5407
+---- Hesse    3882    31    555
+---- Baden-Württemberg    15971    281    2363
+---- Saxony-Anhalt    838    11    291
+---- Saarland    1252    16    120
 -- China    82777    3327    76611
 ---- 天津    176    3    135
 ------ 境外输入    15    0    0
@@ -2935,10 +2935,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    24638    2166    0
----- Northern Ireland    689    28    0
----- Wales    1837    98    0
----- Scotland    2310    60    0
+---- England    28221    2698    0
+---- Northern Ireland    774    30    0
+---- Wales    2121    117    0
+---- Scotland    2602    76    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Switzerland    18827    536    4013
@@ -2963,22 +2963,22 @@
 ---- Nunavut    1    0    0
 -- Austria    11129    158    1749
 -- Korea, Republic of    10062    174    6021
----- Busan    122    3    87
----- Chungcheongbuk-do    44    0    23
----- Chungcheongnam-do    133    0    95
----- Daegu    6725    117    4283
+---- Busan    122    3    88
+---- Chungcheongbuk-do    45    0    25
+---- Chungcheongnam-do    134    0    97
+---- Daegu    6734    121    4434
 ---- Daejeon    36    0    18
----- Gangwon-do    39    1    23
----- Gwangju    25    0    14
----- Gyeonggi-do    516    6    181
----- Gyeongsangbuk-do    1304    41    840
----- Gyeongsangnam-do    106    0    70
----- Incheon    73    0    20
+---- Gangwon-do    41    1    23
+---- Gwangju    26    0    15
+---- Gyeonggi-do    539    6    186
+---- Gyeongsangbuk-do    1309    42    865
+---- Gyeongsangnam-do    107    0    71
+---- Incheon    74    0    21
 ---- Jeju-do    9    0    4
----- Jeollabuk-do    14    0    7
----- Jeollanam-do    14    0    3
+---- Jeollabuk-do    15    0    7
+---- Jeollanam-do    15    0    3
 ---- Sejong    46    0    12
----- Seoul    488    0    127
+---- Seoul    506    0    131
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
 -- Portugal    9034    209    68
@@ -3005,7 +3005,7 @@
 -- Ecuador    3163    120    65
 -- Malaysia    3116    50    767
 -- Poland    2946    57    56
--- Japan    2769    71    505
+-- Japan    2784    71    505
 ---- Hokkaido    183    8    100
 ---- kochi    21    0    0
 ---- Miyagi    12    0    0
@@ -3029,7 +3029,7 @@
 ---- Tokushima    3    0    0
 ---- Mie    12    0    1
 ---- Okinawa    9    0    1
----- Ehime    12    0    0
+---- Ehime    18    0    0
 ---- hyogo    169    11    0
 ---- oita    30    0    0
 ---- Yamaguchi    6    0    0
@@ -3044,7 +3044,7 @@
 ---- Nagasaki    8    0    0
 ---- Ibaraki    44    2    0
 ---- Kagawa    2    0    0
----- Fukui    30    0    0
+---- Fukui    39    0    0
 ---- Okayama    7    0    0
 ---- Aomori    9    0    0
 ---- Kagoshima    3    0    0
