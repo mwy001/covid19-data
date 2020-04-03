@@ -1,4 +1,4 @@
--- United States of America    257961    6609    9391
+-- United States of America    258250    6660    9408
 ---- NY    102863    2935    6590
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -246,67 +246,67 @@
 ------ Okeechobee(12093)    2    0    0
 ------ Hardee(12049)    1    0    0
 ------ Franklin(12037)    1    0    0
----- LA    9159    310    0
------- Orleans(22071)    3148    125    0
------- Jefferson(22051)    2178    73    0
------- Caddo(22017)    336    10    0
------- St Tammany(22103)    399    9    0
------- East Baton Rouge(22033)    325    11    0
------- Lafourche(22057)    158    4    0
------- St Charles(22089)    180    8    0
------- Terrebonne(22109)    97    1    0
------- Bossier(22015)    87    2    0
------- St Bernard(22087)    181    5    0
------- Lafayette(22055)    247    2    0
------- Ascension(22005)    201    7    0
------- Washington(22117)    50    2    0
------- West Baton Rouge(22121)    19    1    0
------- St Landry(22097)    56    1    0
------- St James(22093)    110    4    0
------- Plaquemines(22075)    68    4    0
------- Acadia(22001)    61    1    0
------- Assumption(22007)    31    0    0
------- Calcasieu(22019)    108    1    0
------- Iberia(22045)    67    1    0
------- Iberville(22047)    69    4    0
------- Livingston(22063)    33    0    0
------- Rapides(22079)    77    4    0
------- Webster(22119)    19    2    0
------- De Soto(22031)    42    1    0
------- Catahoula(22025)    5    1    0
------- Tangipahoa(22105)    42    2    0
------- St John The Baptist(22095)    274    14    0
------- Evangeline(22039)    16    0    0
------- Ouachita(22073)    94    1    0
------- Avoyelles(22009)    34    2    0
------- Beauregard(22011)    10    0    0
------- Bienville(22013)    8    1    0
------- Claiborne(22027)    11    2    0
------- St Mary(22101)    42    0    0
------- Allen(22003)    26    3    0
------- Lincoln(22061)    13    0    0
------- Natchitoches(22069)    4    0    0
+---- LA    10297    370    0
+------ Orleans(22071)    3476    148    0
+------ Jefferson(22051)    2495    85    0
+------ Caddo(22017)    377    10    0
+------ St Tammany(22103)    435    10    0
+------ East Baton Rouge(22033)    389    13    0
+------ Lafourche(22057)    185    4    0
+------ St Charles(22089)    210    11    0
+------ Terrebonne(22109)    102    2    0
+------ Bossier(22015)    95    2    0
+------ St Bernard(22087)    196    7    0
+------ Lafayette(22055)    276    2    0
+------ Ascension(22005)    222    7    0
+------ Washington(22117)    57    2    0
+------ West Baton Rouge(22121)    23    3    0
+------ St Landry(22097)    68    2    0
+------ St James(22093)    116    4    0
+------ Plaquemines(22075)    75    4    0
+------ Acadia(22001)    72    1    0
+------ Assumption(22007)    33    0    0
+------ Calcasieu(22019)    119    1    0
+------ Iberia(22045)    78    3    0
+------ Iberville(22047)    81    5    0
+------ Livingston(22063)    40    1    0
+------ Rapides(22079)    81    4    0
+------ Webster(22119)    23    2    0
+------ De Soto(22031)    46    2    0
+------ Catahoula(22025)    6    1    0
+------ Tangipahoa(22105)    55    2    0
+------ St John The Baptist(22095)    290    17    0
+------ Evangeline(22039)    18    0    0
+------ Ouachita(22073)    114    1    0
+------ Avoyelles(22009)    37    2    0
+------ Beauregard(22011)    13    0    0
+------ Bienville(22013)    9    1    0
+------ Claiborne(22027)    18    2    0
+------ St Mary(22101)    47    0    0
+------ Allen(22003)    34    3    0
+------ Lincoln(22061)    17    0    0
+------ Natchitoches(22069)    6    0    0
 ------ Richland(22083)    4    0    0
 ------ Grant(22043)    5    1    0
------- Vernon(22115)    7    0    0
------- St Martin(22099)    58    3    0
------- Union(22111)    13    1    0
+------ Vernon(22115)    8    0    0
+------ St Martin(22099)    69    3    0
+------ Union(22111)    17    1    0
 ------ Jackson(22049)    4    0    0
------- Jefferson Davis(22053)    13    0    0
------- Morehouse(22067)    4    0    0
+------ Jefferson Davis(22053)    14    0    0
+------ Morehouse(22067)    7    0    0
 ------ Winn(22127)    2    0    0
------- East Feliciana(22037)    14    0    0
+------ East Feliciana(22037)    19    0    0
 ------ La Salle(22059)    2    0    0
 ------ Madison(22065)    1    0    0
------- Pointe Coupee(22077)    12    0    0
------- Vermilion(22113)    16    1    0
+------ Pointe Coupee(22077)    13    0    0
+------ Vermilion(22113)    18    1    0
 ------ West Feliciana(22125)    20    0    0
------- Franklin(22041)    5    0    0
+------ Franklin(22041)    10    0    0
 ------ East Carroll(22035)    1    0    0
 ------ Caldwell(22021)    1    0    0
------- Red River(22081)    1    0    0
+------ Red River(22081)    2    0    0
 ------ Sabine(22085)    4    0    0
------- Concordia(22029)    8    0    0
+------ Concordia(22029)    10    1    0
 ------ St Helena(22091)    1    0    0
 ---- CO    3742    97    0
 ------ Denver(08031)    643    11    0
@@ -1147,7 +1147,7 @@
 ------ Pulaski(51155)    1    0    0
 ------ Westmoreland(51193)    1    0    0
 ------ Wise(51195)    1    0    0
----- NC    2130    22    37
+---- NC    2147    22    37
 ------ Wake(37183)    258    0    0
 ------ Durham(37063)    159    0    0
 ------ Mecklenburg(37119)    564    3    0
@@ -1314,7 +1314,7 @@
 ------ Hennepin(27053)    242    6    0
 ------ Ramsey(27123)    71    2    0
 ------ Dakota(27037)    54    0    0
------- Olmsted(27109)    76    0    0
+------ Olmsted(27109)    76    1    0
 ------ Anoka(27003)    34    0    0
 ------ Stearns(27145)    5    0    0
 ------ Benton(27009)    2    0    0
@@ -1998,7 +1998,7 @@
 ------ La Paz(04012)    2    0    0
 ------ Gila(04007)    2    0    0
 ------ Greenlee(04011)    1    0    0
----- OK    988    248    1
+---- OK    990    248    1
 ------ Oklahoma(40109)    237    73    0
 ------ Tulsa(40143)    175    41    0
 ------ Cleveland(40027)    130    39    0
@@ -2202,21 +2202,21 @@
 ------ Oahu in Honolulu(15003)    206    2    0
 ------ Niihau in Kauai(15007)    12    0    0
 ------ Kahoolawe in Maui(15009)    27    0    0
----- SD    165    2    57
------- Minnehaha(46099)    54    0    12
+---- SD    188    2    68
+------ Minnehaha(46099)    68    0    12
 ------ Beadle(46005)    21    1    13
 ------ Bon Homme(46009)    1    0    1
 ------ Charles Mix(46023)    1    0    1
 ------ Davison(46035)    3    0    2
 ------ Pennington(46103)    6    1    1
 ------ McCook(46087)    2    0    1
------- Brown(46013)    6    0    2
------- Codington(46029)    6    0    2
+------ Brown(46013)    7    0    2
+------ Codington(46029)    8    0    2
 ------ Hughes(46065)    3    0    2
 ------ Lyman(46085)    1    0    1
 ------ Brookings(46011)    2    0    2
------- Lincoln(46083)    17    0    1
------- Meade(46093)    1    0    1
+------ Lincoln(46083)    19    0    1
+------ Meade(46093)    2    0    1
 ------ Aurora(46003)    1    0    1
 ------ Faulk(46049)    1    0    1
 ------ Lawrence(46081)    9    0    3
@@ -2225,9 +2225,9 @@
 ------ Deuel(46039)    1    0    0
 ------ Hamlin(46057)    1    0    0
 ------ Hutchinson(46067)    2    0    2
------- Yankton(46135)    10    0    2
------- Roberts(46109)    2    0    0
------- Turner(46125)    2    0    0
+------ Yankton(46135)    11    0    2
+------ Roberts(46109)    3    0    0
+------ Turner(46125)    3    0    0
 ------ Clark(46025)    1    0    1
 ------ Clay(46027)    3    0    2
 ------ Fall River(46047)    1    0    1
@@ -2236,7 +2236,7 @@
 ------ Kingsbury(46077)    1    0    0
 ------ Lake(46079)    1    0    0
 ------ Spink(46115)    1    0    0
----- WY    162    -1    31
+---- WY    162    -1    37
 ------ Fremont(56013)    27    0    0
 ------ Sheridan(56033)    10    0    0
 ------ Laramie(56021)    37    0    0
@@ -2426,7 +2426,7 @@
 ---- Melilla    62    1    0
 ---- Navarre    130    0    0
 ---- Ceuta    55    1    0
--- Germany    89451    1208    24575
+-- Germany    89838    1230    24575
 ---- Saxony    2411    19    109
 ---- Mecklenburg-Vorpommern    468    4    50
 ---- Free State of Bavaria    19153    268    2910
@@ -2963,7 +2963,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    20921    425    484
--- Switzerland    19303    573    4846
+-- Switzerland    19606    591    4846
 -- Belgium    16770    1143    2872
 -- Netherlands    15819    1490    260
 ---- Netherlands    1705    43    2
@@ -2982,7 +2982,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11464    168    2022
+-- Austria    11489    168    2022
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -3026,7 +3026,7 @@
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
 -- Poland    3266    65    56
--- Romania    3183    122    283
+-- Romania    3183    133    283
 -- Japan    3122    77    514
 ---- Hokkaido    190    8    100
 ---- kochi    23    0    0
@@ -3073,7 +3073,7 @@
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
 -- Philippines    3018    136    52
--- Pakistan    2631    39    126
+-- Pakistan    2631    40    126
 -- Luxembourg    2612    31    500
 -- India    2567    72    192
 -- Saudi Arabia    2039    25    351
@@ -3130,7 +3130,7 @@
 -- Albania    304    17    89
 -- Burkina Faso    302    16    50
 -- Jordan    299    5    45
--- Afghanistan    273    6    10
+-- Afghanistan    281    6    10
 -- Cuba    269    6    15
 -- Oman    252    1    57
 -- San Marino    245    30    21
@@ -3146,7 +3146,7 @@
 -- Mauritius    186    7    0
 -- Faroe Islands    179    0    91
 -- Montenegro    174    2    1
--- Sri Lanka    156    4    24
+-- Sri Lanka    159    4    24
 -- Georgia    148    0    27
 -- Venezuela, Bolivarian Republic of    146    5    43
 -- Martinique    138    3    27
@@ -3163,15 +3163,15 @@
 -- Niger    98    5    0
 -- Trinidad and Tobago    97    6    1
 -- Gibraltar    95    0    46
--- Paraguay    92    3    4
+-- Paraguay    92    3    6
 -- Rwanda    84    0    0
 -- Liechtenstein    75    0    0
+-- Guinea    73    0    2
 -- Madagascar    65    0    0
+-- Aruba    62    0    1
 -- Bangladesh    61    6    26
--- Aruba    60    0    1
 -- Monaco    60    1    2
 -- French Guiana    57    0    22
--- Guinea    52    0    0
 -- Guatemala    50    1    12
 -- Djibouti    49    0    8
 -- Jamaica    47    3    2
