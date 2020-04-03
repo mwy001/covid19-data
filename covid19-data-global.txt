@@ -1,4 +1,4 @@
--- United States of America    272209    7004    9502
+-- United States of America    273914    7084    9521
 ---- NY    102985    2935    6622
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -15,7 +15,7 @@
 ------ Tompkins(36109)    87    0    46
 ------ Allegany(36003)    14    1    0
 ------ Greene(36039)    23    0    0
------- Onondaga(36067)    322    3    55
+------ Onondaga(36067)    322    3    87
 ------ Putnam(36079)    252    7    0
 ------ Broome(36007)    56    4    5
 ------ Clinton(36019)    30    0    5
@@ -62,7 +62,7 @@
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    6    0    0
 ------ Yates(36123)    1    0    0
----- WA    6611    302    568
+---- WA    6670    307    568
 ------ King(53033)    2656    177    0
 ------ Snohomish(53061)    1376    67    562
 ------ Pierce(53053)    498    7    0
@@ -84,9 +84,9 @@
 ------ Klickitat(53039)    9    1    3
 ------ Lewis(53041)    12    0    0
 ------ Lincoln(53043)    1    0    1
------- Franklin(53021)    43    0    0
+------ Franklin(53021)    61    1    0
 ------ Mason(53045)    13    0    0
------- Benton(53005)    133    9    0
+------ Benton(53005)    174    13    0
 ------ Clallam(53009)    8    0    0
 ------ San Juan(53055)    6    0    0
 ------ Stevens(53065)    5    0    0
@@ -98,9 +98,9 @@
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
 ------ Wahkiakum(53069)    1    0    0
----- CA    11394    253    165
+---- CA    11889    264    165
 ------ Santa Clara(06085)    1019    36    0
------- Los Angeles(06037)    4071    80    0
+------ Los Angeles(06037)    4566    89    0
 ------ San Mateo(06081)    486    13    0
 ------ San Diego(06073)    966    16    0
 ------ San Francisco(06075)    497    7    0
@@ -174,7 +174,7 @@
 ------ Cumberland(34011)    36    1    0
 ------ Salem(34033)    25    2    0
 ---- MA    10402    192    10
------- Middlesex(25017)    2202    39    0
+------ Middlesex(25017)    2202    66    0
 ------ Norfolk(25021)    1045    25    0
 ------ Suffolk(25025)    2183    23    10
 ------ Berkshire(25003)    240    7    0
@@ -575,7 +575,7 @@
 ------ Marion(13197)    1    0    0
 ------ Quitman(13239)    1    0    0
 ------ Towns(13281)    1    0    0
----- TX    5609    97    383
+---- TX    5636    97    400
 ------ Dallas(48113)    921    17    0
 ------ Travis(48453)    351    3    0
 ------ Harris(48201)    955    6    0
@@ -584,7 +584,7 @@
 ------ Collin(48085)    227    1    66
 ------ Tarrant(48439)    383    7    23
 ------ Smith(48423)    53    1    0
------- Montgomery(48339)    119    3    1
+------ Montgomery(48339)    130    3    18
 ------ Bell(48027)    51    1    12
 ------ El Paso(48141)    78    0    18
 ------ Hays(48209)    45    0    10
@@ -615,7 +615,7 @@
 ------ Van Zandt(48467)    3    1    0
 ------ Crane(48103)    2    0    0
 ------ Lamar(48277)    3    0    0
------- Midland(48329)    19    1    0
+------ Midland(48329)    22    1    0
 ------ Randall(48381)    21    0    0
 ------ Castro(48069)    9    0    0
 ------ Oldham(48359)    2    1    0
@@ -672,7 +672,7 @@
 ------ Rockwall(48397)    10    0    0
 ------ Hood(48221)    8    1    0
 ------ Austin(48015)    4    0    0
------- Taylor(48441)    18    0    0
+------ Taylor(48441)    23    0    0
 ------ Swisher(48437)    1    0    0
 ------ Starr(48427)    5    0    0
 ------ Shelby(48419)    10    0    0
@@ -689,7 +689,7 @@
 ------ Willacy(48489)    3    0    0
 ------ Yoakum(48501)    1    0    0
 ------ Lamb(48279)    1    0    0
------- Ector(48135)    15    0    0
+------ Ector(48135)    22    0    0
 ------ Lynn(48305)    3    0    0
 ------ Kleberg(48273)    2    0    0
 ------ Andrews(48003)    1    0    0
@@ -937,15 +937,15 @@
 ------ Lauderdale(47097)    2    0    0
 ------ Polk(47139)    2    0    0
 ------ Jackson(47087)    3    0    0
----- CT    3824    112    0
------- Fairfield(09001)    2132    65    0
------- New Haven(09009)    647    17    0
------- Hartford(09003)    539    13    0
------- Litchfield(09005)    141    2    0
------- Middlesex(09007)    74    3    0
------- Tolland(09013)    67    10    0
------- Windham(09015)    21    0    0
------- New London(09011)    29    1    0
+---- CT    4914    131    0
+------ Fairfield(09001)    2716    75    0
+------ New Haven(09009)    891    18    0
+------ Hartford(09003)    679    18    0
+------ Litchfield(09005)    173    4    0
+------ Middlesex(09007)    91    3    0
+------ Tolland(09013)    79    10    0
+------ Windham(09015)    27    0    0
+------ New London(09011)    40    3    0
 ---- OH    3312    91    0
 ------ Cuyahoga(39035)    780    13    0
 ------ Butler(39017)    49    1    0
@@ -1438,54 +1438,54 @@
 ------ Grand(49019)    4    0    0
 ------ Kane(49025)    1    0    0
 ------ Duchesne(49013)    1    0    0
----- SC    1554    31    0
------- Kershaw(45055)    129    2    0
------- Beaufort(45013)    130    2    0
------- Horry(45051)    50    4    0
------- Charleston(45019)    231    1    0
------- Lexington(45063)    70    1    0
------- Anderson(45007)    57    3    0
------- Greenville(45045)    154    1    0
------- Lancaster(45057)    26    0    0
+---- SC    1700    34    0
+------ Kershaw(45055)    136    2    0
+------ Beaufort(45013)    131    2    0
+------ Horry(45051)    51    4    0
+------ Charleston(45019)    247    1    0
+------ Lexington(45063)    78    1    0
+------ Anderson(45007)    62    3    0
+------ Greenville(45045)    174    2    0
+------ Lancaster(45057)    31    0    0
 ------ Calhoun(45017)    3    1    0
 ------ Fairfield(45039)    8    1    0
------- Richland(45079)    200    3    0
------- Spartanburg(45083)    50    0    0
------- York(45091)    66    1    0
------- Dorchester(45035)    35    0    0
------- Lee(45061)    8    1    0
+------ Richland(45079)    224    5    0
+------ Spartanburg(45083)    60    0    0
+------ York(45091)    73    1    0
+------ Dorchester(45035)    36    0    0
+------ Lee(45061)    13    1    0
 ------ Abbeville(45001)    6    0    0
 ------ Saluda(45081)    2    0    0
------- Orangeburg(45075)    24    0    0
+------ Orangeburg(45075)    25    0    0
 ------ Aiken(45003)    22    1    0
------- Berkeley(45015)    33    0    0
------- Clarendon(45027)    31    1    0
+------ Berkeley(45015)    42    0    0
+------ Clarendon(45027)    34    1    0
 ------ Darlington(45031)    15    0    0
------- Florence(45041)    26    5    0
------- Pickens(45077)    15    0    0
------- Sumter(45085)    66    3    0
------- Greenwood(45047)    8    0    0
+------ Florence(45041)    29    5    0
+------ Pickens(45077)    17    0    0
+------ Sumter(45085)    75    3    0
+------ Greenwood(45047)    9    0    0
 ------ Colleton(45029)    6    0    0
 ------ Dillon(45033)    1    0    0
------- Edgefield(45037)    4    0    0
+------ Edgefield(45037)    5    0    0
 ------ Marlboro(45069)    3    0    0
------- Newberry(45071)    4    0    0
+------ Newberry(45071)    5    0    0
 ------ Hampton(45049)    1    0    0
------- Jasper(45053)    7    0    0
+------ Jasper(45053)    8    0    0
 ------ Oconee(45073)    5    0    0
------- Chester(45023)    6    0    0
------- Georgetown(45043)    15    0    0
+------ Chester(45023)    7    0    0
+------ Georgetown(45043)    16    0    0
 ------ Chesterfield(45025)    10    0    0
 ------ Marion(45067)    2    1    0
------- Union(45087)    5    0    0
+------ Union(45087)    6    0    0
 ------ Williamsburg(45089)    6    0    0
------- Laurens(45059)    4    0    0
+------ Laurens(45059)    6    0    0
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    5    0    0
 ------ Allendale(45005)    1    0    0
 ------ Cherokee(45021)    1    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1454    34    0
+---- AL    1454    38    0
 ------ Jefferson(01073)    348    4    0
 ------ Shelby(01117)    107    3    0
 ------ Lee(01081)    99    2    0
@@ -2137,7 +2137,7 @@
 ------ New Castle(10003)    279    9    0
 ------ Sussex(10005)    117    3    0
 ------ Kent(10001)    54    3    0
----- MO    2113    22    28
+---- MO    2113    25    28
 ------ Greene(29077)    60    6    7
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    74    1    20
@@ -2367,7 +2367,7 @@
 ------ Juneau(02110)    10    0    0
 ------ Kenai Peninsula(02122)    8    0    0
 ------ Matanuska-Susitna(02170)    3    0    0
----- WV    217    2    0
+---- WV    237    2    0
 ------ Jefferson(54037)    12    0    0
 ------ Mercer(54055)    3    0    0
 ------ Tucker(54093)    3    0    0
@@ -2398,7 +2398,8 @@
 ------ Hardy(54031)    2    0    0
 ------ Barbour(54001)    1    0    0
 ------ Pendleton(54071)    1    0    0
----- GU    82    4    12
+------ Mineral(54057)    2    0    0
+---- GU    84    4    14
 ------ Guam(66010)    82    3    12
 ---- PR    316    15    0
 ---- VI    37    0    29
@@ -2425,7 +2426,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Spain    117710    11009    30513
+-- Spain    119199    11198    30513
 ---- Andalusia    6972    343    228
 ---- Aragon    2700    200    320
 ---- Balearic Islands    1204    58    239
@@ -3043,9 +3044,9 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3737    22    427
+-- Poland    3383    71    56
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
--- Poland    3266    65    56
 -- Romania    3183    133    283
 -- Japan    3122    77    514
 ---- Hokkaido    190    8    100
@@ -3100,7 +3101,7 @@
 -- Indonesia    1986    181    134
 -- Thailand    1978    19    612
 -- Finland    1615    21    300
--- Greece    1613    62    78
+-- Greece    1613    63    78
 -- Peru    1595    61    537
 -- Mexico    1510    50    633
 -- South Africa    1505    9    95
@@ -3108,10 +3109,10 @@
 -- Serbia    1476    39    54
 -- Panama    1475    37    10
 -- Iceland    1364    5    309
+-- Colombia    1267    25    55
 -- Argentina    1265    39    266
 -- United Arab Emirates    1264    9    108
 -- Algeria    1171    105    65
--- Colombia    1161    19    55
 -- Singapore    1114    5    282
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    1079    8    92
@@ -3160,14 +3161,14 @@
 -- Senegal    207    1    66
 -- Ghana    205    5    31
 -- Malta    202    0    2
+-- Palestine    194    1    21
 -- Côte d'Ivoire    194    1    15
--- Palestine    193    1    21
 -- Nigeria    190    2    20
 -- Mauritius    186    7    0
 -- Faroe Islands    179    0    91
 -- Montenegro    174    2    1
 -- Sri Lanka    159    4    24
--- Georgia    155    0    27
+-- Georgia    155    0    28
 -- Venezuela, Bolivarian Republic of    146    5    43
 -- Martinique    138    3    27
 -- Congo, Democratic Republic of the    134    13    3
@@ -3178,9 +3179,9 @@
 -- Mayotte    128    2    10
 -- Kosovo    126    1    10
 -- Kenya    122    4    4
+-- Niger    120    5    0
 -- Isle of Man    114    1    0
 -- Cambodia    114    0    35
--- Niger    98    5    0
 -- Trinidad and Tobago    98    6    1
 -- Gibraltar    95    0    46
 -- Paraguay    92    3    6
@@ -3204,7 +3205,7 @@
 -- Zambia    39    1    2
 -- Puerto Rico    39    2    1
 -- French Polynesia    39    0    0
--- Bermuda    35    0    11
+-- Bermuda    35    0    14
 -- Ethiopia    35    0    4
 -- Guam    33    1    0
 -- Cayman Islands    28    1    0
