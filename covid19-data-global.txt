@@ -1,4 +1,4 @@
--- United States of America    245636    6069    9311
+-- United States of America    245636    6076    9311
 ---- NY    92743    2473    6590
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
@@ -7,11 +7,11 @@
 ------ Rockland(36087)    3751    42    0
 ------ Dutchess(36027)    667    5    0
 ------ Orange(36071)    2084    30    0
------- Monroe(36055)    420    10    76
+------ Monroe(36055)    420    10    94
 ------ Erie(36029)    734    19    101
 ------ Saratoga(36091)    132    1    0
 ------ Ulster(36111)    243    3    0
------- Schenectady(36093)    101    5    0
+------ Schenectady(36093)    101    5    20
 ------ Tompkins(36109)    87    0    46
 ------ Allegany(36003)    13    1    0
 ------ Greene(36039)    21    0    0
@@ -635,7 +635,7 @@
 ------ Gaines(48165)    1    0    0
 ------ Erath(48143)    8    1    0
 ------ Eastland(48133)    4    0    0
------- Blanco(48031)    1    0    0
+------ Blanco(48031)    2    0    0
 ------ Falls(48145)    1    0    0
 ------ Waller(48473)    5    0    0
 ------ Robertson(48395)    2    0    0
@@ -2930,7 +2930,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    34192    2926    192
+-- United Kingdom of Great Britain and Northern Ireland    38168    3605    192
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -2946,7 +2946,7 @@
 -- Netherlands    15723    1487    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    11350    168    2022
+-- Austria    11383    168    2022
 -- Canada    11284    173    1979
 ---- British Columbia    1121    31    183
 ---- Ontario    2793    53    8
@@ -2982,7 +2982,7 @@
 ---- 未确定地区    242    3    1
 -- Portugal    9886    246    68
 -- Israel    8385    39    338
--- Brazil    8076    327    127
+-- Brazil    8076    329    127
 -- Sweden    6078    333    103
 -- Australia    5350    28    649
 ---- New South Wales    2389    12    4
@@ -3054,19 +3054,19 @@
 -- India    2567    72    192
 -- Luxembourg    2487    30    80
 -- Pakistan    2458    35    126
+-- Saudi Arabia    2039    25    351
 -- Indonesia    1986    181    134
 -- Thailand    1978    19    581
--- Saudi Arabia    1885    21    328
 -- Finland    1615    21    300
 -- Greece    1544    53    61
 -- Mexico    1510    50    633
+-- Serbia    1476    39    42
 -- Panama    1475    37    9
 -- South Africa    1462    5    95
 -- Peru    1414    55    537
 -- Dominican Republic    1380    60    16
--- Iceland    1319    5    284
+-- Iceland    1364    5    309
 -- Argentina    1265    37    256
--- Serbia    1171    31    42
 -- Colombia    1161    19    55
 -- Singapore    1114    5    266
 ---- Central Singapore Community Development Council    345    0    124
@@ -3086,9 +3086,9 @@
 -- Lithuania    696    9    7
 -- Bahrain    672    4    382
 -- Hungary    623    26    43
--- Bosnia and Herzegovina    561    17    27
+-- Bosnia and Herzegovina    568    17    27
 -- Lebanon    508    17    46
--- Moldova, Republic of    505    6    23
+-- Moldova, Republic of    505    6    26
 -- Latvia    493    1    31
 -- Bulgaria    477    12    30
 -- Kazakhstan    460    6    29
@@ -3221,9 +3221,9 @@
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
 -- Belize    3    0    0
+-- Saint Vincent and the Grenadines    3    0    1
 -- Sierra Leone    2    0    0
 -- Jersey    2    0    0
--- Saint Vincent and the Grenadines    2    0    1
 -- Timor-Leste    1    0    0
 -- Papua New Guinea    1    0    0
 -- Guernsey    1    0    0
