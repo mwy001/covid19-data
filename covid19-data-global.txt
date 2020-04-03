@@ -1,5 +1,5 @@
--- United States of America    244838    5963    9090
----- NY    92743    2408    6507
+-- United States of America    245356    6056    9122
+---- NY    92743    2468    6507
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
 ------ Suffolk(36103)    8746    84    0
@@ -62,13 +62,13 @@
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    4    0    0
 ------ Yates(36123)    1    0    0
----- WA    6588    271    568
+---- WA    6595    272    568
 ------ King(53033)    2656    175    0
 ------ Snohomish(53061)    1376    41    562
 ------ Pierce(53053)    498    7    0
------- Island(53029)    114    3    0
+------ Island(53029)    119    4    0
 ------ Skagit(53057)    153    4    0
------- Grant(53025)    73    1    0
+------ Grant(53025)    75    1    0
 ------ Kitsap(53035)    85    1    0
 ------ Whatcom(53073)    175    9    0
 ------ Thurston(53067)    55    0    0
@@ -359,9 +359,9 @@
 ------ Phillips(08095)    2    0    0
 ------ Saguache(08109)    3    0    0
 ------ Custer(08027)    1    0    0
----- IL    7695    163    7
+---- IL    7697    168    7
 ------ Cook(17031)    5575    107    2
------- Lake(17097)    540    8    0
+------ Lake(17097)    542    13    0
 ------ Sangamon(17167)    18    2    0
 ------ Kane(17089)    743    9    0
 ------ Clinton(17027)    9    0    0
@@ -566,12 +566,12 @@
 ------ Putnam(13237)    2    0    0
 ------ Union(13291)    1    0    0
 ------ Lanier(13173)    1    0    0
----- TX    5119    81    329
+---- TX    5172    81    349
 ------ Dallas(48113)    831    17    0
 ------ Travis(48453)    351    3    0
 ------ Harris(48201)    955    6    0
 ------ Bexar(48029)    254    9    44
------- Fort Bend(48157)    194    2    9
+------ Fort Bend(48157)    221    2    9
 ------ Collin(48085)    207    1    53
 ------ Tarrant(48439)    325    6    18
 ------ Smith(48423)    42    1    0
@@ -579,8 +579,8 @@
 ------ Bell(48027)    51    1    2
 ------ El Paso(48141)    75    0    9
 ------ Hays(48209)    45    0    10
------- Brazoria(48039)    109    1    10
------- Galveston(48167)    118    0    22
+------ Brazoria(48039)    123    1    10
+------ Galveston(48167)    130    0    22
 ------ Lubbock(48303)    108    2    0
 ------ Matagorda(48321)    32    1    0
 ------ Bowie(48037)    9    1    0
@@ -920,6 +920,7 @@
 ------ Hickman(47081)    1    0    0
 ------ Lauderdale(47097)    2    0    0
 ------ Polk(47139)    1    0    0
+------ Jackson(47087)    2    0    0
 ---- CT    3824    112    0
 ------ Fairfield(09001)    2132    65    0
 ------ New Haven(09009)    647    17    0
@@ -1129,6 +1130,8 @@
 ------ City of Covington(51580)    1    0    0
 ------ Cumberland(51049)    1    0    0
 ------ Clarke(51043)    1    0    0
+------ City of Salem(51775)    1    0    0
+------ City of Staunton(51790)    1    0    0
 ---- NC    1981    21    37
 ------ Wake(37183)    251    0    0
 ------ Durham(37063)    147    0    0
@@ -2994,7 +2997,7 @@
 ---- Tasmania    72    2    5
 ---- Northern Territory    21    0    0
 ---- Australian Capital Territory    87    1    11
--- Norway    5147    50    32
+-- Norway    5192    50    32
 -- Czechia    3858    44    67
 -- Ireland    3849    98    5
 -- Denmark    3573    123    1172
@@ -3069,7 +3072,7 @@
 -- Argentina    1265    36    256
 -- Serbia    1171    31    42
 -- Colombia    1161    19    55
--- Singapore    1049    4    266
+-- Singapore    1049    5    266
 ---- Central Singapore Community Development Council    345    0    124
 -- United Arab Emirates    1024    8    96
 -- Croatia    1011    7    88
@@ -3114,7 +3117,7 @@
 -- Cuba    233    6    13
 -- Viet Nam    233    0    75
 -- Oman    231    1    57
--- Honduras    219    14    3
+-- Honduras    222    15    3
 -- Uzbekistan    205    2    25
 -- Ghana    204    5    31
 -- Malta    196    0    2
