@@ -2960,7 +2960,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11171    158    1749
+-- Austria    11199    158    1749
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -2984,7 +2984,7 @@
 -- Israel    8385    36    338
 -- Brazil    8066    327    127
 -- Sweden    5568    308    103
--- Australia    5314    28    585
+-- Australia    5350    28    585
 ---- New South Wales    2298    10    4
 ---- Victoria    1036    5    422
 ---- Queensland    835    4    8
@@ -3074,23 +3074,23 @@
 -- Croatia    1011    7    88
 -- Algeria    986    86    65
 -- Qatar    949    3    72
+-- Ukraine    942    23    19
 -- Slovenia    897    17    70
--- Ukraine    897    22    19
 -- New Zealand    868    1    103
 -- Egypt    865    58    201
 -- Estonia    858    11    45
 -- Hong Kong    802    4    154
 -- Iraq    772    54    202
--- Morocco    708    44    31
+-- Armenia    736    7    43
+-- Morocco    735    47    34
 -- Lithuania    696    9    7
--- Armenia    663    7    33
 -- Bahrain    643    4    381
 -- Hungary    623    26    43
--- Bosnia and Herzegovina    533    16    20
+-- Bosnia and Herzegovina    543    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    46
+-- Latvia    493    0    31
 -- Bulgaria    477    12    30
--- Latvia    458    0    31
 -- Tunisia    455    14    5
 -- Kazakhstan    448    3    28
 -- Andorra    428    15    10
@@ -3120,13 +3120,13 @@
 -- Senegal    195    1    55
 -- Côte d'Ivoire    194    1    15
 -- Nigeria    184    2    20
--- Faroe Islands    177    0    81
+-- Faroe Islands    179    0    91
 -- Mauritius    169    7    0
 -- Palestine    161    1    18
+-- Montenegro    160    2    0
 -- Sri Lanka    151    4    22
 -- Georgia    148    0    27
 -- Venezuela, Bolivarian Republic of    146    5    43
--- Montenegro    144    2    0
 -- Martinique    138    3    27
 -- Congo, Democratic Republic of the    134    13    3
 -- Brunei Darussalam    133    1    56
