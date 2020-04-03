@@ -2404,7 +2404,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Germany    85063    1111    22440
+-- Germany    85903    1122    22440
 ---- Saxony    2411    19    109
 ---- Mecklenburg-Vorpommern    468    4    50
 ---- Free State of Bavaria    19153    268    2910
@@ -2943,10 +2943,10 @@
 -- Switzerland    19303    573    4846
 -- Turkey    18757    356    415
 -- Belgium    16770    1143    2872
--- Netherlands    14788    1341    260
+-- Netherlands    15723    1487    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Austria    11301    168    2022
+-- Austria    11350    168    2022
 -- Canada    11284    173    1979
 ---- British Columbia    1121    31    183
 ---- Ontario    2793    53    8
@@ -2980,10 +2980,10 @@
 ---- Seoul    506    0    131
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
--- Portugal    9034    209    68
+-- Portugal    9886    246    68
 -- Israel    8385    37    338
--- Brazil    8066    327    127
--- Sweden    5568    308    103
+-- Brazil    8076    327    127
+-- Sweden    6078    333    103
 -- Australia    5350    28    649
 ---- New South Wales    2389    12    4
 ---- Victoria    1085    7    476
@@ -2993,7 +2993,7 @@
 ---- Tasmania    74    2    5
 ---- Northern Territory    22    0    0
 ---- Australian Capital Territory    91    1    18
--- Norway    5255    54    32
+-- Norway    5296    54    32
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
 -- Denmark    3861    139    1193
@@ -3002,46 +3002,46 @@
 -- Ireland    3849    98    5
 -- Chile    3404    18    335
 -- Malaysia    3333    53    827
--- Romania    3183    116    283
+-- Romania    3183    118    283
 -- Ecuador    3163    120    65
 -- Poland    3149    59    56
 -- Philippines    3018    136    52
--- Japan    2924    74    514
----- Hokkaido    185    8    100
----- kochi    21    0    0
----- Miyagi    12    0    0
----- Niigata    32    0    0
+-- Japan    3003    74    514
+---- Hokkaido    190    8    100
+---- kochi    23    0    0
+---- Miyagi    13    0    0
+---- Niigata    35    0    0
 ---- Gifu    36    0    0
 ---- Nagano    9    0    0
 ---- Tochigi    17    0    0
----- Kumamoto    15    0    0
+---- Kumamoto    17    0    0
 ---- Saitama    119    4    0
----- Ishikawa    16    0    0
----- Fukuoka    100    0    0
+---- Ishikawa    20    0    0
+---- Fukuoka    118    0    0
 ---- Tokyo    773    15    0
 ---- Wakayama    22    1    2
----- Kyoto    88    0    16
+---- Kyoto    106    0    16
 ---- Osaka    311    2    1
----- Chiba    190    1    0
----- Kanagawa    186    6    1
+---- Chiba    206    1    0
+---- Kanagawa    205    6    1
 ---- Shizuoka    14    0    0
 ---- Aichi    190    19    2
----- Nara    19    0    1
+---- Nara    21    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
 ---- Okinawa    11    0    1
----- Ehime    18    0    0
----- hyogo    169    11    0
+---- Ehime    19    0    0
+---- hyogo    170    11    0
 ---- oita    30    0    0
 ---- Yamaguchi    6    0    0
 ---- Miyazaki    3    0    0
----- Shiga    8    0    0
+---- Shiga    14    0    0
 ---- Akita    9    0    0
 ---- Yamanashi    9    0    0
 ---- Hiroshima    11    0    0
 ---- Gunma    21    1    0
 ---- Fukushima    8    0    0
----- Saga    3    0    0
+---- Saga    4    0    0
 ---- Nagasaki    8    0    0
 ---- Ibaraki    44    2    0
 ---- Kagawa    2    0    0
@@ -3070,8 +3070,8 @@
 -- Colombia    1161    19    55
 -- Singapore    1114    5    266
 ---- Central Singapore Community Development Council    345    0    124
+-- Croatia    1079    8    92
 -- United Arab Emirates    1024    8    96
--- Croatia    1011    7    88
 -- Algeria    986    86    65
 -- Estonia    961    12    48
 -- Qatar    949    3    72
@@ -3091,11 +3091,11 @@
 -- Moldova, Republic of    505    6    23
 -- Latvia    493    1    31
 -- Bulgaria    477    12    30
+-- Kazakhstan    460    6    29
 -- Tunisia    455    14    5
--- Kazakhstan    453    3    29
 -- Slovakia    450    1    10
 -- Azerbaijan    443    5    32
--- Andorra    428    15    10
+-- Andorra    439    16    16
 -- Kuwait    417    0    82
 -- Costa Rica    396    2    6
 -- North Macedonia    384    11    17
@@ -3157,7 +3157,7 @@
 -- Barbados    46    0    0
 -- Uganda    45    0    0
 -- Macao    42    0    10
--- Zambia    39    1    0
+-- Zambia    39    1    2
 -- Puerto Rico    39    2    1
 -- Togo    39    2    17
 -- French Polynesia    37    0    0
