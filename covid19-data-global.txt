@@ -2960,7 +2960,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11224    158    1749
+-- Austria    11224    158    2022
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -3004,6 +3004,7 @@
 -- Ecuador    3163    120    65
 -- Poland    3149    59    56
 -- Malaysia    3116    50    767
+-- Philippines    3018    136    52
 -- Japan    2885    73    505
 ---- Hokkaido    185    8    100
 ---- kochi    21    0    0
@@ -3050,13 +3051,12 @@
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
 -- Romania    2738    116    267
--- Philippines    2633    107    51
 -- India    2567    72    192
 -- Luxembourg    2487    30    80
 -- Pakistan    2450    35    126
+-- Indonesia    1986    181    134
 -- Thailand    1978    19    581
 -- Saudi Arabia    1885    21    328
--- Indonesia    1790    170    112
 -- Finland    1615    19    300
 -- Greece    1544    53    61
 -- Mexico    1510    50    633
@@ -3073,12 +3073,12 @@
 -- United Arab Emirates    1024    8    96
 -- Croatia    1011    7    88
 -- Algeria    986    86    65
+-- Estonia    961    12    48
 -- Qatar    949    3    72
 -- Ukraine    942    23    19
 -- Slovenia    897    17    70
 -- New Zealand    868    1    103
 -- Egypt    865    58    201
--- Estonia    858    11    45
 -- Hong Kong    802    4    154
 -- Iraq    772    54    202
 -- Armenia    736    7    43
@@ -3093,9 +3093,9 @@
 -- Bulgaria    477    12    30
 -- Tunisia    455    14    5
 -- Kazakhstan    453    3    29
+-- Azerbaijan    443    5    32
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
--- Azerbaijan    400    5    26
 -- Costa Rica    396    2    6
 -- North Macedonia    384    11    17
 -- Uruguay    369    4    68
@@ -3121,8 +3121,8 @@
 -- Côte d'Ivoire    194    1    15
 -- Nigeria    184    2    20
 -- Faroe Islands    179    0    91
+-- Palestine    171    1    18
 -- Mauritius    169    7    0
--- Palestine    161    1    18
 -- Montenegro    160    2    0
 -- Sri Lanka    151    4    22
 -- Georgia    148    0    27
@@ -3190,7 +3190,7 @@
 -- Lao People's Democratic Republic    10    0    0
 -- Grenada    10    0    0
 -- Mozambique    10    0    0
--- Greenland    10    0    2
+-- Greenland    10    0    3
 -- Seychelles    10    0    0
 -- Suriname    10    0    0
 -- Saint Kitts and Nevis    9    0    0
@@ -3204,12 +3204,12 @@
 -- Sudan    8    2    2
 -- Fiji    7    0    0
 -- Holy See    7    0    0
+-- Nepal    7    0    1
 -- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
 -- Liberia    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
--- Nepal    6    0    1
 -- Nicaragua    5    1    0
 -- Montserrat    5    0    0
 -- Somalia    5    0    1
