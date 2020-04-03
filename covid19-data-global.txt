@@ -590,7 +590,7 @@
 ------ Gregg(48183)    13    0    0
 ------ Lavaca(48285)    3    0    0
 ------ Rusk(48401)    7    0    0
------- Webb(48479)    65    5    3
+------ Webb(48479)    65    5    6
 ------ Wichita(48485)    44    0    0
 ------ Johnson(48251)    17    1    0
 ------ Comal(48091)    15    2    5
@@ -640,7 +640,7 @@
 ------ Waller(48473)    5    0    0
 ------ Robertson(48395)    2    0    0
 ------ Terry(48445)    4    0    0
------- Victoria(48469)    27    0    0
+------ Victoria(48469)    27    0    4
 ------ Hopkins(48223)    3    0    0
 ------ Hunt(48231)    4    0    0
 ------ Llano(48299)    3    0    0
@@ -931,7 +931,7 @@
 ------ Tolland(09013)    67    10    0
 ------ Windham(09015)    21    0    0
 ------ New London(09011)    29    1    0
----- OH    2901    81    0
+---- OH    2902    81    0
 ------ Cuyahoga(39035)    663    12    0
 ------ Butler(39017)    45    0    0
 ------ Franklin(39049)    441    5    0
@@ -1006,6 +1006,7 @@
 ------ Morrow(39117)    1    0    0
 ------ Guernsey(39059)    1    0    0
 ------ Hardin(39065)    1    0    0
+------ Williams(39171)    1    0    0
 ---- OR    826    21    0
 ------ Washington(41067)    211    4    0
 ------ Linn(41043)    37    2    0
@@ -1133,6 +1134,10 @@
 ------ Clarke(51043)    1    0    0
 ------ City of Salem(51775)    1    0    0
 ------ City of Staunton(51790)    1    0    0
+------ City of Fairfax(51600)    328    2    0
+------ City of Richmond(51760)    52    0    0
+------ City of Roanoke(51770)    9    0    0
+------ City of Franklin(51620)    1    0    0
 ---- NC    2041    21    37
 ------ Wake(37183)    251    0    0
 ------ Durham(37063)    155    0    0
@@ -1199,7 +1204,7 @@
 ------ Person(37145)    2    0    0
 ------ Dare(37055)    3    0    0
 ------ Surry(37171)    2    0    0
------- Mitchell(37121)    1    0    0
+------ Mitchell(37121)    2    0    0
 ------ Polk(37149)    6    0    0
 ------ Greene(37079)    5    0    0
 ------ Swain(37173)    1    0    0
@@ -3058,17 +3063,17 @@
 ---- Yamagata    3    0    0
 -- Romania    2738    115    267
 -- Philippines    2633    107    51
--- India    2543    72    191
+-- India    2567    72    192
 -- Luxembourg    2487    30    80
 -- Pakistan    2421    34    125
+-- Thailand    1978    19    581
 -- Saudi Arabia    1885    21    328
--- Thailand    1875    15    505
 -- Indonesia    1790    170    112
 -- Greece    1544    53    61
 -- Finland    1518    19    300
 -- Mexico    1510    50    633
 -- Panama    1475    37    9
--- South Africa    1462    5    50
+-- South Africa    1462    5    95
 -- Peru    1414    55    537
 -- Dominican Republic    1380    60    16
 -- Iceland    1319    5    284
@@ -3089,10 +3094,10 @@
 -- Hong Kong    802    4    154
 -- Iraq    772    54    202
 -- Morocco    708    44    31
+-- Lithuania    696    9    7
 -- Armenia    663    7    33
--- Lithuania    649    9    7
 -- Bahrain    643    4    381
--- Hungary    585    21    42
+-- Hungary    623    26    43
 -- Bosnia and Herzegovina    533    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    46
@@ -3118,10 +3123,10 @@
 -- Afghanistan    273    6    10
 -- San Marino    245    30    21
 -- Cuba    233    6    13
--- Viet Nam    233    0    75
+-- Viet Nam    233    0    85
 -- Oman    231    1    57
 -- Honduras    222    15    3
--- Uzbekistan    205    2    25
+-- Uzbekistan    221    2    25
 -- Ghana    204    5    31
 -- Malta    196    0    2
 -- Senegal    195    1    55
@@ -3138,9 +3143,9 @@
 -- Georgia    134    0    26
 -- Brunei Darussalam    133    1    56
 -- Bolivia, Plurinational State of    132    9    1
+-- Kyrgyzstan    130    1    5
 -- Guadeloupe    128    6    24
 -- Kosovo    126    1    10
--- Kyrgyzstan    125    1    5
 -- Mayotte    116    1    10
 -- Cambodia    114    0    35
 -- Kenya    110    3    4
