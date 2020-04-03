@@ -1,4 +1,4 @@
--- United States of America    245684    6076    9311
+-- United States of America    245693    6077    9311
 ---- NY    92743    2473    6590
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
@@ -566,7 +566,7 @@
 ------ Putnam(13237)    2    0    0
 ------ Union(13291)    1    0    0
 ------ Lanier(13173)    1    0    0
----- TX    5253    86    377
+---- TX    5254    86    377
 ------ Dallas(48113)    831    17    0
 ------ Travis(48453)    351    3    0
 ------ Harris(48201)    955    6    0
@@ -718,6 +718,7 @@
 ------ Palo Pinto(48363)    1    0    0
 ------ Titus(48449)    1    0    0
 ------ Hemphill(48211)    1    0    0
+------ Trinity(48455)    1    0    0
 ---- PA    7345    92    67
 ------ Montgomery(42091)    735    9    0
 ------ Philadelphia(42101)    2100    13    0
@@ -781,7 +782,7 @@
 ------ Bedford(42009)    3    0    0
 ------ Forest(42053)    79    0    0
 ------ Wyoming(42131)    1    0    0
----- WI    1748    38    1
+---- WI    1756    39    1
 ------ Milwaukee(55079)    869    16    0
 ------ Dane(55025)    238    3    1
 ------ Kenosha(55059)    67    0    0
@@ -1360,19 +1361,19 @@
 ------ Crow Wing(27035)    2    0    0
 ------ Yellow Medicine(27173)    1    0    0
 ------ Koochiching(27071)    1    0    0
----- MD    2331    36    53
+---- MD    2331    40    53
 ------ Montgomery(24031)    498    6    3
 ------ Prince George's(24033)    20    1    0
 ------ Baltimore(24005)    353    3    0
 ------ Howard(24027)    152    2    0
------- Anne Arundel(24003)    206    3    0
+------ Anne Arundel(24003)    206    4    0
 ------ Carroll(24013)    105    5    0
 ------ Harford(24025)    37    0    0
 ------ Charles(24017)    69    1    0
 ------ Frederick(24021)    45    3    0
 ------ Talbot(24041)    4    0    0
 ------ Calvert(24009)    22    1    0
------- Baltimore City(24510)    265    2    0
+------ Baltimore City(24510)    265    4    0
 ------ Wicomico(24045)    7    1    0
 ------ Worcester(24047)    5    0    0
 ------ Prince Georges(24033)    473    9    0
@@ -1462,19 +1463,19 @@
 ------ Allendale(45005)    1    0    0
 ------ Cherokee(45021)    1    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1315    32    0
+---- AL    1324    32    0
 ------ Jefferson(01073)    332    4    0
 ------ Shelby(01117)    103    3    0
 ------ Lee(01081)    96    2    0
 ------ Tuscaloosa(01125)    39    0    0
------- Elmore(01051)    17    0    0
+------ Elmore(01051)    18    0    0
 ------ Montgomery(01101)    49    1    0
 ------ Baldwin(01003)    26    1    0
 ------ Limestone(01083)    26    0    0
 ------ Madison(01089)    117    1    0
------- Calhoun(01015)    12    0    0
+------ Calhoun(01015)    13    0    0
 ------ St Clair(01115)    20    0    0
------- Chambers(01017)    74    4    0
+------ Chambers(01017)    78    4    0
 ------ Talladega(01121)    8    0    0
 ------ Walker(01127)    36    0    0
 ------ Mobile(01097)    71    4    0
@@ -1486,7 +1487,7 @@
 ------ Marion(01093)    11    2    0
 ------ Franklin(01059)    4    0    0
 ------ Houston(01069)    10    0    0
------- Tallapoosa(01123)    17    1    0
+------ Tallapoosa(01123)    18    1    0
 ------ Morgan(01103)    23    1    0
 ------ Autauga(01001)    12    0    0
 ------ Pickens(01107)    9    0    0
@@ -1515,10 +1516,10 @@
 ------ Winston(01133)    2    0    0
 ------ Greene(01063)    5    0    0
 ------ Covington(01039)    3    0    0
------- Randolph(01111)    7    0    0
+------ Randolph(01111)    8    0    0
 ------ Escambia(01053)    2    0    0
 ------ Monroe(01099)    3    0    0
------- Macon(01087)    4    0    0
+------ Macon(01087)    5    0    0
 ------ Bibb(01007)    4    0    0
 ------ Hale(01065)    3    0    0
 ------ Fayette(01057)    1    0    0
@@ -2102,7 +2103,7 @@
 ------ New Castle(10003)    245    7    0
 ------ Sussex(10005)    105    3    0
 ------ Kent(10001)    43    3    0
----- MO    1863    22    28
+---- MO    1864    22    28
 ------ Greene(29077)    54    6    7
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    69    1    20
@@ -3001,7 +3002,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    3849    98    5
--- Chile    3404    18    335
+-- Chile    3737    22    427
 -- Malaysia    3333    53    827
 -- Romania    3183    122    283
 -- Ecuador    3163    120    65
@@ -3061,11 +3062,11 @@
 -- Finland    1615    21    300
 -- Greece    1544    53    61
 -- Mexico    1510    50    633
+-- Dominican Republic    1488    68    16
 -- Serbia    1476    39    42
 -- Panama    1475    37    9
 -- South Africa    1462    5    95
 -- Peru    1414    55    537
--- Dominican Republic    1380    60    16
 -- Iceland    1364    5    309
 -- Argentina    1265    39    256
 -- Colombia    1161    19    55
@@ -3087,7 +3088,7 @@
 -- Lithuania    696    9    7
 -- Bahrain    672    4    382
 -- Hungary    623    26    43
--- Bosnia and Herzegovina    568    17    27
+-- Bosnia and Herzegovina    574    17    27
 -- Lebanon    508    17    46
 -- Moldova, Republic of    505    6    26
 -- Latvia    493    1    31
@@ -3145,10 +3146,10 @@
 -- Gibraltar    88    0    46
 -- Rwanda    84    0    0
 -- Liechtenstein    75    0    0
+-- Madagascar    65    0    0
 -- Bangladesh    61    6    26
 -- Aruba    60    0    1
 -- Monaco    60    1    2
--- Madagascar    59    0    0
 -- Guinea    52    0    0
 -- French Guiana    51    0    15
 -- Djibouti    49    0    8
@@ -3204,11 +3205,11 @@
 -- Central African Republic    8    0    0
 -- Sudan    8    2    2
 -- Fiji    7    0    0
+-- Liberia    7    0    0
 -- Holy See    7    0    0
 -- Nepal    7    0    1
 -- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
--- Liberia    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
 -- Nicaragua    5    1    0
@@ -3216,12 +3217,12 @@
 -- Somalia    5    0    1
 -- Bhutan    5    0    2
 -- Botswana    4    1    0
+-- Belize    4    0    0
 -- Gambia    4    1    2
 -- Malawi    3    0    0
 -- Burundi    3    0    0
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
--- Belize    3    0    0
 -- Saint Vincent and the Grenadines    3    0    1
 -- Sierra Leone    2    0    0
 -- Jersey    2    0    0
