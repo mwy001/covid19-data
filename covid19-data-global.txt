@@ -1,4 +1,4 @@
--- United States of America    245618    6065    9228
+-- United States of America    245622    6065    9228
 ---- NY    92743    2468    6507
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
@@ -97,7 +97,7 @@
 ------ Okanogan(53047)    4    0    0
 ------ Ferry(53019)    1    0    0
 ------ Skamania(53059)    1    0    0
----- CA    11175    246    164
+---- CA    11207    246    164
 ------ Santa Clara(06085)    1019    36    0
 ------ Los Angeles(06037)    4045    80    0
 ------ San Mateo(06081)    453    10    0
@@ -130,7 +130,7 @@
 ------ Humboldt(06023)    37    0    1
 ------ Kern(06029)    158    3    0
 ------ Madera(06039)    28    1    3
------- Nevada(06057)    26    0    0
+------ Nevada(06057)    30    0    0
 ------ Shasta(06089)    11    1    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    1
@@ -1396,7 +1396,7 @@
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    5    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1092    7    0
+---- UT    1093    7    0
 ------ Salt Lake(49035)    476    4    0
 ------ Summit(49043)    204    0    0
 ------ Davis(49011)    103    1    0
@@ -1801,7 +1801,7 @@
 ------ Otoe(31131)    1    0    0
 ------ Colfax(31037)    1    0    0
 ------ Merrick(31121)    1    0    0
----- NM    428    7    26
+---- NM    442    7    26
 ------ Bernalillo(35001)    163    5    0
 ------ Santa Fe(35049)    48    0    0
 ------ Sandoval(35043)    40    1    0
@@ -1967,7 +1967,7 @@
 ------ Tishomingo(28141)    1    0    0
 ------ Jasper(28061)    2    0    0
 ------ Wayne(28153)    1    0    0
----- AZ    1715    32    3
+---- AZ    1766    32    3
 ------ Maricopa(04013)    961    12    1
 ------ Pinal(04021)    69    0    1
 ------ Pima(04019)    237    11    1
@@ -2036,7 +2036,7 @@
 ------ Atoka(40005)    1    0    0
 ------ Kiowa(40075)    1    0    0
 ------ Woodward(40153)    1    0    0
----- KS    555    14    0
+---- KS    558    14    0
 ------ Johnson(20091)    161    4    0
 ------ Wyandotte(20209)    106    4    0
 ------ Butler(20015)    7    0    0
@@ -2062,7 +2062,7 @@
 ------ Neosho(20133)    1    0    0
 ------ Shawnee(20177)    20    2    0
 ------ Jefferson(20087)    1    0    0
------- Sumner(20191)    1    0    0
+------ Sumner(20191)    2    0    0
 ------ Gove(20063)    1    0    0
 ------ Clay(20027)    1    0    0
 ------ Coffey(20031)    16    1    0
@@ -2083,6 +2083,7 @@
 ------ Cloud(20029)    1    0    0
 ------ Cowley(20035)    1    0    0
 ------ Anderson(20003)    1    0    0
+------ Marion(20115)    1    0    0
 ---- VT    347    17    0
 ------ Chittenden(50007)    177    4    0
 ------ Bennington(50003)    18    0    0
@@ -2356,7 +2357,7 @@
 ------ Barbour(54001)    1    0    0
 ------ Pendleton(54071)    1    0    0
 ---- GU    82    3    12
------- Guam(66010)    82    3    7
+------ Guam(66010)    82    3    12
 ---- PR    316    12    0
 ---- VI    37    0    29
 ---- MP    8    1    0
@@ -3065,7 +3066,7 @@
 -- Philippines    2633    107    51
 -- India    2567    72    192
 -- Luxembourg    2487    30    80
--- Pakistan    2421    34    125
+-- Pakistan    2441    35    125
 -- Thailand    1978    19    581
 -- Saudi Arabia    1885    21    328
 -- Indonesia    1790    170    112
@@ -3101,8 +3102,8 @@
 -- Bosnia and Herzegovina    533    16    20
 -- Moldova, Republic of    505    6    23
 -- Lebanon    494    16    46
+-- Bulgaria    477    12    30
 -- Latvia    458    0    31
--- Bulgaria    457    10    25
 -- Tunisia    455    14    5
 -- Kazakhstan    444    3    28
 -- Andorra    428    15    10
@@ -3152,7 +3153,7 @@
 -- Niger    98    5    0
 -- Trinidad and Tobago    97    6    1
 -- Isle of Man    95    1    0
--- Paraguay    92    3    3
+-- Paraguay    92    3    4
 -- Gibraltar    88    0    46
 -- Rwanda    84    0    0
 -- Liechtenstein    75    0    0
@@ -3212,6 +3213,7 @@
 -- Antigua and Barbuda    9    0    0
 -- Angola    8    2    1
 -- Chad    8    0    0
+-- Central African Republic    8    0    0
 -- Sudan    8    2    2
 -- Fiji    7    0    0
 -- Holy See    7    0    0
@@ -3232,7 +3234,6 @@
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
 -- Belize    3    0    0
--- Central African Republic    3    0    0
 -- Sierra Leone    2    0    0
 -- Jersey    2    0    0
 -- Saint Vincent and the Grenadines    2    0    1
