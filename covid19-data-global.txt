@@ -2361,6 +2361,27 @@
 ---- PR    316    12    0
 ---- VI    37    0    29
 ---- MP    8    1    0
+-- Spain    117710    10935    30513
+---- Andalusia    6972    343    228
+---- Aragon    2700    200    320
+---- Balearic Islands    1204    58    239
+---- Basque Country    7317    412    2490
+---- Canary Islands    1444    68    94
+---- Cantabria    1268    60    60
+---- Castile and León    7355    641    1498
+---- Castile-La Mancha    7682    854    494
+---- Catalonia    21804    2093    6917
+---- Community of Madrid    32155    4175    12400
+---- Comunidad Foral de Navarra    2682    141    278
+---- Extremadura    1837    181    139
+---- Galicia    4842    3032    333
+---- Principality of Asturias    1384    69    135
+---- Región de Murcia    1084    42    45
+---- Rioja    2083    101    641
+---- Valencian Community    6308    443    432
+---- Melilla    62    1    0
+---- Navarre    130    0    0
+---- Ceuta    55    1    0
 -- Italy    115242    13915    18278
 ---- Abruzzo    1436    123    102
 ---- Aosta Valley    631    59    32
@@ -2383,27 +2404,6 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Spain    112065    10348    26743
----- Andalusia    6972    343    228
----- Aragon    2700    200    320
----- Balearic Islands    1204    58    239
----- Basque Country    7317    412    2490
----- Canary Islands    1444    68    94
----- Cantabria    1268    60    60
----- Castile and León    7355    641    1498
----- Castile-La Mancha    7682    854    494
----- Catalonia    21804    2093    6917
----- Community of Madrid    32155    4175    12400
----- Comunidad Foral de Navarra    2682    141    278
----- Extremadura    1837    181    139
----- Galicia    4842    3032    333
----- Principality of Asturias    1384    69    135
----- Región de Murcia    1084    42    45
----- Rioja    2083    101    641
----- Valencian Community    6308    443    432
----- Melilla    62    1    0
----- Navarre    130    0    0
----- Ceuta    55    1    0
 -- Germany    84794    1107    22440
 ---- Saxony    2411    19    109
 ---- Mecklenburg-Vorpommern    468    4    50
@@ -2984,20 +2984,20 @@
 -- Israel    8385    36    338
 -- Brazil    8066    327    127
 -- Sweden    5568    308    103
--- Australia    5350    28    585
----- New South Wales    2298    10    4
----- Victoria    1036    5    422
----- Queensland    835    4    8
----- South Australia    367    0    6
----- Western Australia    400    2    64
----- Tasmania    72    2    5
----- Northern Territory    21    0    0
----- Australian Capital Territory    87    1    11
--- Norway    5218    50    32
+-- Australia    5350    28    649
+---- New South Wales    2389    12    4
+---- Victoria    1085    7    476
+---- Queensland    873    4    8
+---- South Australia    396    0    46
+---- Western Australia    400    2    92
+---- Tasmania    74    2    5
+---- Northern Territory    22    0    0
+---- Australian Capital Territory    91    1    18
+-- Norway    5255    51    32
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
 -- Ireland    3849    98    5
--- Denmark    3672    123    1172
+-- Denmark    3672    123    1182
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3404    18    335
@@ -3163,8 +3163,8 @@
 -- French Polynesia    37    0    0
 -- Mali    36    3    0
 -- Bermuda    35    0    11
+-- Ethiopia    35    0    4
 -- Guam    33    1    0
--- Ethiopia    29    0    4
 -- Cayman Islands    28    1    0
 -- Bahamas    24    1    1
 -- Guyana    23    4    0
