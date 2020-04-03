@@ -1,4 +1,4 @@
--- United States of America    245622    6065    9228
+-- United States of America    245636    6066    9228
 ---- NY    92743    2468    6507
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
@@ -2973,7 +2973,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11129    158    1749
+-- Austria    11171    158    1749
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -3017,12 +3017,12 @@
 -- Ecuador    3163    120    65
 -- Malaysia    3116    50    767
 -- Poland    2946    57    56
--- Japan    2784    71    505
----- Hokkaido    183    8    100
+-- Japan    2796    73    505
+---- Hokkaido    185    8    100
 ---- kochi    21    0    0
 ---- Miyagi    12    0    0
 ---- Niigata    32    0    0
----- Gifu    34    0    0
+---- Gifu    36    0    0
 ---- Nagano    9    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    15    0    0
@@ -3030,17 +3030,17 @@
 ---- Ishikawa    16    0    0
 ---- Fukuoka    100    0    0
 ---- Tokyo    684    15    0
----- Wakayama    21    1    2
+---- Wakayama    22    1    2
 ---- Kyoto    88    0    16
 ---- Osaka    311    2    1
 ---- Chiba    190    1    0
----- Kanagawa    184    6    1
+---- Kanagawa    186    6    1
 ---- Shizuoka    14    0    0
----- Aichi    189    19    2
+---- Aichi    190    19    2
 ---- Nara    19    0    1
 ---- Tokushima    3    0    0
----- Mie    12    0    1
----- Okinawa    9    0    1
+---- Mie    13    0    1
+---- Okinawa    11    0    1
 ---- Ehime    18    0    0
 ---- hyogo    169    11    0
 ---- oita    30    0    0
@@ -3057,7 +3057,7 @@
 ---- Ibaraki    44    2    0
 ---- Kagawa    2    0    0
 ---- Fukui    39    0    0
----- Okayama    7    0    0
+---- Okayama    8    0    0
 ---- Aomori    9    0    0
 ---- Kagoshima    3    0    0
 ---- Toyama    8    0    0
@@ -3066,7 +3066,7 @@
 -- Philippines    2633    107    51
 -- India    2567    72    192
 -- Luxembourg    2487    30    80
--- Pakistan    2441    35    125
+-- Pakistan    2450    35    126
 -- Thailand    1978    19    581
 -- Saudi Arabia    1885    21    328
 -- Indonesia    1790    170    112
@@ -3105,7 +3105,7 @@
 -- Bulgaria    477    12    30
 -- Latvia    458    0    31
 -- Tunisia    455    14    5
--- Kazakhstan    444    3    28
+-- Kazakhstan    448    3    28
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
 -- Azerbaijan    400    5    26
@@ -3137,11 +3137,11 @@
 -- Mauritius    169    7    0
 -- Palestine    161    1    18
 -- Sri Lanka    151    4    21
+-- Georgia    148    0    26
 -- Venezuela, Bolivarian Republic of    146    5    43
 -- Montenegro    144    2    0
 -- Martinique    138    3    27
 -- Congo, Democratic Republic of the    134    13    3
--- Georgia    134    0    26
 -- Brunei Darussalam    133    1    56
 -- Bolivia, Plurinational State of    132    9    1
 -- Kyrgyzstan    130    1    5
