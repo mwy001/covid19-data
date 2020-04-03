@@ -2421,8 +2421,8 @@
 ---- Baden-Württemberg    15971    281    2363
 ---- Saxony-Anhalt    838    11    291
 ---- Saarland    1252    16    120
--- China    82804    3331    76791
----- 天津    179    3    140
+-- China    82857    3331    76810
+---- 天津    180    3    140
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
 ------ 河北区    12    0    12
@@ -2467,7 +2467,7 @@
 ------ 天门    496    15    481
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
----- 香港    802    4    154
+---- 香港    845    4    173
 ---- 上海    526    6    348
 ------ 宝山区    22    1    19
 ------ 徐汇区    18    1    17
@@ -2485,7 +2485,7 @@
 ------ 青浦区    6    0    6
 ------ 金山区    4    0    4
 ------ 崇明区    4    0    4
----- 北京    583    8    434
+---- 北京    584    8    434
 ------ 朝阳区    72    0    0
 ------ 海淀区    64    0    0
 ------ 西城区    53    0    0
@@ -2870,7 +2870,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 台湾    339    5    50
+---- 台湾    348    5    50
 -- France    59929    5398    12548
 ---- France    7652    148    12
 ---- St Martin    22    1    2
@@ -2981,7 +2981,7 @@
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
 -- Portugal    9034    209    68
--- Israel    8385    36    338
+-- Israel    8385    37    338
 -- Brazil    8066    327    127
 -- Sweden    5568    308    103
 -- Australia    5350    28    649
@@ -2993,20 +2993,20 @@
 ---- Tasmania    74    2    5
 ---- Northern Territory    22    0    0
 ---- Australian Capital Territory    91    1    18
--- Norway    5255    51    32
+-- Norway    5255    54    32
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
--- Ireland    3849    98    5
--- Denmark    3672    123    1182
+-- Denmark    3861    123    1183
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Ireland    3849    98    5
 -- Chile    3404    18    335
 -- Malaysia    3333    53    827
--- Romania    3183    116    267
+-- Romania    3183    116    283
 -- Ecuador    3163    120    65
 -- Poland    3149    59    56
 -- Philippines    3018    136    52
--- Japan    2924    74    505
+-- Japan    2924    74    514
 ---- Hokkaido    185    8    100
 ---- kochi    21    0    0
 ---- Miyagi    12    0    0
@@ -3082,9 +3082,9 @@
 -- Hong Kong    845    4    154
 -- Iraq    772    54    202
 -- Armenia    736    7    43
--- Morocco    735    47    34
+-- Morocco    735    47    49
 -- Lithuania    696    9    7
--- Bahrain    643    4    381
+-- Bahrain    672    4    382
 -- Hungary    623    26    43
 -- Bosnia and Herzegovina    543    16    27
 -- Lebanon    508    17    46
@@ -3101,11 +3101,11 @@
 -- North Macedonia    384    11    17
 -- Uruguay    369    4    68
 -- Cyprus    356    10    28
+-- Belarus    351    4    53
 -- Taiwan    348    5    50
 -- Réunion    308    0    40
 -- Cameroon    306    7    10
 -- Albania    304    16    89
--- Belarus    304    4    53
 -- Jordan    299    5    45
 -- Burkina Faso    288    16    50
 -- Afghanistan    273    6    10
@@ -3115,11 +3115,11 @@
 -- Viet Nam    233    0    85
 -- Honduras    222    15    3
 -- Uzbekistan    221    2    25
+-- Senegal    207    1    66
 -- Ghana    204    5    31
--- Malta    196    0    2
--- Senegal    195    1    55
+-- Malta    202    0    2
 -- Côte d'Ivoire    194    1    15
--- Nigeria    184    2    20
+-- Nigeria    190    2    20
 -- Faroe Islands    179    0    91
 -- Palestine    171    1    18
 -- Mauritius    169    7    0
@@ -3173,7 +3173,7 @@
 -- Congo    22    2    2
 -- Gabon    21    1    1
 -- Myanmar    20    1    0
--- Tanzania, United Republic of    20    1    2
+-- Tanzania, United Republic of    20    1    3
 -- Maldives    19    0    13
 -- Haiti    18    0    1
 -- New Caledonia    18    0    1
