@@ -3003,7 +3003,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11506    168    2022
+-- Austria    11524    168    2022
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -3225,6 +3225,7 @@
 -- Benin    16    0    2
 -- Equatorial Guinea    16    0    1
 -- Guinea-Bissau    15    0    0
+-- Antigua and Barbuda    15    0    0
 -- Namibia    14    0    3
 -- Mongolia    14    0    2
 -- Saint Lucia    13    0    1
@@ -3241,7 +3242,6 @@
 -- Saint Kitts and Nevis    9    0    0
 -- Zimbabwe    9    1    0
 -- Eswatini    9    0    0
--- Antigua and Barbuda    9    0    0
 -- Angola    8    2    1
 -- Chad    8    0    0
 -- Central African Republic    8    0    0
@@ -3253,10 +3253,10 @@
 -- Nepal    7    0    1
 -- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
+-- Montserrat    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
 -- Nicaragua    5    1    0
--- Montserrat    5    0    0
 -- Bhutan    5    0    2
 -- Botswana    4    1    0
 -- Belize    4    0    0
