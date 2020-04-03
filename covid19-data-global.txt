@@ -2940,12 +2940,13 @@
 ---- Scotland    2602    76    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
--- Switzerland    19106    565    4846
+-- Switzerland    19303    573    4846
 -- Turkey    18757    356    415
 -- Belgium    16770    1143    2872
 -- Netherlands    14788    1341    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
+-- Austria    11301    168    2022
 -- Canada    11284    173    1979
 ---- British Columbia    1121    31    183
 ---- Ontario    2793    53    8
@@ -2960,7 +2961,6 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11251    168    2022
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -2996,7 +2996,7 @@
 -- Norway    5255    54    32
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
--- Denmark    3861    123    1183
+-- Denmark    3861    139    1193
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    3849    98    5
@@ -3076,10 +3076,10 @@
 -- Estonia    961    12    48
 -- Qatar    949    3    72
 -- Ukraine    942    23    19
--- Slovenia    897    17    70
+-- Slovenia    934    20    70
 -- New Zealand    868    1    103
 -- Egypt    865    58    201
--- Hong Kong    845    4    154
+-- Hong Kong    845    4    173
 -- Iraq    772    54    202
 -- Armenia    736    7    43
 -- Morocco    735    47    49
@@ -3093,7 +3093,7 @@
 -- Bulgaria    477    12    30
 -- Tunisia    455    14    5
 -- Kazakhstan    453    3    29
--- Slovakia    450    1    7
+-- Slovakia    450    1    8
 -- Azerbaijan    443    5    32
 -- Andorra    428    15    10
 -- Kuwait    417    0    82
@@ -3129,7 +3129,7 @@
 -- Venezuela, Bolivarian Republic of    146    5    43
 -- Martinique    138    3    27
 -- Congo, Democratic Republic of the    134    13    3
--- Brunei Darussalam    133    1    56
+-- Brunei Darussalam    134    1    65
 -- Bolivia, Plurinational State of    132    9    1
 -- Kyrgyzstan    130    1    5
 -- Guadeloupe    128    6    24
