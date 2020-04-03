@@ -2960,7 +2960,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11199    158    1749
+-- Austria    11224    158    1749
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -2997,14 +2997,14 @@
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
 -- Ireland    3849    98    5
--- Denmark    3573    123    1172
+-- Denmark    3672    123    1172
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3404    18    335
 -- Ecuador    3163    120    65
+-- Poland    3149    59    56
 -- Malaysia    3116    50    767
--- Poland    2946    57    56
--- Japan    2796    73    505
+-- Japan    2885    73    505
 ---- Hokkaido    185    8    100
 ---- kochi    21    0    0
 ---- Miyagi    12    0    0
@@ -3013,10 +3013,10 @@
 ---- Nagano    9    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    15    0    0
----- Saitama    118    4    0
+---- Saitama    119    4    0
 ---- Ishikawa    16    0    0
 ---- Fukuoka    100    0    0
----- Tokyo    684    15    0
+---- Tokyo    773    15    0
 ---- Wakayama    22    1    2
 ---- Kyoto    88    0    16
 ---- Osaka    311    2    1
@@ -3092,7 +3092,7 @@
 -- Latvia    493    0    31
 -- Bulgaria    477    12    30
 -- Tunisia    455    14    5
--- Kazakhstan    448    3    28
+-- Kazakhstan    453    3    29
 -- Andorra    428    15    10
 -- Slovakia    426    1    7
 -- Azerbaijan    400    5    26
@@ -3109,10 +3109,10 @@
 -- Burkina Faso    288    16    50
 -- Albania    277    16    76
 -- Afghanistan    273    6    10
+-- Oman    252    1    57
 -- San Marino    245    30    21
 -- Cuba    233    6    13
 -- Viet Nam    233    0    85
--- Oman    231    1    57
 -- Honduras    222    15    3
 -- Uzbekistan    221    2    25
 -- Ghana    204    5    31
