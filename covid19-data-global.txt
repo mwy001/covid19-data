@@ -2404,7 +2404,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Germany    84794    1107    22440
+-- Germany    85063    1111    22440
 ---- Saxony    2411    19    109
 ---- Mecklenburg-Vorpommern    468    4    50
 ---- Free State of Bavaria    19153    268    2910
@@ -2898,7 +2898,7 @@
 ---- Reunion    308    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    18    0    1
--- Iran, Islamic Republic of    50468    3160    16711
+-- Iran, Islamic Republic of    53183    3294    17935
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -2960,7 +2960,7 @@
 ---- Northwest Territories    2    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11238    158    2022
+-- Austria    11251    168    2022
 -- Korea, Republic of    10062    174    6021
 ---- Busan    122    3    88
 ---- Chungcheongbuk-do    45    0    25
@@ -3002,10 +3002,11 @@
 ---- Faroe Islands    47    0    0
 -- Chile    3404    18    335
 -- Malaysia    3333    53    827
+-- Romania    3183    116    267
 -- Ecuador    3163    120    65
 -- Poland    3149    59    56
 -- Philippines    3018    136    52
--- Japan    2885    73    505
+-- Japan    2924    74    505
 ---- Hokkaido    185    8    100
 ---- kochi    21    0    0
 ---- Miyagi    12    0    0
@@ -3050,7 +3051,6 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    8    0    0
 ---- Yamagata    3    0    0
--- Romania    2738    116    267
 -- India    2567    72    192
 -- Luxembourg    2487    30    80
 -- Pakistan    2450    35    126
@@ -3089,13 +3089,13 @@
 -- Bosnia and Herzegovina    543    16    27
 -- Lebanon    508    17    46
 -- Moldova, Republic of    505    6    23
--- Latvia    493    0    31
+-- Latvia    493    1    31
 -- Bulgaria    477    12    30
 -- Tunisia    455    14    5
 -- Kazakhstan    453    3    29
+-- Slovakia    450    1    7
 -- Azerbaijan    443    5    32
 -- Andorra    428    15    10
--- Slovakia    426    1    7
 -- Kuwait    417    0    82
 -- Costa Rica    396    2    6
 -- North Macedonia    384    11    17
@@ -3104,10 +3104,10 @@
 -- Taiwan    348    5    50
 -- Réunion    308    0    40
 -- Cameroon    306    7    10
+-- Albania    304    16    89
 -- Belarus    304    4    53
 -- Jordan    299    5    45
 -- Burkina Faso    288    16    50
--- Albania    277    16    76
 -- Afghanistan    273    6    10
 -- Oman    252    1    57
 -- San Marino    245    30    21
