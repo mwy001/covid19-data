@@ -1,4 +1,4 @@
--- United States of America    245636    6076    9311
+-- United States of America    245684    6076    9311
 ---- NY    92743    2473    6590
 ------ Westchester(36119)    11567    67    0
 ------ Nassau(36059)    10587    95    0
@@ -1396,7 +1396,7 @@
 ------ Lyon(32019)    1    0    0
 ------ Humboldt(32013)    5    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1093    7    0
+---- UT    1095    7    0
 ------ Salt Lake(49035)    476    4    0
 ------ Summit(49043)    204    0    0
 ------ Davis(49011)    103    1    0
@@ -1828,9 +1828,9 @@
 ------ Newport(44005)    33    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    59    0    0
----- AR    683    12    50
------- Jefferson(05069)    49    0    0
------- Pulaski(05119)    126    5    0
+---- AR    687    12    50
+------ Jefferson(05069)    50    0    0
+------ Pulaski(05119)    127    5    0
 ------ Cleburne(05023)    64    3    0
 ------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    2    0    0
@@ -1865,11 +1865,11 @@
 ------ White(05145)    22    0    0
 ------ Cross(05037)    3    0    0
 ------ Howard(05061)    4    0    0
------- Hempstead(05057)    2    0    0
+------ Hempstead(05057)    3    0    0
 ------ Pike(05109)    2    0    0
 ------ Hot Spring(05059)    5    0    0
 ------ Drew(05043)    3    0    0
------- Lonoke(05085)    13    0    0
+------ Lonoke(05085)    14    0    0
 ------ Randolph(05121)    3    0    0
 ------ Chicot(05017)    2    0    0
 ------ Baxter(05005)    3    0    0
@@ -2101,7 +2101,7 @@
 ------ New Castle(10003)    245    7    0
 ------ Sussex(10005)    105    3    0
 ------ Kent(10001)    43    3    0
----- MO    1860    22    28
+---- MO    1863    22    28
 ------ Greene(29077)    54    6    7
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    69    1    20
@@ -2235,7 +2235,7 @@
 ------ Converse(56009)    3    0    0
 ------ Sublette(56035)    1    0    0
 ------ Uinta(56041)    1    0    0
----- MT    241    6    32
+---- MT    242    6    32
 ------ Missoula(30063)    17    0    0
 ------ Yellowstone(30111)    35    0    0
 ------ Broadwater(30007)    3    0    0
@@ -2404,7 +2404,7 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Germany    85903    1122    22440
+-- Germany    86667    1129    24575
 ---- Saxony    2411    19    109
 ---- Mecklenburg-Vorpommern    468    4    50
 ---- Free State of Bavaria    19153    268    2910
@@ -2943,7 +2943,7 @@
 -- Switzerland    19303    573    4846
 -- Turkey    18757    356    415
 -- Belgium    16770    1143    2872
--- Netherlands    15723    1487    260
+-- Netherlands    15819    1490    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Austria    11383    168    2022
@@ -2996,7 +2996,7 @@
 -- Norway    5296    54    32
 -- Russian Federation    4149    34    281
 -- Czechia    3869    46    71
--- Denmark    3861    139    1193
+-- Denmark    3861    139    1287
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Ireland    3849    98    5
@@ -3068,7 +3068,7 @@
 -- Iceland    1364    5    309
 -- Argentina    1265    37    256
 -- Colombia    1161    19    55
--- Singapore    1114    5    266
+-- Singapore    1114    5    282
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    1079    8    92
 -- United Arab Emirates    1024    8    96
