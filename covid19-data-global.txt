@@ -3075,9 +3075,8 @@
 -- Poland    3383    71    56
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
--- Romania    3183    133    283
--- Japan    3142    78    514
----- Hokkaido    190    8    100
+-- Japan    3278    78    514
+---- Hokkaido    193    8    100
 ---- kochi    23    0    0
 ---- Miyagi    18    0    0
 ---- Niigata    35    0    0
@@ -3088,11 +3087,11 @@
 ---- Saitama    135    4    0
 ---- Ishikawa    24    0    0
 ---- Fukuoka    118    1    0
----- Tokyo    773    18    0
+---- Tokyo    891    18    0
 ---- Wakayama    22    1    2
 ---- Kyoto    106    0    16
 ---- Osaka    346    2    1
----- Chiba    210    1    0
+---- Chiba    212    1    0
 ---- Kanagawa    217    6    1
 ---- Shizuoka    16    0    0
 ---- Aichi    202    19    2
@@ -3101,7 +3100,7 @@
 ---- Mie    13    0    1
 ---- Okinawa    17    0    1
 ---- Ehime    19    1    0
----- hyogo    176    11    0
+---- hyogo    183    11    0
 ---- oita    31    0    0
 ---- Yamaguchi    7    0    0
 ---- Miyazaki    7    0    0
@@ -3121,6 +3120,7 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
+-- Romania    3183    133    283
 -- India    3082    86    229
 -- Philippines    3018    136    52
 -- Pakistan    2708    40    130
