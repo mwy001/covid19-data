@@ -3031,7 +3031,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11525    168    2022
+-- Austria    11589    168    2022
 -- Korea, Republic of    10156    177    6325
 ---- Busan    122    3    90
 ---- Chungcheongbuk-do    45    0    27
@@ -3053,7 +3053,7 @@
 ---- 未确定地区    242    3    1
 -- Portugal    9886    246    68
 -- Brazil    9216    365    127
--- Israel    8385    40    403
+-- Israel    8385    42    427
 -- Sweden    6131    358    205
 -- Australia    5550    30    649
 ---- New South Wales    2389    12    4
@@ -3065,14 +3065,14 @@
 ---- Northern Territory    22    0    0
 ---- Australian Capital Territory    91    1    18
 -- Norway    5370    59    32
+-- Russian Federation    4731    43    333
 -- Ireland    4273    120    25
 -- Czechia    4194    56    74
--- Russian Federation    4149    34    281
 -- Denmark    3946    139    1287
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3737    22    427
--- Poland    3383    71    56
+-- Poland    3503    73    116
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
 -- Japan    3278    78    514
@@ -3121,51 +3121,51 @@
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
 -- Romania    3183    133    283
+-- Philippines    3094    144    57
 -- India    3082    86    229
--- Philippines    3018    136    52
 -- Pakistan    2708    40    130
 -- Luxembourg    2612    31    500
 -- Thailand    2067    20    612
 -- Saudi Arabia    2039    25    351
 -- Indonesia    1986    181    134
+-- Finland    1882    21    300
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
--- Finland    1615    21    300
 -- Greece    1613    63    78
 -- Peru    1595    61    537
 -- South Africa    1505    9    95
 -- Dominican Republic    1488    68    16
 -- Serbia    1476    39    54
--- Iceland    1364    5    309
+-- Iceland    1364    5    336
 -- Argentina    1353    42    266
 -- Colombia    1267    25    55
 -- United Arab Emirates    1264    9    108
 -- Algeria    1171    105    65
 -- Singapore    1114    6    282
 ---- Central Singapore Community Development Council    345    0    124
+-- Ukraine    1096    28    23
 -- Croatia    1079    8    92
 -- Qatar    1075    3    93
--- Ukraine    1072    27    22
 -- Egypt    985    66    216
 -- Estonia    961    12    48
 -- New Zealand    950    1    127
 -- Slovenia    934    20    70
 -- Hong Kong    845    4    173
+-- Morocco    844    50    59
 -- Iraq    820    54    226
--- Morocco    791    48    57
 -- Lithuania    771    9    7
--- Armenia    736    7    43
+-- Armenia    770    7    43
 -- Hungary    678    32    58
 -- Bahrain    673    4    388
+-- Bosnia and Herzegovina    613    18    27
 -- Moldova, Republic of    591    8    26
--- Bosnia and Herzegovina    579    17    27
 -- Cameroon    509    8    17
+-- Latvia    509    1    31
 -- Lebanon    508    17    50
 -- Kazakhstan    500    6    35
 -- Bulgaria    498    14    34
 -- Tunisia    495    18    5
--- Latvia    493    1    31
--- Slovakia    450    1    10
+-- Slovakia    471    1    10
 -- Azerbaijan    443    5    32
 -- Andorra    439    16    16
 -- North Macedonia    430    12    20
@@ -3180,26 +3180,26 @@
 -- Albania    304    17    89
 -- Burkina Faso    302    16    50
 -- Afghanistan    299    6    10
+-- Oman    277    1    61
 -- Cuba    269    6    15
 -- Honduras    264    15    3
--- Oman    252    1    57
 -- San Marino    251    32    26
+-- Uzbekistan    241    2    25
 -- Viet Nam    239    0    90
--- Uzbekistan    227    2    25
 -- Côte d'Ivoire    218    1    19
 -- Nigeria    210    4    25
 -- Senegal    207    1    66
+-- Palestine    205    1    21
 -- Ghana    205    5    31
 -- Malta    202    0    2
--- Palestine    194    1    21
--- Mauritius    186    7    0
--- Faroe Islands    179    0    91
--- Montenegro    174    2    1
--- Sri Lanka    159    5    24
--- Georgia    155    0    28
+-- Montenegro    197    2    1
+-- Mauritius    196    7    0
+-- Faroe Islands    181    0    93
+-- Sri Lanka    159    5    25
+-- Georgia    156    0    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
--- Kyrgyzstan    144    1    6
+-- Kyrgyzstan    144    1    9
 -- Martinique    143    3    27
 -- Bolivia, Plurinational State of    139    10    1
 -- Brunei Darussalam    134    1    65
@@ -3270,15 +3270,15 @@
 -- Sudan    10    2    2
 -- Saint Kitts and Nevis    9    0    0
 -- Zimbabwe    9    1    0
+-- Chad    9    0    0
 -- Eswatini    9    0    0
+-- Nepal    9    0    1
 -- Angola    8    2    1
--- Chad    8    0    0
 -- Central African Republic    8    0    0
 -- Somalia    7    0    1
 -- Liberia    7    0    0
 -- Saint Vincent and the Grenadines    7    0    1
 -- Holy See    7    0    0
--- Nepal    7    0    1
 -- Turks and Caicos Islands    6    0    0
 -- Cabo Verde    6    1    0
 -- Montserrat    6    0    0
