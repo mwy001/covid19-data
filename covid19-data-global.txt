@@ -2475,23 +2475,23 @@
 ---- Liguria    3660    460    555
 ---- Veneto    9625    499    902
 ---- Bolzano    1418    116    190
--- Germany    91159    1275    24575
----- Saxony    2411    19    109
----- Mecklenburg-Vorpommern    468    4    50
----- Free State of Bavaria    19153    268    2910
----- Berlin    3223    20    1564
----- Brandenburg    1124    12    133
----- Thuringia    985    8    390
----- Schleswig-Holstein    1343    12    73
----- Lower Saxony    5059    63    1040
----- Bremen    341    6    109
----- Hamburg    2557    14    1000
----- Rhineland-Palatinate    3276    27    576
----- North Rhine-Westphalia    17614    202    5407
----- Hesse    3882    31    555
----- Baden-Württemberg    15971    281    2363
----- Saxony-Anhalt    838    11    291
----- Saarland    1252    16    120
+-- Germany    91159    1275    25007
+---- Saxony    2646    25    243
+---- Mecklenburg-Vorpommern    501    5    95
+---- Free State of Bavaria    21908    349    3690
+---- Berlin    3223    22    1564
+---- Brandenburg    1353    18    133
+---- Thuringia    1074    10    440
+---- Schleswig-Holstein    1568    17    122
+---- Lower Saxony    5571    85    1481
+---- Bremen    354    6    135
+---- Hamburg    2739    16    1250
+---- Rhineland-Palatinate    3504    30    690
+---- North Rhine-Westphalia    18557    224    6213
+---- Hesse    4279    42    731
+---- Baden-Württemberg    17180    321    2894
+---- Saxony-Anhalt    898    11    291
+---- Saarland    1318    20    179
 -- France    83029    6520    14135
 ---- France    7652    148    12
 ---- St Martin    22    1    2
@@ -2969,7 +2969,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    348    5    50
--- Iran, Islamic Republic of    53183    3294    17935
+-- Iran, Islamic Republic of    55743    3452    17935
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -3053,7 +3053,7 @@
 ---- 未确定地区    242    3    1
 -- Portugal    9886    246    68
 -- Brazil    9216    365    127
--- Israel    8385    42    427
+-- Israel    8385    43    427
 -- Sweden    6131    358    205
 -- Australia    5550    30    649
 ---- New South Wales    2389    12    4
@@ -3072,43 +3072,44 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3737    22    427
+-- Romania    3613    141    329
 -- Poland    3503    73    116
 -- Malaysia    3483    57    915
 -- Ecuador    3368    145    65
--- Japan    3278    78    514
+-- Japan    3338    78    514
 ---- Hokkaido    193    8    100
----- kochi    23    0    0
----- Miyagi    18    0    0
+---- kochi    26    0    0
+---- Miyagi    19    0    0
 ---- Niigata    35    0    0
 ---- Gifu    40    1    0
----- Nagano    10    0    0
+---- Nagano    11    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    18    0    0
 ---- Saitama    135    4    0
 ---- Ishikawa    24    0    0
----- Fukuoka    118    1    0
+---- Fukuoka    146    1    0
 ---- Tokyo    891    18    0
 ---- Wakayama    22    1    2
 ---- Kyoto    106    0    16
 ---- Osaka    346    2    1
----- Chiba    212    1    0
----- Kanagawa    217    6    1
+---- Chiba    221    1    0
+---- Kanagawa    225    6    1
 ---- Shizuoka    16    0    0
----- Aichi    202    19    2
----- Nara    21    0    1
+---- Aichi    203    19    2
+---- Nara    24    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
 ---- Okinawa    17    0    1
 ---- Ehime    19    1    0
----- hyogo    183    11    0
+---- hyogo    188    11    0
 ---- oita    31    0    0
 ---- Yamaguchi    7    0    0
 ---- Miyazaki    7    0    0
----- Shiga    14    0    0
----- Akita    10    0    0
+---- Shiga    17    0    0
+---- Akita    11    0    0
 ---- Yamanashi    11    0    0
----- Hiroshima    13    0    0
----- Gunma    25    1    0
+---- Hiroshima    14    0    0
+---- Gunma    26    1    0
 ---- Fukushima    9    0    0
 ---- Saga    5    0    0
 ---- Nagasaki    10    0    0
@@ -3120,7 +3121,6 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
--- Romania    3183    133    283
 -- Philippines    3094    144    57
 -- India    3082    86    229
 -- Pakistan    2708    40    130
@@ -3144,7 +3144,7 @@
 -- Singapore    1114    6    282
 ---- Central Singapore Community Development Council    345    0    124
 -- Ukraine    1096    28    23
--- Croatia    1079    8    92
+-- Croatia    1079    12    92
 -- Qatar    1075    3    93
 -- Estonia    1018    13    59
 -- Egypt    985    66    216
@@ -3157,12 +3157,12 @@
 -- Armenia    770    7    43
 -- Hungary    678    32    58
 -- Bahrain    673    4    388
--- Bosnia and Herzegovina    614    18    27
+-- Bosnia and Herzegovina    614    19    27
 -- Moldova, Republic of    591    8    26
+-- Kazakhstan    525    6    36
 -- Lebanon    520    17    50
 -- Cameroon    509    8    17
 -- Latvia    509    1    31
--- Kazakhstan    500    6    36
 -- Bulgaria    498    14    34
 -- Tunisia    495    18    5
 -- Slovakia    471    1    10
@@ -3179,7 +3179,7 @@
 -- Jordan    310    5    58
 -- Albania    304    17    89
 -- Burkina Faso    302    16    50
--- Afghanistan    299    6    10
+-- Afghanistan    299    7    10
 -- Oman    277    1    61
 -- Cuba    269    6    15
 -- Honduras    264    15    3
@@ -3227,14 +3227,14 @@
 -- Guatemala    50    1    12
 -- Djibouti    49    0    8
 -- Uganda    48    0    0
--- Macao    42    0    10
+-- Macao    43    0    10
 -- Togo    40    3    17
 -- Mali    39    3    0
 -- Zambia    39    1    2
 -- Puerto Rico    39    2    1
 -- French Polynesia    39    0    0
+-- Ethiopia    38    0    4
 -- Bermuda    35    0    14
--- Ethiopia    35    0    4
 -- Guam    33    1    0
 -- Cayman Islands    29    1    1
 -- Bahamas    24    3    1
