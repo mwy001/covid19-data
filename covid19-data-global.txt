@@ -1,4 +1,4 @@
--- United States of America    278571    7411    9920
+-- United States of America    278600    7411    9920
 ---- NY    103169    3218    6662
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -585,7 +585,7 @@
 ------ Harris(48201)    1106    13    0
 ------ Bexar(48029)    342    9    44
 ------ Fort Bend(48157)    255    2    14
------- Collin(48085)    256    2    70
+------ Collin(48085)    256    2    91
 ------ Tarrant(48439)    383    7    23
 ------ Smith(48423)    57    1    0
 ------ Montgomery(48339)    130    3    18
@@ -2300,8 +2300,8 @@
 ------ Sublette(56035)    1    0    0
 ------ Uinta(56041)    1    0    0
 ------ Lincoln(56023)    1    0    0
----- MT    262    6    32
------- Missoula(30063)    17    0    0
+---- MT    265    6    32
+------ Missoula(30063)    18    0    0
 ------ Yellowstone(30111)    38    0    0
 ------ Broadwater(30007)    4    0    0
 ------ Gallatin(30031)    101    0    0
@@ -2310,7 +2310,7 @@
 ------ Madison(30057)    6    2    0
 ------ Flathead(30029)    20    0    0
 ------ Lewis and Clark(30049)    14    0    0
------- Ravalli(30081)    1    0    0
+------ Ravalli(30081)    2    0    0
 ------ Cascade(30013)    11    0    0
 ------ Jefferson(30043)    2    0    0
 ------ Hill(30041)    1    0    0
@@ -2324,6 +2324,7 @@
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
 ------ Carbon(30009)    1    0    0
+------ Beaverhead(30001)    1    0    0
 ---- ID    1013    10    0
 ------ Ada(16001)    351    3    0
 ------ Blaine(16013)    405    2    0
@@ -2475,7 +2476,7 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    190
--- Germany    91589    1293    25007
+-- Germany    92050    1295    25007
 ---- Saxony    2646    25    243
 ---- Mecklenburg-Vorpommern    501    5    95
 ---- Free State of Bavaria    21908    349    3690
@@ -2519,7 +2520,7 @@
 ---- Reunion    321    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    18    0    1
--- China    82892    3335    76992
+-- China    82899    3335    76992
 ---- 天津    180    3    140
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2968,7 +2969,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 台湾    348    5    50
+---- 台湾    355    5    50
 -- Iran, Islamic Republic of    55743    3452    19736
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
@@ -3014,7 +3015,7 @@
 -- Turkey    20921    425    484
 -- Switzerland    20278    620    4846
 -- Belgium    18431    1283    3247
--- Netherlands    16627    1651    260
+-- Netherlands    16725    1656    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Canada    12549    208    2322
@@ -3067,10 +3068,10 @@
 -- Norway    5519    61    32
 -- Russian Federation    4731    43    333
 -- Ireland    4273    120    25
--- Czechia    4194    56    74
--- Denmark    4077    161    1289
+-- Denmark    4268    161    1379
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Czechia    4194    56    74
 -- Chile    3737    22    427
 -- Romania    3613    141    329
 -- Poland    3503    73    116
@@ -3135,16 +3136,16 @@
 -- Serbia    1624    44    54
 -- Peru    1595    61    537
 -- South Africa    1505    9    95
--- United Arab Emirates    1505    9    108
+-- United Arab Emirates    1505    10    125
 -- Dominican Republic    1488    68    16
 -- Iceland    1417    5    396
 -- Argentina    1353    42    266
 -- Colombia    1267    25    55
 -- Algeria    1171    105    65
+-- Croatia    1126    12    119
 -- Singapore    1114    6    282
 ---- Central Singapore Community Development Council    345    0    124
 -- Ukraine    1096    28    23
--- Croatia    1079    12    92
 -- Qatar    1075    3    93
 -- Estonia    1018    13    59
 -- Egypt    985    66    216
@@ -3157,7 +3158,7 @@
 -- Armenia    770    7    43
 -- Bahrain    688    4    399
 -- Hungary    678    32    58
--- Bosnia and Herzegovina    616    19    27
+-- Bosnia and Herzegovina    617    19    28
 -- Moldova, Republic of    591    10    26
 -- Kazakhstan    525    6    36
 -- Azerbaijan    521    5    32
@@ -3189,8 +3190,8 @@
 -- Senegal    219    2    72
 -- Côte d'Ivoire    218    1    19
 -- Malta    213    0    2
+-- Palestine    210    1    21
 -- Nigeria    210    4    25
--- Palestine    205    1    21
 -- Ghana    205    5    31
 -- Montenegro    197    2    1
 -- Mauritius    196    7    0
@@ -3228,8 +3229,8 @@
 -- Guatemala    50    1    12
 -- Uganda    48    0    0
 -- Macao    43    0    10
+-- Mali    41    3    1
 -- Togo    41    3    17
--- Mali    39    3    0
 -- Zambia    39    1    2
 -- Puerto Rico    39    2    1
 -- French Polynesia    39    0    0
