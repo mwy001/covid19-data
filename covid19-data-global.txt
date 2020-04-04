@@ -1,5 +1,5 @@
--- United States of America    277999    7411    9823
----- NY    103060    3218    6622
+-- United States of America    278117    7411    9863
+---- NY    103169    3218    6662
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
 ------ Suffolk(36103)    10154    96    0
@@ -8,11 +8,11 @@
 ------ Dutchess(36027)    809    5    0
 ------ Orange(36071)    2470    40    0
 ------ Monroe(36055)    464    10    94
------- Erie(36029)    734    19    101
+------ Erie(36029)    802    22    141
 ------ Saratoga(36091)    141    1    0
------- Ulster(36111)    263    3    0
+------ Ulster(36111)    266    4    0
 ------ Schenectady(36093)    110    5    20
------- Tompkins(36109)    87    0    46
+------ Tompkins(36109)    93    0    46
 ------ Allegany(36003)    14    1    0
 ------ Greene(36039)    23    0    0
 ------ Onondaga(36067)    322    3    87
@@ -27,7 +27,7 @@
 ------ Oneida(36065)    71    1    0
 ------ Ontario(36069)    28    0    0
 ------ Rensselaer(36083)    67    0    0
------- Sullivan(36105)    168    5    0
+------ Sullivan(36105)    188    5    0
 ------ Tioga(36107)    8    0    0
 ------ Wyoming(36121)    15    1    5
 ------ Chenango(36017)    32    0    0
@@ -41,19 +41,19 @@
 ------ Jefferson(36045)    18    0    0
 ------ Wayne(36117)    30    0    0
 ------ Steuben(36101)    46    0    0
------- Columbia(36021)    51    2    22
+------ Columbia(36021)    57    2    22
 ------ Livingston(36051)    18    1    1
 ------ Cortland(36023)    14    0    3
 ------ Queens(36081)    2715    0    0
 ------ Bronx(36005)    1411    0    0
 ------ Kings(36047)    2857    0    0
 ------ Richmond(36085)    593    0    0
------- Madison(36053)    77    2    10
+------ Madison(36053)    78    2    10
 ------ Oswego(36075)    28    0    75
 ------ Chemung(36015)    35    0    0
 ------ Otsego(36077)    21    1    0
 ------ Cayuga(36011)    6    0    1
------- St Lawrence(36089)    43    0    0
+------ St Lawrence(36089)    48    0    0
 ------ Chautauqua(36013)    9    1    0
 ------ Franklin(36033)    10    0    0
 ------ Orleans(36073)    6    0    0
@@ -1824,7 +1824,7 @@
 ------ Cheshire(33005)    9    0    0
 ------ Strafford(33017)    36    0    0
 ------ Sullivan(33019)    5    0    0
----- NE    279    6    0
+---- NE    285    6    0
 ------ Douglas(31055)    124    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
@@ -2160,7 +2160,7 @@
 ------ New Castle(10003)    279    9    0
 ------ Sussex(10005)    117    3    0
 ------ Kent(10001)    54    3    0
----- MO    2155    33    28
+---- MO    2158    33    28
 ------ Greene(29077)    64    7    7
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    74    1    20
@@ -3016,7 +3016,7 @@
 -- Netherlands    15821    1492    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    12545    208    2321
+-- Canada    12549    208    2321
 ---- British Columbia    1174    35    183
 ---- Ontario    3255    67    8
 ---- Alberta    1075    18    0
@@ -3054,7 +3054,7 @@
 -- Brazil    9216    365    127
 -- Israel    8385    40    403
 -- Sweden    6131    358    205
--- Australia    5454    28    649
+-- Australia    5454    30    649
 ---- New South Wales    2389    12    4
 ---- Victoria    1085    7    476
 ---- Queensland    873    4    8
@@ -3120,13 +3120,13 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
--- India    3082    86    192
+-- India    3082    86    229
 -- Philippines    3018    136    52
 -- Pakistan    2686    40    126
 -- Luxembourg    2612    31    500
+-- Thailand    2067    20    612
 -- Saudi Arabia    2039    25    351
 -- Indonesia    1986    181    134
--- Thailand    1978    19    612
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
 -- Finland    1615    21    300
@@ -3152,8 +3152,8 @@
 -- Hong Kong    845    4    173
 -- Iraq    820    54    226
 -- Morocco    791    48    57
+-- Lithuania    771    9    7
 -- Armenia    736    7    43
--- Lithuania    696    9    7
 -- Bahrain    672    4    382
 -- Hungary    623    26    43
 -- Moldova, Republic of    591    8    26
@@ -3168,7 +3168,7 @@
 -- Azerbaijan    443    5    32
 -- Andorra    439    16    16
 -- North Macedonia    430    12    20
--- Kuwait    417    0    82
+-- Kuwait    417    1    82
 -- Costa Rica    416    2    11
 -- Cyprus    396    11    28
 -- Uruguay    386    4    86
@@ -3198,10 +3198,10 @@
 -- Georgia    155    0    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
+-- Kyrgyzstan    144    1    6
 -- Martinique    143    3    27
 -- Bolivia, Plurinational State of    139    10    1
 -- Brunei Darussalam    134    1    65
--- Kyrgyzstan    130    1    6
 -- Guadeloupe    130    7    24
 -- Mayotte    128    2    10
 -- Kosovo    126    1    10
