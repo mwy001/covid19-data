@@ -1,4 +1,4 @@
--- United States of America    278130    7411    9863
+-- United States of America    278492    7411    9897
 ---- NY    103169    3218    6662
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -365,8 +365,8 @@
 ------ Custer(08027)    2    0    0
 ------ Las Animas(08071)    1    0    0
 ------ Rio Blanco(08103)    1    0    0
----- IL    8904    210    7
------- Cook(17031)    6111    141    2
+---- IL    9266    210    7
+------ Cook(17031)    6473    141    2
 ------ Lake(17097)    608    13    0
 ------ Sangamon(17167)    20    2    0
 ------ Kane(17089)    743    9    0
@@ -1260,11 +1260,11 @@
 ------ Ashe(37009)    1    0    0
 ------ Pender(37141)    1    0    0
 ------ Warren(37185)    1    0    0
----- MI    12744    479    15
+---- MI    12744    479    44
 ------ Oakland(26125)    2540    136    0
 ------ Wayne(26163)    6096    223    0
 ------ Macomb(26099)    1560    65    0
------- Washtenaw(26161)    477    8    15
+------ Washtenaw(26161)    477    8    44
 ------ Kent(26081)    136    2    0
 ------ Ingham(26065)    152    1    0
 ------ Bay(26017)    18    0    0
@@ -2161,7 +2161,7 @@
 ------ New Castle(10003)    279    9    0
 ------ Sussex(10005)    117    3    0
 ------ Kent(10001)    54    3    0
----- MO    2158    33    28
+---- MO    2158    33    33
 ------ Greene(29077)    64    7    7
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    74    1    20
@@ -3017,7 +3017,7 @@
 -- Netherlands    15821    1492    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    12549    208    2321
+-- Canada    12549    208    2322
 ---- British Columbia    1174    35    183
 ---- Ontario    3255    67    8
 ---- Alberta    1075    18    0
@@ -3031,7 +3031,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11524    168    2022
+-- Austria    11525    168    2022
 -- Korea, Republic of    10156    177    6325
 ---- Busan    122    3    90
 ---- Chungcheongbuk-do    45    0    27
@@ -3055,7 +3055,7 @@
 -- Brazil    9216    365    127
 -- Israel    8385    40    403
 -- Sweden    6131    358    205
--- Australia    5454    30    649
+-- Australia    5550    30    649
 ---- New South Wales    2389    12    4
 ---- Victoria    1085    7    476
 ---- Queensland    873    4    8
@@ -3101,7 +3101,7 @@
 ---- Mie    13    0    1
 ---- Okinawa    17    0    1
 ---- Ehime    19    1    0
----- hyogo    175    11    0
+---- hyogo    176    11    0
 ---- oita    31    0    0
 ---- Yamaguchi    7    0    0
 ---- Miyazaki    7    0    0
@@ -3123,7 +3123,7 @@
 ---- Yamagata    8    0    0
 -- India    3082    86    229
 -- Philippines    3018    136    52
--- Pakistan    2686    40    126
+-- Pakistan    2708    40    130
 -- Luxembourg    2612    31    500
 -- Thailand    2067    20    612
 -- Saudi Arabia    2039    25    351
@@ -3161,10 +3161,10 @@
 -- Bosnia and Herzegovina    579    17    27
 -- Cameroon    509    8    17
 -- Lebanon    508    17    50
+-- Kazakhstan    500    6    35
+-- Bulgaria    498    14    34
 -- Tunisia    495    18    5
 -- Latvia    493    1    31
--- Bulgaria    485    14    30
--- Kazakhstan    464    6    29
 -- Slovakia    450    1    10
 -- Azerbaijan    443    5    32
 -- Andorra    439    16    16
@@ -3173,8 +3173,8 @@
 -- Costa Rica    416    2    11
 -- Cyprus    396    11    28
 -- Uruguay    386    4    86
+-- Taiwan    355    5    50
 -- Belarus    351    4    53
--- Taiwan    348    5    50
 -- Réunion    321    0    40
 -- Jordan    310    5    58
 -- Albania    304    17    89
@@ -3184,7 +3184,7 @@
 -- Honduras    264    15    3
 -- Oman    252    1    57
 -- San Marino    251    32    26
--- Viet Nam    239    0    85
+-- Viet Nam    239    0    90
 -- Uzbekistan    227    2    25
 -- Côte d'Ivoire    218    1    19
 -- Nigeria    210    4    25
@@ -3221,12 +3221,12 @@
 -- Aruba    62    0    1
 -- Bangladesh    61    6    26
 -- French Guiana    57    0    22
+-- El Salvador    56    3    0
 -- Jamaica    53    3    7
 -- Barbados    51    0    0
 -- Guatemala    50    1    12
 -- Djibouti    49    0    8
 -- Uganda    48    0    0
--- El Salvador    46    3    0
 -- Macao    42    0    10
 -- Togo    40    3    17
 -- Mali    39    3    0
