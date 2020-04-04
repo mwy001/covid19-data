@@ -1222,7 +1222,7 @@
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    7    0    0
 ------ Bertie(37015)    6    1    0
------- Duplin(37061)    4    0    0
+------ Duplin(37061)    5    0    0
 ------ Lenoir(37107)    7    0    0
 ------ Beaufort(37013)    9    0    0
 ------ Caldwell(37027)    5    0    0
@@ -2478,7 +2478,7 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    211
--- Germany    92050    1295    25007
+-- Germany    92081    1299    26400
 ---- Saxony    2646    25    243
 ---- Mecklenburg-Vorpommern    501    5    95
 ---- Free State of Bavaria    21908    349    3690
@@ -2495,9 +2495,9 @@
 ---- Baden-Württemberg    17180    321    2894
 ---- Saxony-Anhalt    898    11    291
 ---- Saarland    1318    20    179
--- France    83029    6520    14135
+-- France    83031    6521    14138
 ---- France    7652    148    12
----- St Martin    22    1    2
+---- St Martin    24    2    5
 ---- Saint Barthelemy    6    0    1
 ---- Nord-Pas-de-Calais and Picardy    1753    7    4
 ---- Ile-de-France    7660    2    2
@@ -3004,7 +3004,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    41903    4313    209
+-- United Kingdom of Great Britain and Northern Ireland    42433    4320    209
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3133,7 +3133,7 @@
 -- Thailand    2067    20    612
 -- Finland    1882    25    300
 -- Mexico    1688    60    633
--- Panama    1673    41    10
+-- Panama    1673    41    13
 -- Greece    1643    67    78
 -- Serbia    1624    44    54
 -- Peru    1595    61    537
@@ -3143,7 +3143,7 @@
 -- Iceland    1417    5    396
 -- Argentina    1353    42    266
 -- Colombia    1267    25    55
--- Singapore    1187    6    297
+-- Singapore    1189    6    297
 ---- Central Singapore Community Development Council    345    0    124
 -- Algeria    1171    105    65
 -- Croatia    1126    12    119
@@ -3158,10 +3158,10 @@
 -- Iraq    820    54    226
 -- Lithuania    771    10    7
 -- Armenia    770    7    43
+-- Moldova, Republic of    752    10    26
 -- Bahrain    688    4    399
 -- Hungary    678    32    58
 -- Bosnia and Herzegovina    617    19    28
--- Moldova, Republic of    591    10    26
 -- Kazakhstan    525    6    36
 -- Azerbaijan    521    5    32
 -- Lebanon    520    17    50
@@ -3173,11 +3173,11 @@
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
 -- Andorra    466    17    21
+-- Belarus    440    5    53
 -- Costa Rica    416    2    11
 -- Cyprus    396    11    28
 -- Uruguay    386    4    86
 -- Taiwan    355    5    50
--- Belarus    351    4    53
 -- Albania    333    18    99
 -- Réunion    321    0    40
 -- Jordan    310    5    58
@@ -3213,9 +3213,9 @@
 -- Isle of Man    121    1    0
 -- Niger    120    5    0
 -- Cambodia    114    0    50
--- Trinidad and Tobago    100    6    1
+-- Trinidad and Tobago    101    6    1
+-- Gibraltar    98    0    52
 -- Paraguay    96    3    12
--- Gibraltar    95    0    46
 -- Rwanda    89    0    0
 -- Liechtenstein    75    0    0
 -- Guinea    73    0    2
