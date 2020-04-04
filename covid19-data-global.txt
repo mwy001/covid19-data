@@ -2433,48 +2433,48 @@
 ---- VI    38    0    29
 ---- MP    8    1    0
 -- Spain    124736    11744    34219
----- Andalusia    6972    343    228
----- Aragon    2700    200    320
----- Balearic Islands    1204    58    239
----- Basque Country    7317    412    2490
----- Canary Islands    1444    68    94
----- Cantabria    1268    60    60
----- Castile and León    7355    641    1498
----- Castile-La Mancha    7682    854    494
----- Catalonia    21804    2093    6917
----- Community of Madrid    32155    4175    12400
----- Comunidad Foral de Navarra    2682    141    278
----- Extremadura    1837    181    139
----- Galicia    4842    3032    333
----- Principality of Asturias    1384    69    135
----- Región de Murcia    1084    42    45
----- Rioja    2083    101    641
----- Valencian Community    6308    443    432
----- Melilla    62    1    0
+---- Andalusia    7869    426    463
+---- Aragon    3078    251    440
+---- Balearic Islands    1271    71    422
+---- Basque Country    8187    477    3098
+---- Canary Islands    1564    78    123
+---- Cantabria    1384    68    99
+---- Castile and León    8332    786    2021
+---- Castile-La Mancha    9324    989    657
+---- Catalonia    24734    2508    8635
+---- Community of Madrid    36249    4723    15362
+---- Comunidad Foral de Navarra    2972    171    311
+---- Extremadura    1979    208    205
+---- Galicia    5625    3032    531
+---- Principality of Asturias    1522    76    190
+---- Región de Murcia    1188    51    113
+---- Rioja    2405    128    843
+---- Valencian Community    6901    571    695
+---- Melilla    79    2    9
 ---- Navarre    130    0    0
----- Ceuta    55    1    0
+---- Ceuta    73    1    2
 -- Italy    119827    14681    19758
----- Abruzzo    1436    123    102
----- Aosta Valley    631    59    32
----- Apulia    1946    129    61
----- Basilicata    237    9    3
----- Calabria    669    38    21
----- Campania    2231    148    107
----- Emilia-Romagna    14787    1732    1566
----- Friuli Venezia Giulia    1685    122    357
----- Lazio    3264    169    337
----- Lombardy    44773    7593    11415
----- Marche    3962    477    29
----- Molise    160    10    19
----- Piemont    9795    886    439
----- Sardinia    745    34    36
----- Sicily    1718    88    86
----- Trentino-Alto Adige - Südtirol    1870    173    214
----- Tuscany    4867    253    182
----- Umbria    1095    37    194
----- Liguria    3660    460    555
----- Veneto    9625    499    902
----- Bolzano    1418    116    190
+---- Abruzzo    1563    146    116
+---- Aosta Valley    719    70    89
+---- Apulia    2182    164    69
+---- Basilicata    261    11    3
+---- Calabria    733    45    26
+---- Campania    2677    181    144
+---- Emilia-Romagna    15932    1902    1852
+---- Friuli Venezia Giulia    1879    136    419
+---- Lazio    3600    199    392
+---- Lombardy    47520    8311    13020
+---- Marche    4230    557    42
+---- Molise    176    11    21
+---- Piemont    10896    1043    723
+---- Sardinia    825    41    40
+---- Sicily    1859    101    94
+---- Trentino-Alto Adige - Südtirol    2109    204    246
+---- Tuscany    5499    290    300
+---- Umbria    1179    39    220
+---- Liguria    3965    519    700
+---- Veneto    10464    572    1031
+---- Bolzano    1563    146    190
 -- Germany    91159    1275    25007
 ---- Saxony    2646    25    243
 ---- Mecklenburg-Vorpommern    501    5    95
@@ -3054,7 +3054,7 @@
 ---- 未确定地区    242    3    1
 -- Brazil    9216    365    127
 -- Israel    8385    43    427
--- Sweden    6131    358    205
+-- Sweden    6443    373    205
 -- Australia    5550    30    701
 ---- New South Wales    2493    12    4
 ---- Victoria    1115    8    527
@@ -3076,12 +3076,12 @@
 -- Poland    3503    73    116
 -- Malaysia    3483    57    915
 -- Ecuador    3368    145    65
--- Japan    3338    78    514
+-- Japan    3360    78    514
 ---- Hokkaido    193    8    100
 ---- kochi    26    0    0
----- Miyagi    19    0    0
+---- Miyagi    20    0    0
 ---- Niigata    35    0    0
----- Gifu    40    1    0
+---- Gifu    44    1    0
 ---- Nagano    11    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    18    0    0
@@ -3090,17 +3090,17 @@
 ---- Fukuoka    146    1    0
 ---- Tokyo    891    18    0
 ---- Wakayama    22    1    2
----- Kyoto    106    0    16
+---- Kyoto    109    0    16
 ---- Osaka    346    2    1
 ---- Chiba    221    1    0
----- Kanagawa    225    6    1
+---- Kanagawa    234    6    1
 ---- Shizuoka    16    0    0
 ---- Aichi    203    19    2
 ---- Nara    24    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
 ---- Okinawa    17    0    1
----- Ehime    19    1    0
+---- Ehime    20    1    0
 ---- hyogo    188    11    0
 ---- oita    31    0    0
 ---- Yamaguchi    7    0    0
@@ -3110,8 +3110,8 @@
 ---- Yamanashi    11    0    0
 ---- Hiroshima    14    0    0
 ---- Gunma    26    1    0
----- Fukushima    9    0    0
----- Saga    5    0    0
+---- Fukushima    13    0    0
+---- Saga    6    0    0
 ---- Nagasaki    10    0    0
 ---- Ibaraki    54    2    0
 ---- Kagawa    2    0    0
@@ -3164,7 +3164,7 @@
 -- Lebanon    520    17    50
 -- Cameroon    509    8    17
 -- Latvia    509    1    31
--- Bulgaria    498    15    34
+-- Bulgaria    498    17    34
 -- Tunisia    495    18    5
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
@@ -3175,7 +3175,7 @@
 -- Uruguay    386    4    86
 -- Taiwan    355    5    50
 -- Belarus    351    4    53
--- Albania    332    18    99
+-- Albania    333    18    99
 -- Réunion    321    0    40
 -- Jordan    310    5    58
 -- Burkina Faso    302    16    50
@@ -3206,7 +3206,7 @@
 -- Guadeloupe    130    7    24
 -- Mayotte    128    2    10
 -- Kosovo    126    1    10
--- Kenya    122    4    4
+-- Kenya    126    4    4
 -- Isle of Man    121    1    0
 -- Niger    120    5    0
 -- Cambodia    114    0    50
@@ -3228,7 +3228,7 @@
 -- Guatemala    50    1    12
 -- Uganda    48    0    0
 -- Macao    43    0    10
--- Togo    40    3    17
+-- Togo    41    3    17
 -- Mali    39    3    0
 -- Zambia    39    1    2
 -- Puerto Rico    39    2    1
