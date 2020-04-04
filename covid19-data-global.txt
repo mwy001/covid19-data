@@ -1,4 +1,4 @@
--- United States of America    278492    7411    9897
+-- United States of America    278492    7411    9899
 ---- NY    103169    3218    6662
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -100,7 +100,7 @@
 ------ Wahkiakum(53069)    1    0    0
 ------ Pend Oreille(53051)    1    0    0
 ------ Asotin(53003)    1    0    0
----- CA    12507    285    212
+---- CA    12512    285    214
 ------ Santa Clara(06085)    1094    38    0
 ------ Los Angeles(06037)    4566    93    0
 ------ San Mateo(06081)    486    13    0
@@ -124,16 +124,16 @@
 ------ San Bernardino(06071)    353    13    0
 ------ Stanislaus(06099)    51    0    0
 ------ Tulare(06107)    81    3    4
------- Calaveras(06009)    3    0    0
+------ Calaveras(06009)    4    0    0
 ------ Fresno(06019)    100    1    0
------- Imperial(06025)    52    1    6
+------ Imperial(06025)    55    1    6
 ------ Monterey(06053)    53    2    0
 ------ Santa Barbara(06083)    152    1    24
 ------ Amador(06005)    3    0    0
 ------ Humboldt(06023)    40    0    1
 ------ Kern(06029)    199    3    0
 ------ Madera(06039)    28    1    3
------- Nevada(06057)    30    1    0
+------ Nevada(06057)    31    1    0
 ------ Shasta(06089)    16    2    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    1
@@ -190,13 +190,13 @@
 ------ Hampshire(25015)    114    3    0
 ---- FL    10268    170    0
 ------ Broward(12011)    1598    22    0
------- Palm Beach(12099)    858    29    0
+------ Palm Beach(12099)    858    33    0
 ------ Duval(12031)    323    9    0
 ------ Volusia(12127)    125    1    0
 ------ Hillsborough(12057)    463    5    0
 ------ Manatee(12081)    104    3    0
 ------ Collier(12021)    203    2    0
------- Orange(12095)    602    6    0
+------ Orange(12095)    602    7    0
 ------ Osceola(12097)    201    4    0
 ------ Lee(12071)    304    11    0
 ------ Alachua(12001)    110    0    0
@@ -212,7 +212,7 @@
 ------ Escambia(12033)    113    0    0
 ------ Lake(12069)    88    2    0
 ------ Nassau(12089)    19    3    0
------- Polk(12105)    126    2    0
+------ Polk(12105)    126    3    0
 ------ Santa Rosa(12113)    48    2    0
 ------ Gadsden(12039)    3    0    0
 ------ Leon(12073)    39    1    0
@@ -1420,10 +1420,10 @@
 ---- NV    1559    43    29
 ------ Clark(32003)    1279    39    0
 ------ Washoe(32031)    229    4    26
------- Carson City(32510)    5    0    0
+------ Carson City(32510)    5    0    1
 ------ Elko(32007)    7    0    0
------- Douglas(32005)    7    0    0
------- Nye(32023)    6    0    0
+------ Douglas(32005)    7    0    1
+------ Nye(32023)    6    0    1
 ------ Lyon(32019)    2    0    0
 ------ Humboldt(32013)    7    0    0
 ------ White Pine(32033)    1    0    0
@@ -1495,22 +1495,22 @@
 ------ Allendale(45005)    1    0    0
 ------ Cherokee(45021)    1    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1535    38    0
+---- AL    1543    38    0
 ------ Jefferson(01073)    369    6    0
------- Shelby(01117)    115    4    0
------- Lee(01081)    99    3    0
+------ Shelby(01117)    118    4    0
+------ Lee(01081)    100    3    0
 ------ Tuscaloosa(01125)    41    0    0
 ------ Elmore(01051)    19    0    0
 ------ Montgomery(01101)    61    1    0
 ------ Baldwin(01003)    28    1    0
 ------ Limestone(01083)    30    0    0
 ------ Madison(01089)    123    1    0
------- Calhoun(01015)    20    0    0
------- St Clair(01115)    23    0    0
------- Chambers(01017)    81    5    0
+------ Calhoun(01015)    21    0    0
+------ St Clair(01115)    24    0    0
+------ Chambers(01017)    83    5    0
 ------ Talladega(01121)    12    0    0
 ------ Walker(01127)    49    0    0
------- Mobile(01097)    103    5    0
+------ Mobile(01097)    104    5    0
 ------ Jackson(01071)    12    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    14    2    0
@@ -2119,7 +2119,7 @@
 ------ Doniphan(20043)    1    0    0
 ------ Woodson(20207)    3    0    0
 ------ Neosho(20133)    1    0    0
------- Shawnee(20177)    26    2    0
+------ Shawnee(20177)    26    2    3
 ------ Jefferson(20087)    2    0    0
 ------ Sumner(20191)    2    0    0
 ------ Gove(20063)    1    0    0
@@ -2248,19 +2248,19 @@
 ------ Niihau in Kauai(15007)    13    0    0
 ------ Kahoolawe in Maui(15009)    36    0    0
 ---- SD    188    2    69
------- Minnehaha(46099)    68    0    12
------- Beadle(46005)    21    1    13
+------ Minnehaha(46099)    68    0    15
+------ Beadle(46005)    21    1    17
 ------ Bon Homme(46009)    1    0    1
 ------ Charles Mix(46023)    1    0    1
 ------ Davison(46035)    3    0    2
 ------ Pennington(46103)    6    1    1
 ------ McCook(46087)    2    0    1
------- Brown(46013)    7    0    2
------- Codington(46029)    8    0    2
+------ Brown(46013)    7    0    4
+------ Codington(46029)    8    0    3
 ------ Hughes(46065)    3    0    2
 ------ Lyman(46085)    1    0    1
 ------ Brookings(46011)    2    0    2
------- Lincoln(46083)    19    0    1
+------ Lincoln(46083)    19    0    3
 ------ Meade(46093)    2    0    1
 ------ Aurora(46003)    1    0    1
 ------ Faulk(46049)    1    0    1
@@ -2329,7 +2329,7 @@
 ------ Blaine(16013)    405    2    0
 ------ Madison(16065)    5    0    0
 ------ Teton(16081)    3    0    0
------- Twin Falls(16083)    33    0    0
+------ Twin Falls(16083)    33    1    0
 ------ Kootenai(16055)    37    0    0
 ------ Canyon(16027)    89    1    0
 ------ Fremont(16043)    1    0    0
@@ -2428,8 +2428,8 @@
 ------ Pendleton(54071)    1    0    0
 ------ Mineral(54057)    2    0    0
 ---- GU    84    4    14
------- Guam(66010)    82    3    12
----- PR    378    15    0
+------ Guam(66010)    84    4    14
+---- PR    452    18    0
 ---- VI    38    0    29
 ---- MP    8    1    0
 -- Spain    124736    11744    34219
@@ -2475,7 +2475,7 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    190
--- Germany    91159    1275    25007
+-- Germany    91589    1293    25007
 ---- Saxony    2646    25    243
 ---- Mecklenburg-Vorpommern    501    5    95
 ---- Free State of Bavaria    21908    349    3690
@@ -3125,10 +3125,10 @@
 -- India    3082    86    229
 -- Pakistan    2708    41    130
 -- Luxembourg    2612    31    500
+-- Saudi Arabia    2179    29    420
 -- Indonesia    2092    191    150
 -- Thailand    2067    20    612
--- Saudi Arabia    2039    25    351
--- Finland    1882    21    300
+-- Finland    1882    25    300
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
 -- Greece    1643    67    78
@@ -3151,7 +3151,7 @@
 -- Slovenia    977    22    70
 -- New Zealand    950    1    127
 -- Hong Kong    862    4    173
--- Morocco    844    50    59
+-- Morocco    858    50    62
 -- Iraq    820    54    226
 -- Lithuania    771    10    7
 -- Armenia    770    7    43
@@ -3168,7 +3168,7 @@
 -- Tunisia    495    18    5
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
--- Andorra    439    16    16
+-- Andorra    466    17    21
 -- North Macedonia    430    12    20
 -- Costa Rica    416    2    11
 -- Cyprus    396    11    28
@@ -3186,10 +3186,10 @@
 -- San Marino    251    32    26
 -- Uzbekistan    241    2    25
 -- Viet Nam    240    0    90
+-- Senegal    219    2    72
 -- Côte d'Ivoire    218    1    19
 -- Malta    213    0    2
 -- Nigeria    210    4    25
--- Senegal    207    1    66
 -- Palestine    205    1    21
 -- Ghana    205    5    31
 -- Montenegro    197    2    1
@@ -3238,9 +3238,9 @@
 -- Guam    33    1    0
 -- Cayman Islands    29    1    1
 -- Bahamas    24    3    1
+-- Saint Martin (French part)    24    2    5
 -- Guyana    23    4    0
 -- Eritrea    22    0    0
--- Saint Martin (French part)    22    1    2
 -- Congo    22    2    2
 -- Gabon    21    1    1
 -- Myanmar    20    1    0
@@ -3265,6 +3265,7 @@
 -- Lao People's Democratic Republic    10    0    0
 -- Mozambique    10    0    0
 -- Greenland    10    0    3
+-- Liberia    10    1    0
 -- Seychelles    10    0    0
 -- Suriname    10    1    0
 -- Sudan    10    2    2
@@ -3277,7 +3278,6 @@
 -- Central African Republic    8    0    0
 -- Cabo Verde    7    1    0
 -- Somalia    7    0    1
--- Liberia    7    0    0
 -- Saint Vincent and the Grenadines    7    0    1
 -- Holy See    7    0    0
 -- Turks and Caicos Islands    6    0    0
