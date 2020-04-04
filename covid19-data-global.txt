@@ -3004,10 +3004,10 @@
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    28221    2698    0
----- Northern Ireland    774    30    0
----- Wales    2121    117    0
----- Scotland    2602    76    0
+---- England    31797    3302    0
+---- Northern Ireland    904    36    0
+---- Wales    2466    141    0
+---- Scotland    3001    126    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    20921    425    484
@@ -3032,23 +3032,23 @@
 ---- Nunavut    1    0    0
 -- Austria    11524    168    2022
 -- Korea, Republic of    10156    177    6325
----- Busan    122    3    88
----- Chungcheongbuk-do    45    0    25
----- Chungcheongnam-do    134    0    97
----- Daegu    6734    121    4434
+---- Busan    122    3    90
+---- Chungcheongbuk-do    45    0    27
+---- Chungcheongnam-do    135    0    102
+---- Daegu    6761    122    4673
 ---- Daejeon    36    0    18
----- Gangwon-do    41    1    23
+---- Gangwon-do    42    1    23
 ---- Gwangju    26    0    15
----- Gyeonggi-do    539    6    186
----- Gyeongsangbuk-do    1309    42    865
----- Gyeongsangnam-do    107    0    71
----- Incheon    74    0    21
+---- Gyeonggi-do    562    6    200
+---- Gyeongsangbuk-do    1310    44    881
+---- Gyeongsangnam-do    108    0    74
+---- Incheon    77    0    22
 ---- Jeju-do    9    0    4
 ---- Jeollabuk-do    15    0    7
----- Jeollanam-do    15    0    3
----- Sejong    46    0    12
----- Seoul    506    0    131
----- Ulsan    40    1    21
+---- Jeollanam-do    15    0    4
+---- Sejong    46    0    15
+---- Seoul    528    0    144
+---- Ulsan    40    1    24
 ---- 未确定地区    242    3    1
 -- Portugal    9886    246    68
 -- Brazil    9216    365    127
@@ -3075,12 +3075,12 @@
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
 -- Romania    3183    133    283
--- Japan    3129    77    514
+-- Japan    3142    78    514
 ---- Hokkaido    190    8    100
 ---- kochi    23    0    0
 ---- Miyagi    18    0    0
 ---- Niigata    35    0    0
----- Gifu    40    0    0
+---- Gifu    40    1    0
 ---- Nagano    10    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    18    0    0
@@ -3098,7 +3098,7 @@
 ---- Nara    21    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
----- Okinawa    11    0    1
+---- Okinawa    17    0    1
 ---- Ehime    19    1    0
 ---- hyogo    175    11    0
 ---- oita    31    0    0
@@ -3106,20 +3106,20 @@
 ---- Miyazaki    7    0    0
 ---- Shiga    14    0    0
 ---- Akita    10    0    0
----- Yamanashi    9    0    0
+---- Yamanashi    11    0    0
 ---- Hiroshima    13    0    0
 ---- Gunma    25    1    0
 ---- Fukushima    9    0    0
 ---- Saga    5    0    0
----- Nagasaki    9    0    0
+---- Nagasaki    10    0    0
 ---- Ibaraki    54    2    0
 ---- Kagawa    2    0    0
----- Fukui    42    0    0
+---- Fukui    46    0    0
 ---- Okayama    9    0    0
 ---- Aomori    11    0    0
 ---- Kagoshima    3    0    0
----- Toyama    8    0    0
----- Yamagata    3    0    0
+---- Toyama    10    0    0
+---- Yamagata    8    0    0
 -- Philippines    3018    136    52
 -- Pakistan    2686    40    126
 -- Luxembourg    2612    31    500
