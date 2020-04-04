@@ -1,4 +1,4 @@
--- United States of America    301810    8157    14505
+-- United States of America    303632    8174    14505
 ---- NY    113806    3565    10940
 ------ Westchester(36119)    13081    67    0
 ------ Nassau(36059)    13346    95    0
@@ -100,7 +100,7 @@
 ------ Wahkiakum(53069)    1    0    0
 ------ Pend Oreille(53051)    1    0    0
 ------ Asotin(53003)    1    0    0
----- CA    12677    285    214
+---- CA    12757    289    214
 ------ Santa Clara(06085)    1094    38    0
 ------ Los Angeles(06037)    4605    93    0
 ------ San Mateo(06081)    538    13    0
@@ -108,7 +108,7 @@
 ------ San Francisco(06075)    529    8    0
 ------ Sacramento(06067)    390    10    0
 ------ Contra Costa(06013)    307    5    0
------- Orange(06059)    711    13    0
+------ Orange(06059)    786    14    0
 ------ Alameda(06001)    443    12    0
 ------ Riverside(06065)    638    15    50
 ------ San Joaquin(06077)    185    11    0
@@ -123,7 +123,7 @@
 ------ Yolo(06113)    37    1    0
 ------ San Bernardino(06071)    353    13    0
 ------ Stanislaus(06099)    58    0    0
------- Tulare(06107)    81    3    4
+------ Tulare(06107)    81    5    4
 ------ Calaveras(06009)    4    0    0
 ------ Fresno(06019)    100    1    0
 ------ Imperial(06025)    55    1    8
@@ -138,15 +138,15 @@
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    1
 ------ Mono(06051)    19    1    0
------- Butte(06007)    10    0    0
+------ Butte(06007)    11    0    0
 ------ El Dorado(06017)    22    0    1
 ------ Yuba(06115)    9    0    0
 ------ Napa(06055)    20    2    0
 ------ Merced(06047)    16    0    0
 ------ Inyo(06027)    10    0    0
------- Sutter(06101)    14    1    0
+------ Sutter(06101)    16    1    0
 ------ Kings(06031)    5    0    0
------- Colusa(06011)    1    0    0
+------ Colusa(06011)    2    0    0
 ------ Glenn(06021)    2    0    0
 ------ Tuolumne(06109)    2    0    0
 ------ Alpine(06003)    1    0    0
@@ -1060,8 +1060,8 @@
 ------ Malheur(41045)    2    0    0
 ------ Wallowa(41063)    1    0    0
 ------ Crook(41013)    1    0    0
----- VA    2033    47    2
------- Arlington(51013)    135    2    0
+---- VA    2041    47    2
+------ Arlington(51013)    150    2    0
 ------ Fairfax(51059)    372    2    0
 ------ Loudoun(51107)    130    1    0
 ------ Chesterfield(51041)    89    0    0
@@ -1075,7 +1075,7 @@
 ------ York(51199)    17    1    0
 ------ Charles City(51036)    4    0    0
 ------ James City(51095)    104    2    0
------- Albemarle(51003)    26    0    0
+------ Albemarle(51003)    27    0    0
 ------ Gloucester(51073)    8    0    0
 ------ Roanoke(51161)    9    0    0
 ------ Botetourt(51023)    8    0    0
@@ -1119,7 +1119,7 @@
 ------ City of Manassas(51683)    13    0    0
 ------ Warren(51187)    4    0    0
 ------ Washington(51191)    3    0    0
------- Amelia(51007)    5    0    0
+------ Amelia(51007)    6    0    0
 ------ Fauquier(51061)    9    0    0
 ------ Northumberland(51133)    3    0    0
 ------ City of Hampton(51650)    29    1    0
@@ -1266,53 +1266,53 @@
 ------ Ashe(37009)    1    0    0
 ------ Pender(37141)    1    0    0
 ------ Warren(37185)    1    0    0
----- MI    12744    479    44
------- Oakland(26125)    2540    136    0
+---- MI    14225    479    44
+------ Oakland(26125)    2785    136    0
 ------ Wayne(26163)    6096    223    0
------- Macomb(26099)    1560    65    0
------- Washtenaw(26161)    477    8    44
------- Kent(26081)    136    2    0
------- Ingham(26065)    152    1    0
------- Bay(26017)    18    0    0
------- Charlevoix(26029)    5    0    0
------- Jackson(26075)    69    3    0
+------ Macomb(26099)    1838    65    0
+------ Washtenaw(26161)    501    8    44
+------ Kent(26081)    153    2    0
+------ Ingham(26065)    168    1    0
+------ Bay(26017)    24    0    0
+------ Charlevoix(26029)    7    0    0
+------ Jackson(26075)    81    3    0
 ------ Leelanau(26089)    1    0    0
------- Monroe(26115)    95    0    0
------- Montcalm(26117)    12    0    0
------- Otsego(26137)    20    0    0
------- Ottawa(26139)    37    0    0
------- St Clair(26147)    66    0    0
------- Clinton(26037)    49    3    0
------- Livingston(26093)    121    2    0
------- Midland(26111)    16    0    0
------- Eaton(26045)    47    2    0
------- Genesee(26049)    422    11    0
------- Isabella(26073)    9    2    0
+------ Monroe(26115)    101    0    0
+------ Montcalm(26117)    13    0    0
+------ Otsego(26137)    22    0    0
+------ Ottawa(26139)    39    0    0
+------ St Clair(26147)    85    0    0
+------ Clinton(26037)    54    3    0
+------ Livingston(26093)    129    2    0
+------ Midland(26111)    17    0    0
+------ Eaton(26045)    53    2    0
+------ Genesee(26049)    464    11    0
+------ Isabella(26073)    10    2    0
 ------ Barry(26015)    5    0    0
 ------ Wexford(26165)    4    0    0
------- Berrien(26021)    52    1    0
------- Calhoun(26025)    31    1    0
+------ Berrien(26021)    56    1    0
+------ Calhoun(26025)    34    1    0
 ------ Clare(26035)    2    0    0
------- Saginaw(26145)    90    0    0
------- Tuscola(26157)    15    2    0
------- Allegan(26005)    6    0    0
+------ Saginaw(26145)    103    0    0
+------ Tuscola(26157)    20    2    0
+------ Allegan(26005)    10    0    0
 ------ Gladwin(26051)    3    0    0
 ------ Emmet(26047)    7    2    0
------- Grand Traverse(26055)    11    2    0
+------ Grand Traverse(26055)    12    2    0
 ------ Roscommon(26143)    2    0    0
 ------ Chippewa(26033)    1    0    0
------- Muskegon(26121)    30    2    0
------- Kalamazoo(26077)    40    1    0
+------ Muskegon(26121)    31    2    0
+------ Kalamazoo(26077)    45    1    0
 ------ Newaygo(26123)    2    0    0
------- Hillsdale(26059)    26    2    0
+------ Hillsdale(26059)    37    2    0
 ------ Kalkaska(26079)    8    1    0
------- Lapeer(26087)    22    0    0
------- Manistee(26101)    1    0    0
------- Marquette(26103)    7    0    0
------- Lenawee(26091)    24    0    0
------- Iosco(26069)    1    0    0
+------ Lapeer(26087)    27    0    0
+------ Manistee(26101)    4    0    0
+------ Marquette(26103)    11    0    0
+------ Lenawee(26091)    27    0    0
+------ Iosco(26069)    2    0    0
 ------ Luce(26095)    1    0    0
------- Sanilac(26151)    10    1    0
+------ Sanilac(26151)    13    1    0
 ------ Van Buren(26159)    12    1    0
 ------ Oceana(26127)    3    0    0
 ------ Ionia(26067)    6    0    0
@@ -1320,25 +1320,25 @@
 ------ Mecosta(26107)    4    1    0
 ------ Missaukee(26113)    1    1    0
 ------ Ogemaw(26129)    4    0    0
------- Shiawassee(26155)    18    0    0
+------ Shiawassee(26155)    22    0    0
 ------ Huron(26063)    4    0    0
 ------ Crawford(26039)    1    0    0
 ------ Gogebic(26053)    3    1    0
 ------ Gratiot(26057)    5    0    0
 ------ Dickinson(26043)    1    1    0
------- Osceola(26133)    3    0    0
------- Cheboygan(26031)    6    0    0
------- Houghton(26061)    1    0    0
+------ Osceola(26133)    4    0    0
+------ Cheboygan(26031)    7    0    0
+------ Houghton(26061)    2    0    0
 ------ St Joseph(26149)    10    0    0
 ------ Antrim(26009)    4    0    0
 ------ Delta(26041)    5    0    0
------- Arenac(26011)    2    0    0
------- Branch(26023)    6    0    0
+------ Arenac(26011)    3    0    0
+------ Branch(26023)    10    0    0
 ------ Oscoda(26135)    2    0    0
 ------ Schoolcraft(26153)    1    0    0
 ------ Mackinac(26097)    2    0    0
 ------ Presque Isle(26141)    1    0    0
----- MN    863    22    410
+---- MN    863    24    410
 ------ Hennepin(27053)    252    9    0
 ------ Ramsey(27123)    79    2    0
 ------ Dakota(27037)    56    1    0
@@ -1435,7 +1435,7 @@
 ------ Lyon(32019)    3    0    0
 ------ Humboldt(32013)    9    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1428    8    0
+---- UT    1429    8    0
 ------ Salt Lake(49035)    650    4    0
 ------ Summit(49043)    230    0    0
 ------ Davis(49011)    137    1    0
@@ -1456,54 +1456,54 @@
 ------ Duchesne(49013)    1    0    0
 ------ Carbon(49007)    1    0    0
 ------ Emery(49015)    1    0    0
----- SC    1700    34    0
------- Kershaw(45055)    136    2    0
------- Beaufort(45013)    131    2    0
------- Horry(45051)    51    4    0
------- Charleston(45019)    247    1    0
------- Lexington(45063)    78    1    0
------- Anderson(45007)    62    3    0
------- Greenville(45045)    174    2    0
------- Lancaster(45057)    31    0    0
------- Calhoun(45017)    3    1    0
------- Fairfield(45039)    8    1    0
------- Richland(45079)    224    5    0
------- Spartanburg(45083)    60    0    0
------- York(45091)    73    1    0
------- Dorchester(45035)    36    0    0
------- Lee(45061)    13    1    0
+---- SC    1917    40    0
+------ Kershaw(45055)    141    2    0
+------ Beaufort(45013)    148    3    0
+------ Horry(45051)    63    4    0
+------ Charleston(45019)    274    1    0
+------ Lexington(45063)    95    3    0
+------ Anderson(45007)    68    3    0
+------ Greenville(45045)    183    2    0
+------ Lancaster(45057)    39    0    0
+------ Calhoun(45017)    4    1    0
+------ Fairfield(45039)    12    1    0
+------ Richland(45079)    242    6    0
+------ Spartanburg(45083)    72    0    0
+------ York(45091)    81    2    0
+------ Dorchester(45035)    45    0    0
+------ Lee(45061)    16    1    0
 ------ Abbeville(45001)    6    0    0
------- Saluda(45081)    2    0    0
------- Orangeburg(45075)    25    0    0
------- Aiken(45003)    22    1    0
------- Berkeley(45015)    42    0    0
------- Clarendon(45027)    34    1    0
------- Darlington(45031)    15    0    0
------- Florence(45041)    29    5    0
+------ Saluda(45081)    4    0    0
+------ Orangeburg(45075)    26    0    0
+------ Aiken(45003)    24    1    0
+------ Berkeley(45015)    45    0    0
+------ Clarendon(45027)    45    1    0
+------ Darlington(45031)    19    0    0
+------ Florence(45041)    35    5    0
 ------ Pickens(45077)    17    0    0
------- Sumter(45085)    75    3    0
------- Greenwood(45047)    9    0    0
------- Colleton(45029)    6    0    0
+------ Sumter(45085)    79    3    0
+------ Greenwood(45047)    10    0    0
+------ Colleton(45029)    9    0    0
 ------ Dillon(45033)    1    0    0
 ------ Edgefield(45037)    5    0    0
 ------ Marlboro(45069)    3    0    0
------- Newberry(45071)    5    0    0
+------ Newberry(45071)    8    0    0
 ------ Hampton(45049)    1    0    0
------- Jasper(45053)    8    0    0
------- Oconee(45073)    5    0    0
------- Chester(45023)    7    0    0
------- Georgetown(45043)    16    0    0
------- Chesterfield(45025)    10    0    0
+------ Jasper(45053)    9    0    0
+------ Oconee(45073)    8    0    0
+------ Chester(45023)    12    0    0
+------ Georgetown(45043)    17    1    0
+------ Chesterfield(45025)    13    0    0
 ------ Marion(45067)    2    1    0
------- Union(45087)    6    0    0
------- Williamsburg(45089)    6    0    0
+------ Union(45087)    9    0    0
+------ Williamsburg(45089)    9    0    0
 ------ Laurens(45059)    6    0    0
 ------ Barnwell(45011)    2    0    0
 ------ Bamberg(45009)    5    0    0
------- Allendale(45005)    1    0    0
------- Cherokee(45021)    1    0    0
+------ Allendale(45005)    2    0    0
+------ Cherokee(45021)    2    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1580    38    0
+---- AL    1580    43    0
 ------ Jefferson(01073)    373    6    0
 ------ Shelby(01117)    123    4    0
 ------ Lee(01081)    100    3    0
@@ -1838,35 +1838,35 @@
 ------ Cheshire(33005)    9    0    0
 ------ Strafford(33017)    36    0    0
 ------ Sullivan(33019)    5    0    0
----- NE    285    6    0
------- Douglas(31055)    125    1    0
+---- NE    321    6    0
+------ Douglas(31055)    131    1    0
 ------ Knox(31107)    2    0    0
 ------ Cass(31025)    4    0    0
------- Sarpy(31153)    25    0    0
+------ Sarpy(31153)    26    0    0
 ------ Lincoln(31111)    15    1    0
------- Adams(31001)    6    0    0
+------ Adams(31001)    8    0    0
 ------ Nemaha(31127)    1    0    0
------- Lancaster(31109)    14    0    0
------- Buffalo(31019)    10    1    0
+------ Lancaster(31109)    18    0    0
+------ Buffalo(31019)    14    1    0
 ------ Gage(31067)    2    1    0
 ------ Madison(31119)    5    0    0
 ------ Washington(31177)    19    0    0
------- Saunders(31155)    3    0    0
+------ Saunders(31155)    4    0    0
 ------ Dawson(31047)    1    0    0
 ------ Kearney(31099)    1    0    0
------- Hall(31079)    27    1    0
------- Dodge(31053)    5    0    0
+------ Hall(31079)    40    1    0
+------ Dodge(31053)    6    0    0
 ------ Gosper(31073)    1    0    0
------- Platte(31141)    3    0    0
+------ Platte(31141)    4    0    0
 ------ Scotts Bluff(31157)    3    0    0
 ------ York(31185)    1    0    0
 ------ Antelope(31003)    1    0    0
 ------ Kimball(31105)    5    0    0
 ------ Cuming(31039)    1    0    0
------- Hamilton(31081)    3    0    0
+------ Hamilton(31081)    4    0    0
 ------ Otoe(31131)    1    0    0
 ------ Colfax(31037)    1    0    0
------- Merrick(31121)    1    0    0
+------ Merrick(31121)    2    0    0
 ------ Cherry(31031)    1    0    0
 ---- NM    534    10    26
 ------ Bernalillo(35001)    202    7    0
@@ -1890,15 +1890,15 @@
 ------ Otero(35035)    2    1    0
 ------ Grant(35017)    1    0    0
 ------ Catron(35003)    1    0    0
----- RI    806    14    0
+---- RI    806    17    0
 ------ Providence(44007)    418    3    0
 ------ Washington(44009)    46    0    0
 ------ Newport(44005)    33    0    0
 ------ Bristol(44001)    24    0    0
 ------ Kent(44003)    59    0    0
----- AR    743    12    79
+---- AR    743    14    79
 ------ Jefferson(05069)    53    0    0
------- Pulaski(05119)    139    5    0
+------ Pulaski(05119)    139    6    0
 ------ Cleburne(05023)    65    3    0
 ------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    4    0    0
@@ -1927,7 +1927,7 @@
 ------ Sebastian(05131)    8    0    0
 ------ Union(05139)    10    0    0
 ------ Woodruff(05147)    1    0    0
------- Lawrence(05075)    3    0    0
+------ Lawrence(05075)    3    1    0
 ------ Crawford(05033)    3    0    0
 ------ Stone(05137)    5    0    0
 ------ White(05145)    23    0    0
@@ -3037,7 +3037,7 @@
 -- Netherlands    16727    1656    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    13872    228    2565
+-- Canada    13901    231    2595
 ---- British Columbia    1174    35    183
 ---- Ontario    3630    94    8
 ---- Alberta    1075    18    0
@@ -3178,7 +3178,7 @@
 -- Moldova, Republic of    752    12    29
 -- Bahrain    688    4    423
 -- Hungary    678    32    58
--- Bosnia and Herzegovina    623    21    31
+-- Bosnia and Herzegovina    624    21    31
 -- Tunisia    553    19    5
 -- Kazakhstan    531    6    36
 -- Azerbaijan    521    5    32
@@ -3230,11 +3230,11 @@
 -- Kenya    126    4    4
 -- Niger    120    5    0
 -- Cambodia    114    0    50
+-- Trinidad and Tobago    103    6    1
 -- Rwanda    102    0    0
--- Trinidad and Tobago    101    6    1
 -- Gibraltar    98    0    52
 -- Paraguay    96    3    12
--- Liechtenstein    77    0    0
+-- Liechtenstein    77    1    0
 -- Guinea    73    0    2
 -- Madagascar    70    0    0
 -- Bangladesh    70    8    30
@@ -3242,7 +3242,7 @@
 -- Aruba    64    0    1
 -- Guatemala    57    2    15
 -- French Guiana    57    0    22
--- El Salvador    56    3    0
+-- El Salvador    56    3    2
 -- Jamaica    53    3    7
 -- Barbados    52    0    0
 -- Djibouti    50    0    8
