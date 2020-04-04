@@ -1,14 +1,14 @@
--- United States of America    279369    7411    9920
----- NY    103172    3218    6662
------- Westchester(36119)    12351    67    0
------- Nassau(36059)    12024    95    0
------- Suffolk(36103)    10154    96    0
------- Albany(36001)    267    2    0
------- Rockland(36087)    4289    69    0
------- Dutchess(36027)    809    5    0
------- Orange(36071)    2470    40    0
------- Monroe(36055)    464    10    94
------- Erie(36029)    802    22    141
+-- United States of America    289904    7411    9920
+---- NY    113704    3218    6662
+------ Westchester(36119)    13081    67    0
+------ Nassau(36059)    13346    95    0
+------ Suffolk(36103)    11370    96    0
+------ Albany(36001)    293    2    0
+------ Rockland(36087)    4872    69    0
+------ Dutchess(36027)    938    5    0
+------ Orange(36071)    2741    40    0
+------ Monroe(36055)    512    10    94
+------ Erie(36029)    808    22    141
 ------ Saratoga(36091)    141    1    0
 ------ Ulster(36111)    266    4    0
 ------ Schenectady(36093)    110    5    20
@@ -34,7 +34,7 @@
 ------ Hamilton(36041)    2    0    0
 ------ Warren(36113)    19    0    0
 ------ Washington(36115)    15    0    1
------- New York(36061)    57159    1867    0
+------ New York(36061)    63306    1867    0
 ------ Niagara(36063)    94    0    3
 ------ Schoharie(36095)    11    0    0
 ------ Fulton(36035)    6    0    0
@@ -853,6 +853,7 @@
 ------ Pepin(55091)    7    0    0
 ------ Barron(55005)    3    0    0
 ------ Rusk(55107)    1    0    0
+------ Manitowoc(55071)    1    0    0
 ---- TN    3217    44    248
 ------ Davidson(47037)    785    6    90
 ------ Williamson(47187)    221    3    0
@@ -1495,7 +1496,7 @@
 ------ Allendale(45005)    1    0    0
 ------ Cherokee(45021)    1    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1543    38    0
+---- AL    1546    38    0
 ------ Jefferson(01073)    369    6    0
 ------ Shelby(01117)    118    4    0
 ------ Lee(01081)    100    3    0
@@ -1510,7 +1511,7 @@
 ------ Chambers(01017)    83    5    0
 ------ Talladega(01121)    12    0    0
 ------ Walker(01127)    49    0    0
------- Mobile(01097)    104    5    0
+------ Mobile(01097)    107    5    0
 ------ Jackson(01071)    12    1    0
 ------ Lamar(01075)    1    0    0
 ------ Lauderdale(01077)    14    2    0
@@ -1735,6 +1736,7 @@
 ------ Louisa(19115)    1    0    0
 ------ Lyon(19119)    1    0    0
 ------ Plymouth(19149)    1    0    0
+------ Mills(19129)    1    0    0
 ---- KY    898    37    64
 ------ Jefferson(21111)    257    11    0
 ------ Fayette(21067)    121    6    0
@@ -3021,7 +3023,7 @@
 -- Netherlands    16725    1656    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    12549    208    2322
+-- Canada    12549    214    2322
 ---- British Columbia    1174    35    183
 ---- Ontario    3255    67    8
 ---- Alberta    1075    18    0
@@ -3075,9 +3077,9 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Czechia    4194    56    74
--- Chile    3737    22    427
+-- Chile    4161    27    427
+-- Poland    3627    79    116
 -- Romania    3613    141    329
--- Poland    3503    73    116
 -- Malaysia    3483    57    915
 -- Japan    3422    83    514
 ---- Hokkaido    193    8    100
@@ -3127,7 +3129,7 @@
 -- Ecuador    3368    145    65
 -- Philippines    3094    144    57
 -- India    3082    86    229
--- Pakistan    2708    41    130
+-- Pakistan    2724    41    130
 -- Luxembourg    2612    31    500
 -- Saudi Arabia    2179    29    420
 -- Indonesia    2092    191    150
@@ -3150,13 +3152,13 @@
 -- Croatia    1126    12    119
 -- Ukraine    1096    28    23
 -- Qatar    1075    3    93
--- Estonia    1018    13    59
+-- Estonia    1039    13    59
 -- Egypt    985    66    216
 -- Slovenia    977    22    79
 -- New Zealand    950    1    127
+-- Iraq    878    56    259
 -- Hong Kong    862    4    173
 -- Morocco    858    50    62
--- Iraq    820    54    226
 -- Lithuania    771    10    7
 -- Armenia    770    7    43
 -- Moldova, Republic of    752    12    29
@@ -3165,7 +3167,7 @@
 -- Bosnia and Herzegovina    617    19    28
 -- Kazakhstan    525    6    36
 -- Azerbaijan    521    5    32
--- Lebanon    520    17    50
+-- Lebanon    520    17    54
 -- Cameroon    509    8    17
 -- Latvia    509    1    31
 -- Bulgaria    503    17    34
@@ -3175,17 +3177,17 @@
 -- Slovakia    471    1    10
 -- Andorra    466    17    21
 -- Belarus    440    5    53
+-- Cyprus    426    11    28
 -- Costa Rica    416    2    11
--- Cyprus    396    11    28
 -- Uruguay    386    4    86
 -- Taiwan    355    5    50
 -- Albania    333    18    99
 -- Réunion    321    0    40
+-- Burkina Faso    318    16    66
 -- Jordan    310    5    58
--- Burkina Faso    302    16    50
 -- Afghanistan    299    7    10
+-- Cuba    288    6    15
 -- Oman    277    1    61
--- Cuba    269    6    15
 -- Honduras    264    15    3
 -- Uzbekistan    263    2    25
 -- San Marino    251    32    26
@@ -3246,8 +3248,8 @@
 -- Guyana    23    4    0
 -- Eritrea    22    0    0
 -- Congo    22    2    2
+-- Myanmar    21    1    0
 -- Gabon    21    1    1
--- Myanmar    20    1    0
 -- Haiti    20    0    1
 -- Tanzania, United Republic of    20    1    3
 -- Maldives    19    0    13
@@ -3267,7 +3269,7 @@
 -- Fiji    12    0    0
 -- Curaçao    11    1    3
 -- Lao People's Democratic Republic    10    0    0
--- Mozambique    10    0    0
+-- Mozambique    10    0    1
 -- Greenland    10    0    3
 -- Liberia    10    1    0
 -- Seychelles    10    0    0
@@ -3291,13 +3293,13 @@
 -- Nicaragua    5    1    0
 -- Bhutan    5    0    2
 -- Malawi    4    0    0
+-- Sierra Leone    4    0    0
 -- Botswana    4    1    0
 -- Belize    4    0    0
 -- Gambia    4    1    2
 -- Burundi    3    0    0
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
--- Sierra Leone    2    0    0
 -- Jersey    2    0    0
 -- Falkland Islands (Malvinas)    1    0    0
 -- Timor-Leste    1    0    0
