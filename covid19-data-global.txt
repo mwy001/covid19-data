@@ -1,4 +1,4 @@
--- United States of America    277998    7411    9823
+-- United States of America    277999    7411    9823
 ---- NY    103060    3218    6622
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -3051,7 +3051,7 @@
 ---- Ulsan    40    1    21
 ---- 未确定地区    242    3    1
 -- Portugal    9886    246    68
--- Brazil    9194    363    127
+-- Brazil    9216    365    127
 -- Israel    8385    40    403
 -- Sweden    6131    358    205
 -- Australia    5454    28    649
