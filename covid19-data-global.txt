@@ -2162,7 +2162,7 @@
 ------ Sussex(10005)    117    3    0
 ------ Kent(10001)    54    3    0
 ---- MO    2158    33    33
------- Greene(29077)    64    7    7
+------ Greene(29077)    64    7    12
 ------ Cass(29037)    21    1    0
 ------ Boone(29019)    74    1    20
 ------ Cole(29051)    26    0    0
@@ -3012,7 +3012,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    20921    425    484
--- Switzerland    19606    591    4846
+-- Switzerland    19702    604    4846
 -- Belgium    16770    1143    2872
 -- Netherlands    15821    1492    260
 ---- Netherlands    1705    43    2
