@@ -3012,9 +3012,9 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    20921    425    484
--- Switzerland    19702    604    4846
+-- Switzerland    20278    620    4846
 -- Belgium    18431    1283    3247
--- Netherlands    15821    1492    260
+-- Netherlands    16627    1651    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Canada    12549    208    2322
@@ -3032,6 +3032,7 @@
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
 -- Austria    11781    186    2507
+-- Portugal    10524    266    75
 -- Korea, Republic of    10156    177    6325
 ---- Busan    122    3    90
 ---- Chungcheongbuk-do    45    0    27
@@ -3051,7 +3052,6 @@
 ---- Seoul    528    0    144
 ---- Ulsan    40    1    24
 ---- 未确定地区    242    3    1
--- Portugal    9886    246    68
 -- Brazil    9216    365    127
 -- Israel    8385    43    427
 -- Sweden    6131    358    205
@@ -3068,7 +3068,7 @@
 -- Russian Federation    4731    43    333
 -- Ireland    4273    120    25
 -- Czechia    4194    56    74
--- Denmark    3948    139    1289
+-- Denmark    4077    161    1289
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3737    22    427
@@ -3123,7 +3123,7 @@
 ---- Yamagata    8    0    0
 -- Philippines    3094    144    57
 -- India    3082    86    229
--- Pakistan    2708    40    130
+-- Pakistan    2708    41    130
 -- Luxembourg    2612    31    500
 -- Indonesia    2092    191    150
 -- Thailand    2067    20    612
@@ -3131,7 +3131,7 @@
 -- Finland    1882    21    300
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
--- Greece    1613    67    78
+-- Greece    1643    67    78
 -- Peru    1595    61    537
 -- South Africa    1505    9    95
 -- Dominican Republic    1488    68    16
@@ -3153,13 +3153,14 @@
 -- Hong Kong    862    4    173
 -- Morocco    844    50    59
 -- Iraq    820    54    226
--- Lithuania    771    9    7
+-- Lithuania    771    10    7
 -- Armenia    770    7    43
 -- Bahrain    688    4    399
 -- Hungary    678    32    58
 -- Bosnia and Herzegovina    615    19    27
--- Moldova, Republic of    591    8    26
+-- Moldova, Republic of    591    10    26
 -- Kazakhstan    525    6    36
+-- Azerbaijan    521    5    32
 -- Lebanon    520    17    50
 -- Cameroon    509    8    17
 -- Latvia    509    1    31
@@ -3167,7 +3168,6 @@
 -- Tunisia    495    18    5
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
--- Azerbaijan    443    5    32
 -- Andorra    439    16    16
 -- North Macedonia    430    12    20
 -- Costa Rica    416    2    11
@@ -3196,7 +3196,7 @@
 -- Mauritius    196    7    0
 -- Faroe Islands    181    0    93
 -- Sri Lanka    159    5    25
--- Georgia    156    1    28
+-- Georgia    157    1    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
 -- Kyrgyzstan    144    1    9
@@ -3275,21 +3275,21 @@
 -- Nepal    9    0    1
 -- Angola    8    2    1
 -- Central African Republic    8    0    0
+-- Cabo Verde    7    1    0
 -- Somalia    7    0    1
 -- Liberia    7    0    0
 -- Saint Vincent and the Grenadines    7    0    1
 -- Holy See    7    0    0
 -- Turks and Caicos Islands    6    0    0
--- Cabo Verde    6    1    0
 -- Montserrat    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
 -- Nicaragua    5    1    0
 -- Bhutan    5    0    2
+-- Malawi    4    0    0
 -- Botswana    4    1    0
 -- Belize    4    0    0
 -- Gambia    4    1    2
--- Malawi    3    0    0
 -- Burundi    3    0    0
 -- Anguilla    3    0    0
 -- Virgin Islands, British    3    0    0
