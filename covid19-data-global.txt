@@ -1,4 +1,4 @@
--- United States of America    278492    7411    9899
+-- United States of America    278571    7411    9920
 ---- NY    103169    3218    6662
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -126,7 +126,7 @@
 ------ Tulare(06107)    81    3    4
 ------ Calaveras(06009)    4    0    0
 ------ Fresno(06019)    100    1    0
------- Imperial(06025)    55    1    6
+------ Imperial(06025)    55    1    8
 ------ Monterey(06053)    53    2    0
 ------ Santa Barbara(06083)    152    1    24
 ------ Amador(06005)    3    0    0
@@ -579,13 +579,13 @@
 ------ Marion(13197)    1    0    0
 ------ Quitman(13239)    1    0    0
 ------ Towns(13281)    1    0    0
----- TX    6030    104    528
+---- TX    6059    104    549
 ------ Dallas(48113)    921    17    2
 ------ Travis(48453)    430    3    0
 ------ Harris(48201)    1106    13    0
 ------ Bexar(48029)    342    9    44
 ------ Fort Bend(48157)    255    2    14
------- Collin(48085)    227    2    70
+------ Collin(48085)    256    2    70
 ------ Tarrant(48439)    383    7    23
 ------ Smith(48423)    57    1    0
 ------ Montgomery(48339)    130    3    18
@@ -3001,7 +3001,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    38697    3611    209
+-- United Kingdom of Great Britain and Northern Ireland    41903    4313    209
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3053,7 +3053,7 @@
 ---- Ulsan    40    1    24
 ---- 未确定地区    242    3    1
 -- Brazil    9216    365    127
--- Israel    8385    43    427
+-- Israel    8385    44    427
 -- Sweden    6443    373    205
 -- Australia    5550    30    701
 ---- New South Wales    2493    12    4
@@ -3132,14 +3132,14 @@
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
 -- Greece    1643    67    78
+-- Serbia    1624    44    54
 -- Peru    1595    61    537
 -- South Africa    1505    9    95
+-- United Arab Emirates    1505    9    108
 -- Dominican Republic    1488    68    16
--- Serbia    1476    39    54
--- Iceland    1364    5    336
+-- Iceland    1417    5    396
 -- Argentina    1353    42    266
 -- Colombia    1267    25    55
--- United Arab Emirates    1264    9    108
 -- Algeria    1171    105    65
 -- Singapore    1114    6    282
 ---- Central Singapore Community Development Council    345    0    124
@@ -3148,7 +3148,7 @@
 -- Qatar    1075    3    93
 -- Estonia    1018    13    59
 -- Egypt    985    66    216
--- Slovenia    977    22    70
+-- Slovenia    977    22    79
 -- New Zealand    950    1    127
 -- Hong Kong    862    4    173
 -- Morocco    858    50    62
@@ -3183,8 +3183,8 @@
 -- Oman    277    1    61
 -- Cuba    269    6    15
 -- Honduras    264    15    3
+-- Uzbekistan    263    2    25
 -- San Marino    251    32    26
--- Uzbekistan    241    2    25
 -- Viet Nam    240    0    90
 -- Senegal    219    2    72
 -- Côte d'Ivoire    218    1    19
@@ -3195,7 +3195,7 @@
 -- Montenegro    197    2    1
 -- Mauritius    196    7    0
 -- Faroe Islands    181    0    93
--- Sri Lanka    162    5    25
+-- Sri Lanka    162    5    27
 -- Georgia    157    1    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
