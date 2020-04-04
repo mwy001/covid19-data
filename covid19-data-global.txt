@@ -1,12 +1,12 @@
--- United States of America    277015    7411    9772
----- NY    102987    3218    6622
+-- United States of America    277180    7411    9773
+---- NY    103060    3218    6622
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
 ------ Suffolk(36103)    10154    84    0
 ------ Albany(36001)    267    2    0
 ------ Rockland(36087)    4289    42    0
 ------ Dutchess(36027)    809    5    0
------- Orange(36071)    2397    30    0
+------ Orange(36071)    2470    40    0
 ------ Monroe(36055)    464    10    94
 ------ Erie(36029)    734    19    101
 ------ Saratoga(36091)    141    1    0
@@ -62,9 +62,9 @@
 ------ Lewis(36049)    2    0    0
 ------ Seneca(36099)    6    0    0
 ------ Yates(36123)    1    0    0
----- WA    6853    307    581
+---- WA    6853    307    582
 ------ King(53033)    2787    186    0
------- Snohomish(53061)    1376    67    562
+------ Snohomish(53061)    1376    67    575
 ------ Pierce(53053)    571    7    0
 ------ Island(53029)    119    4    0
 ------ Skagit(53057)    160    4    0
@@ -116,7 +116,7 @@
 ------ Ventura(06111)    177    6    36
 ------ Placer(06061)    97    2    0
 ------ Solano(06095)    61    1    0
------- San Luis Obispo(06079)    93    0    24
+------ San Luis Obispo(06079)    93    0    57
 ------ Sonoma(06097)    95    2    13
 ------ San Benito(06069)    23    1    2
 ------ Yolo(06113)    33    1    0
@@ -578,26 +578,26 @@
 ------ Marion(13197)    1    0    0
 ------ Quitman(13239)    1    0    0
 ------ Towns(13281)    1    0    0
----- TX    5932    103    492
------- Dallas(48113)    921    17    0
+---- TX    6020    104    492
+------ Dallas(48113)    921    17    2
 ------ Travis(48453)    430    3    0
 ------ Harris(48201)    955    6    0
------- Bexar(48029)    254    9    44
------- Fort Bend(48157)    255    2    10
------- Collin(48085)    227    1    66
+------ Bexar(48029)    342    9    44
+------ Fort Bend(48157)    255    2    14
+------ Collin(48085)    227    2    70
 ------ Tarrant(48439)    383    7    23
 ------ Smith(48423)    57    1    0
 ------ Montgomery(48339)    130    3    18
 ------ Bell(48027)    51    1    12
 ------ El Paso(48141)    78    0    18
------- Hays(48209)    47    0    10
+------ Hays(48209)    47    0    13
 ------ Brazoria(48039)    136    1    20
------- Galveston(48167)    136    0    31
------- Lubbock(48303)    138    4    12
+------ Galveston(48167)    136    0    40
+------ Lubbock(48303)    138    4    20
 ------ Matagorda(48321)    36    2    0
 ------ Bowie(48037)    10    1    0
 ------ Brazos(48041)    72    5    3
------- Denton(48121)    273    6    0
+------ Denton(48121)    273    6    62
 ------ Ellis(48139)    27    1    0
 ------ Gregg(48183)    13    0    0
 ------ Lavaca(48285)    3    0    0
@@ -1164,60 +1164,60 @@
 ------ Pulaski(51155)    1    0    0
 ------ Westmoreland(51193)    1    0    0
 ------ Wise(51195)    1    0    0
----- NC    2299    28    40
------- Wake(37183)    275    0    0
+---- NC    2321    28    40
+------ Wake(37183)    279    0    0
 ------ Durham(37063)    159    0    0
------- Mecklenburg(37119)    564    3    0
+------ Mecklenburg(37119)    601    3    0
 ------ Chatham(37037)    19    0    0
------- Harnett(37085)    19    1    0
+------ Harnett(37085)    24    1    0
 ------ Forsyth(37067)    80    1    28
------- Johnston(37101)    24    1    0
------- Brunswick(37019)    23    0    0
+------ Johnston(37101)    25    2    0
+------ Brunswick(37019)    24    1    0
 ------ Cabarrus(37025)    58    2    0
 ------ Craven(37049)    11    0    4
 ------ Guilford(37081)    88    4    0
------- Iredell(37097)    36    0    0
+------ Iredell(37097)    42    0    0
 ------ Lincoln(37109)    9    0    0
 ------ Onslow(37133)    10    1    0
 ------ Orange(37135)    44    0    0
 ------ Sampson(37163)    1    0    0
 ------ Watauga(37189)    8    0    0
 ------ Wayne(37191)    9    0    0
------- Wilson(37195)    20    0    5
------- Gaston(37071)    39    1    0
+------ Wilson(37195)    21    0    5
+------ Gaston(37071)    43    1    0
 ------ New Hanover(37129)    42    0    0
------- Union(37179)    60    0    0
+------ Union(37179)    63    0    0
 ------ Moore(37125)    11    0    0
 ------ Buncombe(37021)    31    1    0
 ------ Hoke(37093)    9    0    0
------- Pitt(37147)    31    0    0
+------ Pitt(37147)    33    0    0
 ------ Davidson(37057)    51    0    0
------- Rowan(37159)    37    1    0
------- Cumberland(37051)    35    0    0
+------ Rowan(37159)    44    1    0
+------ Cumberland(37051)    42    0    0
 ------ Pasquotank(37139)    7    0    0
 ------ Alamance(37001)    14    0    0
 ------ Franklin(37069)    13    0    0
------- Catawba(37035)    16    0    0
+------ Catawba(37035)    20    1    0
 ------ Lee(37105)    3    0    0
 ------ Chowan(37041)    1    0    0
 ------ Cleveland(37045)    10    0    0
------- Carteret(37031)    14    1    0
+------ Carteret(37031)    16    1    0
 ------ Cherokee(37039)    11    1    0
 ------ Robeson(37155)    3    0    0
------- Granville(37077)    22    0    0
+------ Granville(37077)    24    0    0
 ------ Hyde(37095)    1    0    0
 ------ Scotland(37165)    2    0    0
 ------ Davie(37059)    12    1    0
 ------ Montgomery(37123)    8    1    0
------- Nash(37127)    16    0    0
+------ Nash(37127)    17    0    0
 ------ Henderson(37089)    22    1    0
 ------ Vance(37181)    7    0    0
------- Randolph(37151)    19    0    0
+------ Randolph(37151)    26    1    0
 ------ Richmond(37153)    1    0    0
 ------ Hertford(37091)    4    0    0
 ------ Jackson(37099)    2    0    0
 ------ Transylvania(37175)    5    0    0
------- Northampton(37131)    36    1    0
+------ Northampton(37131)    38    1    0
 ------ Graham(37075)    1    0    0
 ------ Stanly(37167)    7    0    0
 ------ Bertie(37015)    6    1    0
@@ -2316,7 +2316,7 @@
 ------ Liberty(30051)    1    0    0
 ------ Musselshell(30065)    1    0    0
 ------ Carbon(30009)    1    0    0
----- ID    891    9    0
+---- ID    1013    10    0
 ------ Ada(16001)    312    3    0
 ------ Blaine(16013)    351    2    0
 ------ Madison(16065)    5    0    0
@@ -2420,7 +2420,7 @@
 ---- GU    84    4    14
 ------ Guam(66010)    82    3    12
 ---- PR    378    15    0
----- VI    37    0    29
+---- VI    38    0    29
 ---- MP    8    1    0
 -- Italy    119827    14681    19758
 ---- Abruzzo    1436    123    102
@@ -3007,18 +3007,18 @@
 -- Netherlands    15821    1490    260
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    12437    208    2186
----- British Columbia    1121    31    183
+-- Canada    12496    208    2208
+---- British Columbia    1174    35    183
 ---- Ontario    3255    67    8
----- Alberta    969    13    0
+---- Alberta    1075    18    0
 ---- Quebec    6101    61    0
----- New Brunswick    91    0    0
+---- New Brunswick    95    0    0
 ---- Manitoba    182    2    0
----- Saskatchewan    206    3    0
+---- Saskatchewan    220    3    0
 ---- Prince Edward Island    22    0    0
----- Newfoundland and Labrador    183    1    0
----- Nova Scotia    193    0    0
----- Northwest Territories    2    0    0
+---- Newfoundland and Labrador    195    1    0
+---- Nova Scotia    207    0    0
+---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
 -- Austria    11524    168    2022
@@ -3055,7 +3055,7 @@
 ---- Northern Territory    22    0    0
 ---- Australian Capital Territory    91    1    18
 -- Norway    5370    59    32
--- Ireland    4273    120    5
+-- Ireland    4273    120    25
 -- Czechia    4190    53    72
 -- Russian Federation    4149    34    281
 -- Denmark    3946    139    1287
