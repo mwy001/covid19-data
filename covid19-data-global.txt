@@ -2519,7 +2519,7 @@
 ---- Reunion    321    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    18    0    1
--- China    82875    3335    76984
+-- China    82892    3335    76992
 ---- 天津    180    3    140
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2565,8 +2565,8 @@
 ------ 天门    496    15    481
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
----- 香港    845    4    173
----- 上海    529    6    348
+---- 香港    862    4    173
+---- 上海    529    6    356
 ------ 宝山区    22    1    19
 ------ 徐汇区    18    1    17
 ------ 嘉定区    9    1    7
@@ -2969,7 +2969,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    348    5    50
--- Iran, Islamic Republic of    55743    3452    17935
+-- Iran, Islamic Republic of    55743    3452    19736
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -3031,7 +3031,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11781    168    2507
+-- Austria    11781    186    2507
 -- Korea, Republic of    10156    177    6325
 ---- Busan    122    3    90
 ---- Chungcheongbuk-do    45    0    27
@@ -3055,20 +3055,20 @@
 -- Brazil    9216    365    127
 -- Israel    8385    43    427
 -- Sweden    6131    358    205
--- Australia    5550    30    649
----- New South Wales    2389    12    4
----- Victoria    1085    7    476
----- Queensland    873    4    8
----- South Australia    396    0    46
----- Western Australia    400    2    92
----- Tasmania    74    2    5
----- Northern Territory    22    0    0
----- Australian Capital Territory    91    1    18
--- Norway    5370    59    32
+-- Australia    5550    30    701
+---- New South Wales    2493    12    4
+---- Victoria    1115    8    527
+---- Queensland    900    4    8
+---- South Australia    407    0    46
+---- Western Australia    436    2    92
+---- Tasmania    80    2    5
+---- Northern Territory    26    0    1
+---- Australian Capital Territory    93    2    18
+-- Norway    5519    61    32
 -- Russian Federation    4731    43    333
 -- Ireland    4273    120    25
 -- Czechia    4194    56    74
--- Denmark    3946    139    1287
+-- Denmark    3948    139    1289
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    3737    22    427
@@ -3131,7 +3131,7 @@
 -- Finland    1882    21    300
 -- Mexico    1688    60    633
 -- Panama    1673    41    10
--- Greece    1613    63    78
+-- Greece    1613    67    78
 -- Peru    1595    61    537
 -- South Africa    1505    9    95
 -- Dominican Republic    1488    68    16
@@ -3155,29 +3155,29 @@
 -- Iraq    820    54    226
 -- Lithuania    771    9    7
 -- Armenia    770    7    43
+-- Bahrain    688    4    399
 -- Hungary    678    32    58
--- Bahrain    673    4    388
--- Bosnia and Herzegovina    614    19    27
+-- Bosnia and Herzegovina    615    19    27
 -- Moldova, Republic of    591    8    26
 -- Kazakhstan    525    6    36
 -- Lebanon    520    17    50
 -- Cameroon    509    8    17
 -- Latvia    509    1    31
--- Bulgaria    498    14    34
+-- Bulgaria    498    15    34
 -- Tunisia    495    18    5
+-- Kuwait    479    1    93
 -- Slovakia    471    1    10
 -- Azerbaijan    443    5    32
 -- Andorra    439    16    16
 -- North Macedonia    430    12    20
--- Kuwait    417    1    82
 -- Costa Rica    416    2    11
 -- Cyprus    396    11    28
 -- Uruguay    386    4    86
 -- Taiwan    355    5    50
 -- Belarus    351    4    53
+-- Albania    332    18    99
 -- Réunion    321    0    40
 -- Jordan    310    5    58
--- Albania    304    17    89
 -- Burkina Faso    302    16    50
 -- Afghanistan    299    7    10
 -- Oman    277    1    61
@@ -3187,11 +3187,11 @@
 -- Uzbekistan    241    2    25
 -- Viet Nam    239    0    90
 -- Côte d'Ivoire    218    1    19
+-- Malta    213    0    2
 -- Nigeria    210    4    25
 -- Senegal    207    1    66
 -- Palestine    205    1    21
 -- Ghana    205    5    31
--- Malta    202    0    2
 -- Montenegro    197    2    1
 -- Mauritius    196    7    0
 -- Faroe Islands    181    0    93
