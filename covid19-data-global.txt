@@ -3001,7 +3001,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    38690    3611    209
+-- United Kingdom of Great Britain and Northern Ireland    38697    3611    209
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3157,7 +3157,7 @@
 -- Armenia    770    7    43
 -- Bahrain    688    4    399
 -- Hungary    678    32    58
--- Bosnia and Herzegovina    615    19    27
+-- Bosnia and Herzegovina    616    19    27
 -- Moldova, Republic of    591    10    26
 -- Kazakhstan    525    6    36
 -- Azerbaijan    521    5    32
@@ -3185,7 +3185,7 @@
 -- Honduras    264    15    3
 -- San Marino    251    32    26
 -- Uzbekistan    241    2    25
--- Viet Nam    239    0    90
+-- Viet Nam    240    0    90
 -- Côte d'Ivoire    218    1    19
 -- Malta    213    0    2
 -- Nigeria    210    4    25
@@ -3195,7 +3195,7 @@
 -- Montenegro    197    2    1
 -- Mauritius    196    7    0
 -- Faroe Islands    181    0    93
--- Sri Lanka    159    5    25
+-- Sri Lanka    162    5    25
 -- Georgia    157    1    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
@@ -3224,8 +3224,8 @@
 -- El Salvador    56    3    0
 -- Jamaica    53    3    7
 -- Barbados    51    0    0
+-- Djibouti    50    0    8
 -- Guatemala    50    1    12
--- Djibouti    49    0    8
 -- Uganda    48    0    0
 -- Macao    43    0    10
 -- Togo    40    3    17
