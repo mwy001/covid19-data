@@ -1,4 +1,4 @@
--- United States of America    277957    7411    9823
+-- United States of America    277963    7411    9823
 ---- NY    103060    3218    6622
 ------ Westchester(36119)    12351    67    0
 ------ Nassau(36059)    12024    95    0
@@ -100,7 +100,7 @@
 ------ Wahkiakum(53069)    1    0    0
 ------ Pend Oreille(53051)    1    0    0
 ------ Asotin(53003)    1    0    0
----- CA    12498    277    212
+---- CA    12500    277    212
 ------ Santa Clara(06085)    1094    38    0
 ------ Los Angeles(06037)    4566    93    0
 ------ San Mateo(06081)    486    13    0
@@ -119,7 +119,7 @@
 ------ Solano(06095)    61    1    0
 ------ San Luis Obispo(06079)    93    0    57
 ------ Sonoma(06097)    95    2    13
------- San Benito(06069)    23    1    2
+------ San Benito(06069)    23    2    2
 ------ Yolo(06113)    37    1    0
 ------ San Bernardino(06071)    353    13    0
 ------ Stanislaus(06099)    51    0    0
@@ -579,7 +579,7 @@
 ------ Marion(13197)    1    0    0
 ------ Quitman(13239)    1    0    0
 ------ Towns(13281)    1    0    0
----- TX    6023    104    528
+---- TX    6025    104    528
 ------ Dallas(48113)    921    17    2
 ------ Travis(48453)    430    3    0
 ------ Harris(48201)    1106    13    0
@@ -604,7 +604,7 @@
 ------ Lavaca(48285)    3    0    0
 ------ Rusk(48401)    11    0    0
 ------ Webb(48479)    83    5    6
------- Wichita(48485)    44    0    0
+------ Wichita(48485)    46    0    0
 ------ Johnson(48251)    18    1    0
 ------ Comal(48091)    18    2    5
 ------ Grimes(48185)    3    0    0
@@ -2324,31 +2324,31 @@
 ------ Musselshell(30065)    1    0    0
 ------ Carbon(30009)    1    0    0
 ---- ID    1013    10    0
------- Ada(16001)    312    3    0
------- Blaine(16013)    351    2    0
+------ Ada(16001)    351    3    0
+------ Blaine(16013)    405    2    0
 ------ Madison(16065)    5    0    0
 ------ Teton(16081)    3    0    0
------- Twin Falls(16083)    32    0    0
+------ Twin Falls(16083)    33    0    0
 ------ Kootenai(16055)    37    0    0
------- Canyon(16027)    79    1    0
+------ Canyon(16027)    89    1    0
 ------ Fremont(16043)    1    0    0
 ------ Bingham(16011)    2    0    0
 ------ Valley(16085)    3    0    0
------- Bannock(16005)    4    0    0
------- Cassia(16031)    3    1    0
+------ Bannock(16005)    5    0    0
+------ Cassia(16031)    4    1    0
 ------ Jefferson(16051)    3    0    0
 ------ Nez Perce(16069)    14    2    0
 ------ Idaho(16049)    2    0    0
 ------ Payette(16075)    5    0    0
 ------ Custer(16037)    2    0    0
------- Gem(16045)    6    0    0
------- Lincoln(16063)    5    0    0
------- Bonneville(16019)    3    0    0
------- Bonner(16017)    1    0    0
+------ Gem(16045)    7    0    0
+------ Lincoln(16063)    7    0    0
+------ Bonneville(16019)    5    0    0
+------ Bonner(16017)    2    0    0
 ------ Owyhee(16073)    2    0    0
 ------ Boundary(16021)    1    0    0
------- Elmore(16039)    9    0    0
------- Jerome(16053)    8    0    0
+------ Elmore(16039)    10    0    0
+------ Jerome(16053)    11    0    0
 ------ Minidoka(16067)    1    0    0
 ------ Adams(16003)    1    0    0
 ------ Camas(16025)    1    0    0
@@ -3075,7 +3075,7 @@
 -- Ecuador    3368    145    65
 -- Malaysia    3333    53    827
 -- Romania    3183    133    283
--- Japan    3122    77    514
+-- Japan    3129    77    514
 ---- Hokkaido    190    8    100
 ---- kochi    23    0    0
 ---- Miyagi    18    0    0
@@ -3180,11 +3180,11 @@
 -- Burkina Faso    302    16    50
 -- Afghanistan    281    6    10
 -- Cuba    269    6    15
+-- Honduras    264    15    3
 -- Oman    252    1    57
 -- San Marino    251    32    26
 -- Viet Nam    239    0    85
 -- Uzbekistan    227    2    25
--- Honduras    222    15    3
 -- Côte d'Ivoire    218    1    19
 -- Nigeria    210    4    25
 -- Senegal    207    1    66
@@ -3194,7 +3194,7 @@
 -- Mauritius    186    7    0
 -- Faroe Islands    179    0    91
 -- Montenegro    174    2    1
--- Sri Lanka    159    4    24
+-- Sri Lanka    159    5    24
 -- Georgia    155    0    28
 -- Venezuela, Bolivarian Republic of    153    7    52
 -- Congo, Democratic Republic of the    148    16    3
@@ -3209,9 +3209,9 @@
 -- Niger    120    5    0
 -- Isle of Man    114    1    0
 -- Cambodia    114    0    35
--- Trinidad and Tobago    98    6    1
+-- Trinidad and Tobago    100    6    1
+-- Paraguay    96    3    12
 -- Gibraltar    95    0    46
--- Paraguay    92    3    6
 -- Rwanda    89    0    0
 -- Liechtenstein    75    0    0
 -- Guinea    73    0    2
@@ -3294,6 +3294,7 @@
 -- Virgin Islands, British    3    0    0
 -- Sierra Leone    2    0    0
 -- Jersey    2    0    0
+-- Falkland Islands (Malvinas)    1    0    0
 -- Timor-Leste    1    0    0
 -- Papua New Guinea    1    0    0
 -- Guernsey    1    0    0
