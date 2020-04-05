@@ -3072,8 +3072,8 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11850    204    2998
--- Portugal    10524    266    75
+-- Austria    11861    204    2998
+-- Portugal    11278    295    75
 -- Brazil    10360    445    127
 -- Korea, Republic of    10237    183    6463
 ---- Busan    122    3    90
@@ -3105,11 +3105,11 @@
 ---- Tasmania    82    2    5
 ---- Northern Territory    27    0    1
 ---- Australian Capital Territory    96    2    28
--- Norway    5645    62    32
+-- Norway    5645    66    32
 -- Russian Federation    5389    45    355
 -- Ireland    4604    137    25
 -- Czechia    4475    62    78
--- Denmark    4269    161    1385
+-- Denmark    4369    179    1385
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
@@ -3198,9 +3198,10 @@
 -- Lithuania    811    11    7
 -- Moldova, Republic of    752    14    30
 -- Hungary    733    34    66
--- Bahrain    688    4    423
--- Bosnia and Herzegovina    634    21    31
+-- Bahrain    698    4    427
+-- Bosnia and Herzegovina    641    21    31
 -- Kazakhstan    569    6    36
+-- Belarus    562    8    53
 -- Kuwait    556    1    99
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
@@ -3211,7 +3212,6 @@
 -- Slovakia    485    1    10
 -- North Macedonia    483    17    20
 -- Andorra    466    17    21
--- Belarus    440    5    53
 -- Costa Rica    435    2    13
 -- Cyprus    426    11    33
 -- Uruguay    400    5    93
@@ -3227,11 +3227,11 @@
 -- Honduras    268    22    6
 -- San Marino    259    32    27
 -- Côte d'Ivoire    245    1    25
--- Viet Nam    240    0    90
+-- Viet Nam    241    0    90
 -- Mauritius    227    7    7
 -- Palestine    226    1    23
 -- Nigeria    224    5    27
--- Senegal    219    2    72
+-- Senegal    222    2    82
 -- Ghana    214    5    31
 -- Malta    213    0    2
 -- Montenegro    203    2    1
