@@ -3054,7 +3054,7 @@
 ---- Cayman Islands    1    1    0
 -- Turkey    23934    501    786
 -- Switzerland    20505    666    6415
--- Belgium    18431    1283    3247
+-- Belgium    19691    1447    3751
 -- Netherlands    16729    1656    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
@@ -3114,6 +3114,7 @@
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
 -- Poland    3834    84    134
+-- Malaysia    3662    61    1005
 -- Japan    3643    85    514
 ---- Hokkaido    193    8    100
 ---- kochi    26    0    0
@@ -3161,14 +3162,13 @@
 ---- Yamagata    8    0    0
 -- Romania    3613    146    329
 -- India    3588    99    229
--- Malaysia    3483    57    915
 -- Ecuador    3465    172    100
 -- Philippines    3246    152    64
 -- Pakistan    2880    45    170
 -- Luxembourg    2729    31    500
 -- Saudi Arabia    2370    29    420
+-- Indonesia    2273    198    164
 -- Thailand    2169    23    674
--- Indonesia    2092    191    150
 -- Finland    1927    25    300
 -- Mexico    1890    79    633
 -- Panama    1801    46    13
@@ -3190,10 +3190,10 @@
 -- Estonia    1097    15    62
 -- Egypt    1070    71    241
 -- New Zealand    1039    1    156
--- Slovenia    977    22    79
+-- Slovenia    997    28    79
 -- Morocco    960    66    69
+-- Hong Kong    890    4    206
 -- Iraq    878    56    259
--- Hong Kong    862    4    173
 -- Armenia    822    7    57
 -- Lithuania    811    11    7
 -- Moldova, Republic of    752    14    30
@@ -3201,15 +3201,15 @@
 -- Bahrain    688    4    423
 -- Bosnia and Herzegovina    632    21    31
 -- Kazakhstan    569    6    36
+-- Kuwait    556    1    99
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
 -- Latvia    533    1    31
--- Lebanon    527    17    54
+-- Lebanon    527    18    54
 -- Bulgaria    522    18    37
 -- Azerbaijan    521    5    32
+-- Slovakia    485    1    10
 -- North Macedonia    483    17    20
--- Kuwait    479    1    93
--- Slovakia    471    1    10
 -- Andorra    466    17    21
 -- Belarus    440    5    53
 -- Costa Rica    435    2    13
@@ -3287,17 +3287,17 @@
 -- Haiti    21    0    1
 -- Gabon    21    1    1
 -- Tanzania, United Republic of    20    1    3
+-- Syrian Arab Republic    19    2    2
 -- Maldives    19    0    13
 -- Guinea-Bissau    18    0    0
 -- Libya    18    1    1
 -- New Caledonia    18    0    1
 -- Virgin Islands, U.S.    17    0    0
--- Syrian Arab Republic    16    2    2
 -- Benin    16    0    2
 -- Equatorial Guinea    16    0    1
+-- Namibia    16    0    3
 -- Antigua and Barbuda    15    0    0
 -- Dominica    14    0    0
--- Namibia    14    0    3
 -- Saint Lucia    14    0    1
 -- Mongolia    14    0    2
 -- Grenada    12    0    0
