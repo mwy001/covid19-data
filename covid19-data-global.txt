@@ -1,4 +1,4 @@
--- United States of America    312245    8514    14997
+-- United States of America    312253    8515    15021
 ---- NY    114174    3565    11163
 ------ Westchester(36119)    13081    67    0
 ------ Nassau(36059)    13346    95    0
@@ -100,7 +100,7 @@
 ------ Wahkiakum(53069)    1    0    0
 ------ Pend Oreille(53051)    1    0    0
 ------ Asotin(53003)    2    0    0
----- CA    13897    323    257
+---- CA    13904    324    265
 ------ Santa Clara(06085)    1148    39    0
 ------ Los Angeles(06037)    5304    119    0
 ------ San Mateo(06081)    538    13    0
@@ -117,7 +117,7 @@
 ------ Ventura(06111)    203    6    60
 ------ Placer(06061)    101    2    0
 ------ Solano(06095)    73    1    0
------- San Luis Obispo(06079)    93    0    57
+------ San Luis Obispo(06079)    93    1    65
 ------ Sonoma(06097)    105    2    21
 ------ San Benito(06069)    23    2    2
 ------ Yolo(06113)    37    1    0
@@ -132,9 +132,9 @@
 ------ Amador(06005)    3    0    0
 ------ Humboldt(06023)    44    0    1
 ------ Kern(06029)    210    3    0
------- Madera(06039)    28    2    3
+------ Madera(06039)    30    2    3
 ------ Nevada(06057)    31    1    0
------- Shasta(06089)    16    2    0
+------ Shasta(06089)    17    2    0
 ------ Siskiyou(06093)    9    0    0
 ------ Mendocino(06045)    6    0    1
 ------ Mono(06051)    19    1    0
@@ -2199,7 +2199,7 @@
 ------ New Castle(10003)    400    9    0
 ------ Sussex(10005)    125    3    0
 ------ Kent(10001)    68    3    0
----- MO    2344    43    33
+---- MO    2345    43    49
 ------ Greene(29077)    64    7    12
 ------ Cass(29037)    22    1    0
 ------ Boone(29019)    75    1    20
@@ -3113,7 +3113,7 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
--- Poland    3627    79    116
+-- Poland    3627    79    134
 -- Romania    3613    146    329
 -- India    3588    99    229
 -- Japan    3513    85    514
@@ -3182,8 +3182,8 @@
 -- Iceland    1417    5    396
 -- Colombia    1406    32    85
 -- Qatar    1325    3    109
+-- Ukraine    1251    32    25
 -- Algeria    1251    130    90
--- Ukraine    1225    32    25
 -- Singapore    1189    6    297
 ---- Central Singapore Community Development Council    345    0    124
 -- Croatia    1126    12    119
@@ -3194,8 +3194,8 @@
 -- Morocco    919    59    66
 -- Iraq    878    56    259
 -- Hong Kong    862    4    173
+-- Armenia    822    7    57
 -- Lithuania    811    11    7
--- Armenia    770    7    43
 -- Moldova, Republic of    752    12    29
 -- Hungary    733    34    66
 -- Bahrain    688    4    423
@@ -3203,10 +3203,10 @@
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
 -- Kazakhstan    551    6    36
+-- Latvia    533    1    31
 -- Bulgaria    522    18    37
 -- Azerbaijan    521    5    32
 -- Lebanon    520    17    54
--- Latvia    509    1    31
 -- North Macedonia    483    17    20
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
@@ -3233,9 +3233,9 @@
 -- Ghana    214    5    31
 -- Nigeria    214    4    25
 -- Malta    213    0    2
--- Montenegro    201    2    1
+-- Montenegro    203    2    1
 -- Mauritius    196    7    7
--- Faroe Islands    181    0    93
+-- Faroe Islands    181    0    99
 -- Georgia    170    1    36
 -- Sri Lanka    166    5    27
 -- Bolivia, Plurinational State of    157    10    2
