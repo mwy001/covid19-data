@@ -2516,23 +2516,23 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    211
--- Germany    96092    1444    26400
----- Saxony    2646    25    243
----- Mecklenburg-Vorpommern    501    5    95
----- Free State of Bavaria    21908    349    3690
----- Berlin    3223    22    1564
----- Brandenburg    1353    18    133
----- Thuringia    1074    10    440
----- Schleswig-Holstein    1568    17    122
----- Lower Saxony    5571    85    1481
----- Bremen    354    6    135
----- Hamburg    2739    16    1250
----- Rhineland-Palatinate    3504    30    690
----- North Rhine-Westphalia    18557    224    6213
----- Hesse    4279    42    731
----- Baden-Württemberg    17180    321    2894
----- Saxony-Anhalt    898    11    291
----- Saarland    1318    20    179
+-- Germany    96108    1444    26400
+---- Saxony    2843    32    243
+---- Mecklenburg-Vorpommern    523    5    95
+---- Free State of Bavaria    23846    396    4540
+---- Berlin    3626    24    1857
+---- Brandenburg    1404    24    133
+---- Thuringia    1140    10    440
+---- Schleswig-Holstein    1638    18    122
+---- Lower Saxony    5764    89    1481
+---- Bremen    394    6    135
+---- Hamburg    2945    19    1400
+---- Rhineland-Palatinate    3663    33    690
+---- North Rhine-Westphalia    19405    250    6213
+---- Hesse    4575    56    731
+---- Baden-Württemberg    18614    367    2894
+---- Saxony-Anhalt    919    12    291
+---- Saarland    1410    21    179
 -- France    90853    7574    15574
 ---- France    7652    148    12
 ---- St Martin    29    2    7
@@ -3010,7 +3010,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    355    5    50
--- Iran, Islamic Republic of    55743    3452    19736
+-- Iran, Islamic Republic of    58226    3603    19736
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -3072,7 +3072,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11831    204    2998
+-- Austria    11850    204    2998
 -- Portugal    10524    266    75
 -- Brazil    10360    445    127
 -- Korea, Republic of    10237    183    6463
@@ -3096,7 +3096,7 @@
 ---- 未确定地区    242    3    1
 -- Israel    8385    46    477
 -- Sweden    6443    373    205
--- Australia    5687    35    757
+-- Australia    5687    35    2315
 ---- New South Wales    2580    16    4
 ---- Victoria    1135    8    573
 ---- Queensland    907    4    8
@@ -3113,34 +3113,34 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
+-- Romania    3864    148    374
 -- Poland    3834    84    134
--- Malaysia    3662    61    1005
--- Japan    3643    85    514
----- Hokkaido    193    8    100
----- kochi    26    0    0
----- Miyagi    20    0    0
+-- Japan    3743    85    514
+---- Hokkaido    194    8    100
+---- kochi    33    0    0
+---- Miyagi    21    0    0
 ---- Niigata    35    0    0
 ---- Gifu    47    1    0
 ---- Nagano    11    0    0
 ---- Tochigi    17    0    0
 ---- Kumamoto    19    0    0
----- Saitama    160    4    0
+---- Saitama    165    4    0
 ---- Ishikawa    32    0    0
----- Fukuoka    146    1    0
----- Tokyo    1021    23    0
+---- Fukuoka    162    1    0
+---- Tokyo    1034    23    0
 ---- Wakayama    23    1    2
 ---- Kyoto    116    0    16
 ---- Osaka    387    3    1
----- Chiba    235    1    0
----- Kanagawa    238    6    1
+---- Chiba    260    1    0
+---- Kanagawa    253    6    1
 ---- Shizuoka    17    0    0
----- Aichi    211    19    2
----- Nara    24    0    1
+---- Aichi    221    19    2
+---- Nara    25    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
 ---- Okinawa    17    0    1
----- Ehime    20    1    0
----- hyogo    190    11    0
+---- Ehime    21    1    0
+---- hyogo    203    11    0
 ---- oita    32    0    0
 ---- Yamaguchi    8    0    0
 ---- Miyazaki    8    0    0
@@ -3149,18 +3149,18 @@
 ---- Yamanashi    14    0    0
 ---- Hiroshima    15    0    0
 ---- Gunma    26    1    0
----- Fukushima    14    0    0
+---- Fukushima    16    0    0
 ---- Saga    8    0    0
----- Nagasaki    11    0    0
+---- Nagasaki    12    0    0
 ---- Ibaraki    59    2    0
 ---- Kagawa    2    0    0
 ---- Fukui    53    2    0
----- Okayama    10    0    0
+---- Okayama    11    0    0
 ---- Aomori    11    0    0
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
----- Yamagata    8    0    0
--- Romania    3613    148    329
+---- Yamagata    10    0    0
+-- Malaysia    3662    61    1005
 -- India    3588    99    229
 -- Ecuador    3465    172    100
 -- Philippines    3246    152    64
@@ -3199,7 +3199,7 @@
 -- Moldova, Republic of    752    14    30
 -- Hungary    733    34    66
 -- Bahrain    688    4    423
--- Bosnia and Herzegovina    632    21    31
+-- Bosnia and Herzegovina    634    21    31
 -- Kazakhstan    569    6    36
 -- Kuwait    556    1    99
 -- Cameroon    555    9    17
