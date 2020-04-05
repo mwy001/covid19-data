@@ -3164,7 +3164,7 @@
 -- Malaysia    3483    57    915
 -- Ecuador    3465    172    100
 -- Philippines    3094    144    57
--- Pakistan    2818    41    131
+-- Pakistan    2880    45    170
 -- Luxembourg    2729    31    500
 -- Saudi Arabia    2370    29    420
 -- Thailand    2169    23    674
@@ -3203,10 +3203,10 @@
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
 -- Kazakhstan    551    6    36
+-- Bulgaria    522    18    37
 -- Azerbaijan    521    5    32
 -- Lebanon    520    17    54
 -- Latvia    509    1    31
--- Bulgaria    503    17    34
 -- North Macedonia    483    17    20
 -- Kuwait    479    1    93
 -- Slovakia    471    1    10
