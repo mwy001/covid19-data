@@ -1,8 +1,8 @@
--- United States of America    333021    9513    16940
----- NY    122192    4159    12885
+-- United States of America    333777    9522    17323
+---- NY    122916    4159    12885
 ------ Westchester(36119)    13723    67    0
 ------ Nassau(36059)    14398    149    206
------- Suffolk(36103)    12405    124    0
+------ Suffolk(36103)    13129    175    0
 ------ Albany(36001)    305    8    0
 ------ Rockland(36087)    5326    69    0
 ------ Dutchess(36027)    1077    8    50
@@ -589,7 +589,7 @@
 ------ Towns(13281)    1    0    0
 ------ Wayne(13305)    1    0    0
 ------ Crawford(13079)    1    0    0
----- TX    6977    129    649
+---- TX    7009    130    650
 ------ Dallas(48113)    1112    18    2
 ------ Travis(48453)    460    6    0
 ------ Harris(48201)    1284    17    0
@@ -598,16 +598,16 @@
 ------ Collin(48085)    268    3    91
 ------ Tarrant(48439)    418    11    23
 ------ Smith(48423)    57    1    0
------- Montgomery(48339)    142    3    20
+------ Montgomery(48339)    149    3    20
 ------ Bell(48027)    58    1    12
 ------ El Paso(48141)    106    0    18
 ------ Hays(48209)    54    0    13
 ------ Brazoria(48039)    144    1    20
 ------ Galveston(48167)    222    0    45
 ------ Lubbock(48303)    151    4    20
------- Matagorda(48321)    39    2    0
+------ Matagorda(48321)    41    2    0
 ------ Bowie(48037)    17    1    0
------- Brazos(48041)    75    5    3
+------ Brazos(48041)    94    6    3
 ------ Denton(48121)    288    6    62
 ------ Ellis(48139)    32    2    0
 ------ Gregg(48183)    16    0    0
@@ -686,7 +686,7 @@
 ------ Rockwall(48397)    11    0    0
 ------ Hood(48221)    9    1    0
 ------ Austin(48015)    5    0    0
------- Taylor(48441)    27    1    0
+------ Taylor(48441)    31    1    0
 ------ Swisher(48437)    1    0    0
 ------ Starr(48427)    6    0    0
 ------ Shelby(48419)    12    0    0
@@ -1454,7 +1454,7 @@
 ------ Lyon(32019)    3    0    0
 ------ Humboldt(32013)    11    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1605    9    11
+---- UT    1608    9    11
 ------ Salt Lake(49035)    741    4    0
 ------ Summit(49043)    256    0    0
 ------ Davis(49011)    142    2    0
@@ -1923,7 +1923,7 @@
 ------ Catron(35003)    1    0    0
 ------ Lincoln(35027)    1    0    0
 ------ Los Alamos(35028)    1    0    0
----- RI    809    17    0
+---- RI    809    25    0
 ------ Providence(44007)    491    3    0
 ------ Washington(44009)    48    0    0
 ------ Newport(44005)    39    0    0
@@ -2090,7 +2090,7 @@
 ------ La Paz(04012)    3    0    0
 ------ Gila(04007)    3    0    0
 ------ Greenlee(04011)    1    0    0
----- OK    1254    248    1
+---- OK    1254    248    383
 ------ Oklahoma(40109)    265    73    0
 ------ Tulsa(40143)    240    41    0
 ------ Cleveland(40027)    171    39    0
@@ -2133,7 +2133,7 @@
 ------ Nowata(40105)    9    0    0
 ------ Garfield(40047)    5    0    0
 ------ Rogers(40131)    13    0    0
------- Seminole(40133)    2    0    0
+------ Seminole(40133)    2    1    0
 ------ Texas(40139)    2    0    0
 ------ Beckham(40009)    1    0    0
 ------ Cotton(40033)    4    0    0
@@ -2575,7 +2575,7 @@
 ---- French Guiana    61    0    22
 ---- Réunion    135    0    0
 ---- Guadeloupe    134    7    24
----- French Polynesia    40    0    0
+---- French Polynesia    41    0    0
 ---- Fench Guiana    5    0    0
 ---- Mayotte    134    2    14
 ---- Reunion    344    0    40
@@ -3063,7 +3063,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    48406    4943    229
+-- United Kingdom of Great Britain and Northern Ireland    48407    4943    229
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3250,9 +3250,9 @@
 -- Côte d'Ivoire    245    1    25
 -- Viet Nam    241    0    90
 -- Palestine    234    1    23
+-- Nigeria    232    5    33
 -- Mauritius    227    7    7
 -- Malta    227    0    5
--- Nigeria    224    5    27
 -- Senegal    222    2    82
 -- Montenegro    214    2    1
 -- Ghana    214    5    31
@@ -3300,8 +3300,8 @@
 -- Bermuda    37    0    14
 -- Cayman Islands    35    1    1
 -- Guam    33    1    0
+-- Saint Martin (French part)    32    2    7
 -- Eritrea    29    0    0
--- Saint Martin (French part)    29    2    7
 -- Bahamas    28    4    1
 -- Guyana    24    4    0
 -- Benin    22    0    5
