@@ -618,7 +618,7 @@
 ------ Comal(48091)    21    2    5
 ------ Grimes(48185)    3    0    0
 ------ Medina(48325)    6    0    0
------- Williamson(48491)    76    1    25
+------ Williamson(48491)    76    1    26
 ------ Fannin(48147)    2    0    0
 ------ Jefferson(48245)    58    1    0
 ------ Cameron(48061)    62    0    0
@@ -1514,22 +1514,22 @@
 ------ Allendale(45005)    2    0    0
 ------ Cherokee(45021)    2    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1633    44    0
------- Jefferson(01073)    376    9    0
+---- AL    1666    44    0
+------ Jefferson(01073)    398    9    0
 ------ Shelby(01117)    127    5    0
------- Lee(01081)    104    3    0
+------ Lee(01081)    105    3    0
 ------ Tuscaloosa(01125)    44    0    0
 ------ Elmore(01051)    19    0    0
------- Montgomery(01101)    63    1    0
+------ Montgomery(01101)    65    1    0
 ------ Baldwin(01003)    29    1    0
 ------ Limestone(01083)    31    0    0
------- Madison(01089)    126    1    0
+------ Madison(01089)    127    1    0
 ------ Calhoun(01015)    21    0    0
 ------ St Clair(01115)    25    0    0
 ------ Chambers(01017)    87    6    0
 ------ Talladega(01121)    16    0    0
 ------ Walker(01127)    49    0    0
------- Mobile(01097)    114    5    0
+------ Mobile(01097)    121    5    0
 ------ Jackson(01071)    13    1    0
 ------ Lamar(01075)    3    0    0
 ------ Lauderdale(01077)    16    2    0
@@ -1557,7 +1557,7 @@
 ------ Russell(01113)    6    0    0
 ------ Wilcox(01131)    11    0    0
 ------ Coffee(01031)    7    0    0
------- Lowndes(01085)    3    0    0
+------ Lowndes(01085)    4    0    0
 ------ Marengo(01091)    8    0    0
 ------ DeKalb(01049)    13    0    0
 ------ Coosa(01037)    6    0    0
@@ -2516,7 +2516,7 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    211
--- Germany    96108    1446    26400
+-- Germany    96471    1447    26400
 ---- Saxony    2843    32    243
 ---- Mecklenburg-Vorpommern    523    5    95
 ---- Free State of Bavaria    23846    396    4540
@@ -3055,7 +3055,7 @@
 -- Turkey    23934    501    786
 -- Switzerland    21100    680    6415
 -- Belgium    19691    1447    3751
--- Netherlands    16729    1656    262
+-- Netherlands    17851    1766    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Canada    14022    234    2770
@@ -3108,10 +3108,10 @@
 -- Norway    5645    66    32
 -- Russian Federation    5389    45    355
 -- Ireland    4604    137    25
--- Czechia    4475    62    78
--- Denmark    4369    179    1385
+-- Denmark    4561    179    1429
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
+-- Czechia    4475    62    78
 -- Chile    4161    27    528
 -- Romania    3864    148    374
 -- Poland    3834    84    134
@@ -3164,9 +3164,9 @@
 -- India    3588    99    229
 -- Ecuador    3465    172    100
 -- Philippines    3246    152    64
--- Pakistan    2897    45    170
+-- Pakistan    2897    45    208
 -- Luxembourg    2729    31    500
--- Saudi Arabia    2370    29    420
+-- Saudi Arabia    2385    34    488
 -- Indonesia    2273    198    164
 -- Thailand    2169    23    674
 -- Finland    1927    28    300
@@ -3195,7 +3195,7 @@
 -- Hong Kong    890    4    206
 -- Iraq    878    56    259
 -- Armenia    822    7    57
--- Lithuania    811    11    7
+-- Lithuania    811    12    7
 -- Moldova, Republic of    752    14    30
 -- Hungary    733    34    66
 -- Bahrain    698    4    427
@@ -3221,11 +3221,11 @@
 -- Réunion    334    0    40
 -- Jordan    323    5    74
 -- Burkina Faso    318    16    66
--- Uzbekistan    298    2    25
+-- Uzbekistan    298    2    30
 -- Oman    298    2    61
 -- Cuba    288    6    15
 -- Honduras    268    22    6
--- San Marino    259    32    27
+-- San Marino    266    32    35
 -- Côte d'Ivoire    245    1    25
 -- Viet Nam    241    0    90
 -- Mauritius    227    7    7
@@ -3270,7 +3270,7 @@
 -- Uganda    48    0    0
 -- Congo    45    5    2
 -- Macao    44    0    10
--- Ethiopia    43    0    4
+-- Ethiopia    43    1    4
 -- Mali    41    3    1
 -- Togo    41    3    17
 -- French Polynesia    40    0    0
@@ -3300,6 +3300,7 @@
 -- Dominica    14    0    0
 -- Saint Lucia    14    0    1
 -- Mongolia    14    0    2
+-- Liberia    13    3    3
 -- Grenada    12    0    0
 -- Fiji    12    0    0
 -- Lao People's Democratic Republic    11    0    0
@@ -3307,7 +3308,6 @@
 -- Curaçao    11    1    5
 -- Mozambique    10    0    1
 -- Angola    10    2    2
--- Liberia    10    1    3
 -- Seychelles    10    0    0
 -- Suriname    10    1    0
 -- Sudan    10    2    2
