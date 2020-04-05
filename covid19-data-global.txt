@@ -2473,7 +2473,7 @@
 ---- PR    452    18    0
 ---- VI    42    0    34
 ---- MP    8    1    0
--- Spain    126168    11947    34219
+-- Spain    130759    12418    38080
 ---- Andalusia    7869    426    463
 ---- Aragon    3078    251    440
 ---- Balearic Islands    1271    71    422
@@ -3053,7 +3053,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    23934    501    786
--- Switzerland    20505    666    6415
+-- Switzerland    20510    666    6415
 -- Belgium    19691    1447    3751
 -- Netherlands    16729    1656    262
 ---- Netherlands    1705    43    2
@@ -3072,7 +3072,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11821    204    2998
+-- Austria    11831    204    2998
 -- Portugal    10524    266    75
 -- Brazil    10360    445    127
 -- Korea, Republic of    10237    183    6463
@@ -3109,7 +3109,7 @@
 -- Russian Federation    4731    43    333
 -- Ireland    4604    137    25
 -- Czechia    4475    62    78
--- Denmark    4269    161    1379
+-- Denmark    4269    161    1385
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
@@ -3160,7 +3160,7 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
--- Romania    3613    146    329
+-- Romania    3613    148    329
 -- India    3588    99    229
 -- Ecuador    3465    172    100
 -- Philippines    3246    152    64
@@ -3236,8 +3236,8 @@
 -- Malta    213    0    2
 -- Montenegro    203    2    1
 -- Faroe Islands    181    0    99
--- Georgia    170    1    36
--- Sri Lanka    166    5    29
+-- Georgia    170    2    36
+-- Sri Lanka    167    5    29
 -- Bolivia, Plurinational State of    157    10    2
 -- Venezuela, Bolivarian Republic of    155    7    52
 -- Congo, Democratic Republic of the    154    18    3
@@ -3245,10 +3245,10 @@
 -- Martinique    145    3    27
 -- Niger    144    8    0
 -- Kosovo    140    1    23
--- Brunei Darussalam    135    1    66
+-- Brunei Darussalam    135    1    73
 -- Mayotte    134    2    14
 -- Guadeloupe    134    7    24
--- Isle of Man    126    1    0
+-- Isle of Man    127    1    0
 -- Kenya    126    4    4
 -- Cambodia    114    0    50
 -- Guinea    111    0    5
@@ -3268,6 +3268,7 @@
 -- Barbados    52    0    0
 -- Djibouti    50    0    8
 -- Uganda    48    0    0
+-- Congo    45    5    2
 -- Macao    44    0    10
 -- Mali    41    3    1
 -- Togo    41    3    17
@@ -3282,7 +3283,6 @@
 -- Saint Martin (French part)    29    2    7
 -- Bahamas    28    4    1
 -- Guyana    24    4    0
--- Congo    22    2    2
 -- Myanmar    21    1    0
 -- Haiti    21    0    1
 -- Gabon    21    1    1
