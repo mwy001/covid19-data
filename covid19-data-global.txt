@@ -3072,7 +3072,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11781    186    2507
+-- Austria    11821    204    2998
 -- Portugal    10524    266    75
 -- Brazil    10360    445    127
 -- Korea, Republic of    10237    183    6463
@@ -3096,7 +3096,7 @@
 ---- 未确定地区    242    3    1
 -- Israel    8385    46    477
 -- Sweden    6443    373    205
--- Australia    5669    35    757
+-- Australia    5687    35    757
 ---- New South Wales    2580    16    4
 ---- Victoria    1135    8    573
 ---- Queensland    907    4    8
@@ -3113,10 +3113,8 @@
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
 -- Chile    4161    27    528
--- Poland    3627    79    134
--- Romania    3613    146    329
--- India    3588    99    229
--- Japan    3513    85    514
+-- Poland    3834    84    134
+-- Japan    3643    85    514
 ---- Hokkaido    193    8    100
 ---- kochi    26    0    0
 ---- Miyagi    20    0    0
@@ -3128,7 +3126,7 @@
 ---- Saitama    160    4    0
 ---- Ishikawa    32    0    0
 ---- Fukuoka    146    1    0
----- Tokyo    891    23    0
+---- Tokyo    1021    23    0
 ---- Wakayama    23    1    2
 ---- Kyoto    116    0    16
 ---- Osaka    387    3    1
@@ -3161,9 +3159,11 @@
 ---- Kagoshima    3    0    0
 ---- Toyama    10    0    0
 ---- Yamagata    8    0    0
+-- Romania    3613    146    329
+-- India    3588    99    229
 -- Malaysia    3483    57    915
 -- Ecuador    3465    172    100
--- Philippines    3094    144    57
+-- Philippines    3246    152    64
 -- Pakistan    2880    45    170
 -- Luxembourg    2729    31    500
 -- Saudi Arabia    2370    29    420
@@ -3196,13 +3196,13 @@
 -- Hong Kong    862    4    173
 -- Armenia    822    7    57
 -- Lithuania    811    11    7
--- Moldova, Republic of    752    12    29
+-- Moldova, Republic of    752    14    29
 -- Hungary    733    34    66
 -- Bahrain    688    4    423
--- Bosnia and Herzegovina    626    21    31
+-- Bosnia and Herzegovina    629    21    31
+-- Kazakhstan    569    6    36
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
--- Kazakhstan    551    6    36
 -- Latvia    533    1    31
 -- Bulgaria    522    18    37
 -- Azerbaijan    521    5    32
@@ -3302,9 +3302,9 @@
 -- Mongolia    14    0    2
 -- Grenada    12    0    0
 -- Fiji    12    0    0
+-- Lao People's Democratic Republic    11    0    0
 -- Greenland    11    0    3
 -- Curaçao    11    1    5
--- Lao People's Democratic Republic    10    0    0
 -- Mozambique    10    0    1
 -- Angola    10    2    2
 -- Liberia    10    1    3
