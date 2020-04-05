@@ -1070,50 +1070,50 @@
 ------ Malheur(41045)    2    0    0
 ------ Wallowa(41063)    1    0    0
 ------ Crook(41013)    1    0    0
----- VA    2574    52    2
+---- VA    2637    52    2
 ------ Arlington(51013)    181    2    0
 ------ Fairfax(51059)    387    2    0
 ------ Loudoun(51107)    167    1    0
 ------ Chesterfield(51041)    108    0    0
------- Prince William(51153)    159    1    0
+------ Prince William(51153)    175    1    0
 ------ Henrico(51087)    194    2    0
 ------ Goochland(51075)    15    0    0
 ------ Hanover(51085)    12    0    0
 ------ Prince Edward(51147)    3    0    0
------- Spotsylvania(51177)    18    0    0
------- Stafford(51179)    38    0    0
+------ Spotsylvania(51177)    24    0    0
+------ Stafford(51179)    41    0    0
 ------ York(51199)    20    1    0
 ------ Charles City(51036)    4    0    0
 ------ James City(51095)    117    2    0
------- Albemarle(51003)    27    0    0
------- Gloucester(51073)    9    0    0
+------ Albemarle(51003)    32    0    0
+------ Gloucester(51073)    10    0    0
 ------ Roanoke(51161)    10    0    0
 ------ Botetourt(51023)    15    0    0
 ------ Richmond(51159)    96    0    0
------- Accomack(51001)    10    0    0
------- Mecklenburg(51117)    8    0    0
+------ Accomack(51001)    11    0    0
+------ Mecklenburg(51117)    12    0    0
 ------ Rockbridge(51163)    3    0    0
 ------ Franklin(51067)    10    0    0
 ------ Isle of Wight(51093)    18    0    0
 ------ City of Alexandria(51510)    77    0    0
------- City of Charlottesville(51540)    21    1    0
+------ City of Charlottesville(51540)    23    1    0
 ------ City of Harrisonburg(51660)    25    0    0
 ------ City of Norfolk(51710)    59    0    0
------- City of Virginia Beach(51810)    160    1    2
+------ City of Virginia Beach(51810)    170    1    2
 ------ City of Williamsburg(51830)    12    1    0
 ------ City of Portsmouth(51740)    26    0    0
------- City of Suffolk(51800)    20    0    0
+------ City of Suffolk(51800)    22    0    0
 ------ City of Newport News(51700)    51    1    0
 ------ Lee(51105)    2    0    0
 ------ Rockingham(51165)    16    0    0
 ------ Amherst(51009)    6    0    0
 ------ Bedford(51019)    4    0    0
 ------ Culpeper(51047)    8    0    0
------- Fluvanna(51065)    5    0    0
------- Louisa(51109)    13    0    0
+------ Fluvanna(51065)    7    0    0
+------ Louisa(51109)    14    0    0
 ------ City of Danville(51590)    12    0    0
 ------ Alleghany(51005)    2    0    0
------- Halifax(51083)    1    0    0
+------ Halifax(51083)    2    0    0
 ------ Madison(51113)    3    0    0
 ------ Nelson(51125)    2    0    0
 ------ Orange(51137)    5    0    0
@@ -1136,7 +1136,7 @@
 ------ City of Poquoson(51735)    3    0    0
 ------ Prince George(51149)    18    0    0
 ------ Southampton(51175)    5    0    0
------- Greene(51079)    2    0    0
+------ Greene(51079)    3    0    0
 ------ King George(51099)    8    0    0
 ------ Northampton(51131)    2    0    0
 ------ Montgomery(51121)    6    0    0
@@ -1152,7 +1152,7 @@
 ------ City of Winchester(51840)    11    0    0
 ------ City of Manassas Park(51685)    2    0    0
 ------ Henry(51089)    3    0    0
------- King William(51101)    1    0    0
+------ King William(51101)    2    0    0
 ------ Smyth(51173)    2    0    0
 ------ City of Petersburg(51730)    10    0    0
 ------ Buckingham(51029)    4    0    0
@@ -1446,7 +1446,7 @@
 ------ Lyon(32019)    3    0    0
 ------ Humboldt(32013)    9    0    0
 ------ White Pine(32033)    1    0    0
----- UT    1435    9    11
+---- UT    1436    9    11
 ------ Salt Lake(49035)    650    4    0
 ------ Summit(49043)    230    0    0
 ------ Davis(49011)    137    2    0
@@ -1514,22 +1514,22 @@
 ------ Allendale(45005)    2    0    0
 ------ Cherokee(45021)    2    0    0
 ------ McCormick(45065)    1    0    0
----- AL    1666    44    0
+---- AL    1676    44    0
 ------ Jefferson(01073)    398    9    0
------- Shelby(01117)    127    5    0
+------ Shelby(01117)    128    5    0
 ------ Lee(01081)    105    3    0
 ------ Tuscaloosa(01125)    44    0    0
 ------ Elmore(01051)    19    0    0
 ------ Montgomery(01101)    65    1    0
 ------ Baldwin(01003)    29    1    0
 ------ Limestone(01083)    31    0    0
------- Madison(01089)    127    1    0
+------ Madison(01089)    130    1    0
 ------ Calhoun(01015)    21    0    0
 ------ St Clair(01115)    25    0    0
------- Chambers(01017)    87    6    0
------- Talladega(01121)    16    0    0
+------ Chambers(01017)    88    6    0
+------ Talladega(01121)    17    0    0
 ------ Walker(01127)    49    0    0
------- Mobile(01097)    121    5    0
+------ Mobile(01097)    122    5    0
 ------ Jackson(01071)    13    1    0
 ------ Lamar(01075)    3    0    0
 ------ Lauderdale(01077)    16    2    0
@@ -1537,13 +1537,13 @@
 ------ Cullman(01043)    15    1    0
 ------ Marion(01093)    17    2    0
 ------ Franklin(01059)    6    0    0
------- Houston(01069)    14    1    0
+------ Houston(01069)    15    1    0
 ------ Tallapoosa(01123)    20    1    0
 ------ Morgan(01103)    24    1    0
 ------ Autauga(01001)    12    0    0
 ------ Pickens(01107)    12    0    0
------- Pike(01109)    10    0    0
------- Etowah(01055)    27    3    0
+------ Pike(01109)    11    0    0
+------ Etowah(01055)    28    3    0
 ------ Dallas(01047)    7    0    0
 ------ Blount(01009)    10    0    0
 ------ Butler(01013)    1    0    0
@@ -1559,7 +1559,7 @@
 ------ Coffee(01031)    7    0    0
 ------ Lowndes(01085)    4    0    0
 ------ Marengo(01091)    8    0    0
------- DeKalb(01049)    13    0    0
+------ DeKalb(01049)    14    0    0
 ------ Coosa(01037)    6    0    0
 ------ Bullock(01011)    3    0    0
 ------ Choctaw(01023)    4    0    0
@@ -1886,7 +1886,7 @@
 ------ Colfax(31037)    1    0    0
 ------ Merrick(31121)    2    0    0
 ------ Cherry(31031)    1    0    0
----- NM    588    11    26
+---- NM    589    11    26
 ------ Bernalillo(35001)    225    7    0
 ------ Santa Fe(35049)    58    0    0
 ------ Sandoval(35043)    69    2    0
@@ -3045,7 +3045,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    47806    4932    215
+-- United Kingdom of Great Britain and Northern Ireland    47806    4934    215
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3058,7 +3058,7 @@
 -- Turkey    23934    501    786
 -- Switzerland    21100    685    6415
 -- Belgium    19691    1447    3751
--- Netherlands    17851    1766    262
+-- Netherlands    17953    1771    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Canada    14022    234    2770
@@ -3077,7 +3077,7 @@
 ---- Nunavut    1    0    0
 -- Austria    11920    204    2998
 -- Portugal    11278    295    75
--- Brazil    10360    445    127
+-- Brazil    10431    446    127
 -- Korea, Republic of    10237    183    6463
 ---- Busan    122    3    90
 ---- Chungcheongbuk-do    45    0    28
@@ -3108,7 +3108,7 @@
 ---- Tasmania    82    2    5
 ---- Northern Territory    27    0    1
 ---- Australian Capital Territory    96    2    28
--- Norway    5645    66    32
+-- Norway    5686    66    32
 -- Russian Federation    5389    45    355
 -- Ireland    4604    137    25
 -- Denmark    4561    179    1429
@@ -3167,7 +3167,7 @@
 -- India    3588    99    229
 -- Ecuador    3465    172    100
 -- Philippines    3246    152    64
--- Pakistan    2899    45    208
+-- Pakistan    3123    45    208
 -- Luxembourg    2729    31    500
 -- Saudi Arabia    2385    34    488
 -- Indonesia    2273    198    164
@@ -3177,9 +3177,9 @@
 -- Mexico    1890    79    633
 -- Panama    1801    46    13
 -- Peru    1746    73    914
+-- Dominican Republic    1745    82    17
 -- Greece    1673    70    78
 -- South Africa    1585    9    95
--- Dominican Republic    1578    77    17
 -- United Arab Emirates    1505    10    125
 -- Iceland    1486    5    428
 -- Argentina    1451    44    279
@@ -3189,7 +3189,7 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Ukraine    1251    32    25
 -- Algeria    1251    130    90
--- Croatia    1182    16    119
+-- Croatia    1182    16    125
 -- Estonia    1097    15    62
 -- Egypt    1070    71    241
 -- New Zealand    1039    1    156
@@ -3211,8 +3211,8 @@
 -- North Macedonia    555    18    23
 -- Tunisia    553    19    5
 -- Latvia    533    1    31
+-- Bulgaria    531    20    37
 -- Lebanon    527    18    54
--- Bulgaria    522    18    37
 -- Andorra    501    18    26
 -- Slovakia    485    1    10
 -- Costa Rica    435    2    13
@@ -3247,8 +3247,8 @@
 -- Kyrgyzstan    147    1    9
 -- Martinique    145    3    27
 -- Niger    144    8    0
+-- Kenya    142    4    4
 -- Kosovo    140    1    23
--- Kenya    138    4    4
 -- Brunei Darussalam    135    1    73
 -- Mayotte    134    2    14
 -- Guadeloupe    134    7    24
@@ -3257,8 +3257,8 @@
 -- Guinea    111    0    5
 -- Trinidad and Tobago    104    7    1
 -- Paraguay    104    3    12
+-- Gibraltar    103    0    52
 -- Rwanda    102    0    4
--- Gibraltar    98    0    52
 -- Bangladesh    88    9    33
 -- Liechtenstein    77    1    0
 -- Madagascar    72    0    2
@@ -3273,9 +3273,9 @@
 -- Uganda    48    0    0
 -- Congo    45    5    2
 -- Macao    44    0    10
+-- Togo    44    3    20
 -- Ethiopia    43    1    4
 -- Mali    41    3    1
--- Togo    41    3    17
 -- French Polynesia    40    0    0
 -- Zambia    39    1    3
 -- Puerto Rico    39    2    1
@@ -3329,12 +3329,12 @@
 -- Montserrat    6    0    0
 -- Saint Barthélemy    6    0    1
 -- Mauritania    6    1    2
+-- Belize    5    0    0
 -- Nicaragua    5    1    0
 -- Bhutan    5    0    2
 -- Western Sahara    4    0    0
 -- Malawi    4    0    0
 -- Botswana    4    1    0
--- Belize    4    0    0
 -- Gambia    4    1    2
 -- Burundi    3    0    0
 -- Anguilla    3    0    0
