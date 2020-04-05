@@ -2533,9 +2533,9 @@
 ---- Baden-Württemberg    17180    321    2894
 ---- Saxony-Anhalt    898    11    291
 ---- Saarland    1318    20    179
--- France    90848    7574    15572
+-- France    90853    7574    15574
 ---- France    7652    148    12
----- St Martin    24    2    5
+---- St Martin    29    2    7
 ---- Saint Barthelemy    6    0    1
 ---- Nord-Pas-de-Calais and Picardy    1753    7    4
 ---- Ile-de-France    7660    2    2
@@ -2560,7 +2560,7 @@
 ---- Reunion    334    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    18    0    1
--- China    82930    3338    77210
+-- China    82930    3338    77237
 ---- 天津    180    3    144
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -2607,7 +2607,7 @@
 ------ 恩施州    252    7    245
 ------ 神农架林区    11    0    11
 ---- 香港    862    4    186
----- 上海    531    6    356
+---- 上海    531    6    383
 ------ 宝山区    22    1    19
 ------ 徐汇区    18    1    17
 ------ 嘉定区    9    1    7
@@ -3055,7 +3055,7 @@
 -- Turkey    23934    501    786
 -- Switzerland    20505    666    6415
 -- Belgium    18431    1283    3247
--- Netherlands    16727    1656    262
+-- Netherlands    16729    1656    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
 -- Canada    14022    234    2770
@@ -3096,16 +3096,16 @@
 ---- 未确定地区    242    3    1
 -- Israel    8385    46    477
 -- Sweden    6443    373    205
--- Australia    5635    34    701
----- New South Wales    2493    12    4
----- Victoria    1115    8    527
----- Queensland    900    4    8
+-- Australia    5669    35    757
+---- New South Wales    2580    16    4
+---- Victoria    1135    8    573
+---- Queensland    907    4    8
 ---- South Australia    407    0    46
----- Western Australia    436    2    92
----- Tasmania    80    2    5
+---- Western Australia    436    3    92
+---- Tasmania    82    2    5
 ---- Northern Territory    26    0    1
----- Australian Capital Territory    93    2    18
--- Norway    5550    62    32
+---- Australian Capital Territory    96    2    28
+-- Norway    5645    62    32
 -- Russian Federation    4731    43    333
 -- Ireland    4604    137    25
 -- Czechia    4475    62    78
@@ -3191,7 +3191,7 @@
 -- New Zealand    1039    1    156
 -- Estonia    1039    13    59
 -- Slovenia    977    22    79
--- Morocco    919    59    66
+-- Morocco    960    66    69
 -- Iraq    878    56    259
 -- Hong Kong    862    4    173
 -- Armenia    822    7    57
@@ -3228,16 +3228,16 @@
 -- San Marino    259    32    27
 -- Côte d'Ivoire    245    1    25
 -- Viet Nam    240    0    90
+-- Mauritius    227    7    7
 -- Senegal    219    2    72
 -- Palestine    217    1    21
 -- Ghana    214    5    31
 -- Nigeria    214    4    25
 -- Malta    213    0    2
 -- Montenegro    203    2    1
--- Mauritius    196    7    7
 -- Faroe Islands    181    0    99
 -- Georgia    170    1    36
--- Sri Lanka    166    5    27
+-- Sri Lanka    166    5    29
 -- Bolivia, Plurinational State of    157    10    2
 -- Venezuela, Bolivarian Republic of    155    7    52
 -- Congo, Democratic Republic of the    154    18    3
