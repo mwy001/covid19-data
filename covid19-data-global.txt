@@ -2474,24 +2474,24 @@
 ---- VI    42    0    34
 ---- MP    8    1    0
 -- Spain    130759    12418    38080
----- Andalusia    7869    426    463
----- Aragon    3078    251    440
----- Balearic Islands    1271    71    422
----- Basque Country    8187    477    3098
----- Canary Islands    1564    78    123
----- Cantabria    1384    68    99
----- Castile and León    8332    786    2021
----- Castile-La Mancha    9324    989    657
----- Catalonia    24734    2508    8635
----- Community of Madrid    36249    4723    15362
----- Comunidad Foral de Navarra    2972    171    311
----- Extremadura    1979    208    205
----- Galicia    5625    3032    531
----- Principality of Asturias    1522    76    190
----- Región de Murcia    1188    51    113
----- Rioja    2405    128    843
----- Valencian Community    6901    571    695
----- Melilla    79    2    9
+---- Andalusia    8301    470    665
+---- Aragon    3232    270    537
+---- Balearic Islands    1293    75    461
+---- Basque Country    8628    515    3405
+---- Canary Islands    1622    80    137
+---- Cantabria    1441    68    113
+---- Castile and León    8749    847    2231
+---- Castile-La Mancha    10031    1055    1149
+---- Catalonia    26032    2637    9528
+---- Community of Madrid    37584    4941    16543
+---- Comunidad Foral de Navarra    3073    178    334
+---- Extremadura    2047    218    215
+---- Galicia    5944    3032    587
+---- Principality of Asturias    1605    80    216
+---- Región de Murcia    1225    59    130
+---- Rioja    2592    134    904
+---- Valencian Community    7184    613    812
+---- Melilla    83    2    11
 ---- Navarre    130    0    0
 ---- Ceuta    73    1    2
 -- Italy    124632    15362    20996
@@ -3010,7 +3010,7 @@
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
 ---- 台湾    355    5    50
--- Iran, Islamic Republic of    58226    3603    19736
+-- Iran, Islamic Republic of    58226    3603    22011
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
 ---- Fars    505    2    0
@@ -3053,7 +3053,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    23934    501    786
--- Switzerland    21100    666    6415
+-- Switzerland    21100    680    6415
 -- Belgium    19691    1447    3751
 -- Netherlands    16729    1656    262
 ---- Netherlands    1705    43    2
@@ -3072,7 +3072,7 @@
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
--- Austria    11861    204    2998
+-- Austria    11897    204    2998
 -- Portugal    11278    295    75
 -- Brazil    10360    445    127
 -- Korea, Republic of    10237    183    6463
@@ -3095,7 +3095,7 @@
 ---- Ulsan    40    1    27
 ---- 未确定地区    242    3    1
 -- Israel    8385    46    477
--- Sweden    6443    373    205
+-- Sweden    6830    401    205
 -- Australia    5687    35    2315
 ---- New South Wales    2580    16    4
 ---- Victoria    1135    8    573
@@ -3115,26 +3115,26 @@
 -- Chile    4161    27    528
 -- Romania    3864    148    374
 -- Poland    3834    84    134
--- Japan    3743    85    514
+-- Japan    3806    86    514
 ---- Hokkaido    194    8    100
 ---- kochi    33    0    0
----- Miyagi    21    0    0
+---- Miyagi    23    0    0
 ---- Niigata    35    0    0
----- Gifu    47    1    0
----- Nagano    11    0    0
+---- Gifu    50    1    0
+---- Nagano    12    0    0
 ---- Tochigi    17    0    0
----- Kumamoto    19    0    0
----- Saitama    165    4    0
+---- Kumamoto    20    0    0
+---- Saitama    167    4    0
 ---- Ishikawa    32    0    0
 ---- Fukuoka    162    1    0
 ---- Tokyo    1034    23    0
----- Wakayama    23    1    2
----- Kyoto    116    0    16
----- Osaka    387    3    1
+---- Wakayama    24    1    2
+---- Kyoto    125    0    16
+---- Osaka    408    3    1
 ---- Chiba    260    1    0
----- Kanagawa    253    6    1
+---- Kanagawa    265    6    1
 ---- Shizuoka    17    0    0
----- Aichi    221    19    2
+---- Aichi    225    20    2
 ---- Nara    25    0    1
 ---- Tokushima    3    0    0
 ---- Mie    13    0    1
@@ -3143,8 +3143,8 @@
 ---- hyogo    203    11    0
 ---- oita    32    0    0
 ---- Yamaguchi    8    0    0
----- Miyazaki    8    0    0
----- Shiga    17    0    0
+---- Miyazaki    10    0    0
+---- Shiga    18    0    0
 ---- Akita    11    0    0
 ---- Yamanashi    14    0    0
 ---- Hiroshima    15    0    0
@@ -3154,7 +3154,7 @@
 ---- Nagasaki    12    0    0
 ---- Ibaraki    59    2    0
 ---- Kagawa    2    0    0
----- Fukui    53    2    0
+---- Fukui    53    3    0
 ---- Okayama    11    0    0
 ---- Aomori    11    0    0
 ---- Kagoshima    3    0    0
@@ -3186,12 +3186,12 @@
 ---- Central Singapore Community Development Council    345    0    124
 -- Ukraine    1251    32    25
 -- Algeria    1251    130    90
--- Croatia    1126    12    119
+-- Croatia    1182    16    119
 -- Estonia    1097    15    62
 -- Egypt    1070    71    241
 -- New Zealand    1039    1    156
 -- Slovenia    997    28    79
--- Morocco    960    66    69
+-- Morocco    961    69    70
 -- Hong Kong    890    4    206
 -- Iraq    878    56    259
 -- Armenia    822    7    57
@@ -3205,13 +3205,13 @@
 -- Belarus    562    8    53
 -- Kuwait    556    1    99
 -- Cameroon    555    9    17
+-- North Macedonia    555    18    23
 -- Tunisia    553    19    5
 -- Latvia    533    1    31
 -- Lebanon    527    18    54
 -- Bulgaria    522    18    37
 -- Andorra    501    18    26
 -- Slovakia    485    1    10
--- North Macedonia    483    17    20
 -- Costa Rica    435    2    13
 -- Cyprus    426    11    33
 -- Uruguay    400    5    93
@@ -3236,8 +3236,8 @@
 -- Ghana    214    5    31
 -- Montenegro    203    2    1
 -- Faroe Islands    181    0    99
+-- Sri Lanka    171    5    29
 -- Georgia    170    2    36
--- Sri Lanka    170    5    29
 -- Bolivia, Plurinational State of    157    10    2
 -- Venezuela, Bolivarian Republic of    155    7    52
 -- Congo, Democratic Republic of the    154    18    3
@@ -3274,7 +3274,7 @@
 -- Mali    41    3    1
 -- Togo    41    3    17
 -- French Polynesia    40    0    0
--- Zambia    39    1    2
+-- Zambia    39    1    3
 -- Puerto Rico    39    2    1
 -- Bermuda    37    0    14
 -- Cayman Islands    35    1    1
