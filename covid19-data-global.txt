@@ -3108,7 +3108,7 @@
 -- Norway    5550    62    32
 -- Russian Federation    4731    43    333
 -- Ireland    4604    137    25
--- Czechia    4472    59    78
+-- Czechia    4475    62    78
 -- Denmark    4269    161    1379
 ---- Denmark    977    4    1
 ---- Faroe Islands    47    0    0
@@ -3169,8 +3169,8 @@
 -- Saudi Arabia    2370    29    420
 -- Thailand    2169    23    674
 -- Indonesia    2092    191    150
+-- Finland    1927    25    300
 -- Mexico    1890    79    633
--- Finland    1882    25    300
 -- Panama    1801    46    13
 -- Peru    1746    73    914
 -- Greece    1673    68    78
@@ -3199,7 +3199,7 @@
 -- Moldova, Republic of    752    12    29
 -- Hungary    733    34    66
 -- Bahrain    688    4    423
--- Bosnia and Herzegovina    624    21    31
+-- Bosnia and Herzegovina    626    21    31
 -- Cameroon    555    9    17
 -- Tunisia    553    19    5
 -- Kazakhstan    551    6    36
@@ -3236,8 +3236,8 @@
 -- Montenegro    201    2    1
 -- Mauritius    196    7    7
 -- Faroe Islands    181    0    93
+-- Georgia    170    1    36
 -- Sri Lanka    166    5    27
--- Georgia    162    1    36
 -- Bolivia, Plurinational State of    157    10    2
 -- Venezuela, Bolivarian Republic of    155    7    52
 -- Congo, Democratic Republic of the    154    18    3
