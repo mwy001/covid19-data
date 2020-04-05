@@ -2339,15 +2339,15 @@
 ------ Uinta(56041)    2    0    0
 ------ Lincoln(56023)    1    0    0
 ------ Crook(56011)    1    0    0
----- MT    281    6    32
+---- MT    286    6    32
 ------ Missoula(30063)    19    1    0
 ------ Yellowstone(30111)    38    0    0
 ------ Broadwater(30007)    4    0    0
------- Gallatin(30031)    109    0    0
+------ Gallatin(30031)    110    0    0
 ------ Silver Bow(30093)    11    0    0
 ------ Roosevelt(30085)    1    0    0
------- Madison(30057)    6    2    0
------- Flathead(30029)    23    0    0
+------ Madison(30057)    9    2    0
+------ Flathead(30029)    24    0    0
 ------ Lewis and Clark(30049)    14    0    0
 ------ Ravalli(30081)    2    0    0
 ------ Cascade(30013)    11    0    0
@@ -2516,7 +2516,7 @@
 ---- Liguria    3965    519    700
 ---- Veneto    10464    572    1031
 ---- Bolzano    1563    146    211
--- Germany    97052    1478    26400
+-- Germany    97074    1478    26400
 ---- Saxony    2843    32    243
 ---- Mecklenburg-Vorpommern    523    5    95
 ---- Free State of Bavaria    23846    396    4540
@@ -2560,7 +2560,7 @@
 ---- Reunion    334    0    40
 ---- SCGF0594    28    0    0
 ---- New Caledonia    18    0    1
--- China    82958    3338    77257
+-- China    82966    3338    77257
 ---- 天津    180    3    144
 ------ 宝坻区    60    2    58
 ------ 河东区    15    1    14
@@ -3009,7 +3009,7 @@
 ---- 青海    18    0    18
 ------ 西宁    15    0    15
 ------ 海北州    3    0    3
----- 台湾    355    5    50
+---- 台湾    363    5    50
 -- Iran, Islamic Republic of    58226    3603    22011
 ---- Qom    1178    30    0
 ---- Tehran    5098    0    0
@@ -3042,7 +3042,7 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    42480    4320    215
+-- United Kingdom of Great Britain and Northern Ireland    47806    4932    215
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
@@ -3053,7 +3053,7 @@
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    23934    501    786
--- Switzerland    21100    680    6415
+-- Switzerland    21100    685    6415
 -- Belgium    19691    1447    3751
 -- Netherlands    17851    1766    262
 ---- Netherlands    1705    43    2
@@ -3170,11 +3170,11 @@
 -- Indonesia    2273    198    164
 -- Thailand    2169    23    674
 -- Finland    1927    28    300
+-- Serbia    1908    51    54
 -- Mexico    1890    79    633
 -- Panama    1801    46    13
 -- Peru    1746    73    914
 -- Greece    1673    70    78
--- Serbia    1624    44    54
 -- South Africa    1585    9    95
 -- Dominican Republic    1578    77    17
 -- United Arab Emirates    1505    10    125
