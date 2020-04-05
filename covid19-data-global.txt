@@ -1885,7 +1885,7 @@
 ------ Colfax(31037)    1    0    0
 ------ Merrick(31121)    2    0    0
 ------ Cherry(31031)    1    0    0
----- NM    543    11    26
+---- NM    582    11    26
 ------ Bernalillo(35001)    225    7    0
 ------ Santa Fe(35049)    58    0    0
 ------ Sandoval(35043)    69    2    0
@@ -3058,7 +3058,7 @@
 -- Netherlands    16727    1656    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    14018    234    2595
+-- Canada    14022    234    2595
 ---- British Columbia    1203    38    183
 ---- Ontario    3630    94    8
 ---- Alberta    1181    20    0
