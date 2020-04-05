@@ -1,5 +1,5 @@
--- United States of America    311446    8495    14786
----- NY    113833    3565    10953
+-- United States of America    311632    8498    14790
+---- NY    113841    3565    10957
 ------ Westchester(36119)    13081    67    0
 ------ Nassau(36059)    13346    95    0
 ------ Suffolk(36103)    11370    124    0
@@ -18,7 +18,7 @@
 ------ Onondaga(36067)    349    4    100
 ------ Putnam(36079)    283    7    0
 ------ Broome(36007)    65    4    5
------- Clinton(36019)    31    0    5
+------ Clinton(36019)    31    0    7
 ------ Delaware(36025)    26    1    1
 ------ Essex(36031)    7    0    0
 ------ Genesee(36037)    20    1    0
@@ -41,7 +41,7 @@
 ------ Jefferson(36045)    20    0    0
 ------ Wayne(36117)    30    0    0
 ------ Steuben(36101)    60    0    0
------- Columbia(36021)    57    2    22
+------ Columbia(36021)    61    3    22
 ------ Livingston(36051)    18    1    1
 ------ Cortland(36023)    14    0    3
 ------ Queens(36081)    2715    0    0
@@ -52,9 +52,9 @@
 ------ Oswego(36075)    28    0    75
 ------ Chemung(36015)    36    0    0
 ------ Otsego(36077)    26    1    0
------- Cayuga(36011)    7    0    1
+------ Cayuga(36011)    8    0    3
 ------ St Lawrence(36089)    52    0    0
------- Chautauqua(36013)    10    1    0
+------ Chautauqua(36013)    14    1    0
 ------ Franklin(36033)    10    0    0
 ------ Orleans(36073)    10    0    0
 ------ Cattaraugus(36009)    9    0    0
@@ -587,9 +587,9 @@
 ------ Quitman(13239)    1    0    0
 ------ Towns(13281)    1    0    0
 ------ Wayne(13305)    1    0    0
----- TX    6766    119    639
+---- TX    6819    122    639
 ------ Dallas(48113)    1105    18    2
------- Travis(48453)    430    4    0
+------ Travis(48453)    460    6    0
 ------ Harris(48201)    1284    17    0
 ------ Bexar(48029)    384    11    47
 ------ Fort Bend(48157)    268    2    14
@@ -611,13 +611,13 @@
 ------ Gregg(48183)    16    0    0
 ------ Lavaca(48285)    3    0    0
 ------ Rusk(48401)    11    0    0
------- Webb(48479)    83    5    6
+------ Webb(48479)    98    6    6
 ------ Wichita(48485)    46    0    0
 ------ Johnson(48251)    21    1    0
 ------ Comal(48091)    21    2    5
 ------ Grimes(48185)    3    0    0
 ------ Medina(48325)    6    0    0
------- Williamson(48491)    71    1    25
+------ Williamson(48491)    76    1    25
 ------ Fannin(48147)    2    0    0
 ------ Jefferson(48245)    40    1    0
 ------ Cameron(48061)    62    0    0
@@ -639,7 +639,7 @@
 ------ Guadalupe(48187)    26    0    0
 ------ Fayette(48149)    10    0    0
 ------ Deaf Smith(48117)    3    0    0
------- Nueces(48355)    47    0    0
+------ Nueces(48355)    50    0    0
 ------ Upshur(48459)    3    0    0
 ------ Wharton(48481)    9    0    0
 ------ Hidalgo(48215)    86    0    0
@@ -1597,7 +1597,7 @@
 ------ Aroostook(23003)    1    0    0
 ------ Washington(23029)    1    0    0
 ---- DC    902    21    235
------- District of Columbia(11001)    902    21    173
+------ District of Columbia(11001)    902    21    235
 ---- IN    3953    116    0
 ------ Marion(18097)    1570    34    0
 ------ Hendricks(18063)    163    4    0
@@ -1908,7 +1908,7 @@
 ------ Catron(35003)    1    0    0
 ------ Lincoln(35027)    1    0    0
 ------ Los Alamos(35028)    1    0    0
----- RI    806    17    0
+---- RI    809    17    0
 ------ Providence(44007)    418    3    0
 ------ Washington(44009)    46    0    0
 ------ Newport(44005)    33    0    0
@@ -1916,7 +1916,7 @@
 ------ Kent(44003)    59    0    0
 ---- AR    743    14    79
 ------ Jefferson(05069)    53    0    0
------- Pulaski(05119)    139    6    0
+------ Pulaski(05119)    139    6    3
 ------ Cleburne(05023)    65    3    0
 ------ Cleveland(05025)    5    0    0
 ------ Desha(05041)    4    0    0
@@ -2286,30 +2286,30 @@
 ------ Kahoolawe in Maui(15009)    38    0    0
 ---- SD    212    2    76
 ------ Minnehaha(46099)    81    0    15
------- Beadle(46005)    21    1    17
+------ Beadle(46005)    21    1    18
 ------ Bon Homme(46009)    1    0    1
 ------ Charles Mix(46023)    2    0    1
 ------ Davison(46035)    3    0    2
 ------ Pennington(46103)    6    1    1
 ------ McCook(46087)    2    0    1
------- Brown(46013)    9    0    4
+------ Brown(46013)    9    0    5
 ------ Codington(46029)    9    0    3
 ------ Hughes(46065)    3    0    2
 ------ Lyman(46085)    1    0    1
 ------ Brookings(46011)    3    0    2
------- Lincoln(46083)    21    0    3
+------ Lincoln(46083)    21    0    4
 ------ Meade(46093)    2    0    1
 ------ Aurora(46003)    1    0    1
 ------ Faulk(46049)    1    0    1
------- Lawrence(46081)    9    0    3
+------ Lawrence(46081)    9    0    4
 ------ Union(46127)    3    0    1
 ------ Todd(46121)    1    0    0
 ------ Deuel(46039)    1    0    0
 ------ Hamlin(46057)    1    0    0
 ------ Hutchinson(46067)    2    0    2
------- Yankton(46135)    14    0    2
+------ Yankton(46135)    14    0    4
 ------ Roberts(46109)    4    0    0
------- Turner(46125)    3    0    0
+------ Turner(46125)    3    0    1
 ------ Clark(46025)    1    0    1
 ------ Clay(46027)    3    0    2
 ------ Fall River(46047)    1    0    1
@@ -2468,7 +2468,7 @@
 ------ Pendleton(54071)    1    0    0
 ------ Mineral(54057)    2    0    0
 ---- GU    93    4    20
------- Guam(66010)    84    4    14
+------ Guam(66010)    93    4    20
 ---- PR    452    18    0
 ---- VI    40    0    34
 ---- MP    8    1    0
@@ -3041,14 +3041,14 @@
 ---- North Khorasan    165    0    0
 ---- Kohgiluyeh and Boyer-Ahmad    73    0    0
 ---- Bushehr    55    0    0
--- United Kingdom of Great Britain and Northern Ireland    42477    4320    215
+-- United Kingdom of Great Britain and Northern Ireland    42479    4320    215
 ---- UK    456    8    18
 ---- Channel Islands    6    0    0
 ---- Gibraltar    3    0    1
----- England    31797    3302    0
----- Northern Ireland    904    36    0
----- Wales    2466    141    0
----- Scotland    3001    126    0
+---- England    34707    3939    0
+---- Northern Ireland    998    48    0
+---- Wales    2853    154    0
+---- Scotland    3345    172    0
 ---- United Kingdom    1950    55    52
 ---- Cayman Islands    1    1    0
 -- Turkey    23934    501    786
@@ -3057,16 +3057,16 @@
 -- Netherlands    16727    1656    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    13987    234    2595
+-- Canada    14018    234    2595
 ---- British Columbia    1203    38    183
 ---- Ontario    3630    94    8
----- Alberta    1075    18    0
----- Quebec    6101    61    0
----- New Brunswick    95    0    0
----- Manitoba    182    2    0
----- Saskatchewan    220    3    0
+---- Alberta    1181    20    0
+---- Quebec    6997    75    0
+---- New Brunswick    98    0    0
+---- Manitoba    194    2    0
+---- Saskatchewan    231    3    0
 ---- Prince Edward Island    22    0    0
----- Newfoundland and Labrador    195    1    0
+---- Newfoundland and Labrador    203    1    0
 ---- Nova Scotia    236    0    0
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
@@ -3074,29 +3074,28 @@
 -- Austria    11781    186    2507
 -- Portugal    10524    266    75
 -- Brazil    10360    445    127
--- Korea, Republic of    10156    177    6325
+-- Korea, Republic of    10237    183    6463
 ---- Busan    122    3    90
----- Chungcheongbuk-do    45    0    27
+---- Chungcheongbuk-do    45    0    28
 ---- Chungcheongnam-do    135    0    102
----- Daegu    6761    122    4673
----- Daejeon    36    0    18
----- Gangwon-do    42    1    23
----- Gwangju    26    0    15
----- Gyeonggi-do    562    6    200
----- Gyeongsangbuk-do    1310    44    881
----- Gyeongsangnam-do    108    0    74
----- Incheon    77    0    22
----- Jeju-do    9    0    4
----- Jeollabuk-do    15    0    7
+---- Daegu    6768    127    4773
+---- Daejeon    37    0    18
+---- Gangwon-do    45    1    24
+---- Gwangju    27    0    15
+---- Gyeonggi-do    572    7    208
+---- Gyeongsangbuk-do    1314    44    899
+---- Gyeongsangnam-do    109    0    77
+---- Incheon    79    0    25
+---- Jeju-do    12    0    4
+---- Jeollabuk-do    16    0    7
 ---- Jeollanam-do    15    0    4
 ---- Sejong    46    0    15
----- Seoul    528    0    144
----- Ulsan    40    1    24
+---- Seoul    552    0    145
+---- Ulsan    40    1    27
 ---- 未确定地区    242    3    1
 -- Israel    8385    44    427
 -- Sweden    6443    373    205
--- Norway    5550    62    32
--- Australia    5550    30    701
+-- Australia    5635    30    701
 ---- New South Wales    2493    12    4
 ---- Victoria    1115    8    527
 ---- Queensland    900    4    8
@@ -3105,6 +3104,7 @@
 ---- Tasmania    80    2    5
 ---- Northern Territory    26    0    1
 ---- Australian Capital Territory    93    2    18
+-- Norway    5550    62    32
 -- Russian Federation    4731    43    333
 -- Ireland    4604    137    25
 -- Czechia    4472    59    78
