@@ -1,8 +1,8 @@
--- United States of America    336899    9607    17534
+-- United States of America    337083    9631    17540
 ---- NY    123160    4161    12977
 ------ Westchester(36119)    13723    67    0
 ------ Nassau(36059)    14398    162    206
------- Suffolk(36103)    13129    175    0
+------ Suffolk(36103)    13129    175    107
 ------ Albany(36001)    305    8    0
 ------ Rockland(36087)    5326    69    0
 ------ Dutchess(36027)    1077    8    53
@@ -40,7 +40,7 @@
 ------ Fulton(36035)    9    0    0
 ------ Jefferson(36045)    26    0    0
 ------ Wayne(36117)    32    0    0
------- Steuben(36101)    73    1    0
+------ Steuben(36101)    73    1    12
 ------ Columbia(36021)    69    3    25
 ------ Livingston(36051)    24    1    5
 ------ Cortland(36023)    14    0    3
@@ -62,7 +62,7 @@
 ------ Lewis(36049)    3    0    0
 ------ Seneca(36099)    9    0    0
 ------ Yates(36123)    1    0    0
----- WA    7822    336    622
+---- WA    7825    336    624
 ------ King(53033)    3167    208    0
 ------ Snohomish(53061)    1559    67    615
 ------ Pierce(53053)    688    10    0
@@ -81,7 +81,7 @@
 ------ Columbia(53013)    1    0    1
 ------ Cowlitz(53015)    18    0    0
 ------ Grays Harbor(53027)    6    0    0
------- Klickitat(53039)    9    1    3
+------ Klickitat(53039)    11    1    3
 ------ Lewis(53041)    13    0    0
 ------ Lincoln(53043)    1    0    1
 ------ Franklin(53021)    61    1    0
@@ -313,18 +313,18 @@
 ------ Sabine(22085)    5    0    0
 ------ Concordia(22029)    10    1    0
 ------ St Helena(22091)    5    0    0
----- CO    4950    126    0
------- Denver(08031)    825    14    0
+---- CO    4950    140    0
+------ Denver(08031)    825    16    0
 ------ Eagle(08037)    339    5    0
------- Arapahoe(08005)    608    10    0
------- Jefferson(08059)    519    15    0
------- Boulder(08013)    177    2    0
+------ Arapahoe(08005)    608    13    0
+------ Jefferson(08059)    519    17    0
+------ Boulder(08013)    177    3    0
 ------ Gunnison(08051)    93    1    0
 ------ Pitkin(08097)    38    2    0
 ------ Douglas(08035)    223    3    0
------- Adams(08001)    354    9    0
------- El Paso(08041)    435    22    0
------- Weld(08123)    470    22    0
+------ Adams(08001)    354    10    0
+------ El Paso(08041)    435    25    0
+------ Weld(08123)    470    24    0
 ------ Summit(08117)    54    0    0
 ------ Larimer(08069)    153    8    0
 ------ Clear Creek(08019)    6    0    0
@@ -375,7 +375,7 @@
 ------ Kane(17089)    743    15    0
 ------ Clinton(17027)    10    0    0
 ------ Will(17197)    648    13    0
------- Champaign(17019)    55    0    16
+------ Champaign(17019)    55    0    17
 ------ Cumberland(17035)    1    0    0
 ------ Peoria(17143)    15    1    0
 ------ Whiteside(17195)    18    1    0
@@ -589,13 +589,13 @@
 ------ Towns(13281)    1    0    0
 ------ Wayne(13305)    1    0    0
 ------ Crawford(13079)    1    0    0
----- TX    7125    134    671
+---- TX    7221    137    675
 ------ Dallas(48113)    1112    18    2
------- Travis(48453)    460    6    0
+------ Travis(48453)    484    6    0
 ------ Harris(48201)    1284    17    0
 ------ Bexar(48029)    384    11    47
------- Fort Bend(48157)    268    5    14
------- Collin(48085)    268    3    91
+------ Fort Bend(48157)    280    6    14
+------ Collin(48085)    287    3    91
 ------ Tarrant(48439)    418    11    23
 ------ Smith(48423)    57    1    0
 ------ Montgomery(48339)    149    3    20
@@ -603,12 +603,12 @@
 ------ El Paso(48141)    106    0    18
 ------ Hays(48209)    54    0    13
 ------ Brazoria(48039)    144    1    20
------- Galveston(48167)    222    0    45
------- Lubbock(48303)    151    4    20
+------ Galveston(48167)    240    1    45
+------ Lubbock(48303)    154    4    20
 ------ Matagorda(48321)    41    2    0
 ------ Bowie(48037)    17    1    0
 ------ Brazos(48041)    94    6    3
------- Denton(48121)    288    6    62
+------ Denton(48121)    304    7    62
 ------ Ellis(48139)    32    2    0
 ------ Gregg(48183)    16    0    0
 ------ Lavaca(48285)    3    0    0
@@ -641,7 +641,7 @@
 ------ Guadalupe(48187)    28    0    0
 ------ Fayette(48149)    11    0    0
 ------ Deaf Smith(48117)    5    0    0
------- Nueces(48355)    50    0    0
+------ Nueces(48355)    53    0    0
 ------ Upshur(48459)    3    0    0
 ------ Wharton(48481)    9    0    0
 ------ Hidalgo(48215)    86    0    0
@@ -668,7 +668,7 @@
 ------ Hunt(48231)    8    0    0
 ------ Llano(48299)    3    0    0
 ------ Bastrop(48021)    10    0    0
------- Tom Green(48451)    20    0    0
+------ Tom Green(48451)    21    0    0
 ------ Kaufman(48257)    10    0    0
 ------ Hale(48189)    7    0    0
 ------ Cass(48067)    4    0    0
@@ -2341,10 +2341,10 @@
 ------ Kingsbury(46077)    1    0    0
 ------ Lake(46079)    1    0    0
 ------ Spink(46115)    3    0    0
----- WY    197    -1    50
+---- WY    199    -1    50
 ------ Fremont(56013)    37    0    0
 ------ Sheridan(56033)    12    0    0
------- Laramie(56021)    43    0    0
+------ Laramie(56021)    44    0    0
 ------ Park(56029)    1    0    0
 ------ Teton(56039)    39    0    0
 ------ Campbell(56005)    7    0    0
@@ -2359,7 +2359,7 @@
 ------ Converse(56009)    3    0    0
 ------ Sublette(56035)    1    0    0
 ------ Uinta(56041)    2    0    0
------- Lincoln(56023)    2    0    0
+------ Lincoln(56023)    3    0    0
 ------ Crook(56011)    1    0    0
 ---- MT    298    6    32
 ------ Missoula(30063)    21    1    0
@@ -2556,9 +2556,9 @@
 ---- Baden-Württemberg    18614    367    2894
 ---- Saxony-Anhalt    919    12    291
 ---- Saarland    1410    21    179
--- France    93755    8093    16342
+-- France    93759    8093    16342
 ---- France    7652    148    12
----- St Martin    29    2    7
+---- St Martin    32    2    7
 ---- Saint Barthelemy    6    0    1
 ---- Nord-Pas-de-Calais and Picardy    1753    7    4
 ---- Ile-de-France    7660    2    2
@@ -3081,17 +3081,17 @@
 -- Netherlands    17953    1771    262
 ---- Netherlands    1705    43    2
 ---- Curacao    3    0    0
--- Canada    15502    277    3000
+-- Canada    15531    280    3000
 ---- British Columbia    1203    38    183
 ---- Ontario    4105    119    8
 ---- Alberta    1181    20    0
----- Quebec    6997    75    0
+---- Quebec    7944    75    0
 ---- New Brunswick    98    0    0
----- Manitoba    194    2    0
+---- Manitoba    203    2    0
 ---- Saskatchewan    231    3    0
 ---- Prince Edward Island    22    0    0
----- Newfoundland and Labrador    207    1    0
----- Nova Scotia    236    0    0
+---- Newfoundland and Labrador    217    1    0
+---- Nova Scotia    262    0    0
 ---- Northwest Territories    4    0    0
 ---- Yukon    6    0    0
 ---- Nunavut    1    0    0
@@ -3202,9 +3202,9 @@
 -- Greece    1735    73    78
 -- South Africa    1655    11    95
 -- Qatar    1604    4    123
+-- Argentina    1554    44    280
 -- Iceland    1486    5    428
 -- Colombia    1485    35    88
--- Argentina    1451    44    280
 -- Algeria    1320    152    90
 -- Singapore    1309    6    320
 ---- Central Singapore Community Development Council    345    0    124
@@ -3237,7 +3237,7 @@
 -- Slovakia    485    1    10
 -- Costa Rica    454    2    16
 -- Cyprus    446    11    37
--- Uruguay    400    5    93
+-- Uruguay    406    6    104
 -- Taiwan    363    5    54
 -- Albania    361    20    104
 -- Afghanistan    349    7    15
@@ -3267,11 +3267,11 @@
 -- Congo, Democratic Republic of the    154    18    3
 -- Martinique    149    4    50
 -- Kyrgyzstan    147    1    9
+-- Mayotte    147    2    14
 -- Kosovo    145    1    23
 -- Kenya    142    4    4
+-- Guadeloupe    135    7    31
 -- Brunei Darussalam    135    1    73
--- Mayotte    134    2    14
--- Guadeloupe    134    7    24
 -- Isle of Man    127    1    0
 -- Guinea    121    0    5
 -- Cambodia    114    0    50
